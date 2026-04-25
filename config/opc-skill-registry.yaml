@@ -1,0 +1,67 @@
+source: https://opc-skills.ft07.com/
+collected: 2026-04-25
+confidence: medium
+skills:
+  - id: 00
+    name: 总编排
+    command: opc-orchestrator
+    kind: orchestrator
+    phase: orchestration
+    trigger: every_session
+    purpose: 判断当前阶段与用户模式，组织整体流程，管控阶段边界，并恢复上次进度。
+  - id: 01
+    name: 资源盘点
+    command: opc-resource-audit
+    kind: linear
+    phase: resource_audit
+    trigger: after_orchestration
+    purpose: 盘点经验、人群、能力、关系、渠道、资产、约束、硬性边界。
+  - id: 02
+    name: 利基定位
+    command: opc-niche-positioning
+    kind: linear
+    phase: niche_positioning
+    trigger: after_resource_audit
+    purpose: 用新杠杆、边界变动、资源匹配和机会评分筛选细分市场。
+  - id: 03
+    name: 价值主张
+    command: opc-value-proposition
+    kind: linear
+    phase: value_proposition
+    trigger: after_niche_positioning
+    purpose: 拆解目标客群 Jobs、Pains、Gains，形成候选价值主张。
+  - id: 04
+    name: 商业模式设计
+    command: opc-business-model-design
+    kind: linear
+    phase: business_model
+    trigger: after_value_proposition
+    purpose: 拆解 Lean Canvas，确定收费结构、收入路径和最高风险假设。
+  - id: 06
+    name: MVP 设计
+    command: opc-mvp-designer
+    kind: linear
+    phase: mvp_design
+    trigger: after_business_model
+    purpose: 确定优先验证假设、最小验证形式、成功标准和交付边界。
+  - id: 07
+    name: 转化闭环
+    command: opc-conversion-loop
+    kind: linear
+    phase: conversion_loop
+    trigger: after_mvp_design
+    purpose: 设计从触达、承接到成交的完整路径。
+  - id: 08
+    name: 资产沉淀
+    command: opc-asset-ops
+    kind: conditional
+    phase: asset_ops
+    trigger: during_operations
+    purpose: 识别运营中可沉淀的复用成果并规划资产优先级。
+  - id: 09
+    name: 经营复盘
+    command: opc-dashboard-review
+    kind: conditional
+    phase: dashboard_review
+    trigger: blocked_or_periodic_review
+    purpose: 判断真实瓶颈，确认下一周期唯一优先重点。

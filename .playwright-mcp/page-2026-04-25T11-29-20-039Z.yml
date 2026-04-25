@@ -1,0 +1,182 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - region
+    - generic [ref=e3]:
+      - link "Skip to content" [ref=e4] [cursor=pointer]:
+        - /url: "#start-of-content"
+      - banner [ref=e6]:
+        - heading "Navigation Menu" [level=2] [ref=e7]
+        - generic [ref=e9]:
+          - button "Toggle navigation" [ref=e11] [cursor=pointer]
+          - link "Homepage" [ref=e17] [cursor=pointer]:
+            - /url: /
+            - img [ref=e18]
+          - generic [ref=e20]:
+            - link "Sign in" [ref=e21] [cursor=pointer]:
+              - /url: /login?return_to=https%3A%2F%2Fgithub.com%2Feasychen%2Fopc-methodology%2Ftree%2Fmaster%2Fskills%2Fopc-orchestrator
+            - button "Appearance settings" [ref=e24] [cursor=pointer]:
+              - img
+    - main [ref=e28]:
+      - generic [ref=e29]:
+        - generic [ref=e30]:
+          - generic [ref=e32]:
+            - img [ref=e33]
+            - link "easychen" [ref=e36] [cursor=pointer]:
+              - /url: /easychen
+            - generic [ref=e37]: /
+            - strong [ref=e38]:
+              - link "opc-methodology" [ref=e39] [cursor=pointer]:
+                - /url: /easychen/opc-methodology
+            - generic [ref=e40]: Public
+          - generic [ref=e41]:
+            - list:
+              - listitem [ref=e42]:
+                - link "You must be signed in to change notification settings" [ref=e43] [cursor=pointer]:
+                  - /url: /login?return_to=%2Feasychen%2Fopc-methodology
+                  - img [ref=e44]
+                  - text: Notifications
+              - listitem [ref=e46]:
+                - link "Fork 1.7k" [ref=e47] [cursor=pointer]:
+                  - /url: /login?return_to=%2Feasychen%2Fopc-methodology
+                  - img [ref=e48]
+                  - text: Fork
+                  - generic "1,729" [ref=e50]: 1.7k
+              - listitem [ref=e51]:
+                - link "You must be signed in to star a repository" [ref=e53] [cursor=pointer]:
+                  - /url: /login?return_to=%2Feasychen%2Fopc-methodology
+                  - img [ref=e54]
+                  - text: Star
+                  - generic "15098 users starred this repository" [ref=e56]: 15.1k
+        - navigation "Repository" [ref=e57]:
+          - list [ref=e58]:
+            - listitem [ref=e59]:
+              - link "Code" [ref=e60] [cursor=pointer]:
+                - /url: /easychen/opc-methodology
+                - img [ref=e61]
+                - generic [ref=e63]: Code
+            - listitem [ref=e64]:
+              - link "Issues 4" [ref=e65] [cursor=pointer]:
+                - /url: /easychen/opc-methodology/issues
+                - img [ref=e66]
+                - generic [ref=e69]: Issues
+                - generic "4" [ref=e70]
+            - listitem [ref=e71]:
+              - link "Pull requests" [ref=e72] [cursor=pointer]:
+                - /url: /easychen/opc-methodology/pulls
+                - img [ref=e73]
+                - generic [ref=e75]: Pull requests
+            - listitem [ref=e76]:
+              - link "Actions" [ref=e77] [cursor=pointer]:
+                - /url: /easychen/opc-methodology/actions
+                - img [ref=e78]
+                - generic [ref=e80]: Actions
+            - listitem [ref=e81]:
+              - link "Projects" [ref=e82] [cursor=pointer]:
+                - /url: /easychen/opc-methodology/projects
+                - img [ref=e83]
+                - generic [ref=e85]: Projects
+            - listitem [ref=e86]:
+              - link "Security and quality" [ref=e87] [cursor=pointer]:
+                - /url: /easychen/opc-methodology/security
+                - img [ref=e88]
+                - generic [ref=e90]: Security and quality
+            - listitem [ref=e91]:
+              - link "Insights" [ref=e92] [cursor=pointer]:
+                - /url: /easychen/opc-methodology/pulse
+                - img [ref=e93]
+                - generic [ref=e95]: Insights
+      - generic [ref=e106]:
+        - generic [ref=e110]:
+          - generic [ref=e111]:
+            - heading "Expand file tree" [level=2] [ref=e113]:
+              - button "Expand file tree" [ref=e114] [cursor=pointer]:
+                - img [ref=e115]
+            - button "master branch" [ref=e119] [cursor=pointer]:
+              - generic [ref=e120]:
+                - generic [ref=e122]:
+                  - img [ref=e124]
+                  - generic [ref=e127]: master
+                - generic:
+                  - img
+            - generic [ref=e129]:
+              - navigation "Breadcrumbs" [ref=e130]:
+                - heading "Breadcrumbs" [level=2] [ref=e131]
+                - list [ref=e132]:
+                  - listitem [ref=e133]:
+                    - link "opc-methodology" [ref=e134] [cursor=pointer]:
+                      - /url: /easychen/opc-methodology/tree/master
+                  - listitem [ref=e135]:
+                    - text: /
+                    - link "skills" [ref=e136] [cursor=pointer]:
+                      - /url: /easychen/opc-methodology/tree/master/skills
+              - generic [ref=e137]:
+                - text: /
+                - heading "opc-orchestrator" [level=1] [ref=e138]
+                - text: /
+              - button "Copy path" [ref=e139] [cursor=pointer]:
+                - img [ref=e140]
+          - generic [ref=e145]:
+            - heading "Directory actions" [level=2] [ref=e146]
+            - generic [ref=e149]:
+              - img [ref=e151]
+              - combobox "Go to file" [ref=e153]
+            - heading "More options" [level=2] [ref=e154]
+            - button "More options" [ref=e155] [cursor=pointer]:
+              - img [ref=e156]
+        - generic [ref=e158]:
+          - generic [ref=e160]:
+            - heading "Latest commit" [level=2] [ref=e161]
+            - generic [ref=e164]:
+              - heading "History" [level=2] [ref=e165]
+              - link "View commit history for this file." [ref=e167] [cursor=pointer]:
+                - /url: /easychen/opc-methodology/commits/master/skills/opc-orchestrator
+                - generic [ref=e168]:
+                  - generic:
+                    - img
+          - generic [ref=e170]:
+            - heading "Folders and files" [level=2] [ref=e171]
+            - table "Folders and files" [ref=e172]:
+              - rowgroup [ref=e173]:
+                - row "Name Last commit message Last commit date" [ref=e174]:
+                  - columnheader "Name" [ref=e175]
+                  - columnheader "Last commit message" [ref=e176]:
+                    - generic "Last commit message" [ref=e177]
+                  - columnheader "Last commit date" [ref=e178]:
+                    - generic "Last commit date" [ref=e179]
+              - rowgroup [ref=e180]:
+                - row "parent directory Parent directory" [ref=e181]:
+                  - cell "parent directory Parent directory" [ref=e182]:
+                    - heading "parent directory" [level=3] [ref=e183]
+                    - link "Parent directory" [ref=e184] [cursor=pointer]:
+                      - /url: /easychen/opc-methodology/tree/master/skills
+                      - generic [ref=e185]:
+                        - img [ref=e186]
+                        - text: ..
+                - row "agents, (Directory)" [ref=e188]:
+                  - cell "agents, (Directory)" [ref=e189]:
+                    - generic [ref=e190]:
+                      - img [ref=e191]
+                      - link "agents, (Directory)" [ref=e196] [cursor=pointer]:
+                        - /url: /easychen/opc-methodology/tree/master/skills/opc-orchestrator/agents
+                        - text: agents
+                  - cell [ref=e197]
+                  - cell [ref=e199]
+                - row "references, (Directory)" [ref=e202]:
+                  - cell "references, (Directory)" [ref=e203]:
+                    - generic [ref=e204]:
+                      - img [ref=e205]
+                      - link "references, (Directory)" [ref=e210] [cursor=pointer]:
+                        - /url: /easychen/opc-methodology/tree/master/skills/opc-orchestrator/references
+                        - text: references
+                  - cell [ref=e211]
+                  - cell [ref=e213]
+                - row "SKILL.md, (File)" [ref=e216]:
+                  - cell "SKILL.md, (File)" [ref=e217]:
+                    - generic [ref=e218]:
+                      - img [ref=e219]
+                      - link "SKILL.md, (File)" [ref=e224] [cursor=pointer]:
+                        - /url: /easychen/opc-methodology/blob/master/skills/opc-orchestrator/SKILL.md
+                        - text: SKILL.md
+                  - cell [ref=e225]
+                  - cell [ref=e227]
+  - alert [ref=e233]
