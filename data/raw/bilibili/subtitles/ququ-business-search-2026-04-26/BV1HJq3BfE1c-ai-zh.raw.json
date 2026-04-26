@@ -1,0 +1,244 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.04,
+      "to": 2.08,
+      "sid": 1,
+      "location": 2,
+      "content": "什么叫做一边捍卫自己的价值",
+      "music": 0.0
+    },
+    {
+      "from": 2.08,
+      "to": 3.719,
+      "sid": 2,
+      "location": 2,
+      "content": "一边能够把一个关系经营明白",
+      "music": 0.0
+    },
+    {
+      "from": 3.719,
+      "to": 5.639,
+      "sid": 3,
+      "location": 2,
+      "content": "你说要谁不想要呢",
+      "music": 0.0
+    },
+    {
+      "from": 5.639,
+      "to": 6.439,
+      "sid": 4,
+      "location": 2,
+      "content": "都是既要又要",
+      "music": 0.0
+    },
+    {
+      "from": 6.439,
+      "to": 7.639,
+      "sid": 5,
+      "location": 2,
+      "content": "我如果能给你一个选择",
+      "music": 0.0
+    },
+    {
+      "from": 7.639,
+      "to": 8.559,
+      "sid": 6,
+      "location": 2,
+      "content": "让你有既要又要的",
+      "music": 0.0
+    },
+    {
+      "from": 8.559,
+      "to": 10.08,
+      "sid": 7,
+      "location": 2,
+      "content": "可能你不既要又要",
+      "music": 0.0
+    },
+    {
+      "from": 10.08,
+      "to": 11.84,
+      "sid": 8,
+      "location": 2,
+      "content": "我就想要一个男人",
+      "music": 0.0
+    },
+    {
+      "from": 11.84,
+      "to": 12.48,
+      "sid": 9,
+      "location": 2,
+      "content": "又有钱",
+      "music": 0.0
+    },
+    {
+      "from": 12.48,
+      "to": 13.12,
+      "sid": 10,
+      "location": 2,
+      "content": "长得又帅",
+      "music": 0.0
+    },
+    {
+      "from": 13.12,
+      "to": 13.96,
+      "sid": 11,
+      "location": 2,
+      "content": "对我又忠诚",
+      "music": 0.0
+    },
+    {
+      "from": 13.96,
+      "to": 14.92,
+      "sid": 12,
+      "location": 2,
+      "content": "还能做家务",
+      "music": 0.0
+    },
+    {
+      "from": 14.92,
+      "to": 16.9,
+      "sid": 13,
+      "location": 2,
+      "content": "我就想要你要呗",
+      "music": 0.0
+    },
+    {
+      "from": 16.9,
+      "to": 18.12,
+      "sid": 14,
+      "location": 2,
+      "content": "你要还有人给呀",
+      "music": 0.0
+    },
+    {
+      "from": 18.12,
+      "to": 20.28,
+      "sid": 15,
+      "location": 2,
+      "content": "你要我还要这个世界上存在这个生物啊",
+      "music": 0.0
+    },
+    {
+      "from": 20.28,
+      "to": 21.58,
+      "sid": 16,
+      "location": 2,
+      "content": "你要还别人看得上你啊",
+      "music": 0.0
+    },
+    {
+      "from": 21.58,
+      "to": 23.96,
+      "sid": 17,
+      "location": 2,
+      "content": "你要药总归是都能要的",
+      "music": 0.0
+    },
+    {
+      "from": 23.96,
+      "to": 26.04,
+      "sid": 18,
+      "location": 2,
+      "content": "但是不是说他要所有的东西",
+      "music": 0.0
+    },
+    {
+      "from": 26.04,
+      "to": 31.53,
+      "sid": 19,
+      "location": 2,
+      "content": "你都应该给他要的部分里分利益相关和无所谓",
+      "music": 0.0
+    },
+    {
+      "from": 31.53,
+      "to": 33.39,
+      "sid": 20,
+      "location": 2,
+      "content": "所以甚至于又告诉大家",
+      "music": 0.0
+    },
+    {
+      "from": 33.39,
+      "to": 34.71,
+      "sid": 21,
+      "location": 2,
+      "content": "就是我我也会教你们",
+      "music": 0.0
+    },
+    {
+      "from": 34.71,
+      "to": 37.659,
+      "sid": 22,
+      "location": 2,
+      "content": "就不要老是在嘴巴上面想要去占便宜",
+      "music": 0.0
+    },
+    {
+      "from": 37.659,
+      "to": 38.499,
+      "sid": 23,
+      "location": 2,
+      "content": "也是这个道理",
+      "music": 0.0
+    },
+    {
+      "from": 38.499,
+      "to": 39.89,
+      "sid": 24,
+      "location": 2,
+      "content": "嘴巴上为什么要争个赢",
+      "music": 0.0
+    },
+    {
+      "from": 39.89,
+      "to": 42.03,
+      "sid": 25,
+      "location": 2,
+      "content": "我在嘴巴上跟你争的这个赢",
+      "music": 0.0
+    },
+    {
+      "from": 42.03,
+      "to": 44.23,
+      "sid": 26,
+      "location": 2,
+      "content": "涉不涉及到我当下就能多挣一分钱",
+      "music": 0.0
+    },
+    {
+      "from": 44.23,
+      "to": 46.41,
+      "sid": 27,
+      "location": 2,
+      "content": "但凡是跟我当下我也不能拿奖",
+      "music": 0.0
+    },
+    {
+      "from": 46.41,
+      "to": 47.27,
+      "sid": 28,
+      "location": 2,
+      "content": "我也不能挣钱",
+      "music": 0.0
+    },
+    {
+      "from": 47.27,
+      "to": 48.94,
+      "sid": 29,
+      "location": 2,
+      "content": "我没有必要去争这个赢",
+      "music": 0.0
+    }
+  ]
+}

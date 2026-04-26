@@ -1,0 +1,1100 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.0,
+      "to": 2.0,
+      "sid": 1,
+      "location": 2,
+      "content": "很多人觉得自己赚不到钱是因为没背景",
+      "music": 0.0
+    },
+    {
+      "from": 2.0,
+      "to": 2.44,
+      "sid": 2,
+      "location": 2,
+      "content": "没人脉",
+      "music": 0.0
+    },
+    {
+      "from": 2.44,
+      "to": 2.88,
+      "sid": 3,
+      "location": 2,
+      "content": "没资源",
+      "music": 0.0
+    },
+    {
+      "from": 2.88,
+      "to": 4.4,
+      "sid": 4,
+      "location": 2,
+      "content": "但李亚鹏认识半个娱乐圈的人",
+      "music": 0.0
+    },
+    {
+      "from": 4.4,
+      "to": 5.24,
+      "sid": 5,
+      "location": 2,
+      "content": "照样亏了几个",
+      "music": 0.0
+    },
+    {
+      "from": 5.24,
+      "to": 7.64,
+      "sid": 6,
+      "location": 2,
+      "content": "以丽江雪山艺术小镇投资35个亿",
+      "music": 0.0
+    },
+    {
+      "from": 7.64,
+      "to": 8.8,
+      "sid": 7,
+      "location": 2,
+      "content": "最后贱卖股权的时候",
+      "music": 0.0
+    },
+    {
+      "from": 8.8,
+      "to": 10.1,
+      "sid": 8,
+      "location": 2,
+      "content": "让李亚鹏负债4000万",
+      "music": 0.0
+    },
+    {
+      "from": 10.1,
+      "to": 12.1,
+      "sid": 9,
+      "location": 2,
+      "content": "一方面我们看见但凡提到这个项目",
+      "music": 0.0
+    },
+    {
+      "from": 12.1,
+      "to": 14.26,
+      "sid": 10,
+      "location": 2,
+      "content": "我们都把它描述成是李亚鹏的商业黑历史",
+      "music": 0.0
+    },
+    {
+      "from": 14.26,
+      "to": 15.1,
+      "sid": 11,
+      "location": 2,
+      "content": "但是另外一方面",
+      "music": 0.0
+    },
+    {
+      "from": 15.1,
+      "to": 15.78,
+      "sid": 12,
+      "location": 2,
+      "content": "我们也要看见",
+      "music": 0.0
+    },
+    {
+      "from": 15.78,
+      "to": 16.9,
+      "sid": 13,
+      "location": 2,
+      "content": "在这个项目开盘的时候",
+      "music": 0.0
+    },
+    {
+      "from": 16.9,
+      "to": 18.7,
+      "sid": 14,
+      "location": 2,
+      "content": "有多少明星给他捧场买房",
+      "music": 0.0
+    },
+    {
+      "from": 18.7,
+      "to": 20.46,
+      "sid": 15,
+      "location": 2,
+      "content": "所以无论是在娱乐圈还是在商界",
+      "music": 0.0
+    },
+    {
+      "from": 20.46,
+      "to": 22.02,
+      "sid": 16,
+      "location": 2,
+      "content": "他的人脉资源都是非常好的",
+      "music": 0.0
+    },
+    {
+      "from": 22.02,
+      "to": 23.54,
+      "sid": 17,
+      "location": 2,
+      "content": "而反常识的一点就在于",
+      "music": 0.0
+    },
+    {
+      "from": 23.54,
+      "to": 24.5,
+      "sid": 18,
+      "location": 2,
+      "content": "其实说是反常识",
+      "music": 0.0
+    },
+    {
+      "from": 24.5,
+      "to": 26.26,
+      "sid": 19,
+      "location": 2,
+      "content": "这恰恰是商业最最基本的常识",
+      "music": 0.0
+    },
+    {
+      "from": 26.26,
+      "to": 27.46,
+      "sid": 20,
+      "location": 2,
+      "content": "就是你能不能赚到钱",
+      "music": 0.0
+    },
+    {
+      "from": 27.46,
+      "to": 29.14,
+      "sid": 21,
+      "location": 2,
+      "content": "最终只取决于两件事情",
+      "music": 0.0
+    },
+    {
+      "from": 29.14,
+      "to": 29.86,
+      "sid": 22,
+      "location": 2,
+      "content": "一个叫执行力",
+      "music": 0.0
+    },
+    {
+      "from": 29.86,
+      "to": 30.74,
+      "sid": 23,
+      "location": 2,
+      "content": "一个叫商业模式",
+      "music": 0.0
+    },
+    {
+      "from": 30.74,
+      "to": 31.38,
+      "sid": 24,
+      "location": 2,
+      "content": "你的资源",
+      "music": 0.0
+    },
+    {
+      "from": 31.38,
+      "to": 31.94,
+      "sid": 25,
+      "location": 2,
+      "content": "你的人脉",
+      "music": 0.0
+    },
+    {
+      "from": 31.94,
+      "to": 32.46,
+      "sid": 26,
+      "location": 2,
+      "content": "你的名气",
+      "music": 0.0
+    },
+    {
+      "from": 32.46,
+      "to": 33.02,
+      "sid": 27,
+      "location": 2,
+      "content": "你的智商",
+      "music": 0.0
+    },
+    {
+      "from": 33.02,
+      "to": 33.82,
+      "sid": 28,
+      "location": 2,
+      "content": "情商等等等等",
+      "music": 0.0
+    },
+    {
+      "from": 33.82,
+      "to": 35.14,
+      "sid": 29,
+      "location": 2,
+      "content": "这些都能帮助到你",
+      "music": 0.0
+    },
+    {
+      "from": 35.14,
+      "to": 37.06,
+      "sid": 30,
+      "location": 2,
+      "content": "但是这些都不是决定性的因素",
+      "music": 0.0
+    },
+    {
+      "from": 37.06,
+      "to": 38.98,
+      "sid": 31,
+      "location": 2,
+      "content": "决定性的因素就是商业模式",
+      "music": 0.0
+    },
+    {
+      "from": 38.98,
+      "to": 40.5,
+      "sid": 32,
+      "location": 2,
+      "content": "可是商业模式是啥呢",
+      "music": 0.0
+    },
+    {
+      "from": 40.5,
+      "to": 42.04,
+      "sid": 33,
+      "location": 2,
+      "content": "据网上明确可查的战绩啊",
+      "music": 0.0
+    },
+    {
+      "from": 42.04,
+      "to": 43.56,
+      "sid": 34,
+      "location": 2,
+      "content": "这是16年新京报的专访说",
+      "music": 0.0
+    },
+    {
+      "from": 43.56,
+      "to": 45.68,
+      "sid": 35,
+      "location": 2,
+      "content": "李亚鹏在93年上大三的时候",
+      "music": 0.0
+    },
+    {
+      "from": 45.68,
+      "to": 46.66,
+      "sid": 36,
+      "location": 2,
+      "content": "借了3000块钱",
+      "music": 0.0
+    },
+    {
+      "from": 46.66,
+      "to": 49.06,
+      "sid": 37,
+      "location": 2,
+      "content": "敲了80多家公司的门去拉赞助",
+      "music": 0.0
+    },
+    {
+      "from": 49.06,
+      "to": 50.78,
+      "sid": 38,
+      "location": 2,
+      "content": "成功的在乌鲁木齐办了一场演唱会",
+      "music": 0.0
+    },
+    {
+      "from": 50.78,
+      "to": 52.02,
+      "sid": 39,
+      "location": 2,
+      "content": "卖了14万张门票",
+      "music": 0.0
+    },
+    {
+      "from": 52.02,
+      "to": 52.9,
+      "sid": 40,
+      "location": 2,
+      "content": "赚了4万块钱",
+      "music": 0.0
+    },
+    {
+      "from": 52.9,
+      "to": 54.82,
+      "sid": 41,
+      "location": 2,
+      "content": "无论是考虑到当时的那个年代",
+      "music": 0.0
+    },
+    {
+      "from": 54.82,
+      "to": 55.78,
+      "sid": 42,
+      "location": 2,
+      "content": "还是他当时的年纪",
+      "music": 0.0
+    },
+    {
+      "from": 55.78,
+      "to": 57.1,
+      "sid": 43,
+      "location": 2,
+      "content": "4万块钱都是一笔巨款",
+      "music": 0.0
+    },
+    {
+      "from": 57.1,
+      "to": 58.38,
+      "sid": 44,
+      "location": 2,
+      "content": "结果他拿到了4万块钱之后",
+      "music": 0.0
+    },
+    {
+      "from": 58.38,
+      "to": 60.58,
+      "sid": 45,
+      "location": 2,
+      "content": "除了留下自己飞回北京的机票钱以外",
+      "music": 0.0
+    },
+    {
+      "from": 60.58,
+      "to": 62.34,
+      "sid": 46,
+      "location": 2,
+      "content": "拿着剩下的钱全部印了",
+      "music": 0.0
+    },
+    {
+      "from": 62.34,
+      "to": 63.9,
+      "sid": 47,
+      "location": 2,
+      "content": "摇滚文化的海报和文化山",
+      "music": 0.0
+    },
+    {
+      "from": 63.9,
+      "to": 66.3,
+      "sid": 48,
+      "location": 2,
+      "content": "在乌鲁木齐大街上直接全部免费发光了",
+      "music": 0.0
+    },
+    {
+      "from": 66.3,
+      "to": 67.58,
+      "sid": 49,
+      "location": 2,
+      "content": "然后他自己的原话是",
+      "music": 0.0
+    },
+    {
+      "from": 67.58,
+      "to": 70.78,
+      "sid": 50,
+      "location": 2,
+      "content": "让这座西北城市感受到摇滚音乐的文化气息",
+      "music": 0.0
+    },
+    {
+      "from": 70.78,
+      "to": 73.16,
+      "sid": 51,
+      "location": 2,
+      "content": "比自己手上握着4万块钱更加有成就感",
+      "music": 0.0
+    },
+    {
+      "from": 73.16,
+      "to": 75.08,
+      "sid": 52,
+      "location": 2,
+      "content": "然后你就不难想象这样的一个人",
+      "music": 0.0
+    },
+    {
+      "from": 75.08,
+      "to": 76.56,
+      "sid": 53,
+      "location": 2,
+      "content": "接下来会干出一些什么事来",
+      "music": 0.0
+    },
+    {
+      "from": 76.56,
+      "to": 77.64,
+      "sid": 54,
+      "location": 2,
+      "content": "早在1999年",
+      "music": 0.0
+    },
+    {
+      "from": 77.64,
+      "to": 78.84,
+      "sid": 55,
+      "location": 2,
+      "content": "人家就做过互联网站了",
+      "music": 0.0
+    },
+    {
+      "from": 78.84,
+      "to": 79.48,
+      "sid": 56,
+      "location": 2,
+      "content": "几个月之后",
+      "music": 0.0
+    },
+    {
+      "from": 79.48,
+      "to": 80.98,
+      "sid": 57,
+      "location": 2,
+      "content": "互联网泡沫赔了50万",
+      "music": 0.0
+    },
+    {
+      "from": 80.98,
+      "to": 81.66,
+      "sid": 58,
+      "location": 2,
+      "content": "千年的时候",
+      "music": 0.0
+    },
+    {
+      "from": 81.66,
+      "to": 84.06,
+      "sid": 59,
+      "location": 2,
+      "content": "投资影视剧只有一个叫将爱情进行到底",
+      "music": 0.0
+    },
+    {
+      "from": 84.06,
+      "to": 85.5,
+      "sid": 60,
+      "location": 2,
+      "content": "那个电影版据说是回本了",
+      "music": 0.0
+    },
+    {
+      "from": 85.5,
+      "to": 86.34,
+      "sid": 61,
+      "location": 2,
+      "content": "其他的全赔",
+      "music": 0.0
+    },
+    {
+      "from": 86.34,
+      "to": 87.82,
+      "sid": 62,
+      "location": 2,
+      "content": "然后从193年到24年",
+      "music": 0.0
+    },
+    {
+      "from": 87.82,
+      "to": 89.7,
+      "sid": 63,
+      "location": 2,
+      "content": "这30多年的期间我都数不过来",
+      "music": 0.0
+    },
+    {
+      "from": 89.7,
+      "to": 90.94,
+      "sid": 64,
+      "location": 2,
+      "content": "我让AI给我统计了一下",
+      "music": 0.0
+    },
+    {
+      "from": 90.94,
+      "to": 92.74,
+      "sid": 65,
+      "location": 2,
+      "content": "据说是大概干黄了14个项目",
+      "music": 0.0
+    },
+    {
+      "from": 92.74,
+      "to": 93.54,
+      "sid": 66,
+      "location": 2,
+      "content": "你就惊奇的发现",
+      "music": 0.0
+    },
+    {
+      "from": 93.54,
+      "to": 95.22,
+      "sid": 67,
+      "location": 2,
+      "content": "他这一路走来没有缺过人脉",
+      "music": 0.0
+    },
+    {
+      "from": 95.22,
+      "to": 96.06,
+      "sid": 68,
+      "location": 2,
+      "content": "没有缺过资金",
+      "music": 0.0
+    },
+    {
+      "from": 96.06,
+      "to": 97.9,
+      "sid": 69,
+      "location": 2,
+      "content": "也没有缺过好的创业时机",
+      "music": 0.0
+    },
+    {
+      "from": 97.9,
+      "to": 99.42,
+      "sid": 70,
+      "location": 2,
+      "content": "但就是没有正确的商业模式",
+      "music": 0.0
+    },
+    {
+      "from": 99.42,
+      "to": 101.42,
+      "sid": 71,
+      "location": 2,
+      "content": "那这样的特质换到慈善领域",
+      "music": 0.0
+    },
+    {
+      "from": 101.42,
+      "to": 102.86,
+      "sid": 72,
+      "location": 2,
+      "content": "那几乎就是天选之子",
+      "music": 0.0
+    },
+    {
+      "from": 102.86,
+      "to": 104.62,
+      "sid": 73,
+      "location": 2,
+      "content": "一个在93年的赚了4万块钱",
+      "music": 0.0
+    },
+    {
+      "from": 104.62,
+      "to": 107.06,
+      "sid": 74,
+      "location": 2,
+      "content": "然后当场为了摇滚文化全部散出去的人",
+      "music": 0.0
+    },
+    {
+      "from": 107.06,
+      "to": 109.14,
+      "sid": 75,
+      "location": 2,
+      "content": "你说他可以为了慈善坚守20年",
+      "music": 0.0
+    },
+    {
+      "from": 109.14,
+      "to": 109.94,
+      "sid": 76,
+      "location": 2,
+      "content": "筹款几个亿",
+      "music": 0.0
+    },
+    {
+      "from": 109.94,
+      "to": 111.7,
+      "sid": 77,
+      "location": 2,
+      "content": "给1万多个人做免费手术",
+      "music": 0.0
+    },
+    {
+      "from": 111.7,
+      "to": 113.7,
+      "sid": 78,
+      "location": 2,
+      "content": "这完完全符合我对这个人的认知",
+      "music": 0.0
+    },
+    {
+      "from": 113.7,
+      "to": 115.26,
+      "sid": 79,
+      "location": 2,
+      "content": "所以很多人抱怨说自己不赚钱",
+      "music": 0.0
+    },
+    {
+      "from": 115.26,
+      "to": 116.1,
+      "sid": 80,
+      "location": 2,
+      "content": "就是因为没人脉",
+      "music": 0.0
+    },
+    {
+      "from": 116.1,
+      "to": 116.46,
+      "sid": 81,
+      "location": 2,
+      "content": "没资源",
+      "music": 0.0
+    },
+    {
+      "from": 116.46,
+      "to": 116.94,
+      "sid": 82,
+      "location": 2,
+      "content": "没平台",
+      "music": 0.0
+    },
+    {
+      "from": 116.94,
+      "to": 119.26,
+      "sid": 83,
+      "location": 2,
+      "content": "但始终对商业模式四个大字闭口不谈",
+      "music": 0.0
+    },
+    {
+      "from": 119.26,
+      "to": 120.7,
+      "sid": 84,
+      "location": 2,
+      "content": "现在李亚鹏就是一个活样本",
+      "music": 0.0
+    },
+    {
+      "from": 120.7,
+      "to": 123.08,
+      "sid": 85,
+      "location": 2,
+      "content": "他这30多年来从来都不缺资源",
+      "music": 0.0
+    },
+    {
+      "from": 123.08,
+      "to": 124.08,
+      "sid": 86,
+      "location": 2,
+      "content": "从来都不缺人脉",
+      "music": 0.0
+    },
+    {
+      "from": 124.08,
+      "to": 125.24,
+      "sid": 87,
+      "location": 2,
+      "content": "但是也从来不缺失败",
+      "music": 0.0
+    },
+    {
+      "from": 125.24,
+      "to": 127.76,
+      "sid": 88,
+      "location": 2,
+      "content": "因为说服别人给你钱和说服别人买你的东西",
+      "music": 0.0
+    },
+    {
+      "from": 127.76,
+      "to": 129.44,
+      "sid": 89,
+      "location": 2,
+      "content": "是完全不同的两件事情",
+      "music": 0.0
+    },
+    {
+      "from": 129.44,
+      "to": 130.86,
+      "sid": 90,
+      "location": 2,
+      "content": "人脉可以帮你筹到钱",
+      "music": 0.0
+    },
+    {
+      "from": 130.86,
+      "to": 132.18,
+      "sid": 91,
+      "location": 2,
+      "content": "但是他不能帮你赚到钱",
+      "music": 0.0
+    },
+    {
+      "from": 132.18,
+      "to": 133.86,
+      "sid": 92,
+      "location": 2,
+      "content": "包括我作为一个在场外围观的人",
+      "music": 0.0
+    },
+    {
+      "from": 133.86,
+      "to": 135.2,
+      "sid": 93,
+      "location": 2,
+      "content": "我愿意给这个基金捐钱",
+      "music": 0.0
+    },
+    {
+      "from": 135.2,
+      "to": 137.92,
+      "sid": 94,
+      "location": 2,
+      "content": "我也愿意为了慈善这个事去直播间去买点东西",
+      "music": 0.0
+    },
+    {
+      "from": 137.92,
+      "to": 140.0,
+      "sid": 95,
+      "location": 2,
+      "content": "但你要说让我为了这个产品本身去买单",
+      "music": 0.0
+    },
+    {
+      "from": 140.0,
+      "to": 141.46,
+      "sid": 96,
+      "location": 2,
+      "content": "就因为为你演过令狐冲",
+      "music": 0.0
+    },
+    {
+      "from": 141.46,
+      "to": 143.06,
+      "sid": 97,
+      "location": 2,
+      "content": "然后你做了一个白酒叫令狐冲",
+      "music": 0.0
+    },
+    {
+      "from": 143.06,
+      "to": 144.54,
+      "sid": 98,
+      "location": 2,
+      "content": "让我为了这个叙事去买单",
+      "music": 0.0
+    },
+    {
+      "from": 144.54,
+      "to": 146.18,
+      "sid": 99,
+      "location": 2,
+      "content": "我绝对想象不出来这个画面",
+      "music": 0.0
+    },
+    {
+      "from": 146.18,
+      "to": 146.82,
+      "sid": 100,
+      "location": 2,
+      "content": "所以说到底",
+      "music": 0.0
+    },
+    {
+      "from": 146.82,
+      "to": 149.26,
+      "sid": 101,
+      "location": 2,
+      "content": "商业模式是一个能把你的资源记转换",
+      "music": 0.0
+    },
+    {
+      "from": 149.26,
+      "to": 151.34,
+      "sid": 102,
+      "location": 2,
+      "content": "能把你的资源兑换为金钱的一个东西",
+      "music": 0.0
+    },
+    {
+      "from": 151.34,
+      "to": 152.78,
+      "sid": 103,
+      "location": 2,
+      "content": "这里面的资源包含各种各样的东西",
+      "music": 0.0
+    },
+    {
+      "from": 152.78,
+      "to": 153.34,
+      "sid": 104,
+      "location": 2,
+      "content": "你的智商",
+      "music": 0.0
+    },
+    {
+      "from": 153.34,
+      "to": 153.82,
+      "sid": 105,
+      "location": 2,
+      "content": "你的情商",
+      "music": 0.0
+    },
+    {
+      "from": 153.82,
+      "to": 155.42,
+      "sid": 106,
+      "location": 2,
+      "content": "你的颜值都是你的资源",
+      "music": 0.0
+    },
+    {
+      "from": 155.42,
+      "to": 157.22,
+      "sid": 107,
+      "location": 2,
+      "content": "是在你真正拥有一个商业模式之前",
+      "music": 0.0
+    },
+    {
+      "from": 157.22,
+      "to": 158.1,
+      "sid": 108,
+      "location": 2,
+      "content": "你什么都得不到",
+      "music": 0.0
+    },
+    {
+      "from": 158.1,
+      "to": 158.74,
+      "sid": 109,
+      "location": 2,
+      "content": "你去上学",
+      "music": 0.0
+    },
+    {
+      "from": 158.74,
+      "to": 159.3,
+      "sid": 110,
+      "location": 2,
+      "content": "你去读书",
+      "music": 0.0
+    },
+    {
+      "from": 159.3,
+      "to": 159.9,
+      "sid": 111,
+      "location": 2,
+      "content": "你去圈子",
+      "music": 0.0
+    },
+    {
+      "from": 159.9,
+      "to": 160.58,
+      "sid": 112,
+      "location": 2,
+      "content": "你去积累经验",
+      "music": 0.0
+    },
+    {
+      "from": 163.7,
+      "to": 165.02,
+      "sid": 113,
+      "location": 2,
+      "content": "但是如果没有商业模式",
+      "music": 0.0
+    },
+    {
+      "from": 165.02,
+      "to": 165.96,
+      "sid": 114,
+      "location": 2,
+      "content": "最终一切都是零",
+      "music": 0.0
+    },
+    {
+      "from": 165.96,
+      "to": 166.88,
+      "sid": 115,
+      "location": 2,
+      "content": "所以为什么我老说",
+      "music": 0.0
+    },
+    {
+      "from": 166.88,
+      "to": 168.52,
+      "sid": 116,
+      "location": 2,
+      "content": "第一桶金一定要找一个对标去模仿",
+      "music": 0.0
+    },
+    {
+      "from": 168.52,
+      "to": 169.4,
+      "sid": 117,
+      "location": 2,
+      "content": "你看见别人跑通了",
+      "music": 0.0
+    },
+    {
+      "from": 169.4,
+      "to": 171.14,
+      "sid": 118,
+      "location": 2,
+      "content": "你把别人商业模式就抄过来就可以了",
+      "music": 0.0
+    },
+    {
+      "from": 171.14,
+      "to": 173.52,
+      "sid": 119,
+      "location": 2,
+      "content": "因为只有你把你自己放到那个商业模式里面",
+      "music": 0.0
+    },
+    {
+      "from": 173.52,
+      "to": 175.72,
+      "sid": 120,
+      "location": 2,
+      "content": "你才真正知道你需要的资源是什么",
+      "music": 0.0
+    },
+    {
+      "from": 175.72,
+      "to": 178.08,
+      "sid": 121,
+      "location": 2,
+      "content": "你的商业模式可能需要你去直播搞流量",
+      "music": 0.0
+    },
+    {
+      "from": 178.08,
+      "to": 179.0,
+      "sid": 122,
+      "location": 2,
+      "content": "或者让你写个文章",
+      "music": 0.0
+    },
+    {
+      "from": 179.0,
+      "to": 179.8,
+      "sid": 123,
+      "location": 2,
+      "content": "你去谈个供应链",
+      "music": 0.0
+    },
+    {
+      "from": 179.8,
+      "to": 181.08,
+      "sid": 124,
+      "location": 2,
+      "content": "或者你去搞个几吨水果",
+      "music": 0.0
+    },
+    {
+      "from": 181.08,
+      "to": 181.98,
+      "sid": 125,
+      "location": 2,
+      "content": "搞各种各样的东西",
+      "music": 0.0
+    },
+    {
+      "from": 181.98,
+      "to": 183.9,
+      "sid": 126,
+      "location": 2,
+      "content": "这些才是真正有效的资源",
+      "music": 0.0
+    },
+    {
+      "from": 183.9,
+      "to": 186.14,
+      "sid": 127,
+      "location": 2,
+      "content": "这些才是真正能马上兑换成钱的东西",
+      "music": 0.0
+    },
+    {
+      "from": 186.14,
+      "to": 186.84,
+      "sid": 128,
+      "location": 2,
+      "content": "而而不是说",
+      "music": 0.0
+    },
+    {
+      "from": 186.84,
+      "to": 188.92,
+      "sid": 129,
+      "location": 2,
+      "content": "我在不知道我商业模式是什么的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 188.92,
+      "to": 189.72,
+      "sid": 130,
+      "location": 2,
+      "content": "我遇事不决",
+      "music": 0.0
+    },
+    {
+      "from": 189.72,
+      "to": 190.72,
+      "sid": 131,
+      "location": 2,
+      "content": "我先去读个书吧",
+      "music": 0.0
+    },
+    {
+      "from": 190.72,
+      "to": 191.4,
+      "sid": 132,
+      "location": 2,
+      "content": "先去考个证吧",
+      "music": 0.0
+    },
+    {
+      "from": 191.4,
+      "to": 192.46,
+      "sid": 133,
+      "location": 2,
+      "content": "这个叫学生思维",
+      "music": 0.0
+    },
+    {
+      "from": 192.46,
+      "to": 194.76,
+      "sid": 134,
+      "location": 2,
+      "content": "这些东西都会变成你的人生经历",
+      "music": 0.0
+    },
+    {
+      "from": 194.76,
+      "to": 196.2,
+      "sid": 135,
+      "location": 2,
+      "content": "但是你想把它变成钱",
+      "music": 0.0
+    },
+    {
+      "from": 196.2,
+      "to": 197.94,
+      "sid": 136,
+      "location": 2,
+      "content": "这个是遥遥无期的",
+      "music": 0.0
+    }
+  ]
+}

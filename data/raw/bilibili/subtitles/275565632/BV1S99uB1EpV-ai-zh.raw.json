@@ -1,0 +1,1044 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.04,
+      "to": 1.08,
+      "sid": 1,
+      "location": 2,
+      "content": "我今天收到私信说",
+      "music": 0.0
+    },
+    {
+      "from": 1.08,
+      "to": 2.84,
+      "sid": 2,
+      "location": 2,
+      "content": "我被一个700多万粉丝的大V",
+      "music": 0.0
+    },
+    {
+      "from": 2.84,
+      "to": 4.24,
+      "sid": 3,
+      "location": 2,
+      "content": "逐字逐句的给写稿了",
+      "music": 0.0
+    },
+    {
+      "from": 4.24,
+      "to": 5.12,
+      "sid": 4,
+      "location": 2,
+      "content": "是不是写稿呢",
+      "music": 0.0
+    },
+    {
+      "from": 5.12,
+      "to": 5.84,
+      "sid": 5,
+      "location": 2,
+      "content": "我不做评判",
+      "music": 0.0
+    },
+    {
+      "from": 5.84,
+      "to": 6.48,
+      "sid": 6,
+      "location": 2,
+      "content": "视频发出来",
+      "music": 0.0
+    },
+    {
+      "from": 6.48,
+      "to": 7.14,
+      "sid": 7,
+      "location": 2,
+      "content": "大家自己看",
+      "music": 0.0
+    },
+    {
+      "from": 7.14,
+      "to": 9.159,
+      "sid": 8,
+      "location": 2,
+      "content": "一个人赚不到钱的核心原因就是你上班多了",
+      "music": 0.0
+    },
+    {
+      "from": 9.159,
+      "to": 9.679,
+      "sid": 9,
+      "location": 2,
+      "content": "你为什么赚不到钱",
+      "music": 0.0
+    },
+    {
+      "from": 9.679,
+      "to": 11.079,
+      "sid": 10,
+      "location": 2,
+      "content": "就是因为你上班上的太多了",
+      "music": 0.0
+    },
+    {
+      "from": 11.079,
+      "to": 11.999,
+      "sid": 11,
+      "location": 2,
+      "content": "有很多人来问我说啊",
+      "music": 0.0
+    },
+    {
+      "from": 11.999,
+      "to": 12.639,
+      "sid": 12,
+      "location": 2,
+      "content": "有人问我",
+      "music": 0.0
+    },
+    {
+      "from": 12.639,
+      "to": 13.599,
+      "sid": 13,
+      "location": 2,
+      "content": "是不是我把工作辞了",
+      "music": 0.0
+    },
+    {
+      "from": 13.599,
+      "to": 15.079,
+      "sid": 14,
+      "location": 2,
+      "content": "我就可以解除掉这个上班思维",
+      "music": 0.0
+    },
+    {
+      "from": 15.079,
+      "to": 16.879,
+      "sid": 15,
+      "location": 2,
+      "content": "是不是把工作辞了就能够破除上班思维",
+      "music": 0.0
+    },
+    {
+      "from": 16.879,
+      "to": 18.04,
+      "sid": 16,
+      "location": 2,
+      "content": "我说情况恰恰相反",
+      "music": 0.0
+    },
+    {
+      "from": 18.04,
+      "to": 19.16,
+      "sid": 17,
+      "location": 2,
+      "content": "是是是恰恰相反",
+      "music": 0.0
+    },
+    {
+      "from": 19.16,
+      "to": 21.08,
+      "sid": 18,
+      "location": 2,
+      "content": "如果你是在没有解除上班思维的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 21.08,
+      "to": 21.8,
+      "sid": 19,
+      "location": 2,
+      "content": "就把工作给辞了",
+      "music": 0.0
+    },
+    {
+      "from": 21.8,
+      "to": 22.8,
+      "sid": 20,
+      "location": 2,
+      "content": "你的情况会更加糟糕",
+      "music": 0.0
+    },
+    {
+      "from": 22.8,
+      "to": 24.0,
+      "sid": 21,
+      "location": 2,
+      "content": "你会陷入无穷无尽的内耗",
+      "music": 0.0
+    },
+    {
+      "from": 24.0,
+      "to": 25.16,
+      "sid": 22,
+      "location": 2,
+      "content": "如果你没有转变思维就辞职",
+      "music": 0.0
+    },
+    {
+      "from": 25.16,
+      "to": 25.8,
+      "sid": 23,
+      "location": 2,
+      "content": "情况只会更糟",
+      "music": 0.0
+    },
+    {
+      "from": 25.8,
+      "to": 27.12,
+      "sid": 24,
+      "location": 2,
+      "content": "那它会让你陷入无穷无尽的内耗",
+      "music": 0.0
+    },
+    {
+      "from": 27.12,
+      "to": 28.28,
+      "sid": 25,
+      "location": 2,
+      "content": "所以今天我常数据画一张表",
+      "music": 0.0
+    },
+    {
+      "from": 28.28,
+      "to": 29.68,
+      "sid": 26,
+      "location": 2,
+      "content": "我想把破除上班思维这个事情",
+      "music": 0.0
+    },
+    {
+      "from": 29.68,
+      "to": 30.64,
+      "sid": 27,
+      "location": 2,
+      "content": "给系统性的讲清楚",
+      "music": 0.0
+    },
+    {
+      "from": 30.64,
+      "to": 32.299,
+      "sid": 28,
+      "location": 2,
+      "content": "今天我就把这个事彻底的一次性给你讲",
+      "music": 0.0
+    },
+    {
+      "from": 32.299,
+      "to": 33.659,
+      "sid": 29,
+      "location": 2,
+      "content": "上班的本质是生存",
+      "music": 0.0
+    },
+    {
+      "from": 33.659,
+      "to": 34.659,
+      "sid": 30,
+      "location": 2,
+      "content": "它是一个生存策略",
+      "music": 0.0
+    },
+    {
+      "from": 34.659,
+      "to": 35.499,
+      "sid": 31,
+      "location": 2,
+      "content": "它是个生存方式",
+      "music": 0.0
+    },
+    {
+      "from": 35.499,
+      "to": 36.539,
+      "sid": 32,
+      "location": 2,
+      "content": "首先你要知道上班的本质是什么",
+      "music": 0.0
+    },
+    {
+      "from": 36.539,
+      "to": 37.179,
+      "sid": 33,
+      "location": 2,
+      "content": "是生存",
+      "music": 0.0
+    },
+    {
+      "from": 37.179,
+      "to": 39.08,
+      "sid": 34,
+      "location": 2,
+      "content": "上班是仅是一个生存策略而已",
+      "music": 0.0
+    },
+    {
+      "from": 39.08,
+      "to": 40.56,
+      "sid": 35,
+      "location": 2,
+      "content": "那上班给我们说的思维方式是什么",
+      "music": 0.0
+    },
+    {
+      "from": 40.56,
+      "to": 41.2,
+      "sid": 36,
+      "location": 2,
+      "content": "第一个叫服从",
+      "music": 0.0
+    },
+    {
+      "from": 41.2,
+      "to": 42.72,
+      "sid": 37,
+      "location": 2,
+      "content": "换取安全上边给你塑造了三种读思维",
+      "music": 0.0
+    },
+    {
+      "from": 42.72,
+      "to": 44.2,
+      "sid": 38,
+      "location": 2,
+      "content": "第一种叫做用服从换取安全感",
+      "music": 0.0
+    },
+    {
+      "from": 44.2,
+      "to": 45.64,
+      "sid": 39,
+      "location": 2,
+      "content": "就我明知道老板让我干了一个任务",
+      "music": 0.0
+    },
+    {
+      "from": 45.64,
+      "to": 46.66,
+      "sid": 40,
+      "location": 2,
+      "content": "对公司没有任何的好处",
+      "music": 0.0
+    },
+    {
+      "from": 46.66,
+      "to": 47.66,
+      "sid": 41,
+      "location": 2,
+      "content": "但是为了保住我的饭碗",
+      "music": 0.0
+    },
+    {
+      "from": 47.66,
+      "to": 48.82,
+      "sid": 42,
+      "location": 2,
+      "content": "我必须做服从这个命令",
+      "music": 0.0
+    },
+    {
+      "from": 48.82,
+      "to": 49.62,
+      "sid": 43,
+      "location": 2,
+      "content": "你明知道老板让你干的活",
+      "music": 0.0
+    },
+    {
+      "from": 49.62,
+      "to": 50.18,
+      "sid": 44,
+      "location": 2,
+      "content": "这公司啥用没有",
+      "music": 0.0
+    },
+    {
+      "from": 50.18,
+      "to": 50.78,
+      "sid": 45,
+      "location": 2,
+      "content": "但是你还是得干",
+      "music": 0.0
+    },
+    {
+      "from": 50.78,
+      "to": 52.38,
+      "sid": 46,
+      "location": 2,
+      "content": "导致就是说当没有人去提供指令",
+      "music": 0.0
+    },
+    {
+      "from": 52.38,
+      "to": 53.14,
+      "sid": 47,
+      "location": 2,
+      "content": "让他照着做的时候",
+      "music": 0.0
+    },
+    {
+      "from": 53.14,
+      "to": 53.94,
+      "sid": 48,
+      "location": 2,
+      "content": "就不知道自己该干嘛了",
+      "music": 0.0
+    },
+    {
+      "from": 53.94,
+      "to": 55.44,
+      "sid": 49,
+      "location": 2,
+      "content": "就反而会陷入巨大的恐慌",
+      "music": 0.0
+    },
+    {
+      "from": 55.44,
+      "to": 56.54,
+      "sid": 50,
+      "location": 2,
+      "content": "导致没有指令",
+      "music": 0.0
+    },
+    {
+      "from": 56.54,
+      "to": 57.26,
+      "sid": 51,
+      "location": 2,
+      "content": "他就不会做事情",
+      "music": 0.0
+    },
+    {
+      "from": 57.26,
+      "to": 58.98,
+      "sid": 52,
+      "location": 2,
+      "content": "但是一旦闲下来拍自己就很恐慌",
+      "music": 0.0
+    },
+    {
+      "from": 58.98,
+      "to": 60.66,
+      "sid": 53,
+      "location": 2,
+      "content": "第二点叫高频大量正反馈",
+      "music": 0.0
+    },
+    {
+      "from": 60.66,
+      "to": 62.38,
+      "sid": 54,
+      "location": 2,
+      "content": "这其实也是很多人不同意我的一个地方",
+      "music": 0.0
+    },
+    {
+      "from": 62.38,
+      "to": 64.739,
+      "sid": 55,
+      "location": 2,
+      "content": "第二种呢叫做习惯于高频的正反馈",
+      "music": 0.0
+    },
+    {
+      "from": 64.739,
+      "to": 65.539,
+      "sid": 56,
+      "location": 2,
+      "content": "他说我天天上班",
+      "music": 0.0
+    },
+    {
+      "from": 65.539,
+      "to": 66.099,
+      "sid": 57,
+      "location": 2,
+      "content": "我累得要死",
+      "music": 0.0
+    },
+    {
+      "from": 66.099,
+      "to": 66.459,
+      "sid": 58,
+      "location": 2,
+      "content": "我加班",
+      "music": 0.0
+    },
+    {
+      "from": 66.459,
+      "to": 67.099,
+      "sid": 59,
+      "location": 2,
+      "content": "我又没有工资",
+      "music": 0.0
+    },
+    {
+      "from": 67.099,
+      "to": 67.939,
+      "sid": 60,
+      "location": 2,
+      "content": "老板天天PUA",
+      "music": 0.0
+    },
+    {
+      "from": 67.939,
+      "to": 68.259,
+      "sid": 61,
+      "location": 2,
+      "content": "我是吧",
+      "music": 0.0
+    },
+    {
+      "from": 68.259,
+      "to": 69.299,
+      "sid": 62,
+      "location": 2,
+      "content": "我哪来的正反馈",
+      "music": 0.0
+    },
+    {
+      "from": 69.299,
+      "to": 70.499,
+      "sid": 63,
+      "location": 2,
+      "content": "还有人会说我上班累成狗",
+      "music": 0.0
+    },
+    {
+      "from": 70.499,
+      "to": 71.059,
+      "sid": 64,
+      "location": 2,
+      "content": "我天天被PUA",
+      "music": 0.0
+    },
+    {
+      "from": 71.059,
+      "to": 71.9,
+      "sid": 65,
+      "location": 2,
+      "content": "哪来的正反馈",
+      "music": 0.0
+    },
+    {
+      "from": 71.9,
+      "to": 74.46,
+      "sid": 66,
+      "location": 2,
+      "content": "你每干完一件事情就离你的月薪更近一点点",
+      "music": 0.0
+    },
+    {
+      "from": 74.46,
+      "to": 76.1,
+      "sid": 67,
+      "location": 2,
+      "content": "每当你干完一件事情就离下班更近一步",
+      "music": 0.0
+    },
+    {
+      "from": 76.1,
+      "to": 77.68,
+      "sid": 68,
+      "location": 2,
+      "content": "每上完一天班就离发工资更近一步",
+      "music": 0.0
+    },
+    {
+      "from": 77.68,
+      "to": 79.8,
+      "sid": 69,
+      "location": 2,
+      "content": "它其实像是一个非常设计精良的一个游戏",
+      "music": 0.0
+    },
+    {
+      "from": 79.8,
+      "to": 80.52,
+      "sid": 70,
+      "location": 2,
+      "content": "你没发现很像游戏",
+      "music": 0.0
+    },
+    {
+      "from": 80.52,
+      "to": 81.68,
+      "sid": 71,
+      "location": 2,
+      "content": "一个设计很精良的游戏",
+      "music": 0.0
+    },
+    {
+      "from": 81.68,
+      "to": 83.56,
+      "sid": 72,
+      "location": 2,
+      "content": "那第三点叫正反馈与结果脱钩",
+      "music": 0.0
+    },
+    {
+      "from": 83.56,
+      "to": 84.08,
+      "sid": 73,
+      "location": 2,
+      "content": "我举个例子",
+      "music": 0.0
+    },
+    {
+      "from": 84.08,
+      "to": 85.72,
+      "sid": 74,
+      "location": 2,
+      "content": "第三叫正反馈和结果脱钩",
+      "music": 0.0
+    },
+    {
+      "from": 85.72,
+      "to": 87.86,
+      "sid": 75,
+      "location": 2,
+      "content": "举例子说现在为什么网上存在一种人叫球骗",
+      "music": 0.0
+    },
+    {
+      "from": 87.86,
+      "to": 89.74,
+      "sid": 76,
+      "location": 2,
+      "content": "现在网上有种人叫做天天到处求骗的人",
+      "music": 0.0
+    },
+    {
+      "from": 89.74,
+      "to": 92.18,
+      "sid": 77,
+      "location": 2,
+      "content": "就他长期处在这种有确定性结果的环境当中",
+      "music": 0.0
+    },
+    {
+      "from": 92.18,
+      "to": 94.02,
+      "sid": 78,
+      "location": 2,
+      "content": "导致他对保结果这个事他已经上瘾了",
+      "music": 0.0
+    },
+    {
+      "from": 94.02,
+      "to": 95.34,
+      "sid": 79,
+      "location": 2,
+      "content": "他们就是在稳定性的环境里面待久了",
+      "music": 0.0
+    },
+    {
+      "from": 95.34,
+      "to": 96.46,
+      "sid": 80,
+      "location": 2,
+      "content": "对确定性上瘾了",
+      "music": 0.0
+    },
+    {
+      "from": 96.46,
+      "to": 97.78,
+      "sid": 81,
+      "location": 2,
+      "content": "就虽然嘴上理智上",
+      "music": 0.0
+    },
+    {
+      "from": 97.78,
+      "to": 98.5,
+      "sid": 82,
+      "location": 2,
+      "content": "他承认说啊",
+      "music": 0.0
+    },
+    {
+      "from": 98.5,
+      "to": 99.58,
+      "sid": 83,
+      "location": 2,
+      "content": "创业这个事情是有风险的",
+      "music": 0.0
+    },
+    {
+      "from": 99.58,
+      "to": 100.54,
+      "sid": 84,
+      "location": 2,
+      "content": "是不可能保结果的",
+      "music": 0.0
+    },
+    {
+      "from": 100.54,
+      "to": 101.34,
+      "sid": 85,
+      "location": 2,
+      "content": "嘴上说创业有风险",
+      "music": 0.0
+    },
+    {
+      "from": 101.34,
+      "to": 101.86,
+      "sid": 86,
+      "location": 2,
+      "content": "我懂啊",
+      "music": 0.0
+    },
+    {
+      "from": 101.86,
+      "to": 102.3,
+      "sid": 87,
+      "location": 2,
+      "content": "我接受",
+      "music": 0.0
+    },
+    {
+      "from": 102.3,
+      "to": 103.9,
+      "sid": 88,
+      "location": 2,
+      "content": "可是一旦身带他控制不了自己了",
+      "music": 0.0
+    },
+    {
+      "from": 103.9,
+      "to": 105.18,
+      "sid": 89,
+      "location": 2,
+      "content": "所以很多人开始创业的第一件事情",
+      "music": 0.0
+    },
+    {
+      "from": 105.18,
+      "to": 106.78,
+      "sid": 90,
+      "location": 2,
+      "content": "就是花钱去市面上找导师啊",
+      "music": 0.0
+    },
+    {
+      "from": 106.78,
+      "to": 107.22,
+      "sid": 91,
+      "location": 2,
+      "content": "买陪跑",
+      "music": 0.0
+    },
+    {
+      "from": 107.22,
+      "to": 108.42,
+      "sid": 92,
+      "location": 2,
+      "content": "但是一旦真刀真相的干起来就怂了",
+      "music": 0.0
+    },
+    {
+      "from": 108.42,
+      "to": 109.26,
+      "sid": 93,
+      "location": 2,
+      "content": "他非要找个人给他保",
+      "music": 0.0
+    },
+    {
+      "from": 109.26,
+      "to": 110.08,
+      "sid": 94,
+      "location": 2,
+      "content": "结果给他兜底后",
+      "music": 0.0
+    },
+    {
+      "from": 110.08,
+      "to": 111.64,
+      "sid": 95,
+      "location": 2,
+      "content": "就开始满世界的找导师买陪跑",
+      "music": 0.0
+    },
+    {
+      "from": 111.64,
+      "to": 112.56,
+      "sid": 96,
+      "location": 2,
+      "content": "所做的第一件事情",
+      "music": 0.0
+    },
+    {
+      "from": 112.56,
+      "to": 114.4,
+      "sid": 97,
+      "location": 2,
+      "content": "就是精准的把这些骗子全部都筛选出来",
+      "music": 0.0
+    },
+    {
+      "from": 114.4,
+      "to": 116.0,
+      "sid": 98,
+      "location": 2,
+      "content": "谁能满足这样的只能是骗子呀",
+      "music": 0.0
+    },
+    {
+      "from": 116.0,
+      "to": 117.58,
+      "sid": 99,
+      "location": 2,
+      "content": "所以我说有创业思维的人在干嘛",
+      "music": 0.0
+    },
+    {
+      "from": 117.58,
+      "to": 119.32,
+      "sid": 100,
+      "location": 2,
+      "content": "就首先我在我创业的第一天",
+      "music": 0.0
+    },
+    {
+      "from": 119.32,
+      "to": 119.94,
+      "sid": 101,
+      "location": 2,
+      "content": "我就意识到了",
+      "music": 0.0
+    },
+    {
+      "from": 119.94,
+      "to": 122.26,
+      "sid": 102,
+      "location": 2,
+      "content": "我一定是要长期和不确定性共处的",
+      "music": 0.0
+    },
+    {
+      "from": 122.26,
+      "to": 122.94,
+      "sid": 103,
+      "location": 2,
+      "content": "这里有创业思维的人",
+      "music": 0.0
+    },
+    {
+      "from": 122.94,
+      "to": 124.22,
+      "sid": 104,
+      "location": 2,
+      "content": "会总想人家打第一天就明白",
+      "music": 0.0
+    },
+    {
+      "from": 124.22,
+      "to": 125.68,
+      "sid": 105,
+      "location": 2,
+      "content": "必须和不确定性共存",
+      "music": 0.0
+    },
+    {
+      "from": 125.68,
+      "to": 127.36,
+      "sid": 106,
+      "location": 2,
+      "content": "不确定性这个东西是不可能被消除",
+      "music": 0.0
+    },
+    {
+      "from": 127.36,
+      "to": 128.42,
+      "sid": 107,
+      "location": 2,
+      "content": "也不应该被消除的",
+      "music": 0.0
+    },
+    {
+      "from": 128.42,
+      "to": 130.24,
+      "sid": 108,
+      "location": 2,
+      "content": "因为正是因为市场上有不确定性",
+      "music": 0.0
+    },
+    {
+      "from": 130.24,
+      "to": 131.2,
+      "sid": 109,
+      "location": 2,
+      "content": "我才有利可图呀",
+      "music": 0.0
+    },
+    {
+      "from": 131.2,
+      "to": 132.68,
+      "sid": 110,
+      "location": 2,
+      "content": "并且他知道不确定性是不可能被消除的",
+      "music": 0.0
+    },
+    {
+      "from": 132.68,
+      "to": 133.78,
+      "sid": 111,
+      "location": 2,
+      "content": "也不应该被消除",
+      "music": 0.0
+    },
+    {
+      "from": 133.78,
+      "to": 135.3,
+      "sid": 112,
+      "location": 2,
+      "content": "正是因为有不确定性才有利可图",
+      "music": 0.0
+    },
+    {
+      "from": 135.3,
+      "to": 136.44,
+      "sid": 113,
+      "location": 2,
+      "content": "给自己设计一款游戏",
+      "music": 0.0
+    },
+    {
+      "from": 136.44,
+      "to": 138.7,
+      "sid": 114,
+      "location": 2,
+      "content": "帮我去对抗这个不确定性给我带来的干扰",
+      "music": 0.0
+    },
+    {
+      "from": 138.7,
+      "to": 139.78,
+      "sid": 115,
+      "location": 2,
+      "content": "他们会给自己设计一款新的游戏",
+      "music": 0.0
+    },
+    {
+      "from": 139.78,
+      "to": 140.18,
+      "sid": 116,
+      "location": 2,
+      "content": "自己来玩",
+      "music": 0.0
+    },
+    {
+      "from": 140.18,
+      "to": 141.94,
+      "sid": 117,
+      "location": 2,
+      "content": "用这个方式来对抗不确定性带来的焦虑",
+      "music": 0.0
+    },
+    {
+      "from": 141.94,
+      "to": 143.02,
+      "sid": 118,
+      "location": 2,
+      "content": "我管这个叫三重正反",
+      "music": 0.0
+    },
+    {
+      "from": 143.02,
+      "to": 144.74,
+      "sid": 119,
+      "location": 2,
+      "content": "真正的创业者每做一件事同时获得三种快乐",
+      "music": 0.0
+    },
+    {
+      "from": 144.74,
+      "to": 146.34,
+      "sid": 120,
+      "location": 2,
+      "content": "就如果有一天我不玩这个游戏了",
+      "music": 0.0
+    },
+    {
+      "from": 146.34,
+      "to": 147.34,
+      "sid": 121,
+      "location": 2,
+      "content": "肯定是因为我玩腻了",
+      "music": 0.0
+    },
+    {
+      "from": 147.34,
+      "to": 148.18,
+      "sid": 122,
+      "location": 2,
+      "content": "我不想玩了",
+      "music": 0.0
+    },
+    {
+      "from": 148.18,
+      "to": 148.86,
+      "sid": 123,
+      "location": 2,
+      "content": "即使有一天他不做了",
+      "music": 0.0
+    },
+    {
+      "from": 148.86,
+      "to": 149.52,
+      "sid": 124,
+      "location": 2,
+      "content": "一定因为腻了",
+      "music": 0.0
+    },
+    {
+      "from": 149.52,
+      "to": 150.36,
+      "sid": 125,
+      "location": 2,
+      "content": "不可能是因为坚持不下去",
+      "music": 0.0
+    },
+    {
+      "from": 150.36,
+      "to": 152.06,
+      "sid": 126,
+      "location": 2,
+      "content": "而在你准备辞职创业的这一刻",
+      "music": 0.0
+    },
+    {
+      "from": 152.06,
+      "to": 153.44,
+      "sid": 127,
+      "location": 2,
+      "content": "上班的这些好处就瞬间消失了",
+      "music": 0.0
+    },
+    {
+      "from": 153.44,
+      "to": 154.76,
+      "sid": 128,
+      "location": 2,
+      "content": "但在你决定辞职的那一刻",
+      "music": 0.0
+    },
+    {
+      "from": 154.76,
+      "to": 155.78,
+      "sid": 129,
+      "location": 2,
+      "content": "这些好处可瞬间消失",
+      "music": 0.0
+    }
+  ]
+}

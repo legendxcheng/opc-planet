@@ -1,0 +1,1924 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.04,
+      "to": 2.56,
+      "sid": 1,
+      "location": 2,
+      "content": "恐怖直立猿的性情总是神挡杀神",
+      "music": 0.0
+    },
+    {
+      "from": 2.56,
+      "to": 3.4,
+      "sid": 2,
+      "location": 2,
+      "content": "佛挡杀佛的",
+      "music": 0.0
+    },
+    {
+      "from": 3.4,
+      "to": 4.92,
+      "sid": 3,
+      "location": 2,
+      "content": "尽管敌人已尽数消灭",
+      "music": 0.0
+    },
+    {
+      "from": 4.92,
+      "to": 6.4,
+      "sid": 4,
+      "location": 2,
+      "content": "人类种族仅存一脉",
+      "music": 0.0
+    },
+    {
+      "from": 6.4,
+      "to": 7.9,
+      "sid": 5,
+      "location": 2,
+      "content": "但总是让人拔刀四顾",
+      "music": 0.0
+    },
+    {
+      "from": 7.9,
+      "to": 10.58,
+      "sid": 6,
+      "location": 2,
+      "content": "这地球真的只有咱们一种智慧生物吗",
+      "music": 0.0
+    },
+    {
+      "from": 10.58,
+      "to": 13.06,
+      "sid": 7,
+      "location": 2,
+      "content": "人眼只能看到电磁波中的可见光",
+      "music": 0.0
+    },
+    {
+      "from": 13.06,
+      "to": 14.02,
+      "sid": 8,
+      "location": 2,
+      "content": "却看不到红外线",
+      "music": 0.0
+    },
+    {
+      "from": 14.02,
+      "to": 15.22,
+      "sid": 9,
+      "location": 2,
+      "content": "所以当你晚上出门",
+      "music": 0.0
+    },
+    {
+      "from": 15.22,
+      "to": 15.9,
+      "sid": 10,
+      "location": 2,
+      "content": "两眼一黑",
+      "music": 0.0
+    },
+    {
+      "from": 15.9,
+      "to": 17.58,
+      "sid": 11,
+      "location": 2,
+      "content": "并不是人家藏在夜色里",
+      "music": 0.0
+    },
+    {
+      "from": 17.58,
+      "to": 19.14,
+      "sid": 12,
+      "location": 2,
+      "content": "只是自己的眼睛观察不到",
+      "music": 0.0
+    },
+    {
+      "from": 19.14,
+      "to": 21.9,
+      "sid": 13,
+      "location": 2,
+      "content": "那就有一种可能地球上还有别的智慧生物",
+      "music": 0.0
+    },
+    {
+      "from": 21.9,
+      "to": 23.94,
+      "sid": 14,
+      "location": 2,
+      "content": "人类任何器官和机器都感觉不到",
+      "music": 0.0
+    },
+    {
+      "from": 23.94,
+      "to": 26.66,
+      "sid": 15,
+      "location": 2,
+      "content": "人家都拉到你卧室2米八大床上了",
+      "music": 0.0
+    },
+    {
+      "from": 26.66,
+      "to": 28.06,
+      "sid": 16,
+      "location": 2,
+      "content": "而你人类还嘎嘎傻乐呢",
+      "music": 0.0
+    },
+    {
+      "from": 28.06,
+      "to": 30.98,
+      "sid": 17,
+      "location": 2,
+      "content": "不过这种脑洞多少有点违反奥卡姆剃刀原则",
+      "music": 0.0
+    },
+    {
+      "from": 30.98,
+      "to": 33.32,
+      "sid": 18,
+      "location": 2,
+      "content": "就好比你说你床头有个银发魅魔",
+      "music": 0.0
+    },
+    {
+      "from": 33.32,
+      "to": 34.22,
+      "sid": 19,
+      "location": 2,
+      "content": "但是看不到",
+      "music": 0.0
+    },
+    {
+      "from": 34.22,
+      "to": 34.74,
+      "sid": 20,
+      "location": 2,
+      "content": "摸不着",
+      "music": 0.0
+    },
+    {
+      "from": 34.74,
+      "to": 35.38,
+      "sid": 21,
+      "location": 2,
+      "content": "无法感知",
+      "music": 0.0
+    },
+    {
+      "from": 35.38,
+      "to": 36.04,
+      "sid": 22,
+      "location": 2,
+      "content": "不能触及",
+      "music": 0.0
+    },
+    {
+      "from": 36.04,
+      "to": 37.8,
+      "sid": 23,
+      "location": 2,
+      "content": "那你小子压根就没有魅魔",
+      "music": 0.0
+    },
+    {
+      "from": 37.8,
+      "to": 39.78,
+      "sid": 24,
+      "location": 2,
+      "content": "而在宇宙中确实存在这种可能",
+      "music": 0.0
+    },
+    {
+      "from": 39.78,
+      "to": 42.24,
+      "sid": 25,
+      "location": 2,
+      "content": "所有的文明并不是分散在整个空间",
+      "music": 0.0
+    },
+    {
+      "from": 42.24,
+      "to": 44.34,
+      "sid": 26,
+      "location": 2,
+      "content": "反而像一栋大楼重叠在一起",
+      "music": 0.0
+    },
+    {
+      "from": 44.34,
+      "to": 45.48,
+      "sid": 27,
+      "location": 2,
+      "content": "你压我我压你",
+      "music": 0.0
+    },
+    {
+      "from": 45.48,
+      "to": 47.62,
+      "sid": 28,
+      "location": 2,
+      "content": "互相之间进进出出却毫无交集",
+      "music": 0.0
+    },
+    {
+      "from": 47.62,
+      "to": 50.0,
+      "sid": 29,
+      "location": 2,
+      "content": "而这就解释了为什么总是找不到外星人",
+      "music": 0.0
+    },
+    {
+      "from": 50.0,
+      "to": 51.78,
+      "sid": 30,
+      "location": 2,
+      "content": "他们很可能来自于其他维度",
+      "music": 0.0
+    },
+    {
+      "from": 51.78,
+      "to": 52.46,
+      "sid": 31,
+      "location": 2,
+      "content": "多维空间",
+      "music": 0.0
+    },
+    {
+      "from": 52.46,
+      "to": 53.22,
+      "sid": 32,
+      "location": 2,
+      "content": "咱们是知道的",
+      "music": 0.0
+    },
+    {
+      "from": 53.22,
+      "to": 54.94,
+      "sid": 33,
+      "location": 2,
+      "content": "现在假设我身着24号",
+      "music": 0.0
+    },
+    {
+      "from": 54.94,
+      "to": 56.86,
+      "sid": 34,
+      "location": 2,
+      "content": "在篮球场上一个暴扣入篮",
+      "music": 0.0
+    },
+    {
+      "from": 56.86,
+      "to": 58.22,
+      "sid": 35,
+      "location": 2,
+      "content": "这个非常帅气的事儿",
+      "music": 0.0
+    },
+    {
+      "from": 58.22,
+      "to": 61.48,
+      "sid": 36,
+      "location": 2,
+      "content": "在篮筐入口平面的二维生物来看却非常恐怖",
+      "music": 0.0
+    },
+    {
+      "from": 61.48,
+      "to": 63.34,
+      "sid": 37,
+      "location": 2,
+      "content": "二维宇宙中突然出现了个圆",
+      "music": 0.0
+    },
+    {
+      "from": 63.34,
+      "to": 64.3,
+      "sid": 38,
+      "location": 2,
+      "content": "它很快增大",
+      "music": 0.0
+    },
+    {
+      "from": 64.3,
+      "to": 65.06,
+      "sid": 39,
+      "location": 2,
+      "content": "又很快缩小",
+      "music": 0.0
+    },
+    {
+      "from": 65.06,
+      "to": 65.66,
+      "sid": 40,
+      "location": 2,
+      "content": "然后消失",
+      "music": 0.0
+    },
+    {
+      "from": 65.66,
+      "to": 66.7,
+      "sid": 41,
+      "location": 2,
+      "content": "这在二维世界里",
+      "music": 0.0
+    },
+    {
+      "from": 66.7,
+      "to": 68.84,
+      "sid": 42,
+      "location": 2,
+      "content": "当晚就得上走进科学连播三集",
+      "music": 0.0
+    },
+    {
+      "from": 68.84,
+      "to": 71.42,
+      "sid": 43,
+      "location": 2,
+      "content": "那一个四维生物不小心进入三维世界",
+      "music": 0.0
+    },
+    {
+      "from": 71.42,
+      "to": 72.16,
+      "sid": 44,
+      "location": 2,
+      "content": "然后离开",
+      "music": 0.0
+    },
+    {
+      "from": 72.16,
+      "to": 72.56,
+      "sid": 45,
+      "location": 2,
+      "content": "在你",
+      "music": 0.0
+    },
+    {
+      "from": 72.56,
+      "to": 74.04,
+      "sid": 46,
+      "location": 2,
+      "content": "我看来就是个突然出现",
+      "music": 0.0
+    },
+    {
+      "from": 74.04,
+      "to": 75.54,
+      "sid": 47,
+      "location": 2,
+      "content": "又突然消失的灵异事件了",
+      "music": 0.0
+    },
+    {
+      "from": 75.54,
+      "to": 76.28,
+      "sid": 48,
+      "location": 2,
+      "content": "维度越高",
+      "music": 0.0
+    },
+    {
+      "from": 76.28,
+      "to": 77.12,
+      "sid": 49,
+      "location": 2,
+      "content": "结构越复杂",
+      "music": 0.0
+    },
+    {
+      "from": 77.12,
+      "to": 78.86,
+      "sid": 50,
+      "location": 2,
+      "content": "在微观粒子的超高维度中",
+      "music": 0.0
+    },
+    {
+      "from": 78.86,
+      "to": 79.96,
+      "sid": 51,
+      "location": 2,
+      "content": "可能包含一个宇宙",
+      "music": 0.0
+    },
+    {
+      "from": 79.96,
+      "to": 83.58,
+      "sid": 52,
+      "location": 2,
+      "content": "仅仅是在咱们身体上就有万亿亿亿亿亿个文明",
+      "music": 0.0
+    },
+    {
+      "from": 83.58,
+      "to": 84.58,
+      "sid": 53,
+      "location": 2,
+      "content": "随便抠点鼻屎",
+      "music": 0.0
+    },
+    {
+      "from": 84.58,
+      "to": 86.1,
+      "sid": 54,
+      "location": 2,
+      "content": "可能都有千万亿个文明",
+      "music": 0.0
+    },
+    {
+      "from": 86.1,
+      "to": 87.28,
+      "sid": 55,
+      "location": 2,
+      "content": "尽管它们就在那里",
+      "music": 0.0
+    },
+    {
+      "from": 87.28,
+      "to": 88.12,
+      "sid": 56,
+      "location": 2,
+      "content": "但你觉察不到",
+      "music": 0.0
+    },
+    {
+      "from": 88.12,
+      "to": 88.9,
+      "sid": 57,
+      "location": 2,
+      "content": "也互不影响",
+      "music": 0.0
+    },
+    {
+      "from": 88.9,
+      "to": 90.46,
+      "sid": 58,
+      "location": 2,
+      "content": "不管你是把它嚼给吃了",
+      "music": 0.0
+    },
+    {
+      "from": 90.46,
+      "to": 91.7,
+      "sid": 59,
+      "location": 2,
+      "content": "还是漫在桌子底下",
+      "music": 0.0
+    },
+    {
+      "from": 91.7,
+      "to": 93.26,
+      "sid": 60,
+      "location": 2,
+      "content": "对他们也造不成任何影响",
+      "music": 0.0
+    },
+    {
+      "from": 93.26,
+      "to": 94.42,
+      "sid": 61,
+      "location": 2,
+      "content": "唯独之间能够接触",
+      "music": 0.0
+    },
+    {
+      "from": 94.42,
+      "to": 95.4,
+      "sid": 62,
+      "location": 2,
+      "content": "也就能够交流",
+      "music": 0.0
+    },
+    {
+      "from": 95.4,
+      "to": 96.64,
+      "sid": 63,
+      "location": 2,
+      "content": "交流方式也很简单",
+      "music": 0.0
+    },
+    {
+      "from": 96.64,
+      "to": 99.74,
+      "sid": 64,
+      "location": 2,
+      "content": "就是投影球穿过二维平面会投影出圆形",
+      "music": 0.0
+    },
+    {
+      "from": 99.74,
+      "to": 102.08,
+      "sid": 65,
+      "location": 2,
+      "content": "一个三维优秀的三维人站在灯下面",
+      "music": 0.0
+    },
+    {
+      "from": 102.08,
+      "to": 103.9,
+      "sid": 66,
+      "location": 2,
+      "content": "也会在二维墙面上投射出影子",
+      "music": 0.0
+    },
+    {
+      "from": 103.9,
+      "to": 106.02,
+      "sid": 67,
+      "location": 2,
+      "content": "要是这个二维平面有智慧生物",
+      "music": 0.0
+    },
+    {
+      "from": 106.02,
+      "to": 107.3,
+      "sid": 68,
+      "location": 2,
+      "content": "他们就能观察到你了",
+      "music": 0.0
+    },
+    {
+      "from": 107.3,
+      "to": 109.44,
+      "sid": 69,
+      "location": 2,
+      "content": "那二维又怎么投影信息到三维呢",
+      "music": 0.0
+    },
+    {
+      "from": 109.44,
+      "to": 111.18,
+      "sid": 70,
+      "location": 2,
+      "content": "平面投射信息到空中",
+      "music": 0.0
+    },
+    {
+      "from": 111.18,
+      "to": 112.84,
+      "sid": 71,
+      "location": 2,
+      "content": "这不就是空气投影吗",
+      "music": 0.0
+    },
+    {
+      "from": 112.84,
+      "to": 114.36,
+      "sid": 72,
+      "location": 2,
+      "content": "不拍那些大片特效的时候",
+      "music": 0.0
+    },
+    {
+      "from": 114.36,
+      "to": 115.3,
+      "sid": 73,
+      "location": 2,
+      "content": "会用到动作捕捉",
+      "music": 0.0
+    },
+    {
+      "from": 115.3,
+      "to": 117.9,
+      "sid": 74,
+      "location": 2,
+      "content": "就是一台机器打出一堆激光到人脸上",
+      "music": 0.0
+    },
+    {
+      "from": 117.9,
+      "to": 119.72,
+      "sid": 75,
+      "location": 2,
+      "content": "就能记录下人脸的高低起伏",
+      "music": 0.0
+    },
+    {
+      "from": 119.72,
+      "to": 122.2,
+      "sid": 76,
+      "location": 2,
+      "content": "无论是运动输入电脑就能还原出这张脸",
+      "music": 0.0
+    },
+    {
+      "from": 122.2,
+      "to": 123.74,
+      "sid": 77,
+      "location": 2,
+      "content": "然后再在上面加特技",
+      "music": 0.0
+    },
+    {
+      "from": 123.74,
+      "to": 124.42,
+      "sid": 78,
+      "location": 2,
+      "content": "Duang duang duang",
+      "music": 0.0
+    },
+    {
+      "from": 124.42,
+      "to": 125.1,
+      "sid": 79,
+      "location": 2,
+      "content": "除此之外",
+      "music": 0.0
+    },
+    {
+      "from": 125.1,
+      "to": 126.7,
+      "sid": 80,
+      "location": 2,
+      "content": "比如无人机精准识别物体",
+      "music": 0.0
+    },
+    {
+      "from": 126.7,
+      "to": 128.68,
+      "sid": 81,
+      "location": 2,
+      "content": "雷达搜寻东西都是差不多的原理",
+      "music": 0.0
+    },
+    {
+      "from": 128.68,
+      "to": 129.62,
+      "sid": 82,
+      "location": 2,
+      "content": "先发出激光",
+      "music": 0.0
+    },
+    {
+      "from": 129.62,
+      "to": 131.98,
+      "sid": 83,
+      "location": 2,
+      "content": "再根据不同激光反射回来的距离位置",
+      "music": 0.0
+    },
+    {
+      "from": 131.98,
+      "to": 133.24,
+      "sid": 84,
+      "location": 2,
+      "content": "再模拟出对应的形状",
+      "music": 0.0
+    },
+    {
+      "from": 133.24,
+      "to": 134.9,
+      "sid": 85,
+      "location": 2,
+      "content": "那咱们把这玩意反过来",
+      "music": 0.0
+    },
+    {
+      "from": 134.9,
+      "to": 136.98,
+      "sid": 86,
+      "location": 2,
+      "content": "二维平面直接发射长短不一",
+      "music": 0.0
+    },
+    {
+      "from": 136.98,
+      "to": 138.38,
+      "sid": 87,
+      "location": 2,
+      "content": "位置不同的激光阵列",
+      "music": 0.0
+    },
+    {
+      "from": 138.38,
+      "to": 140.58,
+      "sid": 88,
+      "location": 2,
+      "content": "岂不是就能在三维空间投射画面啦",
+      "music": 0.0
+    },
+    {
+      "from": 140.58,
+      "to": 141.06,
+      "sid": 89,
+      "location": 2,
+      "content": "当然了",
+      "music": 0.0
+    },
+    {
+      "from": 141.06,
+      "to": 141.58,
+      "sid": 90,
+      "location": 2,
+      "content": "吹归吹",
+      "music": 0.0
+    },
+    {
+      "from": 141.58,
+      "to": 142.1,
+      "sid": 91,
+      "location": 2,
+      "content": "闹归闹",
+      "music": 0.0
+    },
+    {
+      "from": 142.1,
+      "to": 143.38,
+      "sid": 92,
+      "location": 2,
+      "content": "别拿高科技开玩笑",
+      "music": 0.0
+    },
+    {
+      "from": 143.38,
+      "to": 145.44,
+      "sid": 93,
+      "location": 2,
+      "content": "这类技术放电影里那叫科幻",
+      "music": 0.0
+    },
+    {
+      "from": 145.44,
+      "to": 146.94,
+      "sid": 94,
+      "location": 2,
+      "content": "但在生活中也是常态了",
+      "music": 0.0
+    },
+    {
+      "from": 146.94,
+      "to": 149.02,
+      "sid": 95,
+      "location": 2,
+      "content": "不只是前面说的雷达和电影特效",
+      "music": 0.0
+    },
+    {
+      "from": 149.02,
+      "to": 150.12,
+      "sid": 96,
+      "location": 2,
+      "content": "还有热成像勘探",
+      "music": 0.0
+    },
+    {
+      "from": 150.12,
+      "to": 150.8,
+      "sid": 97,
+      "location": 2,
+      "content": "红外侦察",
+      "music": 0.0
+    },
+    {
+      "from": 150.8,
+      "to": 151.54,
+      "sid": 98,
+      "location": 2,
+      "content": "无人机定位",
+      "music": 0.0
+    },
+    {
+      "from": 151.54,
+      "to": 152.58,
+      "sid": 99,
+      "location": 2,
+      "content": "人脸解锁之类的",
+      "music": 0.0
+    },
+    {
+      "from": 152.58,
+      "to": 153.98,
+      "sid": 100,
+      "location": 2,
+      "content": "都是这种很牛逼的技术",
+      "music": 0.0
+    },
+    {
+      "from": 153.98,
+      "to": 154.42,
+      "sid": 101,
+      "location": 2,
+      "content": "就拿这个",
+      "music": 0.0
+    },
+    {
+      "from": 154.42,
+      "to": 156.52,
+      "sid": 102,
+      "location": 2,
+      "content": "我从大学用到现在的电动牙刷品牌来说",
+      "music": 0.0
+    },
+    {
+      "from": 156.52,
+      "to": 158.24,
+      "sid": 103,
+      "location": 2,
+      "content": "像是拍科幻片的动捕技术",
+      "music": 0.0
+    },
+    {
+      "from": 158.24,
+      "to": 159.68,
+      "sid": 104,
+      "location": 2,
+      "content": "智能汽车的雷达定位系统",
+      "music": 0.0
+    },
+    {
+      "from": 159.68,
+      "to": 162.04,
+      "sid": 105,
+      "location": 2,
+      "content": "都应用到了这最新款的智能屏牙刷上了",
+      "music": 0.0
+    },
+    {
+      "from": 162.04,
+      "to": 164.36,
+      "sid": 106,
+      "location": 2,
+      "content": "瞬间就跟别的牙刷拉开了时代差距",
+      "music": 0.0
+    },
+    {
+      "from": 164.36,
+      "to": 166.92,
+      "sid": 107,
+      "location": 2,
+      "content": "就这个Y20里面的芯片和无人机的姿态",
+      "music": 0.0
+    },
+    {
+      "from": 166.92,
+      "to": 169.76,
+      "sid": 108,
+      "location": 2,
+      "content": "传感器是同你刷左边就能追踪到左边位置",
+      "music": 0.0
+    },
+    {
+      "from": 169.76,
+      "to": 171.44,
+      "sid": 109,
+      "location": 2,
+      "content": "刷右边就能追踪到右边位置",
+      "music": 0.0
+    },
+    {
+      "from": 171.44,
+      "to": 173.34,
+      "sid": 110,
+      "location": 2,
+      "content": "说刷你上门牙绝不碰嘴唇子",
+      "music": 0.0
+    },
+    {
+      "from": 173.34,
+      "to": 174.34,
+      "sid": 111,
+      "location": 2,
+      "content": "整口牙不带落下的",
+      "music": 0.0
+    },
+    {
+      "from": 174.34,
+      "to": 175.86,
+      "sid": 112,
+      "location": 2,
+      "content": "换成它以后一年不洗牙",
+      "music": 0.0
+    },
+    {
+      "from": 175.86,
+      "to": 177.06,
+      "sid": 113,
+      "location": 2,
+      "content": "牙齿都没再蛀坏过",
+      "music": 0.0
+    },
+    {
+      "from": 177.06,
+      "to": 177.9,
+      "sid": 114,
+      "location": 2,
+      "content": "倍儿亮推荐",
+      "music": 0.0
+    },
+    {
+      "from": 177.9,
+      "to": 180.58,
+      "sid": 115,
+      "location": 2,
+      "content": "像咱们爱深夜撸串喝碳酸快乐水的兄弟们",
+      "music": 0.0
+    },
+    {
+      "from": 180.58,
+      "to": 181.34,
+      "sid": 116,
+      "location": 2,
+      "content": "赶紧安排上",
+      "music": 0.0
+    },
+    {
+      "from": 181.34,
+      "to": 183.46,
+      "sid": 117,
+      "location": 2,
+      "content": "可别学我室友刷牙三秒内咕嘟两下",
+      "music": 0.0
+    },
+    {
+      "from": 183.46,
+      "to": 184.06,
+      "sid": 118,
+      "location": 2,
+      "content": "完事儿后",
+      "music": 0.0
+    },
+    {
+      "from": 184.06,
+      "to": 185.08,
+      "sid": 119,
+      "location": 2,
+      "content": "槽牙都蛀成黑洞",
+      "music": 0.0
+    },
+    {
+      "from": 185.08,
+      "to": 186.08,
+      "sid": 120,
+      "location": 2,
+      "content": "结果又压钻",
+      "music": 0.0
+    },
+    {
+      "from": 186.08,
+      "to": 186.62,
+      "sid": 121,
+      "location": 2,
+      "content": "又根管",
+      "music": 0.0
+    },
+    {
+      "from": 186.62,
+      "to": 186.88,
+      "sid": 122,
+      "location": 2,
+      "content": "酸",
+      "music": 0.0
+    },
+    {
+      "from": 186.88,
+      "to": 187.52,
+      "sid": 123,
+      "location": 2,
+      "content": "爽麻了",
+      "music": 0.0
+    },
+    {
+      "from": 187.52,
+      "to": 189.4,
+      "sid": 124,
+      "location": 2,
+      "content": "咱们也赶紧检查一下牙上有没有黑线",
+      "music": 0.0
+    },
+    {
+      "from": 189.4,
+      "to": 191.4,
+      "sid": 125,
+      "location": 2,
+      "content": "要不然去医院好几天就没跑了",
+      "music": 0.0
+    },
+    {
+      "from": 191.4,
+      "to": 192.48,
+      "sid": 126,
+      "location": 2,
+      "content": "这牌都用了多年",
+      "music": 0.0
+    },
+    {
+      "from": 192.48,
+      "to": 193.66,
+      "sid": 127,
+      "location": 2,
+      "content": "还是比较钟情的",
+      "music": 0.0
+    },
+    {
+      "from": 193.66,
+      "to": 195.28,
+      "sid": 128,
+      "location": 2,
+      "content": "相比于手刷效率高太多",
+      "music": 0.0
+    },
+    {
+      "from": 195.28,
+      "to": 196.66,
+      "sid": 129,
+      "location": 2,
+      "content": "看着颜值也不在话下",
+      "music": 0.0
+    },
+    {
+      "from": 196.66,
+      "to": 198.0,
+      "sid": 130,
+      "location": 2,
+      "content": "之前老款用来用去",
+      "music": 0.0
+    },
+    {
+      "from": 198.0,
+      "to": 199.52,
+      "sid": 131,
+      "location": 2,
+      "content": "后面两年没啥新体验了",
+      "music": 0.0
+    },
+    {
+      "from": 199.52,
+      "to": 201.62,
+      "sid": 132,
+      "location": 2,
+      "content": "现在这一代的带屏牙刷先进",
+      "music": 0.0
+    },
+    {
+      "from": 201.62,
+      "to": 204.1,
+      "sid": 133,
+      "location": 2,
+      "content": "这牙刷上手就是80刷牙法的45度",
+      "music": 0.0
+    },
+    {
+      "from": 204.1,
+      "to": 206.36,
+      "sid": 134,
+      "location": 2,
+      "content": "扫刷一下能刷到上下两排牙",
+      "music": 0.0
+    },
+    {
+      "from": 206.36,
+      "to": 208.14,
+      "sid": 135,
+      "location": 2,
+      "content": "加上一秒刷几万次的频率",
+      "music": 0.0
+    },
+    {
+      "from": 208.14,
+      "to": 209.68,
+      "sid": 136,
+      "location": 2,
+      "content": "一次就比自己少刷四次强",
+      "music": 0.0
+    },
+    {
+      "from": 209.68,
+      "to": 212.62,
+      "sid": 137,
+      "location": 2,
+      "content": "最爽的还是在屏幕直接精准追踪你的刷牙路径",
+      "music": 0.0
+    },
+    {
+      "from": 212.62,
+      "to": 213.46,
+      "sid": 138,
+      "location": 2,
+      "content": "生成口腔地图",
+      "music": 0.0
+    },
+    {
+      "from": 213.46,
+      "to": 214.58,
+      "sid": 139,
+      "location": 2,
+      "content": "干不干净都看得到",
+      "music": 0.0
+    },
+    {
+      "from": 214.58,
+      "to": 216.26,
+      "sid": 140,
+      "location": 2,
+      "content": "还会有骨传道语音实时提醒",
+      "music": 0.0
+    },
+    {
+      "from": 216.26,
+      "to": 217.32,
+      "sid": 141,
+      "location": 2,
+      "content": "纠正刷牙坏习惯",
+      "music": 0.0
+    },
+    {
+      "from": 217.32,
+      "to": 218.96,
+      "sid": 142,
+      "location": 2,
+      "content": "闭眼无脑刷都不留死角",
+      "music": 0.0
+    },
+    {
+      "from": 218.96,
+      "to": 220.26,
+      "sid": 143,
+      "location": 2,
+      "content": "补刷左下区",
+      "music": 0.0
+    },
+    {
+      "from": 220.26,
+      "to": 222.68,
+      "sid": 144,
+      "location": 2,
+      "content": "就像这个老师会提醒我下门牙没刷干净",
+      "music": 0.0
+    },
+    {
+      "from": 222.68,
+      "to": 223.58,
+      "sid": 145,
+      "location": 2,
+      "content": "视觉盲区很难",
+      "music": 0.0
+    },
+    {
+      "from": 223.58,
+      "to": 223.88,
+      "sid": 146,
+      "location": 2,
+      "content": "刷",
+      "music": 0.0
+    },
+    {
+      "from": 223.88,
+      "to": 225.3,
+      "sid": 147,
+      "location": 2,
+      "content": "牙式黑线就乐意往这来",
+      "music": 0.0
+    },
+    {
+      "from": 225.3,
+      "to": 226.62,
+      "sid": 148,
+      "location": 2,
+      "content": "所以为啥要推荐它呢",
+      "music": 0.0
+    },
+    {
+      "from": 226.62,
+      "to": 228.88,
+      "sid": 149,
+      "location": 2,
+      "content": "这玩意还能给你提供一对一针对性情节方案",
+      "music": 0.0
+    },
+    {
+      "from": 228.88,
+      "to": 231.04,
+      "sid": 150,
+      "location": 2,
+      "content": "以后每次刷到这就自动加强正平",
+      "music": 0.0
+    },
+    {
+      "from": 231.04,
+      "to": 232.28,
+      "sid": 151,
+      "location": 2,
+      "content": "也不用管刷了多久",
+      "music": 0.0
+    },
+    {
+      "from": 232.28,
+      "to": 234.04,
+      "sid": 152,
+      "location": 2,
+      "content": "到点就提醒你刷干净了",
+      "music": 0.0
+    },
+    {
+      "from": 234.04,
+      "to": 235.98,
+      "sid": 153,
+      "location": 2,
+      "content": "真棒哎这就是100分通关了",
+      "music": 0.0
+    },
+    {
+      "from": 235.98,
+      "to": 236.68,
+      "sid": 154,
+      "location": 2,
+      "content": "吊的一批",
+      "music": 0.0
+    },
+    {
+      "from": 236.68,
+      "to": 238.64,
+      "sid": 155,
+      "location": 2,
+      "content": "这个刷头也是婴儿标准的软胶包裹",
+      "music": 0.0
+    },
+    {
+      "from": 238.64,
+      "to": 240.46,
+      "sid": 156,
+      "location": 2,
+      "content": "像气垫鞋一样刷到牙肉啊",
+      "music": 0.0
+    },
+    {
+      "from": 240.46,
+      "to": 241.1,
+      "sid": 157,
+      "location": 2,
+      "content": "不但无伤",
+      "music": 0.0
+    },
+    {
+      "from": 241.1,
+      "to": 241.8,
+      "sid": 158,
+      "location": 2,
+      "content": "还能回弹",
+      "music": 0.0
+    },
+    {
+      "from": 241.8,
+      "to": 243.0,
+      "sid": 159,
+      "location": 2,
+      "content": "就说牛不牛逼吧",
+      "music": 0.0
+    },
+    {
+      "from": 243.0,
+      "to": 243.94,
+      "sid": 160,
+      "location": 2,
+      "content": "咱也不白来啊",
+      "music": 0.0
+    },
+    {
+      "from": 243.94,
+      "to": 246.08,
+      "sid": 161,
+      "location": 2,
+      "content": "直接薅了LV设计师联名的礼盒",
+      "music": 0.0
+    },
+    {
+      "from": 246.08,
+      "to": 247.7,
+      "sid": 162,
+      "location": 2,
+      "content": "还包半年刷头自用",
+      "music": 0.0
+    },
+    {
+      "from": 247.7,
+      "to": 248.52,
+      "sid": 163,
+      "location": 2,
+      "content": "送人都有面",
+      "music": 0.0
+    },
+    {
+      "from": 248.52,
+      "to": 250.16,
+      "sid": 164,
+      "location": 2,
+      "content": "下单记得先薅优惠券",
+      "music": 0.0
+    },
+    {
+      "from": 250.16,
+      "to": 250.74,
+      "sid": 165,
+      "location": 2,
+      "content": "量不多",
+      "music": 0.0
+    },
+    {
+      "from": 250.74,
+      "to": 252.04,
+      "sid": 166,
+      "location": 2,
+      "content": "但大额的超乎想象",
+      "music": 0.0
+    },
+    {
+      "from": 252.04,
+      "to": 253.5,
+      "sid": 167,
+      "location": 2,
+      "content": "有需要的兄弟手速快",
+      "music": 0.0
+    },
+    {
+      "from": 253.5,
+      "to": 254.14,
+      "sid": 168,
+      "location": 2,
+      "content": "除了多维",
+      "music": 0.0
+    },
+    {
+      "from": 254.14,
+      "to": 255.22,
+      "sid": 169,
+      "location": 2,
+      "content": "这多层级的生物",
+      "music": 0.0
+    },
+    {
+      "from": 255.22,
+      "to": 257.079,
+      "sid": 170,
+      "location": 2,
+      "content": "可能跟咱们都不是同一个时间的",
+      "music": 0.0
+    },
+    {
+      "from": 257.079,
+      "to": 259.159,
+      "sid": 171,
+      "location": 2,
+      "content": "时间虽然是个实实在在的东西",
+      "music": 0.0
+    },
+    {
+      "from": 259.159,
+      "to": 261.999,
+      "sid": 172,
+      "location": 2,
+      "content": "但对时间的感知却取决于神经传递的速度",
+      "music": 0.0
+    },
+    {
+      "from": 261.999,
+      "to": 262.859,
+      "sid": 173,
+      "location": 2,
+      "content": "1000年时常",
+      "music": 0.0
+    },
+    {
+      "from": 262.859,
+      "to": 265.02,
+      "sid": 174,
+      "location": 2,
+      "content": "但要是一个生物神经传递速度很慢",
+      "music": 0.0
+    },
+    {
+      "from": 265.02,
+      "to": 266.96,
+      "sid": 175,
+      "location": 2,
+      "content": "大脑一个信号发出去要好几年",
+      "music": 0.0
+    },
+    {
+      "from": 266.96,
+      "to": 269.18,
+      "sid": 176,
+      "location": 2,
+      "content": "那1000年对他来说也就是一哆嗦",
+      "music": 0.0
+    },
+    {
+      "from": 269.18,
+      "to": 269.98,
+      "sid": 177,
+      "location": 2,
+      "content": "一秒钟够短",
+      "music": 0.0
+    },
+    {
+      "from": 269.98,
+      "to": 272.66,
+      "sid": 178,
+      "location": 2,
+      "content": "但要是这个生物神经传递速度快到普朗克时间",
+      "music": 0.0
+    },
+    {
+      "from": 272.66,
+      "to": 275.02,
+      "sid": 179,
+      "location": 2,
+      "content": "那这一秒对他来说就是几辈子的时间",
+      "music": 0.0
+    },
+    {
+      "from": 275.02,
+      "to": 276.98,
+      "sid": 180,
+      "location": 2,
+      "content": "所以哪怕一秒钟也是很长的",
+      "music": 0.0
+    },
+    {
+      "from": 276.98,
+      "to": 277.74,
+      "sid": 181,
+      "location": 2,
+      "content": "对于人类来说",
+      "music": 0.0
+    },
+    {
+      "from": 277.74,
+      "to": 279.06,
+      "sid": 182,
+      "location": 2,
+      "content": "百年是自己的一生",
+      "music": 0.0
+    },
+    {
+      "from": 279.06,
+      "to": 280.22,
+      "sid": 183,
+      "location": 2,
+      "content": "千年是文明的一生",
+      "music": 0.0
+    },
+    {
+      "from": 280.22,
+      "to": 281.62,
+      "sid": 184,
+      "location": 2,
+      "content": "百万年是物种的一生",
+      "music": 0.0
+    },
+    {
+      "from": 281.62,
+      "to": 284.14,
+      "sid": 185,
+      "location": 2,
+      "content": "而宇宙几百亿年有价值的也叫大爆炸",
+      "music": 0.0
+    },
+    {
+      "from": 284.14,
+      "to": 284.84,
+      "sid": 186,
+      "location": 2,
+      "content": "轰隆的一声",
+      "music": 0.0
+    },
+    {
+      "from": 284.84,
+      "to": 287.64,
+      "sid": 187,
+      "location": 2,
+      "content": "要是有一种生物刚有地球人就住在这",
+      "music": 0.0
+    },
+    {
+      "from": 287.64,
+      "to": 289.86,
+      "sid": 188,
+      "location": 2,
+      "content": "神经传递速度慢到1万年纪",
+      "music": 0.0
+    },
+    {
+      "from": 289.86,
+      "to": 293.2,
+      "sid": 189,
+      "location": 2,
+      "content": "那10亿年也只不过刚让他从胎盘变成未成年",
+      "music": 0.0
+    },
+    {
+      "from": 293.2,
+      "to": 294.58,
+      "sid": 190,
+      "location": 2,
+      "content": "人类从起源到灭绝",
+      "music": 0.0
+    },
+    {
+      "from": 294.58,
+      "to": 295.68,
+      "sid": 191,
+      "location": 2,
+      "content": "对它来说就是什么病",
+      "music": 0.0
+    },
+    {
+      "from": 295.68,
+      "to": 296.28,
+      "sid": 192,
+      "location": 2,
+      "content": "我也呼啦一下",
+      "music": 0.0
+    },
+    {
+      "from": 296.28,
+      "to": 297.52,
+      "sid": 193,
+      "location": 2,
+      "content": "过去的有本小说讲",
+      "music": 0.0
+    },
+    {
+      "from": 297.52,
+      "to": 300.92,
+      "sid": 194,
+      "location": 2,
+      "content": "未来有种病毒会让感染的人从外到内逐渐石化",
+      "music": 0.0
+    },
+    {
+      "from": 300.92,
+      "to": 301.96,
+      "sid": 195,
+      "location": 2,
+      "content": "先是外焦里嫩",
+      "music": 0.0
+    },
+    {
+      "from": 301.96,
+      "to": 303.5,
+      "sid": 196,
+      "location": 2,
+      "content": "最后彻底变成个大石头",
+      "music": 0.0
+    },
+    {
+      "from": 303.5,
+      "to": 304.28,
+      "sid": 197,
+      "location": 2,
+      "content": "几百万年后",
+      "music": 0.0
+    },
+    {
+      "from": 304.28,
+      "to": 306.04,
+      "sid": 198,
+      "location": 2,
+      "content": "人类又研究这些人形石头",
+      "music": 0.0
+    },
+    {
+      "from": 306.04,
+      "to": 308.2,
+      "sid": 199,
+      "location": 2,
+      "content": "发现他们的位置动作都有了变化",
+      "music": 0.0
+    },
+    {
+      "from": 308.2,
+      "to": 309.52,
+      "sid": 200,
+      "location": 2,
+      "content": "原来这些人都还活着",
+      "music": 0.0
+    },
+    {
+      "from": 309.52,
+      "to": 310.8,
+      "sid": 201,
+      "location": 2,
+      "content": "只是生命无限延长",
+      "music": 0.0
+    },
+    {
+      "from": 310.8,
+      "to": 313.06,
+      "sid": 202,
+      "location": 2,
+      "content": "动作无限延缓了福寿与天齐了",
+      "music": 0.0
+    },
+    {
+      "from": 313.06,
+      "to": 313.46,
+      "sid": 203,
+      "location": 2,
+      "content": "属于是",
+      "music": 0.0
+    },
+    {
+      "from": 313.46,
+      "to": 316.28,
+      "sid": 204,
+      "location": 2,
+      "content": "如果这些生物是由人类未发现的物质组成",
+      "music": 0.0
+    },
+    {
+      "from": 316.28,
+      "to": 317.6,
+      "sid": 205,
+      "location": 2,
+      "content": "那人类也无法察觉",
+      "music": 0.0
+    },
+    {
+      "from": 317.6,
+      "to": 319.92,
+      "sid": 206,
+      "location": 2,
+      "content": "比如暗物质这东西测有引力",
+      "music": 0.0
+    },
+    {
+      "from": 319.92,
+      "to": 320.8,
+      "sid": 207,
+      "location": 2,
+      "content": "一看没东西",
+      "music": 0.0
+    },
+    {
+      "from": 320.8,
+      "to": 321.64,
+      "sid": 208,
+      "location": 2,
+      "content": "艺术很神秘",
+      "music": 0.0
+    },
+    {
+      "from": 321.64,
+      "to": 322.44,
+      "sid": 209,
+      "location": 2,
+      "content": "但在宇宙中",
+      "music": 0.0
+    },
+    {
+      "from": 322.44,
+      "to": 324.36,
+      "sid": 210,
+      "location": 2,
+      "content": "它们甚至比普通物质还多得多",
+      "music": 0.0
+    },
+    {
+      "from": 324.36,
+      "to": 325.36,
+      "sid": 211,
+      "location": 2,
+      "content": "这还是有引力",
+      "music": 0.0
+    },
+    {
+      "from": 325.36,
+      "to": 327.82,
+      "sid": 212,
+      "location": 2,
+      "content": "而要是现代科技完全测不到的东西",
+      "music": 0.0
+    },
+    {
+      "from": 327.82,
+      "to": 329.08,
+      "sid": 213,
+      "location": 2,
+      "content": "那就更别提感知了",
+      "music": 0.0
+    },
+    {
+      "from": 329.08,
+      "to": 330.96,
+      "sid": 214,
+      "location": 2,
+      "content": "宇宙占少数的普通物质里",
+      "music": 0.0
+    },
+    {
+      "from": 330.96,
+      "to": 332.6,
+      "sid": 215,
+      "location": 2,
+      "content": "都能产生这么多智慧生物",
+      "music": 0.0
+    },
+    {
+      "from": 332.6,
+      "to": 334.32,
+      "sid": 216,
+      "location": 2,
+      "content": "那占比更多的不可知物质",
+      "music": 0.0
+    },
+    {
+      "from": 334.32,
+      "to": 336.98,
+      "sid": 217,
+      "location": 2,
+      "content": "谁知道能长出什么好看好吃好玩的动物来呢",
+      "music": 0.0
+    },
+    {
+      "from": 336.98,
+      "to": 338.34,
+      "sid": 218,
+      "location": 2,
+      "content": "它们也可能就在地球上",
+      "music": 0.0
+    },
+    {
+      "from": 338.34,
+      "to": 339.46,
+      "sid": 219,
+      "location": 2,
+      "content": "数量远超过咱们",
+      "music": 0.0
+    },
+    {
+      "from": 339.46,
+      "to": 341.64,
+      "sid": 220,
+      "location": 2,
+      "content": "甚至整个宇宙都充斥着这样的生物",
+      "music": 0.0
+    },
+    {
+      "from": 341.64,
+      "to": 342.68,
+      "sid": 221,
+      "location": 2,
+      "content": "人家才是正",
+      "music": 0.0
+    },
+    {
+      "from": 342.68,
+      "to": 344.04,
+      "sid": 222,
+      "location": 2,
+      "content": "咱们才是少数群体",
+      "music": 0.0
+    },
+    {
+      "from": 344.04,
+      "to": 345.68,
+      "sid": 223,
+      "location": 2,
+      "content": "但明暗两隔永不相见",
+      "music": 0.0
+    },
+    {
+      "from": 345.68,
+      "to": 347.38,
+      "sid": 224,
+      "location": 2,
+      "content": "就像一个人总是早出晚归",
+      "music": 0.0
+    },
+    {
+      "from": 347.38,
+      "to": 347.96,
+      "sid": 225,
+      "location": 2,
+      "content": "早起上班",
+      "music": 0.0
+    },
+    {
+      "from": 347.96,
+      "to": 348.96,
+      "sid": 226,
+      "location": 2,
+      "content": "儿子还没起",
+      "music": 0.0
+    },
+    {
+      "from": 348.96,
+      "to": 349.66,
+      "sid": 227,
+      "location": 2,
+      "content": "晚上回家",
+      "music": 0.0
+    },
+    {
+      "from": 349.66,
+      "to": 350.56,
+      "sid": 228,
+      "location": 2,
+      "content": "儿子早睡了",
+      "music": 0.0
+    },
+    {
+      "from": 350.56,
+      "to": 351.62,
+      "sid": 229,
+      "location": 2,
+      "content": "如此多年以后",
+      "music": 0.0
+    },
+    {
+      "from": 351.62,
+      "to": 352.66,
+      "sid": 230,
+      "location": 2,
+      "content": "他儿子就会疑惑",
+      "music": 0.0
+    },
+    {
+      "from": 352.66,
+      "to": 353.52,
+      "sid": 231,
+      "location": 2,
+      "content": "太诡异了",
+      "music": 0.0
+    },
+    {
+      "from": 353.52,
+      "to": 354.0,
+      "sid": 232,
+      "location": 2,
+      "content": "家人们",
+      "music": 0.0
+    },
+    {
+      "from": 354.0,
+      "to": 356.28,
+      "sid": 233,
+      "location": 2,
+      "content": "我总感觉家里不止我和我妈两人",
+      "music": 0.0
+    },
+    {
+      "from": 356.28,
+      "to": 357.86,
+      "sid": 234,
+      "location": 2,
+      "content": "宇宙或许已拥挤不堪",
+      "music": 0.0
+    },
+    {
+      "from": 357.86,
+      "to": 359.88,
+      "sid": 235,
+      "location": 2,
+      "content": "但智慧生物们因为体型维度",
+      "music": 0.0
+    },
+    {
+      "from": 359.88,
+      "to": 361.58,
+      "sid": 236,
+      "location": 2,
+      "content": "时间甚至物理规则都不同",
+      "music": 0.0
+    },
+    {
+      "from": 361.58,
+      "to": 363.44,
+      "sid": 237,
+      "location": 2,
+      "content": "尽管重重叠叠生活在一起",
+      "music": 0.0
+    },
+    {
+      "from": 363.44,
+      "to": 364.82,
+      "sid": 238,
+      "location": 2,
+      "content": "却丝毫不被别人影响",
+      "music": 0.0
+    },
+    {
+      "from": 364.82,
+      "to": 367.48,
+      "sid": 239,
+      "location": 2,
+      "content": "这可能就是多层级生物的宇宙图景啊",
+      "music": 0.0
+    }
+  ]
+}

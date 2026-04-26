@@ -1,0 +1,828 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.0,
+      "to": 2.08,
+      "sid": 1,
+      "location": 2,
+      "content": "苹果手机到底有没有必要贴镜头膜",
+      "music": 0.0
+    },
+    {
+      "from": 2.08,
+      "to": 3.2,
+      "sid": 2,
+      "location": 2,
+      "content": "在这里想问一下大家",
+      "music": 0.0
+    },
+    {
+      "from": 3.2,
+      "to": 5.18,
+      "sid": 3,
+      "location": 2,
+      "content": "对于手机镜头贴不贴膜有什么意见",
+      "music": 0.0
+    },
+    {
+      "from": 5.18,
+      "to": 8.02,
+      "sid": 4,
+      "location": 2,
+      "content": "有一部分人觉得贴这破玩意买了降低画质",
+      "music": 0.0
+    },
+    {
+      "from": 8.02,
+      "to": 8.64,
+      "sid": 5,
+      "location": 2,
+      "content": "还降智",
+      "music": 0.0
+    },
+    {
+      "from": 8.64,
+      "to": 10.32,
+      "sid": 6,
+      "location": 2,
+      "content": "除了一些拍照爱好者之外",
+      "music": 0.0
+    },
+    {
+      "from": 10.32,
+      "to": 12.54,
+      "sid": 7,
+      "location": 2,
+      "content": "大部分人的作用就是扫码就够了",
+      "music": 0.0
+    },
+    {
+      "from": 12.54,
+      "to": 13.78,
+      "sid": 8,
+      "location": 2,
+      "content": "而另一部分人则认为",
+      "music": 0.0
+    },
+    {
+      "from": 13.78,
+      "to": 15.0,
+      "sid": 9,
+      "location": 2,
+      "content": "随着镜头越做越大",
+      "music": 0.0
+    },
+    {
+      "from": 15.0,
+      "to": 16.86,
+      "sid": 10,
+      "location": 2,
+      "content": "内置的元零件也越来越精细",
+      "music": 0.0
+    },
+    {
+      "from": 16.86,
+      "to": 18.06,
+      "sid": 11,
+      "location": 2,
+      "content": "造价也就越来越贵",
+      "music": 0.0
+    },
+    {
+      "from": 18.06,
+      "to": 20.5,
+      "sid": 12,
+      "location": 2,
+      "content": "万一不小心刮花磕碰到售后的成本",
+      "music": 0.0
+    },
+    {
+      "from": 20.5,
+      "to": 22.34,
+      "sid": 13,
+      "location": 2,
+      "content": "都可以换一台中高端手机了",
+      "music": 0.0
+    },
+    {
+      "from": 22.34,
+      "to": 24.22,
+      "sid": 14,
+      "location": 2,
+      "content": "要是你你会怎么选择呢",
+      "music": 0.0
+    },
+    {
+      "from": 24.22,
+      "to": 26.9,
+      "sid": 15,
+      "location": 2,
+      "content": "要知道大部分时间我们的镜头是用不到的",
+      "music": 0.0
+    },
+    {
+      "from": 26.9,
+      "to": 28.78,
+      "sid": 16,
+      "location": 2,
+      "content": "刮花与磕碰自然避免不了",
+      "music": 0.0
+    },
+    {
+      "from": 28.78,
+      "to": 30.34,
+      "sid": 17,
+      "location": 2,
+      "content": "此时就会有小伙伴说了",
+      "music": 0.0
+    },
+    {
+      "from": 30.34,
+      "to": 32.74,
+      "sid": 18,
+      "location": 2,
+      "content": "蓝宝石镜头膜哪有那么容易刮花",
+      "music": 0.0
+    },
+    {
+      "from": 32.74,
+      "to": 33.92,
+      "sid": 19,
+      "location": 2,
+      "content": "纯纯就是散播谣言",
+      "music": 0.0
+    },
+    {
+      "from": 33.92,
+      "to": 36.5,
+      "sid": 20,
+      "location": 2,
+      "content": "还有一种就是偶尔用手机记录一下生活",
+      "music": 0.0
+    },
+    {
+      "from": 36.5,
+      "to": 38.6,
+      "sid": 21,
+      "location": 2,
+      "content": "对于城墙的质量并没有很大的要求",
+      "music": 0.0
+    },
+    {
+      "from": 38.6,
+      "to": 41.08,
+      "sid": 22,
+      "location": 2,
+      "content": "加上新机的新鲜感以及售后的维修成本",
+      "music": 0.0
+    },
+    {
+      "from": 41.08,
+      "to": 44.1,
+      "sid": 23,
+      "location": 2,
+      "content": "自然也会去选择带上镜头膜做一下相应的保护",
+      "music": 0.0
+    },
+    {
+      "from": 44.1,
+      "to": 45.34,
+      "sid": 24,
+      "location": 2,
+      "content": "但是问题来了",
+      "music": 0.0
+    },
+    {
+      "from": 45.34,
+      "to": 46.98,
+      "sid": 25,
+      "location": 2,
+      "content": "镜头猫对画质影响有多大",
+      "music": 0.0
+    },
+    {
+      "from": 46.98,
+      "to": 48.06,
+      "sid": 26,
+      "location": 2,
+      "content": "本来没有鬼影的",
+      "music": 0.0
+    },
+    {
+      "from": 48.06,
+      "to": 49.24,
+      "sid": 27,
+      "location": 2,
+      "content": "听上去会不会出现了",
+      "music": 0.0
+    },
+    {
+      "from": 49.24,
+      "to": 51.34,
+      "sid": 28,
+      "location": 2,
+      "content": "再加上现在网上各种各样的镜头膜",
+      "music": 0.0
+    },
+    {
+      "from": 51.34,
+      "to": 52.48,
+      "sid": 29,
+      "location": 2,
+      "content": "完全不知道怎么选",
+      "music": 0.0
+    },
+    {
+      "from": 52.48,
+      "to": 54.68,
+      "sid": 30,
+      "location": 2,
+      "content": "为了能给大家带来更直观的视觉感受",
+      "music": 0.0
+    },
+    {
+      "from": 54.68,
+      "to": 55.8,
+      "sid": 31,
+      "location": 2,
+      "content": "以及不同材质的对比",
+      "music": 0.0
+    },
+    {
+      "from": 55.8,
+      "to": 58.52,
+      "sid": 32,
+      "location": 2,
+      "content": "就把市面上销量比较高的几款都买了回来",
+      "music": 0.0
+    },
+    {
+      "from": 58.52,
+      "to": 60.86,
+      "sid": 33,
+      "location": 2,
+      "content": "本期视频就一起来看看市面上的镜头膜",
+      "music": 0.0
+    },
+    {
+      "from": 60.86,
+      "to": 62.14,
+      "sid": 34,
+      "location": 2,
+      "content": "是不是和我想的一样",
+      "music": 0.0
+    },
+    {
+      "from": 62.14,
+      "to": 63.1,
+      "sid": 35,
+      "location": 2,
+      "content": "都是智商税",
+      "music": 0.0
+    },
+    {
+      "from": 63.1,
+      "to": 65.319,
+      "sid": 36,
+      "location": 2,
+      "content": "开始前当然也分享一些小知识",
+      "music": 0.0
+    },
+    {
+      "from": 65.319,
+      "to": 67.719,
+      "sid": 37,
+      "location": 2,
+      "content": "相机表面的玻璃是涂有AAR涂层的",
+      "music": 0.0
+    },
+    {
+      "from": 67.719,
+      "to": 68.319,
+      "sid": 38,
+      "location": 2,
+      "content": "这个图层",
+      "music": 0.0
+    },
+    {
+      "from": 68.319,
+      "to": 70.579,
+      "sid": 39,
+      "location": 2,
+      "content": "就是为了让镜头玻璃能有更高的透光率",
+      "music": 0.0
+    },
+    {
+      "from": 70.579,
+      "to": 72.559,
+      "sid": 40,
+      "location": 2,
+      "content": "而涂层工艺呢是非常脆弱的",
+      "music": 0.0
+    },
+    {
+      "from": 72.559,
+      "to": 74.96,
+      "sid": 41,
+      "location": 2,
+      "content": "日常摩擦也会造成涂层刮花的情况",
+      "music": 0.0
+    },
+    {
+      "from": 74.96,
+      "to": 77.1,
+      "sid": 42,
+      "location": 2,
+      "content": "严重的甚至会影响拍照的成像质量",
+      "music": 0.0
+    },
+    {
+      "from": 77.1,
+      "to": 78.9,
+      "sid": 43,
+      "location": 2,
+      "content": "这也是为什么相机都会带有盖子",
+      "music": 0.0
+    },
+    {
+      "from": 78.9,
+      "to": 81.48,
+      "sid": 44,
+      "location": 2,
+      "content": "所以AI的图层能让镜头没有更大的提升",
+      "music": 0.0
+    },
+    {
+      "from": 81.48,
+      "to": 82.3,
+      "sid": 45,
+      "location": 2,
+      "content": "透光率越高",
+      "music": 0.0
+    },
+    {
+      "from": 82.3,
+      "to": 84.9,
+      "sid": 46,
+      "location": 2,
+      "content": "越不会出现影响原本画质的情况出现",
+      "music": 0.0
+    },
+    {
+      "from": 84.9,
+      "to": 86.56,
+      "sid": 47,
+      "location": 2,
+      "content": "使用透光仪进行透光测试",
+      "music": 0.0
+    },
+    {
+      "from": 86.56,
+      "to": 87.88,
+      "sid": 48,
+      "location": 2,
+      "content": "先简单的分为两种",
+      "music": 0.0
+    },
+    {
+      "from": 87.88,
+      "to": 89.54,
+      "sid": 49,
+      "location": 2,
+      "content": "带AAR的和不带R的",
+      "music": 0.0
+    },
+    {
+      "from": 89.54,
+      "to": 92.76,
+      "sid": 50,
+      "location": 2,
+      "content": "其中秋骨兔伞魔第一卫星球卫士图拉斯",
+      "music": 0.0
+    },
+    {
+      "from": 92.76,
+      "to": 94.02,
+      "sid": 51,
+      "location": 2,
+      "content": "都是带有做AAR的",
+      "music": 0.0
+    },
+    {
+      "from": 94.02,
+      "to": 96.32,
+      "sid": 52,
+      "location": 2,
+      "content": "脱光率分别达到了93%以上",
+      "music": 0.0
+    },
+    {
+      "from": 96.32,
+      "to": 98.5,
+      "sid": 53,
+      "location": 2,
+      "content": "然后是贝斯树飞网炮",
+      "music": 0.0
+    },
+    {
+      "from": 98.5,
+      "to": 99.9,
+      "sid": 54,
+      "location": 2,
+      "content": "三重潮流酷炫酷",
+      "music": 0.0
+    },
+    {
+      "from": 99.9,
+      "to": 101.5,
+      "sid": 55,
+      "location": 2,
+      "content": "这几款是没有做AR的",
+      "music": 0.0
+    },
+    {
+      "from": 101.5,
+      "to": 104.04,
+      "sid": 56,
+      "location": 2,
+      "content": "透光率相比做了AAR增透的来说就会低很多",
+      "music": 0.0
+    },
+    {
+      "from": 104.04,
+      "to": 105.88,
+      "sid": 57,
+      "location": 2,
+      "content": "这几款都是一体式的设计",
+      "music": 0.0
+    },
+    {
+      "from": 105.88,
+      "to": 107.72,
+      "sid": 58,
+      "location": 2,
+      "content": "虽然在贴合方面会简单很多",
+      "music": 0.0
+    },
+    {
+      "from": 107.72,
+      "to": 110.16,
+      "sid": 59,
+      "location": 2,
+      "content": "但会很大概率会出现影响成像的情况",
+      "music": 0.0
+    },
+    {
+      "from": 110.16,
+      "to": 112.62,
+      "sid": 60,
+      "location": 2,
+      "content": "因为旁边的透明边框会造成光的折射",
+      "music": 0.0
+    },
+    {
+      "from": 112.62,
+      "to": 114.08,
+      "sid": 61,
+      "location": 2,
+      "content": "导致光线分布不均匀",
+      "music": 0.0
+    },
+    {
+      "from": 114.08,
+      "to": 116.96,
+      "sid": 62,
+      "location": 2,
+      "content": "以上全部测试呢我做成一个表格供大家参考",
+      "music": 0.0
+    },
+    {
+      "from": 116.96,
+      "to": 118.96,
+      "sid": 63,
+      "location": 2,
+      "content": "接下来我们把镜头移步到外面",
+      "music": 0.0
+    },
+    {
+      "from": 118.96,
+      "to": 120.84,
+      "sid": 64,
+      "location": 2,
+      "content": "我以白天晚上逆光",
+      "music": 0.0
+    },
+    {
+      "from": 120.84,
+      "to": 122.38,
+      "sid": 65,
+      "location": 2,
+      "content": "这几个方面来进行实测",
+      "music": 0.0
+    },
+    {
+      "from": 122.38,
+      "to": 124.52,
+      "sid": 66,
+      "location": 2,
+      "content": "看看到底谁才是最佳入手选择",
+      "music": 0.16822429120447208
+    },
+    {
+      "from": 124.52,
+      "to": 126.26,
+      "sid": 67,
+      "location": 2,
+      "content": "先来看一下白天的成像情况",
+      "music": 0.0
+    },
+    {
+      "from": 126.26,
+      "to": 128.38,
+      "sid": 68,
+      "location": 2,
+      "content": "可以看到基本上是没有什么影响的",
+      "music": 0.0
+    },
+    {
+      "from": 128.38,
+      "to": 129.54,
+      "sid": 69,
+      "location": 2,
+      "content": "哪怕是一体式镜头",
+      "music": 0.0
+    },
+    {
+      "from": 129.54,
+      "to": 130.919,
+      "sid": 70,
+      "location": 2,
+      "content": "在白天也不会出现诡异",
+      "music": 0.0
+    },
+    {
+      "from": 133.679,
+      "to": 136.159,
+      "sid": 71,
+      "location": 2,
+      "content": "在默认焦距情况下进行了美嘉的拍摄",
+      "music": 0.0
+    },
+    {
+      "from": 136.159,
+      "to": 138.68,
+      "sid": 72,
+      "location": 2,
+      "content": "这时候各家之间的区别就出现了",
+      "music": 0.0
+    },
+    {
+      "from": 138.68,
+      "to": 141.36,
+      "sid": 73,
+      "location": 2,
+      "content": "其中第一位贝斯树飞网炮等等",
+      "music": 0.0
+    },
+    {
+      "from": 141.36,
+      "to": 143.0,
+      "sid": 74,
+      "location": 2,
+      "content": "这几款游戏是自带的有镜头框",
+      "music": 0.0
+    },
+    {
+      "from": 143.0,
+      "to": 144.24,
+      "sid": 75,
+      "location": 2,
+      "content": "所以成像出来的画面",
+      "music": 0.0
+    },
+    {
+      "from": 144.24,
+      "to": 146.6,
+      "sid": 76,
+      "location": 2,
+      "content": "自然就出现了炫光以及鬼影的情况",
+      "music": 0.0
+    },
+    {
+      "from": 146.6,
+      "to": 149.76,
+      "sid": 77,
+      "location": 2,
+      "content": "三重以及潮流炫酷出现了严重眩光的情况",
+      "music": 0.0
+    },
+    {
+      "from": 149.76,
+      "to": 151.52,
+      "sid": 78,
+      "location": 2,
+      "content": "剩下的几家和原相机相比",
+      "music": 0.0
+    },
+    {
+      "from": 151.52,
+      "to": 152.7,
+      "sid": 79,
+      "location": 2,
+      "content": "看起来相差并不大",
+      "music": 0.0
+    },
+    {
+      "from": 152.7,
+      "to": 154.32,
+      "sid": 80,
+      "location": 2,
+      "content": "接下来来到逆光的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 154.32,
+      "to": 158.08,
+      "sid": 81,
+      "location": 2,
+      "content": "明显可以看到贝斯树飞网炮都出现了灯光重影",
+      "music": 0.0
+    },
+    {
+      "from": 158.08,
+      "to": 160.54,
+      "sid": 82,
+      "location": 2,
+      "content": "三重和潮流炫酷则出现了更严重的重影",
+      "music": 0.0
+    },
+    {
+      "from": 160.54,
+      "to": 161.84,
+      "sid": 83,
+      "location": 2,
+      "content": "我把图片放到一起",
+      "music": 0.0
+    },
+    {
+      "from": 161.84,
+      "to": 162.96,
+      "sid": 84,
+      "location": 2,
+      "content": "大家可以对比一下",
+      "music": 0.0
+    },
+    {
+      "from": 162.96,
+      "to": 163.86,
+      "sid": 85,
+      "location": 2,
+      "content": "拍摄了那么多",
+      "music": 0.0
+    },
+    {
+      "from": 163.86,
+      "to": 166.06,
+      "sid": 86,
+      "location": 2,
+      "content": "哪怕我不懂这些也能总结出来了",
+      "music": 0.0
+    },
+    {
+      "from": 166.06,
+      "to": 167.34,
+      "sid": 87,
+      "location": 2,
+      "content": "在光线充足的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 167.34,
+      "to": 168.68,
+      "sid": 88,
+      "location": 2,
+      "content": "照片是没有任何问题的",
+      "music": 0.0
+    },
+    {
+      "from": 168.68,
+      "to": 170.12,
+      "sid": 89,
+      "location": 2,
+      "content": "不过时间来到晚上以后",
+      "music": 0.0
+    },
+    {
+      "from": 170.12,
+      "to": 171.08,
+      "sid": 90,
+      "location": 2,
+      "content": "在暗的环境下",
+      "music": 0.0
+    },
+    {
+      "from": 171.08,
+      "to": 172.68,
+      "sid": 91,
+      "location": 2,
+      "content": "照片也就有明显的区别了",
+      "music": 0.0
+    },
+    {
+      "from": 172.68,
+      "to": 174.4,
+      "sid": 92,
+      "location": 2,
+      "content": "这个也就是和它的透光率有关",
+      "music": 0.0
+    },
+    {
+      "from": 174.4,
+      "to": 175.92,
+      "sid": 93,
+      "location": 2,
+      "content": "综合下来表现不错的是",
+      "music": 0.0
+    },
+    {
+      "from": 175.92,
+      "to": 177.76,
+      "sid": 94,
+      "location": 2,
+      "content": "秋骨兔和图拉斯的AI镜头",
+      "music": 0.0
+    },
+    {
+      "from": 177.76,
+      "to": 179.64,
+      "sid": 95,
+      "location": 2,
+      "content": "我基本上都是能还原相机色彩的",
+      "music": 0.0
+    },
+    {
+      "from": 179.64,
+      "to": 181.66,
+      "sid": 96,
+      "location": 2,
+      "content": "价格的话还是秋裤图的有一点优势",
+      "music": 0.0
+    },
+    {
+      "from": 181.66,
+      "to": 183.52,
+      "sid": 97,
+      "location": 2,
+      "content": "其他的基本上是一致的好了",
+      "music": 0.0
+    },
+    {
+      "from": 183.52,
+      "to": 185.72,
+      "sid": 98,
+      "location": 2,
+      "content": "那么本期视频呢到这里也差不多该结束了",
+      "music": 0.0
+    },
+    {
+      "from": 185.72,
+      "to": 188.2,
+      "sid": 99,
+      "location": 2,
+      "content": "如果本期视频能给各位带来一点点小小的帮助",
+      "music": 0.0
+    },
+    {
+      "from": 188.2,
+      "to": 189.06,
+      "sid": 100,
+      "location": 2,
+      "content": "请一键三连",
+      "music": 0.0
+    },
+    {
+      "from": 189.06,
+      "to": 190.2,
+      "sid": 101,
+      "location": 2,
+      "content": "我们下期视频再见",
+      "music": 0.0
+    },
+    {
+      "from": 190.2,
+      "to": 190.62,
+      "sid": 102,
+      "location": 2,
+      "content": "拜拜",
+      "music": 0.0
+    }
+  ]
+}

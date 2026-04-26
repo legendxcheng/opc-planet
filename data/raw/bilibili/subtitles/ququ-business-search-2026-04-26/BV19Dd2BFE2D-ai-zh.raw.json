@@ -1,0 +1,1500 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 1.16,
+      "to": 2.12,
+      "sid": 1,
+      "location": 2,
+      "content": "他们是什么呢",
+      "music": 0.0
+    },
+    {
+      "from": 2.12,
+      "to": 3.7,
+      "sid": 2,
+      "location": 2,
+      "content": "有野心有欲望",
+      "music": 0.0
+    },
+    {
+      "from": 3.7,
+      "to": 9.649,
+      "sid": 3,
+      "location": 2,
+      "content": "但是没有一个真正的嗯这种魄力",
+      "music": 0.0
+    },
+    {
+      "from": 9.649,
+      "to": 13.649,
+      "sid": 4,
+      "location": 2,
+      "content": "没有魄力去脱离原生家庭给他带来的",
+      "music": 0.0
+    },
+    {
+      "from": 13.649,
+      "to": 16.83,
+      "sid": 5,
+      "location": 2,
+      "content": "这样一份安全感和土壤",
+      "music": 0.0
+    },
+    {
+      "from": 16.83,
+      "to": 18.39,
+      "sid": 6,
+      "location": 2,
+      "content": "有野心有欲望",
+      "music": 0.0
+    },
+    {
+      "from": 18.39,
+      "to": 19.79,
+      "sid": 7,
+      "location": 2,
+      "content": "但是没有魄力",
+      "music": 0.0
+    },
+    {
+      "from": 21.15,
+      "to": 21.83,
+      "sid": 8,
+      "location": 2,
+      "content": "就是这样的",
+      "music": 0.0
+    },
+    {
+      "from": 21.83,
+      "to": 24.929,
+      "sid": 9,
+      "location": 2,
+      "content": "但是很很多原生家庭很不错的",
+      "music": 0.0
+    },
+    {
+      "from": 24.929,
+      "to": 27.189,
+      "sid": 10,
+      "location": 2,
+      "content": "然后在原生家庭的安排下面",
+      "music": 0.0
+    },
+    {
+      "from": 27.189,
+      "to": 28.849,
+      "sid": 11,
+      "location": 2,
+      "content": "进了一个很好的单位的",
+      "music": 0.0
+    },
+    {
+      "from": 28.849,
+      "to": 31.23,
+      "sid": 12,
+      "location": 2,
+      "content": "这样的人都是这样的",
+      "music": 0.0
+    },
+    {
+      "from": 31.43,
+      "to": 32.99,
+      "sid": 13,
+      "location": 2,
+      "content": "都是这个样子的",
+      "music": 0.0
+    },
+    {
+      "from": 32.99,
+      "to": 34.97,
+      "sid": 14,
+      "location": 2,
+      "content": "有野心有欲望",
+      "music": 0.0
+    },
+    {
+      "from": 34.97,
+      "to": 37.02,
+      "sid": 15,
+      "location": 2,
+      "content": "没有魄力哈",
+      "music": 0.0
+    },
+    {
+      "from": 39.72,
+      "to": 40.96,
+      "sid": 16,
+      "location": 2,
+      "content": "所以这就很正常",
+      "music": 0.0
+    },
+    {
+      "from": 40.96,
+      "to": 44.16,
+      "sid": 17,
+      "location": 2,
+      "content": "你要让他现在立刻马上这么去下海",
+      "music": 0.0
+    },
+    {
+      "from": 44.16,
+      "to": 45.22,
+      "sid": 18,
+      "location": 2,
+      "content": "它是下不了",
+      "music": 0.0
+    },
+    {
+      "from": 45.22,
+      "to": 46.69,
+      "sid": 19,
+      "location": 2,
+      "content": "他不可能下这个海",
+      "music": 0.0
+    },
+    {
+      "from": 46.69,
+      "to": 48.33,
+      "sid": 20,
+      "location": 2,
+      "content": "因为他没有抓手",
+      "music": 0.0
+    },
+    {
+      "from": 48.33,
+      "to": 50.05,
+      "sid": 21,
+      "location": 2,
+      "content": "他会觉得如果我现在就这么干的话",
+      "music": 0.0
+    },
+    {
+      "from": 50.05,
+      "to": 52.04,
+      "sid": 22,
+      "location": 2,
+      "content": "我父母肯定不会同意",
+      "music": 0.0
+    },
+    {
+      "from": 52.04,
+      "to": 54.08,
+      "sid": 23,
+      "location": 2,
+      "content": "他觉得他会跟他父母之间",
+      "music": 0.0
+    },
+    {
+      "from": 54.08,
+      "to": 56.65,
+      "sid": 24,
+      "location": 2,
+      "content": "产生很大的对抗和争执",
+      "music": 0.0
+    },
+    {
+      "from": 56.65,
+      "to": 60.01,
+      "sid": 25,
+      "location": 2,
+      "content": "他现在没有办法去面对这个东西",
+      "music": 0.0
+    },
+    {
+      "from": 60.33,
+      "to": 64.23,
+      "sid": 26,
+      "location": 2,
+      "content": "那么就需要他把心沉到肚子里面",
+      "music": 0.0
+    },
+    {
+      "from": 64.23,
+      "to": 65.79,
+      "sid": 27,
+      "location": 2,
+      "content": "然后慢一点",
+      "music": 0.0
+    },
+    {
+      "from": 65.79,
+      "to": 67.58,
+      "sid": 28,
+      "location": 2,
+      "content": "不用急对吧",
+      "music": 0.0
+    },
+    {
+      "from": 67.58,
+      "to": 71.36,
+      "sid": 29,
+      "location": 2,
+      "content": "你呢一边朝着你父母想要那个方向去发展",
+      "music": 0.0
+    },
+    {
+      "from": 71.36,
+      "to": 75.6,
+      "sid": 30,
+      "location": 2,
+      "content": "同时一边脑子里开始落落积木",
+      "music": 0.0
+    },
+    {
+      "from": 76.12,
+      "to": 81.48,
+      "sid": 31,
+      "location": 2,
+      "content": "等到真的合适的时候再去做这一步",
+      "music": 0.0
+    },
+    {
+      "from": 82.54,
+      "to": 83.46,
+      "sid": 32,
+      "location": 2,
+      "content": "下海去干嘛",
+      "music": 0.0
+    },
+    {
+      "from": 83.46,
+      "to": 84.28,
+      "sid": 33,
+      "location": 2,
+      "content": "这是我说的吗",
+      "music": 0.0
+    },
+    {
+      "from": 84.28,
+      "to": 86.22,
+      "sid": 34,
+      "location": 2,
+      "content": "我所有的创业啊",
+      "music": 0.0
+    },
+    {
+      "from": 86.22,
+      "to": 89.24,
+      "sid": 35,
+      "location": 2,
+      "content": "他大部分情况都是一种被逼无奈的选择",
+      "music": 0.0
+    },
+    {
+      "from": 89.24,
+      "to": 91.14,
+      "sid": 36,
+      "location": 2,
+      "content": "是把你逼到那个份上的",
+      "music": 0.0
+    },
+    {
+      "from": 91.14,
+      "to": 92.2,
+      "sid": 37,
+      "location": 2,
+      "content": "然后你就去创了",
+      "music": 0.0
+    },
+    {
+      "from": 92.2,
+      "to": 94.0,
+      "sid": 38,
+      "location": 2,
+      "content": "然后你就可能就创成功了",
+      "music": 0.0
+    },
+    {
+      "from": 94.0,
+      "to": 96.4,
+      "sid": 39,
+      "location": 2,
+      "content": "没有准备好的那一天",
+      "music": 0.0
+    },
+    {
+      "from": 96.4,
+      "to": 98.24,
+      "sid": 40,
+      "location": 2,
+      "content": "没有准备好的那一天",
+      "music": 0.0
+    },
+    {
+      "from": 98.24,
+      "to": 101.48,
+      "sid": 41,
+      "location": 2,
+      "content": "你永远都不会觉得你准备好了",
+      "music": 0.0
+    },
+    {
+      "from": 102.5,
+      "to": 105.78,
+      "sid": 42,
+      "location": 2,
+      "content": "我原来我从电视台出来",
+      "music": 0.0
+    },
+    {
+      "from": 105.78,
+      "to": 107.16,
+      "sid": 43,
+      "location": 2,
+      "content": "我是被动的",
+      "music": 0.0
+    },
+    {
+      "from": 107.16,
+      "to": 109.04,
+      "sid": 44,
+      "location": 2,
+      "content": "我是被迫出来的",
+      "music": 0.0
+    },
+    {
+      "from": 109.04,
+      "to": 112.25,
+      "sid": 45,
+      "location": 2,
+      "content": "我在我的书里面写过对吧",
+      "music": 0.0
+    },
+    {
+      "from": 112.25,
+      "to": 114.39,
+      "sid": 46,
+      "location": 2,
+      "content": "我是被空降部队了",
+      "music": 0.0
+    },
+    {
+      "from": 114.39,
+      "to": 118.22,
+      "sid": 47,
+      "location": 2,
+      "content": "然后安排了就我干得好好的",
+      "music": 0.0
+    },
+    {
+      "from": 118.22,
+      "to": 121.25,
+      "sid": 48,
+      "location": 2,
+      "content": "结果呢领导有个空降部队要下来",
+      "music": 0.0
+    },
+    {
+      "from": 121.25,
+      "to": 122.91,
+      "sid": 49,
+      "location": 2,
+      "content": "必须把我弄掉",
+      "music": 0.0
+    },
+    {
+      "from": 122.91,
+      "to": 126.21,
+      "sid": 50,
+      "location": 2,
+      "content": "人家那个空降部队才才上得了岗",
+      "music": 0.0
+    },
+    {
+      "from": 126.63,
+      "to": 128.43,
+      "sid": 51,
+      "location": 2,
+      "content": "所以我是干的好好的的",
+      "music": 0.0
+    },
+    {
+      "from": 128.43,
+      "to": 129.85,
+      "sid": 52,
+      "location": 2,
+      "content": "我是被动的",
+      "music": 0.0
+    },
+    {
+      "from": 129.85,
+      "to": 133.1,
+      "sid": 53,
+      "location": 2,
+      "content": "从我喜欢的那个地方出来的",
+      "music": 0.0
+    },
+    {
+      "from": 133.1,
+      "to": 135.1,
+      "sid": 54,
+      "location": 2,
+      "content": "我是喜欢做主持人的呀",
+      "music": 0.0
+    },
+    {
+      "from": 135.1,
+      "to": 136.3,
+      "sid": 55,
+      "location": 2,
+      "content": "我不是不喜欢",
+      "music": 0.0
+    },
+    {
+      "from": 136.3,
+      "to": 139.12,
+      "sid": 56,
+      "location": 2,
+      "content": "我是喜欢在电视台的",
+      "music": 0.0
+    },
+    {
+      "from": 139.12,
+      "to": 140.88,
+      "sid": 57,
+      "location": 2,
+      "content": "我那个时候在电视台的工作",
+      "music": 0.0
+    },
+    {
+      "from": 140.88,
+      "to": 143.88,
+      "sid": 58,
+      "location": 2,
+      "content": "就是会给我带来很大的光环的",
+      "music": 0.0
+    },
+    {
+      "from": 143.88,
+      "to": 145.8,
+      "sid": 59,
+      "location": 2,
+      "content": "哪怕赚不到什么钱",
+      "music": 0.0
+    },
+    {
+      "from": 145.8,
+      "to": 148.43,
+      "sid": 60,
+      "location": 2,
+      "content": "我也是非常热爱那个工作的",
+      "music": 0.0
+    },
+    {
+      "from": 148.43,
+      "to": 150.09,
+      "sid": 61,
+      "location": 2,
+      "content": "我是没有办法",
+      "music": 0.0
+    },
+    {
+      "from": 150.09,
+      "to": 151.55,
+      "sid": 62,
+      "location": 2,
+      "content": "我不是准备好了",
+      "music": 0.0
+    },
+    {
+      "from": 152.63,
+      "to": 155.209,
+      "sid": 63,
+      "location": 2,
+      "content": "但是因为我在那边干得好",
+      "music": 0.0
+    },
+    {
+      "from": 155.209,
+      "to": 158.04,
+      "sid": 64,
+      "location": 2,
+      "content": "才会成为别人的眼中钉",
+      "music": 0.0
+    },
+    {
+      "from": 158.36,
+      "to": 159.6,
+      "sid": 65,
+      "location": 2,
+      "content": "因为我干得好",
+      "music": 0.0
+    },
+    {
+      "from": 159.6,
+      "to": 161.64,
+      "sid": 66,
+      "location": 2,
+      "content": "所以我不容易被替换掉",
+      "music": 0.0
+    },
+    {
+      "from": 161.64,
+      "to": 162.82,
+      "sid": 67,
+      "location": 2,
+      "content": "必须我要走",
+      "music": 0.0
+    },
+    {
+      "from": 162.82,
+      "to": 163.96,
+      "sid": 68,
+      "location": 2,
+      "content": "把我挤走",
+      "music": 0.0
+    },
+    {
+      "from": 163.96,
+      "to": 166.84,
+      "sid": 69,
+      "location": 2,
+      "content": "他的空降部队才能来干我的活",
+      "music": 0.0
+    },
+    {
+      "from": 166.84,
+      "to": 168.19,
+      "sid": 70,
+      "location": 2,
+      "content": "我如果不走",
+      "music": 0.0
+    },
+    {
+      "from": 168.19,
+      "to": 170.69,
+      "sid": 71,
+      "location": 2,
+      "content": "他的空降部队干不了我这个活",
+      "music": 0.0
+    },
+    {
+      "from": 170.69,
+      "to": 174.13,
+      "sid": 72,
+      "location": 2,
+      "content": "因为我那个活儿有我那个活的负责人",
+      "music": 0.0
+    },
+    {
+      "from": 174.13,
+      "to": 177.19,
+      "sid": 73,
+      "location": 2,
+      "content": "我那个活的负责人他一定要保交付",
+      "music": 0.0
+    },
+    {
+      "from": 177.19,
+      "to": 178.49,
+      "sid": 74,
+      "location": 2,
+      "content": "他要保质",
+      "music": 0.0
+    },
+    {
+      "from": 178.49,
+      "to": 179.51,
+      "sid": 75,
+      "location": 2,
+      "content": "他要保质",
+      "music": 0.0
+    },
+    {
+      "from": 179.51,
+      "to": 180.47,
+      "sid": 76,
+      "location": 2,
+      "content": "他就不可能用它",
+      "music": 0.0
+    },
+    {
+      "from": 180.47,
+      "to": 181.97,
+      "sid": 77,
+      "location": 2,
+      "content": "他就才会用我",
+      "music": 0.0
+    },
+    {
+      "from": 181.97,
+      "to": 185.089,
+      "sid": 78,
+      "location": 2,
+      "content": "所以必须要我被挤走",
+      "music": 0.0
+    },
+    {
+      "from": 185.529,
+      "to": 188.489,
+      "sid": 79,
+      "location": 2,
+      "content": "他的空降部队才能落到我那位置上",
+      "music": 0.0
+    },
+    {
+      "from": 189.02,
+      "to": 191.04,
+      "sid": 80,
+      "location": 2,
+      "content": "但是我在那边干的很好",
+      "music": 0.0
+    },
+    {
+      "from": 191.04,
+      "to": 195.16,
+      "sid": 81,
+      "location": 2,
+      "content": "所以呢我结识了特别特别多的人脉",
+      "music": 0.0
+    },
+    {
+      "from": 195.16,
+      "to": 196.81,
+      "sid": 82,
+      "location": 2,
+      "content": "一些前辈",
+      "music": 0.0
+    },
+    {
+      "from": 196.81,
+      "to": 198.97,
+      "sid": 83,
+      "location": 2,
+      "content": "以及不光是我们那个台的",
+      "music": 0.0
+    },
+    {
+      "from": 198.97,
+      "to": 200.61,
+      "sid": 84,
+      "location": 2,
+      "content": "还有很多其他的频道的",
+      "music": 0.0
+    },
+    {
+      "from": 200.61,
+      "to": 202.37,
+      "sid": 85,
+      "location": 2,
+      "content": "因为我们出去采访的时候",
+      "music": 0.0
+    },
+    {
+      "from": 202.37,
+      "to": 204.04,
+      "sid": 86,
+      "location": 2,
+      "content": "其实都会认识很多人",
+      "music": 0.0
+    },
+    {
+      "from": 204.04,
+      "to": 206.48,
+      "sid": 87,
+      "location": 2,
+      "content": "然后大家就就就这样都会熟悉起来",
+      "music": 0.0
+    },
+    {
+      "from": 206.48,
+      "to": 208.55,
+      "sid": 88,
+      "location": 2,
+      "content": "虽然我那个时候才20出头",
+      "music": 0.0
+    },
+    {
+      "from": 208.55,
+      "to": 210.95,
+      "sid": 89,
+      "location": 2,
+      "content": "所以为什么我会去做一家传媒公司",
+      "music": 0.0
+    },
+    {
+      "from": 210.95,
+      "to": 215.74,
+      "sid": 90,
+      "location": 2,
+      "content": "是因为我掌握了这样的一个资源对吧",
+      "music": 0.0
+    },
+    {
+      "from": 215.74,
+      "to": 217.36,
+      "sid": 91,
+      "location": 2,
+      "content": "我又认识了很多企业",
+      "music": 0.0
+    },
+    {
+      "from": 217.36,
+      "to": 219.0,
+      "sid": 92,
+      "location": 2,
+      "content": "我我本来就很会社交",
+      "music": 0.0
+    },
+    {
+      "from": 219.0,
+      "to": 221.459,
+      "sid": 93,
+      "location": 2,
+      "content": "我认识很多很多企业老板",
+      "music": 0.0
+    },
+    {
+      "from": 221.779,
+      "to": 223.099,
+      "sid": 94,
+      "location": 2,
+      "content": "然后那些企业老板呢",
+      "music": 0.0
+    },
+    {
+      "from": 223.099,
+      "to": 225.039,
+      "sid": 95,
+      "location": 2,
+      "content": "他们都有一些大型的",
+      "music": 0.0
+    },
+    {
+      "from": 225.039,
+      "to": 228.519,
+      "sid": 96,
+      "location": 2,
+      "content": "中型的小型的活动会议是吧",
+      "music": 0.0
+    },
+    {
+      "from": 228.519,
+      "to": 231.879,
+      "sid": 97,
+      "location": 2,
+      "content": "那我呢由就是我如果说做一个大的项目",
+      "music": 0.0
+    },
+    {
+      "from": 231.879,
+      "to": 233.719,
+      "sid": 98,
+      "location": 2,
+      "content": "我可以把别人整个项目拿过来",
+      "music": 0.0
+    },
+    {
+      "from": 233.719,
+      "to": 234.419,
+      "sid": 99,
+      "location": 2,
+      "content": "我来做",
+      "music": 0.0
+    },
+    {
+      "from": 234.419,
+      "to": 235.879,
+      "sid": 100,
+      "location": 2,
+      "content": "我来搭建场地是吧",
+      "music": 0.0
+    },
+    {
+      "from": 235.879,
+      "to": 236.64,
+      "sid": 101,
+      "location": 2,
+      "content": "我来干",
+      "music": 0.0
+    },
+    {
+      "from": 236.64,
+      "to": 239.8,
+      "sid": 102,
+      "location": 2,
+      "content": "如果说他不能把整个项目给我做",
+      "music": 0.0
+    },
+    {
+      "from": 239.8,
+      "to": 243.32,
+      "sid": 103,
+      "location": 2,
+      "content": "比如说他需要把整个项目给到一个更更厉害的",
+      "music": 0.0
+    },
+    {
+      "from": 243.32,
+      "to": 245.3,
+      "sid": 104,
+      "location": 2,
+      "content": "一个一个策展公司来做",
+      "music": 0.0
+    },
+    {
+      "from": 245.3,
+      "to": 247.58,
+      "sid": 105,
+      "location": 2,
+      "content": "但是呢我可以用更低的成本帮他",
+      "music": 0.0
+    },
+    {
+      "from": 247.58,
+      "to": 250.06,
+      "sid": 106,
+      "location": 2,
+      "content": "把媒体这一块给他嫁接起来",
+      "music": 0.0
+    },
+    {
+      "from": 250.06,
+      "to": 250.7,
+      "sid": 107,
+      "location": 2,
+      "content": "对不对",
+      "music": 0.0
+    },
+    {
+      "from": 250.7,
+      "to": 252.64,
+      "sid": 108,
+      "location": 2,
+      "content": "可能他请一家媒体的费用",
+      "music": 0.0
+    },
+    {
+      "from": 252.64,
+      "to": 255.86,
+      "sid": 109,
+      "location": 2,
+      "content": "是我去请一家媒体的费用的好几倍",
+      "music": 0.0
+    },
+    {
+      "from": 256.61,
+      "to": 257.77,
+      "sid": 110,
+      "location": 2,
+      "content": "我就可以做这个事",
+      "music": 0.0
+    },
+    {
+      "from": 257.77,
+      "to": 259.79,
+      "sid": 111,
+      "location": 2,
+      "content": "就大钱小钱我都可以挣",
+      "music": 0.0
+    },
+    {
+      "from": 259.79,
+      "to": 261.97,
+      "sid": 112,
+      "location": 2,
+      "content": "本质上是因为我有那方面的资源",
+      "music": 0.0
+    },
+    {
+      "from": 261.97,
+      "to": 264.33,
+      "sid": 113,
+      "location": 2,
+      "content": "等于说我从我从那个里面出来的时候",
+      "music": 0.0
+    },
+    {
+      "from": 264.33,
+      "to": 267.37,
+      "sid": 114,
+      "location": 2,
+      "content": "我就带着这样的资源出来了",
+      "music": 0.0
+    },
+    {
+      "from": 268.72,
+      "to": 270.08,
+      "sid": 115,
+      "location": 2,
+      "content": "所以很多时候是这样的啊",
+      "music": 0.0
+    },
+    {
+      "from": 270.08,
+      "to": 273.48,
+      "sid": 116,
+      "location": 2,
+      "content": "如果说你是一个在体制里面工作的一个人",
+      "music": 0.0
+    },
+    {
+      "from": 273.48,
+      "to": 276.8,
+      "sid": 117,
+      "location": 2,
+      "content": "那么你会接触到各方各面的一些资源",
+      "music": 0.0
+    },
+    {
+      "from": 276.8,
+      "to": 279.16,
+      "sid": 118,
+      "location": 2,
+      "content": "这些资源其实本质上它的存在",
+      "music": 0.0
+    },
+    {
+      "from": 279.16,
+      "to": 281.0,
+      "sid": 119,
+      "location": 2,
+      "content": "也都是为了给别人解决问题的嘛",
+      "music": 0.0
+    },
+    {
+      "from": 282.0,
+      "to": 283.0,
+      "sid": 120,
+      "location": 2,
+      "content": "对不对",
+      "music": 0.0
+    },
+    {
+      "from": 283.36,
+      "to": 288.72,
+      "sid": 121,
+      "location": 2,
+      "content": "本身苹果部门就是为企业服务的呀",
+      "music": 0.0
+    },
+    {
+      "from": 289.36,
+      "to": 291.4,
+      "sid": 122,
+      "location": 2,
+      "content": "90%以上的评估部门",
+      "music": 0.0
+    },
+    {
+      "from": 291.4,
+      "to": 294.779,
+      "sid": 123,
+      "location": 2,
+      "content": "其实他就应该是为企业服务的呀对吧",
+      "music": 0.0
+    },
+    {
+      "from": 294.779,
+      "to": 296.059,
+      "sid": 124,
+      "location": 2,
+      "content": "要不就是为人服务的",
+      "music": 0.0
+    },
+    {
+      "from": 296.059,
+      "to": 297.819,
+      "sid": 125,
+      "location": 2,
+      "content": "要不就是为企业服务的呀",
+      "music": 0.0
+    },
+    {
+      "from": 297.819,
+      "to": 301.28,
+      "sid": 126,
+      "location": 2,
+      "content": "那我就去琢磨那些为企业服务的这些事情嘛",
+      "music": 0.0
+    },
+    {
+      "from": 301.28,
+      "to": 302.88,
+      "sid": 127,
+      "location": 2,
+      "content": "为企业服务的这些事情",
+      "music": 0.0
+    },
+    {
+      "from": 302.88,
+      "to": 305.04,
+      "sid": 128,
+      "location": 2,
+      "content": "我把这个需求想明白",
+      "music": 0.0
+    },
+    {
+      "from": 305.04,
+      "to": 308.08,
+      "sid": 129,
+      "location": 2,
+      "content": "未来这个需求到底谁谁谁能解决",
+      "music": 0.0
+    },
+    {
+      "from": 308.659,
+      "to": 309.519,
+      "sid": 130,
+      "location": 2,
+      "content": "对不对",
+      "music": 0.0
+    },
+    {
+      "from": 309.519,
+      "to": 312.979,
+      "sid": 131,
+      "location": 2,
+      "content": "其实很多人都是靠这样的方式去创业的呀",
+      "music": 0.0
+    },
+    {
+      "from": 312.979,
+      "to": 314.639,
+      "sid": 132,
+      "location": 2,
+      "content": "刚开始都是这样去创业的呀",
+      "music": 0.0
+    },
+    {
+      "from": 314.639,
+      "to": 316.72,
+      "sid": 133,
+      "location": 2,
+      "content": "嗯是的",
+      "music": 0.0
+    },
+    {
+      "from": 316.72,
+      "to": 319.2,
+      "sid": 134,
+      "location": 2,
+      "content": "把这些人盘成自己的人脉",
+      "music": 0.0
+    },
+    {
+      "from": 319.2,
+      "to": 320.64,
+      "sid": 135,
+      "location": 2,
+      "content": "没有那么难",
+      "music": 0.0
+    },
+    {
+      "from": 320.64,
+      "to": 321.84,
+      "sid": 136,
+      "location": 2,
+      "content": "没有那么难",
+      "music": 0.0
+    },
+    {
+      "from": 321.84,
+      "to": 324.94,
+      "sid": 137,
+      "location": 2,
+      "content": "很多时候就是我告诉你们",
+      "music": 0.0
+    },
+    {
+      "from": 324.94,
+      "to": 328.32,
+      "sid": 138,
+      "location": 2,
+      "content": "就是这个世界就是一个巨大的草台班子",
+      "music": 0.0
+    },
+    {
+      "from": 328.32,
+      "to": 330.06,
+      "sid": 139,
+      "location": 2,
+      "content": "知道吗",
+      "music": 0.0
+    },
+    {
+      "from": 330.96,
+      "to": 337.14,
+      "sid": 140,
+      "location": 2,
+      "content": "嗯苹果单位也希望能够找到一些有实力的企业",
+      "music": 0.0
+    },
+    {
+      "from": 341.42,
+      "to": 346.12,
+      "sid": 141,
+      "location": 2,
+      "content": "而企业也很希望能够找到那些特定的人",
+      "music": 0.0
+    },
+    {
+      "from": 346.12,
+      "to": 349.4,
+      "sid": 142,
+      "location": 2,
+      "content": "帮他们解决特定的问题",
+      "music": 0.0
+    },
+    {
+      "from": 349.84,
+      "to": 354.22,
+      "sid": 143,
+      "location": 2,
+      "content": "但很多时候这两者之间他也是断层的",
+      "music": 0.0
+    },
+    {
+      "from": 354.22,
+      "to": 357.9,
+      "sid": 144,
+      "location": 2,
+      "content": "不是所有的苹果都能认识所有的企业主",
+      "music": 0.0
+    },
+    {
+      "from": 357.9,
+      "to": 360.74,
+      "sid": 145,
+      "location": 2,
+      "content": "不是所有的企业主都能找到",
+      "music": 0.0
+    },
+    {
+      "from": 360.74,
+      "to": 362.96,
+      "sid": 146,
+      "location": 2,
+      "content": "那么精准的帮他解决问题的人",
+      "music": 0.0
+    },
+    {
+      "from": 362.96,
+      "to": 368.22,
+      "sid": 147,
+      "location": 2,
+      "content": "这个里边很多时候它并不是绝对的金钱问题",
+      "music": 0.0
+    },
+    {
+      "from": 368.22,
+      "to": 371.14,
+      "sid": 148,
+      "location": 2,
+      "content": "而是一种双方的赋能",
+      "music": 0.0
+    },
+    {
+      "from": 371.42,
+      "to": 373.06,
+      "sid": 149,
+      "location": 2,
+      "content": "但是这个双方的赋能",
+      "music": 0.0
+    },
+    {
+      "from": 373.06,
+      "to": 374.82,
+      "sid": 150,
+      "location": 2,
+      "content": "首先要我知道你能给我什么",
+      "music": 0.0
+    },
+    {
+      "from": 374.82,
+      "to": 378.91,
+      "sid": 151,
+      "location": 2,
+      "content": "以及我知道你需要什么呵",
+      "music": 0.0
+    },
+    {
+      "from": 378.91,
+      "to": 381.11,
+      "sid": 152,
+      "location": 2,
+      "content": "那这个信息是断层的",
+      "music": 0.0
+    },
+    {
+      "from": 381.11,
+      "to": 384.15,
+      "sid": 153,
+      "location": 2,
+      "content": "就好像比如说我们我们在做企业的过程当中",
+      "music": 0.0
+    },
+    {
+      "from": 384.15,
+      "to": 387.96,
+      "sid": 154,
+      "location": 2,
+      "content": "其实我们就是在很认真的在做业务对吧",
+      "music": 0.0
+    },
+    {
+      "from": 387.96,
+      "to": 389.56,
+      "sid": 155,
+      "location": 2,
+      "content": "你每天就是一亩三分地在做业务",
+      "music": 0.0
+    },
+    {
+      "from": 389.56,
+      "to": 390.72,
+      "sid": 156,
+      "location": 2,
+      "content": "你就埋头在做业务",
+      "music": 0.0
+    },
+    {
+      "from": 390.72,
+      "to": 392.2,
+      "sid": 157,
+      "location": 2,
+      "content": "你埋头做机业务的时候",
+      "music": 0.0
+    },
+    {
+      "from": 392.2,
+      "to": 394.96,
+      "sid": 158,
+      "location": 2,
+      "content": "其实你反而跟这个很多这些什么",
+      "music": 0.0
+    },
+    {
+      "from": 394.96,
+      "to": 396.32,
+      "sid": 159,
+      "location": 2,
+      "content": "什么苹果单位啊什么的",
+      "music": 0.0
+    },
+    {
+      "from": 396.32,
+      "to": 397.95,
+      "sid": 160,
+      "location": 2,
+      "content": "其实你是不来往的呀",
+      "music": 0.0
+    },
+    {
+      "from": 397.95,
+      "to": 399.21,
+      "sid": 161,
+      "location": 2,
+      "content": "你是没有来往的呀",
+      "music": 0.0
+    },
+    {
+      "from": 399.21,
+      "to": 400.23,
+      "sid": 162,
+      "location": 2,
+      "content": "因为你做业务的时候",
+      "music": 0.0
+    },
+    {
+      "from": 400.23,
+      "to": 403.24,
+      "sid": 163,
+      "location": 2,
+      "content": "你只跟你的员工和你的客户来往",
+      "music": 0.0
+    },
+    {
+      "from": 403.24,
+      "to": 406.5,
+      "sid": 164,
+      "location": 2,
+      "content": "然后这些这些苹果单位的人呢",
+      "music": 0.0
+    },
+    {
+      "from": 406.5,
+      "to": 408.04,
+      "sid": 165,
+      "location": 2,
+      "content": "他们在做事的时候",
+      "music": 0.0
+    },
+    {
+      "from": 408.04,
+      "to": 409.88,
+      "sid": 166,
+      "location": 2,
+      "content": "他们也只跟他们的同事来往",
+      "music": 0.0
+    },
+    {
+      "from": 409.88,
+      "to": 411.87,
+      "sid": 167,
+      "location": 2,
+      "content": "只跟他们的上下级来往",
+      "music": 0.0
+    },
+    {
+      "from": 411.87,
+      "to": 415.51,
+      "sid": 168,
+      "location": 2,
+      "content": "但是他们的本职工作其实是帮企业解决问题",
+      "music": 0.0
+    },
+    {
+      "from": 415.51,
+      "to": 420.09,
+      "sid": 169,
+      "location": 2,
+      "content": "他们又没有办法去跟企业去建立那么墙的沟通",
+      "music": 0.0
+    },
+    {
+      "from": 421.21,
+      "to": 422.69,
+      "sid": 170,
+      "location": 2,
+      "content": "他就是一个断层的东西",
+      "music": 0.0
+    },
+    {
+      "from": 422.69,
+      "to": 423.15,
+      "sid": 171,
+      "location": 2,
+      "content": "知道吧",
+      "music": 0.0
+    },
+    {
+      "from": 423.15,
+      "to": 428.17,
+      "sid": 172,
+      "location": 2,
+      "content": "所以它中间就是需要很多的桥梁的那些",
+      "music": 0.0
+    },
+    {
+      "from": 428.17,
+      "to": 429.53,
+      "sid": 173,
+      "location": 2,
+      "content": "就像我们以前啊",
+      "music": 0.0
+    },
+    {
+      "from": 429.53,
+      "to": 432.22,
+      "sid": 174,
+      "location": 2,
+      "content": "就是做那些所谓的很多很多应酬",
+      "music": 0.0
+    },
+    {
+      "from": 432.22,
+      "to": 433.88,
+      "sid": 175,
+      "location": 2,
+      "content": "我每天很多很多应酬对吧",
+      "music": 0.0
+    },
+    {
+      "from": 433.88,
+      "to": 435.38,
+      "sid": 176,
+      "location": 2,
+      "content": "其实一个应酬的人",
+      "music": 0.0
+    },
+    {
+      "from": 435.38,
+      "to": 436.8,
+      "sid": 177,
+      "location": 2,
+      "content": "一个善于应酬的人",
+      "music": 0.0
+    },
+    {
+      "from": 436.8,
+      "to": 440.14,
+      "sid": 178,
+      "location": 2,
+      "content": "他就是一个衔接这种桥梁的人",
+      "music": 0.0
+    },
+    {
+      "from": 441.17,
+      "to": 442.61,
+      "sid": 179,
+      "location": 2,
+      "content": "大部分的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 442.61,
+      "to": 445.299,
+      "sid": 180,
+      "location": 2,
+      "content": "老板呢他没有那么多的时间去应酬",
+      "music": 0.0
+    },
+    {
+      "from": 445.299,
+      "to": 448.519,
+      "sid": 181,
+      "location": 2,
+      "content": "苹果呢他也不会去跟莫名其妙的",
+      "music": 0.0
+    },
+    {
+      "from": 448.519,
+      "to": 450.819,
+      "sid": 182,
+      "location": 2,
+      "content": "不不不认识的人应酬对吧",
+      "music": 0.0
+    },
+    {
+      "from": 450.819,
+      "to": 456.62,
+      "sid": 183,
+      "location": 2,
+      "content": "这个时候就非常需要有一些人叫做长袖善舞",
+      "music": 0.0
+    },
+    {
+      "from": 457.78,
+      "to": 458.98,
+      "sid": 184,
+      "location": 2,
+      "content": "知道吗",
+      "music": 0.0
+    },
+    {
+      "from": 461.08,
+      "to": 464.04,
+      "sid": 185,
+      "location": 2,
+      "content": "这是很正常的一个事情啊",
+      "music": 0.0
+    },
+    {
+      "from": 464.04,
+      "to": 464.56,
+      "sid": 186,
+      "location": 2,
+      "content": "来",
+      "music": 0.0
+    }
+  ]
+}

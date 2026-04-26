@@ -1,0 +1,5868 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "sync-v1.7.0.4",
+  "body": [
+    {
+      "from": 0.24,
+      "to": 0.84,
+      "sid": 1,
+      "location": 2,
+      "content": "大家好",
+      "music": 0.0
+    },
+    {
+      "from": 0.84,
+      "to": 2.28,
+      "sid": 2,
+      "location": 2,
+      "content": "我是大佬K",
+      "music": 0.0
+    },
+    {
+      "from": 2.28,
+      "to": 4.32,
+      "sid": 3,
+      "location": 2,
+      "content": "说起有名的悬案啊",
+      "music": 0.0
+    },
+    {
+      "from": 4.32,
+      "to": 6.14,
+      "sid": 4,
+      "location": 2,
+      "content": "日本的世田谷灭门案",
+      "music": 0.0
+    },
+    {
+      "from": 6.14,
+      "to": 9.0,
+      "sid": 5,
+      "location": 2,
+      "content": "绝对是影响力最大的案件之一",
+      "music": 0.0
+    },
+    {
+      "from": 9.0,
+      "to": 10.96,
+      "sid": 6,
+      "location": 2,
+      "content": "在频道成立这几年间",
+      "music": 0.0
+    },
+    {
+      "from": 10.96,
+      "to": 13.04,
+      "sid": 7,
+      "location": 2,
+      "content": "后台不停的收到观众私信",
+      "music": 0.0
+    },
+    {
+      "from": 13.04,
+      "to": 14.75,
+      "sid": 8,
+      "location": 2,
+      "content": "想让我们聊聊这起事件",
+      "music": 0.0
+    },
+    {
+      "from": 14.75,
+      "to": 16.95,
+      "sid": 9,
+      "location": 2,
+      "content": "在经过大量的资料考证",
+      "music": 0.0
+    },
+    {
+      "from": 16.95,
+      "to": 20.58,
+      "sid": 10,
+      "location": 2,
+      "content": "以及常驻日本的团队成员到实地考察后呢",
+      "music": 0.0
+    },
+    {
+      "from": 20.58,
+      "to": 24.79,
+      "sid": 11,
+      "location": 2,
+      "content": "我们决定要来做一期世田谷案的特别节目",
+      "music": 0.0
+    },
+    {
+      "from": 24.79,
+      "to": 27.03,
+      "sid": 12,
+      "location": 2,
+      "content": "当然秉承频道一贯的宗旨",
+      "music": 0.0
+    },
+    {
+      "from": 27.03,
+      "to": 31.19,
+      "sid": 13,
+      "location": 2,
+      "content": "在视频结尾我们会对案情的真相做出推断",
+      "music": 0.0
+    },
+    {
+      "from": 31.19,
+      "to": 33.59,
+      "sid": 14,
+      "location": 2,
+      "content": "并分析出凶手的身份",
+      "music": 0.0
+    },
+    {
+      "from": 33.59,
+      "to": 36.59,
+      "sid": 15,
+      "location": 2,
+      "content": "考虑到一些从未听说过这起案件的",
+      "music": 0.0
+    },
+    {
+      "from": 36.59,
+      "to": 38.79,
+      "sid": 16,
+      "location": 2,
+      "content": "或者已经记不清案情的朋友",
+      "music": 0.0
+    },
+    {
+      "from": 38.79,
+      "to": 41.97,
+      "sid": 17,
+      "location": 2,
+      "content": "我会将网传的案件经过呢简单介绍一下",
+      "music": 0.0
+    },
+    {
+      "from": 41.97,
+      "to": 46.519,
+      "sid": 18,
+      "location": 2,
+      "content": "然后以辟谣的方式对其中的错误信息予以更正",
+      "music": 0.0
+    },
+    {
+      "from": 46.519,
+      "to": 48.619,
+      "sid": 19,
+      "location": 2,
+      "content": "最后进入脑洞环节",
+      "music": 0.0
+    },
+    {
+      "from": 48.619,
+      "to": 49.959,
+      "sid": 20,
+      "location": 2,
+      "content": "那么废话不多说",
+      "music": 0.0
+    },
+    {
+      "from": 49.959,
+      "to": 52.26,
+      "sid": 21,
+      "location": 2,
+      "content": "让我们赶紧进入正题",
+      "music": 0.0
+    },
+    {
+      "from": 52.26,
+      "to": 56.64,
+      "sid": 22,
+      "location": 2,
+      "content": "话说网上流行的试田古玩的经过呢是这样的",
+      "music": 0.0
+    },
+    {
+      "from": 56.64,
+      "to": 58.84,
+      "sid": 23,
+      "location": 2,
+      "content": "2000年12月31日",
+      "music": 0.0
+    },
+    {
+      "from": 58.84,
+      "to": 60.6,
+      "sid": 24,
+      "location": 2,
+      "content": "上午10:40分左右啊",
+      "music": 0.0
+    },
+    {
+      "from": 60.6,
+      "to": 62.94,
+      "sid": 25,
+      "location": 2,
+      "content": "有名家住东京世田谷区",
+      "music": 0.0
+    },
+    {
+      "from": 62.94,
+      "to": 65.4,
+      "sid": 26,
+      "location": 2,
+      "content": "上祖是三丁目的老太太呀",
+      "music": 0.0
+    },
+    {
+      "from": 65.4,
+      "to": 67.59,
+      "sid": 27,
+      "location": 2,
+      "content": "突然联系不上自己的女儿了",
+      "music": 0.0
+    },
+    {
+      "from": 67.59,
+      "to": 68.77,
+      "sid": 28,
+      "location": 2,
+      "content": "需要说明的是啊",
+      "music": 0.0
+    },
+    {
+      "from": 68.77,
+      "to": 70.59,
+      "sid": 29,
+      "location": 2,
+      "content": "老太太呢姓入江",
+      "music": 0.0
+    },
+    {
+      "from": 70.59,
+      "to": 73.11,
+      "sid": 30,
+      "location": 2,
+      "content": "她的女儿太子嫁到了宫泽家",
+      "music": 0.0
+    },
+    {
+      "from": 73.11,
+      "to": 74.89,
+      "sid": 31,
+      "location": 2,
+      "content": "所以叫宫泽太子",
+      "music": 0.0
+    },
+    {
+      "from": 74.89,
+      "to": 75.29,
+      "sid": 32,
+      "location": 2,
+      "content": "而",
+      "music": 0.0
+    },
+    {
+      "from": 75.29,
+      "to": 76.83,
+      "sid": 33,
+      "location": 2,
+      "content": "入江家和宫泽家呢",
+      "music": 0.0
+    },
+    {
+      "from": 76.83,
+      "to": 80.77,
+      "sid": 34,
+      "location": 2,
+      "content": "正好住在紧挨在一起的两栋复式房子里",
+      "music": 0.0
+    },
+    {
+      "from": 80.77,
+      "to": 82.55,
+      "sid": 35,
+      "location": 2,
+      "content": "因此老太太见女儿失联",
+      "music": 0.0
+    },
+    {
+      "from": 82.55,
+      "to": 85.93,
+      "sid": 36,
+      "location": 2,
+      "content": "就拿着备用钥匙呢去隔壁宫泽家查看情况",
+      "music": 0.0
+    },
+    {
+      "from": 85.93,
+      "to": 86.97,
+      "sid": 37,
+      "location": 2,
+      "content": "万万没想到",
+      "music": 0.0
+    },
+    {
+      "from": 86.97,
+      "to": 90.639,
+      "sid": 38,
+      "location": 2,
+      "content": "迎接他的居然是房子里的四具遗体",
+      "music": 0.0
+    },
+    {
+      "from": 90.639,
+      "to": 93.919,
+      "sid": 39,
+      "location": 2,
+      "content": "他们分别是44岁的男主人宫泽干男",
+      "music": 0.0
+    },
+    {
+      "from": 93.919,
+      "to": 95.319,
+      "sid": 40,
+      "location": 2,
+      "content": "41岁的女主人",
+      "music": 0.0
+    },
+    {
+      "from": 95.319,
+      "to": 97.78,
+      "sid": 41,
+      "location": 2,
+      "content": "也就是老太太女儿宫泽太子",
+      "music": 0.0
+    },
+    {
+      "from": 97.78,
+      "to": 102.09,
+      "sid": 42,
+      "location": 2,
+      "content": "以及两人八岁的女儿妮娜和六岁的儿子小李",
+      "music": 0.0
+    },
+    {
+      "from": 102.09,
+      "to": 104.53,
+      "sid": 43,
+      "location": 2,
+      "content": "宫泽一家呢被灭门了",
+      "music": 0.0
+    },
+    {
+      "from": 104.53,
+      "to": 108.82,
+      "sid": 44,
+      "location": 2,
+      "content": "而现场的情况把随后赶来的警方都吓得够呛",
+      "music": 0.0
+    },
+    {
+      "from": 108.82,
+      "to": 110.5,
+      "sid": 45,
+      "location": 2,
+      "content": "从尸检报告来看",
+      "music": 0.0
+    },
+    {
+      "from": 110.5,
+      "to": 113.28,
+      "sid": 46,
+      "location": 2,
+      "content": "这家人呢遇害的顺序是这样的",
+      "music": 0.0
+    },
+    {
+      "from": 113.28,
+      "to": 116.24,
+      "sid": 47,
+      "location": 2,
+      "content": "最早离世的是儿子小李",
+      "music": 0.0
+    },
+    {
+      "from": 116.24,
+      "to": 118.9,
+      "sid": 48,
+      "location": 2,
+      "content": "他是在二楼自己的卧室被发现的",
+      "music": 0.0
+    },
+    {
+      "from": 118.9,
+      "to": 121.76,
+      "sid": 49,
+      "location": 2,
+      "content": "当时小李躺在高低床的下铺",
+      "music": 0.0
+    },
+    {
+      "from": 121.76,
+      "to": 122.4,
+      "sid": 50,
+      "location": 2,
+      "content": "头上呢",
+      "music": 0.0
+    },
+    {
+      "from": 122.4,
+      "to": 123.2,
+      "sid": 51,
+      "location": 2,
+      "content": "捂着被褥",
+      "music": 0.0
+    },
+    {
+      "from": 123.2,
+      "to": 124.82,
+      "sid": 52,
+      "location": 2,
+      "content": "颈部有掐痕",
+      "music": 0.0
+    },
+    {
+      "from": 124.82,
+      "to": 126.72,
+      "sid": 53,
+      "location": 2,
+      "content": "去世原因是窒息",
+      "music": 0.0
+    },
+    {
+      "from": 126.72,
+      "to": 129.18,
+      "sid": 54,
+      "location": 2,
+      "content": "根据现场留下的痕迹看",
+      "music": 0.0
+    },
+    {
+      "from": 129.18,
+      "to": 132.4,
+      "sid": 55,
+      "location": 2,
+      "content": "凶手在谋害完小李后就走出卧室",
+      "music": 0.0
+    },
+    {
+      "from": 132.4,
+      "to": 134.66,
+      "sid": 56,
+      "location": 2,
+      "content": "用备案紧贴着墙壁",
+      "music": 0.0
+    },
+    {
+      "from": 134.66,
+      "to": 137.6,
+      "sid": 57,
+      "location": 2,
+      "content": "像螃蟹那样横着走下了楼梯",
+      "music": 0.0
+    },
+    {
+      "from": 137.6,
+      "to": 139.34,
+      "sid": 58,
+      "location": 2,
+      "content": "虽然他显得很是小心",
+      "music": 0.0
+    },
+    {
+      "from": 139.34,
+      "to": 142.67,
+      "sid": 59,
+      "location": 2,
+      "content": "但似乎还是被正在一楼工作的宫泽干男发现了",
+      "music": 0.0
+    },
+    {
+      "from": 142.67,
+      "to": 143.43,
+      "sid": 60,
+      "location": 2,
+      "content": "于是呢",
+      "music": 0.0
+    },
+    {
+      "from": 143.43,
+      "to": 146.51,
+      "sid": 61,
+      "location": 2,
+      "content": "凶手立马掏出了随身携带的柳叶刀",
+      "music": 0.0
+    },
+    {
+      "from": 146.51,
+      "to": 148.53,
+      "sid": 62,
+      "location": 2,
+      "content": "对男主人发动了攻击",
+      "music": 0.0
+    },
+    {
+      "from": 148.53,
+      "to": 152.15,
+      "sid": 63,
+      "location": 2,
+      "content": "导致宫泽干男的右手大腿臀部",
+      "music": 0.0
+    },
+    {
+      "from": 152.15,
+      "to": 154.39,
+      "sid": 64,
+      "location": 2,
+      "content": "头部等处受到了重创",
+      "music": 0.0
+    },
+    {
+      "from": 154.39,
+      "to": 156.06,
+      "sid": 65,
+      "location": 2,
+      "content": "最终不幸身亡",
+      "music": 0.0
+    },
+    {
+      "from": 156.06,
+      "to": 157.62,
+      "sid": 66,
+      "location": 2,
+      "content": "而在完成这一切后",
+      "music": 0.0
+    },
+    {
+      "from": 157.62,
+      "to": 160.04,
+      "sid": 67,
+      "location": 2,
+      "content": "凶手又转身返回了楼上",
+      "music": 0.0
+    },
+    {
+      "from": 160.04,
+      "to": 163.56,
+      "sid": 68,
+      "location": 2,
+      "content": "此时呢正好见到了从三楼抱着女儿下来",
+      "music": 0.0
+    },
+    {
+      "from": 163.56,
+      "to": 166.66,
+      "sid": 69,
+      "location": 2,
+      "content": "查看情况的女主人宫泽太子",
+      "music": 0.0
+    },
+    {
+      "from": 166.66,
+      "to": 167.84,
+      "sid": 70,
+      "location": 2,
+      "content": "结果不用我说",
+      "music": 0.0
+    },
+    {
+      "from": 167.84,
+      "to": 168.84,
+      "sid": 71,
+      "location": 2,
+      "content": "大家也能知道啊",
+      "music": 0.0
+    },
+    {
+      "from": 168.84,
+      "to": 171.2,
+      "sid": 72,
+      "location": 2,
+      "content": "两人呢双双遭到了毒手",
+      "music": 0.0
+    },
+    {
+      "from": 171.2,
+      "to": 174.54,
+      "sid": 73,
+      "location": 2,
+      "content": "至此啊宫泽一家四口全灭",
+      "music": 0.0
+    },
+    {
+      "from": 174.54,
+      "to": 178.54,
+      "sid": 74,
+      "location": 2,
+      "content": "之所以警方能把作案过程推理得这么完整",
+      "music": 0.0
+    },
+    {
+      "from": 178.54,
+      "to": 180.92,
+      "sid": 75,
+      "location": 2,
+      "content": "除了有法医报告作为支撑外",
+      "music": 0.0
+    },
+    {
+      "from": 180.92,
+      "to": 185.07,
+      "sid": 76,
+      "location": 2,
+      "content": "嫌犯好像并不打算隐藏自己的信息",
+      "music": 0.0
+    },
+    {
+      "from": 185.23,
+      "to": 186.89,
+      "sid": 77,
+      "location": 2,
+      "content": "案发现场狼藉一片",
+      "music": 0.0
+    },
+    {
+      "from": 186.89,
+      "to": 189.43,
+      "sid": 78,
+      "location": 2,
+      "content": "到处都是红色痕迹和凶手留下的印记",
+      "music": 0.0
+    },
+    {
+      "from": 189.43,
+      "to": 190.01,
+      "sid": 79,
+      "location": 2,
+      "content": "不说啊",
+      "music": 0.0
+    },
+    {
+      "from": 190.01,
+      "to": 193.6,
+      "sid": 80,
+      "location": 2,
+      "content": "整栋房子的抽屉和柜子呢都被翻了个底朝天",
+      "music": 0.0
+    },
+    {
+      "from": 193.6,
+      "to": 196.04,
+      "sid": 81,
+      "location": 2,
+      "content": "除了被拿走20万日元现金外",
+      "music": 0.0
+    },
+    {
+      "from": 196.04,
+      "to": 197.52,
+      "sid": 82,
+      "location": 2,
+      "content": "宫泽夫妇的信用卡",
+      "music": 0.0
+    },
+    {
+      "from": 197.52,
+      "to": 200.26,
+      "sid": 83,
+      "location": 2,
+      "content": "银行卡也被凶手找了出来",
+      "music": 0.0
+    },
+    {
+      "from": 200.26,
+      "to": 202.62,
+      "sid": 84,
+      "location": 2,
+      "content": "在这些卡的旁边呢一字排开",
+      "music": 0.0
+    },
+    {
+      "from": 202.62,
+      "to": 204.54,
+      "sid": 85,
+      "location": 2,
+      "content": "摆着宫泽盖男的日记本",
+      "music": 0.0
+    },
+    {
+      "from": 204.54,
+      "to": 207.06,
+      "sid": 86,
+      "location": 2,
+      "content": "驾驶证和各种私人文件",
+      "music": 0.0
+    },
+    {
+      "from": 207.06,
+      "to": 208.12,
+      "sid": 87,
+      "location": 2,
+      "content": "凶手啊",
+      "music": 0.0
+    },
+    {
+      "from": 208.12,
+      "to": 211.6,
+      "sid": 88,
+      "location": 2,
+      "content": "似乎打算通过这些东西来推测出",
+      "music": 0.0
+    },
+    {
+      "from": 211.6,
+      "to": 213.54,
+      "sid": 89,
+      "location": 2,
+      "content": "死者的银行卡密码",
+      "music": 0.0
+    },
+    {
+      "from": 213.54,
+      "to": 215.54,
+      "sid": 90,
+      "location": 2,
+      "content": "从以上这些信息来看啊",
+      "music": 0.0
+    },
+    {
+      "from": 215.54,
+      "to": 218.19,
+      "sid": 91,
+      "location": 2,
+      "content": "这多半呢是一起谋财害命的案件",
+      "music": 0.0
+    },
+    {
+      "from": 218.19,
+      "to": 220.11,
+      "sid": 92,
+      "location": 2,
+      "content": "原本警方也是这么认为的",
+      "music": 0.0
+    },
+    {
+      "from": 220.11,
+      "to": 221.73,
+      "sid": 93,
+      "location": 2,
+      "content": "可随着调查的深入",
+      "music": 0.0
+    },
+    {
+      "from": 221.73,
+      "to": 226.51,
+      "sid": 94,
+      "location": 2,
+      "content": "他们发现此案在很多方面都太过奇怪了",
+      "music": 0.0
+    },
+    {
+      "from": 226.75,
+      "to": 229.24,
+      "sid": 95,
+      "location": 2,
+      "content": "首先啊就像上面所说的",
+      "music": 0.0
+    },
+    {
+      "from": 229.24,
+      "to": 232.6,
+      "sid": 96,
+      "location": 2,
+      "content": "凶手在宫泽家留下了海量的物证",
+      "music": 0.0
+    },
+    {
+      "from": 232.6,
+      "to": 234.82,
+      "sid": 97,
+      "location": 2,
+      "content": "包括但不仅限于鞋印",
+      "music": 0.0
+    },
+    {
+      "from": 234.82,
+      "to": 236.43,
+      "sid": 98,
+      "location": 2,
+      "content": "指纹血迹",
+      "music": 0.0
+    },
+    {
+      "from": 236.43,
+      "to": 238.079,
+      "sid": 99,
+      "location": 2,
+      "content": "唾液和汗液",
+      "music": 0.0
+    },
+    {
+      "from": 238.079,
+      "to": 239.039,
+      "sid": 100,
+      "location": 2,
+      "content": "除此以外呢",
+      "music": 0.0
+    },
+    {
+      "from": 239.039,
+      "to": 241.079,
+      "sid": 101,
+      "location": 2,
+      "content": "这家伙还把作案时用的凶器",
+      "music": 0.0
+    },
+    {
+      "from": 241.079,
+      "to": 242.439,
+      "sid": 102,
+      "location": 2,
+      "content": "身上穿的羽绒服",
+      "music": 0.0
+    },
+    {
+      "from": 242.439,
+      "to": 243.299,
+      "sid": 103,
+      "location": 2,
+      "content": "毛衣卫衣",
+      "music": 0.0
+    },
+    {
+      "from": 243.299,
+      "to": 247.22,
+      "sid": 104,
+      "location": 2,
+      "content": "帽子和腰包等全套装备通通留在了现场",
+      "music": 0.0
+    },
+    {
+      "from": 247.22,
+      "to": 250.39,
+      "sid": 105,
+      "location": 2,
+      "content": "其中最被警方关注的有两样东西",
+      "music": 0.0
+    },
+    {
+      "from": 250.39,
+      "to": 253.57,
+      "sid": 106,
+      "location": 2,
+      "content": "一个呢是凶手留在现场的鞋印啊",
+      "music": 0.0
+    },
+    {
+      "from": 253.57,
+      "to": 254.31,
+      "sid": 107,
+      "location": 2,
+      "content": "经鉴定",
+      "music": 0.0
+    },
+    {
+      "from": 254.31,
+      "to": 258.37,
+      "sid": 108,
+      "location": 2,
+      "content": "这是英国品牌史莱辛格的网球鞋",
+      "music": 0.0
+    },
+    {
+      "from": 258.37,
+      "to": 261.12,
+      "sid": 109,
+      "location": 2,
+      "content": "虽然这个品牌在日本当地也有售啊",
+      "music": 0.0
+    },
+    {
+      "from": 261.12,
+      "to": 264.4,
+      "sid": 110,
+      "location": 2,
+      "content": "但脚印的尺寸呢是28cm",
+      "music": 0.0
+    },
+    {
+      "from": 264.4,
+      "to": 266.8,
+      "sid": 111,
+      "location": 2,
+      "content": "也就是280型这个型号啊",
+      "music": 0.0
+    },
+    {
+      "from": 266.8,
+      "to": 268.42,
+      "sid": 112,
+      "location": 2,
+      "content": "只在韩国生产",
+      "music": 0.0
+    },
+    {
+      "from": 268.42,
+      "to": 269.83,
+      "sid": 113,
+      "location": 2,
+      "content": "日本是没有的",
+      "music": 0.0
+    },
+    {
+      "from": 269.83,
+      "to": 272.97,
+      "sid": 114,
+      "location": 2,
+      "content": "其次凶手的卫衣和腰包内侧",
+      "music": 0.0
+    },
+    {
+      "from": 272.97,
+      "to": 277.55,
+      "sid": 115,
+      "location": 2,
+      "content": "都检测出了一种红色荧光剂和硅油的成分",
+      "music": 0.0
+    },
+    {
+      "from": 277.55,
+      "to": 280.05,
+      "sid": 116,
+      "location": 2,
+      "content": "看起来呢是在案发前粘上的啊",
+      "music": 0.0
+    },
+    {
+      "from": 280.05,
+      "to": 280.69,
+      "sid": 117,
+      "location": 2,
+      "content": "据了解",
+      "music": 0.0
+    },
+    {
+      "from": 280.69,
+      "to": 284.83,
+      "sid": 118,
+      "location": 2,
+      "content": "这种荧光剂主要用于广告喷涂和包装印刷",
+      "music": 0.0
+    },
+    {
+      "from": 284.83,
+      "to": 287.16,
+      "sid": 119,
+      "location": 2,
+      "content": "是专业设计公司常用的东西",
+      "music": 0.0
+    },
+    {
+      "from": 287.16,
+      "to": 290.22,
+      "sid": 120,
+      "location": 2,
+      "content": "而硅油呢则用于舞台道具和广告",
+      "music": 0.0
+    },
+    {
+      "from": 290.22,
+      "to": 291.82,
+      "sid": 121,
+      "location": 2,
+      "content": "灯箱的生产制作",
+      "music": 0.0
+    },
+    {
+      "from": 291.82,
+      "to": 295.659,
+      "sid": 122,
+      "location": 2,
+      "content": "另外凶手从宫泽家拿走的东西也很古怪",
+      "music": 0.0
+    },
+    {
+      "from": 295.659,
+      "to": 297.739,
+      "sid": 123,
+      "location": 2,
+      "content": "除了之前提到的20万现金外",
+      "music": 0.0
+    },
+    {
+      "from": 297.739,
+      "to": 298.759,
+      "sid": 124,
+      "location": 2,
+      "content": "还拿走了一张",
+      "music": 0.0
+    },
+    {
+      "from": 298.759,
+      "to": 302.379,
+      "sid": 125,
+      "location": 2,
+      "content": "2000年初这家人收到的新年贺卡",
+      "music": 0.0
+    },
+    {
+      "from": 302.379,
+      "to": 304.6,
+      "sid": 126,
+      "location": 2,
+      "content": "完全想不明白这是为什么",
+      "music": 0.0
+    },
+    {
+      "from": 304.6,
+      "to": 306.5,
+      "sid": 127,
+      "location": 2,
+      "content": "不过比起以上这些啊",
+      "music": 0.0
+    },
+    {
+      "from": 306.5,
+      "to": 309.51,
+      "sid": 128,
+      "location": 2,
+      "content": "下面要说的内容呢就更加不可理解了",
+      "music": 0.0
+    },
+    {
+      "from": 309.51,
+      "to": 311.19,
+      "sid": 129,
+      "location": 2,
+      "content": "凶手在作完案后",
+      "music": 0.0
+    },
+    {
+      "from": 311.19,
+      "to": 313.09,
+      "sid": 130,
+      "location": 2,
+      "content": "居然没有第一时间离开",
+      "music": 0.0
+    },
+    {
+      "from": 313.09,
+      "to": 316.86,
+      "sid": 131,
+      "location": 2,
+      "content": "而是定定心心的在案发现场大吃大喝起来",
+      "music": 0.0
+    },
+    {
+      "from": 316.86,
+      "to": 318.96,
+      "sid": 132,
+      "location": 2,
+      "content": "期间不仅去了一趟厕所",
+      "music": 0.0
+    },
+    {
+      "from": 318.96,
+      "to": 322.97,
+      "sid": 133,
+      "location": 2,
+      "content": "甚至呢还用男主人宫泽干男的电脑上了会儿网",
+      "music": 0.0
+    },
+    {
+      "from": 322.97,
+      "to": 324.91,
+      "sid": 134,
+      "location": 2,
+      "content": "这些事是怎么知道的呢",
+      "music": 0.0
+    },
+    {
+      "from": 324.91,
+      "to": 328.8,
+      "sid": 135,
+      "location": 2,
+      "content": "从四名被害者胃内物的消化情况分析啊",
+      "music": 0.0
+    },
+    {
+      "from": 328.8,
+      "to": 330.56,
+      "sid": 136,
+      "location": 2,
+      "content": "凶案发生的时间应该是",
+      "music": 0.0
+    },
+    {
+      "from": 330.56,
+      "to": 332.68,
+      "sid": 137,
+      "location": 2,
+      "content": "2000年的12月30日",
+      "music": 0.0
+    },
+    {
+      "from": 332.68,
+      "to": 335.0,
+      "sid": 138,
+      "location": 2,
+      "content": "晚上11:30分左右",
+      "music": 0.0
+    },
+    {
+      "from": 335.0,
+      "to": 336.8,
+      "sid": 139,
+      "location": 2,
+      "content": "宫泽干纳的电脑呢",
+      "music": 0.0
+    },
+    {
+      "from": 336.8,
+      "to": 340.16,
+      "sid": 140,
+      "location": 2,
+      "content": "却是在31日的凌晨01:18分左右",
+      "music": 0.0
+    },
+    {
+      "from": 340.16,
+      "to": 343.75,
+      "sid": 141,
+      "location": 2,
+      "content": "和早上10:05分左右上过两次网",
+      "music": 0.0
+    },
+    {
+      "from": 343.75,
+      "to": 344.93,
+      "sid": 142,
+      "location": 2,
+      "content": "第一次联网时",
+      "music": 0.0
+    },
+    {
+      "from": 344.93,
+      "to": 346.83,
+      "sid": 143,
+      "location": 2,
+      "content": "凶手浏览了东京大学",
+      "music": 0.0
+    },
+    {
+      "from": 346.83,
+      "to": 349.49,
+      "sid": 144,
+      "location": 2,
+      "content": "研究室和科学技术厅的网站",
+      "music": 0.0
+    },
+    {
+      "from": 349.49,
+      "to": 352.23,
+      "sid": 145,
+      "location": 2,
+      "content": "随后呢又登陆四季剧团的官网",
+      "music": 0.0
+    },
+    {
+      "from": 352.23,
+      "to": 354.36,
+      "sid": 146,
+      "location": 2,
+      "content": "看了5分钟左右便下线了",
+      "music": 0.0
+    },
+    {
+      "from": 354.36,
+      "to": 355.94,
+      "sid": 147,
+      "location": 2,
+      "content": "至于第二次联网时",
+      "music": 0.0
+    },
+    {
+      "from": 355.94,
+      "to": 357.84,
+      "sid": 148,
+      "location": 2,
+      "content": "电脑并没有操作迹象",
+      "music": 0.0
+    },
+    {
+      "from": 357.84,
+      "to": 360.7,
+      "sid": 149,
+      "location": 2,
+      "content": "只是在宫泽干男的公司主页上",
+      "music": 0.0
+    },
+    {
+      "from": 360.7,
+      "to": 362.78,
+      "sid": 150,
+      "location": 2,
+      "content": "停留了大概4分钟啊",
+      "music": 0.0
+    },
+    {
+      "from": 362.78,
+      "to": 363.66,
+      "sid": 151,
+      "location": 2,
+      "content": "也就是说",
+      "music": 0.0
+    },
+    {
+      "from": 363.66,
+      "to": 367.919,
+      "sid": 152,
+      "location": 2,
+      "content": "凶手可能在死者的家里待了足足有十几个小时",
+      "music": 0.0
+    },
+    {
+      "from": 367.919,
+      "to": 370.979,
+      "sid": 153,
+      "location": 2,
+      "content": "虽然事后呢警方经过多次实验",
+      "music": 0.0
+    },
+    {
+      "from": 370.979,
+      "to": 375.52,
+      "sid": 154,
+      "location": 2,
+      "content": "认为第二次联网大概率是鼠标意外滑落造成的",
+      "music": 0.0
+    },
+    {
+      "from": 375.52,
+      "to": 378.28,
+      "sid": 155,
+      "location": 2,
+      "content": "误操作或者是系统硬件造成的",
+      "music": 0.0
+    },
+    {
+      "from": 378.28,
+      "to": 381.539,
+      "sid": 156,
+      "location": 2,
+      "content": "但第一次上网肯定系凶手所为",
+      "music": 0.0
+    },
+    {
+      "from": 381.539,
+      "to": 385.29,
+      "sid": 157,
+      "location": 2,
+      "content": "好家伙会和四名被害同处一室",
+      "music": 0.0
+    },
+    {
+      "from": 385.29,
+      "to": 388.41,
+      "sid": 158,
+      "location": 2,
+      "content": "这么长时间还用人家电脑浏览网页",
+      "music": 0.0
+    },
+    {
+      "from": 388.41,
+      "to": 390.89,
+      "sid": 159,
+      "location": 2,
+      "content": "这本身就已经够诡异的了",
+      "music": 0.0
+    },
+    {
+      "from": 390.89,
+      "to": 392.65,
+      "sid": 160,
+      "location": 2,
+      "content": "然而还有更诡异的",
+      "music": 0.0
+    },
+    {
+      "from": 392.65,
+      "to": 394.65,
+      "sid": 161,
+      "location": 2,
+      "content": "在二楼浴室的浴缸里呢",
+      "music": 0.0
+    },
+    {
+      "from": 394.65,
+      "to": 397.95,
+      "sid": 162,
+      "location": 2,
+      "content": "警方发现了很多散落着的碎纸片",
+      "music": 0.0
+    },
+    {
+      "from": 397.95,
+      "to": 398.99,
+      "sid": 163,
+      "location": 2,
+      "content": "什么东西呢",
+      "music": 0.0
+    },
+    {
+      "from": 398.99,
+      "to": 401.31,
+      "sid": 164,
+      "location": 2,
+      "content": "唉男女主人工作上的文件",
+      "music": 0.0
+    },
+    {
+      "from": 401.31,
+      "to": 402.43,
+      "sid": 165,
+      "location": 2,
+      "content": "家里的购物小票",
+      "music": 0.0
+    },
+    {
+      "from": 402.43,
+      "to": 404.84,
+      "sid": 166,
+      "location": 2,
+      "content": "广告传单以及各种杂物",
+      "music": 0.0
+    },
+    {
+      "from": 404.84,
+      "to": 408.38,
+      "sid": 167,
+      "location": 2,
+      "content": "其中呢甚至还有凶手吃完的冰激凌包装",
+      "music": 0.0
+    },
+    {
+      "from": 408.38,
+      "to": 412.1,
+      "sid": 168,
+      "location": 2,
+      "content": "以及用来处理伤口的创可贴等等",
+      "music": 0.0
+    },
+    {
+      "from": 412.1,
+      "to": 413.82,
+      "sid": 169,
+      "location": 2,
+      "content": "如此怪异的举动",
+      "music": 0.0
+    },
+    {
+      "from": 413.82,
+      "to": 415.7,
+      "sid": 170,
+      "location": 2,
+      "content": "外加骇人听闻的灭门行径",
+      "music": 0.0
+    },
+    {
+      "from": 415.7,
+      "to": 418.09,
+      "sid": 171,
+      "location": 2,
+      "content": "再加上又发生在新年的前一夜",
+      "music": 0.0
+    },
+    {
+      "from": 418.09,
+      "to": 421.67,
+      "sid": 172,
+      "location": 2,
+      "content": "使得世田谷案的关注度啊空前高涨",
+      "music": 0.0
+    },
+    {
+      "from": 421.67,
+      "to": 424.63,
+      "sid": 173,
+      "location": 2,
+      "content": "各种真假新闻也是满世界乱飞",
+      "music": 0.0
+    },
+    {
+      "from": 424.63,
+      "to": 426.15,
+      "sid": 174,
+      "location": 2,
+      "content": "搞得东京警视厅呢",
+      "music": 0.0
+    },
+    {
+      "from": 426.15,
+      "to": 428.93,
+      "sid": 175,
+      "location": 2,
+      "content": "不得不在元旦当天就成立了特别小组",
+      "music": 0.0
+    },
+    {
+      "from": 428.93,
+      "to": 430.86,
+      "sid": 176,
+      "location": 2,
+      "content": "负责调查此案",
+      "music": 0.0
+    },
+    {
+      "from": 431.34,
+      "to": 432.24,
+      "sid": 177,
+      "location": 2,
+      "content": "原本啊",
+      "music": 0.0
+    },
+    {
+      "from": 432.24,
+      "to": 433.82,
+      "sid": 178,
+      "location": 2,
+      "content": "大家都以为世田谷玩",
+      "music": 0.0
+    },
+    {
+      "from": 433.82,
+      "to": 436.4,
+      "sid": 179,
+      "location": 2,
+      "content": "会像两年前的四川灭门案一样啊",
+      "music": 0.0
+    },
+    {
+      "from": 436.4,
+      "to": 437.5,
+      "sid": 180,
+      "location": 2,
+      "content": "迅速侦破",
+      "music": 0.0
+    },
+    {
+      "from": 437.5,
+      "to": 441.19,
+      "sid": 181,
+      "location": 2,
+      "content": "毕竟嫌犯在现场留下了太多资讯",
+      "music": 0.0
+    },
+    {
+      "from": 441.19,
+      "to": 442.37,
+      "sid": 182,
+      "location": 2,
+      "content": "可万没想到",
+      "music": 0.0
+    },
+    {
+      "from": 442.37,
+      "to": 446.05,
+      "sid": 183,
+      "location": 2,
+      "content": "专案组内部却从一开始就在很多关键问题上呢",
+      "music": 0.0
+    },
+    {
+      "from": 446.05,
+      "to": 447.9,
+      "sid": 184,
+      "location": 2,
+      "content": "存在严重的分歧",
+      "music": 0.0
+    },
+    {
+      "from": 447.9,
+      "to": 450.299,
+      "sid": 185,
+      "location": 2,
+      "content": "首先就是作案动机啊",
+      "music": 0.0
+    },
+    {
+      "from": 450.299,
+      "to": 454.419,
+      "sid": 186,
+      "location": 2,
+      "content": "案发地所属的城城警察署的部分探员认为",
+      "music": 0.0
+    },
+    {
+      "from": 454.419,
+      "to": 457.88,
+      "sid": 187,
+      "location": 2,
+      "content": "本案嫌犯应该是那种穷途末路的歹徒",
+      "music": 0.0
+    },
+    {
+      "from": 457.88,
+      "to": 459.82,
+      "sid": 188,
+      "location": 2,
+      "content": "动机呢就是杀人越货啊",
+      "music": 0.0
+    },
+    {
+      "from": 459.82,
+      "to": 460.4,
+      "sid": 189,
+      "location": 2,
+      "content": "原因是",
+      "music": 0.0
+    },
+    {
+      "from": 460.4,
+      "to": 464.7,
+      "sid": 190,
+      "location": 2,
+      "content": "宫泽家的正门和室外车库都没有入侵痕迹",
+      "music": 0.0
+    },
+    {
+      "from": 464.7,
+      "to": 466.77,
+      "sid": 191,
+      "location": 2,
+      "content": "也没有发现任何指纹",
+      "music": 0.0
+    },
+    {
+      "from": 466.77,
+      "to": 469.07,
+      "sid": 192,
+      "location": 2,
+      "content": "相反位于二楼的浴室",
+      "music": 0.0
+    },
+    {
+      "from": 469.07,
+      "to": 471.03,
+      "sid": 193,
+      "location": 2,
+      "content": "纱窗呢掉到了一楼的地板上",
+      "music": 0.0
+    },
+    {
+      "from": 471.03,
+      "to": 472.35,
+      "sid": 194,
+      "location": 2,
+      "content": "上面还有脚印",
+      "music": 0.0
+    },
+    {
+      "from": 472.35,
+      "to": 473.919,
+      "sid": 195,
+      "location": 2,
+      "content": "踩踏留下的凹痕",
+      "music": 0.0
+    },
+    {
+      "from": 473.919,
+      "to": 474.719,
+      "sid": 196,
+      "location": 2,
+      "content": "怎么看",
+      "music": 0.0
+    },
+    {
+      "from": 474.719,
+      "to": 477.06,
+      "sid": 197,
+      "location": 2,
+      "content": "凶手都是从二楼爬进去的",
+      "music": 0.0
+    },
+    {
+      "from": 477.06,
+      "to": 480.7,
+      "sid": 198,
+      "location": 2,
+      "content": "问题是另一波警员不认同这种看法啊",
+      "music": 0.0
+    },
+    {
+      "from": 480.7,
+      "to": 483.36,
+      "sid": 199,
+      "location": 2,
+      "content": "他们觉得本案的动机是仇杀",
+      "music": 0.0
+    },
+    {
+      "from": 483.36,
+      "to": 486.88,
+      "sid": 200,
+      "location": 2,
+      "content": "理由是宫泽一家的死状太过惨烈",
+      "music": 0.0
+    },
+    {
+      "from": 486.88,
+      "to": 489.06,
+      "sid": 201,
+      "location": 2,
+      "content": "凶手分明是在泄愤",
+      "music": 0.0
+    },
+    {
+      "from": 489.06,
+      "to": 491.74,
+      "sid": 202,
+      "location": 2,
+      "content": "至于门把手上没有指纹也很好解释",
+      "music": 0.0
+    },
+    {
+      "from": 491.74,
+      "to": 494.38,
+      "sid": 203,
+      "location": 2,
+      "content": "因为凶手可能是宫泽家的熟人",
+      "music": 0.0
+    },
+    {
+      "from": 494.38,
+      "to": 496.31,
+      "sid": 204,
+      "location": 2,
+      "content": "是被主动请进房的",
+      "music": 0.0
+    },
+    {
+      "from": 496.31,
+      "to": 498.86,
+      "sid": 205,
+      "location": 2,
+      "content": "这也更符合仇杀的推定",
+      "music": 0.0
+    },
+    {
+      "from": 498.86,
+      "to": 502.34,
+      "sid": 206,
+      "location": 2,
+      "content": "虽然二楼浴室的窗口有明显的攀爬痕迹",
+      "music": 0.0
+    },
+    {
+      "from": 502.34,
+      "to": 504.5,
+      "sid": 207,
+      "location": 2,
+      "content": "但那扇窗呢非常的窄",
+      "music": 0.0
+    },
+    {
+      "from": 504.5,
+      "to": 506.1,
+      "sid": 208,
+      "location": 2,
+      "content": "从外面爬进去啊",
+      "music": 0.0
+    },
+    {
+      "from": 506.1,
+      "to": 507.4,
+      "sid": 209,
+      "location": 2,
+      "content": "是不现实的",
+      "music": 0.0
+    },
+    {
+      "from": 507.4,
+      "to": 509.48,
+      "sid": 210,
+      "location": 2,
+      "content": "估计这和混乱的现场一样",
+      "music": 0.0
+    },
+    {
+      "from": 509.48,
+      "to": 513.88,
+      "sid": 211,
+      "location": 2,
+      "content": "都是凶手为了误导调查而故步的迷阵啊",
+      "music": 0.0
+    },
+    {
+      "from": 513.88,
+      "to": 516.02,
+      "sid": 212,
+      "location": 2,
+      "content": "总之两拨人呢谁都说服不了谁",
+      "music": 0.0
+    },
+    {
+      "from": 516.02,
+      "to": 518.9,
+      "sid": 213,
+      "location": 2,
+      "content": "最后大家一致认同的线索就两条",
+      "music": 0.0
+    },
+    {
+      "from": 518.9,
+      "to": 522.58,
+      "sid": 214,
+      "location": 2,
+      "content": "第一呢从死者的伤口位置和受伤的情况来看",
+      "music": 0.0
+    },
+    {
+      "from": 522.58,
+      "to": 524.5,
+      "sid": 215,
+      "location": 2,
+      "content": "凶手应该是男性",
+      "music": 0.0
+    },
+    {
+      "from": 524.5,
+      "to": 526.9,
+      "sid": 216,
+      "location": 2,
+      "content": "身高呢在1米7到1米75之间",
+      "music": 0.0
+    },
+    {
+      "from": 526.9,
+      "to": 529.26,
+      "sid": 217,
+      "location": 2,
+      "content": "年龄在15~35岁",
+      "music": 0.0
+    },
+    {
+      "from": 529.26,
+      "to": 530.34,
+      "sid": 218,
+      "location": 2,
+      "content": "体型偏瘦",
+      "music": 0.0
+    },
+    {
+      "from": 530.34,
+      "to": 531.48,
+      "sid": 219,
+      "location": 2,
+      "content": "A型血",
+      "music": 0.0
+    },
+    {
+      "from": 531.48,
+      "to": 533.45,
+      "sid": 220,
+      "location": 2,
+      "content": "右利手二",
+      "music": 0.0
+    },
+    {
+      "from": 533.45,
+      "to": 535.35,
+      "sid": 221,
+      "location": 2,
+      "content": "根据DNA分析啊",
+      "music": 0.0
+    },
+    {
+      "from": 535.35,
+      "to": 537.819,
+      "sid": 222,
+      "location": 2,
+      "content": "凶手的生母很可能是南欧人",
+      "music": 0.0
+    },
+    {
+      "from": 537.819,
+      "to": 541.839,
+      "sid": 223,
+      "location": 2,
+      "content": "其父系遗传的Y染色体啊则比较特殊啊",
+      "music": 0.0
+    },
+    {
+      "from": 541.839,
+      "to": 545.51,
+      "sid": 224,
+      "location": 2,
+      "content": "属于亚洲民族少见的单倍群染色体",
+      "music": 0.0
+    },
+    {
+      "from": 545.51,
+      "to": 548.07,
+      "sid": 225,
+      "location": 2,
+      "content": "这种染色体在33个日本人中",
+      "music": 0.0
+    },
+    {
+      "from": 548.07,
+      "to": 549.71,
+      "sid": 226,
+      "location": 2,
+      "content": "有一个十个中国人中",
+      "music": 0.0
+    },
+    {
+      "from": 549.71,
+      "to": 552.21,
+      "sid": 227,
+      "location": 2,
+      "content": "有一个五个韩国人中有一个",
+      "music": 0.0
+    },
+    {
+      "from": 552.21,
+      "to": 552.93,
+      "sid": 228,
+      "location": 2,
+      "content": "换言之",
+      "music": 0.0
+    },
+    {
+      "from": 552.93,
+      "to": 555.579,
+      "sid": 229,
+      "location": 2,
+      "content": "嫌犯可能有异国血统",
+      "music": 0.0
+    },
+    {
+      "from": 555.579,
+      "to": 557.539,
+      "sid": 230,
+      "location": 2,
+      "content": "掌握了这两条线索后",
+      "music": 0.0
+    },
+    {
+      "from": 557.539,
+      "to": 560.95,
+      "sid": 231,
+      "location": 2,
+      "content": "专案组随即展开了追凶行动",
+      "music": 0.0
+    },
+    {
+      "from": 560.95,
+      "to": 563.79,
+      "sid": 232,
+      "location": 2,
+      "content": "他们将嫌犯留下的指纹和犯罪数据库里",
+      "music": 0.0
+    },
+    {
+      "from": 563.79,
+      "to": 566.28,
+      "sid": 233,
+      "location": 2,
+      "content": "1200万个样本做了比对",
+      "music": 0.0
+    },
+    {
+      "from": 566.28,
+      "to": 570.32,
+      "sid": 234,
+      "location": 2,
+      "content": "但凡和宫泽佳能扯上关系的亲属朋友",
+      "music": 0.0
+    },
+    {
+      "from": 570.32,
+      "to": 574.1,
+      "sid": 235,
+      "location": 2,
+      "content": "邻居同事等2000多个人也统统采集了指纹",
+      "music": 0.0
+    },
+    {
+      "from": 574.1,
+      "to": 577.069,
+      "sid": 236,
+      "location": 2,
+      "content": "结果呢无一匹配",
+      "music": 0.0
+    },
+    {
+      "from": 577.309,
+      "to": 578.709,
+      "sid": 237,
+      "location": 2,
+      "content": "有人可能要说了啊",
+      "music": 0.0
+    },
+    {
+      "from": 578.709,
+      "to": 581.649,
+      "sid": 238,
+      "location": 2,
+      "content": "这种灭门案发生时肯定会有很大的动静",
+      "music": 0.0
+    },
+    {
+      "from": 581.649,
+      "to": 584.27,
+      "sid": 239,
+      "location": 2,
+      "content": "周围邻居连一个目击者都没有吗",
+      "music": 0.0
+    },
+    {
+      "from": 584.27,
+      "to": 585.87,
+      "sid": 240,
+      "location": 2,
+      "content": "哎说对了",
+      "music": 0.0
+    },
+    {
+      "from": 585.87,
+      "to": 587.05,
+      "sid": 241,
+      "location": 2,
+      "content": "真就没有啊",
+      "music": 0.0
+    },
+    {
+      "from": 587.05,
+      "to": 592.15,
+      "sid": 242,
+      "location": 2,
+      "content": "原因是宫泽家后面的祖师谷公园呢正准备扩建",
+      "music": 0.0
+    },
+    {
+      "from": 592.15,
+      "to": 594.67,
+      "sid": 243,
+      "location": 2,
+      "content": "周边的房子都在拆迁",
+      "music": 0.0
+    },
+    {
+      "from": 594.67,
+      "to": 596.93,
+      "sid": 244,
+      "location": 2,
+      "content": "几乎所有人家都搬走了",
+      "music": 0.0
+    },
+    {
+      "from": 596.93,
+      "to": 598.37,
+      "sid": 245,
+      "location": 2,
+      "content": "所以宫泽家的附近呢",
+      "music": 0.0
+    },
+    {
+      "from": 598.37,
+      "to": 600.89,
+      "sid": 246,
+      "location": 2,
+      "content": "就只剩下住在隔壁的入江家啊",
+      "music": 0.0
+    },
+    {
+      "from": 600.89,
+      "to": 605.19,
+      "sid": 247,
+      "location": 2,
+      "content": "也就是宫泽太子的娘家以及较远的三户邻居",
+      "music": 0.0
+    },
+    {
+      "from": 605.19,
+      "to": 606.53,
+      "sid": 248,
+      "location": 2,
+      "content": "据了解啊",
+      "music": 0.0
+    },
+    {
+      "from": 606.53,
+      "to": 609.63,
+      "sid": 249,
+      "location": 2,
+      "content": "三家住的比较远的邻居呢是啥都没有听见啊",
+      "music": 0.0
+    },
+    {
+      "from": 609.63,
+      "to": 611.51,
+      "sid": 250,
+      "location": 2,
+      "content": "至于隔壁的入江家呢",
+      "music": 0.0
+    },
+    {
+      "from": 611.51,
+      "to": 613.77,
+      "sid": 251,
+      "location": 2,
+      "content": "除了宫泽太子的老母亲外",
+      "music": 0.0
+    },
+    {
+      "from": 613.77,
+      "to": 616.14,
+      "sid": 252,
+      "location": 2,
+      "content": "还住着太子的姐姐和姐夫",
+      "music": 0.0
+    },
+    {
+      "from": 616.14,
+      "to": 618.38,
+      "sid": 253,
+      "location": 2,
+      "content": "其中姐姐入江信说",
+      "music": 0.0
+    },
+    {
+      "from": 618.38,
+      "to": 620.64,
+      "sid": 254,
+      "location": 2,
+      "content": "自己在晚上11:30分左右",
+      "music": 0.0
+    },
+    {
+      "from": 620.64,
+      "to": 624.05,
+      "sid": 255,
+      "location": 2,
+      "content": "听到宫泽家的二楼发出过砰的一声巨响",
+      "music": 0.0
+    },
+    {
+      "from": 624.05,
+      "to": 626.25,
+      "sid": 256,
+      "location": 2,
+      "content": "然后呢就没有动静了",
+      "music": 0.0
+    },
+    {
+      "from": 626.25,
+      "to": 627.77,
+      "sid": 257,
+      "location": 2,
+      "content": "所以说这样的线索",
+      "music": 0.0
+    },
+    {
+      "from": 627.77,
+      "to": 630.79,
+      "sid": 258,
+      "location": 2,
+      "content": "根本无法给调查带来任何帮助",
+      "music": 0.0
+    },
+    {
+      "from": 630.79,
+      "to": 631.83,
+      "sid": 259,
+      "location": 2,
+      "content": "虽然后来啊",
+      "music": 0.0
+    },
+    {
+      "from": 631.83,
+      "to": 635.25,
+      "sid": 260,
+      "location": 2,
+      "content": "警方发布了全日本有史以来最高的悬赏金啊",
+      "music": 0.0
+    },
+    {
+      "from": 635.25,
+      "to": 637.67,
+      "sid": 261,
+      "location": 2,
+      "content": "收到的情报也多达3万多条",
+      "music": 0.0
+    },
+    {
+      "from": 637.67,
+      "to": 640.28,
+      "sid": 262,
+      "location": 2,
+      "content": "但最终呢也没能破案",
+      "music": 0.0
+    },
+    {
+      "from": 640.28,
+      "to": 642.38,
+      "sid": 263,
+      "location": 2,
+      "content": "可由于案件太过离奇啊",
+      "music": 0.0
+    },
+    {
+      "from": 642.38,
+      "to": 645.4,
+      "sid": 264,
+      "location": 2,
+      "content": "因此呢被全世界悬疑爱好者讨论了20多年",
+      "music": 0.0
+    },
+    {
+      "from": 645.4,
+      "to": 649.569,
+      "sid": 265,
+      "location": 2,
+      "content": "由此诞生的猜想和理论更是层出不穷",
+      "music": 0.0
+    },
+    {
+      "from": 649.569,
+      "to": 652.509,
+      "sid": 266,
+      "location": 2,
+      "content": "其中最主流的有四种说法",
+      "music": 0.0
+    },
+    {
+      "from": 652.509,
+      "to": 654.649,
+      "sid": 267,
+      "location": 2,
+      "content": "第一种呢就是谋财害命",
+      "music": 0.0
+    },
+    {
+      "from": 654.649,
+      "to": 656.45,
+      "sid": 268,
+      "location": 2,
+      "content": "说这宫泽一家啊",
+      "music": 0.0
+    },
+    {
+      "from": 656.45,
+      "to": 658.81,
+      "sid": 269,
+      "location": 2,
+      "content": "呃属于标准的精英阶层",
+      "music": 0.0
+    },
+    {
+      "from": 658.81,
+      "to": 662.38,
+      "sid": 270,
+      "location": 2,
+      "content": "男主人公则赣南呢毕业于东京大学农学部",
+      "music": 0.0
+    },
+    {
+      "from": 662.38,
+      "to": 665.1,
+      "sid": 271,
+      "location": 2,
+      "content": "后来啊转战动画制作行业",
+      "music": 0.0
+    },
+    {
+      "from": 665.1,
+      "to": 669.74,
+      "sid": 272,
+      "location": 2,
+      "content": "案发时呢则就职于著名的美国企业管理公司",
+      "music": 0.0
+    },
+    {
+      "from": 671.53,
+      "to": 673.19,
+      "sid": 273,
+      "location": 2,
+      "content": "担任CI设计师",
+      "music": 0.0
+    },
+    {
+      "from": 673.19,
+      "to": 674.71,
+      "sid": 274,
+      "location": 2,
+      "content": "也就是企业形象设计",
+      "music": 0.0
+    },
+    {
+      "from": 674.71,
+      "to": 676.53,
+      "sid": 275,
+      "location": 2,
+      "content": "而他的妻子宫泽太子的",
+      "music": 0.0
+    },
+    {
+      "from": 676.53,
+      "to": 679.13,
+      "sid": 276,
+      "location": 2,
+      "content": "同样是私立大学毕业的高材生",
+      "music": 0.0
+    },
+    {
+      "from": 679.13,
+      "to": 681.39,
+      "sid": 277,
+      "location": 2,
+      "content": "娘家人呢姓入江",
+      "music": 0.0
+    },
+    {
+      "from": 681.39,
+      "to": 682.51,
+      "sid": 278,
+      "location": 2,
+      "content": "世代经商",
+      "music": 0.0
+    },
+    {
+      "from": 682.51,
+      "to": 683.5,
+      "sid": 279,
+      "location": 2,
+      "content": "家境富裕",
+      "music": 0.0
+    },
+    {
+      "from": 683.5,
+      "to": 686.96,
+      "sid": 280,
+      "location": 2,
+      "content": "因此啊宫泽家遭遇歹徒劫杀",
+      "music": 0.0
+    },
+    {
+      "from": 686.96,
+      "to": 690.01,
+      "sid": 281,
+      "location": 2,
+      "content": "应该说是一种顺其自然的推断",
+      "music": 0.0
+    },
+    {
+      "from": 690.01,
+      "to": 693.21,
+      "sid": 282,
+      "location": 2,
+      "content": "嫌疑对象呢是在日本的外国人啊",
+      "music": 0.0
+    },
+    {
+      "from": 693.21,
+      "to": 694.27,
+      "sid": 283,
+      "location": 2,
+      "content": "尤其是韩国人",
+      "music": 0.0
+    },
+    {
+      "from": 694.27,
+      "to": 696.85,
+      "sid": 284,
+      "location": 2,
+      "content": "理由当然就是凶手遗留在现场的",
+      "music": 0.0
+    },
+    {
+      "from": 696.85,
+      "to": 698.72,
+      "sid": 285,
+      "location": 2,
+      "content": "那些韩国生产的行头了",
+      "music": 0.0
+    },
+    {
+      "from": 698.72,
+      "to": 701.84,
+      "sid": 286,
+      "location": 2,
+      "content": "因为他犯案后呢很可能逃回了国",
+      "music": 0.0
+    },
+    {
+      "from": 701.84,
+      "to": 704.63,
+      "sid": 287,
+      "location": 2,
+      "content": "所以警方才迟迟抓不到人",
+      "music": 0.0
+    },
+    {
+      "from": 704.95,
+      "to": 707.31,
+      "sid": 288,
+      "location": 2,
+      "content": "第二种理论自然之前也提过",
+      "music": 0.0
+    },
+    {
+      "from": 707.31,
+      "to": 708.29,
+      "sid": 289,
+      "location": 2,
+      "content": "那就是仇杀",
+      "music": 0.0
+    },
+    {
+      "from": 708.29,
+      "to": 709.65,
+      "sid": 290,
+      "location": 2,
+      "content": "根据警方了解啊",
+      "music": 0.0
+    },
+    {
+      "from": 709.65,
+      "to": 712.03,
+      "sid": 291,
+      "location": 2,
+      "content": "宫泽一家为人温和且低调",
+      "music": 0.0
+    },
+    {
+      "from": 712.03,
+      "to": 714.069,
+      "sid": 292,
+      "location": 2,
+      "content": "尤其是男主人宫泽干男",
+      "music": 0.0
+    },
+    {
+      "from": 714.069,
+      "to": 715.449,
+      "sid": 293,
+      "location": 2,
+      "content": "他虽然有些腼腆",
+      "music": 0.0
+    },
+    {
+      "from": 715.449,
+      "to": 716.929,
+      "sid": 294,
+      "location": 2,
+      "content": "但非常乐于助人",
+      "music": 0.0
+    },
+    {
+      "from": 716.929,
+      "to": 718.269,
+      "sid": 295,
+      "location": 2,
+      "content": "且踏实肯干",
+      "music": 0.0
+    },
+    {
+      "from": 718.269,
+      "to": 721.72,
+      "sid": 296,
+      "location": 2,
+      "content": "不管是同事还是邻居都对其赞不绝口",
+      "music": 0.0
+    },
+    {
+      "from": 721.72,
+      "to": 722.94,
+      "sid": 297,
+      "location": 2,
+      "content": "照道理说呢",
+      "music": 0.0
+    },
+    {
+      "from": 722.94,
+      "to": 725.069,
+      "sid": 298,
+      "location": 2,
+      "content": "这样的一家人不应该有仇人",
+      "music": 0.0
+    },
+    {
+      "from": 725.069,
+      "to": 726.609,
+      "sid": 299,
+      "location": 2,
+      "content": "但据说啊",
+      "music": 0.0
+    },
+    {
+      "from": 726.609,
+      "to": 729.849,
+      "sid": 300,
+      "location": 2,
+      "content": "宫泽家附近呢有一个可以玩滑板的体育广场",
+      "music": 0.0
+    },
+    {
+      "from": 729.849,
+      "to": 732.67,
+      "sid": 301,
+      "location": 2,
+      "content": "其中有一批素质比较差的青年呢",
+      "music": 0.0
+    },
+    {
+      "from": 732.67,
+      "to": 737.04,
+      "sid": 302,
+      "location": 2,
+      "content": "曾因为夜间噪音问题和宫泽干男发生过争执",
+      "music": 0.0
+    },
+    {
+      "from": 737.04,
+      "to": 741.5,
+      "sid": 303,
+      "location": 2,
+      "content": "所以有人觉得啊或许是这帮小年轻犯下的命案",
+      "music": 0.0
+    },
+    {
+      "from": 741.5,
+      "to": 744.86,
+      "sid": 304,
+      "location": 2,
+      "content": "至于第三第四种理论就比较夸张了啊",
+      "music": 0.0
+    },
+    {
+      "from": 744.86,
+      "to": 747.68,
+      "sid": 305,
+      "location": 2,
+      "content": "我们先来说第三种就是黑帮谋害论",
+      "music": 0.0
+    },
+    {
+      "from": 747.68,
+      "to": 750.64,
+      "sid": 306,
+      "location": 2,
+      "content": "这一理论呢来源于知名的自由记者",
+      "music": 0.0
+    },
+    {
+      "from": 750.64,
+      "to": 752.92,
+      "sid": 307,
+      "location": 2,
+      "content": "伊桥文哉写的一本书啊",
+      "music": 0.0
+    },
+    {
+      "from": 752.92,
+      "to": 754.32,
+      "sid": 308,
+      "location": 2,
+      "content": "他在文中表示啊",
+      "music": 0.0
+    },
+    {
+      "from": 754.32,
+      "to": 758.6,
+      "sid": 309,
+      "location": 2,
+      "content": "自己呢根据韩国黑手党原头目提供的线报",
+      "music": 0.0
+    },
+    {
+      "from": 758.6,
+      "to": 759.96,
+      "sid": 310,
+      "location": 2,
+      "content": "进行了独立调查",
+      "music": 0.0
+    },
+    {
+      "from": 759.96,
+      "to": 764.46,
+      "sid": 311,
+      "location": 2,
+      "content": "结果发现了东京某黑帮成员金田秀道和",
+      "music": 0.0
+    },
+    {
+      "from": 764.46,
+      "to": 768.24,
+      "sid": 312,
+      "location": 2,
+      "content": "韩国首尔及前士兵叫李仁恩",
+      "music": 0.0
+    },
+    {
+      "from": 768.24,
+      "to": 770.09,
+      "sid": 313,
+      "location": 2,
+      "content": "具有重大犯罪嫌疑",
+      "music": 0.0
+    },
+    {
+      "from": 770.09,
+      "to": 774.55,
+      "sid": 314,
+      "location": 2,
+      "content": "据说金田秀道呢唉向来以倒买倒卖为生",
+      "music": 0.0
+    },
+    {
+      "from": 774.55,
+      "to": 775.68,
+      "sid": 315,
+      "location": 2,
+      "content": "上面说过啊",
+      "music": 0.0
+    },
+    {
+      "from": 775.68,
+      "to": 778.0,
+      "sid": 316,
+      "location": 2,
+      "content": "宫泽家后面的祖师谷公园",
+      "music": 0.0
+    },
+    {
+      "from": 778.0,
+      "to": 780.88,
+      "sid": 317,
+      "location": 2,
+      "content": "因为扩建周边住宅呢需要拆迁",
+      "music": 0.0
+    },
+    {
+      "from": 780.88,
+      "to": 785.3,
+      "sid": 318,
+      "location": 2,
+      "content": "金田呢就想以低价收购宫泽佳之后",
+      "music": 0.0
+    },
+    {
+      "from": 785.3,
+      "to": 787.79,
+      "sid": 319,
+      "location": 2,
+      "content": "再以高价转卖给官方",
+      "music": 0.0
+    },
+    {
+      "from": 787.79,
+      "to": 790.17,
+      "sid": 320,
+      "location": 2,
+      "content": "哪知宫泽家呢死活不答应",
+      "music": 0.0
+    },
+    {
+      "from": 790.17,
+      "to": 794.42,
+      "sid": 321,
+      "location": 2,
+      "content": "于是今天呢就找来了李仁恩实施了灭门的计划",
+      "music": 0.0
+    },
+    {
+      "from": 794.42,
+      "to": 796.06,
+      "sid": 322,
+      "location": 2,
+      "content": "而最后一种理论啊",
+      "music": 0.0
+    },
+    {
+      "from": 796.06,
+      "to": 798.56,
+      "sid": 323,
+      "location": 2,
+      "content": "就是所谓的邪教报复论了",
+      "music": 0.0
+    },
+    {
+      "from": 798.56,
+      "to": 802.34,
+      "sid": 324,
+      "location": 2,
+      "content": "相传宫泽夫妇早年是在一个自我启发",
+      "music": 0.0
+    },
+    {
+      "from": 802.34,
+      "to": 804.11,
+      "sid": 325,
+      "location": 2,
+      "content": "研讨会上认识的",
+      "music": 0.0
+    },
+    {
+      "from": 811.23,
+      "to": 813.4,
+      "sid": 326,
+      "location": 2,
+      "content": "不择手段的邪教团体",
+      "music": 0.0
+    },
+    {
+      "from": 813.4,
+      "to": 816.4,
+      "sid": 327,
+      "location": 2,
+      "content": "之所以会遭来灭门之灾啊",
+      "music": 0.0
+    },
+    {
+      "from": 816.4,
+      "to": 819.18,
+      "sid": 328,
+      "location": 2,
+      "content": "那是因为宫泽夫妇呢想要退出教会",
+      "music": 0.0
+    },
+    {
+      "from": 820.1,
+      "to": 823.2,
+      "sid": 329,
+      "location": 2,
+      "content": "为了杀一儆百才坐下了这起案件",
+      "music": 0.0
+    },
+    {
+      "from": 823.2,
+      "to": 828.36,
+      "sid": 330,
+      "location": 2,
+      "content": "唉以上这些就是网传的世田谷案的基本内容了",
+      "music": 0.0
+    },
+    {
+      "from": 828.36,
+      "to": 829.52,
+      "sid": 331,
+      "location": 2,
+      "content": "那么接下来呢",
+      "music": 0.0
+    },
+    {
+      "from": 829.52,
+      "to": 834.43,
+      "sid": 332,
+      "location": 2,
+      "content": "咱就看看这里面到底有多少不实信息",
+      "music": 0.0
+    },
+    {
+      "from": 834.71,
+      "to": 836.37,
+      "sid": 333,
+      "location": 2,
+      "content": "这次啊咱反着来啊",
+      "music": 0.0
+    },
+    {
+      "from": 836.37,
+      "to": 838.63,
+      "sid": 334,
+      "location": 2,
+      "content": "先拿邪教理论开刀",
+      "music": 0.0
+    },
+    {
+      "from": 841.77,
+      "to": 844.05,
+      "sid": 335,
+      "location": 2,
+      "content": "啊但经过我们团队的考证啊",
+      "music": 0.0
+    },
+    {
+      "from": 844.05,
+      "to": 846.2,
+      "sid": 336,
+      "location": 2,
+      "content": "这种说法是完全没有依据的",
+      "music": 0.0
+    },
+    {
+      "from": 846.2,
+      "to": 849.94,
+      "sid": 337,
+      "location": 2,
+      "content": "首先全网除了一些小报和个人博主外",
+      "music": 0.0
+    },
+    {
+      "from": 849.94,
+      "to": 852.88,
+      "sid": 338,
+      "location": 2,
+      "content": "没有任何权威媒体或者警方的信息中",
+      "music": 0.0
+    },
+    {
+      "from": 852.88,
+      "to": 853.88,
+      "sid": 339,
+      "location": 2,
+      "content": "披露过这一点",
+      "music": 0.0
+    },
+    {
+      "from": 853.88,
+      "to": 858.82,
+      "sid": 340,
+      "location": 2,
+      "content": "其次宫泽太子的姐姐入江信曾经写过一本书啊",
+      "music": 0.0
+    },
+    {
+      "from": 858.82,
+      "to": 862.329,
+      "sid": 341,
+      "location": 2,
+      "content": "名为如果悲伤的意义能被知晓",
+      "music": 0.0
+    },
+    {
+      "from": 862.329,
+      "to": 865.76,
+      "sid": 342,
+      "location": 2,
+      "content": "世田谷事件失去与重生的故事",
+      "music": 0.0
+    },
+    {
+      "from": 865.76,
+      "to": 868.84,
+      "sid": 343,
+      "location": 2,
+      "content": "在书中呢他回忆本案的点滴细节",
+      "music": 0.0
+    },
+    {
+      "from": 868.84,
+      "to": 872.41,
+      "sid": 344,
+      "location": 2,
+      "content": "也谈到了妹妹和妹夫两人的很多往事",
+      "music": 0.0
+    },
+    {
+      "from": 876.93,
+      "to": 877.97,
+      "sid": 345,
+      "location": 2,
+      "content": "退1万步讲",
+      "music": 0.0
+    },
+    {
+      "from": 877.97,
+      "to": 882.94,
+      "sid": 346,
+      "location": 2,
+      "content": "即使宫泽夫妇真的相识于自我启发研讨会",
+      "music": 0.0
+    },
+    {
+      "from": 882.94,
+      "to": 884.22,
+      "sid": 347,
+      "location": 2,
+      "content": "也不能代表什么",
+      "music": 0.0
+    },
+    {
+      "from": 884.22,
+      "to": 886.14,
+      "sid": 348,
+      "location": 2,
+      "content": "因为自我启发研讨会",
+      "music": 0.0
+    },
+    {
+      "from": 886.14,
+      "to": 887.78,
+      "sid": 349,
+      "location": 2,
+      "content": "只不过是20世纪70年代",
+      "music": 0.0
+    },
+    {
+      "from": 887.78,
+      "to": 891.329,
+      "sid": 350,
+      "location": 2,
+      "content": "从美国流传到日本的一种培训课程",
+      "music": 0.0
+    },
+    {
+      "from": 891.329,
+      "to": 895.289,
+      "sid": 351,
+      "location": 2,
+      "content": "其宗旨呢是促使人们自我激励和启发",
+      "music": 0.0
+    },
+    {
+      "from": 895.289,
+      "to": 898.13,
+      "sid": 352,
+      "location": 2,
+      "content": "塑造心理和精神的强大",
+      "music": 0.0
+    },
+    {
+      "from": 898.13,
+      "to": 901.65,
+      "sid": 353,
+      "location": 2,
+      "content": "以便在事业和家庭方面呢更上一层楼",
+      "music": 0.0
+    },
+    {
+      "from": 901.65,
+      "to": 904.53,
+      "sid": 354,
+      "location": 2,
+      "content": "虽然有些传销组织确实曾经利用",
+      "music": 0.0
+    },
+    {
+      "from": 904.53,
+      "to": 907.2,
+      "sid": 355,
+      "location": 2,
+      "content": "他进行精神控制甚至是诈骗",
+      "music": 0.0
+    },
+    {
+      "from": 907.2,
+      "to": 908.3,
+      "sid": 356,
+      "location": 2,
+      "content": "但时至今日",
+      "music": 0.0
+    },
+    {
+      "from": 908.3,
+      "to": 911.8,
+      "sid": 357,
+      "location": 2,
+      "content": "日本国内依旧有人在办自我启发研讨会",
+      "music": 0.0
+    },
+    {
+      "from": 916.14,
+      "to": 917.52,
+      "sid": 358,
+      "location": 2,
+      "content": "纯属胡说八道",
+      "music": 0.0
+    },
+    {
+      "from": 917.52,
+      "to": 918.44,
+      "sid": 359,
+      "location": 2,
+      "content": "另外呢",
+      "music": 0.0
+    },
+    {
+      "from": 920.44,
+      "to": 923.62,
+      "sid": 360,
+      "location": 2,
+      "content": "成员退会就要灭人满门的程度",
+      "music": 0.0
+    },
+    {
+      "from": 927.78,
+      "to": 931.74,
+      "sid": 361,
+      "location": 2,
+      "content": "比如啊呃艺术体操的选手山崎耗子啊",
+      "music": 0.0
+    },
+    {
+      "from": 931.74,
+      "to": 933.18,
+      "sid": 362,
+      "location": 2,
+      "content": "他因为受到精神控制",
+      "music": 0.0
+    },
+    {
+      "from": 933.18,
+      "to": 934.66,
+      "sid": 363,
+      "location": 2,
+      "content": "所以退出了教会",
+      "music": 0.0
+    },
+    {
+      "from": 934.66,
+      "to": 937.2,
+      "sid": 364,
+      "location": 2,
+      "content": "但之后呢一直活跃在体坛上",
+      "music": 0.0
+    },
+    {
+      "from": 937.2,
+      "to": 941.339,
+      "sid": 365,
+      "location": 2,
+      "content": "所以说啊宫泽家遭遇邪教报复纯属胡奏",
+      "music": 0.0
+    },
+    {
+      "from": 941.339,
+      "to": 943.559,
+      "sid": 366,
+      "location": 2,
+      "content": "至于黑帮谋害论呢",
+      "music": 0.0
+    },
+    {
+      "from": 943.559,
+      "to": 944.619,
+      "sid": 367,
+      "location": 2,
+      "content": "或是什么啊",
+      "music": 0.0
+    },
+    {
+      "from": 944.619,
+      "to": 946.059,
+      "sid": 368,
+      "location": 2,
+      "content": "丁字户拒绝搬迁",
+      "music": 0.0
+    },
+    {
+      "from": 946.059,
+      "to": 947.539,
+      "sid": 369,
+      "location": 2,
+      "content": "被当局针对之类的",
+      "music": 0.0
+    },
+    {
+      "from": 947.539,
+      "to": 948.99,
+      "sid": 370,
+      "location": 2,
+      "content": "同样是无稽之谈",
+      "music": 0.0
+    },
+    {
+      "from": 948.99,
+      "to": 951.05,
+      "sid": 371,
+      "location": 2,
+      "content": "知名报媒朝日新闻",
+      "music": 0.0
+    },
+    {
+      "from": 951.05,
+      "to": 953.63,
+      "sid": 372,
+      "location": 2,
+      "content": "读卖新闻和和时事通讯社",
+      "music": 0.0
+    },
+    {
+      "from": 953.63,
+      "to": 955.21,
+      "sid": 373,
+      "location": 2,
+      "content": "分别在2006年12月",
+      "music": 0.0
+    },
+    {
+      "from": 955.21,
+      "to": 956.53,
+      "sid": 374,
+      "location": 2,
+      "content": "2005年8月和",
+      "music": 0.0
+    },
+    {
+      "from": 956.53,
+      "to": 959.05,
+      "sid": 375,
+      "location": 2,
+      "content": "2010年12月的刊物上表示啊",
+      "music": 0.0
+    },
+    {
+      "from": 959.05,
+      "to": 963.39,
+      "sid": 376,
+      "location": 2,
+      "content": "宫泽家早就同意在2001年4月搬迁",
+      "music": 0.0
+    },
+    {
+      "from": 963.39,
+      "to": 968.01,
+      "sid": 377,
+      "location": 2,
+      "content": "而且呢已经用预付的拆迁款订好了新房",
+      "music": 0.0
+    },
+    {
+      "from": 968.01,
+      "to": 969.85,
+      "sid": 378,
+      "location": 2,
+      "content": "并不存在不肯搬家",
+      "music": 0.0
+    },
+    {
+      "from": 969.85,
+      "to": 974.19,
+      "sid": 379,
+      "location": 2,
+      "content": "被政府报复或者拒绝向黑帮低价卖房的事情",
+      "music": 0.0
+    },
+    {
+      "from": 974.19,
+      "to": 974.99,
+      "sid": 380,
+      "location": 2,
+      "content": "再说了",
+      "music": 0.0
+    },
+    {
+      "from": 974.99,
+      "to": 975.99,
+      "sid": 381,
+      "location": 2,
+      "content": "案件发生时",
+      "music": 0.0
+    },
+    {
+      "from": 975.99,
+      "to": 977.77,
+      "sid": 382,
+      "location": 2,
+      "content": "宫泽的丈母娘家",
+      "music": 0.0
+    },
+    {
+      "from": 977.77,
+      "to": 980.579,
+      "sid": 383,
+      "location": 2,
+      "content": "以及附近另外三户人家也没有搬啊",
+      "music": 0.0
+    },
+    {
+      "from": 980.579,
+      "to": 984.099,
+      "sid": 384,
+      "location": 2,
+      "content": "他们怎么没有被黑帮或者官家针对呢",
+      "music": 0.0
+    },
+    {
+      "from": 984.099,
+      "to": 988.36,
+      "sid": 385,
+      "location": 2,
+      "content": "所以说啊四种理论的后两种基本是站不住脚的",
+      "music": 0.0
+    },
+    {
+      "from": 988.36,
+      "to": 989.66,
+      "sid": 386,
+      "location": 2,
+      "content": "相对来说啊",
+      "music": 0.0
+    },
+    {
+      "from": 989.66,
+      "to": 992.04,
+      "sid": 387,
+      "location": 2,
+      "content": "谋财害命和仇杀会靠谱一些",
+      "music": 0.0
+    },
+    {
+      "from": 992.04,
+      "to": 995.55,
+      "sid": 388,
+      "location": 2,
+      "content": "不过其中也存在被误传的重要线索",
+      "music": 0.0
+    },
+    {
+      "from": 995.55,
+      "to": 997.89,
+      "sid": 389,
+      "location": 2,
+      "content": "首先咱们来说仇杀啊",
+      "music": 0.0
+    },
+    {
+      "from": 997.89,
+      "to": 1000.05,
+      "sid": 390,
+      "location": 2,
+      "content": "这一理论之所以站得住脚",
+      "music": 0.0
+    },
+    {
+      "from": 1000.05,
+      "to": 1004.38,
+      "sid": 391,
+      "location": 2,
+      "content": "那是因为很多人相信此案是宫泽家的熟人所为",
+      "music": 0.0
+    },
+    {
+      "from": 1004.38,
+      "to": 1006.38,
+      "sid": 392,
+      "location": 2,
+      "content": "各位还记得宫泽家有张",
+      "music": 0.0
+    },
+    {
+      "from": 1006.38,
+      "to": 1010.67,
+      "sid": 393,
+      "location": 2,
+      "content": "2000年收到的新年贺卡被凶手拿走了吗啊",
+      "music": 0.0
+    },
+    {
+      "from": 1010.67,
+      "to": 1014.15,
+      "sid": 394,
+      "location": 2,
+      "content": "悬疑爱好者认为贺卡很可能就是凶手送的",
+      "music": 0.0
+    },
+    {
+      "from": 1014.15,
+      "to": 1016.66,
+      "sid": 395,
+      "location": 2,
+      "content": "为了在案发后不引起警方的注意",
+      "music": 0.0
+    },
+    {
+      "from": 1016.66,
+      "to": 1017.94,
+      "sid": 396,
+      "location": 2,
+      "content": "所以呢才必须带走",
+      "music": 0.0
+    },
+    {
+      "from": 1017.94,
+      "to": 1020.74,
+      "sid": 397,
+      "location": 2,
+      "content": "以达到毁灭证据的目的啊",
+      "music": 0.0
+    },
+    {
+      "from": 1020.74,
+      "to": 1023.28,
+      "sid": 398,
+      "location": 2,
+      "content": "听上去似乎是蛮有道理的对吧",
+      "music": 0.0
+    },
+    {
+      "from": 1023.28,
+      "to": 1024.38,
+      "sid": 399,
+      "location": 2,
+      "content": "但实际上呢",
+      "music": 0.0
+    },
+    {
+      "from": 1024.38,
+      "to": 1028.14,
+      "sid": 400,
+      "location": 2,
+      "content": "日本警视厅早在2010年就公开表示",
+      "music": 0.0
+    },
+    {
+      "from": 1028.14,
+      "to": 1030.2,
+      "sid": 401,
+      "location": 2,
+      "content": "贺年卡并不是凶手拿走的",
+      "music": 0.0
+    },
+    {
+      "from": 1030.2,
+      "to": 1033.34,
+      "sid": 402,
+      "location": 2,
+      "content": "而是警方为了取证而带走的",
+      "music": 0.0
+    },
+    {
+      "from": 1033.34,
+      "to": 1034.9,
+      "sid": 403,
+      "location": 2,
+      "content": "后来由于疏忽",
+      "music": 0.0
+    },
+    {
+      "from": 1034.9,
+      "to": 1036.34,
+      "sid": 404,
+      "location": 2,
+      "content": "贺卡遗失了",
+      "music": 0.0
+    },
+    {
+      "from": 1036.34,
+      "to": 1038.22,
+      "sid": 405,
+      "location": 2,
+      "content": "因此呢纯属意外",
+      "music": 0.0
+    },
+    {
+      "from": 1038.22,
+      "to": 1040.27,
+      "sid": 406,
+      "location": 2,
+      "content": "跟案子半毛钱关系都没有",
+      "music": 0.0
+    },
+    {
+      "from": 1040.27,
+      "to": 1042.35,
+      "sid": 407,
+      "location": 2,
+      "content": "当然仇杀论被人支持",
+      "music": 0.0
+    },
+    {
+      "from": 1042.35,
+      "to": 1043.23,
+      "sid": 408,
+      "location": 2,
+      "content": "还有另一个原因",
+      "music": 0.0
+    },
+    {
+      "from": 1043.23,
+      "to": 1046.42,
+      "sid": 409,
+      "location": 2,
+      "content": "那就是宫泽家二楼的浴室窗口太小",
+      "music": 0.0
+    },
+    {
+      "from": 1046.42,
+      "to": 1048.18,
+      "sid": 410,
+      "location": 2,
+      "content": "成年人呢难以爬进去",
+      "music": 0.0
+    },
+    {
+      "from": 1048.18,
+      "to": 1052.03,
+      "sid": 411,
+      "location": 2,
+      "content": "或者说凶手只能从正门的玄关进入室内",
+      "music": 0.0
+    },
+    {
+      "from": 1052.03,
+      "to": 1054.69,
+      "sid": 412,
+      "location": 2,
+      "content": "而宫泽家的大门呢又没有被强闯",
+      "music": 0.0
+    },
+    {
+      "from": 1054.69,
+      "to": 1057.46,
+      "sid": 413,
+      "location": 2,
+      "content": "因此推理出是熟人所为",
+      "music": 0.0
+    },
+    {
+      "from": 1057.46,
+      "to": 1058.46,
+      "sid": 414,
+      "location": 2,
+      "content": "不好意思啊",
+      "music": 0.0
+    },
+    {
+      "from": 1058.46,
+      "to": 1060.53,
+      "sid": 415,
+      "location": 2,
+      "content": "这道信息呢也是错误的",
+      "music": 0.0
+    },
+    {
+      "from": 1060.53,
+      "to": 1062.59,
+      "sid": 416,
+      "location": 2,
+      "content": "2002年8月8日",
+      "music": 0.0
+    },
+    {
+      "from": 1062.59,
+      "to": 1066.07,
+      "sid": 417,
+      "location": 2,
+      "content": "一位东京警察厅调查一科的警员",
+      "music": 0.0
+    },
+    {
+      "from": 1066.07,
+      "to": 1069.59,
+      "sid": 418,
+      "location": 2,
+      "content": "在被读卖新闻采访时呢说过这样一段话",
+      "music": 0.0
+    },
+    {
+      "from": 1069.59,
+      "to": 1072.85,
+      "sid": 419,
+      "location": 2,
+      "content": "我有一个深情和罪犯类似的下属",
+      "music": 0.0
+    },
+    {
+      "from": 1072.85,
+      "to": 1074.93,
+      "sid": 420,
+      "location": 2,
+      "content": "他在爬上浴室的小窗后",
+      "music": 0.0
+    },
+    {
+      "from": 1074.93,
+      "to": 1077.78,
+      "sid": 421,
+      "location": 2,
+      "content": "只用了几秒钟就钻入了室内",
+      "music": 0.0
+    },
+    {
+      "from": 1077.78,
+      "to": 1080.84,
+      "sid": 422,
+      "location": 2,
+      "content": "这对我们爸爸辈的人来说是很困难的",
+      "music": 0.0
+    },
+    {
+      "from": 1080.84,
+      "to": 1084.32,
+      "sid": 423,
+      "location": 2,
+      "content": "但对于爱运动的年轻人来说并不是问题",
+      "music": 0.0
+    },
+    {
+      "from": 1084.32,
+      "to": 1085.84,
+      "sid": 424,
+      "location": 2,
+      "content": "为验证这种说法",
+      "music": 0.0
+    },
+    {
+      "from": 1085.84,
+      "to": 1088.48,
+      "sid": 425,
+      "location": 2,
+      "content": "本频道专门请常驻日本的朋友呢",
+      "music": 0.0
+    },
+    {
+      "from": 1088.48,
+      "to": 1090.33,
+      "sid": 426,
+      "location": 2,
+      "content": "去实地做了勘察",
+      "music": 0.0
+    },
+    {
+      "from": 1090.33,
+      "to": 1091.67,
+      "sid": 427,
+      "location": 2,
+      "content": "最终确定啊",
+      "music": 0.0
+    },
+    {
+      "from": 1091.67,
+      "to": 1094.99,
+      "sid": 428,
+      "location": 2,
+      "content": "案发地浴室的尺寸并不小啊",
+      "music": 0.0
+    },
+    {
+      "from": 1094.99,
+      "to": 1098.53,
+      "sid": 429,
+      "location": 2,
+      "content": "警方公开的数据呢是50×40厘米",
+      "music": 0.0
+    },
+    {
+      "from": 1098.53,
+      "to": 1101.85,
+      "sid": 430,
+      "location": 2,
+      "content": "只要是比较纤瘦的年轻人",
+      "music": 0.0
+    },
+    {
+      "from": 1101.85,
+      "to": 1105.389,
+      "sid": 431,
+      "location": 2,
+      "content": "基本都可以踩着外墙的房檐爬进去",
+      "music": 0.0
+    },
+    {
+      "from": 1105.389,
+      "to": 1106.509,
+      "sid": 432,
+      "location": 2,
+      "content": "需要说明的是",
+      "music": 0.0
+    },
+    {
+      "from": 1106.509,
+      "to": 1109.08,
+      "sid": 433,
+      "location": 2,
+      "content": "咱们现在看到的窗户外面的那些",
+      "music": 0.0
+    },
+    {
+      "from": 1109.08,
+      "to": 1110.92,
+      "sid": 434,
+      "location": 2,
+      "content": "这铁栅栏呢是在案发后",
+      "music": 0.0
+    },
+    {
+      "from": 1110.92,
+      "to": 1114.92,
+      "sid": 435,
+      "location": 2,
+      "content": "为了防止前来试胆冒险的年轻人和各路主播",
+      "music": 0.0
+    },
+    {
+      "from": 1114.92,
+      "to": 1116.4,
+      "sid": 436,
+      "location": 2,
+      "content": "反复翻进室内",
+      "music": 0.0
+    },
+    {
+      "from": 1116.4,
+      "to": 1118.1,
+      "sid": 437,
+      "location": 2,
+      "content": "破坏现场才装上的",
+      "music": 0.0
+    },
+    {
+      "from": 1118.1,
+      "to": 1119.62,
+      "sid": 438,
+      "location": 2,
+      "content": "这也从侧面证明",
+      "music": 0.0
+    },
+    {
+      "from": 1119.62,
+      "to": 1124.04,
+      "sid": 439,
+      "location": 2,
+      "content": "从二楼浴室的窗户进入室内是完全行得通的",
+      "music": 0.0
+    },
+    {
+      "from": 1124.04,
+      "to": 1126.32,
+      "sid": 440,
+      "location": 2,
+      "content": "最后咱要来说的是谋财害命啊",
+      "music": 0.0
+    },
+    {
+      "from": 1126.32,
+      "to": 1127.86,
+      "sid": 441,
+      "location": 2,
+      "content": "这也是最流行的一种推断",
+      "music": 0.0
+    },
+    {
+      "from": 1127.86,
+      "to": 1130.08,
+      "sid": 442,
+      "location": 2,
+      "content": "甚至呢连凶手是哪人都已经确定了嘛",
+      "music": 0.0
+    },
+    {
+      "from": 1130.08,
+      "to": 1132.62,
+      "sid": 443,
+      "location": 2,
+      "content": "哈因为这家伙穿的网球鞋是韩国产的",
+      "music": 0.0
+    },
+    {
+      "from": 1132.62,
+      "to": 1133.47,
+      "sid": 444,
+      "location": 2,
+      "content": "日本没得卖",
+      "music": 0.0
+    },
+    {
+      "from": 1133.47,
+      "to": 1137.55,
+      "sid": 445,
+      "location": 2,
+      "content": "所以嫌犯多半是已经潜逃回韩国的韩国人",
+      "music": 0.0
+    },
+    {
+      "from": 1137.55,
+      "to": 1139.59,
+      "sid": 446,
+      "location": 2,
+      "content": "凶手到底是哪儿人呢",
+      "music": 0.0
+    },
+    {
+      "from": 1139.59,
+      "to": 1140.99,
+      "sid": 447,
+      "location": 2,
+      "content": "哎我们开脑洞时",
+      "music": 0.0
+    },
+    {
+      "from": 1140.99,
+      "to": 1142.19,
+      "sid": 448,
+      "location": 2,
+      "content": "在讨论这里",
+      "music": 0.0
+    },
+    {
+      "from": 1142.19,
+      "to": 1144.22,
+      "sid": 449,
+      "location": 2,
+      "content": "咱只做辟谣这件事",
+      "music": 0.0
+    },
+    {
+      "from": 1144.22,
+      "to": 1145.2,
+      "sid": 450,
+      "location": 2,
+      "content": "事实上啊",
+      "music": 0.0
+    },
+    {
+      "from": 1145.2,
+      "to": 1146.32,
+      "sid": 451,
+      "location": 2,
+      "content": "案发后不久",
+      "music": 0.0
+    },
+    {
+      "from": 1146.32,
+      "to": 1150.25,
+      "sid": 452,
+      "location": 2,
+      "content": "日本警视厅就查明了凶手遗留物品的买卖情况",
+      "music": 0.0
+    },
+    {
+      "from": 1150.25,
+      "to": 1154.56,
+      "sid": 453,
+      "location": 2,
+      "content": "除了鞋子的确是韩国生产的280型号以外",
+      "music": 0.0
+    },
+    {
+      "from": 1154.56,
+      "to": 1156.72,
+      "sid": 454,
+      "location": 2,
+      "content": "其余物品基本都是优衣库",
+      "music": 0.0
+    },
+    {
+      "from": 1156.72,
+      "to": 1159.24,
+      "sid": 455,
+      "location": 2,
+      "content": "无印良品和普通超市就能买到的",
+      "music": 0.0
+    },
+    {
+      "from": 1159.24,
+      "to": 1160.25,
+      "sid": 456,
+      "location": 2,
+      "content": "非常常见",
+      "music": 0.0
+    },
+    {
+      "from": 1160.25,
+      "to": 1162.95,
+      "sid": 457,
+      "location": 2,
+      "content": "而对于280型号的网球鞋呢",
+      "music": 0.0
+    },
+    {
+      "from": 1162.95,
+      "to": 1164.49,
+      "sid": 458,
+      "location": 2,
+      "content": "世田谷玩调查小组",
+      "music": 0.0
+    },
+    {
+      "from": 1164.49,
+      "to": 1168.44,
+      "sid": 459,
+      "location": 2,
+      "content": "在2018年的8月的官方报道中明确提出",
+      "music": 0.0
+    },
+    {
+      "from": 1168.44,
+      "to": 1173.01,
+      "sid": 460,
+      "location": 2,
+      "content": "尚未确定这款鞋在日本国内有没有销售过啊",
+      "music": 0.0
+    },
+    {
+      "from": 1173.01,
+      "to": 1178.48,
+      "sid": 461,
+      "location": 2,
+      "content": "所以280型号的球鞋只在韩国有是不准确的",
+      "music": 0.0
+    },
+    {
+      "from": 1178.48,
+      "to": 1182.48,
+      "sid": 462,
+      "location": 2,
+      "content": "好以上就是辟谣部分的所有内容了",
+      "music": 0.0
+    },
+    {
+      "from": 1182.48,
+      "to": 1183.76,
+      "sid": 463,
+      "location": 2,
+      "content": "听我讲了这么多啊",
+      "music": 0.0
+    },
+    {
+      "from": 1183.76,
+      "to": 1185.76,
+      "sid": 464,
+      "location": 2,
+      "content": "现在大家一定有所疑问啊",
+      "music": 0.0
+    },
+    {
+      "from": 1185.76,
+      "to": 1188.72,
+      "sid": 465,
+      "location": 2,
+      "content": "心说即使你老K的信息比较准确啊",
+      "music": 0.0
+    },
+    {
+      "from": 1188.72,
+      "to": 1189.74,
+      "sid": 466,
+      "location": 2,
+      "content": "那又怎么样呢",
+      "music": 0.0
+    },
+    {
+      "from": 1189.74,
+      "to": 1193.6,
+      "sid": 467,
+      "location": 2,
+      "content": "难不成还能从中推理出事件的真相",
+      "music": 0.0
+    },
+    {
+      "from": 1193.92,
+      "to": 1196.969,
+      "sid": 468,
+      "location": 2,
+      "content": "还别说或许真的可以啊",
+      "music": 0.0
+    },
+    {
+      "from": 1196.969,
+      "to": 1198.489,
+      "sid": 469,
+      "location": 2,
+      "content": "那么下面要进入的",
+      "music": 0.0
+    },
+    {
+      "from": 1198.489,
+      "to": 1201.15,
+      "sid": 470,
+      "location": 2,
+      "content": "就是本频道独有的脑洞环节了",
+      "music": 0.0
+    },
+    {
+      "from": 1201.15,
+      "to": 1204.83,
+      "sid": 471,
+      "location": 2,
+      "content": "脑洞呢只是我们团队对案件的揣测并非真相",
+      "music": 0.0
+    },
+    {
+      "from": 1204.83,
+      "to": 1207.15,
+      "sid": 472,
+      "location": 2,
+      "content": "各位不喜勿喷",
+      "music": 0.0
+    },
+    {
+      "from": 1207.58,
+      "to": 1209.96,
+      "sid": 473,
+      "location": 2,
+      "content": "经常看探案节目的观众都知道啊",
+      "music": 0.0
+    },
+    {
+      "from": 1209.96,
+      "to": 1215.03,
+      "sid": 474,
+      "location": 2,
+      "content": "想要破解一起案件动机和侧写是很重要的两环",
+      "music": 0.0
+    },
+    {
+      "from": 1215.03,
+      "to": 1216.83,
+      "sid": 475,
+      "location": 2,
+      "content": "在之前的辟谣环节中",
+      "music": 0.0
+    },
+    {
+      "from": 1216.83,
+      "to": 1221.01,
+      "sid": 476,
+      "location": 2,
+      "content": "我们已经指出了所有流行理论中的错误之处",
+      "music": 0.0
+    },
+    {
+      "from": 1221.01,
+      "to": 1224.03,
+      "sid": 477,
+      "location": 2,
+      "content": "且基本排除了邪教论和黑帮论",
+      "music": 0.0
+    },
+    {
+      "from": 1224.03,
+      "to": 1224.97,
+      "sid": 478,
+      "location": 2,
+      "content": "所以啊",
+      "music": 0.0
+    },
+    {
+      "from": 1224.97,
+      "to": 1226.15,
+      "sid": 479,
+      "location": 2,
+      "content": "案件动机",
+      "music": 0.0
+    },
+    {
+      "from": 1226.15,
+      "to": 1230.94,
+      "sid": 480,
+      "location": 2,
+      "content": "只需要在仇杀和谋财害命间作出判断即可",
+      "music": 0.0
+    },
+    {
+      "from": 1230.94,
+      "to": 1232.82,
+      "sid": 481,
+      "location": 2,
+      "content": "要想搞清楚这一点",
+      "music": 0.0
+    },
+    {
+      "from": 1232.82,
+      "to": 1236.21,
+      "sid": 482,
+      "location": 2,
+      "content": "知道凶手进入犯罪现场的方式是非常重要的",
+      "music": 0.0
+    },
+    {
+      "from": 1236.21,
+      "to": 1238.09,
+      "sid": 483,
+      "location": 2,
+      "content": "而根据现有的证据来看",
+      "music": 0.0
+    },
+    {
+      "from": 1238.09,
+      "to": 1239.49,
+      "sid": 484,
+      "location": 2,
+      "content": "无外乎两种可能",
+      "music": 0.0
+    },
+    {
+      "from": 1239.49,
+      "to": 1241.53,
+      "sid": 485,
+      "location": 2,
+      "content": "要么呢是从二楼的浴室爬进来的",
+      "music": 0.0
+    },
+    {
+      "from": 1241.53,
+      "to": 1243.52,
+      "sid": 486,
+      "location": 2,
+      "content": "要么呢是从一楼大门进入的",
+      "music": 0.0
+    },
+    {
+      "from": 1243.52,
+      "to": 1247.02,
+      "sid": 487,
+      "location": 2,
+      "content": "个人觉得凶手走正门的可能性很小啊",
+      "music": 0.0
+    },
+    {
+      "from": 1247.02,
+      "to": 1248.46,
+      "sid": 488,
+      "location": 2,
+      "content": "原因有这么几点",
+      "music": 0.0
+    },
+    {
+      "from": 1248.46,
+      "to": 1250.14,
+      "sid": 489,
+      "location": 2,
+      "content": "首先是老生常谈的",
+      "music": 0.0
+    },
+    {
+      "from": 1250.14,
+      "to": 1251.08,
+      "sid": 490,
+      "location": 2,
+      "content": "没有强闯痕迹",
+      "music": 0.0
+    },
+    {
+      "from": 1251.08,
+      "to": 1255.429,
+      "sid": 491,
+      "location": 2,
+      "content": "其次呢宫泽家当晚也没有访客拜访的迹象",
+      "music": 0.0
+    },
+    {
+      "from": 1255.429,
+      "to": 1256.949,
+      "sid": 492,
+      "location": 2,
+      "content": "虽然在案发之初",
+      "music": 0.0
+    },
+    {
+      "from": 1256.949,
+      "to": 1258.769,
+      "sid": 493,
+      "location": 2,
+      "content": "有位周边的邻居表示啊",
+      "music": 0.0
+    },
+    {
+      "from": 1258.769,
+      "to": 1261.41,
+      "sid": 494,
+      "location": 2,
+      "content": "30日当晚08:30左右",
+      "music": 0.0
+    },
+    {
+      "from": 1261.41,
+      "to": 1264.95,
+      "sid": 495,
+      "location": 2,
+      "content": "宫泽家传出过门铃声和男女吵架的声音",
+      "music": 0.0
+    },
+    {
+      "from": 1264.95,
+      "to": 1266.07,
+      "sid": 496,
+      "location": 2,
+      "content": "但很快呢",
+      "music": 0.0
+    },
+    {
+      "from": 1266.07,
+      "to": 1269.58,
+      "sid": 497,
+      "location": 2,
+      "content": "这种说法就被这位邻居自己的家属否认了",
+      "music": 0.0
+    },
+    {
+      "from": 1269.58,
+      "to": 1273.66,
+      "sid": 498,
+      "location": 2,
+      "content": "而且开头介绍过和宫泽家紧邻的是入江家",
+      "music": 0.0
+    },
+    {
+      "from": 1273.66,
+      "to": 1276.09,
+      "sid": 499,
+      "location": 2,
+      "content": "两栋房子几乎是贴着的",
+      "music": 0.0
+    },
+    {
+      "from": 1276.09,
+      "to": 1278.49,
+      "sid": 500,
+      "location": 2,
+      "content": "要真是有访客先听到的",
+      "music": 0.0
+    },
+    {
+      "from": 1278.49,
+      "to": 1280.45,
+      "sid": 501,
+      "location": 2,
+      "content": "也应该是入江家才对",
+      "music": 0.0
+    },
+    {
+      "from": 1280.45,
+      "to": 1282.69,
+      "sid": 502,
+      "location": 2,
+      "content": "实际呢却并没有改",
+      "music": 0.0
+    },
+    {
+      "from": 1282.69,
+      "to": 1284.53,
+      "sid": 503,
+      "location": 2,
+      "content": "不过以上都不是最关键的啊",
+      "music": 0.0
+    },
+    {
+      "from": 1284.53,
+      "to": 1288.08,
+      "sid": 504,
+      "location": 2,
+      "content": "最关键的其实是叙事顺序",
+      "music": 0.0
+    },
+    {
+      "from": 1288.08,
+      "to": 1290.16,
+      "sid": 505,
+      "location": 2,
+      "content": "根据法医推断啊",
+      "music": 0.0
+    },
+    {
+      "from": 1290.16,
+      "to": 1293.68,
+      "sid": 506,
+      "location": 2,
+      "content": "第一个被害的人是宫泽干男的儿子小李",
+      "music": 0.0
+    },
+    {
+      "from": 1293.68,
+      "to": 1295.1,
+      "sid": 507,
+      "location": 2,
+      "content": "但小李呢才六岁",
+      "music": 0.0
+    },
+    {
+      "from": 1295.1,
+      "to": 1298.07,
+      "sid": 508,
+      "location": 2,
+      "content": "根本不可能对凶手造成威胁",
+      "music": 0.0
+    },
+    {
+      "from": 1298.07,
+      "to": 1300.19,
+      "sid": 509,
+      "location": 2,
+      "content": "所以他会第一个被害",
+      "music": 0.0
+    },
+    {
+      "from": 1300.19,
+      "to": 1301.29,
+      "sid": 510,
+      "location": 2,
+      "content": "只有一种可能",
+      "music": 0.0
+    },
+    {
+      "from": 1301.29,
+      "to": 1304.81,
+      "sid": 511,
+      "location": 2,
+      "content": "小李是凶手遇到的第一个人",
+      "music": 0.0
+    },
+    {
+      "from": 1304.81,
+      "to": 1306.19,
+      "sid": 512,
+      "location": 2,
+      "content": "大家应该还记得啊",
+      "music": 0.0
+    },
+    {
+      "from": 1306.19,
+      "to": 1308.54,
+      "sid": 513,
+      "location": 2,
+      "content": "小李死在二楼的儿童房",
+      "music": 0.0
+    },
+    {
+      "from": 1308.54,
+      "to": 1312.02,
+      "sid": 514,
+      "location": 2,
+      "content": "所以凶手从二楼浴室爬进室内",
+      "music": 0.0
+    },
+    {
+      "from": 1312.02,
+      "to": 1316.36,
+      "sid": 515,
+      "location": 2,
+      "content": "然后进入房间作案是最顺理成章的",
+      "music": 0.0
+    },
+    {
+      "from": 1316.36,
+      "to": 1318.68,
+      "sid": 516,
+      "location": 2,
+      "content": "其实有了以上分析啊",
+      "music": 0.0
+    },
+    {
+      "from": 1318.68,
+      "to": 1321.18,
+      "sid": 517,
+      "location": 2,
+      "content": "动机已经呼之欲出了",
+      "music": 0.0
+    },
+    {
+      "from": 1321.18,
+      "to": 1324.33,
+      "sid": 518,
+      "location": 2,
+      "content": "仇杀大概率是不可能的了",
+      "music": 0.0
+    },
+    {
+      "from": 1324.33,
+      "to": 1326.41,
+      "sid": 519,
+      "location": 2,
+      "content": "此时一定有人会提出异议啊",
+      "music": 0.0
+    },
+    {
+      "from": 1326.41,
+      "to": 1329.27,
+      "sid": 520,
+      "location": 2,
+      "content": "难道就因为凶手不是这门进入的",
+      "music": 0.0
+    },
+    {
+      "from": 1329.27,
+      "to": 1331.46,
+      "sid": 521,
+      "location": 2,
+      "content": "就能够排除仇杀吗",
+      "music": 0.0
+    },
+    {
+      "from": 1331.46,
+      "to": 1334.66,
+      "sid": 522,
+      "location": 2,
+      "content": "熟人就不能从二楼浴室爬进来了",
+      "music": 0.0
+    },
+    {
+      "from": 1334.66,
+      "to": 1337.46,
+      "sid": 523,
+      "location": 2,
+      "content": "这个问题呢我分两方面来回答",
+      "music": 0.0
+    },
+    {
+      "from": 1337.46,
+      "to": 1340.34,
+      "sid": 524,
+      "location": 2,
+      "content": "第一熟人当然可以从二楼爬进来",
+      "music": 0.0
+    },
+    {
+      "from": 1340.34,
+      "to": 1341.92,
+      "sid": 525,
+      "location": 2,
+      "content": "但既然是熟人",
+      "music": 0.0
+    },
+    {
+      "from": 1341.92,
+      "to": 1345.6,
+      "sid": 526,
+      "location": 2,
+      "content": "那他肯定知道宫泽家的组成和结构",
+      "music": 0.0
+    },
+    {
+      "from": 1345.6,
+      "to": 1348.06,
+      "sid": 527,
+      "location": 2,
+      "content": "而且呢是有预谋的案件",
+      "music": 0.0
+    },
+    {
+      "from": 1348.06,
+      "to": 1351.78,
+      "sid": 528,
+      "location": 2,
+      "content": "所以凶手第一个要干掉的人应该是宫泽干男",
+      "music": 0.0
+    },
+    {
+      "from": 1351.78,
+      "to": 1353.19,
+      "sid": 529,
+      "location": 2,
+      "content": "或者是宫泽太子",
+      "music": 0.0
+    },
+    {
+      "from": 1353.19,
+      "to": 1355.47,
+      "sid": 530,
+      "location": 2,
+      "content": "因为只有这两个人存在威胁",
+      "music": 0.0
+    },
+    {
+      "from": 1355.47,
+      "to": 1356.55,
+      "sid": 531,
+      "location": 2,
+      "content": "至于两个孩子",
+      "music": 0.0
+    },
+    {
+      "from": 1356.55,
+      "to": 1356.99,
+      "sid": 532,
+      "location": 2,
+      "content": "一个八岁",
+      "music": 0.0
+    },
+    {
+      "from": 1356.99,
+      "to": 1357.55,
+      "sid": 533,
+      "location": 2,
+      "content": "一个六岁",
+      "music": 0.0
+    },
+    {
+      "from": 1357.55,
+      "to": 1358.45,
+      "sid": 534,
+      "location": 2,
+      "content": "别说威胁了",
+      "music": 0.0
+    },
+    {
+      "from": 1358.45,
+      "to": 1359.15,
+      "sid": 535,
+      "location": 2,
+      "content": "干掉他们",
+      "music": 0.0
+    },
+    {
+      "from": 1359.15,
+      "to": 1361.29,
+      "sid": 536,
+      "location": 2,
+      "content": "完全就是凶手一念之间的事",
+      "music": 0.0
+    },
+    {
+      "from": 1361.29,
+      "to": 1362.87,
+      "sid": 537,
+      "location": 2,
+      "content": "但真实情况是",
+      "music": 0.0
+    },
+    {
+      "from": 1362.87,
+      "to": 1364.23,
+      "sid": 538,
+      "location": 2,
+      "content": "小李为第一被害",
+      "music": 0.0
+    },
+    {
+      "from": 1364.23,
+      "to": 1365.21,
+      "sid": 539,
+      "location": 2,
+      "content": "由此推测",
+      "music": 0.0
+    },
+    {
+      "from": 1365.21,
+      "to": 1367.62,
+      "sid": 540,
+      "location": 2,
+      "content": "凶手根本不知道二楼住的是什么人",
+      "music": 0.0
+    },
+    {
+      "from": 1367.62,
+      "to": 1368.5,
+      "sid": 541,
+      "location": 2,
+      "content": "换言之",
+      "music": 0.0
+    },
+    {
+      "from": 1368.5,
+      "to": 1371.25,
+      "sid": 542,
+      "location": 2,
+      "content": "他对宫泽家是不熟的",
+      "music": 0.0
+    },
+    {
+      "from": 1371.25,
+      "to": 1374.93,
+      "sid": 543,
+      "location": 2,
+      "content": "其二凶手在现场留下了无数的生物证据",
+      "music": 0.0
+    },
+    {
+      "from": 1374.93,
+      "to": 1375.79,
+      "sid": 544,
+      "location": 2,
+      "content": "也就是说",
+      "music": 0.0
+    },
+    {
+      "from": 1375.79,
+      "to": 1378.1,
+      "sid": 545,
+      "location": 2,
+      "content": "警方手上有其DNA",
+      "music": 0.0
+    },
+    {
+      "from": 1378.1,
+      "to": 1380.08,
+      "sid": 546,
+      "location": 2,
+      "content": "案件发生这么多年",
+      "music": 0.0
+    },
+    {
+      "from": 1380.08,
+      "to": 1381.5,
+      "sid": 547,
+      "location": 2,
+      "content": "别说死仇了",
+      "music": 0.0
+    },
+    {
+      "from": 1381.5,
+      "to": 1384.12,
+      "sid": 548,
+      "location": 2,
+      "content": "但凡与宫泽家有过来往的人",
+      "music": 0.0
+    },
+    {
+      "from": 1384.12,
+      "to": 1385.98,
+      "sid": 549,
+      "location": 2,
+      "content": "也都被警察查过了",
+      "music": 0.0
+    },
+    {
+      "from": 1385.98,
+      "to": 1390.02,
+      "sid": 550,
+      "location": 2,
+      "content": "据说连当天路过送信的邮差都没有放过",
+      "music": 0.0
+    },
+    {
+      "from": 1390.02,
+      "to": 1393.01,
+      "sid": 551,
+      "location": 2,
+      "content": "但依然未找到能匹配上DNA的人",
+      "music": 0.0
+    },
+    {
+      "from": 1393.01,
+      "to": 1397.23,
+      "sid": 552,
+      "location": 2,
+      "content": "所以啊仇杀或者熟人作案几乎是不可能的",
+      "music": 0.0
+    },
+    {
+      "from": 1397.23,
+      "to": 1400.96,
+      "sid": 553,
+      "location": 2,
+      "content": "那么纯粹的谋财害命就成为了唯一的可能性",
+      "music": 0.0
+    },
+    {
+      "from": 1400.96,
+      "to": 1404.3,
+      "sid": 554,
+      "location": 2,
+      "content": "问题是我们能够分析出凶手的大体信息吗",
+      "music": 0.0
+    },
+    {
+      "from": 1404.3,
+      "to": 1407.1,
+      "sid": 555,
+      "location": 2,
+      "content": "或者说能给出凶手的侧写吗",
+      "music": 0.0
+    },
+    {
+      "from": 1407.1,
+      "to": 1408.96,
+      "sid": 556,
+      "location": 2,
+      "content": "唉我觉得是可以的",
+      "music": 0.0
+    },
+    {
+      "from": 1408.96,
+      "to": 1410.48,
+      "sid": 557,
+      "location": 2,
+      "content": "一提到侧写啊",
+      "music": 0.0
+    },
+    {
+      "from": 1410.48,
+      "to": 1411.96,
+      "sid": 558,
+      "location": 2,
+      "content": "很多研究过此案的人",
+      "music": 0.0
+    },
+    {
+      "from": 1411.96,
+      "to": 1414.34,
+      "sid": 559,
+      "location": 2,
+      "content": "马上就会想到凶手应该不是日本人",
+      "music": 0.0
+    },
+    {
+      "from": 1414.34,
+      "to": 1415.94,
+      "sid": 560,
+      "location": 2,
+      "content": "而且他很可能是韩国人",
+      "music": 0.0
+    },
+    {
+      "from": 1415.94,
+      "to": 1418.78,
+      "sid": 561,
+      "location": 2,
+      "content": "因为DNA上韩国人的概率是比较大的",
+      "music": 0.0
+    },
+    {
+      "from": 1418.78,
+      "to": 1421.59,
+      "sid": 562,
+      "location": 2,
+      "content": "另外呢凶手穿的鞋子也是韩国产的",
+      "music": 0.0
+    },
+    {
+      "from": 1421.59,
+      "to": 1424.23,
+      "sid": 563,
+      "location": 2,
+      "content": "加上警方掌握这么多的证据",
+      "music": 0.0
+    },
+    {
+      "from": 1424.23,
+      "to": 1425.41,
+      "sid": 564,
+      "location": 2,
+      "content": "却还是抓不到人",
+      "music": 0.0
+    },
+    {
+      "from": 1425.41,
+      "to": 1428.26,
+      "sid": 565,
+      "location": 2,
+      "content": "就更加佐证了外国人作案的可能性",
+      "music": 0.0
+    },
+    {
+      "from": 1428.26,
+      "to": 1431.1,
+      "sid": 566,
+      "location": 2,
+      "content": "因为作完案后就逃回国了嘛",
+      "music": 0.0
+    },
+    {
+      "from": 1431.1,
+      "to": 1433.26,
+      "sid": 567,
+      "location": 2,
+      "content": "但经过我们的研究啊",
+      "music": 0.0
+    },
+    {
+      "from": 1433.26,
+      "to": 1435.67,
+      "sid": 568,
+      "location": 2,
+      "content": "凶手大概率就是日本人",
+      "music": 0.0
+    },
+    {
+      "from": 1435.67,
+      "to": 1437.15,
+      "sid": 569,
+      "location": 2,
+      "content": "首先鞋子的问题",
+      "music": 0.0
+    },
+    {
+      "from": 1437.15,
+      "to": 1438.91,
+      "sid": 570,
+      "location": 2,
+      "content": "我觉得没有讨论的必要",
+      "music": 0.0
+    },
+    {
+      "from": 1438.91,
+      "to": 1440.67,
+      "sid": 571,
+      "location": 2,
+      "content": "不管是走私也好",
+      "music": 0.0
+    },
+    {
+      "from": 1440.67,
+      "to": 1441.95,
+      "sid": 572,
+      "location": 2,
+      "content": "旅游带回来也好",
+      "music": 0.0
+    },
+    {
+      "from": 1441.95,
+      "to": 1443.94,
+      "sid": 573,
+      "location": 2,
+      "content": "或者日本本来就有的卖也好",
+      "music": 0.0
+    },
+    {
+      "from": 1443.94,
+      "to": 1445.62,
+      "sid": 574,
+      "location": 2,
+      "content": "方式太多了",
+      "music": 0.0
+    },
+    {
+      "from": 1445.62,
+      "to": 1449.18,
+      "sid": 575,
+      "location": 2,
+      "content": "就因为一双鞋子便断定一个人是韩国人",
+      "music": 0.0
+    },
+    {
+      "from": 1449.18,
+      "to": 1450.33,
+      "sid": 576,
+      "location": 2,
+      "content": "太过武断",
+      "music": 0.0
+    },
+    {
+      "from": 1450.33,
+      "to": 1452.49,
+      "sid": 577,
+      "location": 2,
+      "content": "而我觉得凶手是日本人呢",
+      "music": 0.0
+    },
+    {
+      "from": 1452.49,
+      "to": 1454.45,
+      "sid": 578,
+      "location": 2,
+      "content": "主要出于两方面的考虑",
+      "music": 0.0
+    },
+    {
+      "from": 1454.45,
+      "to": 1456.879,
+      "sid": 579,
+      "location": 2,
+      "content": "第一警方在现场的浴缸里",
+      "music": 0.0
+    },
+    {
+      "from": 1456.879,
+      "to": 1459.079,
+      "sid": 580,
+      "location": 2,
+      "content": "看到了很多撕碎的纸质文件啊",
+      "music": 0.0
+    },
+    {
+      "from": 1459.079,
+      "to": 1461.46,
+      "sid": 581,
+      "location": 2,
+      "content": "男女主人的银行卡呢也被翻了出来",
+      "music": 0.0
+    },
+    {
+      "from": 1461.46,
+      "to": 1464.5,
+      "sid": 582,
+      "location": 2,
+      "content": "旁边还放着宫泽干男的日记本驾驶证",
+      "music": 0.0
+    },
+    {
+      "from": 1464.5,
+      "to": 1465.74,
+      "sid": 583,
+      "location": 2,
+      "content": "还有各种私人文件",
+      "music": 0.0
+    },
+    {
+      "from": 1465.74,
+      "to": 1467.36,
+      "sid": 584,
+      "location": 2,
+      "content": "所以调查人员猜测",
+      "music": 0.0
+    },
+    {
+      "from": 1467.36,
+      "to": 1471.03,
+      "sid": 585,
+      "location": 2,
+      "content": "凶手曾试图拼凑出银行卡的密码",
+      "music": 0.0
+    },
+    {
+      "from": 1471.03,
+      "to": 1473.31,
+      "sid": 586,
+      "location": 2,
+      "content": "而我的角度呢和警方不同啊",
+      "music": 0.0
+    },
+    {
+      "from": 1473.31,
+      "to": 1476.679,
+      "sid": 587,
+      "location": 2,
+      "content": "我看到的是凶手精通日文",
+      "music": 0.0
+    },
+    {
+      "from": 1476.679,
+      "to": 1477.559,
+      "sid": 588,
+      "location": 2,
+      "content": "当然了",
+      "music": 0.0
+    },
+    {
+      "from": 1477.559,
+      "to": 1479.959,
+      "sid": 589,
+      "location": 2,
+      "content": "如果嫌犯在日本生活久了",
+      "music": 0.0
+    },
+    {
+      "from": 1479.959,
+      "to": 1482.039,
+      "sid": 590,
+      "location": 2,
+      "content": "懂点日文似乎也没什么稀奇",
+      "music": 0.0
+    },
+    {
+      "from": 1482.039,
+      "to": 1484.95,
+      "sid": 591,
+      "location": 2,
+      "content": "所以呢重点主要在第二条",
+      "music": 0.0
+    },
+    {
+      "from": 1484.95,
+      "to": 1487.85,
+      "sid": 592,
+      "location": 2,
+      "content": "话说日本人在往生后啊",
+      "music": 0.0
+    },
+    {
+      "from": 1487.85,
+      "to": 1492.62,
+      "sid": 593,
+      "location": 2,
+      "content": "亲友们会在其去世100天后举行足哭祭",
+      "music": 0.0
+    },
+    {
+      "from": 1492.62,
+      "to": 1495.0,
+      "sid": 594,
+      "location": 2,
+      "content": "这种仪式呢也叫百日法事",
+      "music": 0.0
+    },
+    {
+      "from": 1495.0,
+      "to": 1497.44,
+      "sid": 595,
+      "location": 2,
+      "content": "目的呢就是让死者早登极乐",
+      "music": 0.0
+    },
+    {
+      "from": 1497.44,
+      "to": 1498.46,
+      "sid": 596,
+      "location": 2,
+      "content": "巧的是",
+      "music": 0.0
+    },
+    {
+      "from": 1498.46,
+      "to": 1500.82,
+      "sid": 597,
+      "location": 2,
+      "content": "世田谷案发生了整整100天后的",
+      "music": 0.0
+    },
+    {
+      "from": 1500.82,
+      "to": 1502.48,
+      "sid": 598,
+      "location": 2,
+      "content": "2001年4月9日",
+      "music": 0.0
+    },
+    {
+      "from": 1502.48,
+      "to": 1505.08,
+      "sid": 599,
+      "location": 2,
+      "content": "在宫泽家旁边小河的对面",
+      "music": 0.0
+    },
+    {
+      "from": 1505.08,
+      "to": 1509.429,
+      "sid": 600,
+      "location": 2,
+      "content": "被人放了一尊面朝案发地的地藏菩萨像",
+      "music": 0.0
+    },
+    {
+      "from": 1509.429,
+      "to": 1511.289,
+      "sid": 601,
+      "location": 2,
+      "content": "据附近的居民表示啊",
+      "music": 0.0
+    },
+    {
+      "from": 1511.289,
+      "to": 1513.109,
+      "sid": 602,
+      "location": 2,
+      "content": "前一天晚上散步时",
+      "music": 0.0
+    },
+    {
+      "from": 1513.109,
+      "to": 1515.24,
+      "sid": 603,
+      "location": 2,
+      "content": "地藏像还没有出现",
+      "music": 0.0
+    },
+    {
+      "from": 1515.24,
+      "to": 1518.88,
+      "sid": 604,
+      "location": 2,
+      "content": "所以这一尊菩萨应该是有人",
+      "music": 0.0
+    },
+    {
+      "from": 1518.88,
+      "to": 1522.98,
+      "sid": 605,
+      "location": 2,
+      "content": "借着凌晨夜色的掩护偷偷摆在那儿的",
+      "music": 0.0
+    },
+    {
+      "from": 1522.98,
+      "to": 1526.42,
+      "sid": 606,
+      "location": 2,
+      "content": "或许有朋友会觉得世田谷案如此的惨烈",
+      "music": 0.0
+    },
+    {
+      "from": 1526.42,
+      "to": 1527.56,
+      "sid": 607,
+      "location": 2,
+      "content": "关注度又这么高",
+      "music": 0.0
+    },
+    {
+      "from": 1527.56,
+      "to": 1530.42,
+      "sid": 608,
+      "location": 2,
+      "content": "有好心人在百日放一尊像",
+      "music": 0.0
+    },
+    {
+      "from": 1530.42,
+      "to": 1531.75,
+      "sid": 609,
+      "location": 2,
+      "content": "也没有什么奇怪的",
+      "music": 0.0
+    },
+    {
+      "from": 1531.75,
+      "to": 1533.95,
+      "sid": 610,
+      "location": 2,
+      "content": "但问题是经警方调查",
+      "music": 0.0
+    },
+    {
+      "from": 1533.95,
+      "to": 1537.46,
+      "sid": 611,
+      "location": 2,
+      "content": "周边邻居无一人承认摆过地藏像",
+      "music": 0.0
+    },
+    {
+      "from": 1537.46,
+      "to": 1538.82,
+      "sid": 612,
+      "location": 2,
+      "content": "更诡异的是",
+      "music": 0.0
+    },
+    {
+      "from": 1538.82,
+      "to": 1541.88,
+      "sid": 613,
+      "location": 2,
+      "content": "地藏像上没有指纹",
+      "music": 0.0
+    },
+    {
+      "from": 1542.24,
+      "to": 1545.32,
+      "sid": 614,
+      "location": 2,
+      "content": "且问这药是好心人放的",
+      "music": 0.0
+    },
+    {
+      "from": 1545.32,
+      "to": 1548.09,
+      "sid": 615,
+      "location": 2,
+      "content": "有必要清除自己的指纹吗",
+      "music": 0.0
+    },
+    {
+      "from": 1548.09,
+      "to": 1549.15,
+      "sid": 616,
+      "location": 2,
+      "content": "因此啊",
+      "music": 0.0
+    },
+    {
+      "from": 1549.15,
+      "to": 1553.11,
+      "sid": 617,
+      "location": 2,
+      "content": "这个地藏像最大可能就是凶手出于负罪感",
+      "music": 0.0
+    },
+    {
+      "from": 1553.11,
+      "to": 1555.409,
+      "sid": 618,
+      "location": 2,
+      "content": "才在百日这天放出来的",
+      "music": 0.0
+    },
+    {
+      "from": 1555.409,
+      "to": 1557.449,
+      "sid": 619,
+      "location": 2,
+      "content": "所以他如果是外国人",
+      "music": 0.0
+    },
+    {
+      "from": 1557.449,
+      "to": 1560.509,
+      "sid": 620,
+      "location": 2,
+      "content": "会在案发后留在日本100天吗",
+      "music": 0.0
+    },
+    {
+      "from": 1560.509,
+      "to": 1564.795,
+      "sid": 621,
+      "location": 2,
+      "content": "另外百日法式也是日本人的习俗吗",
+      "music": 0.0
+    },
+    {
+      "from": 1565.369,
+      "to": 1567.729,
+      "sid": 622,
+      "location": 2,
+      "content": "如果这点证据还是不够",
+      "music": 0.0
+    },
+    {
+      "from": 1567.729,
+      "to": 1571.13,
+      "sid": 623,
+      "location": 2,
+      "content": "那就让我们再来看一下这尊地藏像",
+      "music": 0.0
+    },
+    {
+      "from": 1571.13,
+      "to": 1574.81,
+      "sid": 624,
+      "location": 2,
+      "content": "地藏菩萨一直有六地藏之说啊",
+      "music": 0.0
+    },
+    {
+      "from": 1574.81,
+      "to": 1578.75,
+      "sid": 625,
+      "location": 2,
+      "content": "只是各地区对此的解释以及代表的含义呢",
+      "music": 0.0
+    },
+    {
+      "from": 1578.75,
+      "to": 1579.949,
+      "sid": 626,
+      "location": 2,
+      "content": "各不相同",
+      "music": 0.0
+    },
+    {
+      "from": 1579.949,
+      "to": 1584.1,
+      "sid": 627,
+      "location": 2,
+      "content": "在日本供奉六地藏的文化非常盛行",
+      "music": 0.0
+    },
+    {
+      "from": 1584.1,
+      "to": 1588.46,
+      "sid": 628,
+      "location": 2,
+      "content": "而现场发现的那尊双手合十的地藏像呢",
+      "music": 0.0
+    },
+    {
+      "from": 1588.46,
+      "to": 1593.3,
+      "sid": 629,
+      "location": 2,
+      "content": "名曰宝信地藏是守护妖王的儿童",
+      "music": 0.0
+    },
+    {
+      "from": 1593.3,
+      "to": 1596.18,
+      "sid": 630,
+      "location": 2,
+      "content": "救助孤魂野鬼的神明",
+      "music": 0.0
+    },
+    {
+      "from": 1596.18,
+      "to": 1599.78,
+      "sid": 631,
+      "location": 2,
+      "content": "所以将这尊地藏放在宫泽家门口",
+      "music": 0.0
+    },
+    {
+      "from": 1599.78,
+      "to": 1601.67,
+      "sid": 632,
+      "location": 2,
+      "content": "简直太合适不过了",
+      "music": 0.0
+    },
+    {
+      "from": 1601.67,
+      "to": 1606.17,
+      "sid": 633,
+      "location": 2,
+      "content": "问题是这属于极具地方特色的文化",
+      "music": 0.0
+    },
+    {
+      "from": 1606.17,
+      "to": 1608.82,
+      "sid": 634,
+      "location": 2,
+      "content": "外国人能有几个人懂啊",
+      "music": 0.0
+    },
+    {
+      "from": 1609.1,
+      "to": 1610.2,
+      "sid": 635,
+      "location": 2,
+      "content": "综上所述",
+      "music": 0.0
+    },
+    {
+      "from": 1610.2,
+      "to": 1613.22,
+      "sid": 636,
+      "location": 2,
+      "content": "我觉得凶手大概率就是个日本人",
+      "music": 0.0
+    },
+    {
+      "from": 1613.22,
+      "to": 1617.34,
+      "sid": 637,
+      "location": 2,
+      "content": "而且此人啊很可能认识宫泽干男啊",
+      "music": 0.0
+    },
+    {
+      "from": 1617.34,
+      "to": 1618.36,
+      "sid": 638,
+      "location": 2,
+      "content": "有人又听不懂了",
+      "music": 0.0
+    },
+    {
+      "from": 1618.36,
+      "to": 1620.18,
+      "sid": 639,
+      "location": 2,
+      "content": "前面刚说不是熟人作案",
+      "music": 0.0
+    },
+    {
+      "from": 1620.18,
+      "to": 1623.57,
+      "sid": 640,
+      "location": 2,
+      "content": "现在唉又说凶手认识赣南了",
+      "music": 0.0
+    },
+    {
+      "from": 1623.57,
+      "to": 1624.37,
+      "sid": 641,
+      "location": 2,
+      "content": "是啊",
+      "music": 0.0
+    },
+    {
+      "from": 1624.37,
+      "to": 1626.17,
+      "sid": 642,
+      "location": 2,
+      "content": "我说凶手认识干男",
+      "music": 0.0
+    },
+    {
+      "from": 1626.17,
+      "to": 1628.9,
+      "sid": 643,
+      "location": 2,
+      "content": "但又没说干男认识凶手哦",
+      "music": 0.0
+    },
+    {
+      "from": 1628.9,
+      "to": 1631.3,
+      "sid": 644,
+      "location": 2,
+      "content": "这件事解释起来其实并不复杂",
+      "music": 0.0
+    },
+    {
+      "from": 1631.3,
+      "to": 1636.07,
+      "sid": 645,
+      "location": 2,
+      "content": "上面介绍过宫泽家所在的祖师谷三丁目啊",
+      "music": 0.0
+    },
+    {
+      "from": 1636.07,
+      "to": 1637.49,
+      "sid": 646,
+      "location": 2,
+      "content": "因为拆迁的原因呢",
+      "music": 0.0
+    },
+    {
+      "from": 1637.49,
+      "to": 1638.61,
+      "sid": 647,
+      "location": 2,
+      "content": "鲜有外人经过",
+      "music": 0.0
+    },
+    {
+      "from": 1638.61,
+      "to": 1639.57,
+      "sid": 648,
+      "location": 2,
+      "content": "别说当年了",
+      "music": 0.0
+    },
+    {
+      "from": 1639.57,
+      "to": 1640.47,
+      "sid": 649,
+      "location": 2,
+      "content": "直至今日",
+      "music": 0.0
+    },
+    {
+      "from": 1640.47,
+      "to": 1642.57,
+      "sid": 650,
+      "location": 2,
+      "content": "我们团队去现场探访时的",
+      "music": 0.0
+    },
+    {
+      "from": 1642.57,
+      "to": 1644.49,
+      "sid": 651,
+      "location": 2,
+      "content": "从地铁站步行到三丁目",
+      "music": 0.0
+    },
+    {
+      "from": 1644.49,
+      "to": 1645.73,
+      "sid": 652,
+      "location": 2,
+      "content": "全程20分钟",
+      "music": 0.0
+    },
+    {
+      "from": 1645.73,
+      "to": 1647.6,
+      "sid": 653,
+      "location": 2,
+      "content": "看到的人不足十个",
+      "music": 0.0
+    },
+    {
+      "from": 1647.6,
+      "to": 1649.4,
+      "sid": 654,
+      "location": 2,
+      "content": "询问附近居民得知",
+      "music": 0.0
+    },
+    {
+      "from": 1649.4,
+      "to": 1651.28,
+      "sid": 655,
+      "location": 2,
+      "content": "平时这里的人呢一向不多啊",
+      "music": 0.0
+    },
+    {
+      "from": 1651.28,
+      "to": 1653.04,
+      "sid": 656,
+      "location": 2,
+      "content": "属于相对冷清的路段",
+      "music": 0.0
+    },
+    {
+      "from": 1653.04,
+      "to": 1656.08,
+      "sid": 657,
+      "location": 2,
+      "content": "我们假设这是一起完全随机的案件",
+      "music": 0.0
+    },
+    {
+      "from": 1656.08,
+      "to": 1658.79,
+      "sid": 658,
+      "location": 2,
+      "content": "那凶手会选择这种地方下手吗",
+      "music": 0.0
+    },
+    {
+      "from": 1658.79,
+      "to": 1660.01,
+      "sid": 659,
+      "location": 2,
+      "content": "肯定有人会说",
+      "music": 0.0
+    },
+    {
+      "from": 1660.01,
+      "to": 1663.33,
+      "sid": 660,
+      "location": 2,
+      "content": "入室抢劫不就要找这种人烟稀少的地方吗",
+      "music": 0.0
+    },
+    {
+      "from": 1663.33,
+      "to": 1664.46,
+      "sid": 661,
+      "location": 2,
+      "content": "说的没错",
+      "music": 0.0
+    },
+    {
+      "from": 1664.46,
+      "to": 1665.66,
+      "sid": 662,
+      "location": 2,
+      "content": "但在我看来",
+      "music": 0.0
+    },
+    {
+      "from": 1665.66,
+      "to": 1667.67,
+      "sid": 663,
+      "location": 2,
+      "content": "人烟稀少的也分很多种",
+      "music": 0.0
+    },
+    {
+      "from": 1667.67,
+      "to": 1669.35,
+      "sid": 664,
+      "location": 2,
+      "content": "罪犯喜欢的那种呢",
+      "music": 0.0
+    },
+    {
+      "from": 1669.35,
+      "to": 1672.75,
+      "sid": 665,
+      "location": 2,
+      "content": "是房子建的比较稀疏的富人社区啊",
+      "music": 0.0
+    },
+    {
+      "from": 1672.75,
+      "to": 1675.6,
+      "sid": 666,
+      "location": 2,
+      "content": "在趁着夜深人静时展开活动",
+      "music": 0.0
+    },
+    {
+      "from": 1675.6,
+      "to": 1679.85,
+      "sid": 667,
+      "location": 2,
+      "content": "而不是去一个因为拆迁而变得人烟稀少的社区",
+      "music": 0.0
+    },
+    {
+      "from": 1679.85,
+      "to": 1682.07,
+      "sid": 668,
+      "location": 2,
+      "content": "因此呢会选择宫泽家",
+      "music": 0.0
+    },
+    {
+      "from": 1682.07,
+      "to": 1685.01,
+      "sid": 669,
+      "location": 2,
+      "content": "极有可能凶手对这家人是有一定了解的",
+      "music": 0.0
+    },
+    {
+      "from": 1685.01,
+      "to": 1686.65,
+      "sid": 670,
+      "location": 2,
+      "content": "有没有佐证呢",
+      "music": 0.0
+    },
+    {
+      "from": 1686.65,
+      "to": 1690.39,
+      "sid": 671,
+      "location": 2,
+      "content": "有的各位还记得凶手的腰包内侧口袋",
+      "music": 0.0
+    },
+    {
+      "from": 1690.39,
+      "to": 1692.11,
+      "sid": 672,
+      "location": 2,
+      "content": "检测出了荧光剂成分吗",
+      "music": 0.0
+    },
+    {
+      "from": 1692.11,
+      "to": 1694.15,
+      "sid": 673,
+      "location": 2,
+      "content": "啊前面介绍过这种成分呢",
+      "music": 0.0
+    },
+    {
+      "from": 1694.15,
+      "to": 1697.31,
+      "sid": 674,
+      "location": 2,
+      "content": "经常被用于广告印刷和设计领域",
+      "music": 0.0
+    },
+    {
+      "from": 1697.31,
+      "to": 1700.83,
+      "sid": 675,
+      "location": 2,
+      "content": "而死者宫泽干男就是做企业形象设计的",
+      "music": 0.0
+    },
+    {
+      "from": 1700.83,
+      "to": 1702.19,
+      "sid": 676,
+      "location": 2,
+      "content": "所以有没有一种可能",
+      "music": 0.0
+    },
+    {
+      "from": 1702.19,
+      "to": 1705.949,
+      "sid": 677,
+      "location": 2,
+      "content": "凶手曾经跟宫泽干男有过业务往来",
+      "music": 0.0
+    },
+    {
+      "from": 1705.949,
+      "to": 1709.02,
+      "sid": 678,
+      "location": 2,
+      "content": "所以呢才将其作为下手的对象呢",
+      "music": 0.0
+    },
+    {
+      "from": 1709.02,
+      "to": 1712.9,
+      "sid": 679,
+      "location": 2,
+      "content": "虽然警方排查过几乎所有与宫泽认识的人",
+      "music": 0.0
+    },
+    {
+      "from": 1712.9,
+      "to": 1716.32,
+      "sid": 680,
+      "location": 2,
+      "content": "但对方若只是某印刷公司或者宫泽",
+      "music": 0.0
+    },
+    {
+      "from": 1716.32,
+      "to": 1718.38,
+      "sid": 681,
+      "location": 2,
+      "content": "本公司的临时工勤杂工",
+      "music": 0.0
+    },
+    {
+      "from": 1718.38,
+      "to": 1721.61,
+      "sid": 682,
+      "location": 2,
+      "content": "这样的人物不被查到根本不稀奇啊",
+      "music": 0.0
+    },
+    {
+      "from": 1721.61,
+      "to": 1723.07,
+      "sid": 683,
+      "location": 2,
+      "content": "甚至案件发生时",
+      "music": 0.0
+    },
+    {
+      "from": 1723.07,
+      "to": 1726.22,
+      "sid": 684,
+      "location": 2,
+      "content": "此人或许早已离开原先的工作岗位",
+      "music": 0.0
+    },
+    {
+      "from": 1726.22,
+      "to": 1729.68,
+      "sid": 685,
+      "location": 2,
+      "content": "另外从警视厅官方公布的情报来看",
+      "music": 0.0
+    },
+    {
+      "from": 1729.68,
+      "to": 1732.28,
+      "sid": 686,
+      "location": 2,
+      "content": "凶手遗留在现场的东西",
+      "music": 0.0
+    },
+    {
+      "from": 1732.28,
+      "to": 1734.94,
+      "sid": 687,
+      "location": 2,
+      "content": "在案发地周边都是能买到的",
+      "music": 0.0
+    },
+    {
+      "from": 1734.94,
+      "to": 1739.7,
+      "sid": 688,
+      "location": 2,
+      "content": "比如山并区的jr迪瓦站可以买到腰包",
+      "music": 0.0
+    },
+    {
+      "from": 1739.7,
+      "to": 1743.96,
+      "sid": 689,
+      "location": 2,
+      "content": "田园都市线用贺站附近能够买到柳叶刀",
+      "music": 0.0
+    },
+    {
+      "from": 1743.96,
+      "to": 1746.86,
+      "sid": 690,
+      "location": 2,
+      "content": "金王县世田谷站外的超市",
+      "music": 0.0
+    },
+    {
+      "from": 1746.86,
+      "to": 1749.61,
+      "sid": 691,
+      "location": 2,
+      "content": "有凶手同款的运动衫出售",
+      "music": 0.0
+    },
+    {
+      "from": 1749.61,
+      "to": 1753.33,
+      "sid": 692,
+      "location": 2,
+      "content": "同县的仙川站则可以买到卫衣",
+      "music": 0.0
+    },
+    {
+      "from": 1753.33,
+      "to": 1755.05,
+      "sid": 693,
+      "location": 2,
+      "content": "把这几个位置连起来",
+      "music": 0.0
+    },
+    {
+      "from": 1755.05,
+      "to": 1756.77,
+      "sid": 694,
+      "location": 2,
+      "content": "大致可以形成一个圈啊",
+      "music": 0.0
+    },
+    {
+      "from": 1756.77,
+      "to": 1759.15,
+      "sid": 695,
+      "location": 2,
+      "content": "据说上世纪90年代末呢",
+      "music": 0.0
+    },
+    {
+      "from": 1759.15,
+      "to": 1762.21,
+      "sid": 696,
+      "location": 2,
+      "content": "这一带有不少的地下博青哥弹珠店",
+      "music": 0.0
+    },
+    {
+      "from": 1762.21,
+      "to": 1763.33,
+      "sid": 697,
+      "location": 2,
+      "content": "所以我猜测",
+      "music": 0.0
+    },
+    {
+      "from": 1763.33,
+      "to": 1767.1,
+      "sid": 698,
+      "location": 2,
+      "content": "凶手可能就是住在这一范围内的赌徒",
+      "music": 0.0
+    },
+    {
+      "from": 1767.1,
+      "to": 1770.51,
+      "sid": 699,
+      "location": 2,
+      "content": "一开始呢他或许并没有想要灭人家满门",
+      "music": 0.0
+    },
+    {
+      "from": 1770.51,
+      "to": 1772.47,
+      "sid": 700,
+      "location": 2,
+      "content": "只是由于赌博输钱",
+      "music": 0.0
+    },
+    {
+      "from": 1772.47,
+      "to": 1773.23,
+      "sid": 701,
+      "location": 2,
+      "content": "走投无路",
+      "music": 0.0
+    },
+    {
+      "from": 1773.23,
+      "to": 1776.91,
+      "sid": 702,
+      "location": 2,
+      "content": "才想去印象中很有钱的宫泽家里行窃",
+      "music": 0.0
+    },
+    {
+      "from": 1776.91,
+      "to": 1780.83,
+      "sid": 703,
+      "location": 2,
+      "content": "谁料呢刚从浴室窗口翻进去",
+      "music": 0.0
+    },
+    {
+      "from": 1780.83,
+      "to": 1784.3,
+      "sid": 704,
+      "location": 2,
+      "content": "就被儿童房里的小儿子宫泽礼听到了",
+      "music": 0.0
+    },
+    {
+      "from": 1784.3,
+      "to": 1786.06,
+      "sid": 705,
+      "location": 2,
+      "content": "之所以有这样的分析",
+      "music": 0.0
+    },
+    {
+      "from": 1786.06,
+      "to": 1788.84,
+      "sid": 706,
+      "location": 2,
+      "content": "那是因为小李不仅是第一个被害",
+      "music": 0.0
+    },
+    {
+      "from": 1788.84,
+      "to": 1793.22,
+      "sid": 707,
+      "location": 2,
+      "content": "而且还是唯一一名不是死于刀伤的被害",
+      "music": 0.0
+    },
+    {
+      "from": 1793.22,
+      "to": 1794.24,
+      "sid": 708,
+      "location": 2,
+      "content": "由此可见",
+      "music": 0.0
+    },
+    {
+      "from": 1794.24,
+      "to": 1795.86,
+      "sid": 709,
+      "location": 2,
+      "content": "小李的出现很突然",
+      "music": 0.0
+    },
+    {
+      "from": 1795.86,
+      "to": 1796.42,
+      "sid": 710,
+      "location": 2,
+      "content": "突然到",
+      "music": 0.0
+    },
+    {
+      "from": 1796.42,
+      "to": 1799.53,
+      "sid": 711,
+      "location": 2,
+      "content": "凶手来不及拿出随身携带的柳叶刀",
+      "music": 0.0
+    },
+    {
+      "from": 1799.53,
+      "to": 1802.97,
+      "sid": 712,
+      "location": 2,
+      "content": "而小李的死呢也是凶手失去理智",
+      "music": 0.0
+    },
+    {
+      "from": 1802.97,
+      "to": 1805.29,
+      "sid": 713,
+      "location": 2,
+      "content": "决定灭门的原因",
+      "music": 0.0
+    },
+    {
+      "from": 1805.29,
+      "to": 1810.13,
+      "sid": 714,
+      "location": 2,
+      "content": "哎以上呢就是我对世田谷案的所有脑洞了",
+      "music": 0.0
+    },
+    {
+      "from": 1810.13,
+      "to": 1814.909,
+      "sid": 715,
+      "location": 2,
+      "content": "可能大家会觉得这样的结果似乎太过于简单了",
+      "music": 0.0
+    },
+    {
+      "from": 1814.909,
+      "to": 1818.609,
+      "sid": 716,
+      "location": 2,
+      "content": "但就像我们之前讲过的索尼高管灭门案那样",
+      "music": 0.0
+    },
+    {
+      "from": 1818.609,
+      "to": 1821.159,
+      "sid": 717,
+      "location": 2,
+      "content": "真实案件不比小说",
+      "music": 0.0
+    },
+    {
+      "from": 1821.159,
+      "to": 1823.239,
+      "sid": 718,
+      "location": 2,
+      "content": "在案件破解前",
+      "music": 0.0
+    },
+    {
+      "from": 1823.239,
+      "to": 1824.839,
+      "sid": 719,
+      "location": 2,
+      "content": "那是哪儿哪儿都悬疑",
+      "music": 0.0
+    },
+    {
+      "from": 1824.839,
+      "to": 1826.0,
+      "sid": 720,
+      "location": 2,
+      "content": "哪儿哪儿都诡异",
+      "music": 0.0
+    },
+    {
+      "from": 1826.0,
+      "to": 1828.2,
+      "sid": 721,
+      "location": 2,
+      "content": "可当真相被披露后",
+      "music": 0.0
+    },
+    {
+      "from": 1828.2,
+      "to": 1832.05,
+      "sid": 722,
+      "location": 2,
+      "content": "大家就会发现事实啊居然如此简单",
+      "music": 0.0
+    },
+    {
+      "from": 1832.05,
+      "to": 1834.67,
+      "sid": 723,
+      "location": 2,
+      "content": "当然以上都是我一家之言",
+      "music": 0.0
+    },
+    {
+      "from": 1834.67,
+      "to": 1836.21,
+      "sid": 724,
+      "location": 2,
+      "content": "如果你也有自己的脑洞",
+      "music": 0.0
+    },
+    {
+      "from": 1836.21,
+      "to": 1837.55,
+      "sid": 725,
+      "location": 2,
+      "content": "欢迎在评论区留言",
+      "music": 0.0
+    },
+    {
+      "from": 1837.55,
+      "to": 1839.7,
+      "sid": 726,
+      "location": 2,
+      "content": "咱们呢一起讨论好了",
+      "music": 0.0
+    },
+    {
+      "from": 1839.7,
+      "to": 1841.74,
+      "sid": 727,
+      "location": 2,
+      "content": "本期节目到这里就结束了",
+      "music": 0.0
+    },
+    {
+      "from": 1841.74,
+      "to": 1842.58,
+      "sid": 728,
+      "location": 2,
+      "content": "如果喜欢我的视频",
+      "music": 0.0
+    },
+    {
+      "from": 1842.58,
+      "to": 1843.5,
+      "sid": 729,
+      "location": 2,
+      "content": "别忘了点赞订阅",
+      "music": 0.0
+    },
+    {
+      "from": 1843.5,
+      "to": 1844.24,
+      "sid": 730,
+      "location": 2,
+      "content": "我是大佬K",
+      "music": 0.0
+    },
+    {
+      "from": 1844.24,
+      "to": 1845.6,
+      "sid": 731,
+      "location": 2,
+      "content": "我们下期再见吧",
+      "music": 0.0
+    },
+    {
+      "from": 1845.6,
+      "to": 1846.42,
+      "sid": 732,
+      "location": 2,
+      "content": "拜拜",
+      "music": 0.0
+    }
+  ]
+}

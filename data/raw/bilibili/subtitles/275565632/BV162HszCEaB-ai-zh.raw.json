@@ -1,0 +1,1164 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.04,
+      "to": 1.76,
+      "sid": 1,
+      "location": 2,
+      "content": "赚钱的多少和认知的高低",
+      "music": 0.0
+    },
+    {
+      "from": 1.76,
+      "to": 4.16,
+      "sid": 2,
+      "location": 2,
+      "content": "我一直觉得这两个事真其实是没有什么关系的",
+      "music": 0.0
+    },
+    {
+      "from": 4.16,
+      "to": 5.8,
+      "sid": 3,
+      "location": 2,
+      "content": "只不过以前不太愿意聊这个事",
+      "music": 0.0
+    },
+    {
+      "from": 5.8,
+      "to": 7.0,
+      "sid": 4,
+      "location": 2,
+      "content": "因为你聊了不光没有人信",
+      "music": 0.0
+    },
+    {
+      "from": 7.0,
+      "to": 8.44,
+      "sid": 5,
+      "location": 2,
+      "content": "还有人喷你费力不讨好对吧",
+      "music": 0.0
+    },
+    {
+      "from": 8.44,
+      "to": 9.62,
+      "sid": 6,
+      "location": 2,
+      "content": "所以这个事我就不愿意干",
+      "music": 0.0
+    },
+    {
+      "from": 9.62,
+      "to": 11.34,
+      "sid": 7,
+      "location": 2,
+      "content": "不过最近的这个某位的贾老板",
+      "music": 0.0
+    },
+    {
+      "from": 11.34,
+      "to": 12.26,
+      "sid": 8,
+      "location": 2,
+      "content": "不是有一些情况吗",
+      "music": 0.0
+    },
+    {
+      "from": 12.26,
+      "to": 13.62,
+      "sid": 9,
+      "location": 2,
+      "content": "还是大家突然觉得我靠",
+      "music": 0.0
+    },
+    {
+      "from": 13.62,
+      "to": 15.06,
+      "sid": 10,
+      "location": 2,
+      "content": "原来没有认知是可以赚钱的",
+      "music": 0.0
+    },
+    {
+      "from": 15.06,
+      "to": 16.02,
+      "sid": 11,
+      "location": 2,
+      "content": "还能赚大钱对吧",
+      "music": 0.0
+    },
+    {
+      "from": 16.02,
+      "to": 17.94,
+      "sid": 12,
+      "location": 2,
+      "content": "所以就给今天我聊这个话题",
+      "music": 0.0
+    },
+    {
+      "from": 17.94,
+      "to": 19.02,
+      "sid": 13,
+      "location": 2,
+      "content": "奠定了一个舆论基础",
+      "music": 0.0
+    },
+    {
+      "from": 19.02,
+      "to": 21.26,
+      "sid": 14,
+      "location": 2,
+      "content": "这首先我们说人的认知和财富成正比",
+      "music": 0.0
+    },
+    {
+      "from": 21.26,
+      "to": 22.5,
+      "sid": 15,
+      "location": 2,
+      "content": "这种观念是怎么来的",
+      "music": 0.0
+    },
+    {
+      "from": 22.5,
+      "to": 25.6,
+      "sid": 16,
+      "location": 2,
+      "content": "就我们在网上看到很多身价百亿的大佬的发言",
+      "music": 0.0
+    },
+    {
+      "from": 25.6,
+      "to": 27.92,
+      "sid": 17,
+      "location": 2,
+      "content": "常常呈现出一种认知很高的状态对吧",
+      "music": 0.0
+    },
+    {
+      "from": 27.92,
+      "to": 30.36,
+      "sid": 18,
+      "location": 2,
+      "content": "我没有看到生活中的一些一毛钱赚不着的人",
+      "music": 0.0
+    },
+    {
+      "from": 30.36,
+      "to": 31.44,
+      "sid": 19,
+      "location": 2,
+      "content": "他们的认知又确实很低",
+      "music": 0.0
+    },
+    {
+      "from": 31.44,
+      "to": 32.56,
+      "sid": 20,
+      "location": 2,
+      "content": "就这两种情况",
+      "music": 0.0
+    },
+    {
+      "from": 32.56,
+      "to": 34.76,
+      "sid": 21,
+      "location": 2,
+      "content": "让我们觉得好像认知和赚钱有关系",
+      "music": 0.0
+    },
+    {
+      "from": 34.76,
+      "to": 36.92,
+      "sid": 22,
+      "location": 2,
+      "content": "如果你可以把市场上最成功的那一批人",
+      "music": 0.0
+    },
+    {
+      "from": 36.92,
+      "to": 37.84,
+      "sid": 23,
+      "location": 2,
+      "content": "和最失败的那一批人",
+      "music": 0.0
+    },
+    {
+      "from": 37.84,
+      "to": 39.24,
+      "sid": 24,
+      "location": 2,
+      "content": "这个虾头去尾全部都去掉的话",
+      "music": 0.0
+    },
+    {
+      "from": 39.24,
+      "to": 40.38,
+      "sid": 25,
+      "location": 2,
+      "content": "我们就看中间这个状态",
+      "music": 0.0
+    },
+    {
+      "from": 40.38,
+      "to": 42.14,
+      "sid": 26,
+      "location": 2,
+      "content": "其实就我观察身边的人而言呀",
+      "music": 0.0
+    },
+    {
+      "from": 42.14,
+      "to": 44.26,
+      "sid": 27,
+      "location": 2,
+      "content": "比如说年入百万到千万之间的这个阶段",
+      "music": 0.0
+    },
+    {
+      "from": 44.26,
+      "to": 47.54,
+      "sid": 28,
+      "location": 2,
+      "content": "我觉得他们的财富和认知其实是没啥关系的",
+      "music": 0.0
+    },
+    {
+      "from": 47.54,
+      "to": 50.62,
+      "sid": 29,
+      "location": 2,
+      "content": "那我所看见的身边那种我觉得认知不是特别高",
+      "music": 0.0
+    },
+    {
+      "from": 50.62,
+      "to": 52.42,
+      "sid": 30,
+      "location": 2,
+      "content": "但是赚钱又贼猛的那些人有什么特征",
+      "music": 0.0
+    },
+    {
+      "from": 52.42,
+      "to": 52.98,
+      "sid": 31,
+      "location": 2,
+      "content": "就两点",
+      "music": 0.0
+    },
+    {
+      "from": 52.98,
+      "to": 53.82,
+      "sid": 32,
+      "location": 2,
+      "content": "一个叫执行力",
+      "music": 0.0
+    },
+    {
+      "from": 53.82,
+      "to": 54.74,
+      "sid": 33,
+      "location": 2,
+      "content": "一个叫商业模式",
+      "music": 0.0
+    },
+    {
+      "from": 54.74,
+      "to": 55.54,
+      "sid": 34,
+      "location": 2,
+      "content": "第一个有执行力",
+      "music": 0.0
+    },
+    {
+      "from": 55.54,
+      "to": 56.38,
+      "sid": 35,
+      "location": 2,
+      "content": "这潜台词是什么呢",
+      "music": 0.0
+    },
+    {
+      "from": 56.38,
+      "to": 57.9,
+      "sid": 36,
+      "location": 2,
+      "content": "就是我跟他说一个事的时候",
+      "music": 0.0
+    },
+    {
+      "from": 57.9,
+      "to": 59.38,
+      "sid": 37,
+      "location": 2,
+      "content": "他没有这个中间过程",
+      "music": 0.0
+    },
+    {
+      "from": 59.38,
+      "to": 59.94,
+      "sid": 38,
+      "location": 2,
+      "content": "他只跟我说",
+      "music": 0.0
+    },
+    {
+      "from": 59.94,
+      "to": 60.62,
+      "sid": 39,
+      "location": 2,
+      "content": "结果就我跟他说",
+      "music": 0.0
+    },
+    {
+      "from": 60.62,
+      "to": 61.54,
+      "sid": 40,
+      "location": 2,
+      "content": "你要干一个什么什么事",
+      "music": 0.0
+    },
+    {
+      "from": 61.54,
+      "to": 62.94,
+      "sid": 41,
+      "location": 2,
+      "content": "这个事对你的生意有好处",
+      "music": 0.0
+    },
+    {
+      "from": 62.94,
+      "to": 63.74,
+      "sid": 42,
+      "location": 2,
+      "content": "他直接说好的",
+      "music": 0.0
+    },
+    {
+      "from": 63.74,
+      "to": 64.26,
+      "sid": 43,
+      "location": 2,
+      "content": "就俩字",
+      "music": 0.0
+    },
+    {
+      "from": 64.26,
+      "to": 64.58,
+      "sid": 44,
+      "location": 2,
+      "content": "好的",
+      "music": 0.0
+    },
+    {
+      "from": 64.58,
+      "to": 65.239,
+      "sid": 45,
+      "location": 2,
+      "content": "这事儿就完了",
+      "music": 0.0
+    },
+    {
+      "from": 65.239,
+      "to": 66.619,
+      "sid": 46,
+      "location": 2,
+      "content": "他没有中间那个什么",
+      "music": 0.0
+    },
+    {
+      "from": 66.619,
+      "to": 67.479,
+      "sid": 47,
+      "location": 2,
+      "content": "我心里有障碍",
+      "music": 0.0
+    },
+    {
+      "from": 67.479,
+      "to": 68.479,
+      "sid": 48,
+      "location": 2,
+      "content": "我家里谁又生病了",
+      "music": 0.0
+    },
+    {
+      "from": 68.479,
+      "to": 69.299,
+      "sid": 49,
+      "location": 2,
+      "content": "我最近很忙",
+      "music": 0.0
+    },
+    {
+      "from": 69.299,
+      "to": 70.159,
+      "sid": 50,
+      "location": 2,
+      "content": "我这个事不干",
+      "music": 0.0
+    },
+    {
+      "from": 70.159,
+      "to": 71.199,
+      "sid": 51,
+      "location": 2,
+      "content": "我换一条路走行不行",
+      "music": 0.0
+    },
+    {
+      "from": 71.199,
+      "to": 72.119,
+      "sid": 52,
+      "location": 2,
+      "content": "就没有这些废话",
+      "music": 0.0
+    },
+    {
+      "from": 72.119,
+      "to": 73.72,
+      "sid": 53,
+      "location": 2,
+      "content": "这就跟有的那个NBA球员打球一样",
+      "music": 0.0
+    },
+    {
+      "from": 73.72,
+      "to": 75.28,
+      "sid": 54,
+      "location": 2,
+      "content": "就你发现他从拿球到进球",
+      "music": 0.0
+    },
+    {
+      "from": 75.28,
+      "to": 77.82,
+      "sid": 55,
+      "location": 2,
+      "content": "整个过程当中没有任何一个多余的动作",
+      "music": 0.0
+    },
+    {
+      "from": 77.82,
+      "to": 79.06,
+      "sid": 56,
+      "location": 2,
+      "content": "你把任何一个动作去掉",
+      "music": 0.0
+    },
+    {
+      "from": 79.06,
+      "to": 79.98,
+      "sid": 57,
+      "location": 2,
+      "content": "他这个球都进不了",
+      "music": 0.0
+    },
+    {
+      "from": 79.98,
+      "to": 82.06,
+      "sid": 58,
+      "location": 2,
+      "content": "这个就是职业球员和网红球员的区别",
+      "music": 0.0
+    },
+    {
+      "from": 82.06,
+      "to": 82.94,
+      "sid": 59,
+      "location": 2,
+      "content": "你放在生意场上",
+      "music": 0.0
+    },
+    {
+      "from": 82.94,
+      "to": 84.02,
+      "sid": 60,
+      "location": 2,
+      "content": "这个东西就叫执行力",
+      "music": 0.0
+    },
+    {
+      "from": 84.02,
+      "to": 84.48,
+      "sid": 61,
+      "location": 2,
+      "content": "第二点",
+      "music": 0.0
+    },
+    {
+      "from": 84.48,
+      "to": 85.72,
+      "sid": 62,
+      "location": 2,
+      "content": "商业模式是必须是对的",
+      "music": 0.0
+    },
+    {
+      "from": 85.72,
+      "to": 87.4,
+      "sid": 63,
+      "location": 2,
+      "content": "就是这个人他必须在干一个正确的事",
+      "music": 0.0
+    },
+    {
+      "from": 87.4,
+      "to": 89.38,
+      "sid": 64,
+      "location": 2,
+      "content": "比如说今天OpenAI不发布了那个SORA嘛",
+      "music": 0.0
+    },
+    {
+      "from": 89.38,
+      "to": 90.18,
+      "sid": 65,
+      "location": 2,
+      "content": "然后就有个邀请码",
+      "music": 0.0
+    },
+    {
+      "from": 90.18,
+      "to": 91.24,
+      "sid": 66,
+      "location": 2,
+      "content": "大家抢的特别火对吧",
+      "music": 0.0
+    },
+    {
+      "from": 91.24,
+      "to": 93.06,
+      "sid": 67,
+      "location": 2,
+      "content": "我们早上六七点看闲鱼的时候",
+      "music": 0.0
+    },
+    {
+      "from": 93.06,
+      "to": 94.2,
+      "sid": 68,
+      "location": 2,
+      "content": "那个码大概200块钱一个",
+      "music": 0.0
+    },
+    {
+      "from": 94.2,
+      "to": 95.64,
+      "sid": 69,
+      "location": 2,
+      "content": "然后我上午十点多的时候看",
+      "music": 0.0
+    },
+    {
+      "from": 95.64,
+      "to": 96.4,
+      "sid": 70,
+      "location": 2,
+      "content": "就13块钱一个",
+      "music": 0.0
+    },
+    {
+      "from": 96.4,
+      "to": 98.24,
+      "sid": 71,
+      "location": 2,
+      "content": "然后我晚上吃夜宵的时候看的时候",
+      "music": 0.0
+    },
+    {
+      "from": 98.24,
+      "to": 99.68,
+      "sid": 72,
+      "location": 2,
+      "content": "那个码就一个只要一块八了",
+      "music": 0.0
+    },
+    {
+      "from": 99.68,
+      "to": 101.68,
+      "sid": 73,
+      "location": 2,
+      "content": "就这种同质化竞争极其激烈",
+      "music": 0.0
+    },
+    {
+      "from": 101.68,
+      "to": 103.96,
+      "sid": 74,
+      "location": 2,
+      "content": "一天之内就可以把你生意干黄的这种赛道",
+      "music": 0.0
+    },
+    {
+      "from": 103.96,
+      "to": 105.56,
+      "sid": 75,
+      "location": 2,
+      "content": "你把谁弄过来都不好使",
+      "music": 0.0
+    },
+    {
+      "from": 105.56,
+      "to": 106.28,
+      "sid": 76,
+      "location": 2,
+      "content": "你有什么认知",
+      "music": 0.0
+    },
+    {
+      "from": 106.28,
+      "to": 107.32,
+      "sid": 77,
+      "location": 2,
+      "content": "有什么执行力都不管用",
+      "music": 0.0
+    },
+    {
+      "from": 107.32,
+      "to": 109.48,
+      "sid": 78,
+      "location": 2,
+      "content": "你让马斯克去闲鱼上卖SL邀请码",
+      "music": 0.0
+    },
+    {
+      "from": 109.48,
+      "to": 110.32,
+      "sid": 79,
+      "location": 2,
+      "content": "他也挣不了钱",
+      "music": 0.0
+    },
+    {
+      "from": 110.32,
+      "to": 111.64,
+      "sid": 80,
+      "location": 2,
+      "content": "然后定下一个好的商业模式",
+      "music": 0.0
+    },
+    {
+      "from": 111.64,
+      "to": 112.72,
+      "sid": 81,
+      "location": 2,
+      "content": "就我观察身边那些人",
+      "music": 0.0
+    },
+    {
+      "from": 112.72,
+      "to": 114.42,
+      "sid": 82,
+      "location": 2,
+      "content": "我觉得依然和他的认知没关",
+      "music": 0.0
+    },
+    {
+      "from": 114.42,
+      "to": 115.42,
+      "sid": 83,
+      "location": 2,
+      "content": "取决于两个事",
+      "music": 0.0
+    },
+    {
+      "from": 115.42,
+      "to": 116.34,
+      "sid": 84,
+      "location": 2,
+      "content": "第一个还是执行力",
+      "music": 0.0
+    },
+    {
+      "from": 116.34,
+      "to": 117.22,
+      "sid": 85,
+      "location": 2,
+      "content": "第二个叫知识付费",
+      "music": 0.0
+    },
+    {
+      "from": 117.22,
+      "to": 118.42,
+      "sid": 86,
+      "location": 2,
+      "content": "执行力体现在什么地方呢",
+      "music": 0.0
+    },
+    {
+      "from": 118.42,
+      "to": 120.12,
+      "sid": 87,
+      "location": 2,
+      "content": "就我觉得我在一般人当",
+      "music": 0.0
+    },
+    {
+      "from": 120.12,
+      "to": 122.28,
+      "sid": 88,
+      "location": 2,
+      "content": "可能已经算执行力比较强的一种了",
+      "music": 0.0
+    },
+    {
+      "from": 122.28,
+      "to": 123.16,
+      "sid": 89,
+      "location": 2,
+      "content": "但是我有个缺点",
+      "music": 0.0
+    },
+    {
+      "from": 123.16,
+      "to": 125.4,
+      "sid": 90,
+      "location": 2,
+      "content": "就是当我有很多个事情都需要",
+      "music": 0.0
+    },
+    {
+      "from": 125.4,
+      "to": 126.08,
+      "sid": 91,
+      "location": 2,
+      "content": "我有执行力的时候",
+      "music": 0.0
+    },
+    {
+      "from": 126.08,
+      "to": 127.02,
+      "sid": 92,
+      "location": 2,
+      "content": "我肯定干不完对吧",
+      "music": 0.0
+    },
+    {
+      "from": 127.02,
+      "to": 129.66,
+      "sid": 93,
+      "location": 2,
+      "content": "我还是会优先去干那些在我舒适区以内的事",
+      "music": 0.0
+    },
+    {
+      "from": 129.66,
+      "to": 131.3,
+      "sid": 94,
+      "location": 2,
+      "content": "比如说我一天我喜欢打字",
+      "music": 0.0
+    },
+    {
+      "from": 131.3,
+      "to": 132.42,
+      "sid": 95,
+      "location": 2,
+      "content": "你让我写个七八千字",
+      "music": 0.0
+    },
+    {
+      "from": 132.42,
+      "to": 134.46,
+      "sid": 96,
+      "location": 2,
+      "content": "写一下今天的这个所想什么感悟",
+      "music": 0.0
+    },
+    {
+      "from": 134.46,
+      "to": 135.4,
+      "sid": 97,
+      "location": 2,
+      "content": "这个事我也能赚钱",
+      "music": 0.0
+    },
+    {
+      "from": 135.4,
+      "to": 136.26,
+      "sid": 98,
+      "location": 2,
+      "content": "这个我就愿意去干",
+      "music": 0.0
+    },
+    {
+      "from": 136.26,
+      "to": 137.08,
+      "sid": 99,
+      "location": 2,
+      "content": "但是与此同时",
+      "music": 0.0
+    },
+    {
+      "from": 137.08,
+      "to": 139.28,
+      "sid": 100,
+      "location": 2,
+      "content": "有一些事情可能是在当下的这个时间节点",
+      "music": 0.0
+    },
+    {
+      "from": 139.28,
+      "to": 141.04,
+      "sid": 101,
+      "location": 2,
+      "content": "更重要的这个事情可能就会有搁置了",
+      "music": 0.0
+    },
+    {
+      "from": 141.04,
+      "to": 143.56,
+      "sid": 102,
+      "location": 2,
+      "content": "对于我所说的一些执行力真正很强的一些而言",
+      "music": 0.0
+    },
+    {
+      "from": 143.56,
+      "to": 145.06,
+      "sid": 103,
+      "location": 2,
+      "content": "他们是严格分四象限",
+      "music": 0.0
+    },
+    {
+      "from": 145.06,
+      "to": 145.84,
+      "sid": 104,
+      "location": 2,
+      "content": "重要不重要",
+      "music": 0.0
+    },
+    {
+      "from": 145.84,
+      "to": 146.48,
+      "sid": 105,
+      "location": 2,
+      "content": "紧急不紧急",
+      "music": 0.0
+    },
+    {
+      "from": 146.48,
+      "to": 147.88,
+      "sid": 106,
+      "location": 2,
+      "content": "完全按这个象限去执行的",
+      "music": 0.0
+    },
+    {
+      "from": 147.88,
+      "to": 149.16,
+      "sid": 107,
+      "location": 2,
+      "content": "所以我觉得跟他们一对比",
+      "music": 0.0
+    },
+    {
+      "from": 149.16,
+      "to": 152.24,
+      "sid": 108,
+      "location": 2,
+      "content": "这个也是我的业务常常进展的比想象中更慢",
+      "music": 0.0
+    },
+    {
+      "from": 152.24,
+      "to": 153.04,
+      "sid": 109,
+      "location": 2,
+      "content": "的一个核心原因",
+      "music": 0.0
+    },
+    {
+      "from": 153.04,
+      "to": 155.4,
+      "sid": 110,
+      "location": 2,
+      "content": "就同样是发现工作当中有一个非常重要的事情",
+      "music": 0.0
+    },
+    {
+      "from": 155.4,
+      "to": 156.56,
+      "sid": 111,
+      "location": 2,
+      "content": "可能我揣摩一个月才去做",
+      "music": 0.0
+    },
+    {
+      "from": 156.56,
+      "to": 156.84,
+      "sid": 112,
+      "location": 2,
+      "content": "那个人",
+      "music": 0.0
+    },
+    {
+      "from": 156.84,
+      "to": 157.74,
+      "sid": 113,
+      "location": 2,
+      "content": "可能第二天就干了",
+      "music": 0.0
+    },
+    {
+      "from": 157.74,
+      "to": 159.0,
+      "sid": 114,
+      "location": 2,
+      "content": "那一步快就步步快",
+      "music": 0.0
+    },
+    {
+      "from": 159.0,
+      "to": 160.88,
+      "sid": 115,
+      "location": 2,
+      "content": "步步快的结果不是人家干活比你快呀",
+      "music": 0.0
+    },
+    {
+      "from": 160.88,
+      "to": 163.8,
+      "sid": 116,
+      "location": 2,
+      "content": "是人家再用不同的商业模式和你在跑这个事情",
+      "music": 0.0
+    },
+    {
+      "from": 163.8,
+      "to": 165.84,
+      "sid": 117,
+      "location": 2,
+      "content": "那可能一年就差个小几百万就很正常",
+      "music": 0.0
+    },
+    {
+      "from": 165.84,
+      "to": 167.4,
+      "sid": 118,
+      "location": 2,
+      "content": "那另外一个在认知有限的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 167.4,
+      "to": 169.12,
+      "sid": 119,
+      "location": 2,
+      "content": "还可以搞到正确商业模式的一个事",
+      "music": 0.0
+    },
+    {
+      "from": 169.12,
+      "to": 169.84,
+      "sid": 120,
+      "location": 2,
+      "content": "叫知识付费啊",
+      "music": 0.0
+    },
+    {
+      "from": 169.84,
+      "to": 171.02,
+      "sid": 121,
+      "location": 2,
+      "content": "或者叫战略咨询吧",
+      "music": 0.0
+    },
+    {
+      "from": 171.02,
+      "to": 173.86,
+      "sid": 122,
+      "location": 2,
+      "content": "就是一个千万以下规模的业务",
+      "music": 0.0
+    },
+    {
+      "from": 173.86,
+      "to": 175.7,
+      "sid": 123,
+      "location": 2,
+      "content": "你是绝对可以找到一个大佬",
+      "music": 0.0
+    },
+    {
+      "from": 175.7,
+      "to": 177.1,
+      "sid": 124,
+      "location": 2,
+      "content": "给他付个几万或者小几10万",
+      "music": 0.0
+    },
+    {
+      "from": 177.1,
+      "to": 178.3,
+      "sid": 125,
+      "location": 2,
+      "content": "帮你把这个事给解决",
+      "music": 0.0
+    },
+    {
+      "from": 178.3,
+      "to": 179.06,
+      "sid": 126,
+      "location": 2,
+      "content": "直接抄答案的",
+      "music": 0.0
+    },
+    {
+      "from": 179.06,
+      "to": 180.46,
+      "sid": 127,
+      "location": 2,
+      "content": "而这个事又拉开差距在哪呢",
+      "music": 0.0
+    },
+    {
+      "from": 180.46,
+      "to": 181.94,
+      "sid": 128,
+      "location": 2,
+      "content": "就是那些有点认知的人",
+      "music": 0.0
+    },
+    {
+      "from": 181.94,
+      "to": 182.82,
+      "sid": 129,
+      "location": 2,
+      "content": "他特别喜欢自己琢磨",
+      "music": 0.0
+    },
+    {
+      "from": 182.82,
+      "to": 183.7,
+      "sid": 130,
+      "location": 2,
+      "content": "因为我有认知",
+      "music": 0.0
+    },
+    {
+      "from": 183.7,
+      "to": 184.46,
+      "sid": 131,
+      "location": 2,
+      "content": "我觉得我懂嘛",
+      "music": 0.0
+    },
+    {
+      "from": 184.46,
+      "to": 185.38,
+      "sid": 132,
+      "location": 2,
+      "content": "我就不愿意听别人的",
+      "music": 0.0
+    },
+    {
+      "from": 185.38,
+      "to": 186.54,
+      "sid": 133,
+      "location": 2,
+      "content": "我愿意自己把这个事搞清楚",
+      "music": 0.0
+    },
+    {
+      "from": 186.54,
+      "to": 187.56,
+      "sid": 134,
+      "location": 2,
+      "content": "我要探索这个事啊",
+      "music": 0.0
+    },
+    {
+      "from": 187.56,
+      "to": 189.12,
+      "sid": 135,
+      "location": 2,
+      "content": "但是不懂的人他直接放弃了",
+      "music": 0.0
+    },
+    {
+      "from": 189.12,
+      "to": 190.24,
+      "sid": 136,
+      "location": 2,
+      "content": "我直接抄答案反而更快",
+      "music": 0.0
+    },
+    {
+      "from": 190.24,
+      "to": 191.04,
+      "sid": 137,
+      "location": 2,
+      "content": "那第一个执行力",
+      "music": 0.0
+    },
+    {
+      "from": 191.04,
+      "to": 191.76,
+      "sid": 138,
+      "location": 2,
+      "content": "第二个商业模式",
+      "music": 0.0
+    },
+    {
+      "from": 191.76,
+      "to": 192.64,
+      "sid": 139,
+      "location": 2,
+      "content": "这两个东西加在一块",
+      "music": 0.0
+    },
+    {
+      "from": 192.64,
+      "to": 193.82,
+      "sid": 140,
+      "location": 2,
+      "content": "就意味着你的顾客",
+      "music": 0.0
+    },
+    {
+      "from": 193.82,
+      "to": 194.64,
+      "sid": 141,
+      "location": 2,
+      "content": "你的买家",
+      "music": 0.0
+    },
+    {
+      "from": 194.64,
+      "to": 196.8,
+      "sid": 142,
+      "location": 2,
+      "content": "他们可以很快地享受到",
+      "music": 0.0
+    },
+    {
+      "from": 196.8,
+      "to": 199.76,
+      "sid": 143,
+      "location": 2,
+      "content": "你用一种正确的方式所去提供的产品和服务",
+      "music": 0.0
+    },
+    {
+      "from": 199.76,
+      "to": 201.24,
+      "sid": 144,
+      "location": 2,
+      "content": "那这个事儿呢就叫赚钱",
+      "music": 0.0
+    }
+  ]
+}

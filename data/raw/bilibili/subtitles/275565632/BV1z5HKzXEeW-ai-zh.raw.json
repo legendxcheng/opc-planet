@@ -1,0 +1,1188 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.0,
+      "to": 1.56,
+      "sid": 1,
+      "location": 2,
+      "content": "如何判断一个赛道是不是拥挤",
+      "music": 0.0
+    },
+    {
+      "from": 1.56,
+      "to": 2.72,
+      "sid": 2,
+      "location": 2,
+      "content": "现在竞争是不是很激烈",
+      "music": 0.0
+    },
+    {
+      "from": 2.72,
+      "to": 3.58,
+      "sid": 3,
+      "location": 2,
+      "content": "我还能不能入局",
+      "music": 0.0
+    },
+    {
+      "from": 3.58,
+      "to": 5.2,
+      "sid": 4,
+      "location": 2,
+      "content": "在线不是很充分的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 5.2,
+      "to": 6.08,
+      "sid": 5,
+      "location": 2,
+      "content": "你就看一个因素",
+      "music": 0.0
+    },
+    {
+      "from": 6.08,
+      "to": 7.76,
+      "sid": 6,
+      "location": 2,
+      "content": "就可以让你在一分钟以内得到答案",
+      "music": 0.0
+    },
+    {
+      "from": 7.76,
+      "to": 9.14,
+      "sid": 7,
+      "location": 2,
+      "content": "就是同行的定价",
+      "music": 0.0
+    },
+    {
+      "from": 9.14,
+      "to": 10.12,
+      "sid": 8,
+      "location": 2,
+      "content": "现在市场上赚到钱",
+      "music": 0.0
+    },
+    {
+      "from": 10.12,
+      "to": 11.32,
+      "sid": 9,
+      "location": 2,
+      "content": "就相当于所有的消费者",
+      "music": 0.0
+    },
+    {
+      "from": 11.32,
+      "to": 13.28,
+      "sid": 10,
+      "location": 2,
+      "content": "给所有的商家共同出了一套答卷",
+      "music": 0.0
+    },
+    {
+      "from": 13.28,
+      "to": 14.52,
+      "sid": 11,
+      "location": 2,
+      "content": "那就跟在学校里面一样",
+      "music": 0.0
+    },
+    {
+      "from": 14.52,
+      "to": 15.76,
+      "sid": 12,
+      "location": 2,
+      "content": "如果答题都是尖子生",
+      "music": 0.0
+    },
+    {
+      "from": 15.76,
+      "to": 17.2,
+      "sid": 13,
+      "location": 2,
+      "content": "你会发现答案都大差不差啊",
+      "music": 0.0
+    },
+    {
+      "from": 17.2,
+      "to": 17.94,
+      "sid": 14,
+      "location": 2,
+      "content": "基本上都一样",
+      "music": 0.0
+    },
+    {
+      "from": 17.94,
+      "to": 19.1,
+      "sid": 15,
+      "location": 2,
+      "content": "如果答题的是差生",
+      "music": 0.0
+    },
+    {
+      "from": 19.1,
+      "to": 20.38,
+      "sid": 16,
+      "location": 2,
+      "content": "那答案就是千奇百怪",
+      "music": 0.0
+    },
+    {
+      "from": 20.38,
+      "to": 22.14,
+      "sid": 17,
+      "location": 2,
+      "content": "所以反映在您所处的那个赛道上",
+      "music": 0.0
+    },
+    {
+      "from": 22.14,
+      "to": 25.1,
+      "sid": 18,
+      "location": 2,
+      "content": "我们有一个核心结论叫做定价的离散程度",
+      "music": 0.0
+    },
+    {
+      "from": 25.1,
+      "to": 27.12,
+      "sid": 19,
+      "location": 2,
+      "content": "反反映了竞争的激烈程度",
+      "music": 0.0
+    },
+    {
+      "from": 27.12,
+      "to": 28.2,
+      "sid": 20,
+      "location": 2,
+      "content": "什么叫定价不离散啊",
+      "music": 0.0
+    },
+    {
+      "from": 28.2,
+      "to": 29.16,
+      "sid": 21,
+      "location": 2,
+      "content": "就是你放眼望去",
+      "music": 0.0
+    },
+    {
+      "from": 29.16,
+      "to": 30.56,
+      "sid": 22,
+      "location": 2,
+      "content": "发现这个市场上所有的商家",
+      "music": 0.0
+    },
+    {
+      "from": 30.56,
+      "to": 32.04,
+      "sid": 23,
+      "location": 2,
+      "content": "定价齐刷刷的都一样",
+      "music": 0.0
+    },
+    {
+      "from": 32.04,
+      "to": 33.28,
+      "sid": 24,
+      "location": 2,
+      "content": "一个模子刻出来的一样",
+      "music": 0.0
+    },
+    {
+      "from": 33.28,
+      "to": 35.42,
+      "sid": 25,
+      "location": 2,
+      "content": "比如说国内20到25万",
+      "music": 0.0
+    },
+    {
+      "from": 35.42,
+      "to": 36.84,
+      "sid": 26,
+      "location": 2,
+      "content": "这个价位的新能源汽车市场",
+      "music": 0.0
+    },
+    {
+      "from": 36.84,
+      "to": 37.78,
+      "sid": 27,
+      "location": 2,
+      "content": "从外部环境来讲",
+      "music": 0.0
+    },
+    {
+      "from": 37.78,
+      "to": 39.9,
+      "sid": 28,
+      "location": 2,
+      "content": "国内电车这个市场是成本结构透明",
+      "music": 0.0
+    },
+    {
+      "from": 39.9,
+      "to": 40.86,
+      "sid": 29,
+      "location": 2,
+      "content": "用户认知相对成熟",
+      "music": 0.0
+    },
+    {
+      "from": 40.86,
+      "to": 41.54,
+      "sid": 30,
+      "location": 2,
+      "content": "竞争也充分",
+      "music": 0.0
+    },
+    {
+      "from": 41.54,
+      "to": 44.02,
+      "sid": 31,
+      "location": 2,
+      "content": "博弈带来的结果就是车企的利润被压缩",
+      "music": 0.0
+    },
+    {
+      "from": 44.02,
+      "to": 45.78,
+      "sid": 32,
+      "location": 2,
+      "content": "从这个市场的参与者的角度来讲",
+      "music": 0.0
+    },
+    {
+      "from": 45.78,
+      "to": 47.3,
+      "sid": 33,
+      "location": 2,
+      "content": "你可以说跟特斯拉相比",
+      "music": 0.0
+    },
+    {
+      "from": 47.3,
+      "to": 48.18,
+      "sid": 34,
+      "location": 2,
+      "content": "大家都没法比对吧",
+      "music": 0.0
+    },
+    {
+      "from": 48.18,
+      "to": 49.7,
+      "sid": 35,
+      "location": 2,
+      "content": "无论是规模还是市值都比不了",
+      "music": 0.0
+    },
+    {
+      "from": 49.7,
+      "to": 51.62,
+      "sid": 36,
+      "location": 2,
+      "content": "但是你把这些车企的老板",
+      "music": 0.0
+    },
+    {
+      "from": 51.62,
+      "to": 53.68,
+      "sid": 37,
+      "location": 2,
+      "content": "比如未来的里边小鹏汽车的何小鹏",
+      "music": 0.0
+    },
+    {
+      "from": 53.68,
+      "to": 54.88,
+      "sid": 38,
+      "location": 2,
+      "content": "把这些人提溜出来",
+      "music": 0.0
+    },
+    {
+      "from": 54.88,
+      "to": 57.84,
+      "sid": 39,
+      "location": 2,
+      "content": "和那些中小微企业的创业者老板相比",
+      "music": 0.0
+    },
+    {
+      "from": 57.84,
+      "to": 59.2,
+      "sid": 40,
+      "location": 2,
+      "content": "那就是神一样的存在对吧",
+      "music": 0.0
+    },
+    {
+      "from": 59.2,
+      "to": 61.12,
+      "sid": 41,
+      "location": 2,
+      "content": "所以当这些最顶尖的创业者",
+      "music": 0.0
+    },
+    {
+      "from": 61.12,
+      "to": 62.4,
+      "sid": 42,
+      "location": 2,
+      "content": "面对相同一份",
+      "music": 0.0
+    },
+    {
+      "from": 62.4,
+      "to": 64.64,
+      "sid": 43,
+      "location": 2,
+      "content": "几乎是透明公开的一份答卷的时候",
+      "music": 0.0
+    },
+    {
+      "from": 64.64,
+      "to": 66.36,
+      "sid": 44,
+      "location": 2,
+      "content": "那结果就必然是整齐划一",
+      "music": 0.0
+    },
+    {
+      "from": 66.36,
+      "to": 67.32,
+      "sid": 45,
+      "location": 2,
+      "content": "大家答案都一样对吧",
+      "music": 0.0
+    },
+    {
+      "from": 67.32,
+      "to": 68.2,
+      "sid": 46,
+      "location": 2,
+      "content": "那就高手如云",
+      "music": 0.0
+    },
+    {
+      "from": 68.2,
+      "to": 68.84,
+      "sid": 47,
+      "location": 2,
+      "content": "刺刀见红",
+      "music": 0.0
+    },
+    {
+      "from": 68.84,
+      "to": 69.36,
+      "sid": 48,
+      "location": 2,
+      "content": "那反过来",
+      "music": 0.0
+    },
+    {
+      "from": 69.36,
+      "to": 70.12,
+      "sid": 49,
+      "location": 2,
+      "content": "当我进入一个市场",
+      "music": 0.0
+    },
+    {
+      "from": 70.12,
+      "to": 71.36,
+      "sid": 50,
+      "location": 2,
+      "content": "我发现定价特别稀碎",
+      "music": 0.0
+    },
+    {
+      "from": 71.36,
+      "to": 72.16,
+      "sid": 51,
+      "location": 2,
+      "content": "一人一个样",
+      "music": 0.0
+    },
+    {
+      "from": 72.16,
+      "to": 72.92,
+      "sid": 52,
+      "location": 2,
+      "content": "千奇百怪对吧",
+      "music": 0.0
+    },
+    {
+      "from": 72.92,
+      "to": 74.4,
+      "sid": 53,
+      "location": 2,
+      "content": "恨不得同样一个东西有人卖100",
+      "music": 0.0
+    },
+    {
+      "from": 74.4,
+      "to": 75.14,
+      "sid": 54,
+      "location": 2,
+      "content": "有人卖1万",
+      "music": 0.0
+    },
+    {
+      "from": 75.14,
+      "to": 76.76,
+      "sid": 55,
+      "location": 2,
+      "content": "这种竞争强度他必然上不去",
+      "music": 0.0
+    },
+    {
+      "from": 76.76,
+      "to": 79.36,
+      "sid": 56,
+      "location": 2,
+      "content": "比如说国内某平台的这个疗愈赛道",
+      "music": 0.0
+    },
+    {
+      "from": 79.36,
+      "to": 80.8,
+      "sid": 57,
+      "location": 2,
+      "content": "那基本上就是菜鸡成群",
+      "music": 0.0
+    },
+    {
+      "from": 80.8,
+      "to": 81.48,
+      "sid": 58,
+      "location": 2,
+      "content": "一顿胡搞",
+      "music": 0.0
+    },
+    {
+      "from": 81.48,
+      "to": 82.76,
+      "sid": 59,
+      "location": 2,
+      "content": "那这种市场有什么特征啊",
+      "music": 0.0
+    },
+    {
+      "from": 82.76,
+      "to": 84.58,
+      "sid": 60,
+      "location": 2,
+      "content": "就是非常的个性化认人",
+      "music": 0.0
+    },
+    {
+      "from": 84.58,
+      "to": 86.26,
+      "sid": 61,
+      "location": 2,
+      "content": "比如说某些赛道的咨询业务",
+      "music": 0.0
+    },
+    {
+      "from": 86.26,
+      "to": 88.06,
+      "sid": 62,
+      "location": 2,
+      "content": "有人说哎老师我跟你聊天",
+      "music": 0.0
+    },
+    {
+      "from": 88.06,
+      "to": 88.86,
+      "sid": 63,
+      "location": 2,
+      "content": "我就特别舒服",
+      "music": 0.0
+    },
+    {
+      "from": 88.86,
+      "to": 90.1,
+      "sid": 64,
+      "location": 2,
+      "content": "我觉得特别情绪化啊",
+      "music": 0.0
+    },
+    {
+      "from": 90.1,
+      "to": 92.06,
+      "sid": 65,
+      "location": 2,
+      "content": "他说我觉得你特别能说到我的心坎里去",
+      "music": 0.0
+    },
+    {
+      "from": 92.06,
+      "to": 93.16,
+      "sid": 66,
+      "location": 2,
+      "content": "我就愿意给你付高价",
+      "music": 0.0
+    },
+    {
+      "from": 93.16,
+      "to": 95.66,
+      "sid": 67,
+      "location": 2,
+      "content": "可是你把这么一个提供咨询业务的人",
+      "music": 0.0
+    },
+    {
+      "from": 95.66,
+      "to": 96.3,
+      "sid": 68,
+      "location": 2,
+      "content": "放到市场上",
+      "music": 0.0
+    },
+    {
+      "from": 96.3,
+      "to": 97.14,
+      "sid": 69,
+      "location": 2,
+      "content": "发现他一文不值",
+      "music": 0.0
+    },
+    {
+      "from": 97.14,
+      "to": 99.86,
+      "sid": 70,
+      "location": 2,
+      "content": "这就说明买家对于什么东西有价值",
+      "music": 0.0
+    },
+    {
+      "from": 99.86,
+      "to": 100.82,
+      "sid": 71,
+      "location": 2,
+      "content": "什么东西没价值",
+      "music": 0.0
+    },
+    {
+      "from": 100.82,
+      "to": 102.54,
+      "sid": 72,
+      "location": 2,
+      "content": "这个的判断是非常分化的",
+      "music": 0.0
+    },
+    {
+      "from": 102.54,
+      "to": 103.42,
+      "sid": 73,
+      "location": 2,
+      "content": "第二门槛特别低",
+      "music": 0.0
+    },
+    {
+      "from": 103.42,
+      "to": 103.86,
+      "sid": 74,
+      "location": 2,
+      "content": "谁都能干",
+      "music": 0.0
+    },
+    {
+      "from": 103.86,
+      "to": 104.94,
+      "sid": 75,
+      "location": 2,
+      "content": "没有标准化的体系",
+      "music": 0.0
+    },
+    {
+      "from": 104.94,
+      "to": 105.88,
+      "sid": 76,
+      "location": 2,
+      "content": "也没有行业共识",
+      "music": 0.0
+    },
+    {
+      "from": 105.88,
+      "to": 107.3,
+      "sid": 77,
+      "location": 2,
+      "content": "说再白一点就是不用考证",
+      "music": 0.0
+    },
+    {
+      "from": 107.3,
+      "to": 108.02,
+      "sid": 78,
+      "location": 2,
+      "content": "是个人都能来",
+      "music": 0.0
+    },
+    {
+      "from": 108.02,
+      "to": 109.14,
+      "sid": 79,
+      "location": 2,
+      "content": "第三信息流通差",
+      "music": 0.0
+    },
+    {
+      "from": 109.14,
+      "to": 109.76,
+      "sid": 80,
+      "location": 2,
+      "content": "各自为战",
+      "music": 0.0
+    },
+    {
+      "from": 109.76,
+      "to": 111.36,
+      "sid": 81,
+      "location": 2,
+      "content": "比如说咱俩都在私域里边挣钱",
+      "music": 0.0
+    },
+    {
+      "from": 111.36,
+      "to": 113.54,
+      "sid": 82,
+      "location": 2,
+      "content": "咱俩公寓的这个自媒体业务流量都特别差",
+      "music": 0.0
+    },
+    {
+      "from": 113.54,
+      "to": 116.0,
+      "sid": 83,
+      "location": 2,
+      "content": "咱俩都各自的买家都刷不到对方对吧",
+      "music": 0.0
+    },
+    {
+      "from": 116.0,
+      "to": 118.24,
+      "sid": 84,
+      "location": 2,
+      "content": "所以就算你第定价稀烂一通胡搞",
+      "music": 0.0
+    },
+    {
+      "from": 118.24,
+      "to": 119.08,
+      "sid": 85,
+      "location": 2,
+      "content": "你还是能挣钱",
+      "music": 0.0
+    },
+    {
+      "from": 119.08,
+      "to": 120.88,
+      "sid": 86,
+      "location": 2,
+      "content": "所以你这样切两刀就能划出三层",
+      "music": 0.0
+    },
+    {
+      "from": 120.88,
+      "to": 123.48,
+      "sid": 87,
+      "location": 2,
+      "content": "我们讲上面的这个市场是定价整齐划一的",
+      "music": 0.0
+    },
+    {
+      "from": 123.48,
+      "to": 124.52,
+      "sid": 88,
+      "location": 2,
+      "content": "竞争很激烈的市场",
+      "music": 0.0
+    },
+    {
+      "from": 124.52,
+      "to": 125.92,
+      "sid": 89,
+      "location": 2,
+      "content": "下面那个市场是定价稀碎的",
+      "music": 0.0
+    },
+    {
+      "from": 125.92,
+      "to": 126.92,
+      "sid": 90,
+      "location": 2,
+      "content": "竞争不太激烈的市场",
+      "music": 0.0
+    },
+    {
+      "from": 126.92,
+      "to": 128.34,
+      "sid": 91,
+      "location": 2,
+      "content": "就可以把生意人分为三类",
+      "music": 0.0
+    },
+    {
+      "from": 128.34,
+      "to": 129.64,
+      "sid": 92,
+      "location": 2,
+      "content": "最顶尖那批创业者",
+      "music": 0.0
+    },
+    {
+      "from": 129.64,
+      "to": 131.78,
+      "sid": 93,
+      "location": 2,
+      "content": "比如说你能工资融到1000个亿甚至1万个亿",
+      "music": 0.0
+    },
+    {
+      "from": 131.78,
+      "to": 134.18,
+      "sid": 94,
+      "location": 2,
+      "content": "那你就去造车这个事虽然竞争很激烈",
+      "music": 0.0
+    },
+    {
+      "from": 134.18,
+      "to": 135.42,
+      "sid": 95,
+      "location": 2,
+      "content": "但是拿到的结果也最大",
+      "music": 0.0
+    },
+    {
+      "from": 135.42,
+      "to": 137.34,
+      "sid": 96,
+      "location": 2,
+      "content": "一旦干成了就是一战翻身以后",
+      "music": 0.0
+    },
+    {
+      "from": 137.34,
+      "to": 138.84,
+      "sid": 97,
+      "location": 2,
+      "content": "现代商业史里边就有你的名字",
+      "music": 0.0
+    },
+    {
+      "from": 138.84,
+      "to": 139.72,
+      "sid": 98,
+      "location": 2,
+      "content": "再往下一层",
+      "music": 0.0
+    },
+    {
+      "from": 139.72,
+      "to": 140.38,
+      "sid": 99,
+      "location": 2,
+      "content": "第二类人",
+      "music": 0.0
+    },
+    {
+      "from": 140.38,
+      "to": 142.78,
+      "sid": 100,
+      "location": 2,
+      "content": "他就适合干这种定价计算的比较混乱的市场",
+      "music": 0.0
+    },
+    {
+      "from": 142.78,
+      "to": 144.52,
+      "sid": 101,
+      "location": 2,
+      "content": "比如说我就说情感赛道吧",
+      "music": 0.0
+    },
+    {
+      "from": 144.52,
+      "to": 146.28,
+      "sid": 102,
+      "location": 2,
+      "content": "某些博主他可能东抄抄西抄抄",
+      "music": 0.0
+    },
+    {
+      "from": 146.28,
+      "to": 147.16,
+      "sid": 103,
+      "location": 2,
+      "content": "我早年发微博的",
+      "music": 0.0
+    },
+    {
+      "from": 147.16,
+      "to": 148.04,
+      "sid": 104,
+      "location": 2,
+      "content": "后来移到小红书了",
+      "music": 0.0
+    },
+    {
+      "from": 148.04,
+      "to": 149.62,
+      "sid": 105,
+      "location": 2,
+      "content": "我这个号莫名其妙我就做起来了",
+      "music": 0.0
+    },
+    {
+      "from": 149.62,
+      "to": 150.26,
+      "sid": 106,
+      "location": 2,
+      "content": "能赚点小钱",
+      "music": 0.0
+    },
+    {
+      "from": 150.26,
+      "to": 151.54,
+      "sid": 107,
+      "location": 2,
+      "content": "但是高手来了之后就不这样",
+      "music": 0.0
+    },
+    {
+      "from": 151.54,
+      "to": 152.7,
+      "sid": 108,
+      "location": 2,
+      "content": "高手是有认知体系的",
+      "music": 0.0
+    },
+    {
+      "from": 152.7,
+      "to": 153.58,
+      "sid": 109,
+      "location": 2,
+      "content": "是有逻辑结构的",
+      "music": 0.0
+    },
+    {
+      "from": 153.58,
+      "to": 154.38,
+      "sid": 110,
+      "location": 2,
+      "content": "你给我一个黑板",
+      "music": 0.0
+    },
+    {
+      "from": 154.38,
+      "to": 155.62,
+      "sid": 111,
+      "location": 2,
+      "content": "我能把这黑板给你画满了",
+      "music": 0.0
+    },
+    {
+      "from": 155.62,
+      "to": 158.06,
+      "sid": 112,
+      "location": 2,
+      "content": "我把咱们的问题分为12344大类",
+      "music": 0.0
+    },
+    {
+      "from": 158.06,
+      "to": 161.02,
+      "sid": 113,
+      "location": 2,
+      "content": "每一类里面我有一套完整的认知结构体系",
+      "music": 0.0
+    },
+    {
+      "from": 161.02,
+      "to": 162.18,
+      "sid": 114,
+      "location": 2,
+      "content": "可以把你的问题盘清楚",
+      "music": 0.0
+    },
+    {
+      "from": 162.18,
+      "to": 163.9,
+      "sid": 115,
+      "location": 2,
+      "content": "这个东西可能弗洛伊德那来的会什么",
+      "music": 0.0
+    },
+    {
+      "from": 163.9,
+      "to": 164.54,
+      "sid": 116,
+      "location": 2,
+      "content": "荣格那来的",
+      "music": 0.0
+    },
+    {
+      "from": 164.54,
+      "to": 165.6,
+      "sid": 117,
+      "location": 2,
+      "content": "阿德勒来那来的",
+      "music": 0.0
+    },
+    {
+      "from": 165.6,
+      "to": 168.18,
+      "sid": 118,
+      "location": 2,
+      "content": "总之是师承名门的一整套结构体系",
+      "music": 0.0
+    },
+    {
+      "from": 168.18,
+      "to": 168.78,
+      "sid": 119,
+      "location": 2,
+      "content": "我来了之后",
+      "music": 0.0
+    },
+    {
+      "from": 168.78,
+      "to": 169.98,
+      "sid": 120,
+      "location": 2,
+      "content": "你们不在私域里变现吗",
+      "music": 0.0
+    },
+    {
+      "from": 169.98,
+      "to": 170.46,
+      "sid": 121,
+      "location": 2,
+      "content": "没关系",
+      "music": 0.0
+    },
+    {
+      "from": 170.46,
+      "to": 171.26,
+      "sid": 122,
+      "location": 2,
+      "content": "我做视频哈",
+      "music": 0.0
+    },
+    {
+      "from": 171.26,
+      "to": 173.02,
+      "sid": 123,
+      "location": 2,
+      "content": "你们的粉丝都能在微信上刷到",
+      "music": 0.0
+    },
+    {
+      "from": 173.02,
+      "to": 174.8,
+      "sid": 124,
+      "location": 2,
+      "content": "我刷到了我之后就都来找我对吧",
+      "music": 0.0
+    },
+    {
+      "from": 174.8,
+      "to": 175.36,
+      "sid": 125,
+      "location": 2,
+      "content": "清理战场",
+      "music": 0.0
+    },
+    {
+      "from": 175.36,
+      "to": 175.96,
+      "sid": 126,
+      "location": 2,
+      "content": "清空牌桌",
+      "music": 0.0
+    },
+    {
+      "from": 175.96,
+      "to": 177.6,
+      "sid": 127,
+      "location": 2,
+      "content": "那么这个时候对于第三类人来说",
+      "music": 0.0
+    },
+    {
+      "from": 177.6,
+      "to": 180.62,
+      "sid": 128,
+      "location": 2,
+      "content": "我就只能在第二类人还没来之前赚点钱",
+      "music": 0.0
+    },
+    {
+      "from": 180.62,
+      "to": 181.3,
+      "sid": 129,
+      "location": 2,
+      "content": "他一旦来了",
+      "music": 0.0
+    },
+    {
+      "from": 181.3,
+      "to": 182.14,
+      "sid": 130,
+      "location": 2,
+      "content": "我就被降维打击了",
+      "music": 0.0
+    },
+    {
+      "from": 182.14,
+      "to": 183.46,
+      "sid": 131,
+      "location": 2,
+      "content": "所以为什么我说从0~1做生意",
+      "music": 0.0
+    },
+    {
+      "from": 183.46,
+      "to": 184.28,
+      "sid": 132,
+      "location": 2,
+      "content": "一定要找一个对标",
+      "music": 0.0
+    },
+    {
+      "from": 184.28,
+      "to": 185.7,
+      "sid": 133,
+      "location": 2,
+      "content": "你刚入局一个行业",
+      "music": 0.0
+    },
+    {
+      "from": 185.7,
+      "to": 186.58,
+      "sid": 134,
+      "location": 2,
+      "content": "什么都不懂的时候",
+      "music": 0.0
+    },
+    {
+      "from": 186.58,
+      "to": 188.6,
+      "sid": 135,
+      "location": 2,
+      "content": "你肯定是最下面那个第三类的创业者",
+      "music": 0.0
+    },
+    {
+      "from": 188.6,
+      "to": 190.58,
+      "sid": 136,
+      "location": 2,
+      "content": "如果你仔细看过行业的对标的话",
+      "music": 0.0
+    },
+    {
+      "from": 190.58,
+      "to": 192.46,
+      "sid": 137,
+      "location": 2,
+      "content": "你会发现第一类人你肯定是模仿不了的",
+      "music": 0.0
+    },
+    {
+      "from": 192.46,
+      "to": 193.94,
+      "sid": 138,
+      "location": 2,
+      "content": "你只能去模仿第二类",
+      "music": 0.0
+    },
+    {
+      "from": 193.94,
+      "to": 195.54,
+      "sid": 139,
+      "location": 2,
+      "content": "而模仿它的核心叫商业模式",
+      "music": 0.0
+    },
+    {
+      "from": 195.54,
+      "to": 197.12,
+      "sid": 140,
+      "location": 2,
+      "content": "商业模式里面的核心预交定价",
+      "music": 0.0
+    },
+    {
+      "from": 197.12,
+      "to": 198.22,
+      "sid": 141,
+      "location": 2,
+      "content": "在你的定价结构",
+      "music": 0.0
+    },
+    {
+      "from": 198.22,
+      "to": 199.84,
+      "sid": 142,
+      "location": 2,
+      "content": "产品梯度完全对齐的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 199.84,
+      "to": 202.88,
+      "sid": 143,
+      "location": 2,
+      "content": "至少第二类那种降维打击的新入局者",
+      "music": 0.0
+    },
+    {
+      "from": 202.88,
+      "to": 203.56,
+      "sid": 144,
+      "location": 2,
+      "content": "来临的时候",
+      "music": 0.0
+    },
+    {
+      "from": 203.56,
+      "to": 204.08,
+      "sid": 145,
+      "location": 2,
+      "content": "他吃肉",
+      "music": 0.0
+    },
+    {
+      "from": 204.08,
+      "to": 205.1,
+      "sid": 146,
+      "location": 2,
+      "content": "你可以跟着喝汤",
+      "music": 0.0
+    },
+    {
+      "from": 205.1,
+      "to": 207.62,
+      "sid": 147,
+      "location": 2,
+      "content": "你总不至于被他直接拍死",
+      "music": 0.0
+    }
+  ]
+}

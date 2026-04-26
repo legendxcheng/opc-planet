@@ -1,0 +1,22 @@
+{
+  "bvid": "BV1P48iziENe",
+  "cid": 31312186504,
+  "title": "曲曲曾经创业亏了200万是怎么翻盘的？",
+  "owner_name": "曲神高能量",
+  "status": "downloaded",
+  "reason": null,
+  "subtitle": {
+    "id": 1610247929027740672,
+    "lan": "ai-zh",
+    "lan_doc": "中文",
+    "is_lock": false,
+    "subtitle_url": "https://aisubtitle.hdslb.com/bfs/ai_subtitle/prod/11338425099906126502890079b8937d3f0ba2ffcb0cb23c71de82523e",
+    "type": 1,
+    "id_str": "1610247929027740672",
+    "ai_type": 0,
+    "ai_status": 2
+  },
+  "raw_subtitle_path": "data\\raw\\bilibili\\subtitles\\ququ-business-search-2026-04-26\\BV1P48iziENe-ai-zh.raw.json",
+  "text_path": "data\\raw\\bilibili\\subtitles\\ququ-business-search-2026-04-26\\BV1P48iziENe-ai-zh.txt",
+  "metadata_path": "data\\raw\\bilibili\\subtitles\\ququ-business-search-2026-04-26\\BV1P48iziENe-ai-zh.metadata.json"
+}

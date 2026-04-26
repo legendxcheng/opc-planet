@@ -1,0 +1,1428 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.28,
+      "to": 3.72,
+      "sid": 1,
+      "location": 2,
+      "content": "我刚才刷到一个大网红叫张林超啊",
+      "music": 0.0
+    },
+    {
+      "from": 3.72,
+      "to": 5.24,
+      "sid": 2,
+      "location": 2,
+      "content": "我不知道你们认不认识",
+      "music": 0.0
+    },
+    {
+      "from": 5.24,
+      "to": 6.0,
+      "sid": 3,
+      "location": 2,
+      "content": "然后呢",
+      "music": 0.0
+    },
+    {
+      "from": 6.0,
+      "to": 10.22,
+      "sid": 4,
+      "location": 2,
+      "content": "她就说她跟她的相恋7年的男朋友分手了",
+      "music": 0.0
+    },
+    {
+      "from": 10.22,
+      "to": 12.94,
+      "sid": 5,
+      "location": 2,
+      "content": "然后我就看她在直播的时候就哭了",
+      "music": 0.0
+    },
+    {
+      "from": 12.94,
+      "to": 15.5,
+      "sid": 6,
+      "location": 2,
+      "content": "好像就是呃虽然说也很不舍",
+      "music": 0.0
+    },
+    {
+      "from": 15.5,
+      "to": 18.04,
+      "sid": 7,
+      "location": 2,
+      "content": "但是她觉得她的男朋友",
+      "music": 0.0
+    },
+    {
+      "from": 18.04,
+      "to": 19.92,
+      "sid": 8,
+      "location": 2,
+      "content": "现在已经不是她想要的那种人了",
+      "music": 0.0
+    },
+    {
+      "from": 19.92,
+      "to": 22.76,
+      "sid": 9,
+      "location": 2,
+      "content": "她就说她不想要一个享受型的男人",
+      "music": 0.0
+    },
+    {
+      "from": 22.76,
+      "to": 24.49,
+      "sid": 10,
+      "location": 2,
+      "content": "她想要一个嗯",
+      "music": 0.0
+    },
+    {
+      "from": 24.49,
+      "to": 27.77,
+      "sid": 11,
+      "location": 2,
+      "content": "能够跟她共同去打拼一番事业的男人",
+      "music": 0.0
+    },
+    {
+      "from": 27.77,
+      "to": 31.01,
+      "sid": 12,
+      "location": 2,
+      "content": "她想要一个人能够跟他去分担他的事业压力",
+      "music": 0.0
+    },
+    {
+      "from": 31.01,
+      "to": 33.83,
+      "sid": 13,
+      "location": 2,
+      "content": "然后大家有百分之1万的上进心嗯",
+      "music": 0.0
+    },
+    {
+      "from": 33.83,
+      "to": 37.48,
+      "sid": 14,
+      "location": 2,
+      "content": "共同去为公司创造一片未来的这样的人",
+      "music": 0.0
+    },
+    {
+      "from": 37.48,
+      "to": 39.24,
+      "sid": 15,
+      "location": 2,
+      "content": "然后我看到他说的这番话",
+      "music": 0.0
+    },
+    {
+      "from": 39.24,
+      "to": 41.33,
+      "sid": 16,
+      "location": 2,
+      "content": "我我特别特别的有感触",
+      "music": 0.0
+    },
+    {
+      "from": 41.33,
+      "to": 42.21,
+      "sid": 17,
+      "location": 2,
+      "content": "什么感触呢",
+      "music": 0.0
+    },
+    {
+      "from": 42.21,
+      "to": 44.15,
+      "sid": 18,
+      "location": 2,
+      "content": "就是我能够通过他这番话",
+      "music": 0.0
+    },
+    {
+      "from": 44.15,
+      "to": 44.81,
+      "sid": 19,
+      "location": 2,
+      "content": "感受到",
+      "music": 0.0
+    },
+    {
+      "from": 44.81,
+      "to": 46.85,
+      "sid": 20,
+      "location": 2,
+      "content": "他最近的业务上",
+      "music": 0.0
+    },
+    {
+      "from": 46.85,
+      "to": 49.7,
+      "sid": 21,
+      "location": 2,
+      "content": "肯定是出现了比较大的状况跟问题",
+      "music": 0.0
+    },
+    {
+      "from": 49.7,
+      "to": 52.9,
+      "sid": 22,
+      "location": 2,
+      "content": "所以他为什么可以跟一个享受型的男人",
+      "music": 0.0
+    },
+    {
+      "from": 52.9,
+      "to": 53.92,
+      "sid": 23,
+      "location": 2,
+      "content": "在一起7年",
+      "music": 0.0
+    },
+    {
+      "from": 53.92,
+      "to": 57.6,
+      "sid": 24,
+      "location": 2,
+      "content": "但是现在却突然之间180度大转变",
+      "music": 0.0
+    },
+    {
+      "from": 57.6,
+      "to": 59.32,
+      "sid": 25,
+      "location": 2,
+      "content": "觉得享受型的男人不适合自己了",
+      "music": 0.0
+    },
+    {
+      "from": 59.32,
+      "to": 61.36,
+      "sid": 26,
+      "location": 2,
+      "content": "要找一个共同事共同奋斗",
+      "music": 0.0
+    },
+    {
+      "from": 61.36,
+      "to": 62.52,
+      "sid": 27,
+      "location": 2,
+      "content": "事业解决问题的人呢",
+      "music": 0.0
+    },
+    {
+      "from": 62.52,
+      "to": 64.45,
+      "sid": 28,
+      "location": 2,
+      "content": "那一定是因为他现在遇到了问题",
+      "music": 0.0
+    },
+    {
+      "from": 64.45,
+      "to": 65.05,
+      "sid": 29,
+      "location": 2,
+      "content": "而且呢",
+      "music": 0.0
+    },
+    {
+      "from": 65.05,
+      "to": 68.56,
+      "sid": 30,
+      "location": 2,
+      "content": "他觉得自己在解决问题的过程当中很艰难",
+      "music": 0.0
+    },
+    {
+      "from": 68.56,
+      "to": 70.68,
+      "sid": 31,
+      "location": 2,
+      "content": "所以说她突然意识到说哎呀",
+      "music": 0.0
+    },
+    {
+      "from": 70.68,
+      "to": 73.72,
+      "sid": 32,
+      "location": 2,
+      "content": "旁边的这个男人不能够给到自己助力",
+      "music": 0.0
+    },
+    {
+      "from": 73.72,
+      "to": 77.46,
+      "sid": 33,
+      "location": 2,
+      "content": "所以他才会萌生这种想要换这种肩膀型",
+      "music": 0.0
+    },
+    {
+      "from": 77.46,
+      "to": 80.38,
+      "sid": 34,
+      "location": 2,
+      "content": "依靠型或者是共同进步型的这种男人的",
+      "music": 0.0
+    },
+    {
+      "from": 80.38,
+      "to": 82.18,
+      "sid": 35,
+      "location": 2,
+      "content": "从我现在的维度上来说啊",
+      "music": 0.0
+    },
+    {
+      "from": 82.18,
+      "to": 87.81,
+      "sid": 36,
+      "location": 2,
+      "content": "我不仅仅不想让一个男人跟我共同的去搞事业",
+      "music": 0.0
+    },
+    {
+      "from": 87.81,
+      "to": 89.27,
+      "sid": 37,
+      "location": 2,
+      "content": "跟我共同的去奋斗",
+      "music": 0.0
+    },
+    {
+      "from": 89.27,
+      "to": 90.41,
+      "sid": 38,
+      "location": 2,
+      "content": "共同去努力",
+      "music": 0.0
+    },
+    {
+      "from": 90.93,
+      "to": 95.07,
+      "sid": 39,
+      "location": 2,
+      "content": "我完完全全希望就是我的感情线",
+      "music": 0.0
+    },
+    {
+      "from": 95.07,
+      "to": 98.41,
+      "sid": 40,
+      "location": 2,
+      "content": "现在是可以彻底的脱离我的业务线的",
+      "music": 0.0
+    },
+    {
+      "from": 98.41,
+      "to": 100.05,
+      "sid": 41,
+      "location": 2,
+      "content": "就是说我现在找一个男人",
+      "music": 0.0
+    },
+    {
+      "from": 100.05,
+      "to": 103.45,
+      "sid": 42,
+      "location": 2,
+      "content": "哪怕他非常非常愿意要跟我一起去共同奋斗",
+      "music": 0.0
+    },
+    {
+      "from": 103.45,
+      "to": 105.79,
+      "sid": 43,
+      "location": 2,
+      "content": "我大概率也不太会让他",
+      "music": 0.0
+    },
+    {
+      "from": 105.79,
+      "to": 107.83,
+      "sid": 44,
+      "location": 2,
+      "content": "参与到我的事业板块中来",
+      "music": 0.0
+    },
+    {
+      "from": 107.83,
+      "to": 109.95,
+      "sid": 45,
+      "location": 2,
+      "content": "嗯当然很多年前啊",
+      "music": 0.0
+    },
+    {
+      "from": 109.95,
+      "to": 113.66,
+      "sid": 46,
+      "location": 2,
+      "content": "我也会有那种说想要找一个很强大的男人",
+      "music": 0.0
+    },
+    {
+      "from": 113.66,
+      "to": 114.7,
+      "sid": 47,
+      "location": 2,
+      "content": "来帮助我",
+      "music": 0.0
+    },
+    {
+      "from": 114.7,
+      "to": 116.34,
+      "sid": 48,
+      "location": 2,
+      "content": "来帮我长出翅膀的",
+      "music": 0.0
+    },
+    {
+      "from": 116.34,
+      "to": 117.24,
+      "sid": 49,
+      "location": 2,
+      "content": "这么一个过程",
+      "music": 0.0
+    },
+    {
+      "from": 117.24,
+      "to": 118.95,
+      "sid": 50,
+      "location": 2,
+      "content": "那这是一个过程啦",
+      "music": 0.0
+    },
+    {
+      "from": 118.95,
+      "to": 120.47,
+      "sid": 51,
+      "location": 2,
+      "content": "当然呢也有过那种过程",
+      "music": 0.0
+    },
+    {
+      "from": 120.47,
+      "to": 123.29,
+      "sid": 52,
+      "location": 2,
+      "content": "觉得说哎自己现在能力不错",
+      "music": 0.0
+    },
+    {
+      "from": 123.29,
+      "to": 124.21,
+      "sid": 53,
+      "location": 2,
+      "content": "事业也还不错",
+      "music": 0.0
+    },
+    {
+      "from": 124.21,
+      "to": 126.31,
+      "sid": 54,
+      "location": 2,
+      "content": "但是呢好像还想再往上上几个台阶",
+      "music": 0.0
+    },
+    {
+      "from": 126.31,
+      "to": 128.55,
+      "sid": 55,
+      "location": 2,
+      "content": "如果说有一个男人能够跟我一起",
+      "music": 0.0
+    },
+    {
+      "from": 128.55,
+      "to": 130.73,
+      "sid": 56,
+      "location": 2,
+      "content": "他能够去补足一些我的短板是吧",
+      "music": 0.0
+    },
+    {
+      "from": 130.73,
+      "to": 133.16,
+      "sid": 57,
+      "location": 2,
+      "content": "我们一起共同去往前走也挺好",
+      "music": 0.0
+    },
+    {
+      "from": 133.16,
+      "to": 134.9,
+      "sid": 58,
+      "location": 2,
+      "content": "但是到现在这个阶段的时候",
+      "music": 0.0
+    },
+    {
+      "from": 134.9,
+      "to": 137.76,
+      "sid": 59,
+      "location": 2,
+      "content": "我完完全全的没有了这样的想法",
+      "music": 0.0
+    },
+    {
+      "from": 137.76,
+      "to": 139.4,
+      "sid": 60,
+      "location": 2,
+      "content": "我觉得其中一个原因",
+      "music": 0.0
+    },
+    {
+      "from": 139.4,
+      "to": 141.93,
+      "sid": 61,
+      "location": 2,
+      "content": "当然是因为现在业务确实做的还不错啊",
+      "music": 0.0
+    },
+    {
+      "from": 141.93,
+      "to": 146.43,
+      "sid": 62,
+      "location": 2,
+      "content": "嗯或者说我确实已经遇到过非常非常大的一些",
+      "music": 0.0
+    },
+    {
+      "from": 146.43,
+      "to": 147.43,
+      "sid": 63,
+      "location": 2,
+      "content": "业务上的问题",
+      "music": 0.0
+    },
+    {
+      "from": 147.43,
+      "to": 148.23,
+      "sid": 64,
+      "location": 2,
+      "content": "然而这些问题呢",
+      "music": 0.0
+    },
+    {
+      "from": 148.23,
+      "to": 151.51,
+      "sid": 65,
+      "location": 2,
+      "content": "都是靠我自己一个人努力的去解决的",
+      "music": 0.0
+    },
+    {
+      "from": 151.51,
+      "to": 154.05,
+      "sid": 66,
+      "location": 2,
+      "content": "我自己想办法去破我自己的局",
+      "music": 0.0
+    },
+    {
+      "from": 154.05,
+      "to": 157.76,
+      "sid": 67,
+      "location": 2,
+      "content": "所以才让我一步一步走到了今天的这样的一个",
+      "music": 0.0
+    },
+    {
+      "from": 157.76,
+      "to": 159.02,
+      "sid": 68,
+      "location": 2,
+      "content": "业务规模和结果",
+      "music": 0.0
+    },
+    {
+      "from": 159.02,
+      "to": 162.08,
+      "sid": 69,
+      "location": 2,
+      "content": "这里面的本来就没有任何的一个男人去助力",
+      "music": 0.0
+    },
+    {
+      "from": 162.08,
+      "to": 163.49,
+      "sid": 70,
+      "location": 2,
+      "content": "与我完成这件事儿",
+      "music": 0.0
+    },
+    {
+      "from": 163.49,
+      "to": 164.77,
+      "sid": 71,
+      "location": 2,
+      "content": "所以呢在这个过程当中",
+      "music": 0.0
+    },
+    {
+      "from": 164.77,
+      "to": 167.8,
+      "sid": 72,
+      "location": 2,
+      "content": "我的自信心得到了一个很大很大的正反馈",
+      "music": 0.0
+    },
+    {
+      "from": 167.8,
+      "to": 169.3,
+      "sid": 73,
+      "location": 2,
+      "content": "这是其中一个原因啊",
+      "music": 0.0
+    },
+    {
+      "from": 169.3,
+      "to": 171.84,
+      "sid": 74,
+      "location": 2,
+      "content": "另外一个原因呢我觉得一个更深层次的是",
+      "music": 0.0
+    },
+    {
+      "from": 171.84,
+      "to": 174.25,
+      "sid": 75,
+      "location": 2,
+      "content": "因为我内心当中的整个的道",
+      "music": 0.0
+    },
+    {
+      "from": 174.25,
+      "to": 178.21,
+      "sid": 76,
+      "location": 2,
+      "content": "已经完完全全跟以前不在一个状态下面了",
+      "music": 0.0
+    },
+    {
+      "from": 179.21,
+      "to": 180.53,
+      "sid": 77,
+      "location": 2,
+      "content": "嗯这个道是什么呢",
+      "music": 0.0
+    },
+    {
+      "from": 180.53,
+      "to": 182.63,
+      "sid": 78,
+      "location": 2,
+      "content": "就是啧以前啊",
+      "music": 0.0
+    },
+    {
+      "from": 182.63,
+      "to": 186.13,
+      "sid": 79,
+      "location": 2,
+      "content": "我们总是还是会把自己放在一个女人的角色上",
+      "music": 0.0
+    },
+    {
+      "from": 186.13,
+      "to": 187.04,
+      "sid": 80,
+      "location": 2,
+      "content": "去看待问题",
+      "music": 0.0
+    },
+    {
+      "from": 187.04,
+      "to": 190.22,
+      "sid": 81,
+      "location": 2,
+      "content": "当我用女人这个性别去框住自己的时候呢",
+      "music": 0.0
+    },
+    {
+      "from": 190.22,
+      "to": 194.94,
+      "sid": 82,
+      "location": 2,
+      "content": "总会觉得说嗯我是需要男人来助力于我",
+      "music": 0.0
+    },
+    {
+      "from": 194.94,
+      "to": 196.08,
+      "sid": 83,
+      "location": 2,
+      "content": "完成一些什么的",
+      "music": 0.0
+    },
+    {
+      "from": 196.08,
+      "to": 199.28,
+      "sid": 84,
+      "location": 2,
+      "content": "或者说有的男人能够做的一些事",
+      "music": 0.0
+    },
+    {
+      "from": 199.28,
+      "to": 202.75,
+      "sid": 85,
+      "location": 2,
+      "content": "可能我自己确确实实会做不到",
+      "music": 0.0
+    },
+    {
+      "from": 202.75,
+      "to": 204.51,
+      "sid": 86,
+      "location": 2,
+      "content": "可能以前没有这么明确的想过",
+      "music": 0.0
+    },
+    {
+      "from": 204.51,
+      "to": 206.11,
+      "sid": 87,
+      "location": 2,
+      "content": "是不是男人做的事我一定做不到",
+      "music": 0.0
+    },
+    {
+      "from": 206.11,
+      "to": 207.64,
+      "sid": 88,
+      "location": 2,
+      "content": "但是潜意识里",
+      "music": 0.0
+    },
+    {
+      "from": 207.64,
+      "to": 209.96,
+      "sid": 89,
+      "location": 2,
+      "content": "我觉得多多少少的会有这样这样一些想法",
+      "music": 0.0
+    },
+    {
+      "from": 209.96,
+      "to": 211.74,
+      "sid": 90,
+      "location": 2,
+      "content": "或者总是觉得说好像",
+      "music": 0.0
+    },
+    {
+      "from": 211.74,
+      "to": 215.74,
+      "sid": 91,
+      "location": 2,
+      "content": "嗯男人从嗯他们的社会角色的维度啊",
+      "music": 0.0
+    },
+    {
+      "from": 215.74,
+      "to": 219.39,
+      "sid": 92,
+      "location": 2,
+      "content": "或者说现在的掌权的这样一些面积的维度",
+      "music": 0.0
+    },
+    {
+      "from": 219.97,
+      "to": 221.39,
+      "sid": 93,
+      "location": 2,
+      "content": "或者他们体能的维度",
+      "music": 0.0
+    },
+    {
+      "from": 221.39,
+      "to": 223.41,
+      "sid": 94,
+      "location": 2,
+      "content": "总会觉得他们在创业这件事情上面",
+      "music": 0.0
+    },
+    {
+      "from": 223.41,
+      "to": 226.82,
+      "sid": 95,
+      "location": 2,
+      "content": "可能天然就具备着一些优越感嗯优势",
+      "music": 0.0
+    },
+    {
+      "from": 226.82,
+      "to": 231.45,
+      "sid": 96,
+      "location": 2,
+      "content": "那这些优势可能还包括他们能够更好地去链接",
+      "music": 0.0
+    },
+    {
+      "from": 231.45,
+      "to": 234.19,
+      "sid": 97,
+      "location": 2,
+      "content": "这些所谓的当权者的人际关系吧",
+      "music": 0.0
+    },
+    {
+      "from": 234.19,
+      "to": 236.36,
+      "sid": 98,
+      "location": 2,
+      "content": "啊但是我现在的道呢",
+      "music": 0.0
+    },
+    {
+      "from": 236.36,
+      "to": 237.68,
+      "sid": 99,
+      "location": 2,
+      "content": "整个就是变换到了",
+      "music": 0.0
+    },
+    {
+      "from": 237.68,
+      "to": 241.77,
+      "sid": 100,
+      "location": 2,
+      "content": "说我认为我不是一个女人的角色的创业者",
+      "music": 0.0
+    },
+    {
+      "from": 241.77,
+      "to": 243.93,
+      "sid": 101,
+      "location": 2,
+      "content": "而是我就是一个创业者",
+      "music": 0.0
+    },
+    {
+      "from": 243.93,
+      "to": 246.41,
+      "sid": 102,
+      "location": 2,
+      "content": "或者说我认为我就是一个大佬",
+      "music": 0.0
+    },
+    {
+      "from": 246.41,
+      "to": 249.79,
+      "sid": 103,
+      "location": 2,
+      "content": "或者说我未来也一会一定会成为一个大佬",
+      "music": 0.0
+    },
+    {
+      "from": 249.79,
+      "to": 251.35,
+      "sid": 104,
+      "location": 2,
+      "content": "那这里面的区别是什么呢",
+      "music": 0.0
+    },
+    {
+      "from": 251.35,
+      "to": 254.63,
+      "sid": 105,
+      "location": 2,
+      "content": "就是当我意识到我是一个完完全全",
+      "music": 0.0
+    },
+    {
+      "from": 254.63,
+      "to": 256.279,
+      "sid": 106,
+      "location": 2,
+      "content": "独立成长的大树的时候",
+      "music": 0.0
+    },
+    {
+      "from": 256.279,
+      "to": 258.659,
+      "sid": 107,
+      "location": 2,
+      "content": "我会觉得独立解决问题",
+      "music": 0.0
+    },
+    {
+      "from": 258.659,
+      "to": 260.599,
+      "sid": 108,
+      "location": 2,
+      "content": "独立的对抗风险",
+      "music": 0.0
+    },
+    {
+      "from": 260.599,
+      "to": 264.32,
+      "sid": 109,
+      "location": 2,
+      "content": "这就是我的使命当中很重要的一个部分",
+      "music": 0.0
+    },
+    {
+      "from": 264.32,
+      "to": 267.42,
+      "sid": 110,
+      "location": 2,
+      "content": "这也是验证我的能力的很重要的一个部分",
+      "music": 0.0
+    },
+    {
+      "from": 267.42,
+      "to": 269.56,
+      "sid": 111,
+      "location": 2,
+      "content": "当我已经走到今天这个维度的时候",
+      "music": 0.0
+    },
+    {
+      "from": 269.56,
+      "to": 270.48,
+      "sid": 112,
+      "location": 2,
+      "content": "我就知道",
+      "music": 0.0
+    },
+    {
+      "from": 270.48,
+      "to": 271.94,
+      "sid": 113,
+      "location": 2,
+      "content": "哪怕是男人",
+      "music": 0.0
+    },
+    {
+      "from": 271.94,
+      "to": 274.02,
+      "sid": 114,
+      "location": 2,
+      "content": "绝大部分他也是不如我的",
+      "music": 0.0
+    },
+    {
+      "from": 274.02,
+      "to": 276.26,
+      "sid": 115,
+      "location": 2,
+      "content": "就是他面对问题的能力",
+      "music": 0.0
+    },
+    {
+      "from": 276.26,
+      "to": 277.28,
+      "sid": 116,
+      "location": 2,
+      "content": "解决问题的能力",
+      "music": 0.0
+    },
+    {
+      "from": 277.28,
+      "to": 279.949,
+      "sid": 117,
+      "location": 2,
+      "content": "或者说对于巨大的风险来临之时",
+      "music": 0.0
+    },
+    {
+      "from": 279.949,
+      "to": 281.189,
+      "sid": 118,
+      "location": 2,
+      "content": "他的心态的稳定能力",
+      "music": 0.0
+    },
+    {
+      "from": 281.189,
+      "to": 285.17,
+      "sid": 119,
+      "location": 2,
+      "content": "我认为绝大部分他都是不可能比我更强的",
+      "music": 0.0
+    },
+    {
+      "from": 285.17,
+      "to": 287.15,
+      "sid": 120,
+      "location": 2,
+      "content": "否则的话我走不到今天",
+      "music": 0.0
+    },
+    {
+      "from": 287.15,
+      "to": 290.03,
+      "sid": 121,
+      "location": 2,
+      "content": "所以当我意识到这样的一个非常清晰的一个",
+      "music": 0.0
+    },
+    {
+      "from": 290.03,
+      "to": 291.87,
+      "sid": 122,
+      "location": 2,
+      "content": "事实层面的东西的时候",
+      "music": 0.0
+    },
+    {
+      "from": 291.87,
+      "to": 297.3,
+      "sid": 123,
+      "location": 2,
+      "content": "那我发现其实以前把自己作为女人这个角色",
+      "music": 0.0
+    },
+    {
+      "from": 297.3,
+      "to": 300.64,
+      "sid": 124,
+      "location": 2,
+      "content": "那么其实是弱者心态或者弱势心态",
+      "music": 0.0
+    },
+    {
+      "from": 300.64,
+      "to": 302.84,
+      "sid": 125,
+      "location": 2,
+      "content": "他在潜意识里面是在作祟的",
+      "music": 0.0
+    },
+    {
+      "from": 302.84,
+      "to": 304.32,
+      "sid": 126,
+      "location": 2,
+      "content": "然而现在对于我来说",
+      "music": 0.0
+    },
+    {
+      "from": 304.32,
+      "to": 307.76,
+      "sid": 127,
+      "location": 2,
+      "content": "我认为感情它完完全全就是一个补充剂",
+      "music": 0.0
+    },
+    {
+      "from": 308.37,
+      "to": 311.23,
+      "sid": 128,
+      "location": 2,
+      "content": "他的存在是为了平衡我的荷尔蒙",
+      "music": 0.0
+    },
+    {
+      "from": 311.23,
+      "to": 312.7,
+      "sid": 129,
+      "location": 2,
+      "content": "稳定我的情绪",
+      "music": 0.0
+    },
+    {
+      "from": 312.7,
+      "to": 314.44,
+      "sid": 130,
+      "location": 2,
+      "content": "或者说在我工作非常疲惫",
+      "music": 0.0
+    },
+    {
+      "from": 314.44,
+      "to": 316.62,
+      "sid": 131,
+      "location": 2,
+      "content": "或者是处理问题非常焦头烂额的时候",
+      "music": 0.0
+    },
+    {
+      "from": 316.62,
+      "to": 320.91,
+      "sid": 132,
+      "location": 2,
+      "content": "来到来给到我充电的这么一个工具啊",
+      "music": 0.0
+    },
+    {
+      "from": 320.91,
+      "to": 324.79,
+      "sid": 133,
+      "location": 2,
+      "content": "它能且只能在我的整个事业板块中",
+      "music": 0.0
+    },
+    {
+      "from": 324.79,
+      "to": 326.51,
+      "sid": 134,
+      "location": 2,
+      "content": "充当一个这样的角色了",
+      "music": 0.0
+    },
+    {
+      "from": 326.51,
+      "to": 329.73,
+      "sid": 135,
+      "location": 2,
+      "content": "而深度的绑定事业或者共同发展这件事",
+      "music": 0.0
+    },
+    {
+      "from": 329.73,
+      "to": 330.61,
+      "sid": 136,
+      "location": 2,
+      "content": "于我们而言",
+      "music": 0.0
+    },
+    {
+      "from": 330.61,
+      "to": 334.15,
+      "sid": 137,
+      "location": 2,
+      "content": "甚至于从嗯机会变成了风险",
+      "music": 0.0
+    },
+    {
+      "from": 334.15,
+      "to": 336.11,
+      "sid": 138,
+      "location": 2,
+      "content": "我觉得如果当我意识到",
+      "music": 0.0
+    },
+    {
+      "from": 336.11,
+      "to": 339.01,
+      "sid": 139,
+      "location": 2,
+      "content": "绝大部分的人都不可能比我更强",
+      "music": 0.0
+    },
+    {
+      "from": 339.01,
+      "to": 340.25,
+      "sid": 140,
+      "location": 2,
+      "content": "比我更厉害的时候",
+      "music": 0.0
+    },
+    {
+      "from": 340.25,
+      "to": 343.35,
+      "sid": 141,
+      "location": 2,
+      "content": "我还要拉着这个人来跟我一起做事",
+      "music": 0.0
+    },
+    {
+      "from": 343.35,
+      "to": 347.92,
+      "sid": 142,
+      "location": 2,
+      "content": "我觉得他能够给到我的赋能可能会大大的小于",
+      "music": 0.0
+    },
+    {
+      "from": 347.92,
+      "to": 349.16,
+      "sid": 143,
+      "location": 2,
+      "content": "他会给到我的内耗",
+      "music": 0.0
+    },
+    {
+      "from": 349.16,
+      "to": 352.33,
+      "sid": 144,
+      "location": 2,
+      "content": "因为男人他也会有他自己的一个意识",
+      "music": 0.0
+    },
+    {
+      "from": 352.33,
+      "to": 354.75,
+      "sid": 145,
+      "location": 2,
+      "content": "他会有他想要做的决策",
+      "music": 0.0
+    },
+    {
+      "from": 354.75,
+      "to": 356.89,
+      "sid": 146,
+      "location": 2,
+      "content": "当他跟你处在一个情感关系当中的时候",
+      "music": 0.0
+    },
+    {
+      "from": 356.89,
+      "to": 359.4,
+      "sid": 147,
+      "location": 2,
+      "content": "那么就算我的股份多",
+      "music": 0.0
+    },
+    {
+      "from": 359.4,
+      "to": 359.96,
+      "sid": 148,
+      "location": 2,
+      "content": "他的股份少",
+      "music": 0.0
+    },
+    {
+      "from": 359.96,
+      "to": 360.8,
+      "sid": 149,
+      "location": 2,
+      "content": "或者说我是老板",
+      "music": 0.0
+    },
+    {
+      "from": 360.8,
+      "to": 361.78,
+      "sid": 150,
+      "location": 2,
+      "content": "他不是老板",
+      "music": 0.0
+    },
+    {
+      "from": 361.78,
+      "to": 365.88,
+      "sid": 151,
+      "location": 2,
+      "content": "他也会试图用情感来绑架我",
+      "music": 0.0
+    },
+    {
+      "from": 365.88,
+      "to": 368.8,
+      "sid": 152,
+      "location": 2,
+      "content": "或者说他也试图因为我们之间的这种情感关系",
+      "music": 0.0
+    },
+    {
+      "from": 368.8,
+      "to": 371.39,
+      "sid": 153,
+      "location": 2,
+      "content": "而跟我产生所谓平起平坐的对话",
+      "music": 0.0
+    },
+    {
+      "from": 371.39,
+      "to": 374.79,
+      "sid": 154,
+      "location": 2,
+      "content": "那么我可能在想要独立的去为这个公司",
+      "music": 0.0
+    },
+    {
+      "from": 374.79,
+      "to": 377.19,
+      "sid": 155,
+      "location": 2,
+      "content": "为我们的事业做一些决策的时候",
+      "music": 0.0
+    },
+    {
+      "from": 377.19,
+      "to": 380.309,
+      "sid": 156,
+      "location": 2,
+      "content": "就会有形或者无形的受到他的干扰",
+      "music": 0.0
+    },
+    {
+      "from": 380.309,
+      "to": 384.5,
+      "sid": 157,
+      "location": 2,
+      "content": "所以我想如果我想要把这个事业做到真正的",
+      "music": 0.0
+    },
+    {
+      "from": 384.5,
+      "to": 387.02,
+      "sid": 158,
+      "location": 2,
+      "content": "非常非常大的这样的维度",
+      "music": 0.0
+    },
+    {
+      "from": 387.02,
+      "to": 392.73,
+      "sid": 159,
+      "location": 2,
+      "content": "我不仅仅不应该试图去借助所谓的这些男人的",
+      "music": 0.0
+    },
+    {
+      "from": 392.73,
+      "to": 393.95,
+      "sid": 160,
+      "location": 2,
+      "content": "这些小小的力量",
+      "music": 0.0
+    },
+    {
+      "from": 393.95,
+      "to": 397.89,
+      "sid": 161,
+      "location": 2,
+      "content": "我甚至于更重要的一件事情应该是相信我自己",
+      "music": 0.0
+    },
+    {
+      "from": 397.89,
+      "to": 402.57,
+      "sid": 162,
+      "location": 2,
+      "content": "你能够从0~1到10~100走到今天",
+      "music": 0.0
+    },
+    {
+      "from": 402.57,
+      "to": 406.27,
+      "sid": 163,
+      "location": 2,
+      "content": "那么你就有能力去创造更大的未来",
+      "music": 0.0
+    },
+    {
+      "from": 406.27,
+      "to": 407.97,
+      "sid": 164,
+      "location": 2,
+      "content": "而有些人的使命",
+      "music": 0.0
+    },
+    {
+      "from": 407.97,
+      "to": 410.95,
+      "sid": 165,
+      "location": 2,
+      "content": "就应该是来到这个世界上去创造的",
+      "music": 0.0
+    },
+    {
+      "from": 410.95,
+      "to": 413.35,
+      "sid": 166,
+      "location": 2,
+      "content": "当我们创造出足够大的未来之后",
+      "music": 0.0
+    },
+    {
+      "from": 413.35,
+      "to": 414.89,
+      "sid": 167,
+      "location": 2,
+      "content": "对于男人也好",
+      "music": 0.0
+    },
+    {
+      "from": 414.89,
+      "to": 416.85,
+      "sid": 168,
+      "location": 2,
+      "content": "或者说对于所有的人也好",
+      "music": 0.0
+    },
+    {
+      "from": 416.85,
+      "to": 419.14,
+      "sid": 169,
+      "location": 2,
+      "content": "我们都应该是一个付出者的角色",
+      "music": 0.0
+    },
+    {
+      "from": 419.14,
+      "to": 421.44,
+      "sid": 170,
+      "location": 2,
+      "content": "我去付出更多的薪水",
+      "music": 0.0
+    },
+    {
+      "from": 421.44,
+      "to": 424.34,
+      "sid": 171,
+      "location": 2,
+      "content": "或者我去付出更多的关注",
+      "music": 0.0
+    },
+    {
+      "from": 424.34,
+      "to": 427.16,
+      "sid": 172,
+      "location": 2,
+      "content": "或者我去付出我的策略",
+      "music": 0.0
+    },
+    {
+      "from": 427.16,
+      "to": 428.76,
+      "sid": 173,
+      "location": 2,
+      "content": "帮助别人解决问题",
+      "music": 0.0
+    },
+    {
+      "from": 428.76,
+      "to": 430.73,
+      "sid": 174,
+      "location": 2,
+      "content": "或者我去付出更多的爱",
+      "music": 0.0
+    },
+    {
+      "from": 430.73,
+      "to": 431.37,
+      "sid": 175,
+      "location": 2,
+      "content": "我觉得",
+      "music": 0.0
+    },
+    {
+      "from": 431.37,
+      "to": 433.59,
+      "sid": 176,
+      "location": 2,
+      "content": "当我们的这个道发生根本性的改变的时候",
+      "music": 0.0
+    },
+    {
+      "from": 433.59,
+      "to": 437.53,
+      "sid": 177,
+      "location": 2,
+      "content": "你就会彻彻底底的成为一个强者的形象",
+      "music": 0.0
+    }
+  ]
+}

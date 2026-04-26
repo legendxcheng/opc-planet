@@ -1,0 +1,2996 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.0,
+      "to": 1.72,
+      "sid": 1,
+      "location": 2,
+      "content": "今天我们要飞1500km",
+      "music": 0.0
+    },
+    {
+      "from": 1.72,
+      "to": 4.76,
+      "sid": 2,
+      "location": 2,
+      "content": "去京都吃一顿米其林两星的怀石料理",
+      "music": 0.0
+    },
+    {
+      "from": 4.76,
+      "to": 6.9,
+      "sid": 3,
+      "location": 2,
+      "content": "这个菜单呢两页纸啊",
+      "music": 0.0
+    },
+    {
+      "from": 6.9,
+      "to": 10.04,
+      "sid": 4,
+      "location": 2,
+      "content": "看看人均5万日元的套餐到底吃什么啊",
+      "music": 0.0
+    },
+    {
+      "from": 10.04,
+      "to": 12.04,
+      "sid": 5,
+      "location": 2,
+      "content": "我觉得比鱼和蟹都好吃",
+      "music": 0.0
+    },
+    {
+      "from": 12.04,
+      "to": 14.52,
+      "sid": 6,
+      "location": 2,
+      "content": "那我们还要在京都来个三天两夜之旅",
+      "music": 0.0
+    },
+    {
+      "from": 14.52,
+      "to": 17.68,
+      "sid": 7,
+      "location": 2,
+      "content": "看看京都到底有什么好吃好玩好住好买的走吧",
+      "music": 0.0
+    },
+    {
+      "from": 17.68,
+      "to": 18.89,
+      "sid": 8,
+      "location": 2,
+      "content": "登机啦登机啦",
+      "music": 0.0
+    },
+    {
+      "from": 18.89,
+      "to": 20.25,
+      "sid": 9,
+      "location": 2,
+      "content": "今天就坐这一班飞机",
+      "music": 0.0
+    },
+    {
+      "from": 23.09,
+      "to": 24.37,
+      "sid": 10,
+      "location": 2,
+      "content": "你好你好",
+      "music": 0.0
+    },
+    {
+      "from": 24.37,
+      "to": 25.5,
+      "sid": 11,
+      "location": 2,
+      "content": "欢迎您好",
+      "music": 0.0
+    },
+    {
+      "from": 25.5,
+      "to": 27.08,
+      "sid": 12,
+      "location": 2,
+      "content": "1K就在这边",
+      "music": 0.0
+    },
+    {
+      "from": 27.08,
+      "to": 28.92,
+      "sid": 13,
+      "location": 2,
+      "content": "这个是一般的中飞机",
+      "music": 0.0
+    },
+    {
+      "from": 28.92,
+      "to": 29.84,
+      "sid": 14,
+      "location": 2,
+      "content": "也没什么好期待的",
+      "music": 0.0
+    },
+    {
+      "from": 29.84,
+      "to": 30.96,
+      "sid": 15,
+      "location": 2,
+      "content": "我们大阪见",
+      "music": 0.0
+    },
+    {
+      "from": 30.96,
+      "to": 33.32,
+      "sid": 16,
+      "location": 2,
+      "content": "起飞啦起飞啦",
+      "music": 0.0
+    },
+    {
+      "from": 37.52,
+      "to": 39.4,
+      "sid": 17,
+      "location": 2,
+      "content": "照烧鸡腿飞机餐",
+      "music": 0.0
+    },
+    {
+      "from": 39.4,
+      "to": 40.94,
+      "sid": 18,
+      "location": 2,
+      "content": "味道还可以",
+      "music": 0.0
+    },
+    {
+      "from": 40.94,
+      "to": 43.98,
+      "sid": 19,
+      "location": 2,
+      "content": "两个半小时到大阪啦",
+      "music": 0.0
+    },
+    {
+      "from": 44.26,
+      "to": 47.02,
+      "sid": 20,
+      "location": 2,
+      "content": "关西机场搭车去进入了大卡路卡",
+      "music": 0.0
+    },
+    {
+      "from": 49.06,
+      "to": 50.82,
+      "sid": 21,
+      "location": 2,
+      "content": "上车了上车了",
+      "music": 0.0
+    },
+    {
+      "from": 55.44,
+      "to": 56.64,
+      "sid": 22,
+      "location": 2,
+      "content": "记录来啦",
+      "music": 0.0
+    },
+    {
+      "from": 57.64,
+      "to": 59.36,
+      "sid": 23,
+      "location": 2,
+      "content": "搭了个老爷爷开的计程车",
+      "music": 0.0
+    },
+    {
+      "from": 59.36,
+      "to": 60.9,
+      "sid": 24,
+      "location": 2,
+      "content": "粉红短裤加拖鞋",
+      "music": 0.0
+    },
+    {
+      "from": 60.9,
+      "to": 61.86,
+      "sid": 25,
+      "location": 2,
+      "content": "很率性",
+      "music": 0.0
+    },
+    {
+      "from": 61.86,
+      "to": 64.44,
+      "sid": 26,
+      "location": 2,
+      "content": "到这次住宿的饭店啦",
+      "music": 0.0
+    },
+    {
+      "from": 66.8,
+      "to": 68.88,
+      "sid": 27,
+      "location": 2,
+      "content": "来先看看我们京都住的旅馆啊",
+      "music": 0.0
+    },
+    {
+      "from": 70.6,
+      "to": 73.58,
+      "sid": 28,
+      "location": 2,
+      "content": "戴尔兰这次做的就不大了",
+      "music": 0.0
+    },
+    {
+      "from": 73.58,
+      "to": 75.5,
+      "sid": 29,
+      "location": 2,
+      "content": "大概就四十一二平米吧",
+      "music": 0.0
+    },
+    {
+      "from": 75.5,
+      "to": 76.86,
+      "sid": 30,
+      "location": 2,
+      "content": "这边是浴室",
+      "music": 0.0
+    },
+    {
+      "from": 76.86,
+      "to": 77.76,
+      "sid": 31,
+      "location": 2,
+      "content": "大家看一下",
+      "music": 0.0
+    },
+    {
+      "from": 77.76,
+      "to": 78.82,
+      "sid": 32,
+      "location": 2,
+      "content": "里面还有个浴缸",
+      "music": 0.0
+    },
+    {
+      "from": 78.82,
+      "to": 81.68,
+      "sid": 33,
+      "location": 2,
+      "content": "厕所在对面拉开来诶",
+      "music": 0.0
+    },
+    {
+      "from": 81.68,
+      "to": 82.44,
+      "sid": 34,
+      "location": 2,
+      "content": "小厕所",
+      "music": 0.0
+    },
+    {
+      "from": 82.44,
+      "to": 83.82,
+      "sid": 35,
+      "location": 2,
+      "content": "然后再来就房间",
+      "music": 0.0
+    },
+    {
+      "from": 83.82,
+      "to": 85.28,
+      "sid": 36,
+      "location": 2,
+      "content": "房间呢就是一张大床",
+      "music": 0.0
+    },
+    {
+      "from": 85.28,
+      "to": 86.26,
+      "sid": 37,
+      "location": 2,
+      "content": "然后两个桌子",
+      "music": 0.0
+    },
+    {
+      "from": 86.26,
+      "to": 87.1,
+      "sid": 38,
+      "location": 2,
+      "content": "椅子放在这边",
+      "music": 0.0
+    },
+    {
+      "from": 87.1,
+      "to": 89.4,
+      "sid": 39,
+      "location": 2,
+      "content": "不过他这边呢看出去呢是京都的市井",
+      "music": 0.0
+    },
+    {
+      "from": 89.4,
+      "to": 92.08,
+      "sid": 40,
+      "location": 2,
+      "content": "而且地点呢就在清水寺旁边",
+      "music": 0.0
+    },
+    {
+      "from": 92.08,
+      "to": 93.56,
+      "sid": 41,
+      "location": 2,
+      "content": "我们现在去八坂神社看看",
+      "music": 0.0
+    },
+    {
+      "from": 93.56,
+      "to": 94.74,
+      "sid": 42,
+      "location": 2,
+      "content": "据说晚上很漂亮",
+      "music": 0.0
+    },
+    {
+      "from": 94.74,
+      "to": 96.9,
+      "sid": 43,
+      "location": 2,
+      "content": "走晚上08:30二点半走走",
+      "music": 0.0
+    },
+    {
+      "from": 96.9,
+      "to": 97.84,
+      "sid": 44,
+      "location": 2,
+      "content": "挺舒服的",
+      "music": 0.0
+    },
+    {
+      "from": 97.84,
+      "to": 98.68,
+      "sid": 45,
+      "location": 2,
+      "content": "都没人",
+      "music": 0.0
+    },
+    {
+      "from": 98.68,
+      "to": 100.34,
+      "sid": 46,
+      "location": 2,
+      "content": "唯一一家还开着店家",
+      "music": 0.0
+    },
+    {
+      "from": 100.34,
+      "to": 102.72,
+      "sid": 47,
+      "location": 2,
+      "content": "晚上的八坂塔还是挺漂亮的",
+      "music": 0.0
+    },
+    {
+      "from": 102.72,
+      "to": 105.58,
+      "sid": 48,
+      "location": 2,
+      "content": "嗯到八坂神社了",
+      "music": 0.0
+    },
+    {
+      "from": 105.58,
+      "to": 107.12,
+      "sid": 49,
+      "location": 2,
+      "content": "走去看看",
+      "music": 0.0
+    },
+    {
+      "from": 110.08,
+      "to": 113.12,
+      "sid": 50,
+      "location": 2,
+      "content": "前面这个就是大家晚上来的八坂神社的景点",
+      "music": 0.0
+    },
+    {
+      "from": 113.12,
+      "to": 115.8,
+      "sid": 51,
+      "location": 2,
+      "content": "那这个八坂神社是全日本3000多个",
+      "music": 0.0
+    },
+    {
+      "from": 115.8,
+      "to": 117.06,
+      "sid": 52,
+      "location": 2,
+      "content": "八坂神社的总社",
+      "music": 0.0
+    },
+    {
+      "from": 117.06,
+      "to": 121.23,
+      "sid": 53,
+      "location": 2,
+      "content": "一开始是神道跟佛教合一的这个紫源社",
+      "music": 0.0
+    },
+    {
+      "from": 121.23,
+      "to": 123.35,
+      "sid": 54,
+      "location": 2,
+      "content": "那后来出台了一个神佛分离令",
+      "music": 0.0
+    },
+    {
+      "from": 123.35,
+      "to": 125.29,
+      "sid": 55,
+      "location": 2,
+      "content": "照片就改为八坂神社",
+      "music": 0.0
+    },
+    {
+      "from": 125.29,
+      "to": 128.46,
+      "sid": 56,
+      "location": 2,
+      "content": "它最重要的活动是每年7月的紫园祭",
+      "music": 0.0
+    },
+    {
+      "from": 128.46,
+      "to": 131.46,
+      "sid": 57,
+      "location": 2,
+      "content": "会有几10万人来这边就是消灾祈福诶",
+      "music": 0.0
+    },
+    {
+      "from": 131.46,
+      "to": 133.62,
+      "sid": 58,
+      "location": 2,
+      "content": "这灯笼上面好像写了很多店的名字啊",
+      "music": 0.0
+    },
+    {
+      "from": 133.62,
+      "to": 135.63,
+      "sid": 59,
+      "location": 2,
+      "content": "是不是捐钱就有个灯笼啊",
+      "music": 0.0
+    },
+    {
+      "from": 135.63,
+      "to": 136.15,
+      "sid": 60,
+      "location": 2,
+      "content": "走吧",
+      "music": 0.0
+    },
+    {
+      "from": 136.15,
+      "to": 137.01,
+      "sid": 61,
+      "location": 2,
+      "content": "肚子饿了",
+      "music": 0.0
+    },
+    {
+      "from": 137.01,
+      "to": 138.39,
+      "sid": 62,
+      "location": 2,
+      "content": "随便找一家小店吃啊",
+      "music": 0.0
+    },
+    {
+      "from": 138.39,
+      "to": 143.15,
+      "sid": 63,
+      "location": 2,
+      "content": "看one two three four来找一个do",
+      "music": 0.0
+    },
+    {
+      "from": 144.41,
+      "to": 146.35,
+      "sid": 64,
+      "location": 2,
+      "content": "这边还有鸡肉刺身的",
+      "music": 0.0
+    },
+    {
+      "from": 146.35,
+      "to": 147.29,
+      "sid": 65,
+      "location": 2,
+      "content": "来两个菜",
+      "music": 0.0
+    },
+    {
+      "from": 147.29,
+      "to": 148.35,
+      "sid": 66,
+      "location": 2,
+      "content": "鸡翅跟猪排",
+      "music": 0.0
+    },
+    {
+      "from": 148.35,
+      "to": 149.75,
+      "sid": 67,
+      "location": 2,
+      "content": "我们先吃下这个猪排啊",
+      "music": 0.0
+    },
+    {
+      "from": 149.75,
+      "to": 152.37,
+      "sid": 68,
+      "location": 2,
+      "content": "这是京都的猪肉",
+      "music": 0.0
+    },
+    {
+      "from": 153.9,
+      "to": 154.88,
+      "sid": 69,
+      "location": 2,
+      "content": "外面焦香",
+      "music": 0.0
+    },
+    {
+      "from": 154.88,
+      "to": 155.84,
+      "sid": 70,
+      "location": 2,
+      "content": "嚼起来有嚼劲",
+      "music": 0.0
+    },
+    {
+      "from": 155.84,
+      "to": 156.54,
+      "sid": 71,
+      "location": 2,
+      "content": "蛮香的",
+      "music": 0.0
+    },
+    {
+      "from": 156.54,
+      "to": 158.34,
+      "sid": 72,
+      "location": 2,
+      "content": "明太子鸡翅",
+      "music": 0.0
+    },
+    {
+      "from": 160.12,
+      "to": 162.16,
+      "sid": 73,
+      "location": 2,
+      "content": "哇皮脆肉嫩",
+      "music": 0.0
+    },
+    {
+      "from": 162.16,
+      "to": 164.06,
+      "sid": 74,
+      "location": 2,
+      "content": "里面满满是明太子嗯",
+      "music": 0.0
+    },
+    {
+      "from": 164.06,
+      "to": 165.68,
+      "sid": 75,
+      "location": 2,
+      "content": "不错不错",
+      "music": 0.0
+    },
+    {
+      "from": 166.81,
+      "to": 169.05,
+      "sid": 76,
+      "location": 2,
+      "content": "I grew chicken sou",
+      "music": 0.11188810406376602
+    },
+    {
+      "from": 169.05,
+      "to": 169.41,
+      "sid": 77,
+      "location": 2,
+      "content": "对",
+      "music": 0.0
+    },
+    {
+      "from": 169.41,
+      "to": 170.97,
+      "sid": 78,
+      "location": 2,
+      "content": "来了个盐烧的鸡腿肉",
+      "music": 0.0
+    },
+    {
+      "from": 170.97,
+      "to": 173.52,
+      "sid": 79,
+      "location": 2,
+      "content": "其实或者是想点雅KETORY的",
+      "music": 0.0
+    },
+    {
+      "from": 173.52,
+      "to": 174.44,
+      "sid": 80,
+      "location": 2,
+      "content": "找错了店",
+      "music": 0.0
+    },
+    {
+      "from": 174.44,
+      "to": 175.44,
+      "sid": 81,
+      "location": 2,
+      "content": "点错了东西",
+      "music": 0.0
+    },
+    {
+      "from": 175.44,
+      "to": 176.28,
+      "sid": 82,
+      "location": 2,
+      "content": "吃了就吃了",
+      "music": 0.0
+    },
+    {
+      "from": 176.28,
+      "to": 177.88,
+      "sid": 83,
+      "location": 2,
+      "content": "试试看",
+      "music": 0.0
+    },
+    {
+      "from": 180.56,
+      "to": 182.16,
+      "sid": 84,
+      "location": 2,
+      "content": "嗯鸡肉嫩",
+      "music": 0.0
+    },
+    {
+      "from": 182.16,
+      "to": 183.18,
+      "sid": 85,
+      "location": 2,
+      "content": "上面皮带点脆",
+      "music": 0.0
+    },
+    {
+      "from": 183.18,
+      "to": 184.6,
+      "sid": 86,
+      "location": 2,
+      "content": "这应该是养殖鸡的",
+      "music": 0.0
+    },
+    {
+      "from": 184.6,
+      "to": 185.98,
+      "sid": 87,
+      "location": 2,
+      "content": "但是软嫩多汁啊",
+      "music": 0.0
+    },
+    {
+      "from": 185.98,
+      "to": 186.6,
+      "sid": 88,
+      "location": 2,
+      "content": "好吃好吃",
+      "music": 0.0
+    },
+    {
+      "from": 186.6,
+      "to": 188.23,
+      "sid": 89,
+      "location": 2,
+      "content": "我觉得是不错的",
+      "music": 0.0
+    },
+    {
+      "from": 188.65,
+      "to": 190.07,
+      "sid": 90,
+      "location": 2,
+      "content": "Teriai chicken",
+      "music": 0.0
+    },
+    {
+      "from": 190.07,
+      "to": 191.59,
+      "sid": 91,
+      "location": 2,
+      "content": "最后还上了个chicken",
+      "music": 0.0
+    },
+    {
+      "from": 191.59,
+      "to": 192.99,
+      "sid": 92,
+      "location": 2,
+      "content": "TERIAI照烧鸡",
+      "music": 0.0
+    },
+    {
+      "from": 192.99,
+      "to": 195.15,
+      "sid": 93,
+      "location": 2,
+      "content": "老爷爷应该觉得我们很饿",
+      "music": 0.0
+    },
+    {
+      "from": 198.74,
+      "to": 201.24,
+      "sid": 94,
+      "location": 2,
+      "content": "oh my拜",
+      "music": 0.0
+    },
+    {
+      "from": 201.24,
+      "to": 202.1,
+      "sid": 95,
+      "location": 2,
+      "content": "吃饱饭",
+      "music": 0.0
+    },
+    {
+      "from": 202.1,
+      "to": 203.92,
+      "sid": 96,
+      "location": 2,
+      "content": "来排一个非常有名的鲷鱼烧",
+      "music": 0.0
+    },
+    {
+      "from": 203.92,
+      "to": 205.7,
+      "sid": 97,
+      "location": 2,
+      "content": "晚上十点还排成这样子",
+      "music": 0.0
+    },
+    {
+      "from": 205.7,
+      "to": 207.459,
+      "sid": 98,
+      "location": 2,
+      "content": "看看到底在红什么",
+      "music": 0.0
+    },
+    {
+      "from": 208.5,
+      "to": 209.66,
+      "sid": 99,
+      "location": 2,
+      "content": "从我旁边走过",
+      "music": 0.0
+    },
+    {
+      "from": 209.66,
+      "to": 211.0,
+      "sid": 100,
+      "location": 2,
+      "content": "我就认出了是吗",
+      "music": 0.0
+    },
+    {
+      "from": 211.0,
+      "to": 211.82,
+      "sid": 101,
+      "location": 2,
+      "content": "One red bean",
+      "music": 0.0
+    },
+    {
+      "from": 211.82,
+      "to": 213.16,
+      "sid": 102,
+      "location": 2,
+      "content": "One sweet potato",
+      "music": 0.0
+    },
+    {
+      "from": 213.16,
+      "to": 213.98,
+      "sid": 103,
+      "location": 2,
+      "content": "Thank you",
+      "music": 0.0
+    },
+    {
+      "from": 213.98,
+      "to": 214.86,
+      "sid": 104,
+      "location": 2,
+      "content": "I got all",
+      "music": 0.0
+    },
+    {
+      "from": 214.86,
+      "to": 216.06,
+      "sid": 105,
+      "location": 2,
+      "content": "Thank you",
+      "music": 0.0
+    },
+    {
+      "from": 216.06,
+      "to": 217.86,
+      "sid": 106,
+      "location": 2,
+      "content": "来买了两个鲷鱼烧",
+      "music": 0.0
+    },
+    {
+      "from": 217.86,
+      "to": 219.96,
+      "sid": 107,
+      "location": 2,
+      "content": "这个是sweet potato地瓜",
+      "music": 0.0
+    },
+    {
+      "from": 219.96,
+      "to": 221.06,
+      "sid": 108,
+      "location": 2,
+      "content": "这个是red bean",
+      "music": 0.0
+    },
+    {
+      "from": 221.06,
+      "to": 221.899,
+      "sid": 109,
+      "location": 2,
+      "content": "就是红豆",
+      "music": 0.0
+    },
+    {
+      "from": 221.899,
+      "to": 222.739,
+      "sid": 110,
+      "location": 2,
+      "content": "那吃一口",
+      "music": 0.0
+    },
+    {
+      "from": 222.739,
+      "to": 229.1,
+      "sid": 111,
+      "location": 2,
+      "content": "看看红豆的哇哇皮又薄又脆",
+      "music": 0.0
+    },
+    {
+      "from": 229.1,
+      "to": 230.6,
+      "sid": 112,
+      "location": 2,
+      "content": "里面红豆又糯又香",
+      "music": 0.0
+    },
+    {
+      "from": 230.6,
+      "to": 231.78,
+      "sid": 113,
+      "location": 2,
+      "content": "就是有点甜",
+      "music": 0.0
+    },
+    {
+      "from": 231.78,
+      "to": 233.02,
+      "sid": 114,
+      "location": 2,
+      "content": "日本人吃的比较甜",
+      "music": 0.0
+    },
+    {
+      "from": 233.02,
+      "to": 234.97,
+      "sid": 115,
+      "location": 2,
+      "content": "再看这个地瓜的",
+      "music": 0.0
+    },
+    {
+      "from": 240.56,
+      "to": 241.94,
+      "sid": 116,
+      "location": 2,
+      "content": "还是红豆好吃一点",
+      "music": 0.0
+    },
+    {
+      "from": 241.94,
+      "to": 245.0,
+      "sid": 117,
+      "location": 2,
+      "content": "那这两个鲷鱼烧呢其实都是源于金川烧",
+      "music": 0.0
+    },
+    {
+      "from": 245.0,
+      "to": 246.76,
+      "sid": 118,
+      "location": 2,
+      "content": "就是把它改成钓鱼的形状嘛",
+      "music": 0.0
+    },
+    {
+      "from": 246.76,
+      "to": 247.68,
+      "sid": 119,
+      "location": 2,
+      "content": "其实都是一样的",
+      "music": 0.0
+    },
+    {
+      "from": 247.68,
+      "to": 249.4,
+      "sid": 120,
+      "location": 2,
+      "content": "面皮包馅蛮好吃的",
+      "music": 0.0
+    },
+    {
+      "from": 249.4,
+      "to": 250.16,
+      "sid": 121,
+      "location": 2,
+      "content": "来这边可以吃一下",
+      "music": 0.0
+    },
+    {
+      "from": 250.16,
+      "to": 250.63,
+      "sid": 122,
+      "location": 2,
+      "content": "走吧",
+      "music": 0.0
+    },
+    {
+      "from": 250.63,
+      "to": 251.89,
+      "sid": 123,
+      "location": 2,
+      "content": "这边就是鸭川",
+      "music": 0.0
+    },
+    {
+      "from": 251.89,
+      "to": 253.31,
+      "sid": 124,
+      "location": 2,
+      "content": "就大家在这边纳凉啊",
+      "music": 0.0
+    },
+    {
+      "from": 253.31,
+      "to": 254.55,
+      "sid": 125,
+      "location": 2,
+      "content": "看着鸭川吹吹风",
+      "music": 0.0
+    },
+    {
+      "from": 254.55,
+      "to": 255.79,
+      "sid": 126,
+      "location": 2,
+      "content": "晚上来这边走啊",
+      "music": 0.0
+    },
+    {
+      "from": 255.79,
+      "to": 257.75,
+      "sid": 127,
+      "location": 2,
+      "content": "挺舒服的",
+      "music": 0.0
+    },
+    {
+      "from": 264.24,
+      "to": 268.69,
+      "sid": 128,
+      "location": 2,
+      "content": "第二天京都早早餐是套餐",
+      "music": 0.3146853036823425
+    },
+    {
+      "from": 268.69,
+      "to": 269.87,
+      "sid": 129,
+      "location": 2,
+      "content": "相当精致",
+      "music": 0.0
+    },
+    {
+      "from": 269.87,
+      "to": 270.83,
+      "sid": 130,
+      "location": 2,
+      "content": "味道也不错",
+      "music": 0.0
+    },
+    {
+      "from": 270.83,
+      "to": 272.55,
+      "sid": 131,
+      "location": 2,
+      "content": "就是上菜好慢",
+      "music": 0.0
+    },
+    {
+      "from": 272.55,
+      "to": 274.11,
+      "sid": 132,
+      "location": 2,
+      "content": "出发去清水寺",
+      "music": 0.0
+    },
+    {
+      "from": 274.11,
+      "to": 277.26,
+      "sid": 133,
+      "location": 2,
+      "content": "大家看早上的京都去清水寺的人潮有多少",
+      "music": 0.0
+    },
+    {
+      "from": 277.26,
+      "to": 278.54,
+      "sid": 134,
+      "location": 2,
+      "content": "爬了清水板上来",
+      "music": 0.0
+    },
+    {
+      "from": 278.54,
+      "to": 279.44,
+      "sid": 135,
+      "location": 2,
+      "content": "清水寺啦",
+      "music": 0.0
+    },
+    {
+      "from": 279.44,
+      "to": 281.3,
+      "sid": 136,
+      "location": 2,
+      "content": "世界文化遗产日本的国宝",
+      "music": 0.0
+    },
+    {
+      "from": 281.3,
+      "to": 281.96,
+      "sid": 137,
+      "location": 2,
+      "content": "去看看",
+      "music": 0.0
+    },
+    {
+      "from": 281.96,
+      "to": 284.51,
+      "sid": 138,
+      "location": 2,
+      "content": "500块钱买张票去看清水舞台",
+      "music": 0.0
+    },
+    {
+      "from": 284.51,
+      "to": 287.71,
+      "sid": 139,
+      "location": 2,
+      "content": "那这个清水寺始建于西元778年",
+      "music": 0.0
+    },
+    {
+      "from": 287.71,
+      "to": 291.87,
+      "sid": 140,
+      "location": 2,
+      "content": "后来呢是德川家光1633年的时候重建的",
+      "music": 0.0
+    },
+    {
+      "from": 291.87,
+      "to": 293.47,
+      "sid": 141,
+      "location": 2,
+      "content": "那这个特殊的点呢",
+      "music": 0.0
+    },
+    {
+      "from": 293.47,
+      "to": 294.55,
+      "sid": 142,
+      "location": 2,
+      "content": "一个是年代久远",
+      "music": 0.0
+    },
+    {
+      "from": 294.55,
+      "to": 296.89,
+      "sid": 143,
+      "location": 2,
+      "content": "第二个他是完全没有用任何一根钉子",
+      "music": 0.0
+    },
+    {
+      "from": 296.89,
+      "to": 299.5,
+      "sid": 144,
+      "location": 2,
+      "content": "完全是榫卯栋梁结构做出来的",
+      "music": 0.0
+    },
+    {
+      "from": 299.5,
+      "to": 302.12,
+      "sid": 145,
+      "location": 2,
+      "content": "尤其是这个清水舞台下面是悬空的",
+      "music": 0.0
+    },
+    {
+      "from": 302.12,
+      "to": 303.87,
+      "sid": 146,
+      "location": 2,
+      "content": "100多根大柱子把它撑起来",
+      "music": 0.0
+    },
+    {
+      "from": 303.87,
+      "to": 306.11,
+      "sid": 147,
+      "location": 2,
+      "content": "然后在这边呢你可以投很多的玉手",
+      "music": 0.0
+    },
+    {
+      "from": 306.11,
+      "to": 306.99,
+      "sid": 148,
+      "location": 2,
+      "content": "各种保佑",
+      "music": 0.0
+    },
+    {
+      "from": 306.99,
+      "to": 308.36,
+      "sid": 149,
+      "location": 2,
+      "content": "就在日本呢",
+      "music": 0.0
+    },
+    {
+      "from": 308.36,
+      "to": 310.42,
+      "sid": 150,
+      "location": 2,
+      "content": "不管你是大社还是大四呢",
+      "music": 0.0
+    },
+    {
+      "from": 310.42,
+      "to": 311.7,
+      "sid": 151,
+      "location": 2,
+      "content": "基本上什么都可以",
+      "music": 0.0
+    },
+    {
+      "from": 311.7,
+      "to": 313.61,
+      "sid": 152,
+      "location": 2,
+      "content": "求清水舞台看下去",
+      "music": 0.0
+    },
+    {
+      "from": 313.61,
+      "to": 316.71,
+      "sid": 153,
+      "location": 2,
+      "content": "这个就是求长命百岁的瀑布的样子",
+      "music": 0.0
+    },
+    {
+      "from": 316.71,
+      "to": 318.57,
+      "sid": 154,
+      "location": 2,
+      "content": "我在清水舞台看对面的人",
+      "music": 0.0
+    },
+    {
+      "from": 318.57,
+      "to": 320.61,
+      "sid": 155,
+      "location": 2,
+      "content": "对面的人也在那边看清水舞台",
+      "music": 0.0
+    },
+    {
+      "from": 320.61,
+      "to": 323.52,
+      "sid": 156,
+      "location": 2,
+      "content": "多少来看清水舞台人潮走都走不动",
+      "music": 0.0
+    },
+    {
+      "from": 323.52,
+      "to": 326.08,
+      "sid": 157,
+      "location": 2,
+      "content": "离开清水寺去吃怀石料理了",
+      "music": 0.0
+    },
+    {
+      "from": 326.08,
+      "to": 327.02,
+      "sid": 158,
+      "location": 2,
+      "content": "这边是2年版",
+      "music": 0.0
+    },
+    {
+      "from": 327.02,
+      "to": 327.62,
+      "sid": 159,
+      "location": 2,
+      "content": "往下走",
+      "music": 0.0
+    },
+    {
+      "from": 327.62,
+      "to": 328.92,
+      "sid": 160,
+      "location": 2,
+      "content": "我看多少人呐",
+      "music": 0.0
+    },
+    {
+      "from": 328.92,
+      "to": 332.4,
+      "sid": 161,
+      "location": 2,
+      "content": "这边看过去就是经典的八坂塔跟2年版来",
+      "music": 0.0
+    },
+    {
+      "from": 332.4,
+      "to": 332.64,
+      "sid": 162,
+      "location": 2,
+      "content": "前面",
+      "music": 0.0
+    },
+    {
+      "from": 332.64,
+      "to": 335.44,
+      "sid": 163,
+      "location": 2,
+      "content": "就是我们这一次要吃的米其林两星怀石料理了",
+      "music": 0.0
+    },
+    {
+      "from": 335.44,
+      "to": 336.78,
+      "sid": 164,
+      "location": 2,
+      "content": "来去看看",
+      "music": 0.0
+    },
+    {
+      "from": 337.06,
+      "to": 338.49,
+      "sid": 165,
+      "location": 2,
+      "content": "Ok thank you",
+      "music": 0.0
+    },
+    {
+      "from": 338.495,
+      "to": 340.53,
+      "sid": 166,
+      "location": 2,
+      "content": "要早来坐下来了",
+      "music": 0.0
+    },
+    {
+      "from": 340.53,
+      "to": 341.29,
+      "sid": 167,
+      "location": 2,
+      "content": "订了个包间",
+      "music": 0.0
+    },
+    {
+      "from": 341.29,
+      "to": 342.41,
+      "sid": 168,
+      "location": 2,
+      "content": "加了2200宴",
+      "music": 0.0
+    },
+    {
+      "from": 342.41,
+      "to": 344.57,
+      "sid": 169,
+      "location": 2,
+      "content": "然后我已经可以预见要吃很久了",
+      "music": 0.0
+    },
+    {
+      "from": 344.57,
+      "to": 346.76,
+      "sid": 170,
+      "location": 2,
+      "content": "这个菜单呢两页纸啊",
+      "music": 0.0
+    },
+    {
+      "from": 346.76,
+      "to": 348.14,
+      "sid": 171,
+      "location": 2,
+      "content": "解释的很详细的",
+      "music": 0.0
+    },
+    {
+      "from": 348.14,
+      "to": 349.58,
+      "sid": 172,
+      "location": 2,
+      "content": "开场先来个萨克",
+      "music": 0.0
+    },
+    {
+      "from": 349.58,
+      "to": 351.98,
+      "sid": 173,
+      "location": 2,
+      "content": "应该是菊花的",
+      "music": 0.0
+    },
+    {
+      "from": 358.4,
+      "to": 359.26,
+      "sid": 174,
+      "location": 2,
+      "content": "Ok here",
+      "music": 0.0
+    },
+    {
+      "from": 359.26,
+      "to": 360.88,
+      "sid": 175,
+      "location": 2,
+      "content": "再来一碟酒啊",
+      "music": 0.0
+    },
+    {
+      "from": 363.16,
+      "to": 366.11,
+      "sid": 176,
+      "location": 2,
+      "content": "啊这酒量不好的人还没开始吃就醉了",
+      "music": 0.09411764336791852
+    },
+    {
+      "from": 366.11,
+      "to": 368.61,
+      "sid": 177,
+      "location": 2,
+      "content": "日本高档餐厅用的好像还是免洗筷诶",
+      "music": 0.0
+    },
+    {
+      "from": 368.61,
+      "to": 369.47,
+      "sid": 178,
+      "location": 2,
+      "content": "免洗筷也有故事",
+      "music": 0.0
+    },
+    {
+      "from": 369.47,
+      "to": 370.45,
+      "sid": 179,
+      "location": 2,
+      "content": "之后吃鳗鱼饭的时候",
+      "music": 0.0
+    },
+    {
+      "from": 370.45,
+      "to": 371.96,
+      "sid": 180,
+      "location": 2,
+      "content": "我们讲上海这个小菜啊",
+      "music": 0.0
+    },
+    {
+      "from": 371.96,
+      "to": 372.88,
+      "sid": 181,
+      "location": 2,
+      "content": "已经很小",
+      "music": 0.0
+    },
+    {
+      "from": 372.88,
+      "to": 374.36,
+      "sid": 182,
+      "location": 2,
+      "content": "碟里面感觉是小菜",
+      "music": 0.0
+    },
+    {
+      "from": 374.36,
+      "to": 376.81,
+      "sid": 183,
+      "location": 2,
+      "content": "还有小菜来叶子",
+      "music": 0.0
+    },
+    {
+      "from": 377.05,
+      "to": 380.64,
+      "sid": 184,
+      "location": 2,
+      "content": "这个是鲑鱼卵加上百合嗯",
+      "music": 0.0
+    },
+    {
+      "from": 380.64,
+      "to": 383.02,
+      "sid": 185,
+      "location": 2,
+      "content": "软软糯糯的百合鲑鱼籽里面啵啵啵跳",
+      "music": 0.0
+    },
+    {
+      "from": 383.02,
+      "to": 383.7,
+      "sid": 186,
+      "location": 2,
+      "content": "很好吃",
+      "music": 0.0
+    },
+    {
+      "from": 384.62,
+      "to": 386.1,
+      "sid": 187,
+      "location": 2,
+      "content": "来下一个是小小的寿司",
+      "music": 0.0
+    },
+    {
+      "from": 386.1,
+      "to": 387.12,
+      "sid": 188,
+      "location": 2,
+      "content": "也是很精致啊",
+      "music": 0.0
+    },
+    {
+      "from": 387.12,
+      "to": 388.58,
+      "sid": 189,
+      "location": 2,
+      "content": "吃一口",
+      "music": 0.0
+    },
+    {
+      "from": 390.17,
+      "to": 391.79,
+      "sid": 190,
+      "location": 2,
+      "content": "柑橘香糯糯的醋饭",
+      "music": 0.0
+    },
+    {
+      "from": 391.79,
+      "to": 394.13,
+      "sid": 191,
+      "location": 2,
+      "content": "配上外面那个鱼肉制过多层次的酸",
+      "music": 0.0
+    },
+    {
+      "from": 394.13,
+      "to": 395.09,
+      "sid": 192,
+      "location": 2,
+      "content": "蛮清甜的好吃",
+      "music": 0.0
+    },
+    {
+      "from": 395.09,
+      "to": 398.07,
+      "sid": 193,
+      "location": 2,
+      "content": "下一个好像是鳗鱼包个什么根茎类的东西吧",
+      "music": 0.0
+    },
+    {
+      "from": 398.07,
+      "to": 401.71,
+      "sid": 194,
+      "location": 2,
+      "content": "看不懂鳗鱼那种糯的口感好吃",
+      "music": 0.0
+    },
+    {
+      "from": 401.71,
+      "to": 404.18,
+      "sid": 195,
+      "location": 2,
+      "content": "鸭肉片嫩嫩的",
+      "music": 0.0
+    },
+    {
+      "from": 404.18,
+      "to": 405.88,
+      "sid": 196,
+      "location": 2,
+      "content": "围一生很小很精致",
+      "music": 0.0
+    },
+    {
+      "from": 405.88,
+      "to": 406.86,
+      "sid": 197,
+      "location": 2,
+      "content": "下一道是汤",
+      "music": 0.0
+    },
+    {
+      "from": 406.86,
+      "to": 407.7,
+      "sid": 198,
+      "location": 2,
+      "content": "先喝汤",
+      "music": 0.0
+    },
+    {
+      "from": 407.7,
+      "to": 409.64,
+      "sid": 199,
+      "location": 2,
+      "content": "等下再吃里面的料啊",
+      "music": 0.0
+    },
+    {
+      "from": 411.88,
+      "to": 415.36,
+      "sid": 200,
+      "location": 2,
+      "content": "嗯就是有点像昆布淡淡的高汤口味",
+      "music": 0.0
+    },
+    {
+      "from": 415.36,
+      "to": 416.2,
+      "sid": 201,
+      "location": 2,
+      "content": "其实很清淡的",
+      "music": 0.0
+    },
+    {
+      "from": 416.2,
+      "to": 418.27,
+      "sid": 202,
+      "location": 2,
+      "content": "不错鲜嗯",
+      "music": 0.0
+    },
+    {
+      "from": 418.27,
+      "to": 420.49,
+      "sid": 203,
+      "location": 2,
+      "content": "那现在打开里面喷有什么东西了",
+      "music": 0.0
+    },
+    {
+      "from": 420.49,
+      "to": 421.87,
+      "sid": 204,
+      "location": 2,
+      "content": "吃完看里面这个鱼啊",
+      "music": 0.0
+    },
+    {
+      "from": 421.87,
+      "to": 425.64,
+      "sid": 205,
+      "location": 2,
+      "content": "吃完看味道细致淡淡的白肉鱼",
+      "music": 0.0
+    },
+    {
+      "from": 425.64,
+      "to": 428.86,
+      "sid": 206,
+      "location": 2,
+      "content": "然后是马too tai mash的松茸啊",
+      "music": 0.0
+    },
+    {
+      "from": 429.31,
+      "to": 430.51,
+      "sid": 207,
+      "location": 2,
+      "content": "就是香菇的味道",
+      "music": 0.0
+    },
+    {
+      "from": 430.51,
+      "to": 431.53,
+      "sid": 208,
+      "location": 2,
+      "content": "没有什么特别的",
+      "music": 0.0
+    },
+    {
+      "from": 431.53,
+      "to": 432.99,
+      "sid": 209,
+      "location": 2,
+      "content": "来下一碟上的生鱼片",
+      "music": 0.0
+    },
+    {
+      "from": 432.99,
+      "to": 433.67,
+      "sid": 210,
+      "location": 2,
+      "content": "有鲷鱼",
+      "music": 0.0
+    },
+    {
+      "from": 433.67,
+      "to": 434.27,
+      "sid": 211,
+      "location": 2,
+      "content": "有尾鱼",
+      "music": 0.0
+    },
+    {
+      "from": 434.27,
+      "to": 435.61,
+      "sid": 212,
+      "location": 2,
+      "content": "然后还有squid鱿鱼",
+      "music": 0.0
+    },
+    {
+      "from": 435.61,
+      "to": 436.83,
+      "sid": 213,
+      "location": 2,
+      "content": "我们吃完看这个鲷鱼",
+      "music": 0.0
+    },
+    {
+      "from": 436.83,
+      "to": 437.95,
+      "sid": 214,
+      "location": 2,
+      "content": "鲷鱼蘸的萝卜泥",
+      "music": 0.0
+    },
+    {
+      "from": 437.95,
+      "to": 440.569,
+      "sid": 215,
+      "location": 2,
+      "content": "柚子酱嗯",
+      "music": 0.0
+    },
+    {
+      "from": 440.569,
+      "to": 441.649,
+      "sid": 216,
+      "location": 2,
+      "content": "细嫩新鲜",
+      "music": 0.0
+    },
+    {
+      "from": 441.649,
+      "to": 443.449,
+      "sid": 217,
+      "location": 2,
+      "content": "然后回味的酸不错啊",
+      "music": 0.0
+    },
+    {
+      "from": 443.449,
+      "to": 444.369,
+      "sid": 218,
+      "location": 2,
+      "content": "再来下来这个尾鱼",
+      "music": 0.0
+    },
+    {
+      "from": 444.369,
+      "to": 445.329,
+      "sid": 219,
+      "location": 2,
+      "content": "尾鱼就蘸酱油了",
+      "music": 0.0
+    },
+    {
+      "from": 445.329,
+      "to": 448.259,
+      "sid": 220,
+      "location": 2,
+      "content": "沾点酱油微微鲜",
+      "music": 0.0
+    },
+    {
+      "from": 448.259,
+      "to": 450.279,
+      "sid": 221,
+      "location": 2,
+      "content": "然后尾鱼那个鲜味微微酸的味道",
+      "music": 0.0
+    },
+    {
+      "from": 450.279,
+      "to": 451.719,
+      "sid": 222,
+      "location": 2,
+      "content": "他这个还是有点脂肪的",
+      "music": 0.0
+    },
+    {
+      "from": 451.719,
+      "to": 452.579,
+      "sid": 223,
+      "location": 2,
+      "content": "接近中指吧",
+      "music": 0.0
+    },
+    {
+      "from": 452.579,
+      "to": 454.1,
+      "sid": 224,
+      "location": 2,
+      "content": "那尾鱼跟鲷鱼一起吃呢",
+      "music": 0.0
+    },
+    {
+      "from": 454.1,
+      "to": 456.84,
+      "sid": 225,
+      "location": 2,
+      "content": "那其实200年前那是几乎不可以想象的",
+      "music": 0.0
+    },
+    {
+      "from": 456.84,
+      "to": 459.84,
+      "sid": 226,
+      "location": 2,
+      "content": "因为尾鱼见鱼也不供食用",
+      "music": 0.0
+    },
+    {
+      "from": 459.84,
+      "to": 461.52,
+      "sid": 227,
+      "location": 2,
+      "content": "以前的人是不吃尾鱼的",
+      "music": 0.0
+    },
+    {
+      "from": 461.52,
+      "to": 463.64,
+      "sid": 228,
+      "location": 2,
+      "content": "尤其是那个OTORO最贵的地方",
+      "music": 0.0
+    },
+    {
+      "from": 463.64,
+      "to": 466.28,
+      "sid": 229,
+      "location": 2,
+      "content": "现在最贵的地方以前是直接切了就丢掉的",
+      "music": 0.0
+    },
+    {
+      "from": 466.28,
+      "to": 467.58,
+      "sid": 230,
+      "location": 2,
+      "content": "可能是因为难保存吧",
+      "music": 0.0
+    },
+    {
+      "from": 467.58,
+      "to": 470.0,
+      "sid": 231,
+      "location": 2,
+      "content": "来下个鱿鱼嗯",
+      "music": 0.0
+    },
+    {
+      "from": 470.0,
+      "to": 470.96,
+      "sid": 232,
+      "location": 2,
+      "content": "滑弹带点黏",
+      "music": 0.0
+    },
+    {
+      "from": 470.96,
+      "to": 471.94,
+      "sid": 233,
+      "location": 2,
+      "content": "我觉得蛮好吃的",
+      "music": 0.0
+    },
+    {
+      "from": 471.94,
+      "to": 473.22,
+      "sid": 234,
+      "location": 2,
+      "content": "那这个生鱼片呢",
+      "music": 0.0
+    },
+    {
+      "from": 473.22,
+      "to": 475.46,
+      "sid": 235,
+      "location": 2,
+      "content": "其实古时候叫块周朝就有了",
+      "music": 0.0
+    },
+    {
+      "from": 475.46,
+      "to": 477.12,
+      "sid": 236,
+      "location": 2,
+      "content": "不过基本上靠海的地方啊",
+      "music": 0.0
+    },
+    {
+      "from": 477.12,
+      "to": 478.12,
+      "sid": 237,
+      "location": 2,
+      "content": "都有吃生鱼片的",
+      "music": 0.0
+    },
+    {
+      "from": 478.12,
+      "to": 479.96,
+      "sid": 238,
+      "location": 2,
+      "content": "所以也不一定是中国传到日本的",
+      "music": 0.0
+    },
+    {
+      "from": 479.96,
+      "to": 482.66,
+      "sid": 239,
+      "location": 2,
+      "content": "现在师傅要来帮我们烤鱼了啊",
+      "music": 0.0
+    },
+    {
+      "from": 487.54,
+      "to": 490.7,
+      "sid": 240,
+      "location": 2,
+      "content": "So all the crab on one plate",
+      "music": 0.0
+    },
+    {
+      "from": 495.14,
+      "to": 496.23,
+      "sid": 241,
+      "location": 2,
+      "content": "Thank you",
+      "music": 0.0
+    },
+    {
+      "from": 496.23,
+      "to": 498.43,
+      "sid": 242,
+      "location": 2,
+      "content": "阿里嘎多吃螃蟹了",
+      "music": 0.0
+    },
+    {
+      "from": 498.43,
+      "to": 499.15,
+      "sid": 243,
+      "location": 2,
+      "content": "吃这个蟹壳",
+      "music": 0.0
+    },
+    {
+      "from": 499.15,
+      "to": 500.07,
+      "sid": 244,
+      "location": 2,
+      "content": "感觉是精华",
+      "music": 0.0
+    },
+    {
+      "from": 500.07,
+      "to": 500.83,
+      "sid": 245,
+      "location": 2,
+      "content": "先滴点",
+      "music": 0.0
+    },
+    {
+      "from": 500.83,
+      "to": 501.73,
+      "sid": 246,
+      "location": 2,
+      "content": "这个应该是line",
+      "music": 0.0
+    },
+    {
+      "from": 501.73,
+      "to": 502.99,
+      "sid": 247,
+      "location": 2,
+      "content": "满满一口蟹肉",
+      "music": 0.0
+    },
+    {
+      "from": 502.99,
+      "to": 505.27,
+      "sid": 248,
+      "location": 2,
+      "content": "蟹膏好像还有点淡呢",
+      "music": 0.0
+    },
+    {
+      "from": 505.68,
+      "to": 508.04,
+      "sid": 249,
+      "location": 2,
+      "content": "嗯新鲜鲜甜的蟹啊",
+      "music": 0.0
+    },
+    {
+      "from": 508.04,
+      "to": 509.24,
+      "sid": 250,
+      "location": 2,
+      "content": "蟹黄地方微微有点苦",
+      "music": 0.0
+    },
+    {
+      "from": 509.24,
+      "to": 511.16,
+      "sid": 251,
+      "location": 2,
+      "content": "最后再下点那个辣的那种",
+      "music": 0.0
+    },
+    {
+      "from": 511.16,
+      "to": 512.48,
+      "sid": 252,
+      "location": 2,
+      "content": "微微酸不错",
+      "music": 0.0
+    },
+    {
+      "from": 512.48,
+      "to": 515.44,
+      "sid": 253,
+      "location": 2,
+      "content": "再看这个蟹脚肉嗯",
+      "music": 0.0
+    },
+    {
+      "from": 515.44,
+      "to": 516.96,
+      "sid": 254,
+      "location": 2,
+      "content": "蟹早就新体很多了",
+      "music": 0.0
+    },
+    {
+      "from": 516.96,
+      "to": 518.08,
+      "sid": 255,
+      "location": 2,
+      "content": "这个是灵蟹",
+      "music": 0.0
+    },
+    {
+      "from": 518.08,
+      "to": 521.66,
+      "sid": 256,
+      "location": 2,
+      "content": "感觉好像跟梭子蟹很相似的样子",
+      "music": 0.0
+    },
+    {
+      "from": 536.13,
+      "to": 538.31,
+      "sid": 257,
+      "location": 2,
+      "content": "来下一个是太刀鱼",
+      "music": 0.0
+    },
+    {
+      "from": 538.31,
+      "to": 540.91,
+      "sid": 258,
+      "location": 2,
+      "content": "这个应该跟带鱼有点相似的",
+      "music": 0.0
+    },
+    {
+      "from": 540.91,
+      "to": 542.49,
+      "sid": 259,
+      "location": 2,
+      "content": "试试看",
+      "music": 0.0
+    },
+    {
+      "from": 546.36,
+      "to": 547.88,
+      "sid": 260,
+      "location": 2,
+      "content": "微微炭香鱼肉啊",
+      "music": 0.0
+    },
+    {
+      "from": 547.88,
+      "to": 548.8,
+      "sid": 261,
+      "location": 2,
+      "content": "非常非常细致",
+      "music": 0.0
+    },
+    {
+      "from": 548.8,
+      "to": 549.8,
+      "sid": 262,
+      "location": 2,
+      "content": "入口就化掉了",
+      "music": 0.0
+    },
+    {
+      "from": 549.8,
+      "to": 551.34,
+      "sid": 263,
+      "location": 2,
+      "content": "配上淡淡这个黄瓜酱",
+      "music": 0.0
+    },
+    {
+      "from": 551.34,
+      "to": 553.28,
+      "sid": 264,
+      "location": 2,
+      "content": "还挺有意思的",
+      "music": 0.0
+    },
+    {
+      "from": 553.9,
+      "to": 554.74,
+      "sid": 265,
+      "location": 2,
+      "content": "Bye chef",
+      "music": 0.0
+    },
+    {
+      "from": 554.74,
+      "to": 557.62,
+      "sid": 266,
+      "location": 2,
+      "content": "那这个怀石料理吃到现在上了两道主菜了",
+      "music": 0.0
+    },
+    {
+      "from": 557.62,
+      "to": 559.78,
+      "sid": 267,
+      "location": 2,
+      "content": "诶那大家有没有发现都只有鱼啊",
+      "music": 0.0
+    },
+    {
+      "from": 559.78,
+      "to": 561.52,
+      "sid": 268,
+      "location": 2,
+      "content": "这个就要讲到梁武帝了",
+      "music": 0.0
+    },
+    {
+      "from": 561.52,
+      "to": 562.86,
+      "sid": 269,
+      "location": 2,
+      "content": "他凭一己之力啊",
+      "music": 0.0
+    },
+    {
+      "from": 562.86,
+      "to": 565.42,
+      "sid": 270,
+      "location": 2,
+      "content": "让日本人民呢1000多年吃不上肉",
+      "music": 0.0
+    },
+    {
+      "from": 565.42,
+      "to": 567.06,
+      "sid": 271,
+      "location": 2,
+      "content": "他禁止佛教吃肉",
+      "music": 0.0
+    },
+    {
+      "from": 567.06,
+      "to": 568.82,
+      "sid": 272,
+      "location": 2,
+      "content": "然后佛教传入日本以后呢",
+      "music": 0.0
+    },
+    {
+      "from": 568.82,
+      "to": 569.98,
+      "sid": 273,
+      "location": 2,
+      "content": "很多天皇信教",
+      "music": 0.0
+    },
+    {
+      "from": 569.98,
+      "to": 572.64,
+      "sid": 274,
+      "location": 2,
+      "content": "那就开始颁布了很多禁肉令",
+      "music": 0.0
+    },
+    {
+      "from": 572.64,
+      "to": 574.44,
+      "sid": 275,
+      "location": 2,
+      "content": "所以嘛1000多年以来啊",
+      "music": 0.0
+    },
+    {
+      "from": 574.44,
+      "to": 576.16,
+      "sid": 276,
+      "location": 2,
+      "content": "日本人人吃海鲜素",
+      "music": 0.0
+    },
+    {
+      "from": 576.16,
+      "to": 578.77,
+      "sid": 277,
+      "location": 2,
+      "content": "那一直到这个老美啊来拯救啊",
+      "music": 0.0
+    },
+    {
+      "from": 578.77,
+      "to": 579.19,
+      "sid": 278,
+      "location": 2,
+      "content": "不对",
+      "music": 0.0
+    },
+    {
+      "from": 579.19,
+      "to": 580.55,
+      "sid": 279,
+      "location": 2,
+      "content": "来欺压日本的时候啊",
+      "music": 0.0
+    },
+    {
+      "from": 580.55,
+      "to": 583.85,
+      "sid": 280,
+      "location": 2,
+      "content": "来迫使他们明治维新才开始重新开放来吃肉的",
+      "music": 0.0
+    },
+    {
+      "from": 583.85,
+      "to": 585.36,
+      "sid": 281,
+      "location": 2,
+      "content": "所以这种传统的料理啊",
+      "music": 0.0
+    },
+    {
+      "from": 585.36,
+      "to": 586.92,
+      "sid": 282,
+      "location": 2,
+      "content": "其实都是以鱼为主",
+      "music": 0.0
+    },
+    {
+      "from": 586.92,
+      "to": 588.02,
+      "sid": 283,
+      "location": 2,
+      "content": "肉是很少的",
+      "music": 0.0
+    },
+    {
+      "from": 588.02,
+      "to": 589.76,
+      "sid": 284,
+      "location": 2,
+      "content": "来最后一个是烤无花果",
+      "music": 0.0
+    },
+    {
+      "from": 589.76,
+      "to": 590.96,
+      "sid": 285,
+      "location": 2,
+      "content": "上面放两种味针",
+      "music": 0.0
+    },
+    {
+      "from": 590.96,
+      "to": 591.92,
+      "sid": 286,
+      "location": 2,
+      "content": "一红一黄",
+      "music": 0.0
+    },
+    {
+      "from": 591.92,
+      "to": 593.84,
+      "sid": 287,
+      "location": 2,
+      "content": "吃完看了",
+      "music": 0.0
+    },
+    {
+      "from": 595.78,
+      "to": 599.26,
+      "sid": 288,
+      "location": 2,
+      "content": "嗯哇甜甜果香配上那个卫生酱",
+      "music": 0.0
+    },
+    {
+      "from": 599.26,
+      "to": 599.9,
+      "sid": 289,
+      "location": 2,
+      "content": "带点咸味",
+      "music": 0.0
+    },
+    {
+      "from": 599.9,
+      "to": 600.56,
+      "sid": 290,
+      "location": 2,
+      "content": "确实不错",
+      "music": 0.0
+    },
+    {
+      "from": 600.56,
+      "to": 603.14,
+      "sid": 291,
+      "location": 2,
+      "content": "还有一个红的山海红的这边",
+      "music": 0.0
+    },
+    {
+      "from": 604.4,
+      "to": 605.5,
+      "sid": 292,
+      "location": 2,
+      "content": "红的更咸一点",
+      "music": 0.0
+    },
+    {
+      "from": 605.5,
+      "to": 609.28,
+      "sid": 293,
+      "location": 2,
+      "content": "但是这确实就是那个大豆发酵的那个酱香味",
+      "music": 0.0
+    },
+    {
+      "from": 612.17,
+      "to": 613.09,
+      "sid": 294,
+      "location": 2,
+      "content": "吃了这么久",
+      "music": 0.0
+    },
+    {
+      "from": 613.09,
+      "to": 614.27,
+      "sid": 295,
+      "location": 2,
+      "content": "终于吃上肉了",
+      "music": 0.0
+    },
+    {
+      "from": 614.27,
+      "to": 615.29,
+      "sid": 296,
+      "location": 2,
+      "content": "这个是卤猪肉",
+      "music": 0.0
+    },
+    {
+      "from": 615.29,
+      "to": 617.21,
+      "sid": 297,
+      "location": 2,
+      "content": "上面有一点马铃薯跟芥末",
+      "music": 0.0
+    },
+    {
+      "from": 617.21,
+      "to": 618.835,
+      "sid": 298,
+      "location": 2,
+      "content": "试试看",
+      "music": 0.0
+    },
+    {
+      "from": 620.4,
+      "to": 621.94,
+      "sid": 299,
+      "location": 2,
+      "content": "哇好吃啊",
+      "music": 0.0
+    },
+    {
+      "from": 621.94,
+      "to": 622.76,
+      "sid": 300,
+      "location": 2,
+      "content": "很大一块",
+      "music": 0.0
+    },
+    {
+      "from": 622.76,
+      "to": 624.36,
+      "sid": 301,
+      "location": 2,
+      "content": "但是几乎入口即化",
+      "music": 0.0
+    },
+    {
+      "from": 624.36,
+      "to": 625.6,
+      "sid": 302,
+      "location": 2,
+      "content": "连油脂都是香的",
+      "music": 0.0
+    },
+    {
+      "from": 625.6,
+      "to": 628.709,
+      "sid": 303,
+      "location": 2,
+      "content": "我觉得比鱼和蟹都好吃嗯",
+      "music": 0.0
+    },
+    {
+      "from": 628.709,
+      "to": 629.949,
+      "sid": 304,
+      "location": 2,
+      "content": "下一个叫CHIMMY",
+      "music": 0.0
+    },
+    {
+      "from": 629.949,
+      "to": 631.609,
+      "sid": 305,
+      "location": 2,
+      "content": "他英文是delicacies",
+      "music": 0.0
+    },
+    {
+      "from": 631.609,
+      "to": 632.909,
+      "sid": 306,
+      "location": 2,
+      "content": "应该就是真味吧",
+      "music": 0.0
+    },
+    {
+      "from": 632.909,
+      "to": 636.14,
+      "sid": 307,
+      "location": 2,
+      "content": "吃这个tomato新鲜",
+      "music": 0.0
+    },
+    {
+      "from": 636.14,
+      "to": 636.76,
+      "sid": 308,
+      "location": 2,
+      "content": "带点酸",
+      "music": 0.0
+    },
+    {
+      "from": 636.76,
+      "to": 637.92,
+      "sid": 309,
+      "location": 2,
+      "content": "剥了皮的tomato哈",
+      "music": 0.0
+    },
+    {
+      "from": 637.92,
+      "to": 638.82,
+      "sid": 310,
+      "location": 2,
+      "content": "没什么特别的",
+      "music": 0.0
+    },
+    {
+      "from": 638.82,
+      "to": 640.32,
+      "sid": 311,
+      "location": 2,
+      "content": "这应该是静鱼或青鱼",
+      "music": 0.0
+    },
+    {
+      "from": 640.32,
+      "to": 643.94,
+      "sid": 312,
+      "location": 2,
+      "content": "这个淡淡的鱼腥味",
+      "music": 0.0
+    },
+    {
+      "from": 643.94,
+      "to": 647.63,
+      "sid": 313,
+      "location": 2,
+      "content": "感觉配个稀饭来虾子嗯",
+      "music": 0.0
+    },
+    {
+      "from": 647.63,
+      "to": 648.29,
+      "sid": 314,
+      "location": 2,
+      "content": "挺弹的",
+      "music": 0.0
+    },
+    {
+      "from": 648.29,
+      "to": 650.17,
+      "sid": 315,
+      "location": 2,
+      "content": "做的很好甜",
+      "music": 0.0
+    },
+    {
+      "from": 659.54,
+      "to": 661.52,
+      "sid": 316,
+      "location": 2,
+      "content": "一阿里嘎多",
+      "music": 0.0
+    },
+    {
+      "from": 661.52,
+      "to": 663.3,
+      "sid": 317,
+      "location": 2,
+      "content": "现在到了主食环节啦",
+      "music": 0.0
+    },
+    {
+      "from": 663.3,
+      "to": 664.94,
+      "sid": 318,
+      "location": 2,
+      "content": "你看到他这个上的顺序呢",
+      "music": 0.0
+    },
+    {
+      "from": 664.94,
+      "to": 667.0,
+      "sid": 319,
+      "location": 2,
+      "content": "就知道他这个其实是会席料理",
+      "music": 0.0
+    },
+    {
+      "from": 667.0,
+      "to": 668.88,
+      "sid": 320,
+      "location": 2,
+      "content": "并不是最传统的怀石料理",
+      "music": 0.0
+    },
+    {
+      "from": 668.88,
+      "to": 670.4,
+      "sid": 321,
+      "location": 2,
+      "content": "他们都叫做KAISAKI",
+      "music": 0.0
+    },
+    {
+      "from": 670.4,
+      "to": 672.089,
+      "sid": 322,
+      "location": 2,
+      "content": "但是一个是最早的茶",
+      "music": 0.0
+    },
+    {
+      "from": 672.089,
+      "to": 673.849,
+      "sid": 323,
+      "location": 2,
+      "content": "另外一个呢是江户时代",
+      "music": 0.0
+    },
+    {
+      "from": 673.849,
+      "to": 676.089,
+      "sid": 324,
+      "location": 2,
+      "content": "大家想要喝酒开发出来的",
+      "music": 0.0
+    },
+    {
+      "from": 676.089,
+      "to": 677.789,
+      "sid": 325,
+      "location": 2,
+      "content": "如果是真正传统怀疑式料理",
+      "music": 0.0
+    },
+    {
+      "from": 677.789,
+      "to": 679.089,
+      "sid": 326,
+      "location": 2,
+      "content": "饭堂是第一个上的",
+      "music": 0.0
+    },
+    {
+      "from": 679.089,
+      "to": 679.989,
+      "sid": 327,
+      "location": 2,
+      "content": "那我们试试看吧",
+      "music": 0.0
+    },
+    {
+      "from": 679.989,
+      "to": 681.464,
+      "sid": 328,
+      "location": 2,
+      "content": "先吃口饭",
+      "music": 0.0
+    },
+    {
+      "from": 684.09,
+      "to": 685.51,
+      "sid": 329,
+      "location": 2,
+      "content": "嗯你煮的很好啊",
+      "music": 0.0
+    },
+    {
+      "from": 685.51,
+      "to": 686.51,
+      "sid": 330,
+      "location": 2,
+      "content": "弹带点黏",
+      "music": 0.0
+    },
+    {
+      "from": 686.51,
+      "to": 689.59,
+      "sid": 331,
+      "location": 2,
+      "content": "还有他加了一些这种腌菜的那种香嗯",
+      "music": 0.0
+    },
+    {
+      "from": 689.59,
+      "to": 691.375,
+      "sid": 332,
+      "location": 2,
+      "content": "来尝尝尝这咸菜",
+      "music": 0.0
+    },
+    {
+      "from": 692.89,
+      "to": 695.05,
+      "sid": 333,
+      "location": 2,
+      "content": "真咸菜要配饭",
+      "music": 0.0
+    },
+    {
+      "from": 697.14,
+      "to": 699.06,
+      "sid": 334,
+      "location": 2,
+      "content": "不过现在吃的这个饭配咸菜",
+      "music": 0.0
+    },
+    {
+      "from": 699.06,
+      "to": 703.48,
+      "sid": 335,
+      "location": 2,
+      "content": "就想哎刚的红烧肉留两块下来多好啊",
+      "music": 0.0
+    },
+    {
+      "from": 703.88,
+      "to": 705.24,
+      "sid": 336,
+      "location": 2,
+      "content": "哦fruit",
+      "music": 0.0
+    },
+    {
+      "from": 706.52,
+      "to": 707.8,
+      "sid": 337,
+      "location": 2,
+      "content": "来到甜点环节了",
+      "music": 0.0
+    },
+    {
+      "from": 707.8,
+      "to": 709.4,
+      "sid": 338,
+      "location": 2,
+      "content": "他直接给你上个哈密瓜",
+      "music": 0.0
+    },
+    {
+      "from": 709.4,
+      "to": 709.92,
+      "sid": 339,
+      "location": 2,
+      "content": "还有个梨",
+      "music": 0.0
+    },
+    {
+      "from": 709.92,
+      "to": 713.04,
+      "sid": 340,
+      "location": 2,
+      "content": "也在日本应该也是相当高档的体验了",
+      "music": 0.0
+    },
+    {
+      "from": 715.28,
+      "to": 716.28,
+      "sid": 341,
+      "location": 2,
+      "content": "真的好甜",
+      "music": 0.0
+    },
+    {
+      "from": 716.28,
+      "to": 717.64,
+      "sid": 342,
+      "location": 2,
+      "content": "水润蜜",
+      "music": 0.0
+    },
+    {
+      "from": 717.64,
+      "to": 720.1,
+      "sid": 343,
+      "location": 2,
+      "content": "香甜不错",
+      "music": 0.0
+    },
+    {
+      "from": 720.66,
+      "to": 723.68,
+      "sid": 344,
+      "location": 2,
+      "content": "coo拿冰沙冰凉",
+      "music": 0.0
+    },
+    {
+      "from": 723.68,
+      "to": 725.46,
+      "sid": 345,
+      "location": 2,
+      "content": "椰奶香很香",
+      "music": 0.0
+    },
+    {
+      "from": 726.53,
+      "to": 727.93,
+      "sid": 346,
+      "location": 2,
+      "content": "梨也是超级水润的",
+      "music": 0.0
+    },
+    {
+      "from": 727.93,
+      "to": 728.51,
+      "sid": 347,
+      "location": 2,
+      "content": "不错不错",
+      "music": 0.0
+    },
+    {
+      "from": 728.51,
+      "to": 731.46,
+      "sid": 348,
+      "location": 2,
+      "content": "还有个类似茶冻的糕点",
+      "music": 0.0
+    },
+    {
+      "from": 731.46,
+      "to": 732.7,
+      "sid": 349,
+      "location": 2,
+      "content": "不是特别喜欢",
+      "music": 0.0
+    },
+    {
+      "from": 732.7,
+      "to": 734.0,
+      "sid": 350,
+      "location": 2,
+      "content": "还不如水果好吃",
+      "music": 0.0
+    },
+    {
+      "from": 734.0,
+      "to": 735.46,
+      "sid": 351,
+      "location": 2,
+      "content": "最后还有个抹茶",
+      "music": 0.0
+    },
+    {
+      "from": 735.46,
+      "to": 739.68,
+      "sid": 352,
+      "location": 2,
+      "content": "你看这上面这些泡泡是不是像碧云引风吹不断",
+      "music": 0.0
+    },
+    {
+      "from": 739.68,
+      "to": 742.02,
+      "sid": 353,
+      "location": 2,
+      "content": "白花浮光凝碗面",
+      "music": 0.0
+    },
+    {
+      "from": 742.02,
+      "to": 743.88,
+      "sid": 354,
+      "location": 2,
+      "content": "这当然不是我说的哈",
+      "music": 0.0
+    },
+    {
+      "from": 743.88,
+      "to": 745.54,
+      "sid": 355,
+      "location": 2,
+      "content": "这是唐朝的诗人说的",
+      "music": 0.0
+    },
+    {
+      "from": 745.54,
+      "to": 749.319,
+      "sid": 356,
+      "location": 2,
+      "content": "因为日本的抹茶和茶道其实就是宋朝的点茶",
+      "music": 0.0
+    },
+    {
+      "from": 749.319,
+      "to": 752.139,
+      "sid": 357,
+      "location": 2,
+      "content": "12世纪的时候日本僧人带回来京都的",
+      "music": 0.0
+    },
+    {
+      "from": 752.139,
+      "to": 755.25,
+      "sid": 358,
+      "location": 2,
+      "content": "那为什么中国现在反而没有这种喝茶呢",
+      "music": 0.0
+    },
+    {
+      "from": 755.25,
+      "to": 756.89,
+      "sid": 359,
+      "location": 2,
+      "content": "这是因为明朝的时候啊",
+      "music": 0.0
+    },
+    {
+      "from": 756.89,
+      "to": 758.85,
+      "sid": 360,
+      "location": 2,
+      "content": "皇帝觉得这一套东西啊",
+      "music": 0.0
+    },
+    {
+      "from": 758.85,
+      "to": 761.65,
+      "sid": 361,
+      "location": 2,
+      "content": "这个包括制茶泡茶太繁琐了",
+      "music": 0.0
+    },
+    {
+      "from": 761.65,
+      "to": 763.03,
+      "sid": 362,
+      "location": 2,
+      "content": "直接禁掉了",
+      "music": 0.0
+    },
+    {
+      "from": 763.03,
+      "to": 766.03,
+      "sid": 363,
+      "location": 2,
+      "content": "反而是这种抹茶的文化在日本保留了下来",
+      "music": 0.0
+    },
+    {
+      "from": 766.03,
+      "to": 768.05,
+      "sid": 364,
+      "location": 2,
+      "content": "来喝完看",
+      "music": 0.0
+    },
+    {
+      "from": 769.74,
+      "to": 773.96,
+      "sid": 365,
+      "location": 2,
+      "content": "嗯哦还是茶叶的比较好喝",
+      "music": 0.0
+    },
+    {
+      "from": 773.96,
+      "to": 775.08,
+      "sid": 366,
+      "location": 2,
+      "content": "阿里嘎那个人吗",
+      "music": 0.0
+    },
+    {
+      "from": 775.08,
+      "to": 778.82,
+      "sid": 367,
+      "location": 2,
+      "content": "拜拜嘿拜拜嘿嘿拜拜嘿嘿拜拜",
+      "music": 0.0
+    },
+    {
+      "from": 778.82,
+      "to": 782.0,
+      "sid": 368,
+      "location": 2,
+      "content": "两个人总共花的是10万3500日元",
+      "music": 0.0
+    },
+    {
+      "from": 782.0,
+      "to": 783.28,
+      "sid": 369,
+      "location": 2,
+      "content": "含那个包厢费",
+      "music": 0.0
+    },
+    {
+      "from": 783.28,
+      "to": 785.8,
+      "sid": 370,
+      "location": 2,
+      "content": "那我觉得吃起来嘛体验还蛮不错的",
+      "music": 0.0
+    },
+    {
+      "from": 785.8,
+      "to": 788.76,
+      "sid": 371,
+      "location": 2,
+      "content": "就是最喜欢的是那个红烧肉",
+      "music": 0.0
+    },
+    {
+      "from": 788.76,
+      "to": 789.78,
+      "sid": 372,
+      "location": 2,
+      "content": "大家感觉如何呢",
+      "music": 0.0
+    },
+    {
+      "from": 789.78,
+      "to": 791.78,
+      "sid": 373,
+      "location": 2,
+      "content": "好嘞下一个就去逛京都了",
+      "music": 0.0
+    }
+  ]
+}

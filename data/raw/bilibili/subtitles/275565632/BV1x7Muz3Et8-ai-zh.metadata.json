@@ -1,0 +1,22 @@
+{
+  "bvid": "BV1x7Muz3Et8",
+  "cid": 30475028491,
+  "title": "赚钱最大的误区，是总想发挥自己的优势去变现",
+  "owner_name": "dontbesilent聊赚钱",
+  "status": "downloaded",
+  "reason": null,
+  "subtitle": {
+    "id": 1602244298525398016,
+    "lan": "ai-zh",
+    "lan_doc": "中文",
+    "is_lock": false,
+    "subtitle_url": "https://aisubtitle.hdslb.com/bfs/ai_subtitle/prod/11332168869751826329941039b65a31d5e4309ccdbbd09372057b6b5f",
+    "type": 1,
+    "id_str": "1602244298525398016",
+    "ai_type": 0,
+    "ai_status": 2
+  },
+  "raw_subtitle_path": "data\\raw\\bilibili\\subtitles\\275565632\\BV1x7Muz3Et8-ai-zh.raw.json",
+  "text_path": "data\\raw\\bilibili\\subtitles\\275565632\\BV1x7Muz3Et8-ai-zh.txt",
+  "metadata_path": "data\\raw\\bilibili\\subtitles\\275565632\\BV1x7Muz3Et8-ai-zh.metadata.json"
+}

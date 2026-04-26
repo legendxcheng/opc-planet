@@ -1,0 +1,22 @@
+{
+  "bvid": "BV1Zy67B2EkR",
+  "cid": 35667250631,
+  "title": "情绪上的无能，是我的第一生产力",
+  "owner_name": "dontbesilent聊赚钱",
+  "status": "downloaded",
+  "reason": null,
+  "subtitle": {
+    "id": 1941548906878065664,
+    "lan": "ai-zh",
+    "lan_doc": "中文",
+    "is_lock": false,
+    "subtitle_url": "https://aisubtitle.hdslb.com/bfs/ai_subtitle/prod/11597253915473235667250631b499019efddfd6c31e46eda51908e97b",
+    "type": 1,
+    "id_str": "1941548906878065664",
+    "ai_type": 0,
+    "ai_status": 2
+  },
+  "raw_subtitle_path": "data\\raw\\bilibili\\subtitles\\275565632\\BV1Zy67B2EkR-ai-zh.raw.json",
+  "text_path": "data\\raw\\bilibili\\subtitles\\275565632\\BV1Zy67B2EkR-ai-zh.txt",
+  "metadata_path": "data\\raw\\bilibili\\subtitles\\275565632\\BV1Zy67B2EkR-ai-zh.metadata.json"
+}

@@ -1,0 +1,452 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.16,
+      "to": 2.24,
+      "sid": 1,
+      "location": 2,
+      "content": "你们不能学会在不投钱的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 2.24,
+      "to": 3.62,
+      "sid": 2,
+      "location": 2,
+      "content": "零成本的情况下赚钱",
+      "music": 0.0
+    },
+    {
+      "from": 3.62,
+      "to": 4.94,
+      "sid": 3,
+      "location": 2,
+      "content": "你这辈子都赚不到大钱",
+      "music": 0.0
+    },
+    {
+      "from": 4.94,
+      "to": 5.84,
+      "sid": 4,
+      "location": 2,
+      "content": "绝对真理",
+      "music": 0.0
+    },
+    {
+      "from": 5.84,
+      "to": 8.68,
+      "sid": 5,
+      "location": 2,
+      "content": "我告诉你们能挣大钱的人",
+      "music": 0.0
+    },
+    {
+      "from": 8.68,
+      "to": 11.169,
+      "sid": 6,
+      "location": 2,
+      "content": "第一他一定能够做",
+      "music": 0.0
+    },
+    {
+      "from": 11.169,
+      "to": 13.749,
+      "sid": 7,
+      "location": 2,
+      "content": "就是说首先就是把自己的成本降到最低",
+      "music": 0.0
+    },
+    {
+      "from": 13.749,
+      "to": 14.969,
+      "sid": 8,
+      "location": 2,
+      "content": "最低最低就出个人",
+      "music": 0.0
+    },
+    {
+      "from": 14.969,
+      "to": 15.849,
+      "sid": 9,
+      "location": 2,
+      "content": "他就能挣到钱",
+      "music": 0.0
+    },
+    {
+      "from": 15.849,
+      "to": 17.35,
+      "sid": 10,
+      "location": 2,
+      "content": "首先这个是基础",
+      "music": 0.0
+    },
+    {
+      "from": 17.35,
+      "to": 18.35,
+      "sid": 11,
+      "location": 2,
+      "content": "这个不是基础",
+      "music": 0.0
+    },
+    {
+      "from": 18.35,
+      "to": 18.95,
+      "sid": 12,
+      "location": 2,
+      "content": "我告诉你们",
+      "music": 0.0
+    },
+    {
+      "from": 18.95,
+      "to": 20.9,
+      "sid": 13,
+      "location": 2,
+      "content": "你们看到的那点钱的就叫小打小闹",
+      "music": 0.0
+    },
+    {
+      "from": 20.9,
+      "to": 21.62,
+      "sid": 14,
+      "location": 2,
+      "content": "什么意思呢",
+      "music": 0.0
+    },
+    {
+      "from": 21.62,
+      "to": 23.22,
+      "sid": 15,
+      "location": 2,
+      "content": "比如说你说我要投多少啊",
+      "music": 0.0
+    },
+    {
+      "from": 23.22,
+      "to": 23.94,
+      "sid": 16,
+      "location": 2,
+      "content": "我要挣多少",
+      "music": 0.0
+    },
+    {
+      "from": 23.94,
+      "to": 25.94,
+      "sid": 17,
+      "location": 2,
+      "content": "你说一上来你做生意的思路",
+      "music": 0.0
+    },
+    {
+      "from": 25.94,
+      "to": 27.34,
+      "sid": 18,
+      "location": 2,
+      "content": "你一上来就是想投多少",
+      "music": 0.0
+    },
+    {
+      "from": 27.34,
+      "to": 28.21,
+      "sid": 19,
+      "location": 2,
+      "content": "挣多少的",
+      "music": 0.0
+    },
+    {
+      "from": 28.21,
+      "to": 29.93,
+      "sid": 20,
+      "location": 2,
+      "content": "你这个就只能挣小钱",
+      "music": 0.0
+    },
+    {
+      "from": 29.93,
+      "to": 30.71,
+      "sid": 21,
+      "location": 2,
+      "content": "比如说你开个店",
+      "music": 0.0
+    },
+    {
+      "from": 30.71,
+      "to": 32.21,
+      "sid": 22,
+      "location": 2,
+      "content": "在马路边上开个店对吧",
+      "music": 0.0
+    },
+    {
+      "from": 32.21,
+      "to": 32.97,
+      "sid": 23,
+      "location": 2,
+      "content": "行情好的时候",
+      "music": 0.0
+    },
+    {
+      "from": 32.97,
+      "to": 33.49,
+      "sid": 24,
+      "location": 2,
+      "content": "每个月挣一点",
+      "music": 0.0
+    },
+    {
+      "from": 33.49,
+      "to": 34.63,
+      "sid": 25,
+      "location": 2,
+      "content": "行情不好的时候就亏了",
+      "music": 0.0
+    },
+    {
+      "from": 34.63,
+      "to": 37.69,
+      "sid": 26,
+      "location": 2,
+      "content": "如果说你做生意是靠这样子开始的",
+      "music": 0.0
+    },
+    {
+      "from": 37.69,
+      "to": 39.65,
+      "sid": 27,
+      "location": 2,
+      "content": "那么你就是挣小钱的人",
+      "music": 0.0
+    },
+    {
+      "from": 39.65,
+      "to": 42.01,
+      "sid": 28,
+      "location": 2,
+      "content": "但是如果你一定一定是要学会",
+      "music": 0.0
+    },
+    {
+      "from": 42.01,
+      "to": 43.69,
+      "sid": 29,
+      "location": 2,
+      "content": "在没有成本的情况下赚钱",
+      "music": 0.0
+    },
+    {
+      "from": 43.69,
+      "to": 45.46,
+      "sid": 30,
+      "location": 2,
+      "content": "生意人的逻辑起码还是有了",
+      "music": 0.0
+    },
+    {
+      "from": 45.46,
+      "to": 45.74,
+      "sid": 31,
+      "location": 2,
+      "content": "你",
+      "music": 0.0
+    },
+    {
+      "from": 45.74,
+      "to": 47.14,
+      "sid": 32,
+      "location": 2,
+      "content": "要不然的话你都没有到那个收益了",
+      "music": 0.0
+    },
+    {
+      "from": 47.14,
+      "to": 47.9,
+      "sid": 33,
+      "location": 2,
+      "content": "那我在上面取体",
+      "music": 0.0
+    },
+    {
+      "from": 47.9,
+      "to": 50.23,
+      "sid": 34,
+      "location": 2,
+      "content": "你都算个做买卖的小商贩",
+      "music": 0.0
+    },
+    {
+      "from": 50.23,
+      "to": 52.19,
+      "sid": 35,
+      "location": 2,
+      "content": "你一个做买卖的小商贩",
+      "music": 0.0
+    },
+    {
+      "from": 52.19,
+      "to": 54.31,
+      "sid": 36,
+      "location": 2,
+      "content": "跟真正的生意人他是不一样的",
+      "music": 0.0
+    },
+    {
+      "from": 54.31,
+      "to": 55.95,
+      "sid": 37,
+      "location": 2,
+      "content": "你要是有生意逻辑的人",
+      "music": 0.0
+    },
+    {
+      "from": 55.95,
+      "to": 57.09,
+      "sid": 38,
+      "location": 2,
+      "content": "你是绝对可以做到",
+      "music": 0.0
+    },
+    {
+      "from": 57.09,
+      "to": 59.65,
+      "sid": 39,
+      "location": 2,
+      "content": "首先一开始你能够白手起家的时候",
+      "music": 0.0
+    },
+    {
+      "from": 59.65,
+      "to": 60.83,
+      "sid": 40,
+      "location": 2,
+      "content": "你能够做到没有成本",
+      "music": 0.0
+    },
+    {
+      "from": 60.83,
+      "to": 62.25,
+      "sid": 41,
+      "location": 2,
+      "content": "你只有在没有成本的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 62.25,
+      "to": 63.75,
+      "sid": 42,
+      "location": 2,
+      "content": "把这个商业逻辑给玩顺了",
+      "music": 0.0
+    },
+    {
+      "from": 63.75,
+      "to": 65.349,
+      "sid": 43,
+      "location": 2,
+      "content": "你这个逻辑才能挣大钱",
+      "music": 0.0
+    },
+    {
+      "from": 65.349,
+      "to": 66.669,
+      "sid": 44,
+      "location": 2,
+      "content": "所以说如果你没有这种能力",
+      "music": 0.0
+    },
+    {
+      "from": 66.669,
+      "to": 68.149,
+      "sid": 45,
+      "location": 2,
+      "content": "你一上来说我要投钱进去",
+      "music": 0.0
+    },
+    {
+      "from": 68.149,
+      "to": 68.789,
+      "sid": 46,
+      "location": 2,
+      "content": "我挣多少钱的",
+      "music": 0.0
+    },
+    {
+      "from": 68.789,
+      "to": 69.269,
+      "sid": 47,
+      "location": 2,
+      "content": "你挣钱",
+      "music": 0.0
+    },
+    {
+      "from": 69.269,
+      "to": 70.169,
+      "sid": 48,
+      "location": 2,
+      "content": "那见了鬼的",
+      "music": 0.0
+    },
+    {
+      "from": 70.169,
+      "to": 71.229,
+      "sid": 49,
+      "location": 2,
+      "content": "那这世界上的生意人",
+      "music": 0.0
+    },
+    {
+      "from": 71.229,
+      "to": 72.069,
+      "sid": 50,
+      "location": 2,
+      "content": "他们都白活了",
+      "music": 0.0
+    },
+    {
+      "from": 72.069,
+      "to": 72.62,
+      "sid": 51,
+      "location": 2,
+      "content": "止损",
+      "music": 0.0
+    },
+    {
+      "from": 72.62,
+      "to": 74.5,
+      "sid": 52,
+      "location": 2,
+      "content": "然后对自我重新认知",
+      "music": 0.0
+    },
+    {
+      "from": 74.5,
+      "to": 75.66,
+      "sid": 53,
+      "location": 2,
+      "content": "然后以后重新规划",
+      "music": 0.0
+    },
+    {
+      "from": 75.66,
+      "to": 76.34,
+      "sid": 54,
+      "location": 2,
+      "content": "不要再投资",
+      "music": 0.0
+    },
+    {
+      "from": 76.34,
+      "to": 77.82,
+      "sid": 55,
+      "location": 2,
+      "content": "不要再再再乱搞了",
+      "music": 0.0
+    }
+  ]
+}

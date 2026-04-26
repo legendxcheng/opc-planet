@@ -1,0 +1,22 @@
+{
+  "bvid": "BV1eG2vYyEaR",
+  "cid": 26320111252,
+  "title": "【向上曲曲】创业务必提高商业认知、法律认知，生意场上没有永远的敌人和朋友",
+  "owner_name": "人生曲曲向阳而生",
+  "status": "downloaded",
+  "reason": null,
+  "subtitle": {
+    "id": 1610247929027740672,
+    "lan": "ai-zh",
+    "lan_doc": "中文",
+    "is_lock": false,
+    "subtitle_url": "https://aisubtitle.hdslb.com/bfs/ai_subtitle/prod/11338425099906126502890079b8937d3f0ba2ffcb0cb23c71de82523e",
+    "type": 1,
+    "id_str": "1610247929027740672",
+    "ai_type": 0,
+    "ai_status": 2
+  },
+  "raw_subtitle_path": "data\\raw\\bilibili\\subtitles\\ququ-business-search-2026-04-26\\BV1eG2vYyEaR-ai-zh.raw.json",
+  "text_path": "data\\raw\\bilibili\\subtitles\\ququ-business-search-2026-04-26\\BV1eG2vYyEaR-ai-zh.txt",
+  "metadata_path": "data\\raw\\bilibili\\subtitles\\ququ-business-search-2026-04-26\\BV1eG2vYyEaR-ai-zh.metadata.json"
+}

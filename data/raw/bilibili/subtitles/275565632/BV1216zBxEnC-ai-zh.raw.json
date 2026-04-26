@@ -1,0 +1,2116 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.08,
+      "to": 1.76,
+      "sid": 1,
+      "location": 2,
+      "content": "今年是我不上班的第7年",
+      "music": 0.0
+    },
+    {
+      "from": 1.76,
+      "to": 3.24,
+      "sid": 2,
+      "location": 2,
+      "content": "我用去年一年的时间做起来了",
+      "music": 0.0
+    },
+    {
+      "from": 3.24,
+      "to": 4.12,
+      "sid": 3,
+      "location": 2,
+      "content": "这个自媒体的业务",
+      "music": 0.0
+    },
+    {
+      "from": 4.12,
+      "to": 5.68,
+      "sid": 4,
+      "location": 2,
+      "content": "那基本上就是我一个人在管理",
+      "music": 0.0
+    },
+    {
+      "from": 5.68,
+      "to": 6.86,
+      "sid": 5,
+      "location": 2,
+      "content": "七八个平台的账号",
+      "music": 0.0
+    },
+    {
+      "from": 6.86,
+      "to": 7.7,
+      "sid": 6,
+      "location": 2,
+      "content": "那变现方面呢",
+      "music": 0.0
+    },
+    {
+      "from": 7.7,
+      "to": 9.66,
+      "sid": 7,
+      "location": 2,
+      "content": "其实线上线下大家也大概预估的出来",
+      "music": 0.0
+    },
+    {
+      "from": 9.66,
+      "to": 10.46,
+      "sid": 8,
+      "location": 2,
+      "content": "这个收入量级",
+      "music": 0.0
+    },
+    {
+      "from": 10.46,
+      "to": 11.74,
+      "sid": 9,
+      "location": 2,
+      "content": "虽然到现在流行的说",
+      "music": 0.0
+    },
+    {
+      "from": 11.74,
+      "to": 14.5,
+      "sid": 10,
+      "location": 2,
+      "content": "那我就真的是那个字面意义上的艺人公司了",
+      "music": 0.0
+    },
+    {
+      "from": 14.5,
+      "to": 15.9,
+      "sid": 11,
+      "location": 2,
+      "content": "我知道这个也是大家想听的",
+      "music": 0.0
+    },
+    {
+      "from": 15.9,
+      "to": 17.5,
+      "sid": 12,
+      "location": 2,
+      "content": "就怎么能快速做一家艺人公司",
+      "music": 0.0
+    },
+    {
+      "from": 17.5,
+      "to": 18.58,
+      "sid": 13,
+      "location": 2,
+      "content": "我就不用上班了对吧",
+      "music": 0.0
+    },
+    {
+      "from": 18.58,
+      "to": 19.62,
+      "sid": 14,
+      "location": 2,
+      "content": "但实际情况呢",
+      "music": 0.0
+    },
+    {
+      "from": 19.62,
+      "to": 21.42,
+      "sid": 15,
+      "location": 2,
+      "content": "可能真的不是大家想象的那个样子",
+      "music": 0.0
+    },
+    {
+      "from": 21.42,
+      "to": 23.14,
+      "sid": 16,
+      "location": 2,
+      "content": "大家所以为的艺人公司是什么样子",
+      "music": 0.0
+    },
+    {
+      "from": 23.14,
+      "to": 24.1,
+      "sid": 17,
+      "location": 2,
+      "content": "就是我不用早起",
+      "music": 0.0
+    },
+    {
+      "from": 24.1,
+      "to": 24.62,
+      "sid": 18,
+      "location": 2,
+      "content": "没有老板",
+      "music": 0.0
+    },
+    {
+      "from": 24.62,
+      "to": 25.56,
+      "sid": 19,
+      "location": 2,
+      "content": "不用跟人打交道",
+      "music": 0.0
+    },
+    {
+      "from": 25.56,
+      "to": 26.52,
+      "sid": 20,
+      "location": 2,
+      "content": "完全自由可控",
+      "music": 0.0
+    },
+    {
+      "from": 26.52,
+      "to": 27.6,
+      "sid": 21,
+      "location": 2,
+      "content": "给我搞一些AI员工",
+      "music": 0.0
+    },
+    {
+      "from": 27.6,
+      "to": 28.68,
+      "sid": 22,
+      "location": 2,
+      "content": "我就直接原地起飞",
+      "music": 0.0
+    },
+    {
+      "from": 28.68,
+      "to": 29.4,
+      "sid": 23,
+      "location": 2,
+      "content": "年入百万了",
+      "music": 0.0
+    },
+    {
+      "from": 29.4,
+      "to": 31.48,
+      "sid": 24,
+      "location": 2,
+      "content": "这就是为什么我平时非常不喜欢用这个词",
+      "music": 0.0
+    },
+    {
+      "from": 31.48,
+      "to": 32.56,
+      "sid": 25,
+      "location": 2,
+      "content": "就是你只说好处",
+      "music": 0.0
+    },
+    {
+      "from": 32.56,
+      "to": 33.32,
+      "sid": 26,
+      "location": 2,
+      "content": "不说坏处",
+      "music": 0.0
+    },
+    {
+      "from": 33.32,
+      "to": 35.88,
+      "sid": 27,
+      "location": 2,
+      "content": "对于这种特定的形态所要面临的市场风险",
+      "music": 0.0
+    },
+    {
+      "from": 35.88,
+      "to": 36.92,
+      "sid": 28,
+      "location": 2,
+      "content": "完全避而不谈",
+      "music": 0.0
+    },
+    {
+      "from": 36.92,
+      "to": 39.48,
+      "sid": 29,
+      "location": 2,
+      "content": "不会真的有人以为说我搞一些扣子工作流",
+      "music": 0.0
+    },
+    {
+      "from": 39.48,
+      "to": 41.0,
+      "sid": 30,
+      "location": 2,
+      "content": "然后搞一个什么cloud code agent",
+      "music": 0.0
+    },
+    {
+      "from": 41.0,
+      "to": 42.16,
+      "sid": 31,
+      "location": 2,
+      "content": "我就完全万事大吉了",
+      "music": 0.0
+    },
+    {
+      "from": 42.16,
+      "to": 43.16,
+      "sid": 32,
+      "location": 2,
+      "content": "就一人公司了对吧",
+      "music": 0.0
+    },
+    {
+      "from": 43.16,
+      "to": 43.88,
+      "sid": 33,
+      "location": 2,
+      "content": "在过去的一年里",
+      "music": 0.0
+    },
+    {
+      "from": 43.88,
+      "to": 46.12,
+      "sid": 34,
+      "location": 2,
+      "content": "我接触了太多人是兴致冲冲的辞了职",
+      "music": 0.0
+    },
+    {
+      "from": 46.12,
+      "to": 48.76,
+      "sid": 35,
+      "location": 2,
+      "content": "然后狂干两个月就又一头雾水的就回去上班了",
+      "music": 0.0
+    },
+    {
+      "from": 48.76,
+      "to": 50.26,
+      "sid": 36,
+      "location": 2,
+      "content": "所以今天这我想来讲一下",
+      "music": 0.0
+    },
+    {
+      "from": 50.26,
+      "to": 52.26,
+      "sid": 37,
+      "location": 2,
+      "content": "如果你决定要用这种方式去解决",
+      "music": 0.0
+    },
+    {
+      "from": 52.26,
+      "to": 52.9,
+      "sid": 38,
+      "location": 2,
+      "content": "你想要辞职",
+      "music": 0.0
+    },
+    {
+      "from": 52.9,
+      "to": 53.98,
+      "sid": 39,
+      "location": 2,
+      "content": "不想上班的问题",
+      "music": 0.0
+    },
+    {
+      "from": 53.98,
+      "to": 54.78,
+      "sid": 40,
+      "location": 2,
+      "content": "在此之后",
+      "music": 0.0
+    },
+    {
+      "from": 54.78,
+      "to": 56.86,
+      "sid": 41,
+      "location": 2,
+      "content": "你所面临的真实的情况是什么",
+      "music": 0.0
+    },
+    {
+      "from": 56.86,
+      "to": 57.86,
+      "sid": 42,
+      "location": 2,
+      "content": "那么首先第一个问题",
+      "music": 0.0
+    },
+    {
+      "from": 57.86,
+      "to": 59.74,
+      "sid": 43,
+      "location": 2,
+      "content": "我认为所谓的艺人公司其实分为两种",
+      "music": 0.0
+    },
+    {
+      "from": 59.74,
+      "to": 60.54,
+      "sid": 44,
+      "location": 2,
+      "content": "一种叫效率型",
+      "music": 0.0
+    },
+    {
+      "from": 60.54,
+      "to": 61.42,
+      "sid": 45,
+      "location": 2,
+      "content": "一种叫逃避型",
+      "music": 0.0
+    },
+    {
+      "from": 61.42,
+      "to": 63.54,
+      "sid": 46,
+      "location": 2,
+      "content": "可惜大多数人都做成了逃避型",
+      "music": 0.0
+    },
+    {
+      "from": 63.54,
+      "to": 66.86,
+      "sid": 47,
+      "location": 2,
+      "content": "这也是为什么你其实很难在身边看到",
+      "music": 0.0
+    },
+    {
+      "from": 66.86,
+      "to": 68.82,
+      "sid": 48,
+      "location": 2,
+      "content": "真真正的所谓的艺人公司的成功案例",
+      "music": 0.0
+    },
+    {
+      "from": 68.82,
+      "to": 71.34,
+      "sid": 49,
+      "location": 2,
+      "content": "更多是在互联网上以故事的形式去传播而已",
+      "music": 0.0
+    },
+    {
+      "from": 71.34,
+      "to": 73.06,
+      "sid": 50,
+      "location": 2,
+      "content": "那么首先我认为有一个大的前提",
+      "music": 0.0
+    },
+    {
+      "from": 73.06,
+      "to": 74.5,
+      "sid": 51,
+      "location": 2,
+      "content": "这个前提还不是业务层面的",
+      "music": 0.0
+    },
+    {
+      "from": 74.5,
+      "to": 75.4,
+      "sid": 52,
+      "location": 2,
+      "content": "它是心理层面的",
+      "music": 0.0
+    },
+    {
+      "from": 75.4,
+      "to": 77.04,
+      "sid": 53,
+      "location": 2,
+      "content": "就是很多人之所以特别喜欢",
+      "music": 0.0
+    },
+    {
+      "from": 77.04,
+      "to": 78.12,
+      "sid": 54,
+      "location": 2,
+      "content": "一人制公司这个概念",
+      "music": 0.0
+    },
+    {
+      "from": 78.12,
+      "to": 80.56,
+      "sid": 55,
+      "location": 2,
+      "content": "是因为他的公司里面受到了不好的对待",
+      "music": 0.0
+    },
+    {
+      "from": 80.56,
+      "to": 81.76,
+      "sid": 56,
+      "location": 2,
+      "content": "他和同事的关系也不好",
+      "music": 0.0
+    },
+    {
+      "from": 81.76,
+      "to": 83.08,
+      "sid": 57,
+      "location": 2,
+      "content": "天天被老板PUA加班",
+      "music": 0.0
+    },
+    {
+      "from": 83.08,
+      "to": 83.78,
+      "sid": 58,
+      "location": 2,
+      "content": "也没有工资",
+      "music": 0.0
+    },
+    {
+      "from": 83.78,
+      "to": 85.6,
+      "sid": 59,
+      "location": 2,
+      "content": "所以我想要搞一个艺人公司",
+      "music": 0.0
+    },
+    {
+      "from": 85.6,
+      "to": 87.28,
+      "sid": 60,
+      "location": 2,
+      "content": "来解放我现在的这种痛苦",
+      "music": 0.0
+    },
+    {
+      "from": 87.28,
+      "to": 88.4,
+      "sid": 61,
+      "location": 2,
+      "content": "但是矛盾的一点在于",
+      "music": 0.0
+    },
+    {
+      "from": 88.4,
+      "to": 89.72,
+      "sid": 62,
+      "location": 2,
+      "content": "从你辞职的那一刻开始",
+      "music": 0.0
+    },
+    {
+      "from": 89.72,
+      "to": 91.24,
+      "sid": 63,
+      "location": 2,
+      "content": "你就要真正对自己的生活",
+      "music": 0.0
+    },
+    {
+      "from": 91.24,
+      "to": 92.8,
+      "sid": 64,
+      "location": 2,
+      "content": "对自己的收入开始负责了",
+      "music": 0.0
+    },
+    {
+      "from": 92.8,
+      "to": 94.4,
+      "sid": 65,
+      "location": 2,
+      "content": "哪怕那你手头有很多积蓄",
+      "music": 0.0
+    },
+    {
+      "from": 94.4,
+      "to": 95.54,
+      "sid": 66,
+      "location": 2,
+      "content": "或者你的家境很好",
+      "music": 0.0
+    },
+    {
+      "from": 95.54,
+      "to": 98.12,
+      "sid": 67,
+      "location": 2,
+      "content": "你依然会因为你的业务长期没有收入",
+      "music": 0.0
+    },
+    {
+      "from": 98.12,
+      "to": 99.56,
+      "sid": 68,
+      "location": 2,
+      "content": "长期没有正反馈而感到焦虑",
+      "music": 0.0
+    },
+    {
+      "from": 99.56,
+      "to": 102.3,
+      "sid": 69,
+      "location": 2,
+      "content": "那么当我一开始的做艺人公司的这个出发点",
+      "music": 0.0
+    },
+    {
+      "from": 102.3,
+      "to": 103.98,
+      "sid": 70,
+      "location": 2,
+      "content": "就是为了满足我自己的诉求",
+      "music": 0.0
+    },
+    {
+      "from": 103.98,
+      "to": 105.66,
+      "sid": 71,
+      "location": 2,
+      "content": "解决我自己想要不上班的问题",
+      "music": 0.0
+    },
+    {
+      "from": 105.66,
+      "to": 107.74,
+      "sid": 72,
+      "location": 2,
+      "content": "那凭什么确保这个东西可以赚到钱呢",
+      "music": 0.0
+    },
+    {
+      "from": 107.74,
+      "to": 109.38,
+      "sid": 73,
+      "location": 2,
+      "content": "这件事情德鲁克早就给过答案",
+      "music": 0.0
+    },
+    {
+      "from": 109.38,
+      "to": 110.44,
+      "sid": 74,
+      "location": 2,
+      "content": "叫做组组织规模",
+      "music": 0.0
+    },
+    {
+      "from": 110.44,
+      "to": 111.74,
+      "sid": 75,
+      "location": 2,
+      "content": "服务于客户价值创造",
+      "music": 0.0
+    },
+    {
+      "from": 111.74,
+      "to": 114.14,
+      "sid": 76,
+      "location": 2,
+      "content": "说白了就是你的业务需要几个人完成",
+      "music": 0.0
+    },
+    {
+      "from": 114.14,
+      "to": 115.26,
+      "sid": 77,
+      "location": 2,
+      "content": "你就用几个人去完成",
+      "music": 0.0
+    },
+    {
+      "from": 115.26,
+      "to": 117.74,
+      "sid": 78,
+      "location": 2,
+      "content": "而不是在我的客户在哪都不知道的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 117.74,
+      "to": 119.74,
+      "sid": 79,
+      "location": 2,
+      "content": "我先定了我的公司就只有一个人",
+      "music": 0.0
+    },
+    {
+      "from": 119.74,
+      "to": 120.7,
+      "sid": 80,
+      "location": 2,
+      "content": "这是本末倒置",
+      "music": 0.0
+    },
+    {
+      "from": 120.7,
+      "to": 122.22,
+      "sid": 81,
+      "location": 2,
+      "content": "所以同样是所谓的艺人公司",
+      "music": 0.0
+    },
+    {
+      "from": 122.22,
+      "to": 123.74,
+      "sid": 82,
+      "location": 2,
+      "content": "我认为是存在两这种做法的",
+      "music": 0.0
+    },
+    {
+      "from": 123.74,
+      "to": 125.02,
+      "sid": 83,
+      "location": 2,
+      "content": "第一种做法就是我们刚刚说的",
+      "music": 0.0
+    },
+    {
+      "from": 125.02,
+      "to": 125.98,
+      "sid": 84,
+      "location": 2,
+      "content": "就我什么都不知道呢",
+      "music": 0.0
+    },
+    {
+      "from": 125.98,
+      "to": 127.66,
+      "sid": 85,
+      "location": 2,
+      "content": "我就先把公司的人数给定死了",
+      "music": 0.0
+    },
+    {
+      "from": 127.66,
+      "to": 129.94,
+      "sid": 86,
+      "location": 2,
+      "content": "这会给人造成非常大的思维局限",
+      "music": 0.0
+    },
+    {
+      "from": 129.94,
+      "to": 132.3,
+      "sid": 87,
+      "location": 2,
+      "content": "在你从0~1积累第一桶金的这个过程当中",
+      "music": 0.0
+    },
+    {
+      "from": 132.3,
+      "to": 134.06,
+      "sid": 88,
+      "location": 2,
+      "content": "你所能看到的更多的业务",
+      "music": 0.0
+    },
+    {
+      "from": 134.06,
+      "to": 136.02,
+      "sid": 89,
+      "location": 2,
+      "content": "其实都是需要你去和别人产生合作的",
+      "music": 0.0
+    },
+    {
+      "from": 136.02,
+      "to": 138.52,
+      "sid": 90,
+      "location": 2,
+      "content": "如果一开始你就把这些东西全部都干掉了",
+      "music": 0.0
+    },
+    {
+      "from": 138.52,
+      "to": 140.76,
+      "sid": 91,
+      "location": 2,
+      "content": "会让你的业务选择变得非常的困难",
+      "music": 0.0
+    },
+    {
+      "from": 140.76,
+      "to": 143.12,
+      "sid": 92,
+      "location": 2,
+      "content": "所以通常你会看到荣誉成功的是另外一种形态",
+      "music": 0.0
+    },
+    {
+      "from": 143.12,
+      "to": 144.12,
+      "sid": 93,
+      "location": 2,
+      "content": "我管这个叫效率型",
+      "music": 0.0
+    },
+    {
+      "from": 144.12,
+      "to": 145.26,
+      "sid": 94,
+      "location": 2,
+      "content": "就是有一些小老板",
+      "music": 0.0
+    },
+    {
+      "from": 145.26,
+      "to": 147.1,
+      "sid": 95,
+      "location": 2,
+      "content": "他吃过盲目扩张的苦头",
+      "music": 0.0
+    },
+    {
+      "from": 147.1,
+      "to": 150.3,
+      "sid": 96,
+      "location": 2,
+      "content": "他在搞清楚了一个小的团队如何能高效沟通",
+      "music": 0.0
+    },
+    {
+      "from": 150.3,
+      "to": 151.38,
+      "sid": 97,
+      "location": 2,
+      "content": "快速决策之后",
+      "music": 0.0
+    },
+    {
+      "from": 151.38,
+      "to": 152.78,
+      "sid": 98,
+      "location": 2,
+      "content": "把大多数的人都砍了",
+      "music": 0.0
+    },
+    {
+      "from": 152.78,
+      "to": 154.78,
+      "sid": 99,
+      "location": 2,
+      "content": "从而收缩到了一个小团队的一个形态",
+      "music": 0.0
+    },
+    {
+      "from": 154.78,
+      "to": 156.14,
+      "sid": 100,
+      "location": 2,
+      "content": "可能只有他和他的一个助理",
+      "music": 0.0
+    },
+    {
+      "from": 156.14,
+      "to": 157.46,
+      "sid": 101,
+      "location": 2,
+      "content": "只不过一般这样的人",
+      "music": 0.0
+    },
+    {
+      "from": 157.46,
+      "to": 159.8,
+      "sid": 102,
+      "location": 2,
+      "content": "不愿意给自己扣一顶叫艺人公司的帽子",
+      "music": 0.0
+    },
+    {
+      "from": 159.8,
+      "to": 161.36,
+      "sid": 103,
+      "location": 2,
+      "content": "包括我现在的业务也一样",
+      "music": 0.0
+    },
+    {
+      "from": 161.36,
+      "to": 162.56,
+      "sid": 104,
+      "location": 2,
+      "content": "核心人员包括我在内",
+      "music": 0.0
+    },
+    {
+      "from": 162.56,
+      "to": 163.56,
+      "sid": 105,
+      "location": 2,
+      "content": "总共就只有两个人",
+      "music": 0.0
+    },
+    {
+      "from": 163.56,
+      "to": 165.24,
+      "sid": 106,
+      "location": 2,
+      "content": "但是还有其他的大量的人",
+      "music": 0.0
+    },
+    {
+      "from": 165.24,
+      "to": 166.64,
+      "sid": 107,
+      "location": 2,
+      "content": "可能以外包签合同",
+      "music": 0.0
+    },
+    {
+      "from": 166.64,
+      "to": 167.28,
+      "sid": 108,
+      "location": 2,
+      "content": "合作的方式",
+      "music": 0.0
+    },
+    {
+      "from": 167.28,
+      "to": 169.78,
+      "sid": 109,
+      "location": 2,
+      "content": "或者是互相帮忙的方式存在于这个业务当中",
+      "music": 0.0
+    },
+    {
+      "from": 169.78,
+      "to": 170.86,
+      "sid": 110,
+      "location": 2,
+      "content": "所以我这边人少",
+      "music": 0.0
+    },
+    {
+      "from": 170.86,
+      "to": 172.5,
+      "sid": 111,
+      "location": 2,
+      "content": "不代表我不需要外部的帮助",
+      "music": 0.0
+    },
+    {
+      "from": 172.5,
+      "to": 173.98,
+      "sid": 112,
+      "location": 2,
+      "content": "只不过这些帮助我的人",
+      "music": 0.0
+    },
+    {
+      "from": 173.98,
+      "to": 175.54,
+      "sid": 113,
+      "location": 2,
+      "content": "他并不需要和我高效沟通",
+      "music": 0.0
+    },
+    {
+      "from": 175.54,
+      "to": 176.5,
+      "sid": 114,
+      "location": 2,
+      "content": "所以我们签一个合同",
+      "music": 0.0
+    },
+    {
+      "from": 176.5,
+      "to": 177.78,
+      "sid": 115,
+      "location": 2,
+      "content": "偶尔对接一下就完事了",
+      "music": 0.0
+    },
+    {
+      "from": 177.78,
+      "to": 180.34,
+      "sid": 116,
+      "location": 2,
+      "content": "这件事情的核心是要让具备不同功能的人",
+      "music": 0.0
+    },
+    {
+      "from": 180.34,
+      "to": 182.82,
+      "sid": 117,
+      "location": 2,
+      "content": "以不同的形态存在于我的业务里面",
+      "music": 0.0
+    },
+    {
+      "from": 182.82,
+      "to": 184.28,
+      "sid": 118,
+      "location": 2,
+      "content": "而不是简单的数人头",
+      "music": 0.0
+    },
+    {
+      "from": 184.28,
+      "to": 185.94,
+      "sid": 119,
+      "location": 2,
+      "content": "第二点就是关于这个自由度的问题",
+      "music": 0.0
+    },
+    {
+      "from": 185.94,
+      "to": 186.86,
+      "sid": 120,
+      "location": 2,
+      "content": "有些人觉得啊",
+      "music": 0.0
+    },
+    {
+      "from": 186.86,
+      "to": 188.1,
+      "sid": 121,
+      "location": 2,
+      "content": "我天天睡到中午才起床",
+      "music": 0.0
+    },
+    {
+      "from": 188.1,
+      "to": 188.94,
+      "sid": 122,
+      "location": 2,
+      "content": "我是不是逍遥自在",
+      "music": 0.0
+    },
+    {
+      "from": 188.94,
+      "to": 189.62,
+      "sid": 123,
+      "location": 2,
+      "content": "想干嘛就干嘛",
+      "music": 0.0
+    },
+    {
+      "from": 189.62,
+      "to": 191.22,
+      "sid": 124,
+      "location": 2,
+      "content": "还有些人觉得我又要发短视频",
+      "music": 0.0
+    },
+    {
+      "from": 191.22,
+      "to": 191.74,
+      "sid": 125,
+      "location": 2,
+      "content": "又要直播",
+      "music": 0.0
+    },
+    {
+      "from": 191.74,
+      "to": 192.3,
+      "sid": 126,
+      "location": 2,
+      "content": "又要交付",
+      "music": 0.0
+    },
+    {
+      "from": 192.3,
+      "to": 193.62,
+      "sid": 127,
+      "location": 2,
+      "content": "我一天要发五条朋友圈",
+      "music": 0.0
+    },
+    {
+      "from": 193.62,
+      "to": 194.3,
+      "sid": 128,
+      "location": 2,
+      "content": "加十条推文",
+      "music": 0.0
+    },
+    {
+      "from": 194.3,
+      "to": 195.9,
+      "sid": 129,
+      "location": 2,
+      "content": "不知道我一天要工作多少个小时",
+      "music": 0.0
+    },
+    {
+      "from": 195.9,
+      "to": 197.06,
+      "sid": 130,
+      "location": 2,
+      "content": "但真实的情况是",
+      "music": 0.0
+    },
+    {
+      "from": 197.06,
+      "to": 199.54,
+      "sid": 131,
+      "location": 2,
+      "content": "我的目标从来都不是压缩我的工作时间",
+      "music": 0.0
+    },
+    {
+      "from": 199.54,
+      "to": 201.1,
+      "sid": 132,
+      "location": 2,
+      "content": "这个听起来可能会有点诡异啊",
+      "music": 0.0
+    },
+    {
+      "from": 201.1,
+      "to": 202.82,
+      "sid": 133,
+      "location": 2,
+      "content": "我的真实的目标其实是",
+      "music": 0.0
+    },
+    {
+      "from": 202.82,
+      "to": 204.7,
+      "sid": 134,
+      "location": 2,
+      "content": "让我的工作时间无法被计算",
+      "music": 0.0
+    },
+    {
+      "from": 204.7,
+      "to": 207.04,
+      "sid": 135,
+      "location": 2,
+      "content": "因为如果我的工作时长可以被明确计算的话",
+      "music": 0.0
+    },
+    {
+      "from": 207.04,
+      "to": 208.64,
+      "sid": 136,
+      "location": 2,
+      "content": "这意味着存在一条分界线",
+      "music": 0.0
+    },
+    {
+      "from": 208.64,
+      "to": 211.2,
+      "sid": 137,
+      "location": 2,
+      "content": "可以把我的生活和工作分为清晰的两部分",
+      "music": 0.0
+    },
+    {
+      "from": 211.2,
+      "to": 213.68,
+      "sid": 138,
+      "location": 2,
+      "content": "而这个界限就是我想要干掉的那个部分",
+      "music": 0.0
+    },
+    {
+      "from": 213.68,
+      "to": 216.26,
+      "sid": 139,
+      "location": 2,
+      "content": "我一直在想办法去设计更好的商业模式",
+      "music": 0.0
+    },
+    {
+      "from": 216.26,
+      "to": 218.12,
+      "sid": 140,
+      "location": 2,
+      "content": "把那些我出于兴趣热爱",
+      "music": 0.0
+    },
+    {
+      "from": 218.12,
+      "to": 219.48,
+      "sid": 141,
+      "location": 2,
+      "content": "出于玩儿的心态去做出来的",
+      "music": 0.0
+    },
+    {
+      "from": 219.48,
+      "to": 221.1,
+      "sid": 142,
+      "location": 2,
+      "content": "这些产出也能变成钱",
+      "music": 0.0
+    },
+    {
+      "from": 221.1,
+      "to": 222.24,
+      "sid": 143,
+      "location": 2,
+      "content": "我举个最近的例子",
+      "music": 0.0
+    },
+    {
+      "from": 222.24,
+      "to": 223.36,
+      "sid": 144,
+      "location": 2,
+      "content": "因为我的这个性格的原因",
+      "music": 0.0
+    },
+    {
+      "from": 223.36,
+      "to": 225.48,
+      "sid": 145,
+      "location": 2,
+      "content": "我对于以一切的能提升效率的产品",
+      "music": 0.0
+    },
+    {
+      "from": 225.48,
+      "to": 226.36,
+      "sid": 146,
+      "location": 2,
+      "content": "都非常感兴趣",
+      "music": 0.0
+    },
+    {
+      "from": 226.36,
+      "to": 227.36,
+      "sid": 147,
+      "location": 2,
+      "content": "比如说我正在录视频的",
+      "music": 0.0
+    },
+    {
+      "from": 227.36,
+      "to": 227.8,
+      "sid": 148,
+      "location": 2,
+      "content": "这个时候",
+      "music": 0.0
+    },
+    {
+      "from": 227.8,
+      "to": 229.36,
+      "sid": 149,
+      "location": 2,
+      "content": "我有三台Mac的给我工作",
+      "music": 0.0
+    },
+    {
+      "from": 229.36,
+      "to": 230.8,
+      "sid": 150,
+      "location": 2,
+      "content": "我有两个700块钱的充电宝",
+      "music": 0.0
+    },
+    {
+      "from": 230.8,
+      "to": 231.96,
+      "sid": 151,
+      "location": 2,
+      "content": "此时在给我的设备充电",
+      "music": 0.0
+    },
+    {
+      "from": 231.96,
+      "to": 233.08,
+      "sid": 152,
+      "location": 2,
+      "content": "并不是我拍一个视频",
+      "music": 0.0
+    },
+    {
+      "from": 233.08,
+      "to": 235.08,
+      "sid": 153,
+      "location": 2,
+      "content": "就需要这么多的生产力工具来为我工作",
+      "music": 0.0
+    },
+    {
+      "from": 235.08,
+      "to": 237.38,
+      "sid": 154,
+      "location": 2,
+      "content": "而是我对于这些东西本身就有我的兴趣爱好",
+      "music": 0.0
+    },
+    {
+      "from": 237.38,
+      "to": 238.98,
+      "sid": 155,
+      "location": 2,
+      "content": "但是我现在这个账号有一个限制",
+      "music": 0.0
+    },
+    {
+      "from": 238.98,
+      "to": 241.5,
+      "sid": 156,
+      "location": 2,
+      "content": "就是必须是那些能够辅助到自媒体创作的",
+      "music": 0.0
+    },
+    {
+      "from": 241.5,
+      "to": 242.08,
+      "sid": 157,
+      "location": 2,
+      "content": "AI产品",
+      "music": 0.0
+    },
+    {
+      "from": 242.08,
+      "to": 244.06,
+      "sid": 158,
+      "location": 2,
+      "content": "我才能在这个账号上发出来",
+      "music": 0.0
+    },
+    {
+      "from": 244.06,
+      "to": 245.46,
+      "sid": 159,
+      "location": 2,
+      "content": "其他的那些研究的经验",
+      "music": 0.0
+    },
+    {
+      "from": 245.46,
+      "to": 247.08,
+      "sid": 160,
+      "location": 2,
+      "content": "我是不适合在这个账号上发的",
+      "music": 0.0
+    },
+    {
+      "from": 247.08,
+      "to": 248.48,
+      "sid": 161,
+      "location": 2,
+      "content": "这导致我有大量的测评",
+      "music": 0.0
+    },
+    {
+      "from": 248.48,
+      "to": 249.32,
+      "sid": 162,
+      "location": 2,
+      "content": "开箱类的工具",
+      "music": 0.0
+    },
+    {
+      "from": 249.32,
+      "to": 250.72,
+      "sid": 163,
+      "location": 2,
+      "content": "体验类的内容都被浪费掉了",
+      "music": 0.0
+    },
+    {
+      "from": 250.72,
+      "to": 252.28,
+      "sid": 164,
+      "location": 2,
+      "content": "所以我现在专门开了一个小号",
+      "music": 0.0
+    },
+    {
+      "from": 252.28,
+      "to": 253.44,
+      "sid": 165,
+      "location": 2,
+      "content": "叫做的工具箱",
+      "music": 0.0
+    },
+    {
+      "from": 253.44,
+      "to": 254.46,
+      "sid": 166,
+      "location": 2,
+      "content": "就专门发这类内容",
+      "music": 0.0
+    },
+    {
+      "from": 254.46,
+      "to": 256.52,
+      "sid": 167,
+      "location": 2,
+      "content": "那这个在未来就很有可能产生广告",
+      "music": 0.0
+    },
+    {
+      "from": 256.52,
+      "to": 257.56,
+      "sid": 168,
+      "location": 2,
+      "content": "或者佣金类的收入",
+      "music": 0.0
+    },
+    {
+      "from": 257.56,
+      "to": 259.4,
+      "sid": 169,
+      "location": 2,
+      "content": "甚至粉丝量比我现在这个号还要大",
+      "music": 0.0
+    },
+    {
+      "from": 259.4,
+      "to": 259.959,
+      "sid": 170,
+      "location": 2,
+      "content": "都说不好",
+      "music": 0.0
+    },
+    {
+      "from": 259.959,
+      "to": 262.719,
+      "sid": 171,
+      "location": 2,
+      "content": "所以你看我并不是在简单的压缩我的工作时间",
+      "music": 0.0
+    },
+    {
+      "from": 262.719,
+      "to": 265.039,
+      "sid": 172,
+      "location": 2,
+      "content": "我是在尝试让我的这些兴趣娱乐的时间",
+      "music": 0.0
+    },
+    {
+      "from": 265.039,
+      "to": 266.36,
+      "sid": 173,
+      "location": 2,
+      "content": "也可以投入到生产",
+      "music": 0.0
+    },
+    {
+      "from": 266.36,
+      "to": 267.28,
+      "sid": 174,
+      "location": 2,
+      "content": "极端情况下",
+      "music": 0.0
+    },
+    {
+      "from": 267.28,
+      "to": 268.76,
+      "sid": 175,
+      "location": 2,
+      "content": "我其实希望只要我呼吸",
+      "music": 0.0
+    },
+    {
+      "from": 268.76,
+      "to": 269.36,
+      "sid": 176,
+      "location": 2,
+      "content": "我觉得赚钱",
+      "music": 0.0
+    },
+    {
+      "from": 269.36,
+      "to": 270.7,
+      "sid": 177,
+      "location": 2,
+      "content": "那么按照这种标准的话",
+      "music": 0.0
+    },
+    {
+      "from": 270.7,
+      "to": 272.84,
+      "sid": 178,
+      "location": 2,
+      "content": "可能我每天的工作时间其实是24个小时",
+      "music": 0.0
+    },
+    {
+      "from": 272.84,
+      "to": 274.32,
+      "sid": 179,
+      "location": 2,
+      "content": "所以顺便我多嘴一句啊",
+      "music": 0.0
+    },
+    {
+      "from": 274.32,
+      "to": 275.8,
+      "sid": 180,
+      "location": 2,
+      "content": "我看到最近很多人都抄我的账号",
+      "music": 0.0
+    },
+    {
+      "from": 275.8,
+      "to": 276.96,
+      "sid": 181,
+      "location": 2,
+      "content": "我觉得大家没有抄明白",
+      "music": 0.0
+    },
+    {
+      "from": 276.96,
+      "to": 278.4,
+      "sid": 182,
+      "location": 2,
+      "content": "没有抄明白的核心是在于",
+      "music": 0.0
+    },
+    {
+      "from": 278.4,
+      "to": 280.72,
+      "sid": 183,
+      "location": 2,
+      "content": "没有意识到我真正在售卖的",
+      "music": 0.0
+    },
+    {
+      "from": 280.72,
+      "to": 282.52,
+      "sid": 184,
+      "location": 2,
+      "content": "其实是我的好奇心加执行力",
+      "music": 0.0
+    },
+    {
+      "from": 282.52,
+      "to": 283.84,
+      "sid": 185,
+      "location": 2,
+      "content": "我平时研究的这些东西",
+      "music": 0.0
+    },
+    {
+      "from": 283.84,
+      "to": 284.92,
+      "sid": 186,
+      "location": 2,
+      "content": "无论是商业认知",
+      "music": 0.0
+    },
+    {
+      "from": 284.92,
+      "to": 286.54,
+      "sid": 187,
+      "location": 2,
+      "content": "还是自媒体创作的方法什么什么的",
+      "music": 0.0
+    },
+    {
+      "from": 286.54,
+      "to": 289.08,
+      "sid": 188,
+      "location": 2,
+      "content": "其实也是很多其他家人感兴趣的地方",
+      "music": 0.0
+    },
+    {
+      "from": 289.08,
+      "to": 291.16,
+      "sid": 189,
+      "location": 2,
+      "content": "只不过是我有足够的好奇心和执行力",
+      "music": 0.0
+    },
+    {
+      "from": 291.16,
+      "to": 292.66,
+      "sid": 190,
+      "location": 2,
+      "content": "把这件事情研究清楚",
+      "music": 0.0
+    },
+    {
+      "from": 292.66,
+      "to": 293.48,
+      "sid": 191,
+      "location": 2,
+      "content": "拍成短视频",
+      "music": 0.0
+    },
+    {
+      "from": 293.48,
+      "to": 295.24,
+      "sid": 192,
+      "location": 2,
+      "content": "包装成答案放到大家面前",
+      "music": 0.0
+    },
+    {
+      "from": 295.24,
+      "to": 297.4,
+      "sid": 193,
+      "location": 2,
+      "content": "这个是我能获取到流量的根本原因",
+      "music": 0.0
+    },
+    {
+      "from": 297.4,
+      "to": 299.28,
+      "sid": 194,
+      "location": 2,
+      "content": "所以如果大家抄我抄的是这一点的话",
+      "music": 0.0
+    },
+    {
+      "from": 299.28,
+      "to": 301.48,
+      "sid": 195,
+      "location": 2,
+      "content": "最终的结局其实是大家互相学习",
+      "music": 0.0
+    },
+    {
+      "from": 301.48,
+      "to": 302.2,
+      "sid": 196,
+      "location": 2,
+      "content": "互相交流",
+      "music": 0.0
+    },
+    {
+      "from": 302.2,
+      "to": 304.32,
+      "sid": 197,
+      "location": 2,
+      "content": "而不是像现在这样一顿洗稿搬运",
+      "music": 0.0
+    },
+    {
+      "from": 304.32,
+      "to": 305.6,
+      "sid": 198,
+      "location": 2,
+      "content": "恨不得封面都做的一模一样",
+      "music": 0.0
+    },
+    {
+      "from": 305.6,
+      "to": 307.28,
+      "sid": 199,
+      "location": 2,
+      "content": "然后一天被人举报七八回",
+      "music": 0.0
+    },
+    {
+      "from": 307.28,
+      "to": 309.24,
+      "sid": 200,
+      "location": 2,
+      "content": "当你没有在售卖你的好奇心的时候",
+      "music": 0.0
+    },
+    {
+      "from": 309.24,
+      "to": 310.48,
+      "sid": 201,
+      "location": 2,
+      "content": "你真的赚到钱了吗",
+      "music": 0.0
+    },
+    {
+      "from": 310.48,
+      "to": 312.16,
+      "sid": 202,
+      "location": 2,
+      "content": "反正我是没有看到最后一个问题",
+      "music": 0.0
+    },
+    {
+      "from": 312.16,
+      "to": 313.48,
+      "sid": 203,
+      "location": 2,
+      "content": "也是很多人经常会问我的",
+      "music": 0.0
+    },
+    {
+      "from": 313.48,
+      "to": 315.14,
+      "sid": 204,
+      "location": 2,
+      "content": "就是说如果我真的想清楚了",
+      "music": 0.0
+    },
+    {
+      "from": 315.14,
+      "to": 316.34,
+      "sid": 205,
+      "location": 2,
+      "content": "我就是要走这个路线",
+      "music": 0.0
+    },
+    {
+      "from": 316.34,
+      "to": 317.22,
+      "sid": 206,
+      "location": 2,
+      "content": "我就是要不上班",
+      "music": 0.0
+    },
+    {
+      "from": 317.22,
+      "to": 318.34,
+      "sid": 207,
+      "location": 2,
+      "content": "靠这个方法去赚钱的话",
+      "music": 0.0
+    },
+    {
+      "from": 318.34,
+      "to": 319.38,
+      "sid": 208,
+      "location": 2,
+      "content": "那我应该怎么开始呢",
+      "music": 0.0
+    },
+    {
+      "from": 319.38,
+      "to": 320.48,
+      "sid": 209,
+      "location": 2,
+      "content": "我说首先你要想想清楚",
+      "music": 0.0
+    },
+    {
+      "from": 320.48,
+      "to": 322.88,
+      "sid": 210,
+      "location": 2,
+      "content": "你要的其实不是所谓艺人公司这四个大字",
+      "music": 0.0
+    },
+    {
+      "from": 322.88,
+      "to": 323.78,
+      "sid": 211,
+      "location": 2,
+      "content": "因为你回想一下",
+      "music": 0.0
+    },
+    {
+      "from": 323.78,
+      "to": 325.54,
+      "sid": 212,
+      "location": 2,
+      "content": "如果你的公司氛围非常",
+      "music": 0.0
+    },
+    {
+      "from": 325.54,
+      "to": 326.98,
+      "sid": 213,
+      "location": 2,
+      "content": "老板从来都不PUA",
+      "music": 0.0
+    },
+    {
+      "from": 326.98,
+      "to": 328.18,
+      "sid": 214,
+      "location": 2,
+      "content": "你可以带猫带狗去上班",
+      "music": 0.0
+    },
+    {
+      "from": 328.18,
+      "to": 329.34,
+      "sid": 215,
+      "location": 2,
+      "content": "你的年薪也奇高无比",
+      "music": 0.0
+    },
+    {
+      "from": 329.34,
+      "to": 331.34,
+      "sid": 216,
+      "location": 2,
+      "content": "我觉得你大概率是不会想要辞职的",
+      "music": 0.0
+    },
+    {
+      "from": 331.34,
+      "to": 333.42,
+      "sid": 217,
+      "location": 2,
+      "content": "所以你真想要的不是艺人公司这个概念",
+      "music": 0.0
+    },
+    {
+      "from": 333.42,
+      "to": 335.1,
+      "sid": 218,
+      "location": 2,
+      "content": "而是在我新的这种工作形态",
+      "music": 0.0
+    },
+    {
+      "from": 335.1,
+      "to": 335.9,
+      "sid": 219,
+      "location": 2,
+      "content": "工作状态当中",
+      "music": 0.0
+    },
+    {
+      "from": 335.9,
+      "to": 338.1,
+      "sid": 220,
+      "location": 2,
+      "content": "不会产生以前上班的时候他那种痛苦",
+      "music": 0.0
+    },
+    {
+      "from": 338.1,
+      "to": 340.56,
+      "sid": 221,
+      "location": 2,
+      "content": "而我以前提过一个概念叫做生产型兴趣",
+      "music": 0.0
+    },
+    {
+      "from": 340.56,
+      "to": 341.36,
+      "sid": 222,
+      "location": 2,
+      "content": "比如说我只会吃",
+      "music": 0.0
+    },
+    {
+      "from": 341.36,
+      "to": 342.52,
+      "sid": 223,
+      "location": 2,
+      "content": "这就是一个消费型的兴趣",
+      "music": 0.0
+    },
+    {
+      "from": 342.52,
+      "to": 343.4,
+      "sid": 224,
+      "location": 2,
+      "content": "但是如果我吃完了",
+      "music": 0.0
+    },
+    {
+      "from": 343.4,
+      "to": 344.76,
+      "sid": 225,
+      "location": 2,
+      "content": "可以产生非常有意思的评价",
+      "music": 0.0
+    },
+    {
+      "from": 344.76,
+      "to": 345.94,
+      "sid": 226,
+      "location": 2,
+      "content": "可以拍VLOG发到网上",
+      "music": 0.0
+    },
+    {
+      "from": 345.94,
+      "to": 346.66,
+      "sid": 227,
+      "location": 2,
+      "content": "流量还很大",
+      "music": 0.0
+    },
+    {
+      "from": 346.66,
+      "to": 347.84,
+      "sid": 228,
+      "location": 2,
+      "content": "那我就是一个探店博主",
+      "music": 0.0
+    },
+    {
+      "from": 347.84,
+      "to": 349.38,
+      "sid": 229,
+      "location": 2,
+      "content": "这就变成了一个生产型的兴趣",
+      "music": 0.0
+    },
+    {
+      "from": 349.38,
+      "to": 350.66,
+      "sid": 230,
+      "location": 2,
+      "content": "所以我这个事情的核心是",
+      "music": 0.0
+    },
+    {
+      "from": 350.66,
+      "to": 352.34,
+      "sid": 231,
+      "location": 2,
+      "content": "我通过大量的试错和实践",
+      "music": 0.0
+    },
+    {
+      "from": 352.34,
+      "to": 353.9,
+      "sid": 232,
+      "location": 2,
+      "content": "找到了属于我的生产型的兴趣",
+      "music": 0.0
+    },
+    {
+      "from": 353.9,
+      "to": 354.7,
+      "sid": 233,
+      "location": 2,
+      "content": "我在工作的时候",
+      "music": 0.0
+    },
+    {
+      "from": 354.7,
+      "to": 355.34,
+      "sid": 234,
+      "location": 2,
+      "content": "我不内耗",
+      "music": 0.0
+    },
+    {
+      "from": 355.34,
+      "to": 355.9,
+      "sid": 235,
+      "location": 2,
+      "content": "不痛苦",
+      "music": 0.0
+    },
+    {
+      "from": 355.9,
+      "to": 357.9,
+      "sid": 236,
+      "location": 2,
+      "content": "至于我的公司是一个人还是50个人",
+      "music": 0.0
+    },
+    {
+      "from": 357.9,
+      "to": 358.7,
+      "sid": 237,
+      "location": 2,
+      "content": "这无所谓的",
+      "music": 0.0
+    },
+    {
+      "from": 358.7,
+      "to": 360.74,
+      "sid": 238,
+      "location": 2,
+      "content": "并且我身边还真的有一个反向的案例",
+      "music": 0.0
+    },
+    {
+      "from": 360.74,
+      "to": 361.58,
+      "sid": 239,
+      "location": 2,
+      "content": "这个人他不缺钱",
+      "music": 0.0
+    },
+    {
+      "from": 361.58,
+      "to": 362.8,
+      "sid": 240,
+      "location": 2,
+      "content": "但他手下有十几个兄弟",
+      "music": 0.0
+    },
+    {
+      "from": 362.8,
+      "to": 365.02,
+      "sid": 241,
+      "location": 2,
+      "content": "他就是为了让是十几个兄弟能养活",
+      "music": 0.0
+    },
+    {
+      "from": 365.02,
+      "to": 365.7,
+      "sid": 242,
+      "location": 2,
+      "content": "有事可干",
+      "music": 0.0
+    },
+    {
+      "from": 365.7,
+      "to": 366.94,
+      "sid": 243,
+      "location": 2,
+      "content": "而且专门找了一套业务",
+      "music": 0.0
+    },
+    {
+      "from": 366.94,
+      "to": 368.14,
+      "sid": 244,
+      "location": 2,
+      "content": "那虽然我很佩服这个人",
+      "music": 0.0
+    },
+    {
+      "from": 368.14,
+      "to": 369.9,
+      "sid": 245,
+      "location": 2,
+      "content": "但我觉得在积累第一桶金的阶段",
+      "music": 0.0
+    },
+    {
+      "from": 369.9,
+      "to": 371.46,
+      "sid": 246,
+      "location": 2,
+      "content": "这肯定不是你想要解决",
+      "music": 0.0
+    },
+    {
+      "from": 371.46,
+      "to": 373.18,
+      "sid": 247,
+      "location": 2,
+      "content": "也不是你应该去解决的问题",
+      "music": 0.0
+    },
+    {
+      "from": 373.18,
+      "to": 375.26,
+      "sid": 248,
+      "location": 2,
+      "content": "应该去解决的问题是多看对标",
+      "music": 0.0
+    },
+    {
+      "from": 375.26,
+      "to": 376.12,
+      "sid": 249,
+      "location": 2,
+      "content": "多看商业模式",
+      "music": 0.0
+    },
+    {
+      "from": 376.12,
+      "to": 378.88,
+      "sid": 250,
+      "location": 2,
+      "content": "尽可能去模糊掉生活和工作之间的这个边界",
+      "music": 0.0
+    },
+    {
+      "from": 378.88,
+      "to": 381.14,
+      "sid": 251,
+      "location": 2,
+      "content": "把自己的出于兴趣和热爱进行的产出",
+      "music": 0.0
+    },
+    {
+      "from": 381.14,
+      "to": 383.3,
+      "sid": 252,
+      "location": 2,
+      "content": "也变成钱去找一个生产型的兴趣",
+      "music": 0.0
+    },
+    {
+      "from": 383.3,
+      "to": 384.9,
+      "sid": 253,
+      "location": 2,
+      "content": "但这个业务遇到低谷的时候",
+      "music": 0.0
+    },
+    {
+      "from": 384.9,
+      "to": 387.58,
+      "sid": 254,
+      "location": 2,
+      "content": "你出于对这个事情本身的热爱也愿意坚持下去",
+      "music": 0.0
+    },
+    {
+      "from": 387.58,
+      "to": 389.3,
+      "sid": 255,
+      "location": 2,
+      "content": "而不是你这个收入消微下滑一点",
+      "music": 0.0
+    },
+    {
+      "from": 389.3,
+      "to": 390.4,
+      "sid": 256,
+      "location": 2,
+      "content": "你就着急回去上班了",
+      "music": 0.0
+    },
+    {
+      "from": 390.4,
+      "to": 393.54,
+      "sid": 257,
+      "location": 2,
+      "content": "这才是你要进入到最终你想要的那个生活状态",
+      "music": 0.0
+    },
+    {
+      "from": 393.54,
+      "to": 394.98,
+      "sid": 258,
+      "location": 2,
+      "content": "实现你想要的那个愿景",
+      "music": 0.0
+    },
+    {
+      "from": 394.98,
+      "to": 396.7,
+      "sid": 259,
+      "location": 2,
+      "content": "你真正需要去搞定的事情",
+      "music": 0.0
+    },
+    {
+      "from": 396.7,
+      "to": 397.78,
+      "sid": 260,
+      "location": 2,
+      "content": "而不是去操心",
+      "music": 0.0
+    },
+    {
+      "from": 397.78,
+      "to": 399.72,
+      "sid": 261,
+      "location": 2,
+      "content": "我要注册个个体户还是注册个公司",
+      "music": 0.0
+    },
+    {
+      "from": 399.72,
+      "to": 400.62,
+      "sid": 262,
+      "location": 2,
+      "content": "也不是去操心",
+      "music": 0.0
+    },
+    {
+      "from": 400.62,
+      "to": 402.9,
+      "sid": 263,
+      "location": 2,
+      "content": "我的公司是一人公司还是俩人公司",
+      "music": 0.0
+    }
+  ]
+}

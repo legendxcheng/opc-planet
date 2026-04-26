@@ -1,0 +1,1252 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.08,
+      "to": 2.16,
+      "sid": 1,
+      "location": 2,
+      "content": "绝大多数人这辈子都赚不到太多钱",
+      "music": 0.0
+    },
+    {
+      "from": 5.0,
+      "to": 7.92,
+      "sid": 2,
+      "location": 2,
+      "content": "他把上学读书当成是了最重大的一笔投资",
+      "music": 0.0
+    },
+    {
+      "from": 7.92,
+      "to": 9.08,
+      "sid": 3,
+      "location": 2,
+      "content": "但是你仔细想想",
+      "music": 0.0
+    },
+    {
+      "from": 9.08,
+      "to": 9.56,
+      "sid": 4,
+      "location": 2,
+      "content": "你就会发现",
+      "music": 0.0
+    },
+    {
+      "from": 9.56,
+      "to": 10.96,
+      "sid": 5,
+      "location": 2,
+      "content": "对于绝大多数人而言",
+      "music": 0.0
+    },
+    {
+      "from": 10.96,
+      "to": 13.0,
+      "sid": 6,
+      "location": 2,
+      "content": "上学它其实是一个消费行为",
+      "music": 0.0
+    },
+    {
+      "from": 13.0,
+      "to": 14.16,
+      "sid": 7,
+      "location": 2,
+      "content": "他作为一笔消费",
+      "music": 0.0
+    },
+    {
+      "from": 14.16,
+      "to": 15.44,
+      "sid": 8,
+      "location": 2,
+      "content": "他和你花一笔钱去旅游",
+      "music": 0.0
+    },
+    {
+      "from": 15.44,
+      "to": 17.56,
+      "sid": 9,
+      "location": 2,
+      "content": "甚至你喝了杯奶茶是没有本质区别的",
+      "music": 0.0
+    },
+    {
+      "from": 17.56,
+      "to": 18.82,
+      "sid": 10,
+      "location": 2,
+      "content": "我们说怎么投资啊",
+      "music": 0.0
+    },
+    {
+      "from": 18.82,
+      "to": 20.38,
+      "sid": 11,
+      "location": 2,
+      "content": "第一你知道你赚的是什么钱",
+      "music": 0.0
+    },
+    {
+      "from": 20.38,
+      "to": 21.58,
+      "sid": 12,
+      "location": 2,
+      "content": "这个叫明确的目的",
+      "music": 0.0
+    },
+    {
+      "from": 21.58,
+      "to": 23.02,
+      "sid": 13,
+      "location": 2,
+      "content": "第二你知道你大概什么",
+      "music": 0.0
+    },
+    {
+      "from": 23.02,
+      "to": 24.58,
+      "sid": 14,
+      "location": 2,
+      "content": "什么时候能赚大概多少钱",
+      "music": 0.0
+    },
+    {
+      "from": 24.58,
+      "to": 25.9,
+      "sid": 15,
+      "location": 2,
+      "content": "这个叫可预期的收益",
+      "music": 0.0
+    },
+    {
+      "from": 25.9,
+      "to": 27.98,
+      "sid": 16,
+      "location": 2,
+      "content": "第三你知道最坏的情况是什么",
+      "music": 0.0
+    },
+    {
+      "from": 27.98,
+      "to": 29.06,
+      "sid": 17,
+      "location": 2,
+      "content": "这个叫可控的风险",
+      "music": 0.0
+    },
+    {
+      "from": 29.06,
+      "to": 31.58,
+      "sid": 18,
+      "location": 2,
+      "content": "但是绝大多数家庭让孩子上学的时候",
+      "music": 0.0
+    },
+    {
+      "from": 31.58,
+      "to": 33.22,
+      "sid": 19,
+      "location": 2,
+      "content": "我应该没有算过这笔账吧",
+      "music": 0.0
+    },
+    {
+      "from": 33.22,
+      "to": 35.14,
+      "sid": 20,
+      "location": 2,
+      "content": "只是隐约觉得我这个学一定要上了",
+      "music": 0.0
+    },
+    {
+      "from": 35.14,
+      "to": 37.22,
+      "sid": 21,
+      "location": 2,
+      "content": "压根我也没有考虑过不上大学这个选项",
+      "music": 0.0
+    },
+    {
+      "from": 37.22,
+      "to": 38.82,
+      "sid": 22,
+      "location": 2,
+      "content": "我觉得大家普遍有一个思维惯性",
+      "music": 0.0
+    },
+    {
+      "from": 38.82,
+      "to": 41.54,
+      "sid": 23,
+      "location": 2,
+      "content": "就是觉得让孩子上学肯定是一笔超值投资",
+      "music": 0.0
+    },
+    {
+      "from": 41.54,
+      "to": 43.14,
+      "sid": 24,
+      "location": 2,
+      "content": "而其中一个重要的原因就是",
+      "music": 0.0
+    },
+    {
+      "from": 43.14,
+      "to": 44.68,
+      "sid": 25,
+      "location": 2,
+      "content": "这事儿实在太他妈痛苦了",
+      "music": 0.0
+    },
+    {
+      "from": 44.68,
+      "to": 46.06,
+      "sid": 26,
+      "location": 2,
+      "content": "从老师到学生到家长",
+      "music": 0.0
+    },
+    {
+      "from": 46.06,
+      "to": 46.98,
+      "sid": 27,
+      "location": 2,
+      "content": "大家都很痛苦",
+      "music": 0.0
+    },
+    {
+      "from": 46.98,
+      "to": 48.26,
+      "sid": 28,
+      "location": 2,
+      "content": "我做这个事儿这么痛苦",
+      "music": 0.0
+    },
+    {
+      "from": 48.26,
+      "to": 49.32,
+      "sid": 29,
+      "location": 2,
+      "content": "总得有些回报吧",
+      "music": 0.0
+    },
+    {
+      "from": 49.32,
+      "to": 51.04,
+      "sid": 30,
+      "location": 2,
+      "content": "但现实情况是有回报的事",
+      "music": 0.0
+    },
+    {
+      "from": 51.04,
+      "to": 52.08,
+      "sid": 31,
+      "location": 2,
+      "content": "不一定会让你痛苦的",
+      "music": 0.0
+    },
+    {
+      "from": 52.08,
+      "to": 54.2,
+      "sid": 32,
+      "location": 2,
+      "content": "让你痛苦的事情也不一定会有回报的",
+      "music": 0.0
+    },
+    {
+      "from": 54.2,
+      "to": 55.0,
+      "sid": 33,
+      "location": 2,
+      "content": "比如说我点过外卖",
+      "music": 0.0
+    },
+    {
+      "from": 55.0,
+      "to": 55.84,
+      "sid": 34,
+      "location": 2,
+      "content": "送过来菜特别咸",
+      "music": 0.0
+    },
+    {
+      "from": 55.84,
+      "to": 56.44,
+      "sid": 35,
+      "location": 2,
+      "content": "我没法吃",
+      "music": 0.0
+    },
+    {
+      "from": 56.44,
+      "to": 57.04,
+      "sid": 36,
+      "location": 2,
+      "content": "我很痛苦",
+      "music": 0.0
+    },
+    {
+      "from": 57.04,
+      "to": 58.28,
+      "sid": 37,
+      "location": 2,
+      "content": "那难道因为我很痛苦",
+      "music": 0.0
+    },
+    {
+      "from": 58.28,
+      "to": 59.28,
+      "sid": 38,
+      "location": 2,
+      "content": "这个事就变成投资了吗",
+      "music": 0.0
+    },
+    {
+      "from": 59.28,
+      "to": 60.6,
+      "sid": 39,
+      "location": 2,
+      "content": "你点外卖他依然是消费啊",
+      "music": 0.0
+    },
+    {
+      "from": 60.6,
+      "to": 61.6,
+      "sid": 40,
+      "location": 2,
+      "content": "另外一个思维惯性是",
+      "music": 0.0
+    },
+    {
+      "from": 61.6,
+      "to": 63.32,
+      "sid": 41,
+      "location": 2,
+      "content": "从上世纪八九十年代到现在",
+      "music": 0.0
+    },
+    {
+      "from": 63.32,
+      "to": 63.76,
+      "sid": 42,
+      "location": 2,
+      "content": "考大学",
+      "music": 0.0
+    },
+    {
+      "from": 63.76,
+      "to": 67.1,
+      "sid": 43,
+      "location": 2,
+      "content": "一直是一个看起来非非常像是投资的一个行为",
+      "music": 0.0
+    },
+    {
+      "from": 67.1,
+      "to": 69.22,
+      "sid": 44,
+      "location": 2,
+      "content": "而且好像投资回报率还很高",
+      "music": 0.0
+    },
+    {
+      "from": 69.22,
+      "to": 71.68,
+      "sid": 45,
+      "location": 2,
+      "content": "以至于给全国人民都留下了非常深刻的印象",
+      "music": 0.0
+    },
+    {
+      "from": 71.68,
+      "to": 73.64,
+      "sid": 46,
+      "location": 2,
+      "content": "但实际上如果你仔细想想的话",
+      "music": 0.0
+    },
+    {
+      "from": 73.64,
+      "to": 74.24,
+      "sid": 47,
+      "location": 2,
+      "content": "你就会发现",
+      "music": 0.0
+    },
+    {
+      "from": 74.24,
+      "to": 76.48,
+      "sid": 48,
+      "location": 2,
+      "content": "即便是在上世纪八九十年代考大学",
+      "music": 0.0
+    },
+    {
+      "from": 76.48,
+      "to": 76.88,
+      "sid": 49,
+      "location": 2,
+      "content": "觉得这个事儿",
+      "music": 0.0
+    },
+    {
+      "from": 76.88,
+      "to": 79.32,
+      "sid": 50,
+      "location": 2,
+      "content": "他也不是投资一个比较合适的名字",
+      "music": 0.0
+    },
+    {
+      "from": 79.32,
+      "to": 80.06,
+      "sid": 51,
+      "location": 2,
+      "content": "应该叫竞技",
+      "music": 0.0
+    },
+    {
+      "from": 80.06,
+      "to": 82.46,
+      "sid": 52,
+      "location": 2,
+      "content": "那个时候你考上大学可以包分有铁饭碗",
+      "music": 0.0
+    },
+    {
+      "from": 82.46,
+      "to": 83.66,
+      "sid": 53,
+      "location": 2,
+      "content": "他作为经济上的回报",
+      "music": 0.0
+    },
+    {
+      "from": 83.66,
+      "to": 86.54,
+      "sid": 54,
+      "location": 2,
+      "content": "甚至是整个人生轨迹上的回报都是非常丰厚的",
+      "music": 0.0
+    },
+    {
+      "from": 86.54,
+      "to": 87.28,
+      "sid": 55,
+      "location": 2,
+      "content": "这没有问题",
+      "music": 0.0
+    },
+    {
+      "from": 87.28,
+      "to": 89.74,
+      "sid": 56,
+      "location": 2,
+      "content": "但问题是他的信息对称性太高了",
+      "music": 0.0
+    },
+    {
+      "from": 89.74,
+      "to": 92.5,
+      "sid": 57,
+      "location": 2,
+      "content": "说人话就是谁都知道这件事情回报很高",
+      "music": 0.0
+    },
+    {
+      "from": 92.5,
+      "to": 94.16,
+      "sid": 58,
+      "location": 2,
+      "content": "他对于人的认知是没有筛选的",
+      "music": 0.0
+    },
+    {
+      "from": 94.16,
+      "to": 95.12,
+      "sid": 59,
+      "location": 2,
+      "content": "这个事鬼都知道",
+      "music": 0.0
+    },
+    {
+      "from": 95.12,
+      "to": 97.5,
+      "sid": 60,
+      "location": 2,
+      "content": "所以这个事情和我们通常所理解的那种",
+      "music": 0.0
+    },
+    {
+      "from": 97.5,
+      "to": 100.18,
+      "sid": 61,
+      "location": 2,
+      "content": "只有少数人才能做出正确决策的那个投资",
+      "music": 0.0
+    },
+    {
+      "from": 100.18,
+      "to": 101.14,
+      "sid": 62,
+      "location": 2,
+      "content": "它不是一回事",
+      "music": 0.0
+    },
+    {
+      "from": 101.14,
+      "to": 103.34,
+      "sid": 63,
+      "location": 2,
+      "content": "这个事的特征是他的认知成本极低",
+      "music": 0.0
+    },
+    {
+      "from": 103.34,
+      "to": 104.88,
+      "sid": 64,
+      "location": 2,
+      "content": "但是执行成本极高",
+      "music": 0.0
+    },
+    {
+      "from": 104.88,
+      "to": 107.04,
+      "sid": 65,
+      "location": 2,
+      "content": "我知道我考上大学就有铁饭碗了",
+      "music": 0.0
+    },
+    {
+      "from": 107.04,
+      "to": 108.88,
+      "sid": 66,
+      "location": 2,
+      "content": "但问题是大家都考不上",
+      "music": 0.0
+    },
+    {
+      "from": 108.88,
+      "to": 110.46,
+      "sid": 67,
+      "location": 2,
+      "content": "所以这个事它不能叫投资",
+      "music": 0.0
+    },
+    {
+      "from": 110.46,
+      "to": 112.16,
+      "sid": 68,
+      "location": 2,
+      "content": "你把这个概念再极端推导一下",
+      "music": 0.0
+    },
+    {
+      "from": 112.16,
+      "to": 113.82,
+      "sid": 69,
+      "location": 2,
+      "content": "你会发现另外一个概念叫投胎",
+      "music": 0.0
+    },
+    {
+      "from": 113.82,
+      "to": 115.7,
+      "sid": 70,
+      "location": 2,
+      "content": "就谁都知道投胎投个好爹",
+      "music": 0.0
+    },
+    {
+      "from": 115.7,
+      "to": 116.18,
+      "sid": 71,
+      "location": 2,
+      "content": "投个好妈",
+      "music": 0.0
+    },
+    {
+      "from": 116.18,
+      "to": 117.1,
+      "sid": 72,
+      "location": 2,
+      "content": "我的日子就好过了",
+      "music": 0.0
+    },
+    {
+      "from": 117.1,
+      "to": 118.38,
+      "sid": 73,
+      "location": 2,
+      "content": "但问题是没办法",
+      "music": 0.0
+    },
+    {
+      "from": 118.38,
+      "to": 118.94,
+      "sid": 74,
+      "location": 2,
+      "content": "时空倒流",
+      "music": 0.0
+    },
+    {
+      "from": 118.94,
+      "to": 119.92,
+      "sid": 75,
+      "location": 2,
+      "content": "我投不了呀",
+      "music": 0.0
+    },
+    {
+      "from": 119.92,
+      "to": 121.88,
+      "sid": 76,
+      "location": 2,
+      "content": "所以那个时候纯粹是竞技逻辑",
+      "music": 0.0
+    },
+    {
+      "from": 121.88,
+      "to": 123.04,
+      "sid": 77,
+      "location": 2,
+      "content": "比赛逻辑相比",
+      "music": 0.0
+    },
+    {
+      "from": 123.04,
+      "to": 125.46,
+      "sid": 78,
+      "location": 2,
+      "content": "那个时候反而而是现在的上学",
+      "music": 0.0
+    },
+    {
+      "from": 125.46,
+      "to": 127.86,
+      "sid": 79,
+      "location": 2,
+      "content": "读书才有可能成为一种投资手段",
+      "music": 0.0
+    },
+    {
+      "from": 127.86,
+      "to": 129.9,
+      "sid": 80,
+      "location": 2,
+      "content": "但问题是在于对人的要求太高了",
+      "music": 0.0
+    },
+    {
+      "from": 129.9,
+      "to": 131.54,
+      "sid": 81,
+      "location": 2,
+      "content": "第一你要把这个事变成投资",
+      "music": 0.0
+    },
+    {
+      "from": 131.54,
+      "to": 132.18,
+      "sid": 82,
+      "location": 2,
+      "content": "并且回本",
+      "music": 0.0
+    },
+    {
+      "from": 132.18,
+      "to": 133.26,
+      "sid": 83,
+      "location": 2,
+      "content": "我们讲基础逻辑啊",
+      "music": 0.0
+    },
+    {
+      "from": 133.26,
+      "to": 134.64,
+      "sid": 84,
+      "location": 2,
+      "content": "叫先有目的后有手段",
+      "music": 0.0
+    },
+    {
+      "from": 134.64,
+      "to": 137.7,
+      "sid": 85,
+      "location": 2,
+      "content": "最好从一开始你就有一个明确的商业模式",
+      "music": 0.0
+    },
+    {
+      "from": 137.7,
+      "to": 139.94,
+      "sid": 86,
+      "location": 2,
+      "content": "可以把你积累的这个学历或者是知识",
+      "music": 0.0
+    },
+    {
+      "from": 139.94,
+      "to": 140.7,
+      "sid": 87,
+      "location": 2,
+      "content": "进行商品化",
+      "music": 0.0
+    },
+    {
+      "from": 140.7,
+      "to": 142.14,
+      "sid": 88,
+      "location": 2,
+      "content": "有了一个明确的目标之后",
+      "music": 0.0
+    },
+    {
+      "from": 142.14,
+      "to": 143.82,
+      "sid": 89,
+      "location": 2,
+      "content": "你再去针对性的去学那个东西",
+      "music": 0.0
+    },
+    {
+      "from": 143.82,
+      "to": 147.08,
+      "sid": 90,
+      "location": 2,
+      "content": "而这意味着你打从一开始就知道你想卖什么",
+      "music": 0.0
+    },
+    {
+      "from": 147.08,
+      "to": 148.52,
+      "sid": 91,
+      "location": 2,
+      "content": "可是对于一个18岁的",
+      "music": 0.0
+    },
+    {
+      "from": 148.52,
+      "to": 150.32,
+      "sid": 92,
+      "location": 2,
+      "content": "刚上大一的一个学生来说",
+      "music": 0.0
+    },
+    {
+      "from": 150.32,
+      "to": 153.22,
+      "sid": 93,
+      "location": 2,
+      "content": "他高中3年恨不得老师家长都不想让他上上网",
+      "music": 0.0
+    },
+    {
+      "from": 153.22,
+      "to": 154.78,
+      "sid": 94,
+      "location": 2,
+      "content": "怎么可能能知道他要卖什么",
+      "music": 0.0
+    },
+    {
+      "from": 154.78,
+      "to": 155.98,
+      "sid": 95,
+      "location": 2,
+      "content": "很多人这辈子都没有搞清楚",
+      "music": 0.0
+    },
+    {
+      "from": 155.98,
+      "to": 158.74,
+      "sid": 96,
+      "location": 2,
+      "content": "那些极少数的能把上学变成投资的学生",
+      "music": 0.0
+    },
+    {
+      "from": 158.74,
+      "to": 159.9,
+      "sid": 97,
+      "location": 2,
+      "content": "他不是简单的上学",
+      "music": 0.0
+    },
+    {
+      "from": 159.9,
+      "to": 161.14,
+      "sid": 98,
+      "location": 2,
+      "content": "他是带着认知去上学",
+      "music": 0.0
+    },
+    {
+      "from": 161.14,
+      "to": 162.46,
+      "sid": 99,
+      "location": 2,
+      "content": "他是有明确的目标的",
+      "music": 0.0
+    },
+    {
+      "from": 162.46,
+      "to": 163.68,
+      "sid": 100,
+      "location": 2,
+      "content": "比如说名校的校友会",
+      "music": 0.0
+    },
+    {
+      "from": 163.68,
+      "to": 165.08,
+      "sid": 101,
+      "location": 2,
+      "content": "我从这个大学毕业的时候",
+      "music": 0.0
+    },
+    {
+      "from": 165.08,
+      "to": 167.44,
+      "sid": 102,
+      "location": 2,
+      "content": "如果带着一圈非常有价值的人脉毕业",
+      "music": 0.0
+    },
+    {
+      "from": 167.44,
+      "to": 169.24,
+      "sid": 103,
+      "location": 2,
+      "content": "那可能是一笔非常成功的投资",
+      "music": 0.0
+    },
+    {
+      "from": 169.24,
+      "to": 171.12,
+      "sid": 104,
+      "location": 2,
+      "content": "但这些学生在进入学校之前",
+      "music": 0.0
+    },
+    {
+      "from": 171.12,
+      "to": 173.04,
+      "sid": 105,
+      "location": 2,
+      "content": "钱可能父母就已经跟他交代好了啊",
+      "music": 0.0
+    },
+    {
+      "from": 173.04,
+      "to": 175.32,
+      "sid": 106,
+      "location": 2,
+      "content": "咱去了大学之后很明确目标就是啥",
+      "music": 0.0
+    },
+    {
+      "from": 175.32,
+      "to": 177.36,
+      "sid": 107,
+      "location": 2,
+      "content": "咱又通过什么样的方式和同学去建立关系",
+      "music": 0.0
+    },
+    {
+      "from": 177.36,
+      "to": 178.24,
+      "sid": 108,
+      "location": 2,
+      "content": "1234567",
+      "music": 0.0
+    },
+    {
+      "from": 178.24,
+      "to": 180.7,
+      "sid": 109,
+      "location": 2,
+      "content": "这种带这明确的目的和认知去上学",
+      "music": 0.0
+    },
+    {
+      "from": 180.7,
+      "to": 182.54,
+      "sid": 110,
+      "location": 2,
+      "content": "和那些纯靠自己学习成绩好",
+      "music": 0.0
+    },
+    {
+      "from": 182.54,
+      "to": 184.88,
+      "sid": 111,
+      "location": 2,
+      "content": "然后闷头读了4年书就直接毕业的那些人",
+      "music": 0.0
+    },
+    {
+      "from": 184.88,
+      "to": 186.44,
+      "sid": 112,
+      "location": 2,
+      "content": "可能在同一个学校里是同学",
+      "music": 0.0
+    },
+    {
+      "from": 186.44,
+      "to": 188.24,
+      "sid": 113,
+      "location": 2,
+      "content": "但是他们干的完全不是一回事",
+      "music": 0.0
+    },
+    {
+      "from": 188.24,
+      "to": 189.68,
+      "sid": 114,
+      "location": 2,
+      "content": "比较现实的一种情况是",
+      "music": 0.0
+    },
+    {
+      "from": 189.68,
+      "to": 191.84,
+      "sid": 115,
+      "location": 2,
+      "content": "一开始上学的确没有明确的目的",
+      "music": 0.0
+    },
+    {
+      "from": 191.84,
+      "to": 193.52,
+      "sid": 116,
+      "location": 2,
+      "content": "但是这4年你可以边干边摸索",
+      "music": 0.0
+    },
+    {
+      "from": 193.52,
+      "to": 196.32,
+      "sid": 117,
+      "location": 2,
+      "content": "我靠自己赚的第一笔钱是我大一暑假的时候",
+      "music": 0.0
+    },
+    {
+      "from": 196.32,
+      "to": 197.6,
+      "sid": 118,
+      "location": 2,
+      "content": "自己独立开发写app",
+      "music": 0.0
+    },
+    {
+      "from": 197.6,
+      "to": 198.96,
+      "sid": 119,
+      "location": 2,
+      "content": "我一个月能赚个几百块钱啊",
+      "music": 0.0
+    },
+    {
+      "from": 198.96,
+      "to": 200.96,
+      "sid": 120,
+      "location": 2,
+      "content": "虽然最终我也没有靠这个事情赚到大钱",
+      "music": 0.0
+    },
+    {
+      "from": 200.96,
+      "to": 203.56,
+      "sid": 121,
+      "location": 2,
+      "content": "但是我大学毕业之后的第一份工作我敢裸辞",
+      "music": 0.0
+    },
+    {
+      "from": 203.56,
+      "to": 205.44,
+      "sid": 122,
+      "location": 2,
+      "content": "就是因为当时有一些手上的app",
+      "music": 0.0
+    },
+    {
+      "from": 205.44,
+      "to": 206.68,
+      "sid": 123,
+      "location": 2,
+      "content": "可以给我提供被动收入",
+      "music": 0.0
+    },
+    {
+      "from": 206.68,
+      "to": 207.64,
+      "sid": 124,
+      "location": 2,
+      "content": "保障我的基本生活",
+      "music": 0.0
+    },
+    {
+      "from": 207.64,
+      "to": 209.44,
+      "sid": 125,
+      "location": 2,
+      "content": "但是这个技能并不是学校教给我的",
+      "music": 0.0
+    },
+    {
+      "from": 209.44,
+      "to": 211.82,
+      "sid": 126,
+      "location": 2,
+      "content": "实际上我对母校最大的感激就是事少",
+      "music": 0.0
+    },
+    {
+      "from": 211.82,
+      "to": 213.72,
+      "sid": 127,
+      "location": 2,
+      "content": "没有给我安排什么乱七八糟一堆活动",
+      "music": 0.0
+    },
+    {
+      "from": 213.72,
+      "to": 216.36,
+      "sid": 128,
+      "location": 2,
+      "content": "让我有充分的时间在宿舍里面可以自己写代码",
+      "music": 0.0
+    },
+    {
+      "from": 216.36,
+      "to": 218.36,
+      "sid": 129,
+      "location": 2,
+      "content": "这个是我最最感激母校的地方",
+      "music": 0.0
+    },
+    {
+      "from": 218.36,
+      "to": 219.68,
+      "sid": 130,
+      "location": 2,
+      "content": "没有任何的阴阳怪气",
+      "music": 0.0
+    },
+    {
+      "from": 219.68,
+      "to": 220.44,
+      "sid": 131,
+      "location": 2,
+      "content": "真是大实话",
+      "music": 0.0
+    },
+    {
+      "from": 220.44,
+      "to": 221.28,
+      "sid": 132,
+      "location": 2,
+      "content": "就上学这个东西",
+      "music": 0.0
+    },
+    {
+      "from": 221.28,
+      "to": 223.48,
+      "sid": 133,
+      "location": 2,
+      "content": "它设计出来就不是用来让你赚钱的",
+      "music": 0.0
+    },
+    {
+      "from": 223.48,
+      "to": 225.24,
+      "sid": 134,
+      "location": 2,
+      "content": "就不是用来让你投资的",
+      "music": 0.0
+    },
+    {
+      "from": 225.24,
+      "to": 227.78,
+      "sid": 135,
+      "location": 2,
+      "content": "所以绝大大多数人就是只能把上学当成消费",
+      "music": 0.0
+    },
+    {
+      "from": 227.78,
+      "to": 228.54,
+      "sid": 136,
+      "location": 2,
+      "content": "去体验一把",
+      "music": 0.0
+    },
+    {
+      "from": 228.54,
+      "to": 229.86,
+      "sid": 137,
+      "location": 2,
+      "content": "体验完了事就结束了",
+      "music": 0.0
+    },
+    {
+      "from": 229.86,
+      "to": 232.36,
+      "sid": 138,
+      "location": 2,
+      "content": "但有人说我上学长见识你出国旅游一趟",
+      "music": 0.0
+    },
+    {
+      "from": 232.36,
+      "to": 233.08,
+      "sid": 139,
+      "location": 2,
+      "content": "去发达国家",
+      "music": 0.0
+    },
+    {
+      "from": 233.08,
+      "to": 234.36,
+      "sid": 140,
+      "location": 2,
+      "content": "你回来你也长见识",
+      "music": 0.0
+    },
+    {
+      "from": 234.36,
+      "to": 235.4,
+      "sid": 141,
+      "location": 2,
+      "content": "旅游结束之后",
+      "music": 0.0
+    },
+    {
+      "from": 235.4,
+      "to": 237.08,
+      "sid": 142,
+      "location": 2,
+      "content": "你该上班上班该干嘛干嘛",
+      "music": 0.0
+    },
+    {
+      "from": 237.08,
+      "to": 238.84,
+      "sid": 143,
+      "location": 2,
+      "content": "所以只有有目的的学习",
+      "music": 0.0
+    },
+    {
+      "from": 238.84,
+      "to": 239.64,
+      "sid": 144,
+      "location": 2,
+      "content": "他才是投资",
+      "music": 0.0
+    },
+    {
+      "from": 239.64,
+      "to": 240.64,
+      "sid": 145,
+      "location": 2,
+      "content": "没有目的的学习",
+      "music": 0.0
+    },
+    {
+      "from": 240.64,
+      "to": 241.8,
+      "sid": 146,
+      "location": 2,
+      "content": "它只能是消费",
+      "music": 0.0
+    },
+    {
+      "from": 241.8,
+      "to": 244.6,
+      "sid": 147,
+      "location": 2,
+      "content": "也许你会在看了某一本书的多年以后啊",
+      "music": 0.0
+    },
+    {
+      "from": 244.6,
+      "to": 247.2,
+      "sid": 148,
+      "location": 2,
+      "content": "突然发现这个知识用上了哎我的投资闭环了",
+      "music": 0.0
+    },
+    {
+      "from": 247.2,
+      "to": 249.52,
+      "sid": 149,
+      "location": 2,
+      "content": "但这件事情他是在今天才变成投资的",
+      "music": 0.0
+    },
+    {
+      "from": 249.52,
+      "to": 252.06,
+      "sid": 150,
+      "location": 2,
+      "content": "在你当年无目的的去读书的那一个下午",
+      "music": 0.0
+    },
+    {
+      "from": 252.06,
+      "to": 253.8,
+      "sid": 151,
+      "location": 2,
+      "content": "他就是一个美好的消费而已",
+      "music": 0.0
+    },
+    {
+      "from": 253.8,
+      "to": 256.16,
+      "sid": 152,
+      "location": 2,
+      "content": "而如果最终你没有找到一个商业模式",
+      "music": 0.0
+    },
+    {
+      "from": 256.16,
+      "to": 257.78,
+      "sid": 153,
+      "location": 2,
+      "content": "把这个东西变现出价值",
+      "music": 0.0
+    },
+    {
+      "from": 257.78,
+      "to": 259.56,
+      "sid": 154,
+      "location": 2,
+      "content": "那么它就永远都只是一个消费",
+      "music": 0.0
+    },
+    {
+      "from": 259.56,
+      "to": 261.22,
+      "sid": 155,
+      "location": 2,
+      "content": "它永远都不会变成投资",
+      "music": 0.0
+    }
+  ]
+}

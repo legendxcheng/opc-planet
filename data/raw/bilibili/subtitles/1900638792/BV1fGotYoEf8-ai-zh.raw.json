@@ -1,0 +1,2260 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.28,
+      "to": 2.28,
+      "sid": 1,
+      "location": 2,
+      "content": "现在大环境不好的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 2.28,
+      "to": 5.3,
+      "sid": 2,
+      "location": 2,
+      "content": "很多公司会选择去发展一门新的业务",
+      "music": 0.0
+    },
+    {
+      "from": 5.3,
+      "to": 8.4,
+      "sid": 3,
+      "location": 2,
+      "content": "来解决原有业务发展见顶的窘境",
+      "music": 0.0
+    },
+    {
+      "from": 8.4,
+      "to": 10.02,
+      "sid": 4,
+      "location": 2,
+      "content": "比如说规模见顶",
+      "music": 0.0
+    },
+    {
+      "from": 10.02,
+      "to": 12.19,
+      "sid": 5,
+      "location": 2,
+      "content": "用户鉴定或者收入见顶",
+      "music": 0.0
+    },
+    {
+      "from": 12.19,
+      "to": 15.03,
+      "sid": 6,
+      "location": 2,
+      "content": "确实原有业务很难突破的时候",
+      "music": 0.0
+    },
+    {
+      "from": 15.03,
+      "to": 18.259,
+      "sid": 7,
+      "location": 2,
+      "content": "好像只剩下拓展新业务这一个办法了",
+      "music": 0.0
+    },
+    {
+      "from": 18.259,
+      "to": 21.619,
+      "sid": 8,
+      "location": 2,
+      "content": "但是几乎没有任何一家公司能够",
+      "music": 0.0
+    },
+    {
+      "from": 21.619,
+      "to": 24.53,
+      "sid": 9,
+      "location": 2,
+      "content": "在新的业务上拿到突出成绩",
+      "music": 0.0
+    },
+    {
+      "from": 24.53,
+      "to": 26.23,
+      "sid": 10,
+      "location": 2,
+      "content": "尤其对于很多大厂来讲",
+      "music": 0.0
+    },
+    {
+      "from": 26.23,
+      "to": 29.07,
+      "sid": 11,
+      "location": 2,
+      "content": "他明明在A业务上能够拿到结果",
+      "music": 0.0
+    },
+    {
+      "from": 29.07,
+      "to": 32.709,
+      "sid": 12,
+      "location": 2,
+      "content": "但是他在拓展B业务的时候却屡屡受挫",
+      "music": 0.0
+    },
+    {
+      "from": 32.709,
+      "to": 34.189,
+      "sid": 13,
+      "location": 2,
+      "content": "甚至有些大厂领导",
+      "music": 0.0
+    },
+    {
+      "from": 34.189,
+      "to": 37.32,
+      "sid": 14,
+      "location": 2,
+      "content": "会在新业务一直没进展的时候去责怪员工",
+      "music": 0.0
+    },
+    {
+      "from": 37.32,
+      "to": 38.28,
+      "sid": 15,
+      "location": 2,
+      "content": "对员工说",
+      "music": 0.0
+    },
+    {
+      "from": 38.28,
+      "to": 40.4,
+      "sid": 16,
+      "location": 2,
+      "content": "你看看你们昨天到点就下班",
+      "music": 0.0
+    },
+    {
+      "from": 40.4,
+      "to": 42.1,
+      "sid": 17,
+      "location": 2,
+      "content": "那新业务肯定做不起来呀",
+      "music": 0.0
+    },
+    {
+      "from": 42.1,
+      "to": 44.44,
+      "sid": 18,
+      "location": 2,
+      "content": "做新业务要有创业精神",
+      "music": 0.0
+    },
+    {
+      "from": 44.44,
+      "to": 46.31,
+      "sid": 19,
+      "location": 2,
+      "content": "别老想着到点下班",
+      "music": 0.0
+    },
+    {
+      "from": 46.31,
+      "to": 49.35,
+      "sid": 20,
+      "location": 2,
+      "content": "或者你们不能每天只坐在办公室里面",
+      "music": 0.0
+    },
+    {
+      "from": 49.35,
+      "to": 50.21,
+      "sid": 21,
+      "location": 2,
+      "content": "对着电脑啊",
+      "music": 0.0
+    },
+    {
+      "from": 50.21,
+      "to": 51.43,
+      "sid": 22,
+      "location": 2,
+      "content": "你们要走出去",
+      "music": 0.0
+    },
+    {
+      "from": 51.43,
+      "to": 53.03,
+      "sid": 23,
+      "location": 2,
+      "content": "要多了解用户心态",
+      "music": 0.0
+    },
+    {
+      "from": 53.03,
+      "to": 54.04,
+      "sid": 24,
+      "location": 2,
+      "content": "要开放",
+      "music": 0.0
+    },
+    {
+      "from": 54.04,
+      "to": 57.52,
+      "sid": 25,
+      "location": 2,
+      "content": "但其实这些领导也每天坐在办公室里面",
+      "music": 0.0
+    },
+    {
+      "from": 57.52,
+      "to": 58.32,
+      "sid": 26,
+      "location": 2,
+      "content": "对着电脑",
+      "music": 0.0
+    },
+    {
+      "from": 58.32,
+      "to": 59.48,
+      "sid": 27,
+      "location": 2,
+      "content": "他们还会对员工说",
+      "music": 0.0
+    },
+    {
+      "from": 59.48,
+      "to": 62.58,
+      "sid": 28,
+      "location": 2,
+      "content": "我们现在在做的新业务是有挑战",
+      "music": 0.0
+    },
+    {
+      "from": 62.58,
+      "to": 64.08,
+      "sid": 29,
+      "location": 2,
+      "content": "但我们能做成A业务",
+      "music": 0.0
+    },
+    {
+      "from": 64.08,
+      "to": 65.96,
+      "sid": 30,
+      "location": 2,
+      "content": "就一定能够拿下B业务",
+      "music": 0.0
+    },
+    {
+      "from": 65.96,
+      "to": 67.64,
+      "sid": 31,
+      "location": 2,
+      "content": "大家得有信念",
+      "music": 0.0
+    },
+    {
+      "from": 67.64,
+      "to": 71.36,
+      "sid": 32,
+      "location": 2,
+      "content": "总之大厂领导在总结一个业务做不起来的时候",
+      "music": 0.0
+    },
+    {
+      "from": 71.36,
+      "to": 75.54,
+      "sid": 33,
+      "location": 2,
+      "content": "会把一部分原因归结为团队缺少开放的心态",
+      "music": 0.0
+    },
+    {
+      "from": 75.54,
+      "to": 76.96,
+      "sid": 34,
+      "location": 2,
+      "content": "缺少创业的精神",
+      "music": 0.0
+    },
+    {
+      "from": 76.96,
+      "to": 78.36,
+      "sid": 35,
+      "location": 2,
+      "content": "缺少成功的信念",
+      "music": 0.0
+    },
+    {
+      "from": 78.36,
+      "to": 80.54,
+      "sid": 36,
+      "location": 2,
+      "content": "首先这个结论肯定是不正确的",
+      "music": 0.0
+    },
+    {
+      "from": 80.54,
+      "to": 83.12,
+      "sid": 37,
+      "location": 2,
+      "content": "因为根据经济学常识来讲",
+      "music": 0.0
+    },
+    {
+      "from": 83.12,
+      "to": 84.64,
+      "sid": 38,
+      "location": 2,
+      "content": "利润就是责任",
+      "music": 0.0
+    },
+    {
+      "from": 84.64,
+      "to": 86.46,
+      "sid": 39,
+      "location": 2,
+      "content": "谁获取的利润更多",
+      "music": 0.0
+    },
+    {
+      "from": 86.46,
+      "to": 87.94,
+      "sid": 40,
+      "location": 2,
+      "content": "谁拿的工资更高",
+      "music": 0.0
+    },
+    {
+      "from": 87.94,
+      "to": 89.37,
+      "sid": 41,
+      "location": 2,
+      "content": "谁的责任就越大",
+      "music": 0.0
+    },
+    {
+      "from": 89.37,
+      "to": 91.17,
+      "sid": 42,
+      "location": 2,
+      "content": "管理层比员工责任大",
+      "music": 0.0
+    },
+    {
+      "from": 91.17,
+      "to": 93.009,
+      "sid": 43,
+      "location": 2,
+      "content": "CEO比管理层责任大",
+      "music": 0.0
+    },
+    {
+      "from": 93.009,
+      "to": 95.209,
+      "sid": 44,
+      "location": 2,
+      "content": "而且站在客户的角度",
+      "music": 0.0
+    },
+    {
+      "from": 95.209,
+      "to": 97.089,
+      "sid": 45,
+      "location": 2,
+      "content": "客户购买企业的产品",
+      "music": 0.0
+    },
+    {
+      "from": 97.089,
+      "to": 99.64,
+      "sid": 46,
+      "location": 2,
+      "content": "是因为他相信CEO和高管团队",
+      "music": 0.0
+    },
+    {
+      "from": 99.64,
+      "to": 101.84,
+      "sid": 47,
+      "location": 2,
+      "content": "你买小米汽车是因为你相信雷军",
+      "music": 0.0
+    },
+    {
+      "from": 101.84,
+      "to": 104.38,
+      "sid": 48,
+      "location": 2,
+      "content": "还是因为你相信小米的某个实习生呢",
+      "music": 0.0
+    },
+    {
+      "from": 104.38,
+      "to": 105.91,
+      "sid": 49,
+      "location": 2,
+      "content": "那肯定是前者啊",
+      "music": 0.0
+    },
+    {
+      "from": 105.91,
+      "to": 108.79,
+      "sid": 50,
+      "location": 2,
+      "content": "所以大厂面对新业务屡屡受挫的",
+      "music": 0.0
+    },
+    {
+      "from": 108.79,
+      "to": 110.36,
+      "sid": 51,
+      "location": 2,
+      "content": "原因到底是什么呢",
+      "music": 0.0
+    },
+    {
+      "from": 110.36,
+      "to": 111.56,
+      "sid": 52,
+      "location": 2,
+      "content": "有些人分析说",
+      "music": 0.0
+    },
+    {
+      "from": 114.66,
+      "to": 116.9,
+      "sid": 53,
+      "location": 2,
+      "content": "只会每天不停的开会讨论",
+      "music": 0.0
+    },
+    {
+      "from": 116.9,
+      "to": 120.61,
+      "sid": 54,
+      "location": 2,
+      "content": "他们不像打天下的创始人团队那样会深入一线",
+      "music": 0.0
+    },
+    {
+      "from": 120.61,
+      "to": 123.91,
+      "sid": 55,
+      "location": 2,
+      "content": "所以大厂领导对新业务有很多的意向",
+      "music": 0.0
+    },
+    {
+      "from": 123.91,
+      "to": 125.71,
+      "sid": 56,
+      "location": 2,
+      "content": "才导致业务做不起来",
+      "music": 0.0
+    },
+    {
+      "from": 125.71,
+      "to": 127.35,
+      "sid": 57,
+      "location": 2,
+      "content": "这当然是其中一个原因",
+      "music": 0.0
+    },
+    {
+      "from": 127.35,
+      "to": 129.29,
+      "sid": 58,
+      "location": 2,
+      "content": "但这不是最根本的原因",
+      "music": 0.0
+    },
+    {
+      "from": 129.29,
+      "to": 133.13,
+      "sid": 59,
+      "location": 2,
+      "content": "最根本的原因其实是拿到过巨大结果的企业",
+      "music": 0.0
+    },
+    {
+      "from": 133.13,
+      "to": 137.05,
+      "sid": 60,
+      "location": 2,
+      "content": "往往会想要挑战能力有边界的这个商业常识",
+      "music": 0.0
+    },
+    {
+      "from": 137.05,
+      "to": 139.09,
+      "sid": 61,
+      "location": 2,
+      "content": "这是很多大厂的通病",
+      "music": 0.0
+    },
+    {
+      "from": 139.09,
+      "to": 142.23,
+      "sid": 62,
+      "location": 2,
+      "content": "他们在某件事情上获得巨大成功之后",
+      "music": 0.0
+    },
+    {
+      "from": 142.23,
+      "to": 144.6,
+      "sid": 63,
+      "location": 2,
+      "content": "就会认为自己无所不能",
+      "music": 0.0
+    },
+    {
+      "from": 144.6,
+      "to": 147.5,
+      "sid": 64,
+      "location": 2,
+      "content": "进而把商业常识都抛诸脑后",
+      "music": 0.0
+    },
+    {
+      "from": 147.5,
+      "to": 149.38,
+      "sid": 65,
+      "location": 2,
+      "content": "巴菲特投资股票的时候",
+      "music": 0.0
+    },
+    {
+      "from": 149.38,
+      "to": 151.2,
+      "sid": 66,
+      "location": 2,
+      "content": "他不会买科技行业的股票",
+      "music": 0.0
+    },
+    {
+      "from": 151.2,
+      "to": 153.97,
+      "sid": 67,
+      "location": 2,
+      "content": "因为他看不懂科技行业的规律",
+      "music": 0.0
+    },
+    {
+      "from": 153.97,
+      "to": 155.79,
+      "sid": 68,
+      "location": 2,
+      "content": "他说自己能力有边界",
+      "music": 0.0
+    },
+    {
+      "from": 155.79,
+      "to": 157.95,
+      "sid": 69,
+      "location": 2,
+      "content": "所以不懂的东西他不会去碰",
+      "music": 0.0
+    },
+    {
+      "from": 157.95,
+      "to": 160.25,
+      "sid": 70,
+      "location": 2,
+      "content": "连巴菲特都觉得能力有边界",
+      "music": 0.0
+    },
+    {
+      "from": 160.25,
+      "to": 162.07,
+      "sid": 71,
+      "location": 2,
+      "content": "为什么你一个公司的管理层",
+      "music": 0.0
+    },
+    {
+      "from": 162.07,
+      "to": 163.899,
+      "sid": 72,
+      "location": 2,
+      "content": "会觉得自己无所不能呢",
+      "music": 0.0
+    },
+    {
+      "from": 163.899,
+      "to": 167.299,
+      "sid": 73,
+      "location": 2,
+      "content": "其实企业的新机会不只是发展新业务",
+      "music": 0.0
+    },
+    {
+      "from": 167.299,
+      "to": 169.92,
+      "sid": 74,
+      "location": 2,
+      "content": "还包括新技术和新形势",
+      "music": 0.0
+    },
+    {
+      "from": 169.92,
+      "to": 171.9,
+      "sid": 75,
+      "location": 2,
+      "content": "这三种的区别是什么呢",
+      "music": 0.0
+    },
+    {
+      "from": 171.9,
+      "to": 175.18,
+      "sid": 76,
+      "location": 2,
+      "content": "做家电的跑去做手机叫做发展新业务",
+      "music": 0.0
+    },
+    {
+      "from": 175.18,
+      "to": 178.079,
+      "sid": 77,
+      "location": 2,
+      "content": "一家公司开始搞AI叫做新技术",
+      "music": 0.0
+    },
+    {
+      "from": 178.079,
+      "to": 180.779,
+      "sid": 78,
+      "location": 2,
+      "content": "一家电商公司从淘宝上买流量",
+      "music": 0.0
+    },
+    {
+      "from": 180.779,
+      "to": 182.439,
+      "sid": 79,
+      "location": 2,
+      "content": "到跑去抖音上拍短视频",
+      "music": 0.0
+    },
+    {
+      "from": 182.439,
+      "to": 183.87,
+      "sid": 80,
+      "location": 2,
+      "content": "叫做新形势",
+      "music": 0.0
+    },
+    {
+      "from": 183.87,
+      "to": 185.57,
+      "sid": 81,
+      "location": 2,
+      "content": "新业务是一种跨界",
+      "music": 0.0
+    },
+    {
+      "from": 185.57,
+      "to": 187.09,
+      "sid": 82,
+      "location": 2,
+      "content": "但能力有边界",
+      "music": 0.0
+    },
+    {
+      "from": 187.09,
+      "to": 188.91,
+      "sid": 83,
+      "location": 2,
+      "content": "新技术是一种纵深",
+      "music": 0.0
+    },
+    {
+      "from": 188.91,
+      "to": 190.31,
+      "sid": 84,
+      "location": 2,
+      "content": "但是能力有高度",
+      "music": 0.0
+    },
+    {
+      "from": 190.31,
+      "to": 191.43,
+      "sid": 85,
+      "location": 2,
+      "content": "只有新形式",
+      "music": 0.0
+    },
+    {
+      "from": 191.43,
+      "to": 192.65,
+      "sid": 86,
+      "location": 2,
+      "content": "它是一种玩法",
+      "music": 0.0
+    },
+    {
+      "from": 192.65,
+      "to": 195.07,
+      "sid": 87,
+      "location": 2,
+      "content": "对能力的边界和高度没有要求",
+      "music": 0.0
+    },
+    {
+      "from": 195.07,
+      "to": 196.39,
+      "sid": 88,
+      "location": 2,
+      "content": "他只需要一个人",
+      "music": 0.0
+    },
+    {
+      "from": 196.39,
+      "to": 198.11,
+      "sid": 89,
+      "location": 2,
+      "content": "有好奇心和执行力",
+      "music": 0.0
+    },
+    {
+      "from": 198.11,
+      "to": 199.49,
+      "sid": 90,
+      "location": 2,
+      "content": "后两种机会当中",
+      "music": 0.0
+    },
+    {
+      "from": 199.49,
+      "to": 201.31,
+      "sid": 91,
+      "location": 2,
+      "content": "很少有公司有资本",
+      "music": 0.0
+    },
+    {
+      "from": 201.31,
+      "to": 204.66,
+      "sid": 92,
+      "location": 2,
+      "content": "能够花费很长的时间周期去钻研新技术",
+      "music": 0.0
+    },
+    {
+      "from": 204.66,
+      "to": 205.46,
+      "sid": 93,
+      "location": 2,
+      "content": "另一方面",
+      "music": 0.0
+    },
+    {
+      "from": 205.46,
+      "to": 206.79,
+      "sid": 94,
+      "location": 2,
+      "content": "投资人也不允许",
+      "music": 0.0
+    },
+    {
+      "from": 206.79,
+      "to": 209.31,
+      "sid": 95,
+      "location": 2,
+      "content": "其实了解deep sick发展史的人就知道",
+      "music": 0.0
+    },
+    {
+      "from": 209.31,
+      "to": 213.24,
+      "sid": 96,
+      "location": 2,
+      "content": "deep sk创始人梁文峰同时在做其他的业务",
+      "music": 0.0
+    },
+    {
+      "from": 213.24,
+      "to": 217.29,
+      "sid": 97,
+      "location": 2,
+      "content": "他在用他其他业务的利润去支撑deep sick的研发",
+      "music": 0.0
+    },
+    {
+      "from": 217.29,
+      "to": 220.21,
+      "sid": 98,
+      "location": 2,
+      "content": "并且deep sick虽然是23年成立的",
+      "music": 0.0
+    },
+    {
+      "from": 220.21,
+      "to": 223.68,
+      "sid": 99,
+      "location": 2,
+      "content": "但是梁文峰对AI的研究从18年就开始了",
+      "music": 0.0
+    },
+    {
+      "from": 223.68,
+      "to": 225.54,
+      "sid": 100,
+      "location": 2,
+      "content": "但现在的投资人都要求",
+      "music": 0.0
+    },
+    {
+      "from": 225.54,
+      "to": 227.78,
+      "sid": 101,
+      "location": 2,
+      "content": "创始人在短期内就产生利益",
+      "music": 0.0
+    },
+    {
+      "from": 227.78,
+      "to": 231.519,
+      "sid": 102,
+      "location": 2,
+      "content": "所以能实现新技术的企业少之又少",
+      "music": 0.0
+    },
+    {
+      "from": 231.519,
+      "to": 233.839,
+      "sid": 103,
+      "location": 2,
+      "content": "而新形势的机会多",
+      "music": 0.0
+    },
+    {
+      "from": 233.839,
+      "to": 234.699,
+      "sid": 104,
+      "location": 2,
+      "content": "成本少",
+      "music": 0.0
+    },
+    {
+      "from": 234.699,
+      "to": 235.63,
+      "sid": 105,
+      "location": 2,
+      "content": "成功率高",
+      "music": 0.0
+    },
+    {
+      "from": 235.63,
+      "to": 237.73,
+      "sid": 106,
+      "location": 2,
+      "content": "18年短视频是新形势",
+      "music": 0.0
+    },
+    {
+      "from": 237.73,
+      "to": 239.87,
+      "sid": 107,
+      "location": 2,
+      "content": "20年直播带货是新形势",
+      "music": 0.0
+    },
+    {
+      "from": 239.87,
+      "to": 242.37,
+      "sid": 108,
+      "location": 2,
+      "content": "22年图文种草是新形势",
+      "music": 0.0
+    },
+    {
+      "from": 242.37,
+      "to": 245.14,
+      "sid": 109,
+      "location": 2,
+      "content": "但是很多领导瞧不上新形势",
+      "music": 0.0
+    },
+    {
+      "from": 245.14,
+      "to": 248.6,
+      "sid": 110,
+      "location": 2,
+      "content": "因为他们觉得玩法的演变是换汤不换药",
+      "music": 0.0
+    },
+    {
+      "from": 248.6,
+      "to": 250.54,
+      "sid": 111,
+      "location": 2,
+      "content": "并且不需要做很大的动作",
+      "music": 0.0
+    },
+    {
+      "from": 250.54,
+      "to": 252.37,
+      "sid": 112,
+      "location": 2,
+      "content": "也不需要做架构调整",
+      "music": 0.0
+    },
+    {
+      "from": 252.37,
+      "to": 255.44,
+      "sid": 113,
+      "location": 2,
+      "content": "这不足以展示他们的才华",
+      "music": 0.0
+    },
+    {
+      "from": 255.44,
+      "to": 257.54,
+      "sid": 114,
+      "location": 2,
+      "content": "其实市场上的机会并不少",
+      "music": 0.0
+    },
+    {
+      "from": 257.54,
+      "to": 260.36,
+      "sid": 115,
+      "location": 2,
+      "content": "但很多小公司老板或者大公司的高管",
+      "music": 0.0
+    },
+    {
+      "from": 260.36,
+      "to": 262.86,
+      "sid": 116,
+      "location": 2,
+      "content": "只看得见那些最大的机会",
+      "music": 0.0
+    },
+    {
+      "from": 262.86,
+      "to": 264.82,
+      "sid": 117,
+      "location": 2,
+      "content": "他们苦于新技术",
+      "music": 0.0
+    },
+    {
+      "from": 264.82,
+      "to": 266.2,
+      "sid": 118,
+      "location": 2,
+      "content": "耻于新形势",
+      "music": 0.0
+    },
+    {
+      "from": 266.2,
+      "to": 269.06,
+      "sid": 119,
+      "location": 2,
+      "content": "最后才会选择去拓展新业务",
+      "music": 0.0
+    },
+    {
+      "from": 269.06,
+      "to": 270.58,
+      "sid": 120,
+      "location": 2,
+      "content": "你像我是做新媒体的吗",
+      "music": 0.0
+    },
+    {
+      "from": 270.58,
+      "to": 271.58,
+      "sid": 121,
+      "location": 2,
+      "content": "1718年",
+      "music": 0.0
+    },
+    {
+      "from": 271.58,
+      "to": 272.74,
+      "sid": 122,
+      "location": 2,
+      "content": "抖音刚火的时候",
+      "music": 0.0
+    },
+    {
+      "from": 272.74,
+      "to": 274.72,
+      "sid": 123,
+      "location": 2,
+      "content": "很多公司老板瞧不起抖音",
+      "music": 0.0
+    },
+    {
+      "from": 274.72,
+      "to": 278.52,
+      "sid": 124,
+      "location": 2,
+      "content": "他们觉得抖音这种短视频大大增加了人的惰性",
+      "music": 0.0
+    },
+    {
+      "from": 278.52,
+      "to": 280.02,
+      "sid": 125,
+      "location": 2,
+      "content": "一刷就要刷几个小时",
+      "music": 0.0
+    },
+    {
+      "from": 280.02,
+      "to": 281.88,
+      "sid": 126,
+      "location": 2,
+      "content": "所以那个时候虽然抖音很火",
+      "music": 0.0
+    },
+    {
+      "from": 281.88,
+      "to": 284.06,
+      "sid": 127,
+      "location": 2,
+      "content": "但是他们拒绝接受抖音",
+      "music": 0.0
+    },
+    {
+      "from": 284.06,
+      "to": 285.3,
+      "sid": 128,
+      "location": 2,
+      "content": "也是因为如此",
+      "music": 0.0
+    },
+    {
+      "from": 285.3,
+      "to": 288.9,
+      "sid": 129,
+      "location": 2,
+      "content": "短视频运营这个岗位是在抖音火了两年之后",
+      "music": 0.0
+    },
+    {
+      "from": 288.9,
+      "to": 290.74,
+      "sid": 130,
+      "location": 2,
+      "content": "也就是一九到20年左右",
+      "music": 0.0
+    },
+    {
+      "from": 290.74,
+      "to": 294.23,
+      "sid": 131,
+      "location": 2,
+      "content": "才慢慢成为公司新媒体的一个日常岗位",
+      "music": 0.0
+    },
+    {
+      "from": 294.23,
+      "to": 297.51,
+      "sid": 132,
+      "location": 2,
+      "content": "因为这些公司老板发现所有用户都接受了抖音",
+      "music": 0.0
+    },
+    {
+      "from": 297.51,
+      "to": 299.09,
+      "sid": 133,
+      "location": 2,
+      "content": "他们也不得不接受",
+      "music": 0.0
+    },
+    {
+      "from": 299.09,
+      "to": 301.97,
+      "sid": 134,
+      "location": 2,
+      "content": "从发现新形势到接受新形势",
+      "music": 0.0
+    },
+    {
+      "from": 301.97,
+      "to": 304.38,
+      "sid": 135,
+      "location": 2,
+      "content": "这些公司用了整整两年的时间",
+      "music": 0.0
+    },
+    {
+      "from": 304.38,
+      "to": 305.1,
+      "sid": 136,
+      "location": 2,
+      "content": "我能理解",
+      "music": 0.0
+    },
+    {
+      "from": 305.1,
+      "to": 307.5,
+      "sid": 137,
+      "location": 2,
+      "content": "一家企业想去发展新的业务",
+      "music": 0.0
+    },
+    {
+      "from": 307.5,
+      "to": 310.58,
+      "sid": 138,
+      "location": 2,
+      "content": "是因为企业本身在发展到某个阶段之后",
+      "music": 0.0
+    },
+    {
+      "from": 310.58,
+      "to": 312.82,
+      "sid": 139,
+      "location": 2,
+      "content": "它的市场份额就很难再拓展了",
+      "music": 0.0
+    },
+    {
+      "from": 312.82,
+      "to": 314.99,
+      "sid": 140,
+      "location": 2,
+      "content": "所以企业的规模也好",
+      "music": 0.0
+    },
+    {
+      "from": 314.99,
+      "to": 316.07,
+      "sid": 141,
+      "location": 2,
+      "content": "用户量级也好",
+      "music": 0.0
+    },
+    {
+      "from": 316.07,
+      "to": 317.28,
+      "sid": 142,
+      "location": 2,
+      "content": "都到了最大值",
+      "music": 0.0
+    },
+    {
+      "from": 317.28,
+      "to": 317.94,
+      "sid": 143,
+      "location": 2,
+      "content": "为什么",
+      "music": 0.0
+    },
+    {
+      "from": 317.94,
+      "to": 320.36,
+      "sid": 144,
+      "location": 2,
+      "content": "因为这个世界上资源是有限的",
+      "music": 0.0
+    },
+    {
+      "from": 320.36,
+      "to": 322.06,
+      "sid": 145,
+      "location": 2,
+      "content": "人口基数是有限的",
+      "music": 0.0
+    },
+    {
+      "from": 322.06,
+      "to": 324.4,
+      "sid": 146,
+      "location": 2,
+      "content": "这也是为什么从商业角度来看",
+      "music": 0.0
+    },
+    {
+      "from": 324.4,
+      "to": 326.58,
+      "sid": 147,
+      "location": 2,
+      "content": "会有业务发展到一定阶段",
+      "music": 0.0
+    },
+    {
+      "from": 326.58,
+      "to": 328.21,
+      "sid": 148,
+      "location": 2,
+      "content": "就只能抢存量这句话",
+      "music": 0.0
+    },
+    {
+      "from": 328.21,
+      "to": 329.35,
+      "sid": 149,
+      "location": 2,
+      "content": "因为资源有限",
+      "music": 0.0
+    },
+    {
+      "from": 329.35,
+      "to": 330.909,
+      "sid": 150,
+      "location": 2,
+      "content": "市场份额就那么多",
+      "music": 0.0
+    },
+    {
+      "from": 330.909,
+      "to": 332.389,
+      "sid": 151,
+      "location": 2,
+      "content": "都被瓜分完之后",
+      "music": 0.0
+    },
+    {
+      "from": 332.389,
+      "to": 333.989,
+      "sid": 152,
+      "location": 2,
+      "content": "你再想多赚两分钱",
+      "music": 0.0
+    },
+    {
+      "from": 333.989,
+      "to": 336.87,
+      "sid": 153,
+      "location": 2,
+      "content": "你就只能从竞争对手那里去抢这两分钱",
+      "music": 0.0
+    },
+    {
+      "from": 336.87,
+      "to": 339.92,
+      "sid": 154,
+      "location": 2,
+      "content": "你没办法再从市场上去获取了",
+      "music": 0.0
+    },
+    {
+      "from": 339.92,
+      "to": 342.46,
+      "sid": 155,
+      "location": 2,
+      "content": "所以当一个市场被瓜分完之后",
+      "music": 0.0
+    },
+    {
+      "from": 342.46,
+      "to": 344.38,
+      "sid": 156,
+      "location": 2,
+      "content": "剩下的只有零和博弈",
+      "music": 0.0
+    },
+    {
+      "from": 344.38,
+      "to": 346.909,
+      "sid": 157,
+      "location": 2,
+      "content": "只剩下企业和企业之间互抢",
+      "music": 0.0
+    },
+    {
+      "from": 346.909,
+      "to": 349.789,
+      "sid": 158,
+      "location": 2,
+      "content": "这个时候很多老板能想到的突破方式",
+      "music": 0.0
+    },
+    {
+      "from": 349.789,
+      "to": 352.01,
+      "sid": 159,
+      "location": 2,
+      "content": "就是从0~1再开一个新业务",
+      "music": 0.0
+    },
+    {
+      "from": 352.01,
+      "to": 354.83,
+      "sid": 160,
+      "location": 2,
+      "content": "看哪些市场还没有被瓜分干净",
+      "music": 0.0
+    },
+    {
+      "from": 354.83,
+      "to": 356.15,
+      "sid": 161,
+      "location": 2,
+      "content": "他就去抢抢人",
+      "music": 0.0
+    },
+    {
+      "from": 356.15,
+      "to": 357.15,
+      "sid": 162,
+      "location": 2,
+      "content": "抢抢资源",
+      "music": 0.0
+    },
+    {
+      "from": 357.15,
+      "to": 358.89,
+      "sid": 163,
+      "location": 2,
+      "content": "首先这个想法没错",
+      "music": 0.0
+    },
+    {
+      "from": 358.89,
+      "to": 360.81,
+      "sid": 164,
+      "location": 2,
+      "content": "但它可行性低",
+      "music": 0.0
+    },
+    {
+      "from": 360.81,
+      "to": 364.03,
+      "sid": 165,
+      "location": 2,
+      "content": "因为如果把不同的业务比作不同的学科",
+      "music": 0.0
+    },
+    {
+      "from": 364.03,
+      "to": 367.83,
+      "sid": 166,
+      "location": 2,
+      "content": "那么不同的业务之间就像文科和理科的区别",
+      "music": 0.0
+    },
+    {
+      "from": 367.83,
+      "to": 370.67,
+      "sid": 167,
+      "location": 2,
+      "content": "你让一个文科状元去做理科生的试卷",
+      "music": 0.0
+    },
+    {
+      "from": 370.67,
+      "to": 372.85,
+      "sid": 168,
+      "location": 2,
+      "content": "他也不可能拿到很高的分数",
+      "music": 0.0
+    },
+    {
+      "from": 372.85,
+      "to": 374.05,
+      "sid": 169,
+      "location": 2,
+      "content": "很多老板会觉得",
+      "music": 0.0
+    },
+    {
+      "from": 374.05,
+      "to": 375.33,
+      "sid": 170,
+      "location": 2,
+      "content": "既然我能力强",
+      "music": 0.0
+    },
+    {
+      "from": 375.33,
+      "to": 376.39,
+      "sid": 171,
+      "location": 2,
+      "content": "既然我很聪明",
+      "music": 0.0
+    },
+    {
+      "from": 376.39,
+      "to": 378.07,
+      "sid": 172,
+      "location": 2,
+      "content": "那我做什么都能成功",
+      "music": 0.0
+    },
+    {
+      "from": 378.07,
+      "to": 380.89,
+      "sid": 173,
+      "location": 2,
+      "content": "因为这个社会的底层规律是不变的",
+      "music": 0.0
+    },
+    {
+      "from": 380.89,
+      "to": 382.71,
+      "sid": 174,
+      "location": 2,
+      "content": "如果这句话真的正确",
+      "music": 0.0
+    },
+    {
+      "from": 382.71,
+      "to": 386.25,
+      "sid": 175,
+      "location": 2,
+      "content": "那么这个世界就只会被几个绝顶聪明的人",
+      "music": 0.0
+    },
+    {
+      "from": 386.25,
+      "to": 387.2,
+      "sid": 176,
+      "location": 2,
+      "content": "所垄断了",
+      "music": 0.0
+    },
+    {
+      "from": 387.2,
+      "to": 389.42,
+      "sid": 177,
+      "location": 2,
+      "content": "但正是因为能力有边界",
+      "music": 0.0
+    },
+    {
+      "from": 389.42,
+      "to": 392.58,
+      "sid": 178,
+      "location": 2,
+      "content": "文科生和理科生之间才有无法逾越的鸿沟",
+      "music": 0.0
+    },
+    {
+      "from": 392.58,
+      "to": 394.26,
+      "sid": 179,
+      "location": 2,
+      "content": "你想啊学文还是学理",
+      "music": 0.0
+    },
+    {
+      "from": 394.26,
+      "to": 396.5,
+      "sid": 180,
+      "location": 2,
+      "content": "他和能力和智商有关系吗",
+      "music": 0.0
+    },
+    {
+      "from": 396.5,
+      "to": 399.14,
+      "sid": 181,
+      "location": 2,
+      "content": "没有他只和一个人的性格有关",
+      "music": 0.0
+    },
+    {
+      "from": 399.14,
+      "to": 400.18,
+      "sid": 182,
+      "location": 2,
+      "content": "你像董明珠",
+      "music": 0.0
+    },
+    {
+      "from": 400.18,
+      "to": 401.58,
+      "sid": 183,
+      "location": 2,
+      "content": "你给他800次机会",
+      "music": 0.0
+    },
+    {
+      "from": 401.58,
+      "to": 402.9,
+      "sid": 184,
+      "location": 2,
+      "content": "他也做不成手机业务",
+      "music": 0.0
+    },
+    {
+      "from": 402.9,
+      "to": 406.06,
+      "sid": 185,
+      "location": 2,
+      "content": "因为能做成手机业务的人是要懂用户",
+      "music": 0.0
+    },
+    {
+      "from": 406.06,
+      "to": 406.98,
+      "sid": 186,
+      "location": 2,
+      "content": "有同理心的",
+      "music": 0.0
+    },
+    {
+      "from": 406.98,
+      "to": 408.919,
+      "sid": 187,
+      "location": 2,
+      "content": "这恰恰是他所没有的",
+      "music": 0.0
+    },
+    {
+      "from": 408.919,
+      "to": 409.959,
+      "sid": 188,
+      "location": 2,
+      "content": "他有雷霆手腕",
+      "music": 0.0
+    },
+    {
+      "from": 409.959,
+      "to": 411.099,
+      "sid": 189,
+      "location": 2,
+      "content": "他有供应链优势",
+      "music": 0.0
+    },
+    {
+      "from": 411.099,
+      "to": 412.619,
+      "sid": 190,
+      "location": 2,
+      "content": "但他没有用户视角",
+      "music": 0.0
+    },
+    {
+      "from": 412.619,
+      "to": 414.74,
+      "sid": 191,
+      "location": 2,
+      "content": "他更没有所谓的同理心",
+      "music": 0.0
+    },
+    {
+      "from": 414.74,
+      "to": 416.48,
+      "sid": 192,
+      "location": 2,
+      "content": "之前还有一个翡翠大亨",
+      "music": 0.0
+    },
+    {
+      "from": 416.48,
+      "to": 419.59,
+      "sid": 193,
+      "location": 2,
+      "content": "他是唯一一个把翡翠公司做上市的老板",
+      "music": 0.0
+    },
+    {
+      "from": 419.59,
+      "to": 421.55,
+      "sid": 194,
+      "location": 2,
+      "content": "后来他跑去拓展房地产业务",
+      "music": 0.0
+    },
+    {
+      "from": 421.55,
+      "to": 422.81,
+      "sid": 195,
+      "location": 2,
+      "content": "然后赔了个精光",
+      "music": 0.0
+    },
+    {
+      "from": 422.81,
+      "to": 424.5,
+      "sid": 196,
+      "location": 2,
+      "content": "现在公司名存实亡",
+      "music": 0.0
+    },
+    {
+      "from": 424.5,
+      "to": 426.72,
+      "sid": 197,
+      "location": 2,
+      "content": "因为翡翠的利润不透明",
+      "music": 0.0
+    },
+    {
+      "from": 426.72,
+      "to": 428.6,
+      "sid": 198,
+      "location": 2,
+      "content": "房地产房价是透明的",
+      "music": 0.0
+    },
+    {
+      "from": 428.6,
+      "to": 431.62,
+      "sid": 199,
+      "location": 2,
+      "content": "你让一个做不透明生意的人去做透明生意",
+      "music": 0.0
+    },
+    {
+      "from": 431.62,
+      "to": 432.659,
+      "sid": 200,
+      "location": 2,
+      "content": "他肯定做不来",
+      "music": 0.0
+    },
+    {
+      "from": 432.659,
+      "to": 434.719,
+      "sid": 201,
+      "location": 2,
+      "content": "因为做不透明生意的人",
+      "music": 0.0
+    },
+    {
+      "from": 434.719,
+      "to": 435.959,
+      "sid": 202,
+      "location": 2,
+      "content": "精通的是人性",
+      "music": 0.0
+    },
+    {
+      "from": 435.959,
+      "to": 437.299,
+      "sid": 203,
+      "location": 2,
+      "content": "做透明生意的人",
+      "music": 0.0
+    },
+    {
+      "from": 437.299,
+      "to": 439.33,
+      "sid": 204,
+      "location": 2,
+      "content": "擅长的是理性思考",
+      "music": 0.0
+    },
+    {
+      "from": 439.33,
+      "to": 441.97,
+      "sid": 205,
+      "location": 2,
+      "content": "小米的能力边界是3C和家电",
+      "music": 0.0
+    },
+    {
+      "from": 441.97,
+      "to": 443.83,
+      "sid": 206,
+      "location": 2,
+      "content": "阿里的能力边界是电商",
+      "music": 0.0
+    },
+    {
+      "from": 443.83,
+      "to": 446.58,
+      "sid": 207,
+      "location": 2,
+      "content": "腾讯的能力边界是社交和游戏",
+      "music": 0.0
+    },
+    {
+      "from": 446.58,
+      "to": 448.6,
+      "sid": 208,
+      "location": 2,
+      "content": "你们看张一鸣为什么那么成功",
+      "music": 0.0
+    },
+    {
+      "from": 448.6,
+      "to": 451.62,
+      "sid": 209,
+      "location": 2,
+      "content": "其实他做成的那些事儿都叫做一件事",
+      "music": 0.0
+    },
+    {
+      "from": 451.62,
+      "to": 453.66,
+      "sid": 210,
+      "location": 2,
+      "content": "就是基于算法做内容",
+      "music": 0.0
+    },
+    {
+      "from": 453.66,
+      "to": 455.56,
+      "sid": 211,
+      "location": 2,
+      "content": "一开始做的内容是GIF图",
+      "music": 0.0
+    },
+    {
+      "from": 455.56,
+      "to": 458.77,
+      "sid": 212,
+      "location": 2,
+      "content": "后来做今日头条这种图文类算法内容",
+      "music": 0.0
+    },
+    {
+      "from": 458.77,
+      "to": 460.89,
+      "sid": 213,
+      "location": 2,
+      "content": "再后来就是大家熟知的抖音",
+      "music": 0.0
+    },
+    {
+      "from": 460.89,
+      "to": 463.26,
+      "sid": 214,
+      "location": 2,
+      "content": "把图文形式演变成了短视频",
+      "music": 0.0
+    },
+    {
+      "from": 463.26,
+      "to": 465.86,
+      "sid": 215,
+      "location": 2,
+      "content": "再后来又演变出了直播形式",
+      "music": 0.0
+    },
+    {
+      "from": 465.86,
+      "to": 467.3,
+      "sid": 216,
+      "location": 2,
+      "content": "中长视频形式",
+      "music": 0.0
+    },
+    {
+      "from": 467.3,
+      "to": 469.5,
+      "sid": 217,
+      "location": 2,
+      "content": "他其实擅长的就是一件事",
+      "music": 0.0
+    },
+    {
+      "from": 469.5,
+      "to": 471.789,
+      "sid": 218,
+      "location": 2,
+      "content": "但他把这一件事玩出了花来",
+      "music": 0.0
+    },
+    {
+      "from": 471.789,
+      "to": 474.049,
+      "sid": 219,
+      "location": 2,
+      "content": "你看他后来想拓展新的业务",
+      "music": 0.0
+    },
+    {
+      "from": 474.049,
+      "to": 476.469,
+      "sid": 220,
+      "location": 2,
+      "content": "从内容领域延展到外卖领域",
+      "music": 0.0
+    },
+    {
+      "from": 476.469,
+      "to": 477.629,
+      "sid": 221,
+      "location": 2,
+      "content": "但他怎么也做不成",
+      "music": 0.0
+    },
+    {
+      "from": 477.629,
+      "to": 478.689,
+      "sid": 222,
+      "location": 2,
+      "content": "能力有边界",
+      "music": 0.0
+    },
+    {
+      "from": 478.689,
+      "to": 480.6,
+      "sid": 223,
+      "location": 2,
+      "content": "是因为每个人的性格不同",
+      "music": 0.0
+    },
+    {
+      "from": 480.6,
+      "to": 482.66,
+      "sid": 224,
+      "location": 2,
+      "content": "它对应的能力范围就不同",
+      "music": 0.0
+    },
+    {
+      "from": 482.66,
+      "to": 484.36,
+      "sid": 225,
+      "location": 2,
+      "content": "性格决定能力范围",
+      "music": 0.0
+    },
+    {
+      "from": 484.36,
+      "to": 486.669,
+      "sid": 226,
+      "location": 2,
+      "content": "而不是智商决定能力范围",
+      "music": 0.0
+    },
+    {
+      "from": 486.669,
+      "to": 487.709,
+      "sid": 227,
+      "location": 2,
+      "content": "资源有限",
+      "music": 0.0
+    },
+    {
+      "from": 487.709,
+      "to": 488.549,
+      "sid": 228,
+      "location": 2,
+      "content": "能力有边界",
+      "music": 0.0
+    },
+    {
+      "from": 488.549,
+      "to": 489.889,
+      "sid": 229,
+      "location": 2,
+      "content": "但是形式无限",
+      "music": 0.0
+    },
+    {
+      "from": 489.889,
+      "to": 493.09,
+      "sid": 230,
+      "location": 2,
+      "content": "虽然很多新形式的小机会你瞧不上",
+      "music": 0.0
+    },
+    {
+      "from": 493.09,
+      "to": 496.99,
+      "sid": 231,
+      "location": 2,
+      "content": "但只有新形势可以突破资源和能力的界限",
+      "music": 0.0
+    },
+    {
+      "from": 496.99,
+      "to": 498.93,
+      "sid": 232,
+      "location": 2,
+      "content": "因为新形式是一种玩法",
+      "music": 0.0
+    },
+    {
+      "from": 498.93,
+      "to": 499.85,
+      "sid": 233,
+      "location": 2,
+      "content": "是一种创意",
+      "music": 0.0
+    },
+    {
+      "from": 499.85,
+      "to": 501.72,
+      "sid": 234,
+      "location": 2,
+      "content": "而创意是无限的",
+      "music": 0.0
+    },
+    {
+      "from": 501.72,
+      "to": 505.44,
+      "sid": 235,
+      "location": 2,
+      "content": "可能有的老板觉得只有改变什么才意味着发展",
+      "music": 0.0
+    },
+    {
+      "from": 505.44,
+      "to": 507.72,
+      "sid": 236,
+      "location": 2,
+      "content": "但我想问演变就不算发展吗",
+      "music": 0.0
+    },
+    {
+      "from": 507.72,
+      "to": 510.409,
+      "sid": 237,
+      "location": 2,
+      "content": "形式的演变就一定没有意义吗",
+      "music": 0.0
+    },
+    {
+      "from": 510.409,
+      "to": 512.309,
+      "sid": 238,
+      "location": 2,
+      "content": "以前的人可能用手吃饭",
+      "music": 0.0
+    },
+    {
+      "from": 512.309,
+      "to": 514.489,
+      "sid": 239,
+      "location": 2,
+      "content": "现在的人用勺和筷子吃饭",
+      "music": 0.0
+    },
+    {
+      "from": 514.489,
+      "to": 517.789,
+      "sid": 240,
+      "location": 2,
+      "content": "这种形式的演变代表着人类文明的进步",
+      "music": 0.0
+    },
+    {
+      "from": 517.789,
+      "to": 518.829,
+      "sid": 241,
+      "location": 2,
+      "content": "我再举个例子",
+      "music": 0.0
+    },
+    {
+      "from": 518.829,
+      "to": 519.949,
+      "sid": 242,
+      "location": 2,
+      "content": "对于中医来说",
+      "music": 0.0
+    },
+    {
+      "from": 519.949,
+      "to": 521.429,
+      "sid": 243,
+      "location": 2,
+      "content": "以前研制中药",
+      "music": 0.0
+    },
+    {
+      "from": 521.429,
+      "to": 522.87,
+      "sid": 244,
+      "location": 2,
+      "content": "后来出了中成药",
+      "music": 0.0
+    },
+    {
+      "from": 522.87,
+      "to": 524.47,
+      "sid": 245,
+      "location": 2,
+      "content": "以前看病要病历本儿",
+      "music": 0.0
+    },
+    {
+      "from": 524.47,
+      "to": 527.05,
+      "sid": 246,
+      "location": 2,
+      "content": "现在要大夫会熟练操作电脑",
+      "music": 0.0
+    },
+    {
+      "from": 527.05,
+      "to": 529.51,
+      "sid": 247,
+      "location": 2,
+      "content": "以前的基础疾病可能是腰不好",
+      "music": 0.0
+    },
+    {
+      "from": 529.51,
+      "to": 531.61,
+      "sid": 248,
+      "location": 2,
+      "content": "现在的基础疾病是颈椎不好",
+      "music": 0.0
+    },
+    {
+      "from": 531.61,
+      "to": 533.31,
+      "sid": 249,
+      "location": 2,
+      "content": "因为以前的人劳力多",
+      "music": 0.0
+    },
+    {
+      "from": 533.31,
+      "to": 534.98,
+      "sid": 250,
+      "location": 2,
+      "content": "现在的人脑力多",
+      "music": 0.0
+    },
+    {
+      "from": 534.98,
+      "to": 538.58,
+      "sid": 251,
+      "location": 2,
+      "content": "这就要求医生更了解当下的基础疾病",
+      "music": 0.0
+    },
+    {
+      "from": 538.58,
+      "to": 541.24,
+      "sid": 252,
+      "location": 2,
+      "content": "这些都叫做形式的演变",
+      "music": 0.0
+    },
+    {
+      "from": 541.24,
+      "to": 543.06,
+      "sid": 253,
+      "location": 2,
+      "content": "如果这种形式的演变",
+      "music": 0.0
+    },
+    {
+      "from": 543.06,
+      "to": 544.36,
+      "sid": 254,
+      "location": 2,
+      "content": "你能够利用好的话",
+      "music": 0.0
+    },
+    {
+      "from": 544.36,
+      "to": 546.43,
+      "sid": 255,
+      "location": 2,
+      "content": "我相信它也是有意义的",
+      "music": 0.0
+    },
+    {
+      "from": 546.43,
+      "to": 548.21,
+      "sid": 256,
+      "location": 2,
+      "content": "况且他哪怕没有意义",
+      "music": 0.0
+    },
+    {
+      "from": 548.21,
+      "to": 550.93,
+      "sid": 257,
+      "location": 2,
+      "content": "也并不违背企业对于价值的追求",
+      "music": 0.0
+    },
+    {
+      "from": 550.93,
+      "to": 552.65,
+      "sid": 258,
+      "location": 2,
+      "content": "毕竟人才追求意义",
+      "music": 0.0
+    },
+    {
+      "from": 552.65,
+      "to": 554.319,
+      "sid": 259,
+      "location": 2,
+      "content": "企业更追求价值",
+      "music": 0.0
+    },
+    {
+      "from": 554.319,
+      "to": 556.579,
+      "sid": 260,
+      "location": 2,
+      "content": "那些专门投机的投资人",
+      "music": 0.0
+    },
+    {
+      "from": 556.579,
+      "to": 557.879,
+      "sid": 261,
+      "location": 2,
+      "content": "那些玩股票的人",
+      "music": 0.0
+    },
+    {
+      "from": 557.879,
+      "to": 560.02,
+      "sid": 262,
+      "location": 2,
+      "content": "他们只是金钱的搬运工",
+      "music": 0.0
+    },
+    {
+      "from": 560.02,
+      "to": 561.8,
+      "sid": 263,
+      "location": 2,
+      "content": "他们的工作也没有意义啊",
+      "music": 0.0
+    },
+    {
+      "from": 561.8,
+      "to": 563.93,
+      "sid": 264,
+      "location": 2,
+      "content": "但是他们的工作有价值",
+      "music": 0.0
+    },
+    {
+      "from": 563.93,
+      "to": 565.85,
+      "sid": 265,
+      "location": 2,
+      "content": "不要总想一次搞个大的",
+      "music": 0.0
+    },
+    {
+      "from": 565.85,
+      "to": 567.31,
+      "sid": 266,
+      "location": 2,
+      "content": "不要总想去改变什么",
+      "music": 0.0
+    },
+    {
+      "from": 567.31,
+      "to": 570.16,
+      "sid": 267,
+      "location": 2,
+      "content": "不要急于自己能力边界之外的事情",
+      "music": 0.0
+    },
+    {
+      "from": 570.16,
+      "to": 572.72,
+      "sid": 268,
+      "location": 2,
+      "content": "用大成本尝试新业务",
+      "music": 0.0
+    },
+    {
+      "from": 572.72,
+      "to": 574.86,
+      "sid": 269,
+      "location": 2,
+      "content": "或者等待适合自己的新业务",
+      "music": 0.0
+    },
+    {
+      "from": 574.86,
+      "to": 576.17,
+      "sid": 270,
+      "location": 2,
+      "content": "机会来了再去做",
+      "music": 0.0
+    },
+    {
+      "from": 576.17,
+      "to": 578.59,
+      "sid": 271,
+      "location": 2,
+      "content": "都不如一直尝试新的形势",
+      "music": 0.0
+    },
+    {
+      "from": 578.59,
+      "to": 580.11,
+      "sid": 272,
+      "location": 2,
+      "content": "总能猜中几个机会",
+      "music": 0.0
+    },
+    {
+      "from": 580.11,
+      "to": 582.819,
+      "sid": 273,
+      "location": 2,
+      "content": "至少一家企业要认清一个真相",
+      "music": 0.0
+    },
+    {
+      "from": 582.819,
+      "to": 584.339,
+      "sid": 274,
+      "location": 2,
+      "content": "不止资源有限",
+      "music": 0.0
+    },
+    {
+      "from": 584.339,
+      "to": 585.619,
+      "sid": 275,
+      "location": 2,
+      "content": "能力也有限",
+      "music": 0.0
+    },
+    {
+      "from": 585.619,
+      "to": 586.659,
+      "sid": 276,
+      "location": 2,
+      "content": "看清这一点",
+      "music": 0.0
+    },
+    {
+      "from": 586.659,
+      "to": 589.39,
+      "sid": 277,
+      "location": 2,
+      "content": "一家企业才能够做出正确的决策",
+      "music": 0.0
+    },
+    {
+      "from": 589.39,
+      "to": 590.47,
+      "sid": 278,
+      "location": 2,
+      "content": "我是边大娘",
+      "music": 0.0
+    },
+    {
+      "from": 590.47,
+      "to": 592.15,
+      "sid": 279,
+      "location": 2,
+      "content": "只分享对生活有用的知识",
+      "music": 0.0
+    },
+    {
+      "from": 592.15,
+      "to": 592.97,
+      "sid": 280,
+      "location": 2,
+      "content": "感谢收听",
+      "music": 0.0
+    },
+    {
+      "from": 592.97,
+      "to": 593.78,
+      "sid": 281,
+      "location": 2,
+      "content": "下期再见",
+      "music": 0.0
+    }
+  ]
+}

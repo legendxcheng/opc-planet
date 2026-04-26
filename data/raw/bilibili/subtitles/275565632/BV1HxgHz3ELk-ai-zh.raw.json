@@ -1,0 +1,4660 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.0,
+      "to": 1.68,
+      "sid": 1,
+      "location": 2,
+      "content": "一个鲜血淋漓的真善良",
+      "music": 0.0
+    },
+    {
+      "from": 1.68,
+      "to": 3.36,
+      "sid": 2,
+      "location": 2,
+      "content": "为什么发给你的是40万的offer",
+      "music": 0.0
+    },
+    {
+      "from": 3.36,
+      "to": 5.16,
+      "sid": 3,
+      "location": 2,
+      "content": "但最后你到手只有6万",
+      "music": 0.0
+    },
+    {
+      "from": 5.16,
+      "to": 7.24,
+      "sid": 4,
+      "location": 2,
+      "content": "咱们来拆解一下这个校招offer里面的猫腻啊",
+      "music": 0.0
+    },
+    {
+      "from": 7.24,
+      "to": 9.02,
+      "sid": 5,
+      "location": 2,
+      "content": "首先总包是40万",
+      "music": 0.0
+    },
+    {
+      "from": 9.02,
+      "to": 12.18,
+      "sid": 6,
+      "location": 2,
+      "content": "但是这40万呢它有12345部分组成",
+      "music": 0.0
+    },
+    {
+      "from": 12.18,
+      "to": 13.82,
+      "sid": 7,
+      "location": 2,
+      "content": "首先工资收入是每个月7000",
+      "music": 0.0
+    },
+    {
+      "from": 13.82,
+      "to": 14.78,
+      "sid": 8,
+      "location": 2,
+      "content": "然后一年有12个月",
+      "music": 0.0
+    },
+    {
+      "from": 14.78,
+      "to": 16.06,
+      "sid": 9,
+      "location": 2,
+      "content": "那么乘出来就是8万4",
+      "music": 0.0
+    },
+    {
+      "from": 16.06,
+      "to": 17.3,
+      "sid": 10,
+      "location": 2,
+      "content": "如果说我们扣除个税的话",
+      "music": 0.0
+    },
+    {
+      "from": 17.3,
+      "to": 18.42,
+      "sid": 11,
+      "location": 2,
+      "content": "可以乘个0.8的系数",
+      "music": 0.0
+    },
+    {
+      "from": 18.42,
+      "to": 20.12,
+      "sid": 12,
+      "location": 2,
+      "content": "大概是6.7万",
+      "music": 0.0
+    },
+    {
+      "from": 20.12,
+      "to": 21.82,
+      "sid": 13,
+      "location": 2,
+      "content": "然后第二项年终奖",
+      "music": 0.0
+    },
+    {
+      "from": 21.82,
+      "to": 22.92,
+      "sid": 14,
+      "location": 2,
+      "content": "注意20个月",
+      "music": 0.0
+    },
+    {
+      "from": 22.92,
+      "to": 24.96,
+      "sid": 15,
+      "location": 2,
+      "content": "这个20个月是一个非常大的数字啊",
+      "music": 0.0
+    },
+    {
+      "from": 24.96,
+      "to": 26.12,
+      "sid": 16,
+      "location": 2,
+      "content": "所以说基本上可以判定",
+      "music": 0.0
+    },
+    {
+      "from": 26.12,
+      "to": 28.22,
+      "sid": 17,
+      "location": 2,
+      "content": "这个工作主要是靠年终奖来攒钱",
+      "music": 0.0
+    },
+    {
+      "from": 28.22,
+      "to": 30.32,
+      "sid": 18,
+      "location": 2,
+      "content": "20个月就是7K乘以20",
+      "music": 0.0
+    },
+    {
+      "from": 30.32,
+      "to": 30.9,
+      "sid": 19,
+      "location": 2,
+      "content": "拿满的话",
+      "music": 0.0
+    },
+    {
+      "from": 30.9,
+      "to": 32.28,
+      "sid": 20,
+      "location": 2,
+      "content": "大概有14万年终奖",
+      "music": 0.0
+    },
+    {
+      "from": 32.28,
+      "to": 32.86,
+      "sid": 21,
+      "location": 2,
+      "content": "但是很不幸",
+      "music": 0.0
+    },
+    {
+      "from": 32.86,
+      "to": 34.3,
+      "sid": 22,
+      "location": 2,
+      "content": "这个老哥入职半年就被裁",
+      "music": 0.0
+    },
+    {
+      "from": 34.3,
+      "to": 34.98,
+      "sid": 23,
+      "location": 2,
+      "content": "试用期没过",
+      "music": 0.0
+    },
+    {
+      "from": 34.98,
+      "to": 35.94,
+      "sid": 24,
+      "location": 2,
+      "content": "那么把他逼走了以后",
+      "music": 0.0
+    },
+    {
+      "from": 35.94,
+      "to": 37.68,
+      "sid": 25,
+      "location": 2,
+      "content": "他的现金收入其实只拿了六个月",
+      "music": 0.0
+    },
+    {
+      "from": 37.68,
+      "to": 39.0,
+      "sid": 26,
+      "location": 2,
+      "content": "也就只拿了3万多块钱",
+      "music": 0.0
+    },
+    {
+      "from": 39.0,
+      "to": 40.52,
+      "sid": 27,
+      "location": 2,
+      "content": "年终奖一分没拿到",
+      "music": 0.0
+    },
+    {
+      "from": 40.52,
+      "to": 42.44,
+      "sid": 28,
+      "location": 2,
+      "content": "为什么年终奖是要过完年才发的",
+      "music": 0.0
+    },
+    {
+      "from": 42.44,
+      "to": 43.3,
+      "sid": 29,
+      "location": 2,
+      "content": "像互联网公司",
+      "music": 0.0
+    },
+    {
+      "from": 43.3,
+      "to": 45.1,
+      "sid": 30,
+      "location": 2,
+      "content": "他可能会拖到4月份才发年终奖",
+      "music": 0.0
+    },
+    {
+      "from": 45.1,
+      "to": 46.18,
+      "sid": 31,
+      "location": 2,
+      "content": "你过年前被裁了",
+      "music": 0.0
+    },
+    {
+      "from": 46.18,
+      "to": 46.62,
+      "sid": 32,
+      "location": 2,
+      "content": "恭喜你",
+      "music": 0.0
+    },
+    {
+      "from": 46.62,
+      "to": 48.28,
+      "sid": 33,
+      "location": 2,
+      "content": "莫得人才补贴",
+      "music": 0.0
+    },
+    {
+      "from": 48.28,
+      "to": 48.88,
+      "sid": 34,
+      "location": 2,
+      "content": "补贴收入",
+      "music": 0.0
+    },
+    {
+      "from": 48.88,
+      "to": 51.2,
+      "sid": 35,
+      "location": 2,
+      "content": "一般是政府或者公司发给你的一些福利性收入",
+      "music": 0.0
+    },
+    {
+      "from": 51.2,
+      "to": 52.08,
+      "sid": 36,
+      "location": 2,
+      "content": "但是他有个bug",
+      "music": 0.0
+    },
+    {
+      "from": 52.08,
+      "to": 53.54,
+      "sid": 37,
+      "location": 2,
+      "content": "就是他也不是随便发放的",
+      "music": 0.0
+    },
+    {
+      "from": 53.54,
+      "to": 54.8,
+      "sid": 38,
+      "location": 2,
+      "content": "他嘴上说一个月3000",
+      "music": 0.0
+    },
+    {
+      "from": 54.8,
+      "to": 57.58,
+      "sid": 39,
+      "location": 2,
+      "content": "但一般可能是你过完一整年再统一申请",
+      "music": 0.0
+    },
+    {
+      "from": 57.58,
+      "to": 60.38,
+      "sid": 40,
+      "location": 2,
+      "content": "然后在第2年才给你发第一个年的人才补贴",
+      "music": 0.0
+    },
+    {
+      "from": 60.38,
+      "to": 60.94,
+      "sid": 41,
+      "location": 2,
+      "content": "那很明显",
+      "music": 0.0
+    },
+    {
+      "from": 60.94,
+      "to": 61.98,
+      "sid": 42,
+      "location": 2,
+      "content": "如果你第一年被裁了",
+      "music": 0.0
+    },
+    {
+      "from": 63.3,
+      "to": 63.74,
+      "sid": 43,
+      "location": 2,
+      "content": "恭喜你",
+      "music": 0.0
+    },
+    {
+      "from": 63.74,
+      "to": 65.24,
+      "sid": 44,
+      "location": 2,
+      "content": "这3万61分钱钱没有好",
+      "music": 0.0
+    },
+    {
+      "from": 65.24,
+      "to": 66.16,
+      "sid": 45,
+      "location": 2,
+      "content": "第四签字费",
+      "music": 0.0
+    },
+    {
+      "from": 66.16,
+      "to": 66.88,
+      "sid": 46,
+      "location": 2,
+      "content": "签字费是什么",
+      "music": 0.0
+    },
+    {
+      "from": 66.88,
+      "to": 68.32,
+      "sid": 47,
+      "location": 2,
+      "content": "就是你可能校招的时候你很优秀",
+      "music": 0.0
+    },
+    {
+      "from": 68.32,
+      "to": 70.44,
+      "sid": 48,
+      "location": 2,
+      "content": "有很多家公共同在争抢你",
+      "music": 0.0
+    },
+    {
+      "from": 70.44,
+      "to": 71.92,
+      "sid": 49,
+      "location": 2,
+      "content": "那么这家公司为了吸引你",
+      "music": 0.0
+    },
+    {
+      "from": 71.92,
+      "to": 74.0,
+      "sid": 50,
+      "location": 2,
+      "content": "他可能会用签字费的方式勾引你签约",
+      "music": 0.0
+    },
+    {
+      "from": 74.0,
+      "to": 75.62,
+      "sid": 51,
+      "location": 2,
+      "content": "你只要签约我就给你5万块钱",
+      "music": 0.0
+    },
+    {
+      "from": 75.62,
+      "to": 76.1,
+      "sid": 52,
+      "location": 2,
+      "content": "你签了以后",
+      "music": 0.0
+    },
+    {
+      "from": 76.1,
+      "to": 77.14,
+      "sid": 53,
+      "location": 2,
+      "content": "他再给你玩一个套套",
+      "music": 0.0
+    },
+    {
+      "from": 77.14,
+      "to": 79.7,
+      "sid": 54,
+      "location": 2,
+      "content": "说啊同学这5万块钱我不是一下打给你的",
+      "music": 0.0
+    },
+    {
+      "from": 79.7,
+      "to": 80.56,
+      "sid": 55,
+      "location": 2,
+      "content": "我们要拆分",
+      "music": 0.0
+    },
+    {
+      "from": 80.56,
+      "to": 82.48,
+      "sid": 56,
+      "location": 2,
+      "content": "我先打给你2万",
+      "music": 0.0
+    },
+    {
+      "from": 82.48,
+      "to": 83.08,
+      "sid": 57,
+      "location": 2,
+      "content": "然后呢",
+      "music": 0.0
+    },
+    {
+      "from": 83.08,
+      "to": 84.72,
+      "sid": 58,
+      "location": 2,
+      "content": "你在我们这儿工作3年以后",
+      "music": 0.0
+    },
+    {
+      "from": 84.72,
+      "to": 86.42,
+      "sid": 59,
+      "location": 2,
+      "content": "我再打给你3万",
+      "music": 0.0
+    },
+    {
+      "from": 86.42,
+      "to": 88.02,
+      "sid": 60,
+      "location": 2,
+      "content": "也就是说你在签字的时候",
+      "music": 0.0
+    },
+    {
+      "from": 88.02,
+      "to": 89.44,
+      "sid": 61,
+      "location": 2,
+      "content": "你只能拿到的是这2万",
+      "music": 0.0
+    },
+    {
+      "from": 89.44,
+      "to": 90.58,
+      "sid": 62,
+      "location": 2,
+      "content": "当你半年被裁员",
+      "music": 0.0
+    },
+    {
+      "from": 90.58,
+      "to": 92.82,
+      "sid": 63,
+      "location": 2,
+      "content": "或者是一年两年你主动走人的时候",
+      "music": 0.0
+    },
+    {
+      "from": 92.82,
+      "to": 94.36,
+      "sid": 64,
+      "location": 2,
+      "content": "这3万你一个子儿都见不着",
+      "music": 0.0
+    },
+    {
+      "from": 94.36,
+      "to": 95.88,
+      "sid": 65,
+      "location": 2,
+      "content": "最后一个安家费10万",
+      "music": 0.0
+    },
+    {
+      "from": 95.88,
+      "to": 98.06,
+      "sid": 66,
+      "location": 2,
+      "content": "也有的地方会叫他购房补贴10万",
+      "music": 0.0
+    },
+    {
+      "from": 98.06,
+      "to": 98.72,
+      "sid": 67,
+      "location": 2,
+      "content": "这个东西啊",
+      "music": 0.0
+    },
+    {
+      "from": 98.72,
+      "to": 100.0,
+      "sid": 68,
+      "location": 2,
+      "content": "大家是不是看的也挺多啊",
+      "music": 0.0
+    },
+    {
+      "from": 100.0,
+      "to": 101.76,
+      "sid": 69,
+      "location": 2,
+      "content": "很多人可能也是为了这个安家费来的",
+      "music": 0.0
+    },
+    {
+      "from": 101.76,
+      "to": 102.24,
+      "sid": 70,
+      "location": 2,
+      "content": "怎么说呢",
+      "music": 0.0
+    },
+    {
+      "from": 102.24,
+      "to": 102.88,
+      "sid": 71,
+      "location": 2,
+      "content": "也挺好",
+      "music": 0.0
+    },
+    {
+      "from": 102.88,
+      "to": 103.76,
+      "sid": 72,
+      "location": 2,
+      "content": "但他有一个bug",
+      "music": 0.0
+    },
+    {
+      "from": 103.76,
+      "to": 105.4,
+      "sid": 73,
+      "location": 2,
+      "content": "就是很多地方的政策是安家费",
+      "music": 0.0
+    },
+    {
+      "from": 105.4,
+      "to": 106.66,
+      "sid": 74,
+      "location": 2,
+      "content": "你得在当地购房",
+      "music": 0.0
+    },
+    {
+      "from": 106.66,
+      "to": 107.26,
+      "sid": 75,
+      "location": 2,
+      "content": "他还在发",
+      "music": 0.0
+    },
+    {
+      "from": 107.26,
+      "to": 107.74,
+      "sid": 76,
+      "location": 2,
+      "content": "换句话说",
+      "music": 0.0
+    },
+    {
+      "from": 107.74,
+      "to": 109.22,
+      "sid": 77,
+      "location": 2,
+      "content": "你在一开始在刚开始奋斗",
+      "music": 0.0
+    },
+    {
+      "from": 109.22,
+      "to": 110.06,
+      "sid": 78,
+      "location": 2,
+      "content": "你在租房的时候",
+      "music": 0.0
+    },
+    {
+      "from": 110.06,
+      "to": 111.62,
+      "sid": 79,
+      "location": 2,
+      "content": "这个也是一个子儿没有的好",
+      "music": 0.0
+    },
+    {
+      "from": 111.62,
+      "to": 112.58,
+      "sid": 80,
+      "location": 2,
+      "content": "所以我们汇总一下",
+      "music": 0.0
+    },
+    {
+      "from": 112.58,
+      "to": 113.78,
+      "sid": 81,
+      "location": 2,
+      "content": "如果说你干了半年被裁",
+      "music": 0.0
+    },
+    {
+      "from": 113.78,
+      "to": 114.98,
+      "sid": 82,
+      "location": 2,
+      "content": "或者是你主动走",
+      "music": 0.0
+    },
+    {
+      "from": 114.98,
+      "to": 115.74,
+      "sid": 83,
+      "location": 2,
+      "content": "你干了不到一年",
+      "music": 0.0
+    },
+    {
+      "from": 115.74,
+      "to": 116.86,
+      "sid": 84,
+      "location": 2,
+      "content": "你想换一家公司发展",
+      "music": 0.0
+    },
+    {
+      "from": 116.86,
+      "to": 118.82,
+      "sid": 85,
+      "location": 2,
+      "content": "你能拿到手里的只有这点",
+      "music": 0.0
+    },
+    {
+      "from": 118.82,
+      "to": 120.74,
+      "sid": 86,
+      "location": 2,
+      "content": "基本工资和这个小头的签字费",
+      "music": 0.0
+    },
+    {
+      "from": 120.74,
+      "to": 122.64,
+      "sid": 87,
+      "location": 2,
+      "content": "汇总下来一共只有5.3万",
+      "music": 0.0
+    },
+    {
+      "from": 122.64,
+      "to": 124.16,
+      "sid": 88,
+      "location": 2,
+      "content": "顺便把你公积金也算上啊",
+      "music": 0.0
+    },
+    {
+      "from": 124.16,
+      "to": 125.4,
+      "sid": 89,
+      "location": 2,
+      "content": "像7000块钱的基本工资",
+      "music": 0.0
+    },
+    {
+      "from": 125.4,
+      "to": 126.44,
+      "sid": 90,
+      "location": 2,
+      "content": "公积金大概也就1000多",
+      "music": 0.0
+    },
+    {
+      "from": 126.44,
+      "to": 127.3,
+      "sid": 91,
+      "location": 2,
+      "content": "咱就算个6000吧",
+      "music": 0.0
+    },
+    {
+      "from": 127.3,
+      "to": 128.62,
+      "sid": 92,
+      "location": 2,
+      "content": "一共也就6万块钱",
+      "music": 0.0
+    },
+    {
+      "from": 128.62,
+      "to": 129.06,
+      "sid": 93,
+      "location": 2,
+      "content": "怎么样",
+      "music": 0.0
+    },
+    {
+      "from": 129.06,
+      "to": 129.78,
+      "sid": 94,
+      "location": 2,
+      "content": "套路深不深",
+      "music": 0.0
+    },
+    {
+      "from": 129.78,
+      "to": 130.98,
+      "sid": 95,
+      "location": 2,
+      "content": "40万缩水到只有6万了",
+      "music": 0.0
+    },
+    {
+      "from": 130.98,
+      "to": 131.66,
+      "sid": 96,
+      "location": 2,
+      "content": "其实这还不算啥",
+      "music": 0.0
+    },
+    {
+      "from": 131.66,
+      "to": 133.46,
+      "sid": 97,
+      "location": 2,
+      "content": "有的同学他甚至还会签个卖身契",
+      "music": 0.0
+    },
+    {
+      "from": 133.46,
+      "to": 134.98,
+      "sid": 98,
+      "location": 2,
+      "content": "就是那个我在你这工作",
+      "music": 0.0
+    },
+    {
+      "from": 134.98,
+      "to": 136.22,
+      "sid": 99,
+      "location": 2,
+      "content": "然后你给我落北京户口",
+      "music": 0.0
+    },
+    {
+      "from": 136.22,
+      "to": 137.18,
+      "sid": 100,
+      "location": 2,
+      "content": "然后这个卖身契会规定",
+      "music": 0.0
+    },
+    {
+      "from": 137.18,
+      "to": 138.3,
+      "sid": 101,
+      "location": 2,
+      "content": "如果说你达不到公司的能力",
+      "music": 0.0
+    },
+    {
+      "from": 139.54,
+      "to": 141.26,
+      "sid": 102,
+      "location": 2,
+      "content": "并且你要赔偿违约金30万",
+      "music": 0.0
+    },
+    {
+      "from": 141.26,
+      "to": 142.38,
+      "sid": 103,
+      "location": 2,
+      "content": "我靠上班半年",
+      "music": 0.0
+    },
+    {
+      "from": 142.38,
+      "to": 142.9,
+      "sid": 104,
+      "location": 2,
+      "content": "我道歉",
+      "music": 0.0
+    },
+    {
+      "from": 142.9,
+      "to": 143.68,
+      "sid": 105,
+      "location": 2,
+      "content": "公司24万",
+      "music": 0.0
+    },
+    {
+      "from": 143.68,
+      "to": 145.26,
+      "sid": 106,
+      "location": 2,
+      "content": "所以大家发现了不要看总包啊",
+      "music": 0.0
+    },
+    {
+      "from": 145.26,
+      "to": 146.74,
+      "sid": 107,
+      "location": 2,
+      "content": "这个薪资结构很重要",
+      "music": 0.0
+    },
+    {
+      "from": 146.74,
+      "to": 148.3,
+      "sid": 108,
+      "location": 2,
+      "content": "这里面套路猫腻多着呢",
+      "music": 0.0
+    },
+    {
+      "from": 148.3,
+      "to": 149.2,
+      "sid": 109,
+      "location": 2,
+      "content": "社会人真坏",
+      "music": 0.0
+    },
+    {
+      "from": 149.2,
+      "to": 150.48,
+      "sid": 110,
+      "location": 2,
+      "content": "那现在我就给大家拆解一下",
+      "music": 0.0
+    },
+    {
+      "from": 150.48,
+      "to": 151.88,
+      "sid": 111,
+      "location": 2,
+      "content": "公司画饼的神级套路啊",
+      "music": 0.0
+    },
+    {
+      "from": 151.88,
+      "to": 152.52,
+      "sid": 112,
+      "location": 2,
+      "content": "建议大家记不记",
+      "music": 0.0
+    },
+    {
+      "from": 152.52,
+      "to": 152.64,
+      "sid": 113,
+      "location": 2,
+      "content": "来",
+      "music": 0.0
+    },
+    {
+      "from": 152.64,
+      "to": 155.879,
+      "sid": 114,
+      "location": 2,
+      "content": "大家把记笔记三个字打在公屏上好",
+      "music": 0.0
+    },
+    {
+      "from": 155.879,
+      "to": 158.039,
+      "sid": 115,
+      "location": 2,
+      "content": "大家的工资收入未来都是怎样一个结构呢",
+      "music": 0.0
+    },
+    {
+      "from": 158.039,
+      "to": 158.799,
+      "sid": 116,
+      "location": 2,
+      "content": "咱们看白板哈",
+      "music": 0.0
+    },
+    {
+      "from": 158.799,
+      "to": 159.479,
+      "sid": 117,
+      "location": 2,
+      "content": "咱们一个个来",
+      "music": 0.0
+    },
+    {
+      "from": 159.479,
+      "to": 161.199,
+      "sid": 118,
+      "location": 2,
+      "content": "首先可以概括为两部分",
+      "music": 0.0
+    },
+    {
+      "from": 161.199,
+      "to": 162.619,
+      "sid": 119,
+      "location": 2,
+      "content": "一部分叫现金",
+      "music": 0.0
+    },
+    {
+      "from": 162.619,
+      "to": 163.84,
+      "sid": 120,
+      "location": 2,
+      "content": "一部分叫福利",
+      "music": 0.0
+    },
+    {
+      "from": 163.84,
+      "to": 166.22,
+      "sid": 121,
+      "location": 2,
+      "content": "首先现金里面第一项也是最重要的一线叫底薪",
+      "music": 0.0
+    },
+    {
+      "from": 166.22,
+      "to": 166.76,
+      "sid": 122,
+      "location": 2,
+      "content": "乘月份",
+      "music": 0.0
+    },
+    {
+      "from": 166.76,
+      "to": 168.38,
+      "sid": 123,
+      "location": 2,
+      "content": "就是大家经常听别人说啊",
+      "music": 0.0
+    },
+    {
+      "from": 168.38,
+      "to": 169.96,
+      "sid": 124,
+      "location": 2,
+      "content": "我拿一个20K升十",
+      "music": 0.0
+    },
+    {
+      "from": 169.96,
+      "to": 171.18,
+      "sid": 125,
+      "location": 2,
+      "content": "我的offer是什么意思呢",
+      "music": 0.0
+    },
+    {
+      "from": 171.18,
+      "to": 174.04,
+      "sid": 126,
+      "location": 2,
+      "content": "意思就是他的底薪是20K然后发16个月",
+      "music": 0.0
+    },
+    {
+      "from": 174.04,
+      "to": 175.66,
+      "sid": 127,
+      "location": 2,
+      "content": "20K就是每个月的税前工资",
+      "music": 0.0
+    },
+    {
+      "from": 175.66,
+      "to": 176.74,
+      "sid": 128,
+      "location": 2,
+      "content": "但还不是打卡工资啊",
+      "music": 0.0
+    },
+    {
+      "from": 176.74,
+      "to": 178.14,
+      "sid": 129,
+      "location": 2,
+      "content": "打卡工资你要交五险金",
+      "music": 0.0
+    },
+    {
+      "from": 178.14,
+      "to": 178.96,
+      "sid": 130,
+      "location": 2,
+      "content": "然后再扣完税",
+      "music": 0.0
+    },
+    {
+      "from": 178.96,
+      "to": 180.82,
+      "sid": 131,
+      "location": 2,
+      "content": "大概会乘一个0.7到0.8的系数",
+      "music": 0.0
+    },
+    {
+      "from": 180.82,
+      "to": 181.26,
+      "sid": 132,
+      "location": 2,
+      "content": "比如说这个",
+      "music": 0.0
+    },
+    {
+      "from": 181.26,
+      "to": 183.5,
+      "sid": 133,
+      "location": 2,
+      "content": "你大概率到手可能也就1万6到1万",
+      "music": 0.0
+    },
+    {
+      "from": 183.5,
+      "to": 185.1,
+      "sid": 134,
+      "location": 2,
+      "content": "然后一年发16个月",
+      "music": 0.0
+    },
+    {
+      "from": 185.1,
+      "to": 186.34,
+      "sid": 135,
+      "location": 2,
+      "content": "来问下大家有想提问",
+      "music": 0.0
+    },
+    {
+      "from": 186.34,
+      "to": 187.46,
+      "sid": 136,
+      "location": 2,
+      "content": "为什么一年能发16个月",
+      "music": 0.0
+    },
+    {
+      "from": 187.46,
+      "to": 188.3,
+      "sid": 137,
+      "location": 2,
+      "content": "有人知道吗啊",
+      "music": 0.0
+    },
+    {
+      "from": 188.3,
+      "to": 189.72,
+      "sid": 138,
+      "location": 2,
+      "content": "把你的答案打在弹幕里哎",
+      "music": 0.0
+    },
+    {
+      "from": 189.72,
+      "to": 191.9,
+      "sid": 139,
+      "location": 2,
+      "content": "对年终奖一年有12个月",
+      "music": 0.0
+    },
+    {
+      "from": 191.9,
+      "to": 192.98,
+      "sid": 140,
+      "location": 2,
+      "content": "那他多出来四个月",
+      "music": 0.0
+    },
+    {
+      "from": 192.98,
+      "to": 194.02,
+      "sid": 141,
+      "location": 2,
+      "content": "其实就是年终奖好",
+      "music": 0.0
+    },
+    {
+      "from": 194.02,
+      "to": 195.82,
+      "sid": 142,
+      "location": 2,
+      "content": "我们来看下面这部分年终奖",
+      "music": 0.0
+    },
+    {
+      "from": 195.82,
+      "to": 197.54,
+      "sid": 143,
+      "location": 2,
+      "content": "年终奖这个东西很多同学很喜欢",
+      "music": 0.0
+    },
+    {
+      "from": 197.54,
+      "to": 198.9,
+      "sid": 144,
+      "location": 2,
+      "content": "因为觉得这是一笔很丰厚的收入",
+      "music": 0.0
+    },
+    {
+      "from": 198.9,
+      "to": 200.38,
+      "sid": 145,
+      "location": 2,
+      "content": "你看20K乘以四个月是多少",
+      "music": 0.0
+    },
+    {
+      "from": 200.38,
+      "to": 201.06,
+      "sid": 146,
+      "location": 2,
+      "content": "是8万",
+      "music": 0.0
+    },
+    {
+      "from": 201.06,
+      "to": 203.3,
+      "sid": 147,
+      "location": 2,
+      "content": "像有的公司他一发发20个月能中奖",
+      "music": 0.0
+    },
+    {
+      "from": 203.3,
+      "to": 205.32,
+      "sid": 148,
+      "location": 2,
+      "content": "然后你就觉得哎呀我有这么多钱呢",
+      "music": 0.0
+    },
+    {
+      "from": 205.32,
+      "to": 206.84,
+      "sid": 149,
+      "location": 2,
+      "content": "美得你大鼻涕冒泡泡",
+      "music": 0.0
+    },
+    {
+      "from": 206.84,
+      "to": 209.94,
+      "sid": 150,
+      "location": 2,
+      "content": "你以为这笔钱能安安心心的全额到你手里吗",
+      "music": 0.0
+    },
+    {
+      "from": 209.94,
+      "to": 210.8,
+      "sid": 151,
+      "location": 2,
+      "content": "想多了",
+      "music": 0.0
+    },
+    {
+      "from": 210.8,
+      "to": 212.84,
+      "sid": 152,
+      "location": 2,
+      "content": "首先第一个告诉大家年终奖怎么计算啊",
+      "music": 0.0
+    },
+    {
+      "from": 212.84,
+      "to": 214.88,
+      "sid": 153,
+      "location": 2,
+      "content": "最基础的就是底薪乘以多出来",
+      "music": 0.0
+    },
+    {
+      "from": 214.88,
+      "to": 216.6,
+      "sid": 154,
+      "location": 2,
+      "content": "这个月份你像这四个月就是8万",
+      "music": 0.0
+    },
+    {
+      "from": 216.6,
+      "to": 218.36,
+      "sid": 155,
+      "location": 2,
+      "content": "但之后还要成一对系数的",
+      "music": 0.0
+    },
+    {
+      "from": 218.36,
+      "to": 219.06,
+      "sid": 156,
+      "location": 2,
+      "content": "常见的系数",
+      "music": 0.0
+    },
+    {
+      "from": 219.06,
+      "to": 220.46,
+      "sid": 157,
+      "location": 2,
+      "content": "至少有公司系数",
+      "music": 0.0
+    },
+    {
+      "from": 220.46,
+      "to": 222.62,
+      "sid": 158,
+      "location": 2,
+      "content": "部门系数和个人系数系数是啥意思",
+      "music": 0.0
+    },
+    {
+      "from": 222.62,
+      "to": 223.74,
+      "sid": 159,
+      "location": 2,
+      "content": "就今年咱们过得好不好",
+      "music": 0.0
+    },
+    {
+      "from": 223.74,
+      "to": 225.3,
+      "sid": 160,
+      "location": 2,
+      "content": "今年公司发展好啊",
+      "music": 0.0
+    },
+    {
+      "from": 225.3,
+      "to": 226.66,
+      "sid": 161,
+      "location": 2,
+      "content": "公司的系数可能就大于一",
+      "music": 0.0
+    },
+    {
+      "from": 226.66,
+      "to": 228.22,
+      "sid": 162,
+      "location": 2,
+      "content": "比如1.2甚至二甚至三",
+      "music": 0.0
+    },
+    {
+      "from": 228.22,
+      "to": 229.58,
+      "sid": 163,
+      "location": 2,
+      "content": "那今天公司发展不好",
+      "music": 0.0
+    },
+    {
+      "from": 229.58,
+      "to": 230.58,
+      "sid": 164,
+      "location": 2,
+      "content": "那他可能就小于一",
+      "music": 0.0
+    },
+    {
+      "from": 230.58,
+      "to": 231.94,
+      "sid": 165,
+      "location": 2,
+      "content": "就是0.80.40.2",
+      "music": 0.0
+    },
+    {
+      "from": 231.94,
+      "to": 232.7,
+      "sid": 166,
+      "location": 2,
+      "content": "那问题来了",
+      "music": 0.0
+    },
+    {
+      "from": 232.7,
+      "to": 233.66,
+      "sid": 167,
+      "location": 2,
+      "content": "来问一下大家",
+      "music": 0.0
+    },
+    {
+      "from": 233.66,
+      "to": 234.98,
+      "sid": 168,
+      "location": 2,
+      "content": "在当今这个时代",
+      "music": 0.0
+    },
+    {
+      "from": 234.98,
+      "to": 237.98,
+      "sid": 169,
+      "location": 2,
+      "content": "你觉得这三个系数它们大于一的概率高呢",
+      "music": 0.0
+    },
+    {
+      "from": 237.98,
+      "to": 239.19,
+      "sid": 170,
+      "location": 2,
+      "content": "还是小于一的概率高呢",
+      "music": 0.0
+    },
+    {
+      "from": 239.19,
+      "to": 240.67,
+      "sid": 171,
+      "location": 2,
+      "content": "嗯欢迎大家啊",
+      "music": 0.0
+    },
+    {
+      "from": 240.67,
+      "to": 241.79,
+      "sid": 172,
+      "location": 2,
+      "content": "明显小于一的概率高啊",
+      "music": 0.0
+    },
+    {
+      "from": 241.79,
+      "to": 243.74,
+      "sid": 173,
+      "location": 2,
+      "content": "现在这懂吧懂吧",
+      "music": 0.0
+    },
+    {
+      "from": 243.74,
+      "to": 244.9,
+      "sid": 174,
+      "location": 2,
+      "content": "我我也不说太明白了哈",
+      "music": 0.0
+    },
+    {
+      "from": 244.9,
+      "to": 246.26,
+      "sid": 175,
+      "location": 2,
+      "content": "所以大部分人是拿不满的哦",
+      "music": 0.0
+    },
+    {
+      "from": 246.26,
+      "to": 248.46,
+      "sid": 176,
+      "location": 2,
+      "content": "对我还忘了个最关键的技术时间系数",
+      "music": 0.0
+    },
+    {
+      "from": 248.46,
+      "to": 249.02,
+      "sid": 177,
+      "location": 2,
+      "content": "什么意思呢",
+      "music": 0.0
+    },
+    {
+      "from": 249.02,
+      "to": 250.22,
+      "sid": 178,
+      "location": 2,
+      "content": "大家是校招生对吧",
+      "music": 0.0
+    },
+    {
+      "from": 250.22,
+      "to": 251.74,
+      "sid": 179,
+      "location": 2,
+      "content": "大家可能你们如果是二五届",
+      "music": 0.0
+    },
+    {
+      "from": 251.74,
+      "to": 253.74,
+      "sid": 180,
+      "location": 2,
+      "content": "你们明年2025届6月份毕业",
+      "music": 0.0
+    },
+    {
+      "from": 253.74,
+      "to": 255.1,
+      "sid": 181,
+      "location": 2,
+      "content": "25年7月入职",
+      "music": 0.0
+    },
+    {
+      "from": 255.1,
+      "to": 256.14,
+      "sid": 182,
+      "location": 2,
+      "content": "你们发第一笔年终奖",
+      "music": 0.0
+    },
+    {
+      "from": 256.14,
+      "to": 258.12,
+      "sid": 183,
+      "location": 2,
+      "content": "是在2026年的春节前后",
+      "music": 0.0
+    },
+    {
+      "from": 258.12,
+      "to": 259.06,
+      "sid": 184,
+      "location": 2,
+      "content": "那那个时候发年终奖",
+      "music": 0.0
+    },
+    {
+      "from": 259.06,
+      "to": 260.1,
+      "sid": 185,
+      "location": 2,
+      "content": "你一共只干了半年",
+      "music": 0.0
+    },
+    {
+      "from": 260.1,
+      "to": 260.66,
+      "sid": 186,
+      "location": 2,
+      "content": "怎么办呢",
+      "music": 0.0
+    },
+    {
+      "from": 260.66,
+      "to": 262.3,
+      "sid": 187,
+      "location": 2,
+      "content": "乘一个时间系数0.5",
+      "music": 0.0
+    },
+    {
+      "from": 262.3,
+      "to": 263.54,
+      "sid": 188,
+      "location": 2,
+      "content": "所以明白这个套路吧",
+      "music": 0.0
+    },
+    {
+      "from": 263.54,
+      "to": 264.58,
+      "sid": 189,
+      "location": 2,
+      "content": "你看着蛋糕很大",
+      "music": 0.0
+    },
+    {
+      "from": 264.58,
+      "to": 267.56,
+      "sid": 190,
+      "location": 2,
+      "content": "但你以为这笔钱能安安心心到你手里吗",
+      "music": 0.0
+    },
+    {
+      "from": 267.56,
+      "to": 268.4,
+      "sid": 191,
+      "location": 2,
+      "content": "想多了",
+      "music": 0.0
+    },
+    {
+      "from": 268.4,
+      "to": 270.08,
+      "sid": 192,
+      "location": 2,
+      "content": "人家资本家是精心设计过的",
+      "music": 0.0
+    },
+    {
+      "from": 270.08,
+      "to": 271.68,
+      "sid": 193,
+      "location": 2,
+      "content": "这个玩意儿就是每到年底的时候",
+      "music": 0.0
+    },
+    {
+      "from": 271.68,
+      "to": 273.04,
+      "sid": 194,
+      "location": 2,
+      "content": "拿根胡萝卜掉在你面前啊",
+      "music": 0.0
+    },
+    {
+      "from": 273.04,
+      "to": 274.2,
+      "sid": 195,
+      "location": 2,
+      "content": "你为了吃到它",
+      "music": 0.0
+    },
+    {
+      "from": 274.2,
+      "to": 275.02,
+      "sid": 196,
+      "location": 2,
+      "content": "你就必须要忍",
+      "music": 0.0
+    },
+    {
+      "from": 275.02,
+      "to": 277.24,
+      "sid": 197,
+      "location": 2,
+      "content": "但是即使你拿完年终奖立刻走",
+      "music": 0.0
+    },
+    {
+      "from": 277.24,
+      "to": 278.32,
+      "sid": 198,
+      "location": 2,
+      "content": "你以为你就没损失了",
+      "music": 0.0
+    },
+    {
+      "from": 278.32,
+      "to": 278.82,
+      "sid": 199,
+      "location": 2,
+      "content": "也不是啊",
+      "music": 0.0
+    },
+    {
+      "from": 278.82,
+      "to": 279.5,
+      "sid": 200,
+      "location": 2,
+      "content": "你立刻走",
+      "music": 0.0
+    },
+    {
+      "from": 279.5,
+      "to": 281.54,
+      "sid": 201,
+      "location": 2,
+      "content": "你也损失了你前半年的年终奖",
+      "music": 0.0
+    },
+    {
+      "from": 281.54,
+      "to": 282.86,
+      "sid": 202,
+      "location": 2,
+      "content": "他就是精心设计过的",
+      "music": 0.0
+    },
+    {
+      "from": 282.86,
+      "to": 283.86,
+      "sid": 203,
+      "location": 2,
+      "content": "所以这玩意儿大家记住",
+      "music": 0.0
+    },
+    {
+      "from": 283.86,
+      "to": 284.62,
+      "sid": 204,
+      "location": 2,
+      "content": "一般拿不满啊",
+      "music": 0.0
+    },
+    {
+      "from": 284.62,
+      "to": 286.26,
+      "sid": 205,
+      "location": 2,
+      "content": "只有极少数那种特别好的业务",
+      "music": 0.0
+    },
+    {
+      "from": 286.26,
+      "to": 287.54,
+      "sid": 206,
+      "location": 2,
+      "content": "能拿到超预期的年终奖好",
+      "music": 0.0
+    },
+    {
+      "from": 287.54,
+      "to": 288.4,
+      "sid": 207,
+      "location": 2,
+      "content": "第三项绩效",
+      "music": 0.0
+    },
+    {
+      "from": 288.4,
+      "to": 290.54,
+      "sid": 208,
+      "location": 2,
+      "content": "这个玩意儿一般呈现的形式就是提成啊",
+      "music": 0.0
+    },
+    {
+      "from": 290.54,
+      "to": 292.62,
+      "sid": 209,
+      "location": 2,
+      "content": "主要集中于那些带销售性质的岗位",
+      "music": 0.0
+    },
+    {
+      "from": 292.62,
+      "to": 294.2,
+      "sid": 210,
+      "location": 2,
+      "content": "或者是一些可能科研岗位吧",
+      "music": 0.0
+    },
+    {
+      "from": 294.2,
+      "to": 295.68,
+      "sid": 211,
+      "location": 2,
+      "content": "就是你迁移横向课题300万",
+      "music": 0.0
+    },
+    {
+      "from": 295.68,
+      "to": 297.24,
+      "sid": 212,
+      "location": 2,
+      "content": "可能其中有20万会划不出来",
+      "music": 0.0
+    },
+    {
+      "from": 297.24,
+      "to": 298.38,
+      "sid": 213,
+      "location": 2,
+      "content": "作为精校的资金池",
+      "music": 0.0
+    },
+    {
+      "from": 298.38,
+      "to": 299.06,
+      "sid": 214,
+      "location": 2,
+      "content": "这种东西看什么",
+      "music": 0.0
+    },
+    {
+      "from": 299.06,
+      "to": 299.58,
+      "sid": 215,
+      "location": 2,
+      "content": "大家知道吗",
+      "music": 0.0
+    },
+    {
+      "from": 299.58,
+      "to": 301.9,
+      "sid": 216,
+      "location": 2,
+      "content": "主要要看你所在行业这个平均的客单价",
+      "music": 0.0
+    },
+    {
+      "from": 301.9,
+      "to": 302.86,
+      "sid": 217,
+      "location": 2,
+      "content": "还有你的抽成比例",
+      "music": 0.0
+    },
+    {
+      "from": 302.86,
+      "to": 303.98,
+      "sid": 218,
+      "location": 2,
+      "content": "但这个东西大家注意啊",
+      "music": 0.0
+    },
+    {
+      "from": 303.98,
+      "to": 305.26,
+      "sid": 219,
+      "location": 2,
+      "content": "一般来说你作为打工人",
+      "music": 0.0
+    },
+    {
+      "from": 305.26,
+      "to": 307.02,
+      "sid": 220,
+      "location": 2,
+      "content": "你很难谈到一个很高的提升比例",
+      "music": 0.0
+    },
+    {
+      "from": 307.02,
+      "to": 308.28,
+      "sid": 221,
+      "location": 2,
+      "content": "或者公司就会给你压的很低",
+      "music": 0.0
+    },
+    {
+      "from": 308.28,
+      "to": 310.32,
+      "sid": 222,
+      "location": 2,
+      "content": "那如果说你是以机构的形式跟公司合作",
+      "music": 0.0
+    },
+    {
+      "from": 310.32,
+      "to": 310.92,
+      "sid": 223,
+      "location": 2,
+      "content": "就会很高",
+      "music": 0.0
+    },
+    {
+      "from": 310.92,
+      "to": 311.84,
+      "sid": 224,
+      "location": 2,
+      "content": "比如说我给你举个例子啊",
+      "music": 0.0
+    },
+    {
+      "from": 311.84,
+      "to": 313.24,
+      "sid": 225,
+      "location": 2,
+      "content": "比如说你你是卖课的",
+      "music": 0.0
+    },
+    {
+      "from": 313.24,
+      "to": 314.2,
+      "sid": 226,
+      "location": 2,
+      "content": "你是合作机构",
+      "music": 0.0
+    },
+    {
+      "from": 314.2,
+      "to": 315.76,
+      "sid": 227,
+      "location": 2,
+      "content": "你帮着公司卖出一份课",
+      "music": 0.0
+    },
+    {
+      "from": 315.76,
+      "to": 317.12,
+      "sid": 228,
+      "location": 2,
+      "content": "你可能抽成30%",
+      "music": 0.0
+    },
+    {
+      "from": 317.12,
+      "to": 318.2,
+      "sid": 229,
+      "location": 2,
+      "content": "但如果你是打工人",
+      "music": 0.0
+    },
+    {
+      "from": 318.2,
+      "to": 319.32,
+      "sid": 230,
+      "location": 2,
+      "content": "可能你连3%都不到",
+      "music": 0.0
+    },
+    {
+      "from": 319.32,
+      "to": 320.84,
+      "sid": 231,
+      "location": 2,
+      "content": "还有第四个东西饼",
+      "music": 0.0
+    },
+    {
+      "from": 320.84,
+      "to": 321.68,
+      "sid": 232,
+      "location": 2,
+      "content": "什么叫丙",
+      "music": 0.0
+    },
+    {
+      "from": 321.68,
+      "to": 322.12,
+      "sid": 233,
+      "location": 2,
+      "content": "大家知道吗",
+      "music": 0.0
+    },
+    {
+      "from": 322.12,
+      "to": 322.96,
+      "sid": 234,
+      "location": 2,
+      "content": "一种是期权",
+      "music": 0.0
+    },
+    {
+      "from": 322.96,
+      "to": 323.86,
+      "sid": 235,
+      "location": 2,
+      "content": "一种叫股权",
+      "music": 0.0
+    },
+    {
+      "from": 323.86,
+      "to": 324.16,
+      "sid": 236,
+      "location": 2,
+      "content": "哎",
+      "music": 0.0
+    },
+    {
+      "from": 324.16,
+      "to": 326.0,
+      "sid": 237,
+      "location": 2,
+      "content": "期权和股权的区别大家知道吗",
+      "music": 0.0
+    },
+    {
+      "from": 326.0,
+      "to": 326.52,
+      "sid": 238,
+      "location": 2,
+      "content": "如果知道的话",
+      "music": 0.0
+    },
+    {
+      "from": 326.52,
+      "to": 328.02,
+      "sid": 239,
+      "location": 2,
+      "content": "你可以把答案打在弹幕上啊",
+      "music": 0.0
+    },
+    {
+      "from": 328.02,
+      "to": 330.18,
+      "sid": 240,
+      "location": 2,
+      "content": "期权就是到了一定时间以后",
+      "music": 0.0
+    },
+    {
+      "from": 330.18,
+      "to": 332.56,
+      "sid": 241,
+      "location": 2,
+      "content": "可以允许你以一定价格买一定的股份",
+      "music": 0.0
+    },
+    {
+      "from": 332.56,
+      "to": 335.16,
+      "sid": 242,
+      "location": 2,
+      "content": "而股权就是那种你已经持有的公司利益",
+      "music": 0.0
+    },
+    {
+      "from": 335.16,
+      "to": 336.52,
+      "sid": 243,
+      "location": 2,
+      "content": "这东西你说好吧也好",
+      "music": 0.0
+    },
+    {
+      "from": 336.52,
+      "to": 337.12,
+      "sid": 244,
+      "location": 2,
+      "content": "说不好吧",
+      "music": 0.0
+    },
+    {
+      "from": 337.12,
+      "to": 337.56,
+      "sid": 245,
+      "location": 2,
+      "content": "也不好",
+      "music": 0.0
+    },
+    {
+      "from": 337.56,
+      "to": 337.76,
+      "sid": 246,
+      "location": 2,
+      "content": "好",
+      "music": 0.0
+    },
+    {
+      "from": 337.76,
+      "to": 338.2,
+      "sid": 247,
+      "location": 2,
+      "content": "是为什么",
+      "music": 0.0
+    },
+    {
+      "from": 338.2,
+      "to": 339.28,
+      "sid": 248,
+      "location": 2,
+      "content": "你如果能能拿到这个东西",
+      "music": 0.0
+    },
+    {
+      "from": 339.28,
+      "to": 341.8,
+      "sid": 249,
+      "location": 2,
+      "content": "就意味着你的年薪总包offer可能是非常高的",
+      "music": 0.0
+    },
+    {
+      "from": 341.8,
+      "to": 344.56,
+      "sid": 250,
+      "location": 2,
+      "content": "就大家看那些什么七八十万的甚至上百万的offer",
+      "music": 0.0
+    },
+    {
+      "from": 344.56,
+      "to": 346.62,
+      "sid": 251,
+      "location": 2,
+      "content": "你以为他们一个月挣挣10万块钱啊",
+      "music": 0.0
+    },
+    {
+      "from": 346.62,
+      "to": 346.94,
+      "sid": 252,
+      "location": 2,
+      "content": "我跟你说",
+      "music": 0.0
+    },
+    {
+      "from": 346.94,
+      "to": 347.38,
+      "sid": 253,
+      "location": 2,
+      "content": "不是啊",
+      "music": 0.0
+    },
+    {
+      "from": 347.38,
+      "to": 347.74,
+      "sid": 254,
+      "location": 2,
+      "content": "不是",
+      "music": 0.0
+    },
+    {
+      "from": 347.74,
+      "to": 349.16,
+      "sid": 255,
+      "location": 2,
+      "content": "他们可能一大半的工资",
+      "music": 0.0
+    },
+    {
+      "from": 349.16,
+      "to": 351.22,
+      "sid": 256,
+      "location": 2,
+      "content": "都是用这个股权撑起来的",
+      "music": 0.0
+    },
+    {
+      "from": 351.22,
+      "to": 352.04,
+      "sid": 257,
+      "location": 2,
+      "content": "但但是同学",
+      "music": 0.0
+    },
+    {
+      "from": 352.04,
+      "to": 353.16,
+      "sid": 258,
+      "location": 2,
+      "content": "你以为这些股权",
+      "music": 0.0
+    },
+    {
+      "from": 353.16,
+      "to": 355.42,
+      "sid": 259,
+      "location": 2,
+      "content": "你能轻轻松松安安稳稳拿到手里吗",
+      "music": 0.0
+    },
+    {
+      "from": 355.42,
+      "to": 356.5,
+      "sid": 260,
+      "location": 2,
+      "content": "想多了啊",
+      "music": 0.0
+    },
+    {
+      "from": 356.5,
+      "to": 357.74,
+      "sid": 261,
+      "location": 2,
+      "content": "这玩意儿也有一个条件啊",
+      "music": 0.0
+    },
+    {
+      "from": 357.74,
+      "to": 359.3,
+      "sid": 262,
+      "location": 2,
+      "content": "就是大家要看它的解锁时间",
+      "music": 0.0
+    },
+    {
+      "from": 359.3,
+      "to": 360.34,
+      "sid": 263,
+      "location": 2,
+      "content": "还有解锁条件",
+      "music": 0.0
+    },
+    {
+      "from": 360.34,
+      "to": 361.88,
+      "sid": 264,
+      "location": 2,
+      "content": "发给你大概20万的股权",
+      "music": 0.0
+    },
+    {
+      "from": 361.88,
+      "to": 364.34,
+      "sid": 265,
+      "location": 2,
+      "content": "但是告诉你3年以后解锁诶",
+      "music": 0.0
+    },
+    {
+      "from": 364.34,
+      "to": 365.68,
+      "sid": 266,
+      "location": 2,
+      "content": "又掉了一根胡萝卜",
+      "music": 0.0
+    },
+    {
+      "from": 365.68,
+      "to": 366.24,
+      "sid": 267,
+      "location": 2,
+      "content": "你来呀",
+      "music": 0.0
+    },
+    {
+      "from": 366.24,
+      "to": 366.76,
+      "sid": 268,
+      "location": 2,
+      "content": "你来呀",
+      "music": 0.0
+    },
+    {
+      "from": 366.76,
+      "to": 367.26,
+      "sid": 269,
+      "location": 2,
+      "content": "想吃吗",
+      "music": 0.0
+    },
+    {
+      "from": 367.26,
+      "to": 368.32,
+      "sid": 270,
+      "location": 2,
+      "content": "你继续拉磨呀",
+      "music": 0.0
+    },
+    {
+      "from": 368.32,
+      "to": 369.52,
+      "sid": 271,
+      "location": 2,
+      "content": "你要是走路可一分钱没有啊",
+      "music": 0.0
+    },
+    {
+      "from": 369.52,
+      "to": 370.32,
+      "sid": 272,
+      "location": 2,
+      "content": "就算等了3年",
+      "music": 0.0
+    },
+    {
+      "from": 370.32,
+      "to": 371.72,
+      "sid": 273,
+      "location": 2,
+      "content": "你终于吃到这20万了",
+      "music": 0.0
+    },
+    {
+      "from": 371.72,
+      "to": 373.7,
+      "sid": 274,
+      "location": 2,
+      "content": "嘿又来个40万的胡萝卜",
+      "music": 0.0
+    },
+    {
+      "from": 373.7,
+      "to": 375.72,
+      "sid": 275,
+      "location": 2,
+      "content": "这个玩意儿6年以后解锁来",
+      "music": 0.0
+    },
+    {
+      "from": 375.72,
+      "to": 377.12,
+      "sid": 276,
+      "location": 2,
+      "content": "想不想要想要继续干好",
+      "music": 0.0
+    },
+    {
+      "from": 377.12,
+      "to": 378.08,
+      "sid": 277,
+      "location": 2,
+      "content": "以上就是现金收入",
+      "music": 0.0
+    },
+    {
+      "from": 378.08,
+      "to": 379.48,
+      "sid": 278,
+      "location": 2,
+      "content": "其实还有第五项叫加班费",
+      "music": 0.0
+    },
+    {
+      "from": 379.48,
+      "to": 380.28,
+      "sid": 279,
+      "location": 2,
+      "content": "但这个东西我跟你说",
+      "music": 0.0
+    },
+    {
+      "from": 380.28,
+      "to": 381.52,
+      "sid": 280,
+      "location": 2,
+      "content": "在国内大部分都是没有的",
+      "music": 0.0
+    },
+    {
+      "from": 381.52,
+      "to": 382.24,
+      "sid": 281,
+      "location": 2,
+      "content": "或者这么说吧",
+      "music": 0.0
+    },
+    {
+      "from": 382.24,
+      "to": 382.96,
+      "sid": 282,
+      "location": 2,
+      "content": "就算有",
+      "music": 0.0
+    },
+    {
+      "from": 382.96,
+      "to": 385.68,
+      "sid": 283,
+      "location": 2,
+      "content": "其实这个加班费已经体现在你的这个底薪",
+      "music": 0.0
+    },
+    {
+      "from": 385.68,
+      "to": 386.4,
+      "sid": 284,
+      "location": 2,
+      "content": "他的溢价里",
+      "music": 0.0
+    },
+    {
+      "from": 386.4,
+      "to": 388.16,
+      "sid": 285,
+      "location": 2,
+      "content": "那么一般来说像互联网这样的私企",
+      "music": 0.0
+    },
+    {
+      "from": 388.16,
+      "to": 390.28,
+      "sid": 286,
+      "location": 2,
+      "content": "他是月被次高年终奖低",
+      "music": 0.0
+    },
+    {
+      "from": 390.28,
+      "to": 391.82,
+      "sid": 287,
+      "location": 2,
+      "content": "年终奖大概就是3~6个月",
+      "music": 0.0
+    },
+    {
+      "from": 391.82,
+      "to": 393.0,
+      "sid": 288,
+      "location": 2,
+      "content": "体制内正好相反的",
+      "music": 0.0
+    },
+    {
+      "from": 393.0,
+      "to": 393.88,
+      "sid": 289,
+      "location": 2,
+      "content": "像国央企业",
+      "music": 0.0
+    },
+    {
+      "from": 393.88,
+      "to": 395.46,
+      "sid": 290,
+      "location": 2,
+      "content": "它一般就是月备次低",
+      "music": 0.0
+    },
+    {
+      "from": 395.46,
+      "to": 396.52,
+      "sid": 291,
+      "location": 2,
+      "content": "年终奖高",
+      "music": 0.0
+    },
+    {
+      "from": 396.52,
+      "to": 398.18,
+      "sid": 292,
+      "location": 2,
+      "content": "那还有一些同学他的公司就有意思了",
+      "music": 0.0
+    },
+    {
+      "from": 398.18,
+      "to": 399.98,
+      "sid": 293,
+      "location": 2,
+      "content": "他是月备次低年终奖低",
+      "music": 0.0
+    },
+    {
+      "from": 399.98,
+      "to": 402.14,
+      "sid": 294,
+      "location": 2,
+      "content": "福利还低三低来同学们",
+      "music": 0.0
+    },
+    {
+      "from": 402.14,
+      "to": 403.3,
+      "sid": 295,
+      "location": 2,
+      "content": "大家给视频投个币",
+      "music": 0.0
+    },
+    {
+      "from": 403.3,
+      "to": 404.9,
+      "sid": 296,
+      "location": 2,
+      "content": "咱们坚决不做3D好吧好",
+      "music": 0.0
+    },
+    {
+      "from": 404.9,
+      "to": 405.88,
+      "sid": 297,
+      "location": 2,
+      "content": "下面第二项福利",
+      "music": 0.0
+    },
+    {
+      "from": 405.88,
+      "to": 408.92,
+      "sid": 298,
+      "location": 2,
+      "content": "福利一般来说包括补贴和类现金两种啊",
+      "music": 0.0
+    },
+    {
+      "from": 408.92,
+      "to": 410.26,
+      "sid": 299,
+      "location": 2,
+      "content": "这个补贴一般有两类",
+      "music": 0.0
+    },
+    {
+      "from": 410.26,
+      "to": 411.56,
+      "sid": 300,
+      "location": 2,
+      "content": "一类叫政府补贴",
+      "music": 0.0
+    },
+    {
+      "from": 411.56,
+      "to": 412.96,
+      "sid": 301,
+      "location": 2,
+      "content": "一类叫公司给你的补贴",
+      "music": 0.0
+    },
+    {
+      "from": 412.96,
+      "to": 414.92,
+      "sid": 302,
+      "location": 2,
+      "content": "政府补贴一般就是那种人才引进的",
+      "music": 0.0
+    },
+    {
+      "from": 414.92,
+      "to": 416.1,
+      "sid": 303,
+      "location": 2,
+      "content": "比如说生活补贴啊",
+      "music": 0.0
+    },
+    {
+      "from": 416.1,
+      "to": 416.84,
+      "sid": 304,
+      "location": 2,
+      "content": "租房补贴啊",
+      "music": 0.0
+    },
+    {
+      "from": 416.84,
+      "to": 418.04,
+      "sid": 305,
+      "location": 2,
+      "content": "包括安家费啊等等等",
+      "music": 0.0
+    },
+    {
+      "from": 418.04,
+      "to": 419.04,
+      "sid": 306,
+      "location": 2,
+      "content": "公司补贴又多了",
+      "music": 0.0
+    },
+    {
+      "from": 419.04,
+      "to": 420.36,
+      "sid": 307,
+      "location": 2,
+      "content": "各个公司可能他政策也不一样",
+      "music": 0.0
+    },
+    {
+      "from": 420.36,
+      "to": 421.36,
+      "sid": 308,
+      "location": 2,
+      "content": "比如说什么租房补贴",
+      "music": 0.0
+    },
+    {
+      "from": 421.36,
+      "to": 422.18,
+      "sid": 309,
+      "location": 2,
+      "content": "交通补贴",
+      "music": 0.0
+    },
+    {
+      "from": 422.18,
+      "to": 423.42,
+      "sid": 310,
+      "location": 2,
+      "content": "油补过节费",
+      "music": 0.0
+    },
+    {
+      "from": 423.42,
+      "to": 424.14,
+      "sid": 311,
+      "location": 2,
+      "content": "通讯费",
+      "music": 0.0
+    },
+    {
+      "from": 424.14,
+      "to": 425.42,
+      "sid": 312,
+      "location": 2,
+      "content": "职称津贴这两个东西",
+      "music": 0.0
+    },
+    {
+      "from": 425.42,
+      "to": 425.9,
+      "sid": 313,
+      "location": 2,
+      "content": "大家注意啊",
+      "music": 0.0
+    },
+    {
+      "from": 425.9,
+      "to": 427.66,
+      "sid": 314,
+      "location": 2,
+      "content": "首先他们基本都是有条件的",
+      "music": 0.0
+    },
+    {
+      "from": 427.66,
+      "to": 428.94,
+      "sid": 315,
+      "location": 2,
+      "content": "首先第一个坑就是年限",
+      "music": 0.0
+    },
+    {
+      "from": 428.94,
+      "to": 430.14,
+      "sid": 316,
+      "location": 2,
+      "content": "很多地方的人才已经补贴",
+      "music": 0.0
+    },
+    {
+      "from": 430.14,
+      "to": 431.02,
+      "sid": 317,
+      "location": 2,
+      "content": "他看上去很丰厚",
+      "music": 0.0
+    },
+    {
+      "from": 431.02,
+      "to": 432.7,
+      "sid": 318,
+      "location": 2,
+      "content": "但其实他分5年解禁",
+      "music": 0.0
+    },
+    {
+      "from": 432.7,
+      "to": 433.64,
+      "sid": 319,
+      "location": 2,
+      "content": "不是一口气发给你",
+      "music": 0.0
+    },
+    {
+      "from": 433.64,
+      "to": 435.0,
+      "sid": 320,
+      "location": 2,
+      "content": "你这5年你万一要失业了",
+      "music": 0.0
+    },
+    {
+      "from": 435.0,
+      "to": 435.84,
+      "sid": 321,
+      "location": 2,
+      "content": "或者你不想在这待了",
+      "music": 0.0
+    },
+    {
+      "from": 435.84,
+      "to": 436.2,
+      "sid": 322,
+      "location": 2,
+      "content": "恭喜你",
+      "music": 0.0
+    },
+    {
+      "from": 436.2,
+      "to": 437.16,
+      "sid": 323,
+      "location": 2,
+      "content": "你一分钱都拿不到",
+      "music": 0.0
+    },
+    {
+      "from": 437.16,
+      "to": 438.6,
+      "sid": 324,
+      "location": 2,
+      "content": "第二个他可能要求当地户口",
+      "music": 0.0
+    },
+    {
+      "from": 438.6,
+      "to": 439.76,
+      "sid": 325,
+      "location": 2,
+      "content": "你可能要把户口迁过来",
+      "music": 0.0
+    },
+    {
+      "from": 439.76,
+      "to": 441.24,
+      "sid": 326,
+      "location": 2,
+      "content": "像其他城市点击就送也就算了",
+      "music": 0.0
+    },
+    {
+      "from": 441.24,
+      "to": 442.32,
+      "sid": 327,
+      "location": 2,
+      "content": "比如像北京这样的城市",
+      "music": 0.0
+    },
+    {
+      "from": 442.32,
+      "to": 445.28,
+      "sid": 328,
+      "location": 2,
+      "content": "你可能还需要跟公签个卖身契去落北京户口",
+      "music": 0.0
+    },
+    {
+      "from": 445.28,
+      "to": 447.12,
+      "sid": 329,
+      "location": 2,
+      "content": "然后这个卖身契的违约金是30万",
+      "music": 0.0
+    },
+    {
+      "from": 447.12,
+      "to": 447.88,
+      "sid": 330,
+      "location": 2,
+      "content": "这事怎么说呢",
+      "music": 0.0
+    },
+    {
+      "from": 447.88,
+      "to": 449.12,
+      "sid": 331,
+      "location": 2,
+      "content": "你就只能赌了",
+      "music": 0.0
+    },
+    {
+      "from": 449.12,
+      "to": 451.0,
+      "sid": 332,
+      "location": 2,
+      "content": "就只能赌这个公司它到底仁不仁义",
+      "music": 0.0
+    },
+    {
+      "from": 451.0,
+      "to": 452.08,
+      "sid": 333,
+      "location": 2,
+      "content": "他要是不仁义的话",
+      "music": 0.0
+    },
+    {
+      "from": 452.08,
+      "to": 453.64,
+      "sid": 334,
+      "location": 2,
+      "content": "那真的是遭罪真遭罪好",
+      "music": 0.0
+    },
+    {
+      "from": 453.64,
+      "to": 453.96,
+      "sid": 335,
+      "location": 2,
+      "content": "第二项",
+      "music": 0.0
+    },
+    {
+      "from": 453.96,
+      "to": 456.0,
+      "sid": 336,
+      "location": 2,
+      "content": "福利类现金类现金就两项啊",
+      "music": 0.0
+    },
+    {
+      "from": 456.0,
+      "to": 458.14,
+      "sid": 337,
+      "location": 2,
+      "content": "大家记住五险一金和各种卡券",
+      "music": 0.0
+    },
+    {
+      "from": 458.14,
+      "to": 459.42,
+      "sid": 338,
+      "location": 2,
+      "content": "五险一金都是什么",
+      "music": 0.0
+    },
+    {
+      "from": 459.42,
+      "to": 459.98,
+      "sid": 339,
+      "location": 2,
+      "content": "大家知道吧",
+      "music": 0.0
+    },
+    {
+      "from": 459.98,
+      "to": 462.26,
+      "sid": 340,
+      "location": 2,
+      "content": "来知道同学把五险和一金具体叫什么",
+      "music": 0.0
+    },
+    {
+      "from": 462.26,
+      "to": 463.02,
+      "sid": 341,
+      "location": 2,
+      "content": "打在公屏上",
+      "music": 0.0
+    },
+    {
+      "from": 463.02,
+      "to": 464.36,
+      "sid": 342,
+      "location": 2,
+      "content": "我来给大家公布答案哈",
+      "music": 0.0
+    },
+    {
+      "from": 464.36,
+      "to": 466.45,
+      "sid": 343,
+      "location": 2,
+      "content": "我也没记住哈哈我也要看答案好",
+      "music": 0.0
+    },
+    {
+      "from": 466.45,
+      "to": 468.87,
+      "sid": 344,
+      "location": 2,
+      "content": "医保医疗生育工伤",
+      "music": 0.0
+    },
+    {
+      "from": 468.87,
+      "to": 469.57,
+      "sid": 345,
+      "location": 2,
+      "content": "失业保险",
+      "music": 0.0
+    },
+    {
+      "from": 469.57,
+      "to": 470.37,
+      "sid": 346,
+      "location": 2,
+      "content": "这是五险一金",
+      "music": 0.0
+    },
+    {
+      "from": 470.37,
+      "to": 471.02,
+      "sid": 347,
+      "location": 2,
+      "content": "是住房公积金",
+      "music": 0.0
+    },
+    {
+      "from": 471.02,
+      "to": 472.42,
+      "sid": 348,
+      "location": 2,
+      "content": "这个东西大家要重视起来啊",
+      "music": 0.0
+    },
+    {
+      "from": 472.42,
+      "to": 473.58,
+      "sid": 349,
+      "location": 2,
+      "content": "这玩意非常重要",
+      "music": 0.0
+    },
+    {
+      "from": 473.58,
+      "to": 474.18,
+      "sid": 350,
+      "location": 2,
+      "content": "记几个点啊",
+      "music": 0.0
+    },
+    {
+      "from": 474.18,
+      "to": 476.14,
+      "sid": 351,
+      "location": 2,
+      "content": "首先第一个有肯定比没有强啊",
+      "music": 0.0
+    },
+    {
+      "from": 476.14,
+      "to": 477.14,
+      "sid": 352,
+      "location": 2,
+      "content": "大家在有选择的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 477.14,
+      "to": 477.58,
+      "sid": 353,
+      "location": 2,
+      "content": "一定要去",
+      "music": 0.0
+    },
+    {
+      "from": 477.58,
+      "to": 479.88,
+      "sid": 354,
+      "location": 2,
+      "content": "有的好像据说据法律规定",
+      "music": 0.0
+    },
+    {
+      "from": 479.88,
+      "to": 481.98,
+      "sid": 355,
+      "location": 2,
+      "content": "公司其实都得给正式员工交付现金的",
+      "music": 0.0
+    },
+    {
+      "from": 481.98,
+      "to": 484.12,
+      "sid": 356,
+      "location": 2,
+      "content": "但是呢有些公司他就是违法",
+      "music": 0.0
+    },
+    {
+      "from": 484.12,
+      "to": 484.84,
+      "sid": 357,
+      "location": 2,
+      "content": "那什么怎么办呢",
+      "music": 0.0
+    },
+    {
+      "from": 484.84,
+      "to": 485.16,
+      "sid": 358,
+      "location": 2,
+      "content": "没办法",
+      "music": 0.0
+    },
+    {
+      "from": 485.16,
+      "to": 486.12,
+      "sid": 359,
+      "location": 2,
+      "content": "就是你只能在面试的时候",
+      "music": 0.0
+    },
+    {
+      "from": 486.12,
+      "to": 488.28,
+      "sid": 360,
+      "location": 2,
+      "content": "尽量多拿几个offer去有无限金的公司好吧",
+      "music": 0.0
+    },
+    {
+      "from": 488.28,
+      "to": 490.7,
+      "sid": 361,
+      "location": 2,
+      "content": "第二五险一金体制内基本都是拉满的",
+      "music": 0.0
+    },
+    {
+      "from": 490.7,
+      "to": 492.22,
+      "sid": 362,
+      "location": 2,
+      "content": "甚至他还有很多补充公积金",
+      "music": 0.0
+    },
+    {
+      "from": 492.22,
+      "to": 493.18,
+      "sid": 363,
+      "location": 2,
+      "content": "补充医疗保险啊",
+      "music": 0.0
+    },
+    {
+      "from": 493.18,
+      "to": 494.66,
+      "sid": 364,
+      "location": 2,
+      "content": "就是体制内他这个福利待遇",
+      "music": 0.0
+    },
+    {
+      "from": 494.66,
+      "to": 495.7,
+      "sid": 365,
+      "location": 2,
+      "content": "基本上是都是最好的",
+      "music": 0.0
+    },
+    {
+      "from": 495.7,
+      "to": 497.14,
+      "sid": 366,
+      "location": 2,
+      "content": "然后呢在私企里面",
+      "music": 0.0
+    },
+    {
+      "from": 497.14,
+      "to": 499.06,
+      "sid": 367,
+      "location": 2,
+      "content": "大厂基本也都是拉满的啊",
+      "music": 0.0
+    },
+    {
+      "from": 499.06,
+      "to": 500.82,
+      "sid": 368,
+      "location": 2,
+      "content": "就是他都是按照五险基金最高那个比例",
+      "music": 0.0
+    },
+    {
+      "from": 500.82,
+      "to": 502.02,
+      "sid": 369,
+      "location": 2,
+      "content": "12%顶格给你交",
+      "music": 0.0
+    },
+    {
+      "from": 502.02,
+      "to": 503.58,
+      "sid": 370,
+      "location": 2,
+      "content": "就是中小猫腻多",
+      "music": 0.0
+    },
+    {
+      "from": 503.58,
+      "to": 504.74,
+      "sid": 371,
+      "location": 2,
+      "content": "那么第三大家注意了",
+      "music": 0.0
+    },
+    {
+      "from": 504.74,
+      "to": 506.34,
+      "sid": 372,
+      "location": 2,
+      "content": "就是如果说你面的是一些中小公司",
+      "music": 0.0
+    },
+    {
+      "from": 506.34,
+      "to": 507.9,
+      "sid": 373,
+      "location": 2,
+      "content": "你一定要去问清楚两个数",
+      "music": 0.0
+    },
+    {
+      "from": 507.9,
+      "to": 509.1,
+      "sid": 374,
+      "location": 2,
+      "content": "一个叫缴纳基数",
+      "music": 0.0
+    },
+    {
+      "from": 509.1,
+      "to": 510.38,
+      "sid": 375,
+      "location": 2,
+      "content": "一个叫缴纳比比例",
+      "music": 0.0
+    },
+    {
+      "from": 510.38,
+      "to": 512.06,
+      "sid": 376,
+      "location": 2,
+      "content": "就你的五险一金也像年终奖一样",
+      "music": 0.0
+    },
+    {
+      "from": 512.06,
+      "to": 514.7,
+      "sid": 377,
+      "location": 2,
+      "content": "它是一个缴纳基数乘以一个比例算出来的比例",
+      "music": 0.0
+    },
+    {
+      "from": 514.7,
+      "to": 516.44,
+      "sid": 378,
+      "location": 2,
+      "content": "一般来说是5%到12%",
+      "music": 0.0
+    },
+    {
+      "from": 516.44,
+      "to": 517.08,
+      "sid": 379,
+      "location": 2,
+      "content": "十二十%",
+      "music": 0.0
+    },
+    {
+      "from": 517.08,
+      "to": 518.16,
+      "sid": 380,
+      "location": 2,
+      "content": "公积金缴纳的上限啊",
+      "music": 0.0
+    },
+    {
+      "from": 518.16,
+      "to": 519.92,
+      "sid": 381,
+      "location": 2,
+      "content": "就是从你的基本工资里面扣出一部分",
+      "music": 0.0
+    },
+    {
+      "from": 519.92,
+      "to": 521.12,
+      "sid": 382,
+      "location": 2,
+      "content": "来交到你的公积金账户里面",
+      "music": 0.0
+    },
+    {
+      "from": 521.12,
+      "to": 521.88,
+      "sid": 383,
+      "location": 2,
+      "content": "大家不要心疼啊",
+      "music": 0.0
+    },
+    {
+      "from": 521.88,
+      "to": 523.619,
+      "sid": 384,
+      "location": 2,
+      "content": "这个东西能多高就多高",
+      "music": 0.0
+    },
+    {
+      "from": 523.619,
+      "to": 524.699,
+      "sid": 385,
+      "location": 2,
+      "content": "公斤是你交一部分",
+      "music": 0.0
+    },
+    {
+      "from": 524.699,
+      "to": 525.779,
+      "sid": 386,
+      "location": 2,
+      "content": "公司也给你交一部分",
+      "music": 0.0
+    },
+    {
+      "from": 525.779,
+      "to": 526.379,
+      "sid": 387,
+      "location": 2,
+      "content": "这个数越高",
+      "music": 0.0
+    },
+    {
+      "from": 526.379,
+      "to": 527.94,
+      "sid": 388,
+      "location": 2,
+      "content": "公司给你缴纳一部分就越高",
+      "music": 0.0
+    },
+    {
+      "from": 527.94,
+      "to": 528.94,
+      "sid": 389,
+      "location": 2,
+      "content": "那你就越占便宜",
+      "music": 0.0
+    },
+    {
+      "from": 528.94,
+      "to": 529.66,
+      "sid": 390,
+      "location": 2,
+      "content": "所以大家注意啊",
+      "music": 0.0
+    },
+    {
+      "from": 529.66,
+      "to": 531.68,
+      "sid": 391,
+      "location": 2,
+      "content": "缴纳基数和缴纳比例都要尽量高",
+      "music": 0.0
+    },
+    {
+      "from": 531.68,
+      "to": 533.3,
+      "sid": 392,
+      "location": 2,
+      "content": "然后大家再注意一下缴纳基数啊",
+      "music": 0.0
+    },
+    {
+      "from": 533.3,
+      "to": 535.56,
+      "sid": 393,
+      "location": 2,
+      "content": "一般来说缴纳基数是你的月贝斯",
+      "music": 0.0
+    },
+    {
+      "from": 535.56,
+      "to": 537.36,
+      "sid": 394,
+      "location": 2,
+      "content": "他是和你的五险金直接挂钩的",
+      "music": 0.0
+    },
+    {
+      "from": 537.36,
+      "to": 538.8,
+      "sid": 395,
+      "location": 2,
+      "content": "所以说同样是40万的offer",
+      "music": 0.0
+    },
+    {
+      "from": 538.8,
+      "to": 540.74,
+      "sid": 396,
+      "location": 2,
+      "content": "如果你是25K乘以16",
+      "music": 0.0
+    },
+    {
+      "from": 540.74,
+      "to": 542.64,
+      "sid": 397,
+      "location": 2,
+      "content": "和你7K乘以十几",
+      "music": 0.0
+    },
+    {
+      "from": 542.64,
+      "to": 543.8,
+      "sid": 398,
+      "location": 2,
+      "content": "然后加上各种补贴来说",
+      "music": 0.0
+    },
+    {
+      "from": 543.8,
+      "to": 544.7,
+      "sid": 399,
+      "location": 2,
+      "content": "大家想想哪个划算",
+      "music": 0.0
+    },
+    {
+      "from": 544.7,
+      "to": 545.74,
+      "sid": 400,
+      "location": 2,
+      "content": "当然是前者",
+      "music": 0.0
+    },
+    {
+      "from": 545.74,
+      "to": 546.8,
+      "sid": 401,
+      "location": 2,
+      "content": "因为你越贝斯越高",
+      "music": 0.0
+    },
+    {
+      "from": 546.8,
+      "to": 547.8,
+      "sid": 402,
+      "location": 2,
+      "content": "你五险一金就交的越高",
+      "music": 0.0
+    },
+    {
+      "from": 547.8,
+      "to": 548.52,
+      "sid": 403,
+      "location": 2,
+      "content": "你像25K的话",
+      "music": 0.0
+    },
+    {
+      "from": 548.52,
+      "to": 549.74,
+      "sid": 404,
+      "location": 2,
+      "content": "你一个月的公积金有6000",
+      "music": 0.0
+    },
+    {
+      "from": 549.74,
+      "to": 551.4,
+      "sid": 405,
+      "location": 2,
+      "content": "但7K月贝斯只有1000多",
+      "music": 0.0
+    },
+    {
+      "from": 551.4,
+      "to": 552.36,
+      "sid": 406,
+      "location": 2,
+      "content": "而且大家注意啊",
+      "music": 0.0
+    },
+    {
+      "from": 552.36,
+      "to": 554.3,
+      "sid": 407,
+      "location": 2,
+      "content": "这种越是月贝斯低的公司",
+      "music": 0.0
+    },
+    {
+      "from": 554.3,
+      "to": 555.1,
+      "sid": 408,
+      "location": 2,
+      "content": "他可能猫腻越多",
+      "music": 0.0
+    },
+    {
+      "from": 555.1,
+      "to": 555.94,
+      "sid": 409,
+      "location": 2,
+      "content": "比如说有的公司",
+      "music": 0.0
+    },
+    {
+      "from": 555.94,
+      "to": 559.12,
+      "sid": 410,
+      "location": 2,
+      "content": "他7K的月贝斯实际上底薪只有4K",
+      "music": 0.0
+    },
+    {
+      "from": 559.12,
+      "to": 560.34,
+      "sid": 411,
+      "location": 2,
+      "content": "实际底薪只有4K",
+      "music": 0.0
+    },
+    {
+      "from": 560.34,
+      "to": 562.14,
+      "sid": 412,
+      "location": 2,
+      "content": "剩下的3K都是各种补贴撑起来的",
+      "music": 0.0
+    },
+    {
+      "from": 562.14,
+      "to": 563.8,
+      "sid": 413,
+      "location": 2,
+      "content": "然后告诉你每个月是7K",
+      "music": 0.0
+    },
+    {
+      "from": 563.8,
+      "to": 565.18,
+      "sid": 414,
+      "location": 2,
+      "content": "但实际你在交公积金的时候",
+      "music": 0.0
+    },
+    {
+      "from": 565.18,
+      "to": 568.26,
+      "sid": 415,
+      "location": 2,
+      "content": "你的缴纳基数是多少4K那这样就算顶额交满",
+      "music": 0.0
+    },
+    {
+      "from": 568.26,
+      "to": 568.9,
+      "sid": 416,
+      "location": 2,
+      "content": "你交2%",
+      "music": 0.0
+    },
+    {
+      "from": 568.9,
+      "to": 569.62,
+      "sid": 417,
+      "location": 2,
+      "content": "公司交12%",
+      "music": 0.0
+    },
+    {
+      "from": 569.62,
+      "to": 570.22,
+      "sid": 418,
+      "location": 2,
+      "content": "用24%",
+      "music": 0.0
+    },
+    {
+      "from": 570.22,
+      "to": 572.36,
+      "sid": 419,
+      "location": 2,
+      "content": "你一个月也就只有有1500险基金",
+      "music": 0.0
+    },
+    {
+      "from": 572.36,
+      "to": 573.14,
+      "sid": 420,
+      "location": 2,
+      "content": "这个东西比较复杂",
+      "music": 0.0
+    },
+    {
+      "from": 573.14,
+      "to": 574.0,
+      "sid": 421,
+      "location": 2,
+      "content": "涉及到他怎么计算",
+      "music": 0.0
+    },
+    {
+      "from": 574.0,
+      "to": 575.56,
+      "sid": 422,
+      "location": 2,
+      "content": "以及大家最后能领多少养老金",
+      "music": 0.0
+    },
+    {
+      "from": 577.08,
+      "to": 578.08,
+      "sid": 423,
+      "location": 2,
+      "content": "关于养老金的问题",
+      "music": 0.0
+    },
+    {
+      "from": 578.08,
+      "to": 579.24,
+      "sid": 424,
+      "location": 2,
+      "content": "关于保险报销的问题",
+      "music": 0.0
+    },
+    {
+      "from": 579.24,
+      "to": 581.86,
+      "sid": 425,
+      "location": 2,
+      "content": "我未来可能会出系列视频去详细解读一下",
+      "music": 0.0
+    },
+    {
+      "from": 581.86,
+      "to": 583.0,
+      "sid": 426,
+      "location": 2,
+      "content": "大家如果想看的话",
+      "music": 0.0
+    },
+    {
+      "from": 583.0,
+      "to": 584.6,
+      "sid": 427,
+      "location": 2,
+      "content": "可以把想看两个字打在公屏上",
+      "music": 0.0
+    },
+    {
+      "from": 584.6,
+      "to": 586.28,
+      "sid": 428,
+      "location": 2,
+      "content": "让我知道有多少对我很大的鼓励",
+      "music": 0.0
+    },
+    {
+      "from": 586.28,
+      "to": 588.24,
+      "sid": 429,
+      "location": 2,
+      "content": "然后让我参考一下我到底以怎样的速度",
+      "music": 0.0
+    },
+    {
+      "from": 588.24,
+      "to": 589.16,
+      "sid": 430,
+      "location": 2,
+      "content": "包括大家想看什么啊",
+      "music": 0.0
+    },
+    {
+      "from": 589.16,
+      "to": 590.76,
+      "sid": 431,
+      "location": 2,
+      "content": "想看什么主题可以打在公屏上",
+      "music": 0.0
+    },
+    {
+      "from": 590.76,
+      "to": 592.6,
+      "sid": 432,
+      "location": 2,
+      "content": "我来看先出哪个后出哪个好吧",
+      "music": 0.0
+    },
+    {
+      "from": 592.6,
+      "to": 594.56,
+      "sid": 433,
+      "location": 2,
+      "content": "然后最后一个卡券这个简单带过啊",
+      "music": 0.0
+    },
+    {
+      "from": 594.56,
+      "to": 595.72,
+      "sid": 434,
+      "location": 2,
+      "content": "这东西大家基本就不用看",
+      "music": 0.0
+    },
+    {
+      "from": 595.72,
+      "to": 597.92,
+      "sid": 435,
+      "location": 2,
+      "content": "这是什么蛋糕卡卡读书卡没什么用啊",
+      "music": 0.0
+    },
+    {
+      "from": 597.92,
+      "to": 599.58,
+      "sid": 436,
+      "location": 2,
+      "content": "就是一一张卡也就几百块钱",
+      "music": 0.0
+    },
+    {
+      "from": 599.58,
+      "to": 601.68,
+      "sid": 437,
+      "location": 2,
+      "content": "就是那种限制了使用途径的资金",
+      "music": 0.0
+    },
+    {
+      "from": 601.68,
+      "to": 602.54,
+      "sid": 438,
+      "location": 2,
+      "content": "非流动资金",
+      "music": 0.0
+    },
+    {
+      "from": 602.54,
+      "to": 603.76,
+      "sid": 439,
+      "location": 2,
+      "content": "他是一直在贬值的",
+      "music": 0.0
+    },
+    {
+      "from": 603.76,
+      "to": 604.88,
+      "sid": 440,
+      "location": 2,
+      "content": "钱基本可以忽略不计",
+      "music": 0.0
+    },
+    {
+      "from": 604.88,
+      "to": 607.6,
+      "sid": 441,
+      "location": 2,
+      "content": "好到这咱们就把offer里面那个薪资结构的套路啊",
+      "music": 0.0
+    },
+    {
+      "from": 607.6,
+      "to": 608.96,
+      "sid": 442,
+      "location": 2,
+      "content": "各种坑给大家拆解的差不多了",
+      "music": 0.0
+    },
+    {
+      "from": 608.96,
+      "to": 609.76,
+      "sid": 443,
+      "location": 2,
+      "content": "大家可以打个分",
+      "music": 0.0
+    },
+    {
+      "from": 609.76,
+      "to": 610.44,
+      "sid": 444,
+      "location": 2,
+      "content": "0~5分",
+      "music": 0.0
+    },
+    {
+      "from": 610.44,
+      "to": 611.56,
+      "sid": 445,
+      "location": 2,
+      "content": "你觉得视频值几分",
+      "music": 0.0
+    },
+    {
+      "from": 611.56,
+      "to": 613.88,
+      "sid": 446,
+      "location": 2,
+      "content": "然后最后呢我再唠叨几个关键点啊",
+      "music": 0.0
+    },
+    {
+      "from": 613.88,
+      "to": 615.44,
+      "sid": 447,
+      "location": 2,
+      "content": "就是大家在看心中结构的时候",
+      "music": 0.0
+    },
+    {
+      "from": 615.44,
+      "to": 615.76,
+      "sid": 448,
+      "location": 2,
+      "content": "怎么看",
+      "music": 0.0
+    },
+    {
+      "from": 615.76,
+      "to": 616.62,
+      "sid": 449,
+      "location": 2,
+      "content": "要注意什么",
+      "music": 0.0
+    },
+    {
+      "from": 616.62,
+      "to": 619.329,
+      "sid": 450,
+      "location": 2,
+      "content": "首先第一个月被子高是王道",
+      "music": 0.0
+    },
+    {
+      "from": 619.329,
+      "to": 620.569,
+      "sid": 451,
+      "location": 2,
+      "content": "这个道理不难理解吧",
+      "music": 0.0
+    },
+    {
+      "from": 620.569,
+      "to": 621.609,
+      "sid": 452,
+      "location": 2,
+      "content": "因为那些什么补贴啊",
+      "music": 0.0
+    },
+    {
+      "from": 621.609,
+      "to": 623.08,
+      "sid": 453,
+      "location": 2,
+      "content": "福利其实他都是是虚的",
+      "music": 0.0
+    },
+    {
+      "from": 623.08,
+      "to": 624.48,
+      "sid": 454,
+      "location": 2,
+      "content": "他们没有办法很快拿到手里",
+      "music": 0.0
+    },
+    {
+      "from": 624.48,
+      "to": 626.6,
+      "sid": 455,
+      "location": 2,
+      "content": "而越贝斯是你每个月的现金流啊",
+      "music": 0.0
+    },
+    {
+      "from": 626.6,
+      "to": 627.36,
+      "sid": 456,
+      "location": 2,
+      "content": "而且他越高",
+      "music": 0.0
+    },
+    {
+      "from": 627.36,
+      "to": 628.44,
+      "sid": 457,
+      "location": 2,
+      "content": "你的五险一金就越高",
+      "music": 0.0
+    },
+    {
+      "from": 628.44,
+      "to": 630.78,
+      "sid": 458,
+      "location": 2,
+      "content": "所以说大家在谈心或者未来交往的时候",
+      "music": 0.0
+    },
+    {
+      "from": 630.78,
+      "to": 631.86,
+      "sid": 459,
+      "location": 2,
+      "content": "越贝斯越高越好",
+      "music": 0.0
+    },
+    {
+      "from": 631.86,
+      "to": 632.62,
+      "sid": 460,
+      "location": 2,
+      "content": "而且越贝斯越高",
+      "music": 0.0
+    },
+    {
+      "from": 632.62,
+      "to": 633.34,
+      "sid": 461,
+      "location": 2,
+      "content": "你以后跳槽",
+      "music": 0.0
+    },
+    {
+      "from": 633.34,
+      "to": 635.6,
+      "sid": 462,
+      "location": 2,
+      "content": "你都是在这个月贝斯基础之上去升的",
+      "music": 0.0
+    },
+    {
+      "from": 635.6,
+      "to": 637.92,
+      "sid": 463,
+      "location": 2,
+      "content": "如果说你越贝斯就5K只有7K",
+      "music": 0.0
+    },
+    {
+      "from": 637.92,
+      "to": 638.84,
+      "sid": 464,
+      "location": 2,
+      "content": "剩下补贴很多",
+      "music": 0.0
+    },
+    {
+      "from": 638.84,
+      "to": 640.04,
+      "sid": 465,
+      "location": 2,
+      "content": "那你以后跳出去弹琴",
+      "music": 0.0
+    },
+    {
+      "from": 640.04,
+      "to": 641.56,
+      "sid": 466,
+      "location": 2,
+      "content": "你也只能在7K的基础上加",
+      "music": 0.0
+    },
+    {
+      "from": 641.56,
+      "to": 643.04,
+      "sid": 467,
+      "location": 2,
+      "content": "很难从总包的整体上加",
+      "music": 0.0
+    },
+    {
+      "from": 643.04,
+      "to": 643.76,
+      "sid": 468,
+      "location": 2,
+      "content": "所以这是第一点啊",
+      "music": 0.0
+    },
+    {
+      "from": 643.76,
+      "to": 644.78,
+      "sid": 469,
+      "location": 2,
+      "content": "然后第二点很重要的",
+      "music": 0.0
+    },
+    {
+      "from": 644.78,
+      "to": 645.6,
+      "sid": 470,
+      "location": 2,
+      "content": "看账期",
+      "music": 0.0
+    },
+    {
+      "from": 645.6,
+      "to": 648.3,
+      "sid": 471,
+      "location": 2,
+      "content": "我发现很多打工人啊是从来没有账期这个概念",
+      "music": 0.0
+    },
+    {
+      "from": 648.3,
+      "to": 648.88,
+      "sid": 472,
+      "location": 2,
+      "content": "什么叫账期",
+      "music": 0.0
+    },
+    {
+      "from": 648.88,
+      "to": 650.98,
+      "sid": 473,
+      "location": 2,
+      "content": "咱们打工包括很多社会让人做生意哈",
+      "music": 0.0
+    },
+    {
+      "from": 650.98,
+      "to": 652.9,
+      "sid": 474,
+      "location": 2,
+      "content": "冷东西它不是一手交钱一手交货的",
+      "music": 0.0
+    },
+    {
+      "from": 652.9,
+      "to": 654.06,
+      "sid": 475,
+      "location": 2,
+      "content": "不像你去买个手抓饼",
+      "music": 0.0
+    },
+    {
+      "from": 654.06,
+      "to": 655.0,
+      "sid": 476,
+      "location": 2,
+      "content": "给你十块钱",
+      "music": 0.0
+    },
+    {
+      "from": 655.0,
+      "to": 656.12,
+      "sid": 477,
+      "location": 2,
+      "content": "丙给我很多东西",
+      "music": 0.0
+    },
+    {
+      "from": 656.12,
+      "to": 658.18,
+      "sid": 478,
+      "location": 2,
+      "content": "他都是他先许诺你给你画了个饼",
+      "music": 0.0
+    },
+    {
+      "from": 658.18,
+      "to": 658.96,
+      "sid": 479,
+      "location": 2,
+      "content": "然后一年以后",
+      "music": 0.0
+    },
+    {
+      "from": 658.96,
+      "to": 659.96,
+      "sid": 480,
+      "location": 2,
+      "content": "两年以后才兑现",
+      "music": 0.0
+    },
+    {
+      "from": 659.96,
+      "to": 661.08,
+      "sid": 481,
+      "location": 2,
+      "content": "这一两年就是账期",
+      "music": 0.0
+    },
+    {
+      "from": 661.08,
+      "to": 662.56,
+      "sid": 482,
+      "location": 2,
+      "content": "就比如咱们说的年年终奖啊",
+      "music": 0.0
+    },
+    {
+      "from": 662.56,
+      "to": 663.34,
+      "sid": 483,
+      "location": 2,
+      "content": "还有各种补贴",
+      "music": 0.0
+    },
+    {
+      "from": 663.34,
+      "to": 663.76,
+      "sid": 484,
+      "location": 2,
+      "content": "账期",
+      "music": 0.0
+    },
+    {
+      "from": 663.76,
+      "to": 665.76,
+      "sid": 485,
+      "location": 2,
+      "content": "这东西对你来说是一个绝对的亏损",
+      "music": 0.0
+    },
+    {
+      "from": 665.76,
+      "to": 667.12,
+      "sid": 486,
+      "location": 2,
+      "content": "首先第一个账期越长",
+      "music": 0.0
+    },
+    {
+      "from": 667.12,
+      "to": 668.92,
+      "sid": 487,
+      "location": 2,
+      "content": "你每个月到手的现金流越少",
+      "music": 0.0
+    },
+    {
+      "from": 668.92,
+      "to": 670.16,
+      "sid": 488,
+      "location": 2,
+      "content": "可能你总包很高",
+      "music": 0.0
+    },
+    {
+      "from": 670.16,
+      "to": 671.72,
+      "sid": 489,
+      "location": 2,
+      "content": "但你每个月过得抠抠搜搜的",
+      "music": 0.0
+    },
+    {
+      "from": 671.72,
+      "to": 672.92,
+      "sid": 490,
+      "location": 2,
+      "content": "它不利于你的生活质量",
+      "music": 0.0
+    },
+    {
+      "from": 672.92,
+      "to": 674.16,
+      "sid": 491,
+      "location": 2,
+      "content": "第二个账期越长",
+      "music": 0.0
+    },
+    {
+      "from": 674.16,
+      "to": 675.18,
+      "sid": 492,
+      "location": 2,
+      "content": "坏账率越高",
+      "music": 0.0
+    },
+    {
+      "from": 675.18,
+      "to": 677.26,
+      "sid": 493,
+      "location": 2,
+      "content": "他血你一年两年以后给你",
+      "music": 0.0
+    },
+    {
+      "from": 677.26,
+      "to": 679.18,
+      "sid": 494,
+      "location": 2,
+      "content": "那一年一两年以后他政策改了怎么办",
+      "music": 0.0
+    },
+    {
+      "from": 679.18,
+      "to": 680.26,
+      "sid": 495,
+      "location": 2,
+      "content": "还有第三个很重要的",
+      "music": 0.0
+    },
+    {
+      "from": 680.26,
+      "to": 680.88,
+      "sid": 496,
+      "location": 2,
+      "content": "大家注意啊",
+      "music": 0.0
+    },
+    {
+      "from": 680.88,
+      "to": 683.24,
+      "sid": 497,
+      "location": 2,
+      "content": "就算那些钱都能安安稳稳发到你手里",
+      "music": 0.0
+    },
+    {
+      "from": 683.24,
+      "to": 684.04,
+      "sid": 498,
+      "location": 2,
+      "content": "你也是亏了",
+      "music": 0.0
+    },
+    {
+      "from": 684.04,
+      "to": 686.72,
+      "sid": 499,
+      "location": 2,
+      "content": "为什么这个钱就相当于我无锡借给了公司",
+      "music": 0.0
+    },
+    {
+      "from": 686.72,
+      "to": 687.24,
+      "sid": 500,
+      "location": 2,
+      "content": "大家发现了",
+      "music": 0.0
+    },
+    {
+      "from": 687.24,
+      "to": 689.16,
+      "sid": 501,
+      "location": 2,
+      "content": "本来就是我的在你公司手里放了一年",
+      "music": 0.0
+    },
+    {
+      "from": 689.16,
+      "to": 691.18,
+      "sid": 502,
+      "location": 2,
+      "content": "这一年我哪怕存银行定期",
+      "music": 0.0
+    },
+    {
+      "from": 691.18,
+      "to": 692.38,
+      "sid": 503,
+      "location": 2,
+      "content": "按3%的年化收益",
+      "music": 0.0
+    },
+    {
+      "from": 692.38,
+      "to": 693.16,
+      "sid": 504,
+      "location": 2,
+      "content": "他也是一笔钱啊",
+      "music": 0.0
+    },
+    {
+      "from": 693.16,
+      "to": 694.46,
+      "sid": 505,
+      "location": 2,
+      "content": "那我现在是无息给你",
+      "music": 0.0
+    },
+    {
+      "from": 694.46,
+      "to": 695.82,
+      "sid": 506,
+      "location": 2,
+      "content": "所以就算是公司全给你发了",
+      "music": 0.0
+    },
+    {
+      "from": 695.82,
+      "to": 696.86,
+      "sid": 507,
+      "location": 2,
+      "content": "你也要知道你吃亏了",
+      "music": 0.0
+    },
+    {
+      "from": 696.86,
+      "to": 697.08,
+      "sid": 508,
+      "location": 2,
+      "content": "知道吗",
+      "music": 0.0
+    },
+    {
+      "from": 697.08,
+      "to": 698.08,
+      "sid": 509,
+      "location": 2,
+      "content": "他得占你便宜",
+      "music": 0.0
+    },
+    {
+      "from": 698.08,
+      "to": 699.16,
+      "sid": 510,
+      "location": 2,
+      "content": "所以这个也很关键啊",
+      "music": 0.0
+    },
+    {
+      "from": 699.16,
+      "to": 702.22,
+      "sid": 511,
+      "location": 2,
+      "content": "同等条件下当然要选那些总包里面账期短的啊",
+      "music": 0.0
+    },
+    {
+      "from": 702.22,
+      "to": 705.26,
+      "sid": 512,
+      "location": 2,
+      "content": "占账期那个那个薪酬比例比较低的那种offer",
+      "music": 0.0
+    },
+    {
+      "from": 705.26,
+      "to": 707.9,
+      "sid": 513,
+      "location": 2,
+      "content": "然后第三个很重要的就是可以不A",
+      "music": 0.0
+    },
+    {
+      "from": 707.9,
+      "to": 709.9,
+      "sid": 514,
+      "location": 2,
+      "content": "但要问清楚校招生啊",
+      "music": 0.0
+    },
+    {
+      "from": 709.9,
+      "to": 710.62,
+      "sid": 515,
+      "location": 2,
+      "content": "来有没有校招生",
+      "music": 0.0
+    },
+    {
+      "from": 710.62,
+      "to": 711.3,
+      "sid": 516,
+      "location": 2,
+      "content": "同学校招生",
+      "music": 0.0
+    },
+    {
+      "from": 711.3,
+      "to": 713.079,
+      "sid": 517,
+      "location": 2,
+      "content": "大家把校招生打在公屏上啊",
+      "music": 0.0
+    },
+    {
+      "from": 713.079,
+      "to": 714.479,
+      "sid": 518,
+      "location": 2,
+      "content": "校招同学呃",
+      "music": 0.0
+    },
+    {
+      "from": 714.479,
+      "to": 715.359,
+      "sid": 519,
+      "location": 2,
+      "content": "你大概率啊",
+      "music": 0.0
+    },
+    {
+      "from": 715.359,
+      "to": 716.879,
+      "sid": 520,
+      "location": 2,
+      "content": "你是没有办法A薪资的",
+      "music": 0.0
+    },
+    {
+      "from": 716.879,
+      "to": 717.679,
+      "sid": 521,
+      "location": 2,
+      "content": "你A不动啊",
+      "music": 0.0
+    },
+    {
+      "from": 717.679,
+      "to": 718.919,
+      "sid": 522,
+      "location": 2,
+      "content": "公司基本上都是定好的",
+      "music": 0.0
+    },
+    {
+      "from": 718.919,
+      "to": 719.98,
+      "sid": 523,
+      "location": 2,
+      "content": "但是呢你可以不A",
+      "music": 0.0
+    },
+    {
+      "from": 719.98,
+      "to": 720.98,
+      "sid": 524,
+      "location": 2,
+      "content": "你一定要问清楚",
+      "music": 0.0
+    },
+    {
+      "from": 720.98,
+      "to": 723.18,
+      "sid": 525,
+      "location": 2,
+      "content": "就是具体这个薪酬里面月贝是多少",
+      "music": 0.0
+    },
+    {
+      "from": 723.18,
+      "to": 724.22,
+      "sid": 526,
+      "location": 2,
+      "content": "然后五险一金比例多少",
+      "music": 0.0
+    },
+    {
+      "from": 724.22,
+      "to": 725.94,
+      "sid": 527,
+      "location": 2,
+      "content": "包括刚刚我说的那些所有的结构",
+      "music": 0.0
+    },
+    {
+      "from": 725.94,
+      "to": 726.5,
+      "sid": 528,
+      "location": 2,
+      "content": "你问清楚",
+      "music": 0.0
+    },
+    {
+      "from": 726.5,
+      "to": 727.54,
+      "sid": 529,
+      "location": 2,
+      "content": "这个大家不用担心啊",
+      "music": 0.0
+    },
+    {
+      "from": 727.54,
+      "to": 729.74,
+      "sid": 530,
+      "location": 2,
+      "content": "我未来还会出专门的谈心话术啊",
+      "music": 0.0
+    },
+    {
+      "from": 729.74,
+      "to": 731.9,
+      "sid": 531,
+      "location": 2,
+      "content": "就是如果你要A怎么A你不A",
+      "music": 0.0
+    },
+    {
+      "from": 731.9,
+      "to": 732.72,
+      "sid": 532,
+      "location": 2,
+      "content": "那你要问",
+      "music": 0.0
+    },
+    {
+      "from": 732.72,
+      "to": 734.96,
+      "sid": 533,
+      "location": 2,
+      "content": "那些话术问那些拆解薪酬结构的东西",
+      "music": 0.0
+    },
+    {
+      "from": 734.96,
+      "to": 735.5,
+      "sid": 534,
+      "location": 2,
+      "content": "要怎么怎么说",
+      "music": 0.0
+    },
+    {
+      "from": 735.5,
+      "to": 736.34,
+      "sid": 535,
+      "location": 2,
+      "content": "这个大家期待的话",
+      "music": 0.0
+    },
+    {
+      "from": 736.34,
+      "to": 737.92,
+      "sid": 536,
+      "location": 2,
+      "content": "可以把想看两个字打在公屏上",
+      "music": 0.0
+    },
+    {
+      "from": 737.92,
+      "to": 739.14,
+      "sid": 537,
+      "location": 2,
+      "content": "哎又给自己画了个饼好",
+      "music": 0.0
+    },
+    {
+      "from": 739.14,
+      "to": 740.34,
+      "sid": 538,
+      "location": 2,
+      "content": "第四点也是最重要一点",
+      "music": 0.0
+    },
+    {
+      "from": 740.34,
+      "to": 742.86,
+      "sid": 539,
+      "location": 2,
+      "content": "要像公司一样去看待自己的营收",
+      "music": 0.0
+    },
+    {
+      "from": 742.86,
+      "to": 744.82,
+      "sid": 540,
+      "location": 2,
+      "content": "就大家虽然咱们现在都是打工人啊",
+      "music": 0.0
+    },
+    {
+      "from": 744.82,
+      "to": 747.48,
+      "sid": 541,
+      "location": 2,
+      "content": "但是我相信大家都是想未来发展越来越好的",
+      "music": 0.0
+    },
+    {
+      "from": 747.48,
+      "to": 749.16,
+      "sid": 542,
+      "location": 2,
+      "content": "那你可能未来不止有打工收入",
+      "music": 0.0
+    },
+    {
+      "from": 749.16,
+      "to": 750.12,
+      "sid": 543,
+      "location": 2,
+      "content": "你还有副业收入",
+      "music": 0.0
+    },
+    {
+      "from": 750.12,
+      "to": 752.78,
+      "sid": 544,
+      "location": 2,
+      "content": "甚至你以后有你的创业收入以及打工的话",
+      "music": 0.0
+    },
+    {
+      "from": 752.78,
+      "to": 753.64,
+      "sid": 545,
+      "location": 2,
+      "content": "大家未来发展好了",
+      "music": 0.0
+    },
+    {
+      "from": 753.64,
+      "to": 754.64,
+      "sid": 546,
+      "location": 2,
+      "content": "可能会有股票收入",
+      "music": 0.0
+    },
+    {
+      "from": 754.64,
+      "to": 756.96,
+      "sid": 547,
+      "location": 2,
+      "content": "那就是最好大家我们就把自己抽象成一家公司",
+      "music": 0.0
+    },
+    {
+      "from": 756.96,
+      "to": 758.64,
+      "sid": 548,
+      "location": 2,
+      "content": "哪些是我们每个月的现金流",
+      "music": 0.0
+    },
+    {
+      "from": 758.64,
+      "to": 759.92,
+      "sid": 549,
+      "location": 2,
+      "content": "哪些是应收账款",
+      "music": 0.0
+    },
+    {
+      "from": 759.92,
+      "to": 760.86,
+      "sid": 550,
+      "location": 2,
+      "content": "它的账期是多少",
+      "music": 0.0
+    },
+    {
+      "from": 760.86,
+      "to": 761.52,
+      "sid": 551,
+      "location": 2,
+      "content": "账期长了",
+      "music": 0.0
+    },
+    {
+      "from": 761.52,
+      "to": 762.6,
+      "sid": 552,
+      "location": 2,
+      "content": "它坏账率是多少",
+      "music": 0.0
+    },
+    {
+      "from": 762.6,
+      "to": 763.96,
+      "sid": 553,
+      "location": 2,
+      "content": "你要把这些东西都想清楚",
+      "music": 0.0
+    },
+    {
+      "from": 763.96,
+      "to": 765.64,
+      "sid": 554,
+      "location": 2,
+      "content": "就我发现打工打多了以后",
+      "music": 0.0
+    },
+    {
+      "from": 765.64,
+      "to": 768.08,
+      "sid": 555,
+      "location": 2,
+      "content": "我越来越感觉领导其实就是我的客户",
+      "music": 0.0
+    },
+    {
+      "from": 768.08,
+      "to": 769.34,
+      "sid": 556,
+      "location": 2,
+      "content": "工公司也是我的客户",
+      "music": 0.0
+    },
+    {
+      "from": 769.34,
+      "to": 770.22,
+      "sid": 557,
+      "location": 2,
+      "content": "我不是打工人",
+      "music": 0.0
+    },
+    {
+      "from": 770.22,
+      "to": 772.1,
+      "sid": 558,
+      "location": 2,
+      "content": "他们只是我提供服务的客户而已",
+      "music": 0.0
+    },
+    {
+      "from": 772.1,
+      "to": 773.02,
+      "sid": 559,
+      "location": 2,
+      "content": "这个时候你就慢慢的",
+      "music": 0.0
+    },
+    {
+      "from": 773.02,
+      "to": 773.92,
+      "sid": 560,
+      "location": 2,
+      "content": "你在发展",
+      "music": 0.0
+    },
+    {
+      "from": 773.92,
+      "to": 775.04,
+      "sid": 561,
+      "location": 2,
+      "content": "你在找下家公司的时候",
+      "music": 0.0
+    },
+    {
+      "from": 775.04,
+      "to": 776.12,
+      "sid": 562,
+      "location": 2,
+      "content": "你就会改变一个策略",
+      "music": 0.0
+    },
+    {
+      "from": 776.12,
+      "to": 778.18,
+      "sid": 563,
+      "location": 2,
+      "content": "就是我要尽量去找高净值的客户",
+      "music": 0.0
+    },
+    {
+      "from": 778.18,
+      "to": 779.9,
+      "sid": 564,
+      "location": 2,
+      "content": "不要老找那种又穷又事逼的客户",
+      "music": 0.0
+    },
+    {
+      "from": 779.9,
+      "to": 781.26,
+      "sid": 565,
+      "location": 2,
+      "content": "就是他工资给不起",
+      "music": 0.0
+    },
+    {
+      "from": 781.26,
+      "to": 782.22,
+      "sid": 566,
+      "location": 2,
+      "content": "还要求特别多",
+      "music": 0.0
+    },
+    {
+      "from": 782.22,
+      "to": 783.38,
+      "sid": 567,
+      "location": 2,
+      "content": "还挂饼告诉你要发展",
+      "music": 0.0
+    },
+    {
+      "from": 783.38,
+      "to": 784.12,
+      "sid": 568,
+      "location": 2,
+      "content": "这是不对的",
+      "music": 0.0
+    },
+    {
+      "from": 784.12,
+      "to": 785.66,
+      "sid": 569,
+      "location": 2,
+      "content": "你一定要去钱多的行业",
+      "music": 0.0
+    },
+    {
+      "from": 785.66,
+      "to": 786.92,
+      "sid": 570,
+      "location": 2,
+      "content": "发展前景好的行业",
+      "music": 0.0
+    },
+    {
+      "from": 786.92,
+      "to": 787.92,
+      "sid": 571,
+      "location": 2,
+      "content": "利润率高的行业",
+      "music": 0.0
+    },
+    {
+      "from": 787.92,
+      "to": 790.32,
+      "sid": 572,
+      "location": 2,
+      "content": "包括舍得给钱的老板去他手底下干活",
+      "music": 0.0
+    },
+    {
+      "from": 790.32,
+      "to": 791.48,
+      "sid": 573,
+      "location": 2,
+      "content": "成年人不培养",
+      "music": 0.0
+    },
+    {
+      "from": 791.48,
+      "to": 792.28,
+      "sid": 574,
+      "location": 2,
+      "content": "只筛选",
+      "music": 0.0
+    },
+    {
+      "from": 792.28,
+      "to": 793.14,
+      "sid": 575,
+      "location": 2,
+      "content": "这是商业规律",
+      "music": 0.0
+    },
+    {
+      "from": 793.14,
+      "to": 794.32,
+      "sid": 576,
+      "location": 2,
+      "content": "也是人性行",
+      "music": 0.0
+    },
+    {
+      "from": 794.32,
+      "to": 795.28,
+      "sid": 577,
+      "location": 2,
+      "content": "今天就讲到这吧",
+      "music": 0.0
+    },
+    {
+      "from": 795.28,
+      "to": 796.84,
+      "sid": 578,
+      "location": 2,
+      "content": "希望这期视频能对大家有收获",
+      "music": 0.0
+    },
+    {
+      "from": 796.84,
+      "to": 799.12,
+      "sid": 579,
+      "location": 2,
+      "content": "那大家也不要吝啬手里的一键三连好吧",
+      "music": 0.0
+    },
+    {
+      "from": 799.12,
+      "to": 800.04,
+      "sid": 580,
+      "location": 2,
+      "content": "咱们下期视频再见",
+      "music": 0.0
+    },
+    {
+      "from": 800.04,
+      "to": 800.64,
+      "sid": 581,
+      "location": 2,
+      "content": "拜拜",
+      "music": 0.0
+    }
+  ]
+}

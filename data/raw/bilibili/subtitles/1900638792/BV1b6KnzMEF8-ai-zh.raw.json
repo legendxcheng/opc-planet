@@ -1,0 +1,2524 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.16,
+      "to": 1.7,
+      "sid": 1,
+      "location": 2,
+      "content": "我最近刷到一个直播",
+      "music": 0.0
+    },
+    {
+      "from": 1.7,
+      "to": 5.25,
+      "sid": 2,
+      "location": 2,
+      "content": "是一个00年的奶茶店主和一个餐饮博主连线",
+      "music": 0.0
+    },
+    {
+      "from": 5.25,
+      "to": 7.85,
+      "sid": 3,
+      "location": 2,
+      "content": "他说自己以前在奶茶店打过工",
+      "music": 0.0
+    },
+    {
+      "from": 7.85,
+      "to": 9.57,
+      "sid": 4,
+      "location": 2,
+      "content": "可能觉得奶茶店赚钱吧",
+      "music": 0.0
+    },
+    {
+      "from": 9.57,
+      "to": 12.6,
+      "sid": 5,
+      "location": 2,
+      "content": "就用父母贷款来的40多万开了这家店",
+      "music": 0.0
+    },
+    {
+      "from": 12.6,
+      "to": 15.1,
+      "sid": 6,
+      "location": 2,
+      "content": "但是开业半个月就做不下去了",
+      "music": 0.0
+    },
+    {
+      "from": 15.1,
+      "to": 16.46,
+      "sid": 7,
+      "location": 2,
+      "content": "每天都在亏钱",
+      "music": 0.0
+    },
+    {
+      "from": 16.46,
+      "to": 18.65,
+      "sid": 8,
+      "location": 2,
+      "content": "他后面还在直播间里面哭了",
+      "music": 0.0
+    },
+    {
+      "from": 18.65,
+      "to": 22.27,
+      "sid": 9,
+      "location": 2,
+      "content": "后来直播切片的评论区里面有人说他住在附近",
+      "music": 0.0
+    },
+    {
+      "from": 22.27,
+      "to": 23.41,
+      "sid": 10,
+      "location": 2,
+      "content": "想过去支持一下",
+      "music": 0.0
+    },
+    {
+      "from": 23.41,
+      "to": 25.77,
+      "sid": 11,
+      "location": 2,
+      "content": "但去的时候发现已经关店了",
+      "music": 0.0
+    },
+    {
+      "from": 25.77,
+      "to": 27.21,
+      "sid": 12,
+      "location": 2,
+      "content": "因为这个奶茶店主",
+      "music": 0.0
+    },
+    {
+      "from": 27.21,
+      "to": 30.619,
+      "sid": 13,
+      "location": 2,
+      "content": "他刚好命中了所有不适合创业的人物特质",
+      "music": 0.0
+    },
+    {
+      "from": 30.619,
+      "to": 33.099,
+      "sid": 14,
+      "location": 2,
+      "content": "所以今天就从他来切入讲讲",
+      "music": 0.0
+    },
+    {
+      "from": 33.099,
+      "to": 35.44,
+      "sid": 15,
+      "location": 2,
+      "content": "到底什么样的人不适合创业",
+      "music": 0.0
+    },
+    {
+      "from": 35.44,
+      "to": 38.72,
+      "sid": 16,
+      "location": 2,
+      "content": "首先我想说打工不行的人未必不适合创业",
+      "music": 0.0
+    },
+    {
+      "from": 38.72,
+      "to": 42.26,
+      "sid": 17,
+      "location": 2,
+      "content": "因为我身边很多连续创业者从来就没打过工",
+      "music": 0.0
+    },
+    {
+      "from": 42.26,
+      "to": 44.4,
+      "sid": 18,
+      "location": 2,
+      "content": "毕业之后就一直在当老板",
+      "music": 0.0
+    },
+    {
+      "from": 44.4,
+      "to": 46.96,
+      "sid": 19,
+      "location": 2,
+      "content": "但是这两年做什么赔什么",
+      "music": 0.0
+    },
+    {
+      "from": 46.96,
+      "to": 49.89,
+      "sid": 20,
+      "location": 2,
+      "content": "有些家境一般的创业者就只能去上班了",
+      "music": 0.0
+    },
+    {
+      "from": 49.89,
+      "to": 52.23,
+      "sid": 21,
+      "location": 2,
+      "content": "我身边有一个八零后创业者",
+      "music": 0.0
+    },
+    {
+      "from": 52.23,
+      "to": 54.73,
+      "sid": 22,
+      "location": 2,
+      "content": "去年去了一家知名企业做总监",
+      "music": 0.0
+    },
+    {
+      "from": 54.73,
+      "to": 56.45,
+      "sid": 23,
+      "location": 2,
+      "content": "今年他实在干不下去了",
+      "music": 0.0
+    },
+    {
+      "from": 56.45,
+      "to": 57.48,
+      "sid": 24,
+      "location": 2,
+      "content": "就提了离职",
+      "music": 0.0
+    },
+    {
+      "from": 57.48,
+      "to": 60.66,
+      "sid": 25,
+      "location": 2,
+      "content": "他说他领导作为整个业务部的负责人",
+      "music": 0.0
+    },
+    {
+      "from": 60.66,
+      "to": 63.0,
+      "sid": 26,
+      "location": 2,
+      "content": "却连基本的商业模式都搞不懂",
+      "music": 0.0
+    },
+    {
+      "from": 63.0,
+      "to": 64.52,
+      "sid": 27,
+      "location": 2,
+      "content": "天天只会开会",
+      "music": 0.0
+    },
+    {
+      "from": 64.52,
+      "to": 66.11,
+      "sid": 28,
+      "location": 2,
+      "content": "做PPT和甩锅",
+      "music": 0.0
+    },
+    {
+      "from": 66.11,
+      "to": 67.45,
+      "sid": 29,
+      "location": 2,
+      "content": "我之前分享过",
+      "music": 0.0
+    },
+    {
+      "from": 67.45,
+      "to": 70.63,
+      "sid": 30,
+      "location": 2,
+      "content": "打工需要的是搞定人或者搞定事儿的能力",
+      "music": 0.0
+    },
+    {
+      "from": 70.63,
+      "to": 72.29,
+      "sid": 31,
+      "location": 2,
+      "content": "甚至在某些大公司里面",
+      "music": 0.0
+    },
+    {
+      "from": 72.29,
+      "to": 76.0,
+      "sid": 32,
+      "location": 2,
+      "content": "你只需要掌握汇报这一项技能就能够升职加薪",
+      "music": 0.0
+    },
+    {
+      "from": 76.0,
+      "to": 78.54,
+      "sid": 33,
+      "location": 2,
+      "content": "但创业需要的是搞定钱的能力",
+      "music": 0.0
+    },
+    {
+      "from": 78.54,
+      "to": 79.74,
+      "sid": 34,
+      "location": 2,
+      "content": "要关注市场",
+      "music": 0.0
+    },
+    {
+      "from": 79.74,
+      "to": 80.76,
+      "sid": 35,
+      "location": 2,
+      "content": "控制成本",
+      "music": 0.0
+    },
+    {
+      "from": 80.76,
+      "to": 81.7,
+      "sid": 36,
+      "location": 2,
+      "content": "维持利润",
+      "music": 0.0
+    },
+    {
+      "from": 81.7,
+      "to": 82.759,
+      "sid": 37,
+      "location": 2,
+      "content": "保证现金流",
+      "music": 0.0
+    },
+    {
+      "from": 82.759,
+      "to": 86.18,
+      "sid": 38,
+      "location": 2,
+      "content": "所以本身这就是两条不同赛道上的人",
+      "music": 0.0
+    },
+    {
+      "from": 86.18,
+      "to": 89.72,
+      "sid": 39,
+      "location": 2,
+      "content": "但确实现在很多创业项目都是稳赔不赚",
+      "music": 0.0
+    },
+    {
+      "from": 89.72,
+      "to": 90.96,
+      "sid": 40,
+      "location": 2,
+      "content": "这个环境之下",
+      "music": 0.0
+    },
+    {
+      "from": 90.96,
+      "to": 93.3,
+      "sid": 41,
+      "location": 2,
+      "content": "多数创业者不鼓励大家创业",
+      "music": 0.0
+    },
+    {
+      "from": 93.3,
+      "to": 97.14,
+      "sid": 42,
+      "location": 2,
+      "content": "但有些做艺人创业公司的自由职业者鼓励创业",
+      "music": 0.0
+    },
+    {
+      "from": 97.14,
+      "to": 99.88,
+      "sid": 43,
+      "location": 2,
+      "content": "因为有些行业一个人做能赚钱",
+      "music": 0.0
+    },
+    {
+      "from": 99.88,
+      "to": 101.45,
+      "sid": 44,
+      "location": 2,
+      "content": "三个人做就一定赔钱",
+      "music": 0.0
+    },
+    {
+      "from": 101.45,
+      "to": 102.77,
+      "sid": 45,
+      "location": 2,
+      "content": "比如招聘行业",
+      "music": 0.0
+    },
+    {
+      "from": 102.77,
+      "to": 103.87,
+      "sid": 46,
+      "location": 2,
+      "content": "知识付费行业",
+      "music": 0.0
+    },
+    {
+      "from": 103.87,
+      "to": 104.91,
+      "sid": 47,
+      "location": 2,
+      "content": "自媒体行业",
+      "music": 0.0
+    },
+    {
+      "from": 104.91,
+      "to": 108.59,
+      "sid": 48,
+      "location": 2,
+      "content": "所以一没有任何一个定论适用于所有人",
+      "music": 0.0
+    },
+    {
+      "from": 108.59,
+      "to": 110.91,
+      "sid": 49,
+      "location": 2,
+      "content": "二没有任何一件事情只有利好",
+      "music": 0.0
+    },
+    {
+      "from": 110.91,
+      "to": 111.73,
+      "sid": 50,
+      "location": 2,
+      "content": "没有代价",
+      "music": 0.0
+    },
+    {
+      "from": 111.73,
+      "to": 113.25,
+      "sid": 51,
+      "location": 2,
+      "content": "那我划分情况",
+      "music": 0.0
+    },
+    {
+      "from": 113.25,
+      "to": 114.31,
+      "sid": 52,
+      "location": 2,
+      "content": "你对号入座",
+      "music": 0.0
+    },
+    {
+      "from": 114.31,
+      "to": 115.25,
+      "sid": 53,
+      "location": 2,
+      "content": "我说利弊",
+      "music": 0.0
+    },
+    {
+      "from": 115.25,
+      "to": 116.68,
+      "sid": 54,
+      "location": 2,
+      "content": "你做选择",
+      "music": 0.0
+    },
+    {
+      "from": 116.68,
+      "to": 119.04,
+      "sid": 55,
+      "location": 2,
+      "content": "真正不适合创业的有三类人",
+      "music": 0.0
+    },
+    {
+      "from": 119.04,
+      "to": 121.72,
+      "sid": 56,
+      "location": 2,
+      "content": "第一类人是误会了什么叫做all in",
+      "music": 0.0
+    },
+    {
+      "from": 121.72,
+      "to": 122.68,
+      "sid": 57,
+      "location": 2,
+      "content": "创业的人",
+      "music": 0.0
+    },
+    {
+      "from": 122.68,
+      "to": 125.2,
+      "sid": 58,
+      "location": 2,
+      "content": "大多数人以为是要在钱上all in",
+      "music": 0.0
+    },
+    {
+      "from": 125.2,
+      "to": 127.18,
+      "sid": 59,
+      "location": 2,
+      "content": "但其实是要在事情上all in",
+      "music": 0.0
+    },
+    {
+      "from": 127.18,
+      "to": 128.72,
+      "sid": 60,
+      "location": 2,
+      "content": "所以钱上all in",
+      "music": 0.0
+    },
+    {
+      "from": 128.72,
+      "to": 131.16,
+      "sid": 61,
+      "location": 2,
+      "content": "但是事情不all in的人不适合创业",
+      "music": 0.0
+    },
+    {
+      "from": 131.16,
+      "to": 134.18,
+      "sid": 62,
+      "location": 2,
+      "content": "你看这个奶茶店主在没有任何经验的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 134.18,
+      "to": 136.04,
+      "sid": 63,
+      "location": 2,
+      "content": "竟然敢跑去贷款创业",
+      "music": 0.0
+    },
+    {
+      "from": 136.04,
+      "to": 139.26,
+      "sid": 64,
+      "location": 2,
+      "content": "当然是有少数贷款创业做成的人",
+      "music": 0.0
+    },
+    {
+      "from": 139.26,
+      "to": 141.55,
+      "sid": 65,
+      "location": 2,
+      "content": "但他们要不然就是背景特别好",
+      "music": 0.0
+    },
+    {
+      "from": 141.55,
+      "to": 144.01,
+      "sid": 66,
+      "location": 2,
+      "content": "名校大厂高职技出来的",
+      "music": 0.0
+    },
+    {
+      "from": 144.01,
+      "to": 145.29,
+      "sid": 67,
+      "location": 2,
+      "content": "哪怕这次失败了",
+      "music": 0.0
+    },
+    {
+      "from": 145.29,
+      "to": 146.97,
+      "sid": 68,
+      "location": 2,
+      "content": "下次依然能拉到融资",
+      "music": 0.0
+    },
+    {
+      "from": 146.97,
+      "to": 149.48,
+      "sid": 69,
+      "location": 2,
+      "content": "所以他们其实不太担心钱的问题",
+      "music": 0.0
+    },
+    {
+      "from": 149.48,
+      "to": 151.42,
+      "sid": 70,
+      "location": 2,
+      "content": "要不然就是一无所有的人",
+      "music": 0.0
+    },
+    {
+      "from": 151.42,
+      "to": 152.7,
+      "sid": 71,
+      "location": 2,
+      "content": "比如没考上大学",
+      "music": 0.0
+    },
+    {
+      "from": 152.7,
+      "to": 154.55,
+      "sid": 72,
+      "location": 2,
+      "content": "然后借钱出来创业",
+      "music": 0.0
+    },
+    {
+      "from": 154.55,
+      "to": 155.39,
+      "sid": 73,
+      "location": 2,
+      "content": "你就想吧",
+      "music": 0.0
+    },
+    {
+      "from": 155.39,
+      "to": 156.35,
+      "sid": 74,
+      "location": 2,
+      "content": "一个没学历",
+      "music": 0.0
+    },
+    {
+      "from": 156.35,
+      "to": 157.01,
+      "sid": 75,
+      "location": 2,
+      "content": "没经验",
+      "music": 0.0
+    },
+    {
+      "from": 157.01,
+      "to": 158.47,
+      "sid": 76,
+      "location": 2,
+      "content": "家庭条件也不好的人",
+      "music": 0.0
+    },
+    {
+      "from": 158.47,
+      "to": 160.81,
+      "sid": 77,
+      "location": 2,
+      "content": "他有10万存款还是10万负债",
+      "music": 0.0
+    },
+    {
+      "from": 160.81,
+      "to": 162.339,
+      "sid": 78,
+      "location": 2,
+      "content": "对他来讲没区别",
+      "music": 0.0
+    },
+    {
+      "from": 162.339,
+      "to": 164.92,
+      "sid": 79,
+      "location": 2,
+      "content": "他们也不介意身上再多背点儿债",
+      "music": 0.0
+    },
+    {
+      "from": 164.92,
+      "to": 167.48,
+      "sid": 80,
+      "location": 2,
+      "content": "但大多数人不适合贷款创业",
+      "music": 0.0
+    },
+    {
+      "from": 167.48,
+      "to": 168.52,
+      "sid": 81,
+      "location": 2,
+      "content": "在钱这方面",
+      "music": 0.0
+    },
+    {
+      "from": 168.52,
+      "to": 170.08,
+      "sid": 82,
+      "location": 2,
+      "content": "我建议把钱五等分",
+      "music": 0.0
+    },
+    {
+      "from": 170.08,
+      "to": 172.459,
+      "sid": 83,
+      "location": 2,
+      "content": "这样你起码有五次试错机会",
+      "music": 0.0
+    },
+    {
+      "from": 172.459,
+      "to": 174.959,
+      "sid": 84,
+      "location": 2,
+      "content": "其实更理性的决策是把钱十等分",
+      "music": 0.0
+    },
+    {
+      "from": 174.959,
+      "to": 176.859,
+      "sid": 85,
+      "location": 2,
+      "content": "这样你就有十次试错机会",
+      "music": 0.0
+    },
+    {
+      "from": 176.859,
+      "to": 178.279,
+      "sid": 86,
+      "location": 2,
+      "content": "但如果存款20万",
+      "music": 0.0
+    },
+    {
+      "from": 178.279,
+      "to": 179.099,
+      "sid": 87,
+      "location": 2,
+      "content": "每次十等分",
+      "music": 0.0
+    },
+    {
+      "from": 179.099,
+      "to": 181.51,
+      "sid": 88,
+      "location": 2,
+      "content": "相当于每次创业资金只有2万",
+      "music": 0.0
+    },
+    {
+      "from": 181.51,
+      "to": 182.27,
+      "sid": 89,
+      "location": 2,
+      "content": "2万块钱",
+      "music": 0.0
+    },
+    {
+      "from": 182.27,
+      "to": 183.43,
+      "sid": 90,
+      "location": 2,
+      "content": "确实干不了什么事",
+      "music": 0.0
+    },
+    {
+      "from": 183.43,
+      "to": 185.99,
+      "sid": 91,
+      "location": 2,
+      "content": "所以把前十等分是更理性的决策",
+      "music": 0.0
+    },
+    {
+      "from": 185.99,
+      "to": 187.95,
+      "sid": 92,
+      "location": 2,
+      "content": "但也是一个没用的决策",
+      "music": 0.0
+    },
+    {
+      "from": 187.95,
+      "to": 191.09,
+      "sid": 93,
+      "location": 2,
+      "content": "真正的all in创业是指你要在事情上all in",
+      "music": 0.0
+    },
+    {
+      "from": 191.09,
+      "to": 193.45,
+      "sid": 94,
+      "location": 2,
+      "content": "投入全部的精力做好一件事儿",
+      "music": 0.0
+    },
+    {
+      "from": 193.45,
+      "to": 194.61,
+      "sid": 95,
+      "location": 2,
+      "content": "这个奶茶店主",
+      "music": 0.0
+    },
+    {
+      "from": 194.61,
+      "to": 197.01,
+      "sid": 96,
+      "location": 2,
+      "content": "之所以开个奶茶店都能亏40多万",
+      "music": 0.0
+    },
+    {
+      "from": 197.01,
+      "to": 199.87,
+      "sid": 97,
+      "location": 2,
+      "content": "他在直播间说是因为他连合同都没怎么看",
+      "music": 0.0
+    },
+    {
+      "from": 199.87,
+      "to": 200.93,
+      "sid": 98,
+      "location": 2,
+      "content": "他是加盟店",
+      "music": 0.0
+    },
+    {
+      "from": 200.93,
+      "to": 203.49,
+      "sid": 99,
+      "location": 2,
+      "content": "他觉得总部会帮他把所有事搞定",
+      "music": 0.0
+    },
+    {
+      "from": 203.49,
+      "to": 204.37,
+      "sid": 100,
+      "location": 2,
+      "content": "这个叫什么",
+      "music": 0.0
+    },
+    {
+      "from": 204.37,
+      "to": 206.75,
+      "sid": 101,
+      "location": 2,
+      "content": "这个叫用钱解决懒的问题",
+      "music": 0.0
+    },
+    {
+      "from": 206.75,
+      "to": 209.33,
+      "sid": 102,
+      "location": 2,
+      "content": "现在很多人都说懒是第一生产力",
+      "music": 0.0
+    },
+    {
+      "from": 209.33,
+      "to": 211.39,
+      "sid": 103,
+      "location": 2,
+      "content": "但懒是资本的第一生产力",
+      "music": 0.0
+    },
+    {
+      "from": 211.39,
+      "to": 213.39,
+      "sid": 104,
+      "location": 2,
+      "content": "不是消费者的第一生产力",
+      "music": 0.0
+    },
+    {
+      "from": 213.39,
+      "to": 215.93,
+      "sid": 105,
+      "location": 2,
+      "content": "当然很多有钱人以及有脑子的人",
+      "music": 0.0
+    },
+    {
+      "from": 215.93,
+      "to": 217.62,
+      "sid": 106,
+      "location": 2,
+      "content": "也会花钱解决问题",
+      "music": 0.0
+    },
+    {
+      "from": 217.62,
+      "to": 220.62,
+      "sid": 107,
+      "location": 2,
+      "content": "但他们花钱解决的问题是效率问题",
+      "music": 0.0
+    },
+    {
+      "from": 220.62,
+      "to": 221.85,
+      "sid": 108,
+      "location": 2,
+      "content": "而不是懒的问题",
+      "music": 0.0
+    },
+    {
+      "from": 221.85,
+      "to": 223.51,
+      "sid": 109,
+      "location": 2,
+      "content": "因为他们实在忙不过来",
+      "music": 0.0
+    },
+    {
+      "from": 223.51,
+      "to": 225.61,
+      "sid": 110,
+      "location": 2,
+      "content": "所以需要花钱找人",
+      "music": 0.0
+    },
+    {
+      "from": 225.61,
+      "to": 227.85,
+      "sid": 111,
+      "location": 2,
+      "content": "把他们忙不过来的事情给做了",
+      "music": 0.0
+    },
+    {
+      "from": 227.85,
+      "to": 229.67,
+      "sid": 112,
+      "location": 2,
+      "content": "但不适合创业的人呢",
+      "music": 0.0
+    },
+    {
+      "from": 229.67,
+      "to": 231.01,
+      "sid": 113,
+      "location": 2,
+      "content": "他其实有时间",
+      "music": 0.0
+    },
+    {
+      "from": 231.01,
+      "to": 232.21,
+      "sid": 114,
+      "location": 2,
+      "content": "而且时间很富裕",
+      "music": 0.0
+    },
+    {
+      "from": 232.21,
+      "to": 233.47,
+      "sid": 115,
+      "location": 2,
+      "content": "但他就是懒得做",
+      "music": 0.0
+    },
+    {
+      "from": 233.47,
+      "to": 235.49,
+      "sid": 116,
+      "location": 2,
+      "content": "才花钱找人帮他做",
+      "music": 0.0
+    },
+    {
+      "from": 235.49,
+      "to": 236.81,
+      "sid": 117,
+      "location": 2,
+      "content": "还有一种情况是",
+      "music": 0.0
+    },
+    {
+      "from": 236.81,
+      "to": 238.61,
+      "sid": 118,
+      "location": 2,
+      "content": "有的人在从0~1的阶段",
+      "music": 0.0
+    },
+    {
+      "from": 238.61,
+      "to": 240.09,
+      "sid": 119,
+      "location": 2,
+      "content": "同时跑好几个业务",
+      "music": 0.0
+    },
+    {
+      "from": 240.09,
+      "to": 241.57,
+      "sid": 120,
+      "location": 2,
+      "content": "还有一些做自媒体的人",
+      "music": 0.0
+    },
+    {
+      "from": 241.57,
+      "to": 243.12,
+      "sid": 121,
+      "location": 2,
+      "content": "同时运营四五个账号",
+      "music": 0.0
+    },
+    {
+      "from": 243.12,
+      "to": 245.04,
+      "sid": 122,
+      "location": 2,
+      "content": "这样做只能保证产量",
+      "music": 0.0
+    },
+    {
+      "from": 245.04,
+      "to": 246.72,
+      "sid": 123,
+      "location": 2,
+      "content": "但没办法保证质量",
+      "music": 0.0
+    },
+    {
+      "from": 246.72,
+      "to": 249.54,
+      "sid": 124,
+      "location": 2,
+      "content": "如果你把所有精力放在一个账号上面",
+      "music": 0.0
+    },
+    {
+      "from": 249.54,
+      "to": 250.72,
+      "sid": 125,
+      "location": 2,
+      "content": "一个月能赚2万",
+      "music": 0.0
+    },
+    {
+      "from": 250.72,
+      "to": 253.66,
+      "sid": 126,
+      "location": 2,
+      "content": "但如果你把精力分散到四五个账号上面",
+      "music": 0.0
+    },
+    {
+      "from": 253.66,
+      "to": 256.34,
+      "sid": 127,
+      "location": 2,
+      "content": "有可能加到一起的收入才七八千",
+      "music": 0.0
+    },
+    {
+      "from": 256.34,
+      "to": 257.58,
+      "sid": 128,
+      "location": 2,
+      "content": "当然我也理解",
+      "music": 0.0
+    },
+    {
+      "from": 257.58,
+      "to": 259.64,
+      "sid": 129,
+      "location": 2,
+      "content": "有些人是因为个人能力有限",
+      "music": 0.0
+    },
+    {
+      "from": 259.64,
+      "to": 262.05,
+      "sid": 130,
+      "location": 2,
+      "content": "所以想在事情上面分散风险",
+      "music": 0.0
+    },
+    {
+      "from": 262.05,
+      "to": 263.25,
+      "sid": 131,
+      "location": 2,
+      "content": "但是你要明白",
+      "music": 0.0
+    },
+    {
+      "from": 263.25,
+      "to": 264.07,
+      "sid": 132,
+      "location": 2,
+      "content": "这样做的话",
+      "music": 0.0
+    },
+    {
+      "from": 264.07,
+      "to": 265.15,
+      "sid": 133,
+      "location": 2,
+      "content": "只能赚小钱",
+      "music": 0.0
+    },
+    {
+      "from": 265.15,
+      "to": 266.35,
+      "sid": 134,
+      "location": 2,
+      "content": "赚不到大钱",
+      "music": 0.0
+    },
+    {
+      "from": 266.35,
+      "to": 267.41,
+      "sid": 135,
+      "location": 2,
+      "content": "针对这类人",
+      "music": 0.0
+    },
+    {
+      "from": 267.41,
+      "to": 268.39,
+      "sid": 136,
+      "location": 2,
+      "content": "我的建议是",
+      "music": 0.0
+    },
+    {
+      "from": 268.39,
+      "to": 270.17,
+      "sid": 137,
+      "location": 2,
+      "content": "第一提升专注度",
+      "music": 0.0
+    },
+    {
+      "from": 270.17,
+      "to": 271.25,
+      "sid": 138,
+      "location": 2,
+      "content": "做好一件事儿",
+      "music": 0.0
+    },
+    {
+      "from": 271.25,
+      "to": 273.65,
+      "sid": 139,
+      "location": 2,
+      "content": "第二用钱解决效率问题",
+      "music": 0.0
+    },
+    {
+      "from": 273.65,
+      "to": 274.83,
+      "sid": 140,
+      "location": 2,
+      "content": "而不是懒的问题",
+      "music": 0.0
+    },
+    {
+      "from": 274.83,
+      "to": 278.0,
+      "sid": 141,
+      "location": 2,
+      "content": "第三把钱五等分增加试错机会",
+      "music": 0.0
+    },
+    {
+      "from": 278.0,
+      "to": 281.42,
+      "sid": 142,
+      "location": 2,
+      "content": "第二类不适合创业的人是线性思维的人",
+      "music": 0.0
+    },
+    {
+      "from": 281.42,
+      "to": 283.72,
+      "sid": 143,
+      "location": 2,
+      "content": "线性思维的两个典型特征是",
+      "music": 0.0
+    },
+    {
+      "from": 283.72,
+      "to": 286.19,
+      "sid": 144,
+      "location": 2,
+      "content": "第一他们认为有A就有B",
+      "music": 0.0
+    },
+    {
+      "from": 286.19,
+      "to": 288.67,
+      "sid": 145,
+      "location": 2,
+      "content": "所以才会问出努力一定会成功吗",
+      "music": 0.0
+    },
+    {
+      "from": 288.67,
+      "to": 290.95,
+      "sid": 146,
+      "location": 2,
+      "content": "这样的话在他们的脑袋里面",
+      "music": 0.0
+    },
+    {
+      "from": 290.95,
+      "to": 292.95,
+      "sid": 147,
+      "location": 2,
+      "content": "成功的变量就只有一个",
+      "music": 0.0
+    },
+    {
+      "from": 292.95,
+      "to": 294.71,
+      "sid": 148,
+      "location": 2,
+      "content": "第二先A后B",
+      "music": 0.0
+    },
+    {
+      "from": 294.71,
+      "to": 297.33,
+      "sid": 149,
+      "location": 2,
+      "content": "比如我看到有的人说那些没文化",
+      "music": 0.0
+    },
+    {
+      "from": 297.33,
+      "to": 299.03,
+      "sid": 150,
+      "location": 2,
+      "content": "初中毕业的土老板都能够成功",
+      "music": 0.0
+    },
+    {
+      "from": 299.03,
+      "to": 300.159,
+      "sid": 151,
+      "location": 2,
+      "content": "那我也能成功",
+      "music": 0.0
+    },
+    {
+      "from": 300.159,
+      "to": 301.959,
+      "sid": 152,
+      "location": 2,
+      "content": "但A不只有正面",
+      "music": 0.0
+    },
+    {
+      "from": 301.959,
+      "to": 303.139,
+      "sid": 153,
+      "location": 2,
+      "content": "他还有反面呀",
+      "music": 0.0
+    },
+    {
+      "from": 303.139,
+      "to": 304.479,
+      "sid": 154,
+      "location": 2,
+      "content": "你没看到的是",
+      "music": 0.0
+    },
+    {
+      "from": 304.479,
+      "to": 307.77,
+      "sid": 155,
+      "location": 2,
+      "content": "有些创业失败的土老板是要终身还债的",
+      "music": 0.0
+    },
+    {
+      "from": 307.77,
+      "to": 310.13,
+      "sid": 156,
+      "location": 2,
+      "content": "我看有的网友说努力一定会成功吗",
+      "music": 0.0
+    },
+    {
+      "from": 310.13,
+      "to": 310.95,
+      "sid": 157,
+      "location": 2,
+      "content": "好像也不是",
+      "music": 0.0
+    },
+    {
+      "from": 310.95,
+      "to": 312.7,
+      "sid": 158,
+      "location": 2,
+      "content": "但不努力一定不会成功",
+      "music": 0.0
+    },
+    {
+      "from": 312.7,
+      "to": 314.28,
+      "sid": 159,
+      "location": 2,
+      "content": "这种A不能带来B",
+      "music": 0.0
+    },
+    {
+      "from": 314.28,
+      "to": 316.34,
+      "sid": 160,
+      "location": 2,
+      "content": "但是非A会导致非B的现象",
+      "music": 0.0
+    },
+    {
+      "from": 316.34,
+      "to": 317.18,
+      "sid": 161,
+      "location": 2,
+      "content": "说明什么呢",
+      "music": 0.0
+    },
+    {
+      "from": 317.18,
+      "to": 319.88,
+      "sid": 162,
+      "location": 2,
+      "content": "说明A是导致B的其中一个变量",
+      "music": 0.0
+    },
+    {
+      "from": 319.88,
+      "to": 321.78,
+      "sid": 163,
+      "location": 2,
+      "content": "但还有其他变量的存在",
+      "music": 0.0
+    },
+    {
+      "from": 321.78,
+      "to": 323.08,
+      "sid": 164,
+      "location": 2,
+      "content": "只是你没发现而已",
+      "music": 0.0
+    },
+    {
+      "from": 323.08,
+      "to": 324.8,
+      "sid": 165,
+      "location": 2,
+      "content": "这个叫做变量思维",
+      "music": 0.0
+    },
+    {
+      "from": 324.8,
+      "to": 327.36,
+      "sid": 166,
+      "location": 2,
+      "content": "所以你想做成任何一件事情的话",
+      "music": 0.0
+    },
+    {
+      "from": 327.36,
+      "to": 330.659,
+      "sid": 167,
+      "location": 2,
+      "content": "首先要把线性思维转化成变量思维",
+      "music": 0.0
+    },
+    {
+      "from": 330.659,
+      "to": 332.879,
+      "sid": 168,
+      "location": 2,
+      "content": "你看说出站在风口上",
+      "music": 0.0
+    },
+    {
+      "from": 332.879,
+      "to": 333.779,
+      "sid": 169,
+      "location": 2,
+      "content": "猪都能飞的",
+      "music": 0.0
+    },
+    {
+      "from": 333.779,
+      "to": 334.539,
+      "sid": 170,
+      "location": 2,
+      "content": "雷军是",
+      "music": 0.0
+    },
+    {
+      "from": 334.539,
+      "to": 338.29,
+      "sid": 171,
+      "location": 2,
+      "content": "因为他身上已经具备了所有创业成功的变量",
+      "music": 0.0
+    },
+    {
+      "from": 338.29,
+      "to": 339.17,
+      "sid": 172,
+      "location": 2,
+      "content": "背景好",
+      "music": 0.0
+    },
+    {
+      "from": 339.17,
+      "to": 339.93,
+      "sid": 173,
+      "location": 2,
+      "content": "资源好",
+      "music": 0.0
+    },
+    {
+      "from": 339.93,
+      "to": 340.86,
+      "sid": 174,
+      "location": 2,
+      "content": "懂市场",
+      "music": 0.0
+    },
+    {
+      "from": 340.86,
+      "to": 341.94,
+      "sid": 175,
+      "location": 2,
+      "content": "而且够自律",
+      "music": 0.0
+    },
+    {
+      "from": 341.94,
+      "to": 342.62,
+      "sid": 176,
+      "location": 2,
+      "content": "有认知",
+      "music": 0.0
+    },
+    {
+      "from": 342.62,
+      "to": 345.16,
+      "sid": 177,
+      "location": 2,
+      "content": "并且他身边的人跟他都大差不差",
+      "music": 0.0
+    },
+    {
+      "from": 345.16,
+      "to": 348.52,
+      "sid": 178,
+      "location": 2,
+      "content": "所以在他看来只剩下风口这一个变量了",
+      "music": 0.0
+    },
+    {
+      "from": 348.52,
+      "to": 350.66,
+      "sid": 179,
+      "location": 2,
+      "content": "还有的人说土老板都能成功",
+      "music": 0.0
+    },
+    {
+      "from": 350.66,
+      "to": 351.58,
+      "sid": 180,
+      "location": 2,
+      "content": "那我也能",
+      "music": 0.0
+    },
+    {
+      "from": 351.58,
+      "to": 354.16,
+      "sid": 181,
+      "location": 2,
+      "content": "之前我一个做金融的朋友说",
+      "music": 0.0
+    },
+    {
+      "from": 354.16,
+      "to": 356.489,
+      "sid": 182,
+      "location": 2,
+      "content": "他身边的同事也在吐槽啊",
+      "music": 0.0
+    },
+    {
+      "from": 356.489,
+      "to": 358.469,
+      "sid": 183,
+      "location": 2,
+      "content": "为什么咱们努力了20多年",
+      "music": 0.0
+    },
+    {
+      "from": 358.469,
+      "to": 360.369,
+      "sid": 184,
+      "location": 2,
+      "content": "考了名校的本硕硕士",
+      "music": 0.0
+    },
+    {
+      "from": 360.369,
+      "to": 360.889,
+      "sid": 185,
+      "location": 2,
+      "content": "还留学",
+      "music": 0.0
+    },
+    {
+      "from": 360.889,
+      "to": 361.82,
+      "sid": 186,
+      "location": 2,
+      "content": "花了不少钱",
+      "music": 0.0
+    },
+    {
+      "from": 361.82,
+      "to": 363.14,
+      "sid": 187,
+      "location": 2,
+      "content": "但像我们这样的人",
+      "music": 0.0
+    },
+    {
+      "from": 363.14,
+      "to": 366.1,
+      "sid": 188,
+      "location": 2,
+      "content": "很多都在给初中毕业的土老板打工",
+      "music": 0.0
+    },
+    {
+      "from": 366.1,
+      "to": 367.84,
+      "sid": 189,
+      "location": 2,
+      "content": "他们内心也是不服气的",
+      "music": 0.0
+    },
+    {
+      "from": 367.84,
+      "to": 370.789,
+      "sid": 190,
+      "location": 2,
+      "content": "但是说归说最终他们还是选择打工",
+      "music": 0.0
+    },
+    {
+      "from": 370.789,
+      "to": 371.629,
+      "sid": 191,
+      "location": 2,
+      "content": "为什么呢",
+      "music": 0.0
+    },
+    {
+      "from": 371.629,
+      "to": 373.489,
+      "sid": 192,
+      "location": 2,
+      "content": "因为做金融的人很会算账",
+      "music": 0.0
+    },
+    {
+      "from": 373.489,
+      "to": 375.919,
+      "sid": 193,
+      "location": 2,
+      "content": "他们知道失败的代价是什么",
+      "music": 0.0
+    },
+    {
+      "from": 375.919,
+      "to": 378.519,
+      "sid": 194,
+      "location": 2,
+      "content": "很多精英之所以待在舒适圈里面",
+      "music": 0.0
+    },
+    {
+      "from": 378.519,
+      "to": 380.139,
+      "sid": 195,
+      "location": 2,
+      "content": "不是因为不思进取",
+      "music": 0.0
+    },
+    {
+      "from": 380.139,
+      "to": 381.039,
+      "sid": 196,
+      "location": 2,
+      "content": "恰好相反",
+      "music": 0.0
+    },
+    {
+      "from": 381.039,
+      "to": 382.059,
+      "sid": 197,
+      "location": 2,
+      "content": "他们非常精明",
+      "music": 0.0
+    },
+    {
+      "from": 382.059,
+      "to": 384.97,
+      "sid": 198,
+      "location": 2,
+      "content": "这是他们权衡利弊之后的最佳选择",
+      "music": 0.0
+    },
+    {
+      "from": 384.97,
+      "to": 388.39,
+      "sid": 199,
+      "location": 2,
+      "content": "所以还要把线性思维转化成正反面思维",
+      "music": 0.0
+    },
+    {
+      "from": 388.39,
+      "to": 390.37,
+      "sid": 200,
+      "location": 2,
+      "content": "不仅要看到成功的利好",
+      "music": 0.0
+    },
+    {
+      "from": 390.37,
+      "to": 392.3,
+      "sid": 201,
+      "location": 2,
+      "content": "也要了解失败的代价",
+      "music": 0.0
+    },
+    {
+      "from": 392.3,
+      "to": 395.0,
+      "sid": 202,
+      "location": 2,
+      "content": "你像这个赔了40多万的奶茶店主",
+      "music": 0.0
+    },
+    {
+      "from": 395.0,
+      "to": 396.76,
+      "sid": 203,
+      "location": 2,
+      "content": "他看到奶茶店赚钱",
+      "music": 0.0
+    },
+    {
+      "from": 396.76,
+      "to": 398.03,
+      "sid": 204,
+      "location": 2,
+      "content": "他就去开奶茶店",
+      "music": 0.0
+    },
+    {
+      "from": 398.03,
+      "to": 401.63,
+      "sid": 205,
+      "location": 2,
+      "content": "但是他没看到开奶茶店只是其中一个变量",
+      "music": 0.0
+    },
+    {
+      "from": 401.63,
+      "to": 403.23,
+      "sid": 206,
+      "location": 2,
+      "content": "开什么品牌的奶茶店",
+      "music": 0.0
+    },
+    {
+      "from": 403.23,
+      "to": 404.17,
+      "sid": 207,
+      "location": 2,
+      "content": "开在哪里",
+      "music": 0.0
+    },
+    {
+      "from": 404.17,
+      "to": 405.59,
+      "sid": 208,
+      "location": 2,
+      "content": "成本多少才能赚钱",
+      "music": 0.0
+    },
+    {
+      "from": 405.59,
+      "to": 406.94,
+      "sid": 209,
+      "location": 2,
+      "content": "这些也是变量",
+      "music": 0.0
+    },
+    {
+      "from": 406.94,
+      "to": 409.06,
+      "sid": 210,
+      "location": 2,
+      "content": "他也没看到这些开店成功的人",
+      "music": 0.0
+    },
+    {
+      "from": 409.06,
+      "to": 410.62,
+      "sid": 211,
+      "location": 2,
+      "content": "曾经遇到了什么失败",
+      "music": 0.0
+    },
+    {
+      "from": 410.62,
+      "to": 413.63,
+      "sid": 212,
+      "location": 2,
+      "content": "以及那些开店失败的人现在在做什么",
+      "music": 0.0
+    },
+    {
+      "from": 413.63,
+      "to": 415.15,
+      "sid": 213,
+      "location": 2,
+      "content": "针对线性思维的人",
+      "music": 0.0
+    },
+    {
+      "from": 415.15,
+      "to": 418.31,
+      "sid": 214,
+      "location": 2,
+      "content": "我的建议是用变量思维和正反面思维",
+      "music": 0.0
+    },
+    {
+      "from": 418.31,
+      "to": 419.98,
+      "sid": 215,
+      "location": 2,
+      "content": "代替线性思维",
+      "music": 0.0
+    },
+    {
+      "from": 419.98,
+      "to": 421.98,
+      "sid": 216,
+      "location": 2,
+      "content": "最后一类不适合创业的人",
+      "music": 0.0
+    },
+    {
+      "from": 421.98,
+      "to": 423.5,
+      "sid": 217,
+      "location": 2,
+      "content": "是缺少执行力的人",
+      "music": 0.0
+    },
+    {
+      "from": 423.5,
+      "to": 425.92,
+      "sid": 218,
+      "location": 2,
+      "content": "其实有些老板之所以会对你说出",
+      "music": 0.0
+    },
+    {
+      "from": 425.92,
+      "to": 427.26,
+      "sid": 219,
+      "location": 2,
+      "content": "你连打工都打不好",
+      "music": 0.0
+    },
+    {
+      "from": 427.26,
+      "to": 428.34,
+      "sid": 220,
+      "location": 2,
+      "content": "就别老想着创业",
+      "music": 0.0
+    },
+    {
+      "from": 428.34,
+      "to": 431.32,
+      "sid": 221,
+      "location": 2,
+      "content": "这样的话是因为他们看不到你的执行力",
+      "music": 0.0
+    },
+    {
+      "from": 431.32,
+      "to": 432.44,
+      "sid": 222,
+      "location": 2,
+      "content": "如果你去上班",
+      "music": 0.0
+    },
+    {
+      "from": 432.44,
+      "to": 435.6,
+      "sid": 223,
+      "location": 2,
+      "content": "起码还会有人在后面拿着鞭子抽着你干活",
+      "music": 0.0
+    },
+    {
+      "from": 435.6,
+      "to": 436.92,
+      "sid": 224,
+      "location": 2,
+      "content": "但如果你自己单干",
+      "music": 0.0
+    },
+    {
+      "from": 436.92,
+      "to": 438.04,
+      "sid": 225,
+      "location": 2,
+      "content": "缺少执行力",
+      "music": 0.0
+    },
+    {
+      "from": 438.04,
+      "to": 439.86,
+      "sid": 226,
+      "location": 2,
+      "content": "会成为你最大的缺陷",
+      "music": 0.0
+    },
+    {
+      "from": 439.86,
+      "to": 440.84,
+      "sid": 227,
+      "location": 2,
+      "content": "打工也好",
+      "music": 0.0
+    },
+    {
+      "from": 440.84,
+      "to": 441.5,
+      "sid": 228,
+      "location": 2,
+      "content": "创业也好",
+      "music": 0.0
+    },
+    {
+      "from": 441.5,
+      "to": 442.44,
+      "sid": 229,
+      "location": 2,
+      "content": "都是一份工作",
+      "music": 0.0
+    },
+    {
+      "from": 442.44,
+      "to": 444.26,
+      "sid": 230,
+      "location": 2,
+      "content": "工作的重点在于做",
+      "music": 0.0
+    },
+    {
+      "from": 444.26,
+      "to": 445.62,
+      "sid": 231,
+      "location": 2,
+      "content": "缺少执行力的人",
+      "music": 0.0
+    },
+    {
+      "from": 445.62,
+      "to": 447.18,
+      "sid": 232,
+      "location": 2,
+      "content": "其实不适合任何工作",
+      "music": 0.0
+    },
+    {
+      "from": 447.18,
+      "to": 448.82,
+      "sid": 233,
+      "location": 2,
+      "content": "本质上你也不适合打工",
+      "music": 0.0
+    },
+    {
+      "from": 448.82,
+      "to": 450.07,
+      "sid": 234,
+      "location": 2,
+      "content": "但你只能打工",
+      "music": 0.0
+    },
+    {
+      "from": 450.07,
+      "to": 454.05,
+      "sid": 235,
+      "location": 2,
+      "content": "我看有的博主会给想创业的人推荐创业书籍",
+      "music": 0.0
+    },
+    {
+      "from": 454.05,
+      "to": 457.11,
+      "sid": 236,
+      "location": 2,
+      "content": "但是创业前你读再多的书都没用",
+      "music": 0.0
+    },
+    {
+      "from": 457.11,
+      "to": 458.25,
+      "sid": 237,
+      "location": 2,
+      "content": "先去实践",
+      "music": 0.0
+    },
+    {
+      "from": 458.25,
+      "to": 460.07,
+      "sid": 238,
+      "location": 2,
+      "content": "实践中遇到问题再读书",
+      "music": 0.0
+    },
+    {
+      "from": 460.07,
+      "to": 461.669,
+      "sid": 239,
+      "location": 2,
+      "content": "读书才能长认知",
+      "music": 0.0
+    },
+    {
+      "from": 461.669,
+      "to": 463.029,
+      "sid": 240,
+      "location": 2,
+      "content": "如果你什么都不干",
+      "music": 0.0
+    },
+    {
+      "from": 463.029,
+      "to": 463.829,
+      "sid": 241,
+      "location": 2,
+      "content": "光读书的话",
+      "music": 0.0
+    },
+    {
+      "from": 463.829,
+      "to": 465.349,
+      "sid": 242,
+      "location": 2,
+      "content": "那读书只能长知识",
+      "music": 0.0
+    },
+    {
+      "from": 465.349,
+      "to": 466.249,
+      "sid": 243,
+      "location": 2,
+      "content": "长不了认知",
+      "music": 0.0
+    },
+    {
+      "from": 466.249,
+      "to": 468.049,
+      "sid": 244,
+      "location": 2,
+      "content": "因为工作和哲学不一样",
+      "music": 0.0
+    },
+    {
+      "from": 468.049,
+      "to": 469.95,
+      "sid": 245,
+      "location": 2,
+      "content": "哲学家想到就是做到",
+      "music": 0.0
+    },
+    {
+      "from": 469.95,
+      "to": 471.19,
+      "sid": 246,
+      "location": 2,
+      "content": "但是面对工作",
+      "music": 0.0
+    },
+    {
+      "from": 471.19,
+      "to": 473.659,
+      "sid": 247,
+      "location": 2,
+      "content": "你在做的那一刻才开始记分儿",
+      "music": 0.0
+    },
+    {
+      "from": 473.659,
+      "to": 475.559,
+      "sid": 248,
+      "location": 2,
+      "content": "因为我主页是做新媒体的嘛",
+      "music": 0.0
+    },
+    {
+      "from": 475.559,
+      "to": 478.21,
+      "sid": 249,
+      "location": 2,
+      "content": "之前发过两期自媒体相关的内容",
+      "music": 0.0
+    },
+    {
+      "from": 478.21,
+      "to": 480.17,
+      "sid": 250,
+      "location": 2,
+      "content": "结果私信我的用户当中",
+      "music": 0.0
+    },
+    {
+      "from": 480.17,
+      "to": 482.81,
+      "sid": 251,
+      "location": 2,
+      "content": "80%的人一上来就问边大娘",
+      "music": 0.0
+    },
+    {
+      "from": 482.81,
+      "to": 483.49,
+      "sid": 252,
+      "location": 2,
+      "content": "我时间多",
+      "music": 0.0
+    },
+    {
+      "from": 483.49,
+      "to": 484.61,
+      "sid": 253,
+      "location": 2,
+      "content": "我要做什么账号",
+      "music": 0.0
+    },
+    {
+      "from": 484.61,
+      "to": 485.99,
+      "sid": 254,
+      "location": 2,
+      "content": "边大娘私域怎么做",
+      "music": 0.0
+    },
+    {
+      "from": 485.99,
+      "to": 487.47,
+      "sid": 255,
+      "location": 2,
+      "content": "边大娘账号怎么起",
+      "music": 0.0
+    },
+    {
+      "from": 487.47,
+      "to": 489.13,
+      "sid": 256,
+      "location": 2,
+      "content": "只要对方问出这句话",
+      "music": 0.0
+    },
+    {
+      "from": 489.13,
+      "to": 490.85,
+      "sid": 257,
+      "location": 2,
+      "content": "他就一定做不成自媒体",
+      "music": 0.0
+    },
+    {
+      "from": 490.85,
+      "to": 493.31,
+      "sid": 258,
+      "location": 2,
+      "content": "因为有执行力的人早就开始做了",
+      "music": 0.0
+    },
+    {
+      "from": 493.31,
+      "to": 495.59,
+      "sid": 259,
+      "location": 2,
+      "content": "他们会带着具体问题来问我",
+      "music": 0.0
+    },
+    {
+      "from": 495.59,
+      "to": 498.19,
+      "sid": 260,
+      "location": 2,
+      "content": "还有我之前调研客户购买意愿的时候",
+      "music": 0.0
+    },
+    {
+      "from": 498.19,
+      "to": 499.87,
+      "sid": 261,
+      "location": 2,
+      "content": "发现一个很有意思的现象",
+      "music": 0.0
+    },
+    {
+      "from": 499.87,
+      "to": 503.14,
+      "sid": 262,
+      "location": 2,
+      "content": "就是无论几百块的东西还是几万块的东西",
+      "music": 0.0
+    },
+    {
+      "from": 503.14,
+      "to": 506.78,
+      "sid": 263,
+      "location": 2,
+      "content": "那些在调研的时候表达出强烈购买意愿的客户",
+      "music": 0.0
+    },
+    {
+      "from": 506.78,
+      "to": 509.4,
+      "sid": 264,
+      "location": 2,
+      "content": "到了下单的那一刻都开始找理由",
+      "music": 0.0
+    },
+    {
+      "from": 509.4,
+      "to": 511.34,
+      "sid": 265,
+      "location": 2,
+      "content": "因为没做出动作之前",
+      "music": 0.0
+    },
+    {
+      "from": 511.34,
+      "to": 514.38,
+      "sid": 266,
+      "location": 2,
+      "content": "他们的想法很可能和最后的行为不一致",
+      "music": 0.0
+    },
+    {
+      "from": 514.38,
+      "to": 515.82,
+      "sid": 267,
+      "location": 2,
+      "content": "所以不用想那么多",
+      "music": 0.0
+    },
+    {
+      "from": 515.82,
+      "to": 516.54,
+      "sid": 268,
+      "location": 2,
+      "content": "先去做",
+      "music": 0.0
+    },
+    {
+      "from": 516.54,
+      "to": 519.03,
+      "sid": 269,
+      "location": 2,
+      "content": "做了之后很可能想法就变了",
+      "music": 0.0
+    },
+    {
+      "from": 519.03,
+      "to": 521.55,
+      "sid": 270,
+      "location": 2,
+      "content": "另外在调研方面也得出一个结论",
+      "music": 0.0
+    },
+    {
+      "from": 521.55,
+      "to": 523.81,
+      "sid": 271,
+      "location": 2,
+      "content": "那就是调研想法没有意义",
+      "music": 0.0
+    },
+    {
+      "from": 523.81,
+      "to": 525.829,
+      "sid": 272,
+      "location": 2,
+      "content": "调研行为才有意义",
+      "music": 0.0
+    },
+    {
+      "from": 525.829,
+      "to": 527.609,
+      "sid": 273,
+      "location": 2,
+      "content": "针对缺少执行力的人",
+      "music": 0.0
+    },
+    {
+      "from": 527.609,
+      "to": 529.969,
+      "sid": 274,
+      "location": 2,
+      "content": "我的理想建议是先做再学",
+      "music": 0.0
+    },
+    {
+      "from": 529.969,
+      "to": 531.21,
+      "sid": 275,
+      "location": 2,
+      "content": "或者边做边学",
+      "music": 0.0
+    },
+    {
+      "from": 531.21,
+      "to": 534.77,
+      "sid": 276,
+      "location": 2,
+      "content": "但是鉴于我见过的大多数缺少执行力的人",
+      "music": 0.0
+    },
+    {
+      "from": 534.77,
+      "to": 536.67,
+      "sid": 277,
+      "location": 2,
+      "content": "他们到最后还是没有执行力",
+      "music": 0.0
+    },
+    {
+      "from": 536.67,
+      "to": 539.99,
+      "sid": 278,
+      "location": 2,
+      "content": "所以现实层面我的建议是好好上班",
+      "music": 0.0
+    },
+    {
+      "from": 539.99,
+      "to": 542.19,
+      "sid": 279,
+      "location": 2,
+      "content": "OK今天就分享到这里",
+      "music": 0.0
+    },
+    {
+      "from": 542.19,
+      "to": 544.59,
+      "sid": 280,
+      "location": 2,
+      "content": "今天讲了不适合创业的三类人",
+      "music": 0.0
+    },
+    {
+      "from": 544.59,
+      "to": 546.35,
+      "sid": 281,
+      "location": 2,
+      "content": "分别是钱上all in",
+      "music": 0.0
+    },
+    {
+      "from": 546.35,
+      "to": 547.85,
+      "sid": 282,
+      "location": 2,
+      "content": "但是事情不all in的人",
+      "music": 0.0
+    },
+    {
+      "from": 547.85,
+      "to": 550.56,
+      "sid": 283,
+      "location": 2,
+      "content": "线性思维的人和缺少执行力的人",
+      "music": 0.0
+    },
+    {
+      "from": 550.56,
+      "to": 553.73,
+      "sid": 284,
+      "location": 2,
+      "content": "第一打工不行的人未必不适合创业",
+      "music": 0.0
+    },
+    {
+      "from": 553.73,
+      "to": 556.51,
+      "sid": 285,
+      "location": 2,
+      "content": "打工需要搞定人或者搞定事儿的能力",
+      "music": 0.0
+    },
+    {
+      "from": 556.51,
+      "to": 558.41,
+      "sid": 286,
+      "location": 2,
+      "content": "创业需要搞定钱的能力",
+      "music": 0.0
+    },
+    {
+      "from": 558.41,
+      "to": 560.16,
+      "sid": 287,
+      "location": 2,
+      "content": "需要的能力模型不同",
+      "music": 0.0
+    },
+    {
+      "from": 560.16,
+      "to": 562.98,
+      "sid": 288,
+      "location": 2,
+      "content": "第二不要误会all in创业的意思",
+      "music": 0.0
+    },
+    {
+      "from": 562.98,
+      "to": 564.68,
+      "sid": 289,
+      "location": 2,
+      "content": "它指的是事情上all in",
+      "music": 0.0
+    },
+    {
+      "from": 564.68,
+      "to": 566.08,
+      "sid": 290,
+      "location": 2,
+      "content": "而不是钱上all in",
+      "music": 0.0
+    },
+    {
+      "from": 566.08,
+      "to": 567.22,
+      "sid": 291,
+      "location": 2,
+      "content": "在钱方面",
+      "music": 0.0
+    },
+    {
+      "from": 567.22,
+      "to": 570.76,
+      "sid": 292,
+      "location": 2,
+      "content": "贷款创业只适合背景很好或者一无所有的人",
+      "music": 0.0
+    },
+    {
+      "from": 570.76,
+      "to": 574.27,
+      "sid": 293,
+      "location": 2,
+      "content": "普通人最好把钱五等分来增加试错机会",
+      "music": 0.0
+    },
+    {
+      "from": 574.27,
+      "to": 575.37,
+      "sid": 294,
+      "location": 2,
+      "content": "在事情方面",
+      "music": 0.0
+    },
+    {
+      "from": 575.37,
+      "to": 577.39,
+      "sid": 295,
+      "location": 2,
+      "content": "all in的办法是提升专注度",
+      "music": 0.0
+    },
+    {
+      "from": 577.39,
+      "to": 580.79,
+      "sid": 296,
+      "location": 2,
+      "content": "做好一件事儿以及用钱解决效率问题",
+      "music": 0.0
+    },
+    {
+      "from": 580.79,
+      "to": 582.11,
+      "sid": 297,
+      "location": 2,
+      "content": "而不是懒的问题",
+      "music": 0.0
+    },
+    {
+      "from": 582.11,
+      "to": 586.31,
+      "sid": 298,
+      "location": 2,
+      "content": "第三用变量思维和正反面思维代替线性思维",
+      "music": 0.0
+    },
+    {
+      "from": 586.31,
+      "to": 588.89,
+      "sid": 299,
+      "location": 2,
+      "content": "线性思维的人只能看到单一变量",
+      "music": 0.0
+    },
+    {
+      "from": 588.89,
+      "to": 591.62,
+      "sid": 300,
+      "location": 2,
+      "content": "但成功是由多个变量组成的",
+      "music": 0.0
+    },
+    {
+      "from": 591.62,
+      "to": 593.66,
+      "sid": 301,
+      "location": 2,
+      "content": "线性思维的人只能看到利好",
+      "music": 0.0
+    },
+    {
+      "from": 593.66,
+      "to": 596.41,
+      "sid": 302,
+      "location": 2,
+      "content": "但成功的背后还有失败的代价",
+      "music": 0.0
+    },
+    {
+      "from": 596.41,
+      "to": 599.17,
+      "sid": 303,
+      "location": 2,
+      "content": "第四缺少执行力的人不适合打工",
+      "music": 0.0
+    },
+    {
+      "from": 599.17,
+      "to": 600.09,
+      "sid": 304,
+      "location": 2,
+      "content": "也不适合创业",
+      "music": 0.0
+    },
+    {
+      "from": 600.09,
+      "to": 601.12,
+      "sid": 305,
+      "location": 2,
+      "content": "但只能打工",
+      "music": 0.0
+    },
+    {
+      "from": 601.12,
+      "to": 602.84,
+      "sid": 306,
+      "location": 2,
+      "content": "建议先做再学",
+      "music": 0.0
+    },
+    {
+      "from": 602.84,
+      "to": 603.96,
+      "sid": 307,
+      "location": 2,
+      "content": "或者边做边学",
+      "music": 0.0
+    },
+    {
+      "from": 603.96,
+      "to": 605.32,
+      "sid": 308,
+      "location": 2,
+      "content": "这样才能长认知",
+      "music": 0.0
+    },
+    {
+      "from": 605.32,
+      "to": 606.88,
+      "sid": 309,
+      "location": 2,
+      "content": "但如果实在做不下去",
+      "music": 0.0
+    },
+    {
+      "from": 606.88,
+      "to": 607.95,
+      "sid": 310,
+      "location": 2,
+      "content": "就好好上班儿",
+      "music": 0.0
+    },
+    {
+      "from": 607.95,
+      "to": 608.91,
+      "sid": 311,
+      "location": 2,
+      "content": "我是贝大娘",
+      "music": 0.0
+    },
+    {
+      "from": 608.91,
+      "to": 610.65,
+      "sid": 312,
+      "location": 2,
+      "content": "只分享对生活有用的知识",
+      "music": 0.0
+    },
+    {
+      "from": 610.65,
+      "to": 611.45,
+      "sid": 313,
+      "location": 2,
+      "content": "感谢收听",
+      "music": 0.0
+    },
+    {
+      "from": 611.45,
+      "to": 612.36,
+      "sid": 314,
+      "location": 2,
+      "content": "下期再见",
+      "music": 0.0
+    }
+  ]
+}

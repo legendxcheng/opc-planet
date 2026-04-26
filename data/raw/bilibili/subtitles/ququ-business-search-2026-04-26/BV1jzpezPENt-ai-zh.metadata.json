@@ -1,0 +1,22 @@
+{
+  "bvid": "BV1jzpezPENt",
+  "cid": 32460835414,
+  "title": "曲曲：这篇内容巨干！商业居间人脉变现",
+  "owner_name": "曲星灿烂",
+  "status": "downloaded",
+  "reason": null,
+  "subtitle": {
+    "id": 1845730199267110656,
+    "lan": "ai-zh",
+    "lan_doc": "中文",
+    "is_lock": false,
+    "subtitle_url": "https://aisubtitle.hdslb.com/bfs/ai_subtitle/prod/11522397333408632460835414ddff02c1a0067421cbf91847a6be81f1",
+    "type": 1,
+    "id_str": "1845730199267110656",
+    "ai_type": 0,
+    "ai_status": 2
+  },
+  "raw_subtitle_path": "data\\raw\\bilibili\\subtitles\\ququ-business-search-2026-04-26\\BV1jzpezPENt-ai-zh.raw.json",
+  "text_path": "data\\raw\\bilibili\\subtitles\\ququ-business-search-2026-04-26\\BV1jzpezPENt-ai-zh.txt",
+  "metadata_path": "data\\raw\\bilibili\\subtitles\\ququ-business-search-2026-04-26\\BV1jzpezPENt-ai-zh.metadata.json"
+}

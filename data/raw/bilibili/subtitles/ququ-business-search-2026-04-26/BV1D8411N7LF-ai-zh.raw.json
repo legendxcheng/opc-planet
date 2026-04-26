@@ -1,0 +1,204 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.5.0.4",
+  "body": [
+    {
+      "from": 0.0,
+      "to": 3.57,
+      "sid": 1,
+      "location": 2,
+      "content": "他说的核心跟企业经营的本质是一样的",
+      "music": 0.0
+    },
+    {
+      "from": 3.57,
+      "to": 8.58,
+      "sid": 2,
+      "location": 2,
+      "content": "一大部分女生都是既要又要也要还要",
+      "music": 0.0
+    },
+    {
+      "from": 8.58,
+      "to": 10.41,
+      "sid": 3,
+      "location": 2,
+      "content": "她就帮人梳理清楚",
+      "music": 0.0
+    },
+    {
+      "from": 10.41,
+      "to": 11.51,
+      "sid": 4,
+      "location": 2,
+      "content": "只要一项",
+      "music": 0.0
+    },
+    {
+      "from": 11.51,
+      "to": 14.12,
+      "sid": 5,
+      "location": 2,
+      "content": "其他不要战略要聚焦",
+      "music": 0.0
+    },
+    {
+      "from": 14.76,
+      "to": 17.7,
+      "sid": 6,
+      "location": 2,
+      "content": "不管任何时候都要提升自己",
+      "music": 0.0
+    },
+    {
+      "from": 17.7,
+      "to": 19.87,
+      "sid": 7,
+      "location": 2,
+      "content": "打造核心竞争力",
+      "music": 0.0
+    },
+    {
+      "from": 19.87,
+      "to": 22.06,
+      "sid": 8,
+      "location": 2,
+      "content": "三输出产品",
+      "music": 0.0
+    },
+    {
+      "from": 22.06,
+      "to": 26.05,
+      "sid": 9,
+      "location": 2,
+      "content": "情绪价值是几乎每个男生都要的产品",
+      "music": 0.0
+    },
+    {
+      "from": 26.05,
+      "to": 27.55,
+      "sid": 10,
+      "location": 2,
+      "content": "打磨好这个产品",
+      "music": 0.0
+    },
+    {
+      "from": 27.55,
+      "to": 28.54,
+      "sid": 11,
+      "location": 2,
+      "content": "受众广",
+      "music": 0.0
+    },
+    {
+      "from": 28.54,
+      "to": 29.53,
+      "sid": 12,
+      "location": 2,
+      "content": "价值高",
+      "music": 0.0
+    },
+    {
+      "from": 29.53,
+      "to": 32.26,
+      "sid": 13,
+      "location": 2,
+      "content": "如果目标客户正确",
+      "music": 0.0
+    },
+    {
+      "from": 32.26,
+      "to": 34.15,
+      "sid": 14,
+      "location": 2,
+      "content": "括号多金少渣",
+      "music": 0.0
+    },
+    {
+      "from": 34.15,
+      "to": 35.9,
+      "sid": 15,
+      "location": 2,
+      "content": "收益就会很大",
+      "music": 0.0
+    },
+    {
+      "from": 36.08,
+      "to": 39.26,
+      "sid": 16,
+      "location": 2,
+      "content": "战略清晰加打造核心竞争力",
+      "music": 0.0
+    },
+    {
+      "from": 39.26,
+      "to": 43.26,
+      "sid": 17,
+      "location": 2,
+      "content": "加产品力乘以高价值客户等于成功",
+      "music": 0.0
+    },
+    {
+      "from": 43.26,
+      "to": 45.95,
+      "sid": 18,
+      "location": 2,
+      "content": "他这个做的是战略咨询",
+      "music": 0.0
+    },
+    {
+      "from": 45.95,
+      "to": 50.87,
+      "sid": 19,
+      "location": 2,
+      "content": "以上呢就是这位创始人跟我的一个朋友说的",
+      "music": 0.0
+    },
+    {
+      "from": 50.87,
+      "to": 52.3,
+      "sid": 20,
+      "location": 2,
+      "content": "对我的直播评价",
+      "music": 0.0
+    },
+    {
+      "from": 52.46,
+      "to": 55.76,
+      "sid": 21,
+      "location": 2,
+      "content": "嗯这个这个几10亿美金的市值的创始人",
+      "music": 0.0
+    },
+    {
+      "from": 55.76,
+      "to": 57.02,
+      "sid": 22,
+      "location": 2,
+      "content": "他的品牌我一说出来",
+      "music": 0.0
+    },
+    {
+      "from": 57.02,
+      "to": 58.07,
+      "sid": 23,
+      "location": 2,
+      "content": "所有人都会知道",
+      "music": 0.0
+    },
+    {
+      "from": 58.07,
+      "to": 59.56,
+      "sid": 24,
+      "location": 2,
+      "content": "所以不能说他是谁",
+      "music": 0.0
+    }
+  ]
+}

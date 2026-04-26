@@ -1,0 +1,22 @@
+{
+  "bvid": "BV14w411D7qk",
+  "cid": 1255110698,
+  "title": "小白想要理解商业，从这十个问题开始",
+  "owner_name": "老蒋巨靠谱",
+  "status": "downloaded",
+  "reason": null,
+  "subtitle": {
+    "id": 1581439721949728768,
+    "lan": "ai-zh",
+    "lan_doc": "中文",
+    "is_lock": false,
+    "subtitle_url": "https://aisubtitle.hdslb.com/bfs/ai_subtitle/prod/11315916787646225666918694a3b216014dc89edcac5f099ec7d350ca",
+    "type": 1,
+    "id_str": "1581439721949728768",
+    "ai_type": 0,
+    "ai_status": 2
+  },
+  "raw_subtitle_path": "data\\raw\\bilibili\\subtitles\\ququ-business-search-2026-04-26\\BV14w411D7qk-ai-zh.raw.json",
+  "text_path": "data\\raw\\bilibili\\subtitles\\ququ-business-search-2026-04-26\\BV14w411D7qk-ai-zh.txt",
+  "metadata_path": "data\\raw\\bilibili\\subtitles\\ququ-business-search-2026-04-26\\BV14w411D7qk-ai-zh.metadata.json"
+}

@@ -1,0 +1,22 @@
+{
+  "bvid": "BV1fBubzHEbe",
+  "cid": 31089494073,
+  "title": "失业了，找不到工作怎么办？",
+  "owner_name": "边大娘FM",
+  "status": "downloaded",
+  "reason": null,
+  "subtitle": {
+    "id": 1606676723649415168,
+    "lan": "ai-zh",
+    "lan_doc": "中文",
+    "is_lock": false,
+    "subtitle_url": "https://aisubtitle.hdslb.com/bfs/ai_subtitle/prod/113356367205102264277235109c4c82416cf6f38bd4abdefa256f792a",
+    "type": 1,
+    "id_str": "1606676723649415168",
+    "ai_type": 1,
+    "ai_status": 2
+  },
+  "raw_subtitle_path": "data\\raw\\bilibili\\subtitles\\1900638792\\BV1fBubzHEbe-ai-zh.raw.json",
+  "text_path": "data\\raw\\bilibili\\subtitles\\1900638792\\BV1fBubzHEbe-ai-zh.txt",
+  "metadata_path": "data\\raw\\bilibili\\subtitles\\1900638792\\BV1fBubzHEbe-ai-zh.metadata.json"
+}

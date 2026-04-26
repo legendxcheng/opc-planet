@@ -1,0 +1,1892 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.08,
+      "to": 2.4,
+      "sid": 1,
+      "location": 2,
+      "content": "流量变现是一门可以被拆解",
+      "music": 0.0
+    },
+    {
+      "from": 2.4,
+      "to": 3.28,
+      "sid": 2,
+      "location": 2,
+      "content": "可以被学习",
+      "music": 0.0
+    },
+    {
+      "from": 3.28,
+      "to": 5.6,
+      "sid": 3,
+      "location": 2,
+      "content": "可以被复制的非常具体的一门技术",
+      "music": 0.0
+    },
+    {
+      "from": 5.6,
+      "to": 6.56,
+      "sid": 4,
+      "location": 2,
+      "content": "这东西不是玄学",
+      "music": 0.0
+    },
+    {
+      "from": 6.56,
+      "to": 8.9,
+      "sid": 5,
+      "location": 2,
+      "content": "那么绝大多数空有流量不赚钱的账号",
+      "music": 0.0
+    },
+    {
+      "from": 8.9,
+      "to": 9.54,
+      "sid": 6,
+      "location": 2,
+      "content": "他们在干什么呢",
+      "music": 0.0
+    },
+    {
+      "from": 9.54,
+      "to": 11.6,
+      "sid": 7,
+      "location": 2,
+      "content": "在干一件事情叫做告知",
+      "music": 0.0
+    },
+    {
+      "from": 11.6,
+      "to": 13.98,
+      "sid": 8,
+      "location": 2,
+      "content": "当你做告知类的这个内容多到一定的程度",
+      "music": 0.0
+    },
+    {
+      "from": 13.98,
+      "to": 14.94,
+      "sid": 9,
+      "location": 2,
+      "content": "你就变成一个工具人",
+      "music": 0.0
+    },
+    {
+      "from": 14.94,
+      "to": 16.66,
+      "sid": 10,
+      "location": 2,
+      "content": "账号就不会有人再愿意给你付钱了",
+      "music": 0.0
+    },
+    {
+      "from": 16.66,
+      "to": 18.22,
+      "sid": 11,
+      "location": 2,
+      "content": "这类内容的一个典型特征是",
+      "music": 0.0
+    },
+    {
+      "from": 18.22,
+      "to": 19.76,
+      "sid": 12,
+      "location": 2,
+      "content": "收藏的数量会大于点赞",
+      "music": 0.0
+    },
+    {
+      "from": 19.76,
+      "to": 21.34,
+      "sid": 13,
+      "location": 2,
+      "content": "比如很多做小红书的会来问我说",
+      "music": 0.0
+    },
+    {
+      "from": 21.34,
+      "to": 23.2,
+      "sid": 14,
+      "location": 2,
+      "content": "那个小红书主页不是显示一个指标吗",
+      "music": 0.0
+    },
+    {
+      "from": 23.2,
+      "to": 24.18,
+      "sid": 15,
+      "location": 2,
+      "content": "叫做获赞与收藏",
+      "music": 0.0
+    },
+    {
+      "from": 24.18,
+      "to": 25.82,
+      "sid": 16,
+      "location": 2,
+      "content": "他说我这个赞藏量特别高",
+      "music": 0.0
+    },
+    {
+      "from": 25.82,
+      "to": 27.18,
+      "sid": 17,
+      "location": 2,
+      "content": "为什么就是不涨幅不变现",
+      "music": 0.0
+    },
+    {
+      "from": 27.18,
+      "to": 29.02,
+      "sid": 18,
+      "location": 2,
+      "content": "我说你先别跟我提什么赞藏赞藏",
+      "music": 0.0
+    },
+    {
+      "from": 29.02,
+      "to": 30.2,
+      "sid": 19,
+      "location": 2,
+      "content": "我就讨厌听这个词啊",
+      "music": 0.0
+    },
+    {
+      "from": 30.2,
+      "to": 31.36,
+      "sid": 20,
+      "location": 2,
+      "content": "暂时赞藏是藏",
+      "music": 0.0
+    },
+    {
+      "from": 31.36,
+      "to": 32.4,
+      "sid": 21,
+      "location": 2,
+      "content": "你把这两个东西分开",
+      "music": 0.0
+    },
+    {
+      "from": 32.4,
+      "to": 32.92,
+      "sid": 22,
+      "location": 2,
+      "content": "不要搞什么",
+      "music": 0.0
+    },
+    {
+      "from": 32.92,
+      "to": 34.64,
+      "sid": 23,
+      "location": 2,
+      "content": "我跟马云平均一人有1000个亿",
+      "music": 0.0
+    },
+    {
+      "from": 34.64,
+      "to": 36.52,
+      "sid": 24,
+      "location": 2,
+      "content": "当你的点赞量高于收藏量的时候",
+      "music": 0.0
+    },
+    {
+      "from": 36.52,
+      "to": 38.64,
+      "sid": 25,
+      "location": 2,
+      "content": "我并不认为收藏数是一个负面的指标",
+      "music": 0.0
+    },
+    {
+      "from": 38.64,
+      "to": 40.58,
+      "sid": 26,
+      "location": 2,
+      "content": "因为你各个指标当然是同步增长的",
+      "music": 0.0
+    },
+    {
+      "from": 40.58,
+      "to": 42.7,
+      "sid": 27,
+      "location": 2,
+      "content": "但是如果你的收藏量高于点赞量",
+      "music": 0.0
+    },
+    {
+      "from": 42.7,
+      "to": 43.82,
+      "sid": 28,
+      "location": 2,
+      "content": "你收藏量再往上涨",
+      "music": 0.0
+    },
+    {
+      "from": 43.82,
+      "to": 44.82,
+      "sid": 29,
+      "location": 2,
+      "content": "我觉得意义就不大",
+      "music": 0.0
+    },
+    {
+      "from": 44.82,
+      "to": 47.06,
+      "sid": 30,
+      "location": 2,
+      "content": "因为很可能你在不能变现的这条道路上",
+      "music": 0.0
+    },
+    {
+      "from": 47.06,
+      "to": 47.96,
+      "sid": 31,
+      "location": 2,
+      "content": "越走越远了",
+      "music": 0.0
+    },
+    {
+      "from": 47.96,
+      "to": 49.44,
+      "sid": 32,
+      "location": 2,
+      "content": "包括有很多说想对标",
+      "music": 0.0
+    },
+    {
+      "from": 49.44,
+      "to": 50.52,
+      "sid": 33,
+      "location": 2,
+      "content": "我做一个聊赚钱的账号",
+      "music": 0.0
+    },
+    {
+      "from": 50.52,
+      "to": 51.46,
+      "sid": 34,
+      "location": 2,
+      "content": "我打开那个账号一看",
+      "music": 0.0
+    },
+    {
+      "from": 51.46,
+      "to": 53.34,
+      "sid": 35,
+      "location": 2,
+      "content": "要不就是分享个某鱼的信息差",
+      "music": 0.0
+    },
+    {
+      "from": 53.34,
+      "to": 55.34,
+      "sid": 36,
+      "location": 2,
+      "content": "要不就说国外的这个某个油管大神",
+      "music": 0.0
+    },
+    {
+      "from": 55.34,
+      "to": 56.34,
+      "sid": 37,
+      "location": 2,
+      "content": "又分享了什么什么东西",
+      "music": 0.0
+    },
+    {
+      "from": 56.34,
+      "to": 57.3,
+      "sid": 38,
+      "location": 2,
+      "content": "就打开这个账号",
+      "music": 0.0
+    },
+    {
+      "from": 57.3,
+      "to": 59.7,
+      "sid": 39,
+      "location": 2,
+      "content": "一眼看过去就完全一副不可能赚钱的样子",
+      "music": 0.0
+    },
+    {
+      "from": 59.7,
+      "to": 60.28,
+      "sid": 40,
+      "location": 2,
+      "content": "因为什么呢",
+      "music": 0.0
+    },
+    {
+      "from": 60.28,
+      "to": 61.28,
+      "sid": 41,
+      "location": 2,
+      "content": "都在干一件事情",
+      "music": 0.0
+    },
+    {
+      "from": 61.28,
+      "to": 62.56,
+      "sid": 42,
+      "location": 2,
+      "content": "叫做信息传递",
+      "music": 0.0
+    },
+    {
+      "from": 62.56,
+      "to": 64.28,
+      "sid": 43,
+      "location": 2,
+      "content": "第一如果你做了一个账号",
+      "music": 0.0
+    },
+    {
+      "from": 64.28,
+      "to": 65.28,
+      "sid": 44,
+      "location": 2,
+      "content": "专门做信息传递",
+      "music": 0.0
+    },
+    {
+      "from": 65.28,
+      "to": 66.84,
+      "sid": 45,
+      "location": 2,
+      "content": "你绝对是一个彻头彻尾的工具人",
+      "music": 0.0
+    },
+    {
+      "from": 66.84,
+      "to": 68.36,
+      "sid": 46,
+      "location": 2,
+      "content": "账号不会有人愿意给你付钱",
+      "music": 0.0
+    },
+    {
+      "from": 68.36,
+      "to": 70.52,
+      "sid": 47,
+      "location": 2,
+      "content": "第二如果你这个账号本来就能变现",
+      "music": 0.0
+    },
+    {
+      "from": 70.52,
+      "to": 71.98,
+      "sid": 48,
+      "location": 2,
+      "content": "现在你往里面加了一些",
+      "music": 0.0
+    },
+    {
+      "from": 71.98,
+      "to": 74.94,
+      "sid": 49,
+      "location": 2,
+      "content": "只能基于别人的行为层去做信息传递的内容啊",
+      "music": 0.0
+    },
+    {
+      "from": 74.94,
+      "to": 76.02,
+      "sid": 50,
+      "location": 2,
+      "content": "叫做告知性的内容",
+      "music": 0.0
+    },
+    {
+      "from": 76.02,
+      "to": 79.22,
+      "sid": 51,
+      "location": 2,
+      "content": "这个内容会让别人对你的付费意愿大大降低",
+      "music": 0.0
+    },
+    {
+      "from": 79.22,
+      "to": 81.3,
+      "sid": 52,
+      "location": 2,
+      "content": "因为我认为你就是一个廉价的工具人",
+      "music": 0.0
+    },
+    {
+      "from": 81.3,
+      "to": 82.96,
+      "sid": 53,
+      "location": 2,
+      "content": "你不不值得让我给你付出那么多钱",
+      "music": 0.0
+    },
+    {
+      "from": 82.96,
+      "to": 83.96,
+      "sid": 54,
+      "location": 2,
+      "content": "那这个问题怎么解决",
+      "music": 0.0
+    },
+    {
+      "from": 83.96,
+      "to": 85.56,
+      "sid": 55,
+      "location": 2,
+      "content": "我拿我最近的一个案例来举个例子啊",
+      "music": 0.0
+    },
+    {
+      "from": 85.56,
+      "to": 87.8,
+      "sid": 56,
+      "location": 2,
+      "content": "是小红书的工作人员找我约了一个电话访谈",
+      "music": 0.0
+    },
+    {
+      "from": 87.8,
+      "to": 88.6,
+      "sid": 57,
+      "location": 2,
+      "content": "聊了一个多小时",
+      "music": 0.0
+    },
+    {
+      "from": 88.6,
+      "to": 90.4,
+      "sid": 58,
+      "location": 2,
+      "content": "然后我要把这个谈话的内容呢",
+      "music": 0.0
+    },
+    {
+      "from": 90.4,
+      "to": 91.88,
+      "sid": 59,
+      "location": 2,
+      "content": "整理成一个短视频发在小红书",
+      "music": 0.0
+    },
+    {
+      "from": 91.88,
+      "to": 94.36,
+      "sid": 60,
+      "location": 2,
+      "content": "结果发完之后有60多万的播放量",
+      "music": 0.0
+    },
+    {
+      "from": 94.36,
+      "to": 95.04,
+      "sid": 61,
+      "location": 2,
+      "content": "可能还不错啊",
+      "music": 0.0
+    },
+    {
+      "from": 95.04,
+      "to": 96.24,
+      "sid": 62,
+      "location": 2,
+      "content": "相当于抖音600多万了",
+      "music": 0.0
+    },
+    {
+      "from": 96.24,
+      "to": 97.56,
+      "sid": 63,
+      "location": 2,
+      "content": "那但是这种内容你要知道",
+      "music": 0.0
+    },
+    {
+      "from": 97.56,
+      "to": 99.58,
+      "sid": 64,
+      "location": 2,
+      "content": "他是最容易沦为信息传递的",
+      "music": 0.0
+    },
+    {
+      "from": 99.58,
+      "to": 101.88,
+      "sid": 65,
+      "location": 2,
+      "content": "因为我仅仅是把我们的这个通话记录",
+      "music": 0.0
+    },
+    {
+      "from": 101.88,
+      "to": 103.5,
+      "sid": 66,
+      "location": 2,
+      "content": "变成一个传话筒告诉你们而已",
+      "music": 0.0
+    },
+    {
+      "from": 103.5,
+      "to": 104.6,
+      "sid": 67,
+      "location": 2,
+      "content": "那我怎么解决这个问题",
+      "music": 0.0
+    },
+    {
+      "from": 104.6,
+      "to": 105.82,
+      "sid": 68,
+      "location": 2,
+      "content": "首先基础思路",
+      "music": 0.0
+    },
+    {
+      "from": 105.82,
+      "to": 107.66,
+      "sid": 69,
+      "location": 2,
+      "content": "所谓的信息传递对我的危害",
+      "music": 0.0
+    },
+    {
+      "from": 107.66,
+      "to": 109.54,
+      "sid": 70,
+      "location": 2,
+      "content": "指的是别人看过了我的内容之后",
+      "music": 0.0
+    },
+    {
+      "from": 109.54,
+      "to": 110.26,
+      "sid": 71,
+      "location": 2,
+      "content": "不愿意点赞",
+      "music": 0.0
+    },
+    {
+      "from": 110.26,
+      "to": 110.86,
+      "sid": 72,
+      "location": 2,
+      "content": "不愿意关注",
+      "music": 0.0
+    },
+    {
+      "from": 110.86,
+      "to": 111.66,
+      "sid": 73,
+      "location": 2,
+      "content": "不愿意付费",
+      "music": 0.0
+    },
+    {
+      "from": 111.66,
+      "to": 114.94,
+      "sid": 74,
+      "location": 2,
+      "content": "但是信息传递并不影响别人点开我的内容对吧",
+      "music": 0.0
+    },
+    {
+      "from": 114.94,
+      "to": 117.22,
+      "sid": 75,
+      "location": 2,
+      "content": "所以我在我的小红书的封面和标题",
+      "music": 0.0
+    },
+    {
+      "from": 117.22,
+      "to": 118.48,
+      "sid": 76,
+      "location": 2,
+      "content": "还有短视频的第一句话",
+      "music": 0.0
+    },
+    {
+      "from": 118.48,
+      "to": 120.14,
+      "sid": 77,
+      "location": 2,
+      "content": "连续三个地方强调",
+      "music": 0.0
+    },
+    {
+      "from": 120.14,
+      "to": 122.56,
+      "sid": 78,
+      "location": 2,
+      "content": "这是和官方沟通过后产生的内容",
+      "music": 0.0
+    },
+    {
+      "from": 122.56,
+      "to": 123.6,
+      "sid": 79,
+      "location": 2,
+      "content": "我不是路人甲",
+      "music": 0.0
+    },
+    {
+      "from": 123.6,
+      "to": 125.28,
+      "sid": 80,
+      "location": 2,
+      "content": "我的东西是有凭有据的",
+      "music": 0.0
+    },
+    {
+      "from": 125.28,
+      "to": 127.24,
+      "sid": 81,
+      "location": 2,
+      "content": "所以就算是做高数类内容",
+      "music": 0.0
+    },
+    {
+      "from": 127.24,
+      "to": 129.24,
+      "sid": 82,
+      "location": 2,
+      "content": "我也是平台上最稀缺的那一种",
+      "music": 0.0
+    },
+    {
+      "from": 129.24,
+      "to": 130.96,
+      "sid": 83,
+      "location": 2,
+      "content": "第二如果你看过我的原视频的话",
+      "music": 0.0
+    },
+    {
+      "from": 130.96,
+      "to": 133.12,
+      "sid": 84,
+      "location": 2,
+      "content": "你会发现每次我做信息传递之后",
+      "music": 0.0
+    },
+    {
+      "from": 133.12,
+      "to": 134.08,
+      "sid": 85,
+      "location": 2,
+      "content": "紧接着第二句话",
+      "music": 0.0
+    },
+    {
+      "from": 134.08,
+      "to": 136.36,
+      "sid": 86,
+      "location": 2,
+      "content": "就一定是我对这件事情的认知是什么",
+      "music": 0.0
+    },
+    {
+      "from": 136.36,
+      "to": 137.76,
+      "sid": 87,
+      "location": 2,
+      "content": "比如说平台做了某个动作之后",
+      "music": 0.0
+    },
+    {
+      "from": 137.76,
+      "to": 139.02,
+      "sid": 88,
+      "location": 2,
+      "content": "会对创作者有什么影响",
+      "music": 0.0
+    },
+    {
+      "from": 139.02,
+      "to": 139.98,
+      "sid": 89,
+      "location": 2,
+      "content": "对于商家有什么影响",
+      "music": 0.0
+    },
+    {
+      "from": 139.98,
+      "to": 141.14,
+      "sid": 90,
+      "location": 2,
+      "content": "对于平台有什么影响",
+      "music": 0.0
+    },
+    {
+      "from": 141.14,
+      "to": 142.18,
+      "sid": 91,
+      "location": 2,
+      "content": "平台的顾虑又是什么",
+      "music": 0.0
+    },
+    {
+      "from": 142.18,
+      "to": 144.54,
+      "sid": 92,
+      "location": 2,
+      "content": "而这三者之间又构成了一个什么样的三角关系",
+      "music": 0.0
+    },
+    {
+      "from": 144.54,
+      "to": 145.82,
+      "sid": 93,
+      "location": 2,
+      "content": "这个是我的认知",
+      "music": 0.0
+    },
+    {
+      "from": 145.82,
+      "to": 148.32,
+      "sid": 94,
+      "location": 2,
+      "content": "而基于信息传递这个渠道去做认知",
+      "music": 0.0
+    },
+    {
+      "from": 148.32,
+      "to": 149.62,
+      "sid": 95,
+      "location": 2,
+      "content": "这个内容叫启发",
+      "music": 0.0
+    },
+    {
+      "from": 149.62,
+      "to": 151.86,
+      "sid": 96,
+      "location": 2,
+      "content": "启发是一个非常明确的",
+      "music": 0.0
+    },
+    {
+      "from": 151.86,
+      "to": 153.62,
+      "sid": 97,
+      "location": 2,
+      "content": "可以复刻的一个做内容的技巧",
+      "music": 0.0
+    },
+    {
+      "from": 153.62,
+      "to": 155.9,
+      "sid": 98,
+      "location": 2,
+      "content": "而你从告知升级为启发之后",
+      "music": 0.0
+    },
+    {
+      "from": 155.9,
+      "to": 158.22,
+      "sid": 99,
+      "location": 2,
+      "content": "这就构成了一个明确的让别人关注我的",
+      "music": 0.0
+    },
+    {
+      "from": 158.22,
+      "to": 159.66,
+      "sid": 100,
+      "location": 2,
+      "content": "理由是别人为什么关注你",
+      "music": 0.0
+    },
+    {
+      "from": 159.66,
+      "to": 160.74,
+      "sid": 101,
+      "location": 2,
+      "content": "是因为我怕我不关注你",
+      "music": 0.0
+    },
+    {
+      "from": 160.74,
+      "to": 161.88,
+      "sid": 102,
+      "location": 2,
+      "content": "下次刷我刷不到你了对吧",
+      "music": 0.0
+    },
+    {
+      "from": 161.88,
+      "to": 163.0,
+      "sid": 103,
+      "location": 2,
+      "content": "为什么担心刷不到你呢",
+      "music": 0.0
+    },
+    {
+      "from": 163.0,
+      "to": 164.12,
+      "sid": 104,
+      "location": 2,
+      "content": "是因为你足够稀缺对吧",
+      "music": 0.0
+    },
+    {
+      "from": 164.12,
+      "to": 165.34,
+      "sid": 105,
+      "location": 2,
+      "content": "那什么人是稀缺的",
+      "music": 0.0
+    },
+    {
+      "from": 165.34,
+      "to": 166.56,
+      "sid": 106,
+      "location": 2,
+      "content": "是不愿意讲认知的人",
+      "music": 0.0
+    },
+    {
+      "from": 166.56,
+      "to": 167.26,
+      "sid": 107,
+      "location": 2,
+      "content": "就是稀缺的",
+      "music": 0.0
+    },
+    {
+      "from": 167.26,
+      "to": 169.62,
+      "sid": 108,
+      "location": 2,
+      "content": "那么第三点还有一个狠招叫框架替换",
+      "music": 0.0
+    },
+    {
+      "from": 169.62,
+      "to": 170.1,
+      "sid": 109,
+      "location": 2,
+      "content": "什么意思",
+      "music": 0.0
+    },
+    {
+      "from": 170.1,
+      "to": 170.98,
+      "sid": 110,
+      "location": 2,
+      "content": "比如说有个人来问我",
+      "music": 0.0
+    },
+    {
+      "from": 170.98,
+      "to": 173.1,
+      "sid": 111,
+      "location": 2,
+      "content": "他说有人说是公寓是基本盘",
+      "music": 0.0
+    },
+    {
+      "from": 173.1,
+      "to": 174.34,
+      "sid": 112,
+      "location": 2,
+      "content": "有人说私域是基本盘",
+      "music": 0.0
+    },
+    {
+      "from": 174.34,
+      "to": 175.6,
+      "sid": 113,
+      "location": 2,
+      "content": "我对这个事我脑子乱了",
+      "music": 0.0
+    },
+    {
+      "from": 175.6,
+      "to": 176.32,
+      "sid": 114,
+      "location": 2,
+      "content": "我都不知道该怎么办了",
+      "music": 0.0
+    },
+    {
+      "from": 176.32,
+      "to": 177.62,
+      "sid": 115,
+      "location": 2,
+      "content": "好这个时候我就意识到一个问题",
+      "music": 0.0
+    },
+    {
+      "from": 177.62,
+      "to": 179.88,
+      "sid": 116,
+      "location": 2,
+      "content": "就这个人他脑子里有一套他自己的",
+      "music": 0.0
+    },
+    {
+      "from": 179.88,
+      "to": 181.04,
+      "sid": 117,
+      "location": 2,
+      "content": "对公寓和私域的理解",
+      "music": 0.0
+    },
+    {
+      "from": 181.04,
+      "to": 181.84,
+      "sid": 118,
+      "location": 2,
+      "content": "这个东西叫做什么呢",
+      "music": 0.0
+    },
+    {
+      "from": 181.84,
+      "to": 182.68,
+      "sid": 119,
+      "location": 2,
+      "content": "叫做一个框架",
+      "music": 0.0
+    },
+    {
+      "from": 182.68,
+      "to": 185.62,
+      "sid": 120,
+      "location": 2,
+      "content": "但这个框架不能解释他现在所遇到的问题",
+      "music": 0.0
+    },
+    {
+      "from": 185.62,
+      "to": 187.24,
+      "sid": 121,
+      "location": 2,
+      "content": "好你的旧框架不能解决问题",
+      "music": 0.0
+    },
+    {
+      "from": 187.24,
+      "to": 188.28,
+      "sid": 122,
+      "location": 2,
+      "content": "我给你提出一套新的框架",
+      "music": 0.0
+    },
+    {
+      "from": 188.28,
+      "to": 189.32,
+      "sid": 123,
+      "location": 2,
+      "content": "有兴趣大家可以翻一翻",
+      "music": 0.0
+    },
+    {
+      "from": 189.32,
+      "to": 191.46,
+      "sid": 124,
+      "location": 2,
+      "content": "我以前讲过一个公司用的逻辑叫成本分配",
+      "music": 0.0
+    },
+    {
+      "from": 191.46,
+      "to": 192.04,
+      "sid": 125,
+      "location": 2,
+      "content": "什么意思呢",
+      "music": 0.0
+    },
+    {
+      "from": 192.04,
+      "to": 194.42,
+      "sid": 126,
+      "location": 2,
+      "content": "我说你的消费者在遇到你之前",
+      "music": 0.0
+    },
+    {
+      "from": 194.42,
+      "to": 197.5,
+      "sid": 127,
+      "location": 2,
+      "content": "他完整的走过了从公寓到私域的这个完整逻辑",
+      "music": 0.0
+    },
+    {
+      "from": 197.5,
+      "to": 199.9,
+      "sid": 128,
+      "location": 2,
+      "content": "所以不管你的内容投放在公寓还是私域",
+      "music": 0.0
+    },
+    {
+      "from": 199.9,
+      "to": 201.2,
+      "sid": 129,
+      "location": 2,
+      "content": "他最终总是能看见的",
+      "music": 0.0
+    },
+    {
+      "from": 201.2,
+      "to": 202.8,
+      "sid": 130,
+      "location": 2,
+      "content": "所以你真正需要考虑的是",
+      "music": 0.0
+    },
+    {
+      "from": 202.8,
+      "to": 203.84,
+      "sid": 131,
+      "location": 2,
+      "content": "在你的资源有限",
+      "music": 0.0
+    },
+    {
+      "from": 203.84,
+      "to": 204.84,
+      "sid": 132,
+      "location": 2,
+      "content": "成本有限的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 204.84,
+      "to": 207.28,
+      "sid": 133,
+      "location": 2,
+      "content": "企业你做公司与两边的能力还不同的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 207.28,
+      "to": 210.12,
+      "sid": 134,
+      "location": 2,
+      "content": "你有限的东西放到公寓还是放到私域",
+      "music": 0.0
+    },
+    {
+      "from": 210.12,
+      "to": 210.86,
+      "sid": 135,
+      "location": 2,
+      "content": "放到哪一边",
+      "music": 0.0
+    },
+    {
+      "from": 210.86,
+      "to": 213.24,
+      "sid": 136,
+      "location": 2,
+      "content": "可以尽可能对更广的消费者",
+      "music": 0.0
+    },
+    {
+      "from": 213.24,
+      "to": 214.92,
+      "sid": 137,
+      "location": 2,
+      "content": "形成更强的心智影响",
+      "music": 0.0
+    },
+    {
+      "from": 214.92,
+      "to": 217.1,
+      "sid": 138,
+      "location": 2,
+      "content": "所以做公寓还是做私域是一个伪命题",
+      "music": 0.0
+    },
+    {
+      "from": 217.1,
+      "to": 220.16,
+      "sid": 139,
+      "location": 2,
+      "content": "真命题是把你有限的资源打到哪一个点上",
+      "music": 0.0
+    },
+    {
+      "from": 220.16,
+      "to": 222.06,
+      "sid": 140,
+      "location": 2,
+      "content": "对你当下而言性价比最高",
+      "music": 0.0
+    },
+    {
+      "from": 222.06,
+      "to": 223.18,
+      "sid": 141,
+      "location": 2,
+      "content": "而这个东西还是浮动的",
+      "music": 0.0
+    },
+    {
+      "from": 223.18,
+      "to": 224.38,
+      "sid": 142,
+      "location": 2,
+      "content": "有的时候是公允性价比高",
+      "music": 0.0
+    },
+    {
+      "from": 224.38,
+      "to": 225.46,
+      "sid": 143,
+      "location": 2,
+      "content": "有的时候私域性价比高",
+      "music": 0.0
+    },
+    {
+      "from": 225.46,
+      "to": 227.44,
+      "sid": 144,
+      "location": 2,
+      "content": "所以这个东西叫做成本分配逻辑",
+      "music": 0.0
+    },
+    {
+      "from": 227.44,
+      "to": 228.46,
+      "sid": 145,
+      "location": 2,
+      "content": "那讲完成本分配",
+      "music": 0.0
+    },
+    {
+      "from": 228.46,
+      "to": 229.64,
+      "sid": 146,
+      "location": 2,
+      "content": "我完成了一个什么事呢",
+      "music": 0.0
+    },
+    {
+      "from": 229.64,
+      "to": 232.2,
+      "sid": 147,
+      "location": 2,
+      "content": "对于我的观众完成了一个框架替换",
+      "music": 0.0
+    },
+    {
+      "from": 232.2,
+      "to": 233.8,
+      "sid": 148,
+      "location": 2,
+      "content": "而这个东西会在他脑子里卡",
+      "music": 0.0
+    },
+    {
+      "from": 233.8,
+      "to": 235.2,
+      "sid": 149,
+      "location": 2,
+      "content": "至少3~6个月不会动",
+      "music": 0.0
+    },
+    {
+      "from": 235.2,
+      "to": 236.0,
+      "sid": 150,
+      "location": 2,
+      "content": "原因是什么",
+      "music": 0.0
+    },
+    {
+      "from": 236.0,
+      "to": 237.24,
+      "sid": 151,
+      "location": 2,
+      "content": "如果我做信息传递",
+      "music": 0.0
+    },
+    {
+      "from": 237.24,
+      "to": 239.68,
+      "sid": 152,
+      "location": 2,
+      "content": "我担心的是这个东西给你传递过去之后",
+      "music": 0.0
+    },
+    {
+      "from": 239.68,
+      "to": 242.6,
+      "sid": 153,
+      "location": 2,
+      "content": "因为你没有合适的场景去反复调用这个知识",
+      "music": 0.0
+    },
+    {
+      "from": 242.6,
+      "to": 243.88,
+      "sid": 154,
+      "location": 2,
+      "content": "所以你总是要遗忘的人",
+      "music": 0.0
+    },
+    {
+      "from": 243.88,
+      "to": 245.32,
+      "sid": 155,
+      "location": 2,
+      "content": "都有一个遗忘曲线对吧",
+      "music": 0.0
+    },
+    {
+      "from": 245.32,
+      "to": 247.12,
+      "sid": 156,
+      "location": 2,
+      "content": "但是如果做了框架替换之后",
+      "music": 0.0
+    },
+    {
+      "from": 247.12,
+      "to": 249.28,
+      "sid": 157,
+      "location": 2,
+      "content": "你每次想起业务当中的这个问题",
+      "music": 0.0
+    },
+    {
+      "from": 249.28,
+      "to": 251.04,
+      "sid": 158,
+      "location": 2,
+      "content": "你都不得不用我这套框架",
+      "music": 0.0
+    },
+    {
+      "from": 251.04,
+      "to": 253.16,
+      "sid": 159,
+      "location": 2,
+      "content": "直到你找到另外一个世外高人",
+      "music": 0.0
+    },
+    {
+      "from": 253.16,
+      "to": 254.2,
+      "sid": 160,
+      "location": 2,
+      "content": "把你这个框架替换了",
+      "music": 0.0
+    },
+    {
+      "from": 254.2,
+      "to": 255.64,
+      "sid": 161,
+      "location": 2,
+      "content": "否则这个东西你是不得不用的",
+      "music": 0.0
+    },
+    {
+      "from": 255.64,
+      "to": 257.94,
+      "sid": 162,
+      "location": 2,
+      "content": "因为如如果你不用这套方式去思考这个问题",
+      "music": 0.0
+    },
+    {
+      "from": 257.94,
+      "to": 258.5,
+      "sid": 163,
+      "location": 2,
+      "content": "你讲不清楚",
+      "music": 0.0
+    },
+    {
+      "from": 258.5,
+      "to": 259.66,
+      "sid": 164,
+      "location": 2,
+      "content": "就跟牛顿三定律一样",
+      "music": 0.0
+    },
+    {
+      "from": 259.66,
+      "to": 261.06,
+      "sid": 165,
+      "location": 2,
+      "content": "我如果不用牛顿三定律",
+      "music": 0.0
+    },
+    {
+      "from": 261.06,
+      "to": 262.14,
+      "sid": 166,
+      "location": 2,
+      "content": "我怎么能想清楚",
+      "music": 0.0
+    },
+    {
+      "from": 262.14,
+      "to": 263.92,
+      "sid": 167,
+      "location": 2,
+      "content": "我的力和这个物体之间的关系呢",
+      "music": 0.0
+    },
+    {
+      "from": 263.92,
+      "to": 266.76,
+      "sid": 168,
+      "location": 2,
+      "content": "那一旦你可以基于认知层去给别人做框架",
+      "music": 0.0
+    },
+    {
+      "from": 266.76,
+      "to": 267.52,
+      "sid": 169,
+      "location": 2,
+      "content": "替换这个东西",
+      "music": 0.0
+    },
+    {
+      "from": 267.52,
+      "to": 269.06,
+      "sid": 170,
+      "location": 2,
+      "content": "就叫做植入这个词听起来不太好",
+      "music": 0.0
+    },
+    {
+      "from": 269.06,
+      "to": 269.14,
+      "sid": 171,
+      "location": 2,
+      "content": "好",
+      "music": 0.0
+    },
+    {
+      "from": 269.14,
+      "to": 270.1,
+      "sid": 172,
+      "location": 2,
+      "content": "好像给别人洗脑一样",
+      "music": 0.0
+    },
+    {
+      "from": 270.1,
+      "to": 271.14,
+      "sid": 173,
+      "location": 2,
+      "content": "但是在我的这个业务里",
+      "music": 0.0
+    },
+    {
+      "from": 271.14,
+      "to": 272.04,
+      "sid": 174,
+      "location": 2,
+      "content": "其实并没有什么不好",
+      "music": 0.0
+    },
+    {
+      "from": 272.04,
+      "to": 273.04,
+      "sid": 175,
+      "location": 2,
+      "content": "有些人觉得这个没用",
+      "music": 0.0
+    },
+    {
+      "from": 273.04,
+      "to": 273.8,
+      "sid": 176,
+      "location": 2,
+      "content": "你划走就可以了",
+      "music": 0.0
+    },
+    {
+      "from": 273.8,
+      "to": 274.8,
+      "sid": 177,
+      "location": 2,
+      "content": "我对社会也没什么危害",
+      "music": 0.0
+    },
+    {
+      "from": 274.8,
+      "to": 275.72,
+      "sid": 178,
+      "location": 2,
+      "content": "有些人觉得这个有用",
+      "music": 0.0
+    },
+    {
+      "from": 275.72,
+      "to": 277.04,
+      "sid": 179,
+      "location": 2,
+      "content": "那你就把这个思维模型记下来",
+      "music": 0.0
+    },
+    {
+      "from": 277.04,
+      "to": 278.32,
+      "sid": 180,
+      "location": 2,
+      "content": "它可以帮助你流量变现",
+      "music": 0.0
+    },
+    {
+      "from": 278.32,
+      "to": 280.2,
+      "sid": 181,
+      "location": 2,
+      "content": "那于我而言也可以帮助我涨粉",
+      "music": 0.0
+    },
+    {
+      "from": 280.2,
+      "to": 280.78,
+      "sid": 182,
+      "location": 2,
+      "content": "帮助我赚钱",
+      "music": 0.0
+    },
+    {
+      "from": 280.78,
+      "to": 281.94,
+      "sid": 183,
+      "location": 2,
+      "content": "所以我这是一套杨某",
+      "music": 0.0
+    },
+    {
+      "from": 281.94,
+      "to": 282.78,
+      "sid": 184,
+      "location": 2,
+      "content": "我是全公开的",
+      "music": 0.0
+    },
+    {
+      "from": 282.78,
+      "to": 283.62,
+      "sid": 185,
+      "location": 2,
+      "content": "基于这个认知层",
+      "music": 0.0
+    },
+    {
+      "from": 283.62,
+      "to": 284.82,
+      "sid": 186,
+      "location": 2,
+      "content": "如果再往里面挖一层",
+      "music": 0.0
+    },
+    {
+      "from": 284.82,
+      "to": 285.5,
+      "sid": 187,
+      "location": 2,
+      "content": "可以挖出什么呢",
+      "music": 0.0
+    },
+    {
+      "from": 285.5,
+      "to": 286.5,
+      "sid": 188,
+      "location": 2,
+      "content": "是人的本体层",
+      "music": 0.0
+    },
+    {
+      "from": 286.5,
+      "to": 287.34,
+      "sid": 189,
+      "location": 2,
+      "content": "就我今天讲的",
+      "music": 0.0
+    },
+    {
+      "from": 287.34,
+      "to": 289.54,
+      "sid": 190,
+      "location": 2,
+      "content": "不是说为什么你这套方法搞不到流量",
+      "music": 0.0
+    },
+    {
+      "from": 289.54,
+      "to": 290.02,
+      "sid": 191,
+      "location": 2,
+      "content": "赚不到钱",
+      "music": 0.0
+    },
+    {
+      "from": 290.02,
+      "to": 290.78,
+      "sid": 192,
+      "location": 2,
+      "content": "我跟你讲的是",
+      "music": 0.0
+    },
+    {
+      "from": 290.78,
+      "to": 293.0,
+      "sid": 193,
+      "location": 2,
+      "content": "为什么你是一个搞不到流量的人",
+      "music": 0.0
+    },
+    {
+      "from": 293.0,
+      "to": 294.88,
+      "sid": 194,
+      "location": 2,
+      "content": "为什么你是一个赚不到钱的人",
+      "music": 0.0
+    },
+    {
+      "from": 294.88,
+      "to": 296.58,
+      "sid": 195,
+      "location": 2,
+      "content": "那做这件事情我有两个结果",
+      "music": 0.0
+    },
+    {
+      "from": 296.58,
+      "to": 298.36,
+      "sid": 196,
+      "location": 2,
+      "content": "一种结果是你认为我在打压你",
+      "music": 0.0
+    },
+    {
+      "from": 298.36,
+      "to": 299.36,
+      "sid": 197,
+      "location": 2,
+      "content": "你认为我在PUA你",
+      "music": 0.0
+    },
+    {
+      "from": 299.36,
+      "to": 300.4,
+      "sid": 198,
+      "location": 2,
+      "content": "然后最后把我拉黑了",
+      "music": 0.0
+    },
+    {
+      "from": 300.4,
+      "to": 301.64,
+      "sid": 199,
+      "location": 2,
+      "content": "另外一种情况是",
+      "music": 0.0
+    },
+    {
+      "from": 301.64,
+      "to": 303.42,
+      "sid": 200,
+      "location": 2,
+      "content": "如果我们绕过了PUA的话术",
+      "music": 0.0
+    },
+    {
+      "from": 303.42,
+      "to": 306.08,
+      "sid": 201,
+      "location": 2,
+      "content": "我基于本体层对你完成了身份重建",
+      "music": 0.0
+    },
+    {
+      "from": 306.08,
+      "to": 307.88,
+      "sid": 202,
+      "location": 2,
+      "content": "我让你觉得我可以洗心革面",
+      "music": 0.0
+    },
+    {
+      "from": 307.88,
+      "to": 310.2,
+      "sid": 203,
+      "location": 2,
+      "content": "做成为另外一种人或另外一种活法了",
+      "music": 0.0
+    },
+    {
+      "from": 310.2,
+      "to": 312.12,
+      "sid": 204,
+      "location": 2,
+      "content": "接下来我卖货就是一马平川",
+      "music": 0.0
+    },
+    {
+      "from": 312.12,
+      "to": 313.56,
+      "sid": 205,
+      "location": 2,
+      "content": "我卖什么已经不重要了",
+      "music": 0.0
+    },
+    {
+      "from": 313.56,
+      "to": 315.84,
+      "sid": 206,
+      "location": 2,
+      "content": "所以你看到有一些线下的会场收入极高",
+      "music": 0.0
+    },
+    {
+      "from": 315.84,
+      "to": 318.76,
+      "sid": 207,
+      "location": 2,
+      "content": "以及在会场的很多人现场嚎啕大哭",
+      "music": 0.0
+    },
+    {
+      "from": 318.76,
+      "to": 319.24,
+      "sid": 208,
+      "location": 2,
+      "content": "哇哇哭",
+      "music": 0.0
+    },
+    {
+      "from": 319.24,
+      "to": 319.78,
+      "sid": 209,
+      "location": 2,
+      "content": "为什么呀",
+      "music": 0.0
+    },
+    {
+      "from": 319.78,
+      "to": 320.58,
+      "sid": 210,
+      "location": 2,
+      "content": "因为他不哭",
+      "music": 0.0
+    },
+    {
+      "from": 320.58,
+      "to": 321.7,
+      "sid": 211,
+      "location": 2,
+      "content": "这个收入就上不来",
+      "music": 0.0
+    },
+    {
+      "from": 321.7,
+      "to": 323.04,
+      "sid": 212,
+      "location": 2,
+      "content": "如果我跟你讨论的是",
+      "music": 0.0
+    },
+    {
+      "from": 323.04,
+      "to": 324.68,
+      "sid": 213,
+      "location": 2,
+      "content": "你的业务的行为层和认知层",
+      "music": 0.0
+    },
+    {
+      "from": 324.68,
+      "to": 326.5,
+      "sid": 214,
+      "location": 2,
+      "content": "你是不会因为我跟你讨论",
+      "music": 0.0
+    },
+    {
+      "from": 326.5,
+      "to": 327.54,
+      "sid": 215,
+      "location": 2,
+      "content": "你要不要做公司育儿",
+      "music": 0.0
+    },
+    {
+      "from": 327.54,
+      "to": 330.82,
+      "sid": 216,
+      "location": 2,
+      "content": "哭的一定是基于人的本底层进行了攻击",
+      "music": 0.0
+    },
+    {
+      "from": 330.82,
+      "to": 332.32,
+      "sid": 217,
+      "location": 2,
+      "content": "对他整个人进行了身份重建",
+      "music": 0.0
+    },
+    {
+      "from": 332.32,
+      "to": 334.14,
+      "sid": 218,
+      "location": 2,
+      "content": "我觉得我以前半辈子白活了",
+      "music": 0.0
+    },
+    {
+      "from": 334.14,
+      "to": 335.92,
+      "sid": 219,
+      "location": 2,
+      "content": "我是为我的人生而痛苦",
+      "music": 0.0
+    },
+    {
+      "from": 335.92,
+      "to": 336.54,
+      "sid": 220,
+      "location": 2,
+      "content": "我才会哭",
+      "music": 0.0
+    },
+    {
+      "from": 336.54,
+      "to": 338.02,
+      "sid": 221,
+      "location": 2,
+      "content": "那这种能快速收割的人呢",
+      "music": 0.0
+    },
+    {
+      "from": 338.02,
+      "to": 340.06,
+      "sid": 222,
+      "location": 2,
+      "content": "他的内容水平应该是在顶级的",
+      "music": 0.0
+    },
+    {
+      "from": 340.06,
+      "to": 342.42,
+      "sid": 223,
+      "location": 2,
+      "content": "只不过他的道德水平可能是在另外一个极端",
+      "music": 0.0
+    },
+    {
+      "from": 342.42,
+      "to": 342.66,
+      "sid": 224,
+      "location": 2,
+      "content": "对吧",
+      "music": 0.0
+    },
+    {
+      "from": 342.66,
+      "to": 344.3,
+      "sid": 225,
+      "location": 2,
+      "content": "但这不是我们今天要讨论的重点",
+      "music": 0.0
+    },
+    {
+      "from": 344.3,
+      "to": 345.06,
+      "sid": 226,
+      "location": 2,
+      "content": "我想说的是",
+      "music": 0.0
+    },
+    {
+      "from": 345.06,
+      "to": 347.26,
+      "sid": 227,
+      "location": 2,
+      "content": "表表面上做自媒体或者短视频文案",
+      "music": 0.0
+    },
+    {
+      "from": 347.26,
+      "to": 348.38,
+      "sid": 228,
+      "location": 2,
+      "content": "只是区区几个字",
+      "music": 0.0
+    },
+    {
+      "from": 348.38,
+      "to": 350.38,
+      "sid": 229,
+      "location": 2,
+      "content": "好像这只是一门很小的手艺而已",
+      "music": 0.0
+    },
+    {
+      "from": 350.38,
+      "to": 351.82,
+      "sid": 230,
+      "location": 2,
+      "content": "但这件事情的本质其实是",
+      "music": 0.0
+    },
+    {
+      "from": 351.82,
+      "to": 354.46,
+      "sid": 231,
+      "location": 2,
+      "content": "我们如何用语言和文字去构建",
+      "music": 0.0
+    },
+    {
+      "from": 354.46,
+      "to": 355.7,
+      "sid": 232,
+      "location": 2,
+      "content": "对于其他人的影响",
+      "music": 0.0
+    },
+    {
+      "from": 355.7,
+      "to": 357.74,
+      "sid": 233,
+      "location": 2,
+      "content": "而这里面的影响力分层有很多",
+      "music": 0.0
+    },
+    {
+      "from": 357.74,
+      "to": 358.34,
+      "sid": 234,
+      "location": 2,
+      "content": "很多层",
+      "music": 0.0
+    },
+    {
+      "from": 358.34,
+      "to": 361.22,
+      "sid": 235,
+      "location": 2,
+      "content": "远远不是这里面讲的三四层而已",
+      "music": 0.0
+    }
+  ]
+}

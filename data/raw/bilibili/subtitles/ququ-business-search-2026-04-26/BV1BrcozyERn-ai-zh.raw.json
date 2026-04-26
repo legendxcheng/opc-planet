@@ -1,0 +1,332 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.12,
+      "to": 1.48,
+      "sid": 1,
+      "location": 2,
+      "content": "无法改变现状",
+      "music": 0.0
+    },
+    {
+      "from": 1.48,
+      "to": 2.8,
+      "sid": 2,
+      "location": 2,
+      "content": "那就享受当下",
+      "music": 0.0
+    },
+    {
+      "from": 2.8,
+      "to": 4.92,
+      "sid": 3,
+      "location": 2,
+      "content": "别为了打翻的牛奶而哭泣",
+      "music": 0.0
+    },
+    {
+      "from": 4.92,
+      "to": 6.41,
+      "sid": 4,
+      "location": 2,
+      "content": "我虽然翻了车",
+      "music": 0.0
+    },
+    {
+      "from": 6.41,
+      "to": 8.59,
+      "sid": 5,
+      "location": 2,
+      "content": "但我和我最爱的人还活着",
+      "music": 0.0
+    },
+    {
+      "from": 8.59,
+      "to": 10.03,
+      "sid": 6,
+      "location": 2,
+      "content": "虽然生活碎了",
+      "music": 0.18749998697916734
+    },
+    {
+      "from": 10.03,
+      "to": 11.85,
+      "sid": 7,
+      "location": 2,
+      "content": "但西瓜是真的甜",
+      "music": 0.3248407436407179
+    },
+    {
+      "from": 11.85,
+      "to": 13.33,
+      "sid": 8,
+      "location": 2,
+      "content": "既然啤酒摔了",
+      "music": 0.0
+    },
+    {
+      "from": 13.33,
+      "to": 15.11,
+      "sid": 9,
+      "location": 2,
+      "content": "那就索性喝个痛快",
+      "music": 0.6666666290018863
+    },
+    {
+      "from": 15.11,
+      "to": 16.71,
+      "sid": 10,
+      "location": 2,
+      "content": "如果东西买贵了",
+      "music": 0.0
+    },
+    {
+      "from": 16.71,
+      "to": 19.539,
+      "sid": 11,
+      "location": 2,
+      "content": "那么多余的部分就是你为快乐买的单",
+      "music": 0.26097270616952495
+    },
+    {
+      "from": 19.539,
+      "to": 20.599,
+      "sid": 12,
+      "location": 2,
+      "content": "撒掉的牛奶",
+      "music": 0.0
+    },
+    {
+      "from": 20.599,
+      "to": 21.659,
+      "sid": 13,
+      "location": 2,
+      "content": "突发的意外",
+      "music": 0.0
+    },
+    {
+      "from": 21.659,
+      "to": 22.759,
+      "sid": 14,
+      "location": 2,
+      "content": "走散的爱人",
+      "music": 0.0
+    },
+    {
+      "from": 22.759,
+      "to": 24.02,
+      "sid": 15,
+      "location": 2,
+      "content": "断掉的友情",
+      "music": 0.0
+    },
+    {
+      "from": 24.02,
+      "to": 25.02,
+      "sid": 16,
+      "location": 2,
+      "content": "我的朋友",
+      "music": 0.2307692011834396
+    },
+    {
+      "from": 25.02,
+      "to": 26.92,
+      "sid": 17,
+      "location": 2,
+      "content": "不要因为做错一件事而胆怯",
+      "music": 0.0
+    },
+    {
+      "from": 26.92,
+      "to": 28.96,
+      "sid": 18,
+      "location": 2,
+      "content": "因为我做的错事比你还多",
+      "music": 0.06451612556364972
+    },
+    {
+      "from": 28.96,
+      "to": 31.34,
+      "sid": 19,
+      "location": 2,
+      "content": "因为误了火车而无比懊悔的人",
+      "music": 0.0
+    },
+    {
+      "from": 31.34,
+      "to": 33.11,
+      "sid": 20,
+      "location": 2,
+      "content": "还会错过下一班",
+      "music": 0.5641025279421454
+    },
+    {
+      "from": 33.11,
+      "to": 34.11,
+      "sid": 21,
+      "location": 2,
+      "content": "生气的时候",
+      "music": 0.0
+    },
+    {
+      "from": 34.11,
+      "to": 36.33,
+      "sid": 22,
+      "location": 2,
+      "content": "踢石头疼的是自己的脚",
+      "music": 0.2561576228493796
+    },
+    {
+      "from": 36.33,
+      "to": 38.73,
+      "sid": 23,
+      "location": 2,
+      "content": "有些人有些事只要你不在乎",
+      "music": 0.0
+    },
+    {
+      "from": 38.73,
+      "to": 39.67,
+      "sid": 24,
+      "location": 2,
+      "content": "就伤不到你",
+      "music": 0.24468082503395777
+    },
+    {
+      "from": 39.67,
+      "to": 40.65,
+      "sid": 25,
+      "location": 2,
+      "content": "木已成舟",
+      "music": 0.44897954602249446
+    },
+    {
+      "from": 40.65,
+      "to": 42.08,
+      "sid": 26,
+      "location": 2,
+      "content": "便要顺其自然",
+      "music": 0.3643410570278244
+    },
+    {
+      "from": 42.08,
+      "to": 43.6,
+      "sid": 27,
+      "location": 2,
+      "content": "这只是糟糕的一天",
+      "music": 0.0
+    },
+    {
+      "from": 43.6,
+      "to": 45.18,
+      "sid": 28,
+      "location": 2,
+      "content": "又不是糟糕的一生",
+      "music": 0.15999998933333537
+    },
+    {
+      "from": 45.18,
+      "to": 47.1,
+      "sid": 29,
+      "location": 2,
+      "content": "好的棋局要慢慢下",
+      "music": 0.5555555212620024
+    },
+    {
+      "from": 47.1,
+      "to": 48.16,
+      "sid": 30,
+      "location": 2,
+      "content": "才会有滋有味",
+      "music": 0.11320753648985984
+    },
+    {
+      "from": 48.16,
+      "to": 50.32,
+      "sid": 31,
+      "location": 2,
+      "content": "好的生活更要细细的品",
+      "music": 0.32323230690745886
+    },
+    {
+      "from": 50.32,
+      "to": 51.68,
+      "sid": 32,
+      "location": 2,
+      "content": "才会不虚此行",
+      "music": 0.5833332847222248
+    },
+    {
+      "from": 51.68,
+      "to": 52.8,
+      "sid": 33,
+      "location": 2,
+      "content": "♪ 人生如棋 ♪",
+      "music": 0.9999998913043597
+    },
+    {
+      "from": 52.8,
+      "to": 53.84,
+      "sid": 34,
+      "location": 2,
+      "content": "落子无悔",
+      "music": 0.6511627149810828
+    },
+    {
+      "from": 53.84,
+      "to": 55.44,
+      "sid": 35,
+      "location": 2,
+      "content": "♪ 人生不过3万天 ♪",
+      "music": 0.8933332737777839
+    },
+    {
+      "from": 55.44,
+      "to": 57.08,
+      "sid": 36,
+      "location": 2,
+      "content": "开心一天是一天",
+      "music": 0.0
+    },
+    {
+      "from": 57.08,
+      "to": 58.0,
+      "sid": 37,
+      "location": 2,
+      "content": "爱老虎",
+      "music": 0.0
+    },
+    {
+      "from": 58.0,
+      "to": 58.64,
+      "sid": 38,
+      "location": 2,
+      "content": "有宝贝",
+      "music": 0.0
+    },
+    {
+      "from": 58.64,
+      "to": 60.5,
+      "sid": 39,
+      "location": 2,
+      "content": "记得对自己好一点",
+      "music": 0.0
+    },
+    {
+      "from": 60.5,
+      "to": 62.76,
+      "sid": 40,
+      "location": 2,
+      "content": "♪ 今天开始生存 ♪",
+      "music": 0.9999999411764741
+    }
+  ]
+}

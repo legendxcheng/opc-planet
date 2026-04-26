@@ -1,0 +1,1292 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.9,
+      "to": 4.46,
+      "sid": 1,
+      "location": 2,
+      "content": "很多父母和孩子沟通更像是在驯化动物",
+      "music": 0.0
+    },
+    {
+      "from": 4.46,
+      "to": 4.74,
+      "sid": 2,
+      "location": 2,
+      "content": "诶",
+      "music": 0.0
+    },
+    {
+      "from": 4.74,
+      "to": 6.38,
+      "sid": 3,
+      "location": 2,
+      "content": "这萝卜咋没见你吃啊",
+      "music": 0.0
+    },
+    {
+      "from": 6.38,
+      "to": 7.75,
+      "sid": 4,
+      "location": 2,
+      "content": "我不爱吃萝卜",
+      "music": 0.0
+    },
+    {
+      "from": 7.75,
+      "to": 8.75,
+      "sid": 5,
+      "location": 2,
+      "content": "为啥不爱吃",
+      "music": 0.0
+    },
+    {
+      "from": 8.75,
+      "to": 9.55,
+      "sid": 6,
+      "location": 2,
+      "content": "萝卜有营养",
+      "music": 0.0
+    },
+    {
+      "from": 9.55,
+      "to": 10.83,
+      "sid": 7,
+      "location": 2,
+      "content": "我要吃别的菜啊",
+      "music": 0.0
+    },
+    {
+      "from": 10.83,
+      "to": 11.87,
+      "sid": 8,
+      "location": 2,
+      "content": "我辛辛苦苦给你做的",
+      "music": 0.0
+    },
+    {
+      "from": 11.87,
+      "to": 12.35,
+      "sid": 9,
+      "location": 2,
+      "content": "你不吃啊",
+      "music": 0.0
+    },
+    {
+      "from": 12.35,
+      "to": 14.09,
+      "sid": 10,
+      "location": 2,
+      "content": "我真的真不想吃啊",
+      "music": 0.0
+    },
+    {
+      "from": 14.09,
+      "to": 15.06,
+      "sid": 11,
+      "location": 2,
+      "content": "不知好歹啊",
+      "music": 0.0
+    },
+    {
+      "from": 15.06,
+      "to": 15.94,
+      "sid": 12,
+      "location": 2,
+      "content": "别人都能吃",
+      "music": 0.0
+    },
+    {
+      "from": 15.94,
+      "to": 17.12,
+      "sid": 13,
+      "location": 2,
+      "content": "你哪来的这个毛病",
+      "music": 0.0
+    },
+    {
+      "from": 17.12,
+      "to": 18.56,
+      "sid": 14,
+      "location": 2,
+      "content": "这种对话发展下去",
+      "music": 0.0
+    },
+    {
+      "from": 18.56,
+      "to": 19.56,
+      "sid": 15,
+      "location": 2,
+      "content": "要么大吵起来",
+      "music": 0.0
+    },
+    {
+      "from": 19.56,
+      "to": 21.08,
+      "sid": 16,
+      "location": 2,
+      "content": "一根萝卜引发的血案",
+      "music": 0.0
+    },
+    {
+      "from": 21.08,
+      "to": 23.72,
+      "sid": 17,
+      "location": 2,
+      "content": "要么孩子长记性了以后遇到类似情况",
+      "music": 0.0
+    },
+    {
+      "from": 23.72,
+      "to": 25.18,
+      "sid": 18,
+      "location": 2,
+      "content": "忍一忍也就吃了",
+      "music": 0.0
+    },
+    {
+      "from": 25.18,
+      "to": 27.6,
+      "sid": 19,
+      "location": 2,
+      "content": "这其实就是一种服从性测试",
+      "music": 0.0
+    },
+    {
+      "from": 27.6,
+      "to": 28.52,
+      "sid": 20,
+      "location": 2,
+      "content": "让孩子听话",
+      "music": 0.0
+    },
+    {
+      "from": 28.52,
+      "to": 29.62,
+      "sid": 21,
+      "location": 2,
+      "content": "不是以理服人",
+      "music": 0.0
+    },
+    {
+      "from": 29.62,
+      "to": 33.14,
+      "sid": 22,
+      "location": 2,
+      "content": "更像一种强制性训话",
+      "music": 0.0
+    },
+    {
+      "from": 34.96,
+      "to": 37.38,
+      "sid": 23,
+      "location": 2,
+      "content": "之前网上有一种恶心的视频",
+      "music": 0.0
+    },
+    {
+      "from": 37.38,
+      "to": 38.4,
+      "sid": 24,
+      "location": 2,
+      "content": "怎么喂大弟弟",
+      "music": 0.0
+    },
+    {
+      "from": 41.0,
+      "to": 43.95,
+      "sid": 25,
+      "location": 2,
+      "content": "啊你害的味道去哪",
+      "music": 0.40975607757287513
+    },
+    {
+      "from": 44.99,
+      "to": 47.979,
+      "sid": 26,
+      "location": 2,
+      "content": "什么味道要吃味道",
+      "music": 0.0
+    },
+    {
+      "from": 47.979,
+      "to": 50.179,
+      "sid": 27,
+      "location": 2,
+      "content": "父母不同意孩子养螃蟹宠物",
+      "music": 0.0
+    },
+    {
+      "from": 50.179,
+      "to": 51.4,
+      "sid": 28,
+      "location": 2,
+      "content": "然后把螃蟹给吃",
+      "music": 0.0
+    },
+    {
+      "from": 51.4,
+      "to": 52.6,
+      "sid": 29,
+      "location": 2,
+      "content": "还逼着孩子吃",
+      "music": 0.0
+    },
+    {
+      "from": 52.6,
+      "to": 53.8,
+      "sid": 30,
+      "location": 2,
+      "content": "孩子痛哭流涕",
+      "music": 0.0
+    },
+    {
+      "from": 53.8,
+      "to": 54.88,
+      "sid": 31,
+      "location": 2,
+      "content": "父母哈哈大笑",
+      "music": 0.0
+    },
+    {
+      "from": 54.88,
+      "to": 55.9,
+      "sid": 32,
+      "location": 2,
+      "content": "评论区也调侃",
+      "music": 0.0
+    },
+    {
+      "from": 55.9,
+      "to": 57.56,
+      "sid": 33,
+      "location": 2,
+      "content": "意思是孩子太可爱了",
+      "music": 0.0
+    },
+    {
+      "from": 57.56,
+      "to": 58.86,
+      "sid": 34,
+      "location": 2,
+      "content": "父母太损了",
+      "music": 0.0
+    },
+    {
+      "from": 58.86,
+      "to": 61.76,
+      "sid": 35,
+      "location": 2,
+      "content": "但这是很很多大人都会犯的错误",
+      "music": 0.0
+    },
+    {
+      "from": 61.76,
+      "to": 64.4,
+      "sid": 36,
+      "location": 2,
+      "content": "对孩子来说是天塌下来的事情",
+      "music": 0.0
+    },
+    {
+      "from": 64.4,
+      "to": 66.62,
+      "sid": 37,
+      "location": 2,
+      "content": "但家长觉得孩子不会记仇",
+      "music": 0.0
+    },
+    {
+      "from": 66.62,
+      "to": 68.56,
+      "sid": 38,
+      "location": 2,
+      "content": "孩子嘛缺心少肺",
+      "music": 0.0
+    },
+    {
+      "from": 68.56,
+      "to": 70.38,
+      "sid": 39,
+      "location": 2,
+      "content": "很快会忘孩子嘛",
+      "music": 0.0
+    },
+    {
+      "from": 70.38,
+      "to": 71.81,
+      "sid": 40,
+      "location": 2,
+      "content": "哪有完整的情绪啊",
+      "music": 0.0
+    },
+    {
+      "from": 71.81,
+      "to": 74.97,
+      "sid": 41,
+      "location": 2,
+      "content": "甚至有那种孩子被确诊抑郁症了",
+      "music": 0.0
+    },
+    {
+      "from": 74.97,
+      "to": 76.06,
+      "sid": 42,
+      "location": 2,
+      "content": "家长对医生说",
+      "music": 0.0
+    },
+    {
+      "from": 76.06,
+      "to": 78.1,
+      "sid": 43,
+      "location": 2,
+      "content": "小孩儿哪懂什么抑郁啊",
+      "music": 0.0
+    },
+    {
+      "from": 78.1,
+      "to": 81.6,
+      "sid": 44,
+      "location": 2,
+      "content": "本质是他们没把孩子当做是完整",
+      "music": 0.0
+    },
+    {
+      "from": 81.6,
+      "to": 83.7,
+      "sid": 45,
+      "location": 2,
+      "content": "先是爱不爱吃大人做的饭",
+      "music": 0.0
+    },
+    {
+      "from": 83.7,
+      "to": 86.64,
+      "sid": 46,
+      "location": 2,
+      "content": "然后穿衣是否符合大人审美",
+      "music": 0.0
+    },
+    {
+      "from": 86.64,
+      "to": 89.2,
+      "sid": 47,
+      "location": 2,
+      "content": "最后到选什么专业工作方向",
+      "music": 0.0
+    },
+    {
+      "from": 89.2,
+      "to": 92.74,
+      "sid": 48,
+      "location": 2,
+      "content": "把很多事都看作要纠正的坏毛病",
+      "music": 0.0
+    },
+    {
+      "from": 92.74,
+      "to": 94.32,
+      "sid": 49,
+      "location": 2,
+      "content": "不分特殊情况和原因",
+      "music": 0.0
+    },
+    {
+      "from": 94.32,
+      "to": 97.72,
+      "sid": 50,
+      "location": 2,
+      "content": "以至于很多人哪怕30岁经济自由了",
+      "music": 0.0
+    },
+    {
+      "from": 97.72,
+      "to": 99.08,
+      "sid": 51,
+      "location": 2,
+      "content": "买衣服稍微贵一点",
+      "music": 0.0
+    },
+    {
+      "from": 99.08,
+      "to": 99.56,
+      "sid": 52,
+      "location": 2,
+      "content": "想旅游",
+      "music": 0.0
+    },
+    {
+      "from": 99.56,
+      "to": 100.28,
+      "sid": 53,
+      "location": 2,
+      "content": "不看演唱会",
+      "music": 0.0
+    },
+    {
+      "from": 100.28,
+      "to": 102.56,
+      "sid": 54,
+      "location": 2,
+      "content": "类似事情还是尽量不和家里说",
+      "music": 0.0
+    },
+    {
+      "from": 102.56,
+      "to": 104.36,
+      "sid": 55,
+      "location": 2,
+      "content": "会被爸妈定义为乱花钱",
+      "music": 0.0
+    },
+    {
+      "from": 104.36,
+      "to": 104.84,
+      "sid": 56,
+      "location": 2,
+      "content": "坏毛病",
+      "music": 0.0
+    },
+    {
+      "from": 104.84,
+      "to": 106.17,
+      "sid": 57,
+      "location": 2,
+      "content": "解释起来太麻烦了",
+      "music": 0.0
+    },
+    {
+      "from": 106.17,
+      "to": 108.67,
+      "sid": 58,
+      "location": 2,
+      "content": "其次服从性测试下的家庭环境",
+      "music": 0.0
+    },
+    {
+      "from": 108.67,
+      "to": 110.14,
+      "sid": 59,
+      "location": 2,
+      "content": "很难有平等的沟通",
+      "music": 0.0
+    },
+    {
+      "from": 110.14,
+      "to": 111.86,
+      "sid": 60,
+      "location": 2,
+      "content": "底层逻辑是很多长辈",
+      "music": 0.0
+    },
+    {
+      "from": 111.86,
+      "to": 115.34,
+      "sid": 61,
+      "location": 2,
+      "content": "依赖自己在家庭中的权威和掌控力",
+      "music": 0.0
+    },
+    {
+      "from": 115.34,
+      "to": 118.68,
+      "sid": 62,
+      "location": 2,
+      "content": "将观点不和的沟通视作对权威的破坏",
+      "music": 0.0
+    },
+    {
+      "from": 118.68,
+      "to": 120.02,
+      "sid": 63,
+      "location": 2,
+      "content": "有时候很简单的道理",
+      "music": 0.0
+    },
+    {
+      "from": 120.02,
+      "to": 121.16,
+      "sid": 64,
+      "location": 2,
+      "content": "想和长辈说通",
+      "music": 0.0
+    },
+    {
+      "from": 121.16,
+      "to": 123.06,
+      "sid": 65,
+      "location": 2,
+      "content": "可一字一句传达起来",
+      "music": 0.0
+    },
+    {
+      "from": 123.06,
+      "to": 123.9,
+      "sid": 66,
+      "location": 2,
+      "content": "就那么难",
+      "music": 0.0
+    },
+    {
+      "from": 123.9,
+      "to": 124.8,
+      "sid": 67,
+      "location": 2,
+      "content": "家长口头禅",
+      "music": 0.0
+    },
+    {
+      "from": 124.8,
+      "to": 126.02,
+      "sid": 68,
+      "location": 2,
+      "content": "我不想听你解释",
+      "music": 0.0
+    },
+    {
+      "from": 126.02,
+      "to": 128.45,
+      "sid": 69,
+      "location": 2,
+      "content": "你就又委屈又愤怒一句",
+      "music": 0.0
+    },
+    {
+      "from": 128.45,
+      "to": 129.41,
+      "sid": 70,
+      "location": 2,
+      "content": "虽然叉叉叉",
+      "music": 0.0
+    },
+    {
+      "from": 129.41,
+      "to": 131.05,
+      "sid": 71,
+      "location": 2,
+      "content": "但不都是为你好",
+      "music": 0.0
+    },
+    {
+      "from": 131.05,
+      "to": 133.19,
+      "sid": 72,
+      "location": 2,
+      "content": "你哪怕站着脚也不好说啥",
+      "music": 0.0
+    },
+    {
+      "from": 133.19,
+      "to": 135.37,
+      "sid": 73,
+      "location": 2,
+      "content": "哪怕你都要说服对方了",
+      "music": 0.0
+    },
+    {
+      "from": 135.37,
+      "to": 136.46,
+      "sid": 74,
+      "location": 2,
+      "content": "还有最后一招",
+      "music": 0.0
+    },
+    {
+      "from": 136.46,
+      "to": 138.14,
+      "sid": 75,
+      "location": 2,
+      "content": "你就这个态度和长辈说话",
+      "music": 0.0
+    },
+    {
+      "from": 138.14,
+      "to": 139.42,
+      "sid": 76,
+      "location": 2,
+      "content": "道理说不过的时候",
+      "music": 0.0
+    },
+    {
+      "from": 139.42,
+      "to": 141.98,
+      "sid": 77,
+      "location": 2,
+      "content": "或者说到自己认知范围外的东西",
+      "music": 0.0
+    },
+    {
+      "from": 141.98,
+      "to": 143.26,
+      "sid": 78,
+      "location": 2,
+      "content": "就滥用自己的权威",
+      "music": 0.0
+    },
+    {
+      "from": 143.26,
+      "to": 144.88,
+      "sid": 79,
+      "location": 2,
+      "content": "把对方的口堵死",
+      "music": 0.0
+    },
+    {
+      "from": 144.88,
+      "to": 145.79,
+      "sid": 80,
+      "location": 2,
+      "content": "结束对方",
+      "music": 0.0
+    },
+    {
+      "from": 145.79,
+      "to": 148.59,
+      "sid": 81,
+      "location": 2,
+      "content": "那些接受不了认知以外事物的人",
+      "music": 0.0
+    },
+    {
+      "from": 148.59,
+      "to": 150.53,
+      "sid": 82,
+      "location": 2,
+      "content": "一旦掌控了巨大的话语权",
+      "music": 0.0
+    },
+    {
+      "from": 150.53,
+      "to": 151.75,
+      "sid": 83,
+      "location": 2,
+      "content": "会有多可怕",
+      "music": 0.0
+    },
+    {
+      "from": 151.75,
+      "to": 153.13,
+      "sid": 84,
+      "location": 2,
+      "content": "这就不得不提到",
+      "music": 0.0
+    },
+    {
+      "from": 153.13,
+      "to": 154.01,
+      "sid": 85,
+      "location": 2,
+      "content": "前段时间",
+      "music": 0.0
+    },
+    {
+      "from": 154.01,
+      "to": 155.12,
+      "sid": 86,
+      "location": 2,
+      "content": "叉叉英语创始人",
+      "music": 0.0
+    },
+    {
+      "from": 155.12,
+      "to": 158.14,
+      "sid": 87,
+      "location": 2,
+      "content": "教育家在直播中发表了争议性言论",
+      "music": 0.0
+    },
+    {
+      "from": 158.14,
+      "to": 159.12,
+      "sid": 88,
+      "location": 2,
+      "content": "游戏不谈好坏",
+      "music": 0.0
+    },
+    {
+      "from": 159.12,
+      "to": 160.56,
+      "sid": 89,
+      "location": 2,
+      "content": "一切游戏都是坏游戏",
+      "music": 0.0
+    },
+    {
+      "from": 160.56,
+      "to": 161.6,
+      "sid": 90,
+      "location": 2,
+      "content": "再往前追溯",
+      "music": 0.0
+    },
+    {
+      "from": 161.6,
+      "to": 164.44,
+      "sid": 91,
+      "location": 2,
+      "content": "他也这么形容过国内毕业生1000万",
+      "music": 0.0
+    },
+    {
+      "from": 164.44,
+      "to": 165.64,
+      "sid": 92,
+      "location": 2,
+      "content": "废物残缺不全的人",
+      "music": 0.0
+    },
+    {
+      "from": 165.64,
+      "to": 166.92,
+      "sid": 93,
+      "location": 2,
+      "content": "没有报国之心的人",
+      "music": 0.0
+    },
+    {
+      "from": 166.92,
+      "to": 167.96,
+      "sid": 94,
+      "location": 2,
+      "content": "很多人都看愣了",
+      "music": 0.0
+    },
+    {
+      "from": 167.96,
+      "to": 170.06,
+      "sid": 95,
+      "location": 2,
+      "content": "这堂堂教育家能说出这样的话",
+      "music": 0.0
+    },
+    {
+      "from": 170.06,
+      "to": 173.94,
+      "sid": 96,
+      "location": 2,
+      "content": "其中一种解释是这种偏销售性质的教育工作者",
+      "music": 0.0
+    },
+    {
+      "from": 173.94,
+      "to": 176.78,
+      "sid": 97,
+      "location": 2,
+      "content": "本就需要用极端言论立人设",
+      "music": 0.0
+    },
+    {
+      "from": 176.78,
+      "to": 178.94,
+      "sid": 98,
+      "location": 2,
+      "content": "人家其实早就知道背后逻辑",
+      "music": 0.0
+    },
+    {
+      "from": 178.94,
+      "to": 183.22,
+      "sid": 99,
+      "location": 2,
+      "content": "只不过要用这些话给人洗脑来筛选自己的粉丝",
+      "music": 0.0
+    },
+    {
+      "from": 183.22,
+      "to": 185.86,
+      "sid": 100,
+      "location": 2,
+      "content": "喜欢这些话术的人会更狂热",
+      "music": 0.0
+    },
+    {
+      "from": 185.86,
+      "to": 187.06,
+      "sid": 101,
+      "location": 2,
+      "content": "觉得他说的真对",
+      "music": 0.0
+    },
+    {
+      "from": 187.06,
+      "to": 188.0,
+      "sid": 102,
+      "location": 2,
+      "content": "真敢说",
+      "music": 0.0
+    },
+    {
+      "from": 188.0,
+      "to": 190.5,
+      "sid": 103,
+      "location": 2,
+      "content": "但受众不会是咱爸妈吧",
+      "music": 0.0
+    },
+    {
+      "from": 190.5,
+      "to": 191.8,
+      "sid": 104,
+      "location": 2,
+      "content": "类似这种极端言论",
+      "music": 0.0
+    },
+    {
+      "from": 191.8,
+      "to": 193.12,
+      "sid": 105,
+      "location": 2,
+      "content": "譬如尤其都是坏的",
+      "music": 0.0
+    },
+    {
+      "from": 193.12,
+      "to": 194.14,
+      "sid": 106,
+      "location": 2,
+      "content": "中国孩子没有感恩之心",
+      "music": 0.0
+    },
+    {
+      "from": 194.14,
+      "to": 195.58,
+      "sid": 107,
+      "location": 2,
+      "content": "下一代都被毁掉了",
+      "music": 0.0
+    },
+    {
+      "from": 195.58,
+      "to": 196.5,
+      "sid": 108,
+      "location": 2,
+      "content": "去观察下",
+      "music": 0.0
+    },
+    {
+      "from": 196.5,
+      "to": 197.58,
+      "sid": 109,
+      "location": 2,
+      "content": "给视频点赞",
+      "music": 0.0
+    },
+    {
+      "from": 197.58,
+      "to": 201.36,
+      "sid": 110,
+      "location": 2,
+      "content": "评论转发的人去看看这些人的头像简介没错",
+      "music": 0.0
+    },
+    {
+      "from": 201.36,
+      "to": 202.24,
+      "sid": 111,
+      "location": 2,
+      "content": "花开富贵",
+      "music": 0.0
+    },
+    {
+      "from": 202.24,
+      "to": 204.26,
+      "sid": 112,
+      "location": 2,
+      "content": "笑看人生海阔天空",
+      "music": 0.0
+    },
+    {
+      "from": 204.26,
+      "to": 206.84,
+      "sid": 113,
+      "location": 2,
+      "content": "那我们的意思不是说长辈都这样",
+      "music": 0.0
+    },
+    {
+      "from": 206.84,
+      "to": 210.02,
+      "sid": 114,
+      "location": 2,
+      "content": "而是担心那些思维已经很固化的长辈",
+      "music": 0.0
+    },
+    {
+      "from": 210.02,
+      "to": 212.14,
+      "sid": 115,
+      "location": 2,
+      "content": "平时既继续被这些话洗脑",
+      "music": 0.0
+    },
+    {
+      "from": 212.14,
+      "to": 214.6,
+      "sid": 116,
+      "location": 2,
+      "content": "然后更加接受不了认知外的东西",
+      "music": 0.0
+    },
+    {
+      "from": 214.6,
+      "to": 216.06,
+      "sid": 117,
+      "location": 2,
+      "content": "更加看待问题",
+      "music": 0.0
+    },
+    {
+      "from": 216.06,
+      "to": 217.72,
+      "sid": 118,
+      "location": 2,
+      "content": "不分辨具体情况",
+      "music": 0.0
+    },
+    {
+      "from": 217.72,
+      "to": 221.14,
+      "sid": 119,
+      "location": 2,
+      "content": "觉得晚辈都是被描述的那样恶性循环",
+      "music": 0.0
+    },
+    {
+      "from": 221.14,
+      "to": 223.34,
+      "sid": 120,
+      "location": 2,
+      "content": "加深和子女的矛盾",
+      "music": 0.0
+    },
+    {
+      "from": 223.34,
+      "to": 224.46,
+      "sid": 121,
+      "location": 2,
+      "content": "很多人都说啊",
+      "music": 0.0
+    },
+    {
+      "from": 224.46,
+      "to": 226.06,
+      "sid": 122,
+      "location": 2,
+      "content": "长辈们是这个样子",
+      "music": 0.0
+    },
+    {
+      "from": 226.06,
+      "to": 229.22,
+      "sid": 123,
+      "location": 2,
+      "content": "是因为每个人都有他时代的局限性",
+      "music": 0.0
+    },
+    {
+      "from": 229.22,
+      "to": 231.39,
+      "sid": 124,
+      "location": 2,
+      "content": "持有那个年代特有的想法",
+      "music": 0.0
+    },
+    {
+      "from": 231.39,
+      "to": 233.75,
+      "sid": 125,
+      "location": 2,
+      "content": "哪怕有人都当上教育家了",
+      "music": 0.0
+    },
+    {
+      "from": 233.75,
+      "to": 237.07,
+      "sid": 126,
+      "location": 2,
+      "content": "依旧能说出不符合当下的荒唐话",
+      "music": 0.0
+    },
+    {
+      "from": 237.07,
+      "to": 238.81,
+      "sid": 127,
+      "location": 2,
+      "content": "当代人讨论的一些问题",
+      "music": 0.0
+    },
+    {
+      "from": 238.81,
+      "to": 242.44,
+      "sid": 128,
+      "location": 2,
+      "content": "比如一语原生家庭封建观念平等交流",
+      "music": 0.0
+    },
+    {
+      "from": 242.44,
+      "to": 243.74,
+      "sid": 129,
+      "location": 2,
+      "content": "验证外界信息",
+      "music": 0.0
+    },
+    {
+      "from": 243.74,
+      "to": 244.7,
+      "sid": 130,
+      "location": 2,
+      "content": "在以前时代",
+      "music": 0.0
+    },
+    {
+      "from": 244.7,
+      "to": 246.42,
+      "sid": 131,
+      "location": 2,
+      "content": "这些都不是优先考虑的",
+      "music": 0.0
+    },
+    {
+      "from": 246.42,
+      "to": 247.3,
+      "sid": 132,
+      "location": 2,
+      "content": "长辈们会说",
+      "music": 0.0
+    },
+    {
+      "from": 247.3,
+      "to": 248.98,
+      "sid": 133,
+      "location": 2,
+      "content": "他们都是这样过来的",
+      "music": 0.0
+    },
+    {
+      "from": 248.98,
+      "to": 250.91,
+      "sid": 134,
+      "location": 2,
+      "content": "不也都好好的吗",
+      "music": 0.0
+    },
+    {
+      "from": 250.91,
+      "to": 253.91,
+      "sid": 135,
+      "location": 2,
+      "content": "同时透过他人身上的时代局限性",
+      "music": 0.0
+    },
+    {
+      "from": 253.91,
+      "to": 255.78,
+      "sid": 136,
+      "location": 2,
+      "content": "也提前观察一下自己",
+      "music": 0.0
+    },
+    {
+      "from": 255.78,
+      "to": 256.48,
+      "sid": 137,
+      "location": 2,
+      "content": "举个例子啊",
+      "music": 0.0
+    },
+    {
+      "from": 256.48,
+      "to": 257.46,
+      "sid": 138,
+      "location": 2,
+      "content": "我这个九零后",
+      "music": 0.0
+    },
+    {
+      "from": 257.46,
+      "to": 259.8,
+      "sid": 139,
+      "location": 2,
+      "content": "也不止一次和家里的八五后",
+      "music": 0.0
+    },
+    {
+      "from": 259.8,
+      "to": 262.02,
+      "sid": 140,
+      "location": 2,
+      "content": "哥哥姐姐发生了不愉快的对话",
+      "music": 0.0
+    },
+    {
+      "from": 262.02,
+      "to": 262.6,
+      "sid": 141,
+      "location": 2,
+      "content": "小冲突",
+      "music": 0.0
+    },
+    {
+      "from": 262.6,
+      "to": 263.56,
+      "sid": 142,
+      "location": 2,
+      "content": "在我们看来",
+      "music": 0.0
+    },
+    {
+      "from": 263.56,
+      "to": 264.72,
+      "sid": 143,
+      "location": 2,
+      "content": "年龄差别并不大",
+      "music": 0.0
+    },
+    {
+      "from": 264.72,
+      "to": 267.74,
+      "sid": 144,
+      "location": 2,
+      "content": "甚至八五后比我们更早熟悉网络",
+      "music": 0.0
+    },
+    {
+      "from": 267.74,
+      "to": 269.34,
+      "sid": 145,
+      "location": 2,
+      "content": "接触过大量新鲜事物",
+      "music": 0.0
+    },
+    {
+      "from": 269.34,
+      "to": 270.28,
+      "sid": 146,
+      "location": 2,
+      "content": "懂这懂那",
+      "music": 0.0
+    },
+    {
+      "from": 270.28,
+      "to": 273.56,
+      "sid": 147,
+      "location": 2,
+      "content": "但也尝试把晚辈束缚成他们认为的样子",
+      "music": 0.0
+    },
+    {
+      "from": 273.56,
+      "to": 274.36,
+      "sid": 148,
+      "location": 2,
+      "content": "可想而知",
+      "music": 0.0
+    },
+    {
+      "from": 274.36,
+      "to": 274.84,
+      "sid": 149,
+      "location": 2,
+      "content": "一零后",
+      "music": 0.0
+    },
+    {
+      "from": 274.84,
+      "to": 278.62,
+      "sid": 150,
+      "location": 2,
+      "content": "二零后怎么看待我将来观念严重不和的时候",
+      "music": 0.0
+    },
+    {
+      "from": 278.62,
+      "to": 280.22,
+      "sid": 151,
+      "location": 2,
+      "content": "是要我们放弃自己",
+      "music": 0.0
+    },
+    {
+      "from": 280.22,
+      "to": 281.54,
+      "sid": 152,
+      "location": 2,
+      "content": "相信几十年的东西",
+      "music": 0.0
+    },
+    {
+      "from": 281.54,
+      "to": 283.94,
+      "sid": 153,
+      "location": 2,
+      "content": "还是用所谓的经验去说服他们",
+      "music": 0.0
+    },
+    {
+      "from": 283.94,
+      "to": 285.28,
+      "sid": 154,
+      "location": 2,
+      "content": "我们仿佛有自信",
+      "music": 0.0
+    },
+    {
+      "from": 285.28,
+      "to": 286.38,
+      "sid": 155,
+      "location": 2,
+      "content": "做的比长辈好",
+      "music": 0.0
+    },
+    {
+      "from": 286.38,
+      "to": 288.56,
+      "sid": 156,
+      "location": 2,
+      "content": "但事实一定如此吗",
+      "music": 0.0
+    },
+    {
+      "from": 288.56,
+      "to": 289.18,
+      "sid": 157,
+      "location": 2,
+      "content": "说到底",
+      "music": 0.0
+    },
+    {
+      "from": 289.18,
+      "to": 291.68,
+      "sid": 158,
+      "location": 2,
+      "content": "每个人其实都在用自己熟悉的知识",
+      "music": 0.0
+    },
+    {
+      "from": 291.68,
+      "to": 294.34,
+      "sid": 159,
+      "location": 2,
+      "content": "在有限的时间段里发光发热",
+      "music": 0.0
+    },
+    {
+      "from": 294.34,
+      "to": 298.04,
+      "sid": 160,
+      "location": 2,
+      "content": "最终都会成为被时代抛弃的老人",
+      "music": 0.0
+    }
+  ]
+}

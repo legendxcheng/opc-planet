@@ -1,0 +1,3180 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.1,
+      "to": 3.02,
+      "sid": 1,
+      "location": 2,
+      "content": "怎么判断一个人是不是真的有钱呢",
+      "music": 0.0
+    },
+    {
+      "from": 3.02,
+      "to": 3.66,
+      "sid": 2,
+      "location": 2,
+      "content": "是这样",
+      "music": 0.0
+    },
+    {
+      "from": 3.66,
+      "to": 7.12,
+      "sid": 3,
+      "location": 2,
+      "content": "因为我以前做了几年二手奢侈品的生意嘛",
+      "music": 0.0
+    },
+    {
+      "from": 7.12,
+      "to": 8.54,
+      "sid": 4,
+      "location": 2,
+      "content": "最开始是副业做",
+      "music": 0.0
+    },
+    {
+      "from": 8.54,
+      "to": 10.579,
+      "sid": 5,
+      "location": 2,
+      "content": "后来跑去创业做二奢",
+      "music": 0.0
+    },
+    {
+      "from": 10.579,
+      "to": 14.119,
+      "sid": 6,
+      "location": 2,
+      "content": "然后那几年当中偶尔就会有人来问我说",
+      "music": 0.0
+    },
+    {
+      "from": 14.119,
+      "to": 16.639,
+      "sid": 7,
+      "location": 2,
+      "content": "哎你帮我看看这个人身上的LV的包",
+      "music": 0.0
+    },
+    {
+      "from": 16.639,
+      "to": 18.58,
+      "sid": 8,
+      "location": 2,
+      "content": "香奈儿的包是不是真的呀",
+      "music": 0.0
+    },
+    {
+      "from": 18.58,
+      "to": 22.18,
+      "sid": 9,
+      "location": 2,
+      "content": "或者哎这个人身上这身行头加在一起多少钱",
+      "music": 0.0
+    },
+    {
+      "from": 22.18,
+      "to": 23.04,
+      "sid": 10,
+      "location": 2,
+      "content": "帮我算算",
+      "music": 0.0
+    },
+    {
+      "from": 23.04,
+      "to": 26.8,
+      "sid": 11,
+      "location": 2,
+      "content": "总之就是问一些奢侈品真假或者价格的问题",
+      "music": 0.0
+    },
+    {
+      "from": 26.8,
+      "to": 29.48,
+      "sid": 12,
+      "location": 2,
+      "content": "然后也是因为我在这个过程当中",
+      "music": 0.0
+    },
+    {
+      "from": 29.48,
+      "to": 31.549,
+      "sid": 13,
+      "location": 2,
+      "content": "接触了很多买家和卖家",
+      "music": 0.0
+    },
+    {
+      "from": 31.549,
+      "to": 33.069,
+      "sid": 14,
+      "location": 2,
+      "content": "以及和同行沟通",
+      "music": 0.0
+    },
+    {
+      "from": 33.069,
+      "to": 34.809,
+      "sid": 15,
+      "location": 2,
+      "content": "慢慢我就总结出了一套",
+      "music": 0.0
+    },
+    {
+      "from": 34.809,
+      "to": 38.019,
+      "sid": 16,
+      "location": 2,
+      "content": "如何判断对方资金实力的方法",
+      "music": 0.0
+    },
+    {
+      "from": 38.019,
+      "to": 41.239,
+      "sid": 17,
+      "location": 2,
+      "content": "其实单纯看行头是不完全准确的",
+      "music": 0.0
+    },
+    {
+      "from": 41.239,
+      "to": 43.019,
+      "sid": 18,
+      "location": 2,
+      "content": "还要结合对方的气质",
+      "music": 0.0
+    },
+    {
+      "from": 43.019,
+      "to": 45.619,
+      "sid": 19,
+      "location": 2,
+      "content": "那我下面分享的这些信息呢",
+      "music": 0.0
+    },
+    {
+      "from": 45.619,
+      "to": 48.139,
+      "sid": 20,
+      "location": 2,
+      "content": "不是为了让大家去互相攀比",
+      "music": 0.0
+    },
+    {
+      "from": 48.139,
+      "to": 50.119,
+      "sid": 21,
+      "location": 2,
+      "content": "主要是我发现有些人",
+      "music": 0.0
+    },
+    {
+      "from": 50.119,
+      "to": 51.83,
+      "sid": 22,
+      "location": 2,
+      "content": "比如在相亲市场上",
+      "music": 0.0
+    },
+    {
+      "from": 51.83,
+      "to": 55.13,
+      "sid": 23,
+      "location": 2,
+      "content": "会通过对方的打扮来判断对方的实力",
+      "music": 0.0
+    },
+    {
+      "from": 55.13,
+      "to": 56.71,
+      "sid": 24,
+      "location": 2,
+      "content": "最后却被杀猪盘",
+      "music": 0.0
+    },
+    {
+      "from": 56.71,
+      "to": 59.21,
+      "sid": 25,
+      "location": 2,
+      "content": "或者现在大环境不好的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 59.21,
+      "to": 62.45,
+      "sid": 26,
+      "location": 2,
+      "content": "有些小老板呢会通过合作方住的房子",
+      "music": 0.0
+    },
+    {
+      "from": 62.45,
+      "to": 63.29,
+      "sid": 27,
+      "location": 2,
+      "content": "开着车子",
+      "music": 0.0
+    },
+    {
+      "from": 63.29,
+      "to": 65.95,
+      "sid": 28,
+      "location": 2,
+      "content": "戴着手表来判断对方的资金实力",
+      "music": 0.0
+    },
+    {
+      "from": 65.95,
+      "to": 67.37,
+      "sid": 29,
+      "location": 2,
+      "content": "然后也被骗了钱",
+      "music": 0.0
+    },
+    {
+      "from": 67.37,
+      "to": 70.87,
+      "sid": 30,
+      "location": 2,
+      "content": "所以今天这期视频分享的经验是",
+      "music": 0.0
+    },
+    {
+      "from": 70.87,
+      "to": 72.77,
+      "sid": 31,
+      "location": 2,
+      "content": "希望大家在日常生活中",
+      "music": 0.0
+    },
+    {
+      "from": 72.77,
+      "to": 75.13,
+      "sid": 32,
+      "location": 2,
+      "content": "不要被对方的外表所迷惑",
+      "music": 0.0
+    },
+    {
+      "from": 75.13,
+      "to": 76.17,
+      "sid": 33,
+      "location": 2,
+      "content": "我先告诉大家",
+      "music": 0.0
+    },
+    {
+      "from": 76.17,
+      "to": 79.21,
+      "sid": 34,
+      "location": 2,
+      "content": "怎么通过对方的行头来判断他的实力",
+      "music": 0.0
+    },
+    {
+      "from": 79.21,
+      "to": 80.15,
+      "sid": 35,
+      "location": 2,
+      "content": "我跟你们讲",
+      "music": 0.0
+    },
+    {
+      "from": 80.15,
+      "to": 80.61,
+      "sid": 36,
+      "location": 2,
+      "content": "真的",
+      "music": 0.0
+    },
+    {
+      "from": 80.61,
+      "to": 82.95,
+      "sid": 37,
+      "location": 2,
+      "content": "有钱人买奢侈品的目的",
+      "music": 0.0
+    },
+    {
+      "from": 82.95,
+      "to": 86.07,
+      "sid": 38,
+      "location": 2,
+      "content": "和普通人买奢侈品的目的完全不一样",
+      "music": 0.0
+    },
+    {
+      "from": 86.07,
+      "to": 87.43,
+      "sid": 39,
+      "location": 2,
+      "content": "普通人是什么东西",
+      "music": 0.0
+    },
+    {
+      "from": 87.43,
+      "to": 89.03,
+      "sid": 40,
+      "location": 2,
+      "content": "火什么东西符合潮流",
+      "music": 0.0
+    },
+    {
+      "from": 89.03,
+      "to": 89.95,
+      "sid": 41,
+      "location": 2,
+      "content": "他就买什么",
+      "music": 0.0
+    },
+    {
+      "from": 89.95,
+      "to": 92.15,
+      "sid": 42,
+      "location": 2,
+      "content": "而真正的有钱人是什么东西",
+      "music": 0.0
+    },
+    {
+      "from": 92.15,
+      "to": 93.09,
+      "sid": 43,
+      "location": 2,
+      "content": "平常见不到",
+      "music": 0.0
+    },
+    {
+      "from": 93.09,
+      "to": 93.79,
+      "sid": 44,
+      "location": 2,
+      "content": "很难买",
+      "music": 0.0
+    },
+    {
+      "from": 93.79,
+      "to": 94.66,
+      "sid": 45,
+      "location": 2,
+      "content": "他买什么",
+      "music": 0.0
+    },
+    {
+      "from": 94.66,
+      "to": 96.52,
+      "sid": 46,
+      "location": 2,
+      "content": "他们要不就买很难买的",
+      "music": 0.0
+    },
+    {
+      "from": 96.52,
+      "to": 98.04,
+      "sid": 47,
+      "location": 2,
+      "content": "要不就买特别贵的",
+      "music": 0.0
+    },
+    {
+      "from": 98.04,
+      "to": 100.26,
+      "sid": 48,
+      "location": 2,
+      "content": "要不就买能够引起潮流",
+      "music": 0.0
+    },
+    {
+      "from": 100.26,
+      "to": 102.449,
+      "sid": 49,
+      "location": 2,
+      "content": "而不是追随潮流的奢侈品",
+      "music": 0.0
+    },
+    {
+      "from": 102.449,
+      "to": 105.069,
+      "sid": 50,
+      "location": 2,
+      "content": "甚至有些特别爱买奢侈品的有钱人",
+      "music": 0.0
+    },
+    {
+      "from": 105.069,
+      "to": 107.28,
+      "sid": 51,
+      "location": 2,
+      "content": "他就听不得限量这两个字",
+      "music": 0.0
+    },
+    {
+      "from": 107.28,
+      "to": 108.58,
+      "sid": 52,
+      "location": 2,
+      "content": "只要柜员跟他说",
+      "music": 0.0
+    },
+    {
+      "from": 108.58,
+      "to": 111.12,
+      "sid": 53,
+      "location": 2,
+      "content": "诶这个款式全球限量多少多少个",
+      "music": 0.0
+    },
+    {
+      "from": 111.12,
+      "to": 112.59,
+      "sid": 54,
+      "location": 2,
+      "content": "他就必须买下来",
+      "music": 0.0
+    },
+    {
+      "from": 112.59,
+      "to": 115.39,
+      "sid": 55,
+      "location": 2,
+      "content": "为什么有钱人喜欢买难买的款式呢",
+      "music": 0.0
+    },
+    {
+      "from": 115.39,
+      "to": 116.65,
+      "sid": 56,
+      "location": 2,
+      "content": "很多人误会了一点",
+      "music": 0.0
+    },
+    {
+      "from": 116.65,
+      "to": 120.4,
+      "sid": 57,
+      "location": 2,
+      "content": "觉得有钱人买奢侈品是为了和普通人做比较",
+      "music": 0.0
+    },
+    {
+      "from": 120.4,
+      "to": 122.789,
+      "sid": 58,
+      "location": 2,
+      "content": "彰显自己比普通人更高贵",
+      "music": 0.0
+    },
+    {
+      "from": 122.789,
+      "to": 125.109,
+      "sid": 59,
+      "location": 2,
+      "content": "但其实有钱人买奢侈品",
+      "music": 0.0
+    },
+    {
+      "from": 125.109,
+      "to": 128.309,
+      "sid": 60,
+      "location": 2,
+      "content": "是为了和他身边其他的有钱人做比较",
+      "music": 0.0
+    },
+    {
+      "from": 128.309,
+      "to": 130.31,
+      "sid": 61,
+      "location": 2,
+      "content": "而不是和普通人做比较",
+      "music": 0.0
+    },
+    {
+      "from": 130.31,
+      "to": 132.69,
+      "sid": 62,
+      "location": 2,
+      "content": "这件奢侈品在他的圈子里面",
+      "music": 0.0
+    },
+    {
+      "from": 132.69,
+      "to": 133.89,
+      "sid": 63,
+      "location": 2,
+      "content": "只有他买得到",
+      "music": 0.0
+    },
+    {
+      "from": 133.89,
+      "to": 136.7,
+      "sid": 64,
+      "location": 2,
+      "content": "说明他是有钱人当中更有实力的",
+      "music": 0.0
+    },
+    {
+      "from": 136.7,
+      "to": 140.48,
+      "sid": 65,
+      "location": 2,
+      "content": "假设一个柜员同时服务两个有钱人A和B",
+      "music": 0.0
+    },
+    {
+      "from": 140.48,
+      "to": 142.0,
+      "sid": 66,
+      "location": 2,
+      "content": "然后这个柜员呢",
+      "music": 0.0
+    },
+    {
+      "from": 142.0,
+      "to": 144.2,
+      "sid": 67,
+      "location": 2,
+      "content": "把他今年唯一一个爱马仕鳄鱼皮",
+      "music": 0.0
+    },
+    {
+      "from": 144.2,
+      "to": 145.72,
+      "sid": 68,
+      "location": 2,
+      "content": "BKING的名额给了A",
+      "music": 0.0
+    },
+    {
+      "from": 145.72,
+      "to": 149.61,
+      "sid": 69,
+      "location": 2,
+      "content": "但没给B说明这个柜员认为A比B更有实力",
+      "music": 0.0
+    },
+    {
+      "from": 149.61,
+      "to": 153.09,
+      "sid": 70,
+      "location": 2,
+      "content": "所以有钱人买奢侈品确实是为了彰显身份",
+      "music": 0.0
+    },
+    {
+      "from": 153.09,
+      "to": 153.89,
+      "sid": 71,
+      "location": 2,
+      "content": "彰显实力",
+      "music": 0.0
+    },
+    {
+      "from": 153.89,
+      "to": 157.72,
+      "sid": 72,
+      "location": 2,
+      "content": "但他是为了和同个圈子里的其他有钱人比",
+      "music": 0.0
+    },
+    {
+      "from": 157.72,
+      "to": 160.85,
+      "sid": 73,
+      "location": 2,
+      "content": "因为有钱人的圈子也划分369等",
+      "music": 0.0
+    },
+    {
+      "from": 160.85,
+      "to": 163.45,
+      "sid": 74,
+      "location": 2,
+      "content": "为什么有钱人喜欢买特别贵的奢侈品",
+      "music": 0.0
+    },
+    {
+      "from": 163.45,
+      "to": 164.41,
+      "sid": 75,
+      "location": 2,
+      "content": "也是这个原因",
+      "music": 0.0
+    },
+    {
+      "from": 164.41,
+      "to": 166.61,
+      "sid": 76,
+      "location": 2,
+      "content": "我这里的贵是指一条项链",
+      "music": 0.0
+    },
+    {
+      "from": 166.61,
+      "to": 168.51,
+      "sid": 77,
+      "location": 2,
+      "content": "一枚戒指动辄百八十万的",
+      "music": 0.0
+    },
+    {
+      "from": 168.51,
+      "to": 170.67,
+      "sid": 78,
+      "location": 2,
+      "content": "他们是为了通过这身行头",
+      "music": 0.0
+    },
+    {
+      "from": 170.67,
+      "to": 173.52,
+      "sid": 79,
+      "location": 2,
+      "content": "拉开和圈内其他有钱人的差距",
+      "music": 0.0
+    },
+    {
+      "from": 173.52,
+      "to": 176.78,
+      "sid": 80,
+      "location": 2,
+      "content": "来显示我在这个圈子里阶级比你高",
+      "music": 0.0
+    },
+    {
+      "from": 176.78,
+      "to": 178.42,
+      "sid": 81,
+      "location": 2,
+      "content": "当你知道了这个信息",
+      "music": 0.0
+    },
+    {
+      "from": 178.42,
+      "to": 179.28,
+      "sid": 82,
+      "location": 2,
+      "content": "你就会发现",
+      "music": 0.0
+    },
+    {
+      "from": 179.28,
+      "to": 181.82,
+      "sid": 83,
+      "location": 2,
+      "content": "如果一个人身上穿了十件奢侈品",
+      "music": 0.0
+    },
+    {
+      "from": 181.82,
+      "to": 184.66,
+      "sid": 84,
+      "location": 2,
+      "content": "八件都是你认识的爆款或者基础款",
+      "music": 0.0
+    },
+    {
+      "from": 184.66,
+      "to": 187.26,
+      "sid": 85,
+      "location": 2,
+      "content": "说明这个人一定不是真的有钱人",
+      "music": 0.0
+    },
+    {
+      "from": 187.26,
+      "to": 188.64,
+      "sid": 86,
+      "location": 2,
+      "content": "他可能算得上中产",
+      "music": 0.0
+    },
+    {
+      "from": 188.64,
+      "to": 190.61,
+      "sid": 87,
+      "location": 2,
+      "content": "但他绝对算不上有钱人",
+      "music": 0.0
+    },
+    {
+      "from": 190.61,
+      "to": 193.49,
+      "sid": 88,
+      "location": 2,
+      "content": "相反如果一个人身上也穿了很多名牌",
+      "music": 0.0
+    },
+    {
+      "from": 193.49,
+      "to": 195.61,
+      "sid": 89,
+      "location": 2,
+      "content": "但这些款式你都没见过",
+      "music": 0.0
+    },
+    {
+      "from": 195.61,
+      "to": 198.19,
+      "sid": 90,
+      "location": 2,
+      "content": "那他很有可能就是真的有钱人",
+      "music": 0.0
+    },
+    {
+      "from": 198.19,
+      "to": 200.31,
+      "sid": 91,
+      "location": 2,
+      "content": "但是你们要学会区分啊",
+      "music": 0.0
+    },
+    {
+      "from": 200.31,
+      "to": 201.87,
+      "sid": 92,
+      "location": 2,
+      "content": "什么是难买的东西",
+      "music": 0.0
+    },
+    {
+      "from": 201.87,
+      "to": 203.25,
+      "sid": 93,
+      "location": 2,
+      "content": "什么是冷门的东西",
+      "music": 0.0
+    },
+    {
+      "from": 203.25,
+      "to": 204.77,
+      "sid": 94,
+      "location": 2,
+      "content": "难买和冷门不一样",
+      "music": 0.0
+    },
+    {
+      "from": 204.77,
+      "to": 206.11,
+      "sid": 95,
+      "location": 2,
+      "content": "难买是买不到",
+      "music": 0.0
+    },
+    {
+      "from": 206.11,
+      "to": 207.269,
+      "sid": 96,
+      "location": 2,
+      "content": "冷门是没人买",
+      "music": 0.0
+    },
+    {
+      "from": 207.269,
+      "to": 210.589,
+      "sid": 97,
+      "location": 2,
+      "content": "你们看爱马仕出的那个什么苍蝇拍儿啥的",
+      "music": 0.0
+    },
+    {
+      "from": 210.589,
+      "to": 212.16,
+      "sid": 98,
+      "location": 2,
+      "content": "就属于冷门款式",
+      "music": 0.0
+    },
+    {
+      "from": 212.16,
+      "to": 214.38,
+      "sid": 99,
+      "location": 2,
+      "content": "有钱人喜欢买难买的款式",
+      "music": 0.0
+    },
+    {
+      "from": 214.38,
+      "to": 216.8,
+      "sid": 100,
+      "location": 2,
+      "content": "但也很少买冷门款式",
+      "music": 0.0
+    },
+    {
+      "from": 216.8,
+      "to": 218.44,
+      "sid": 101,
+      "location": 2,
+      "content": "这时候有人就会说",
+      "music": 0.0
+    },
+    {
+      "from": 218.44,
+      "to": 221.7,
+      "sid": 102,
+      "location": 2,
+      "content": "那我看有的富豪也有很多基础款的包啊",
+      "music": 0.0
+    },
+    {
+      "from": 221.7,
+      "to": 223.38,
+      "sid": 103,
+      "location": 2,
+      "content": "比如某某富豪的太太",
+      "music": 0.0
+    },
+    {
+      "from": 223.38,
+      "to": 225.66,
+      "sid": 104,
+      "location": 2,
+      "content": "经常拎一个爱马仕菜篮子出门",
+      "music": 0.0
+    },
+    {
+      "from": 225.66,
+      "to": 228.3,
+      "sid": 105,
+      "location": 2,
+      "content": "爱马仕菜篮子呢就属于这个品牌里面",
+      "music": 0.0
+    },
+    {
+      "from": 228.3,
+      "to": 229.71,
+      "sid": 106,
+      "location": 2,
+      "content": "非常基础的款式",
+      "music": 0.0
+    },
+    {
+      "from": 229.71,
+      "to": 231.77,
+      "sid": 107,
+      "location": 2,
+      "content": "我跟你说是会有这样的情况",
+      "music": 0.0
+    },
+    {
+      "from": 231.77,
+      "to": 233.93,
+      "sid": 108,
+      "location": 2,
+      "content": "但这样的情况为什么会发生",
+      "music": 0.0
+    },
+    {
+      "from": 233.93,
+      "to": 235.05,
+      "sid": 109,
+      "location": 2,
+      "content": "有两点原因",
+      "music": 0.0
+    },
+    {
+      "from": 235.05,
+      "to": 237.66,
+      "sid": 110,
+      "location": 2,
+      "content": "一是这个人是极富的富豪",
+      "music": 0.0
+    },
+    {
+      "from": 237.66,
+      "to": 239.14,
+      "sid": 111,
+      "location": 2,
+      "content": "所有难买的款式",
+      "music": 0.0
+    },
+    {
+      "from": 239.14,
+      "to": 240.6,
+      "sid": 112,
+      "location": 2,
+      "content": "贵的款式都买过了",
+      "music": 0.0
+    },
+    {
+      "from": 240.6,
+      "to": 243.029,
+      "sid": 113,
+      "location": 2,
+      "content": "她的打扮呢就开始变得很随意",
+      "music": 0.0
+    },
+    {
+      "from": 243.029,
+      "to": 244.869,
+      "sid": 114,
+      "location": 2,
+      "content": "另一种情况呢是",
+      "music": 0.0
+    },
+    {
+      "from": 244.869,
+      "to": 248.249,
+      "sid": 115,
+      "location": 2,
+      "content": "这个富豪在普通人能看得到的公开场合",
+      "music": 0.0
+    },
+    {
+      "from": 248.249,
+      "to": 249.54,
+      "sid": 116,
+      "location": 2,
+      "content": "故意保持低调",
+      "music": 0.0
+    },
+    {
+      "from": 249.54,
+      "to": 252.92,
+      "sid": 117,
+      "location": 2,
+      "content": "但是等到他转头去有钱人的派对的时候",
+      "music": 0.0
+    },
+    {
+      "from": 252.92,
+      "to": 254.96,
+      "sid": 118,
+      "location": 2,
+      "content": "他绝对不会穿基础款",
+      "music": 0.0
+    },
+    {
+      "from": 254.96,
+      "to": 257.24,
+      "sid": 119,
+      "location": 2,
+      "content": "之前有一个回收的客户跟我讲",
+      "music": 0.0
+    },
+    {
+      "from": 257.24,
+      "to": 260.02,
+      "sid": 120,
+      "location": 2,
+      "content": "他平常出门旅游不敢戴太贵的首饰",
+      "music": 0.0
+    },
+    {
+      "from": 260.02,
+      "to": 261.049,
+      "sid": 121,
+      "location": 2,
+      "content": "不是怕丢",
+      "music": 0.0
+    },
+    {
+      "from": 261.049,
+      "to": 263.729,
+      "sid": 122,
+      "location": 2,
+      "content": "是因为他戴着那种大翡翠项链",
+      "music": 0.0
+    },
+    {
+      "from": 263.729,
+      "to": 264.489,
+      "sid": 123,
+      "location": 2,
+      "content": "大钻戒",
+      "music": 0.0
+    },
+    {
+      "from": 264.489,
+      "to": 265.689,
+      "sid": 124,
+      "location": 2,
+      "content": "大金项链的时候",
+      "music": 0.0
+    },
+    {
+      "from": 265.689,
+      "to": 268.98,
+      "sid": 125,
+      "location": 2,
+      "content": "景区里那些拉黑车的都跑来问他要不要坐车",
+      "music": 0.0
+    },
+    {
+      "from": 268.98,
+      "to": 270.3,
+      "sid": 126,
+      "location": 2,
+      "content": "这些人不问别人",
+      "music": 0.0
+    },
+    {
+      "from": 270.3,
+      "to": 272.07,
+      "sid": 127,
+      "location": 2,
+      "content": "只问他给他整怕了",
+      "music": 0.0
+    },
+    {
+      "from": 272.07,
+      "to": 275.09,
+      "sid": 128,
+      "location": 2,
+      "content": "我还听说一个私募基金公司的老板",
+      "music": 0.0
+    },
+    {
+      "from": 275.09,
+      "to": 277.96,
+      "sid": 129,
+      "location": 2,
+      "content": "平时上班的就带一只几万块钱的欧米茄",
+      "music": 0.0
+    },
+    {
+      "from": 277.96,
+      "to": 279.76,
+      "sid": 130,
+      "location": 2,
+      "content": "但是在重要场合上",
+      "music": 0.0
+    },
+    {
+      "from": 279.76,
+      "to": 283.26,
+      "sid": 131,
+      "location": 2,
+      "content": "他会带上他那只价格近百万的手表",
+      "music": 0.0
+    },
+    {
+      "from": 283.26,
+      "to": 285.02,
+      "sid": 132,
+      "location": 2,
+      "content": "还有大家应该都听说过",
+      "music": 0.0
+    },
+    {
+      "from": 285.02,
+      "to": 288.24,
+      "sid": 133,
+      "location": 2,
+      "content": "有钱人不会穿被明星穿过的高定服装",
+      "music": 0.0
+    },
+    {
+      "from": 288.24,
+      "to": 290.02,
+      "sid": 134,
+      "location": 2,
+      "content": "他们买的高定服装",
+      "music": 0.0
+    },
+    {
+      "from": 290.02,
+      "to": 293.61,
+      "sid": 135,
+      "location": 2,
+      "content": "一定自己是全球第一个穿上这件服装的人",
+      "music": 0.0
+    },
+    {
+      "from": 293.61,
+      "to": 295.13,
+      "sid": 136,
+      "location": 2,
+      "content": "因为买明星穿过的",
+      "music": 0.0
+    },
+    {
+      "from": 295.13,
+      "to": 298.19,
+      "sid": 137,
+      "location": 2,
+      "content": "就意味着你在追随这个明星制造的潮流",
+      "music": 0.0
+    },
+    {
+      "from": 298.19,
+      "to": 302.19,
+      "sid": 138,
+      "location": 2,
+      "content": "而有钱人他希望自己是引领潮流的那个人",
+      "music": 0.0
+    },
+    {
+      "from": 302.19,
+      "to": 305.03,
+      "sid": 139,
+      "location": 2,
+      "content": "那普通人买奢侈品呢就喜欢随大溜",
+      "music": 0.0
+    },
+    {
+      "from": 305.03,
+      "to": 306.59,
+      "sid": 140,
+      "location": 2,
+      "content": "什么款式买的人多",
+      "music": 0.0
+    },
+    {
+      "from": 306.59,
+      "to": 307.39,
+      "sid": 141,
+      "location": 2,
+      "content": "他就买什么",
+      "music": 0.0
+    },
+    {
+      "from": 307.39,
+      "to": 310.77,
+      "sid": 142,
+      "location": 2,
+      "content": "这可能和普通人生活中喜欢趋同有关系",
+      "music": 0.0
+    },
+    {
+      "from": 310.77,
+      "to": 314.13,
+      "sid": 143,
+      "location": 2,
+      "content": "就是说大家都不愿意做那个特别各色",
+      "music": 0.0
+    },
+    {
+      "from": 314.13,
+      "to": 315.35,
+      "sid": 144,
+      "location": 2,
+      "content": "特别出挑的人",
+      "music": 0.0
+    },
+    {
+      "from": 315.35,
+      "to": 317.71,
+      "sid": 145,
+      "location": 2,
+      "content": "他们倾向于做不出错的选择",
+      "music": 0.0
+    },
+    {
+      "from": 317.71,
+      "to": 319.44,
+      "sid": 146,
+      "location": 2,
+      "content": "买不出错的东西",
+      "music": 0.0
+    },
+    {
+      "from": 319.44,
+      "to": 322.42,
+      "sid": 147,
+      "location": 2,
+      "content": "另外一方面也是基于实用性",
+      "music": 0.0
+    },
+    {
+      "from": 322.42,
+      "to": 324.36,
+      "sid": 148,
+      "location": 2,
+      "content": "被很多人验证过的东西",
+      "music": 0.0
+    },
+    {
+      "from": 324.36,
+      "to": 325.2,
+      "sid": 149,
+      "location": 2,
+      "content": "说明很好用",
+      "music": 0.0
+    },
+    {
+      "from": 325.2,
+      "to": 326.57,
+      "sid": 150,
+      "location": 2,
+      "content": "能够用很久",
+      "music": 0.0
+    },
+    {
+      "from": 326.57,
+      "to": 329.15,
+      "sid": 151,
+      "location": 2,
+      "content": "另外一个群体就是中产群体",
+      "music": 0.0
+    },
+    {
+      "from": 329.15,
+      "to": 332.74,
+      "sid": 152,
+      "location": 2,
+      "content": "他们买奢侈品更多是出于保值和变现的需求",
+      "music": 0.0
+    },
+    {
+      "from": 332.74,
+      "to": 335.76,
+      "sid": 153,
+      "location": 2,
+      "content": "所以也会倾向于买大家都买的那些款式",
+      "music": 0.0
+    },
+    {
+      "from": 335.76,
+      "to": 337.32,
+      "sid": 154,
+      "location": 2,
+      "content": "但不是为了随大溜",
+      "music": 0.0
+    },
+    {
+      "from": 337.32,
+      "to": 340.659,
+      "sid": 155,
+      "location": 2,
+      "content": "而是相当于他们购置了一项固定资产一样",
+      "music": 0.0
+    },
+    {
+      "from": 340.659,
+      "to": 342.619,
+      "sid": 156,
+      "location": 2,
+      "content": "如果有朝一日需要的话",
+      "music": 0.0
+    },
+    {
+      "from": 342.619,
+      "to": 344.929,
+      "sid": 157,
+      "location": 2,
+      "content": "这项资产是可以变现的",
+      "music": 0.0
+    },
+    {
+      "from": 344.929,
+      "to": 346.349,
+      "sid": 158,
+      "location": 2,
+      "content": "那我来总结一下",
+      "music": 0.0
+    },
+    {
+      "from": 346.349,
+      "to": 349.149,
+      "sid": 159,
+      "location": 2,
+      "content": "普通人买奢侈品是随大溜的心理",
+      "music": 0.0
+    },
+    {
+      "from": 349.149,
+      "to": 351.909,
+      "sid": 160,
+      "location": 2,
+      "content": "中产买奢侈品是为了保值和变现",
+      "music": 0.0
+    },
+    {
+      "from": 351.909,
+      "to": 354.629,
+      "sid": 161,
+      "location": 2,
+      "content": "有钱人买奢侈品是为了彰显身份",
+      "music": 0.0
+    },
+    {
+      "from": 354.629,
+      "to": 355.909,
+      "sid": 162,
+      "location": 2,
+      "content": "另外我跟你们讲",
+      "music": 0.0
+    },
+    {
+      "from": 355.909,
+      "to": 359.34,
+      "sid": 163,
+      "location": 2,
+      "content": "真正的有钱人不会把自己打扮得过于精致",
+      "music": 0.0
+    },
+    {
+      "from": 359.34,
+      "to": 361.4,
+      "sid": 164,
+      "location": 2,
+      "content": "他们的穿戴诉求是得体",
+      "music": 0.0
+    },
+    {
+      "from": 361.4,
+      "to": 363.02,
+      "sid": 165,
+      "location": 2,
+      "content": "但不追求过分精致",
+      "music": 0.0
+    },
+    {
+      "from": 363.02,
+      "to": 366.72,
+      "sid": 166,
+      "location": 2,
+      "content": "如果你看一个人浑身上下的打扮充满了小心思",
+      "music": 0.0
+    },
+    {
+      "from": 366.72,
+      "to": 368.2,
+      "sid": 167,
+      "location": 2,
+      "content": "就是一看这个人",
+      "music": 0.0
+    },
+    {
+      "from": 368.2,
+      "to": 370.88,
+      "sid": 168,
+      "location": 2,
+      "content": "就是在家里打扮了一两个小时才出门的",
+      "music": 0.0
+    },
+    {
+      "from": 370.88,
+      "to": 372.99,
+      "sid": 169,
+      "location": 2,
+      "content": "那他一定不是真的有钱人",
+      "music": 0.0
+    },
+    {
+      "from": 372.99,
+      "to": 374.71,
+      "sid": 170,
+      "location": 2,
+      "content": "之前我听一个柜姐说",
+      "music": 0.0
+    },
+    {
+      "from": 374.71,
+      "to": 377.19,
+      "sid": 171,
+      "location": 2,
+      "content": "她判断这个到店的人会不会承担",
+      "music": 0.0
+    },
+    {
+      "from": 377.19,
+      "to": 379.78,
+      "sid": 172,
+      "location": 2,
+      "content": "是看这个人打扮的够不够土俗",
+      "music": 0.0
+    },
+    {
+      "from": 379.78,
+      "to": 382.98,
+      "sid": 173,
+      "location": 2,
+      "content": "那些越穿金戴银的暴发户式的打扮",
+      "music": 0.0
+    },
+    {
+      "from": 382.98,
+      "to": 384.72,
+      "sid": 174,
+      "location": 2,
+      "content": "往往买得越痛快",
+      "music": 0.0
+    },
+    {
+      "from": 384.72,
+      "to": 387.86,
+      "sid": 175,
+      "location": 2,
+      "content": "他这套判断方式呢确实是有一些道理的",
+      "music": 0.0
+    },
+    {
+      "from": 387.86,
+      "to": 388.6,
+      "sid": 176,
+      "location": 2,
+      "content": "为什么呢",
+      "music": 0.0
+    },
+    {
+      "from": 388.6,
+      "to": 389.76,
+      "sid": 177,
+      "location": 2,
+      "content": "因为就我观察",
+      "music": 0.0
+    },
+    {
+      "from": 389.76,
+      "to": 392.04,
+      "sid": 178,
+      "location": 2,
+      "content": "把自己打扮的过于精致的人",
+      "music": 0.0
+    },
+    {
+      "from": 392.04,
+      "to": 393.77,
+      "sid": 179,
+      "location": 2,
+      "content": "其实是有一种媚态",
+      "music": 0.0
+    },
+    {
+      "from": 393.77,
+      "to": 396.63,
+      "sid": 180,
+      "location": 2,
+      "content": "正常人我们打扮自己是为了取悦自己",
+      "music": 0.0
+    },
+    {
+      "from": 396.63,
+      "to": 398.05,
+      "sid": 181,
+      "location": 2,
+      "content": "每天收拾个10分钟",
+      "music": 0.0
+    },
+    {
+      "from": 398.05,
+      "to": 399.11,
+      "sid": 182,
+      "location": 2,
+      "content": "20分钟出门",
+      "music": 0.0
+    },
+    {
+      "from": 399.11,
+      "to": 402.19,
+      "sid": 183,
+      "location": 2,
+      "content": "但是你们看那种从头发丝到脚趾头",
+      "music": 0.0
+    },
+    {
+      "from": 402.19,
+      "to": 403.25,
+      "sid": 184,
+      "location": 2,
+      "content": "都很精致的人",
+      "music": 0.0
+    },
+    {
+      "from": 403.25,
+      "to": 405.15,
+      "sid": 185,
+      "location": 2,
+      "content": "他们已经不是在取悦自己了",
+      "music": 0.0
+    },
+    {
+      "from": 405.15,
+      "to": 406.78,
+      "sid": 186,
+      "location": 2,
+      "content": "他们是为了取悦别人",
+      "music": 0.0
+    },
+    {
+      "from": 406.78,
+      "to": 408.76,
+      "sid": 187,
+      "location": 2,
+      "content": "他们需要通过这样的打扮",
+      "music": 0.0
+    },
+    {
+      "from": 408.76,
+      "to": 411.58,
+      "sid": 188,
+      "location": 2,
+      "content": "来从有钱人那里获取资源",
+      "music": 0.0
+    },
+    {
+      "from": 411.58,
+      "to": 413.64,
+      "sid": 189,
+      "location": 2,
+      "content": "尤其是在男性群体当中",
+      "music": 0.0
+    },
+    {
+      "from": 413.64,
+      "to": 416.18,
+      "sid": 190,
+      "location": 2,
+      "content": "把自己打扮得特别精致的男人",
+      "music": 0.0
+    },
+    {
+      "from": 416.18,
+      "to": 417.37,
+      "sid": 191,
+      "location": 2,
+      "content": "一定不是有钱人",
+      "music": 0.0
+    },
+    {
+      "from": 417.37,
+      "to": 418.55,
+      "sid": 192,
+      "location": 2,
+      "content": "再来说说假货",
+      "music": 0.0
+    },
+    {
+      "from": 418.55,
+      "to": 421.17,
+      "sid": 193,
+      "location": 2,
+      "content": "如果你碰到了浑身假名牌的人",
+      "music": 0.0
+    },
+    {
+      "from": 421.17,
+      "to": 422.46,
+      "sid": 194,
+      "location": 2,
+      "content": "该怎么辨别呢",
+      "music": 0.0
+    },
+    {
+      "from": 422.46,
+      "to": 423.84,
+      "sid": 195,
+      "location": 2,
+      "content": "其实也很好区分",
+      "music": 0.0
+    },
+    {
+      "from": 423.84,
+      "to": 425.94,
+      "sid": 196,
+      "location": 2,
+      "content": "A货往往都是A爆款款式",
+      "music": 0.0
+    },
+    {
+      "from": 425.94,
+      "to": 426.9,
+      "sid": 197,
+      "location": 2,
+      "content": "因为好卖",
+      "music": 0.0
+    },
+    {
+      "from": 426.9,
+      "to": 430.38,
+      "sid": 198,
+      "location": 2,
+      "content": "那些不好卖的款式很少有假货商会造假",
+      "music": 0.0
+    },
+    {
+      "from": 430.38,
+      "to": 431.61,
+      "sid": 199,
+      "location": 2,
+      "content": "因为卖不出去",
+      "music": 0.0
+    },
+    {
+      "from": 431.61,
+      "to": 434.01,
+      "sid": 200,
+      "location": 2,
+      "content": "假货商也需要花钱推流",
+      "music": 0.0
+    },
+    {
+      "from": 434.01,
+      "to": 435.57,
+      "sid": 201,
+      "location": 2,
+      "content": "工厂也养着几10号的人",
+      "music": 0.0
+    },
+    {
+      "from": 435.57,
+      "to": 436.57,
+      "sid": 202,
+      "location": 2,
+      "content": "成本也不小的",
+      "music": 0.0
+    },
+    {
+      "from": 436.57,
+      "to": 437.93,
+      "sid": 203,
+      "location": 2,
+      "content": "所以不好卖的款式",
+      "music": 0.0
+    },
+    {
+      "from": 437.93,
+      "to": 439.77,
+      "sid": 204,
+      "location": 2,
+      "content": "他们基本不会去仿制",
+      "music": 0.0
+    },
+    {
+      "from": 439.77,
+      "to": 441.49,
+      "sid": 205,
+      "location": 2,
+      "content": "那只要你看到一个人",
+      "music": 0.0
+    },
+    {
+      "from": 441.49,
+      "to": 444.41,
+      "sid": 206,
+      "location": 2,
+      "content": "浑身穿的都是你见过的爆款款式",
+      "music": 0.0
+    },
+    {
+      "from": 444.41,
+      "to": 446.74,
+      "sid": 207,
+      "location": 2,
+      "content": "他就不可能是特别有钱的人",
+      "music": 0.0
+    },
+    {
+      "from": 446.74,
+      "to": 449.9,
+      "sid": 208,
+      "location": 2,
+      "content": "但你说一个普通人能不能肉眼社交距离",
+      "music": 0.0
+    },
+    {
+      "from": 449.9,
+      "to": 452.0,
+      "sid": 209,
+      "location": 2,
+      "content": "就一眼判定东西的真假呢",
+      "music": 0.0
+    },
+    {
+      "from": 452.0,
+      "to": 454.79,
+      "sid": 210,
+      "location": 2,
+      "content": "不能我自己就是奢侈品鉴定师",
+      "music": 0.0
+    },
+    {
+      "from": 454.79,
+      "to": 457.02,
+      "sid": 211,
+      "location": 2,
+      "content": "我当时在上海中检上课",
+      "music": 0.0
+    },
+    {
+      "from": 457.02,
+      "to": 457.9,
+      "sid": 212,
+      "location": 2,
+      "content": "考证的时候",
+      "music": 0.0
+    },
+    {
+      "from": 457.9,
+      "to": 460.06,
+      "sid": 213,
+      "location": 2,
+      "content": "我们那个鉴定导师他头发都白了",
+      "music": 0.0
+    },
+    {
+      "from": 460.06,
+      "to": 461.4,
+      "sid": 214,
+      "location": 2,
+      "content": "他才30多岁",
+      "music": 0.0
+    },
+    {
+      "from": 461.4,
+      "to": 463.22,
+      "sid": 215,
+      "location": 2,
+      "content": "他就已经满头白发了",
+      "music": 0.0
+    },
+    {
+      "from": 463.22,
+      "to": 466.09,
+      "sid": 216,
+      "location": 2,
+      "content": "鉴定这个工作是一个非常烧脑的工作",
+      "music": 0.0
+    },
+    {
+      "from": 466.09,
+      "to": 468.27,
+      "sid": 217,
+      "location": 2,
+      "content": "所以对于我们大多数人来讲",
+      "music": 0.0
+    },
+    {
+      "from": 468.27,
+      "to": 469.65,
+      "sid": 218,
+      "location": 2,
+      "content": "我们只能去了解一下",
+      "music": 0.0
+    },
+    {
+      "from": 469.65,
+      "to": 473.72,
+      "sid": 219,
+      "location": 2,
+      "content": "那些很容易通过社交距离一眼判定真假的款式",
+      "music": 0.0
+    },
+    {
+      "from": 473.72,
+      "to": 476.219,
+      "sid": 220,
+      "location": 2,
+      "content": "但其他的就判定不了奢侈品",
+      "music": 0.0
+    },
+    {
+      "from": 476.219,
+      "to": 476.999,
+      "sid": 221,
+      "location": 2,
+      "content": "它是这样的",
+      "music": 0.0
+    },
+    {
+      "from": 476.999,
+      "to": 480.479,
+      "sid": 222,
+      "location": 2,
+      "content": "它有些东西是形状和颜色很难造假",
+      "music": 0.0
+    },
+    {
+      "from": 480.479,
+      "to": 482.99,
+      "sid": 223,
+      "location": 2,
+      "content": "所以社交距离可以一眼看出",
+      "music": 0.0
+    },
+    {
+      "from": 482.99,
+      "to": 485.63,
+      "sid": 224,
+      "location": 2,
+      "content": "有些是材质重量很难造假",
+      "music": 0.0
+    },
+    {
+      "from": 485.63,
+      "to": 487.13,
+      "sid": 225,
+      "location": 2,
+      "content": "所以上手摸一下",
+      "music": 0.0
+    },
+    {
+      "from": 487.13,
+      "to": 488.34,
+      "sid": 226,
+      "location": 2,
+      "content": "掂一下就知道",
+      "music": 0.0
+    },
+    {
+      "from": 488.34,
+      "to": 491.04,
+      "sid": 227,
+      "location": 2,
+      "content": "但还有很多是必须要拿着放大镜",
+      "music": 0.0
+    },
+    {
+      "from": 491.04,
+      "to": 493.34,
+      "sid": 228,
+      "location": 2,
+      "content": "一个一个去核对鉴定点",
+      "music": 0.0
+    },
+    {
+      "from": 493.34,
+      "to": 494.789,
+      "sid": 229,
+      "location": 2,
+      "content": "才能够确定真假的",
+      "music": 0.0
+    },
+    {
+      "from": 494.789,
+      "to": 497.549,
+      "sid": 230,
+      "location": 2,
+      "content": "所以很多奢侈品如果不拿放大镜看",
+      "music": 0.0
+    },
+    {
+      "from": 497.549,
+      "to": 499.909,
+      "sid": 231,
+      "location": 2,
+      "content": "其实并不能完全确定真假",
+      "music": 0.0
+    },
+    {
+      "from": 499.909,
+      "to": 502.309,
+      "sid": 232,
+      "location": 2,
+      "content": "这个时候呢就要看对方的气质",
+      "music": 0.0
+    },
+    {
+      "from": 502.309,
+      "to": 503.589,
+      "sid": 233,
+      "location": 2,
+      "content": "来判断对方的实力",
+      "music": 0.0
+    },
+    {
+      "from": 503.589,
+      "to": 506.07,
+      "sid": 234,
+      "location": 2,
+      "content": "而且看气质准确率更高",
+      "music": 0.0
+    },
+    {
+      "from": 506.07,
+      "to": 508.91,
+      "sid": 235,
+      "location": 2,
+      "content": "加上有一些行业的老板必须要保持低调",
+      "music": 0.0
+    },
+    {
+      "from": 508.91,
+      "to": 510.43,
+      "sid": 236,
+      "location": 2,
+      "content": "他们完全不穿奢侈品",
+      "music": 0.0
+    },
+    {
+      "from": 510.43,
+      "to": 513.079,
+      "sid": 237,
+      "location": 2,
+      "content": "所以看穿戴是没办法看出来的",
+      "music": 0.0
+    },
+    {
+      "from": 513.079,
+      "to": 516.739,
+      "sid": 238,
+      "location": 2,
+      "content": "那为什么通过气质更容易判断一个人的实力呢",
+      "music": 0.0
+    },
+    {
+      "from": 516.739,
+      "to": 518.719,
+      "sid": 239,
+      "location": 2,
+      "content": "这个时候就要搬出一个概念了",
+      "music": 0.0
+    },
+    {
+      "from": 518.719,
+      "to": 520.49,
+      "sid": 240,
+      "location": 2,
+      "content": "叫做潜能养人",
+      "music": 0.0
+    },
+    {
+      "from": 520.49,
+      "to": 522.25,
+      "sid": 241,
+      "location": 2,
+      "content": "那些真正的有钱人",
+      "music": 0.0
+    },
+    {
+      "from": 522.25,
+      "to": 523.93,
+      "sid": 242,
+      "location": 2,
+      "content": "他们都被钱养得很好",
+      "music": 0.0
+    },
+    {
+      "from": 523.93,
+      "to": 526.49,
+      "sid": 243,
+      "location": 2,
+      "content": "所以通过气质来判断对方的实力",
+      "music": 0.0
+    },
+    {
+      "from": 526.49,
+      "to": 527.44,
+      "sid": 244,
+      "location": 2,
+      "content": "一看一个准儿",
+      "music": 0.0
+    },
+    {
+      "from": 527.44,
+      "to": 529.0,
+      "sid": 245,
+      "location": 2,
+      "content": "我举一个极端的例子啊",
+      "music": 0.0
+    },
+    {
+      "from": 529.0,
+      "to": 531.64,
+      "sid": 246,
+      "location": 2,
+      "content": "就是你们看有的时候那个新闻上",
+      "music": 0.0
+    },
+    {
+      "from": 531.64,
+      "to": 533.8,
+      "sid": 247,
+      "location": 2,
+      "content": "那些贪官贪了几个亿的那种",
+      "music": 0.0
+    },
+    {
+      "from": 533.8,
+      "to": 536.05,
+      "sid": 248,
+      "location": 2,
+      "content": "一般都是慈眉善目的对吧",
+      "music": 0.0
+    },
+    {
+      "from": 536.05,
+      "to": 538.81,
+      "sid": 249,
+      "location": 2,
+      "content": "就很难让人去相信他们是贪官",
+      "music": 0.0
+    },
+    {
+      "from": 538.81,
+      "to": 539.89,
+      "sid": 250,
+      "location": 2,
+      "content": "看气质呢",
+      "music": 0.0
+    },
+    {
+      "from": 539.89,
+      "to": 541.37,
+      "sid": 251,
+      "location": 2,
+      "content": "你会觉得他们是好人",
+      "music": 0.0
+    },
+    {
+      "from": 541.37,
+      "to": 543.43,
+      "sid": 252,
+      "location": 2,
+      "content": "所以这个社会的真相是",
+      "music": 0.0
+    },
+    {
+      "from": 543.43,
+      "to": 545.57,
+      "sid": 253,
+      "location": 2,
+      "content": "你无法通过一个人的气质",
+      "music": 0.0
+    },
+    {
+      "from": 545.57,
+      "to": 547.75,
+      "sid": 254,
+      "location": 2,
+      "content": "来判断对方品性的好坏",
+      "music": 0.0
+    },
+    {
+      "from": 547.75,
+      "to": 551.04,
+      "sid": 255,
+      "location": 2,
+      "content": "但一定能从气质判断出他的实力",
+      "music": 0.0
+    },
+    {
+      "from": 551.04,
+      "to": 553.3,
+      "sid": 256,
+      "location": 2,
+      "content": "慈眉善目的人不一定是好人",
+      "music": 0.0
+    },
+    {
+      "from": 553.3,
+      "to": 556.84,
+      "sid": 257,
+      "location": 2,
+      "content": "但慈眉善目一定说明他被什么东西滋养着",
+      "music": 0.0
+    },
+    {
+      "from": 556.84,
+      "to": 558.66,
+      "sid": 258,
+      "location": 2,
+      "content": "才会那么心平气和",
+      "music": 0.0
+    },
+    {
+      "from": 558.66,
+      "to": 559.76,
+      "sid": 259,
+      "location": 2,
+      "content": "气定神闲",
+      "music": 0.0
+    },
+    {
+      "from": 559.76,
+      "to": 562.54,
+      "sid": 260,
+      "location": 2,
+      "content": "说明这个人在社会上拥有话语权",
+      "music": 0.0
+    },
+    {
+      "from": 562.54,
+      "to": 564.58,
+      "sid": 261,
+      "location": 2,
+      "content": "可能是在社会上被人尊重",
+      "music": 0.0
+    },
+    {
+      "from": 564.58,
+      "to": 565.88,
+      "sid": 262,
+      "location": 2,
+      "content": "可能是拥有地位",
+      "music": 0.0
+    },
+    {
+      "from": 565.88,
+      "to": 568.88,
+      "sid": 263,
+      "location": 2,
+      "content": "也可能是过着非常丰富的物质生活",
+      "music": 0.0
+    },
+    {
+      "from": 568.88,
+      "to": 570.6,
+      "sid": 264,
+      "location": 2,
+      "content": "那在商场当中",
+      "music": 0.0
+    },
+    {
+      "from": 570.6,
+      "to": 573.64,
+      "sid": 265,
+      "location": 2,
+      "content": "慈眉善目就意味着这个人是个有钱人",
+      "music": 0.0
+    },
+    {
+      "from": 573.64,
+      "to": 576.24,
+      "sid": 266,
+      "location": 2,
+      "content": "慈眉善目不是说这个人眼神清澈",
+      "music": 0.0
+    },
+    {
+      "from": 576.24,
+      "to": 577.0,
+      "sid": 267,
+      "location": 2,
+      "content": "笑脸盈盈",
+      "music": 0.0
+    },
+    {
+      "from": 577.0,
+      "to": 577.72,
+      "sid": 268,
+      "location": 2,
+      "content": "有亲和力",
+      "music": 0.0
+    },
+    {
+      "from": 577.72,
+      "to": 578.6,
+      "sid": 269,
+      "location": 2,
+      "content": "就叫慈眉善目",
+      "music": 0.0
+    },
+    {
+      "from": 578.6,
+      "to": 579.22,
+      "sid": 270,
+      "location": 2,
+      "content": "不是的",
+      "music": 0.0
+    },
+    {
+      "from": 579.22,
+      "to": 583.099,
+      "sid": 271,
+      "location": 2,
+      "content": "慈眉善目不是五官呈现出来的表情和神态",
+      "music": 0.0
+    },
+    {
+      "from": 583.099,
+      "to": 586.569,
+      "sid": 272,
+      "location": 2,
+      "content": "而是透过神态呈现出的一种态度",
+      "music": 0.0
+    },
+    {
+      "from": 586.569,
+      "to": 590.229,
+      "sid": 273,
+      "location": 2,
+      "content": "比如如果你们身边隐藏着那种富二代的同事",
+      "music": 0.0
+    },
+    {
+      "from": 590.229,
+      "to": 593.53,
+      "sid": 274,
+      "location": 2,
+      "content": "你会发现他们从来都是一副无所谓的态度",
+      "music": 0.0
+    },
+    {
+      "from": 593.53,
+      "to": 594.51,
+      "sid": 275,
+      "location": 2,
+      "content": "不怕被开",
+      "music": 0.0
+    },
+    {
+      "from": 594.51,
+      "to": 595.73,
+      "sid": 276,
+      "location": 2,
+      "content": "不怕被领导训",
+      "music": 0.0
+    },
+    {
+      "from": 595.73,
+      "to": 598.31,
+      "sid": 277,
+      "location": 2,
+      "content": "偶尔犯了错呢也不会有太大反应",
+      "music": 0.0
+    },
+    {
+      "from": 598.31,
+      "to": 601.21,
+      "sid": 278,
+      "location": 2,
+      "content": "这些富二代呢往往性格大相径庭",
+      "music": 0.0
+    },
+    {
+      "from": 601.21,
+      "to": 602.47,
+      "sid": 279,
+      "location": 2,
+      "content": "有的人特别绅士",
+      "music": 0.0
+    },
+    {
+      "from": 602.47,
+      "to": 603.3,
+      "sid": 280,
+      "location": 2,
+      "content": "彬彬有礼",
+      "music": 0.0
+    },
+    {
+      "from": 603.3,
+      "to": 604.82,
+      "sid": 281,
+      "location": 2,
+      "content": "有的人呢性格乖张",
+      "music": 0.0
+    },
+    {
+      "from": 604.82,
+      "to": 606.18,
+      "sid": 282,
+      "location": 2,
+      "content": "特别爱显摆对吧",
+      "music": 0.0
+    },
+    {
+      "from": 606.18,
+      "to": 609.69,
+      "sid": 283,
+      "location": 2,
+      "content": "这和他们的家族发家史以及教育方式有关",
+      "music": 0.0
+    },
+    {
+      "from": 609.69,
+      "to": 611.39,
+      "sid": 284,
+      "location": 2,
+      "content": "但他们有一个共同点",
+      "music": 0.0
+    },
+    {
+      "from": 611.39,
+      "to": 613.83,
+      "sid": 285,
+      "location": 2,
+      "content": "就是他们在了解到一件事情",
+      "music": 0.0
+    },
+    {
+      "from": 613.83,
+      "to": 616.29,
+      "sid": 286,
+      "location": 2,
+      "content": "可能会带来负面结果的时候",
+      "music": 0.0
+    },
+    {
+      "from": 616.29,
+      "to": 617.76,
+      "sid": 287,
+      "location": 2,
+      "content": "他们从来都无所谓",
+      "music": 0.0
+    },
+    {
+      "from": 617.76,
+      "to": 619.9,
+      "sid": 288,
+      "location": 2,
+      "content": "这件事情结果再糟糕",
+      "music": 0.0
+    },
+    {
+      "from": 619.9,
+      "to": 622.28,
+      "sid": 289,
+      "location": 2,
+      "content": "他们也从来不担心被老板骂",
+      "music": 0.0
+    },
+    {
+      "from": 622.28,
+      "to": 625.36,
+      "sid": 290,
+      "location": 2,
+      "content": "也不会为了保住饭碗而去讨好领导",
+      "music": 0.0
+    },
+    {
+      "from": 625.36,
+      "to": 626.339,
+      "sid": 291,
+      "location": 2,
+      "content": "拼命加班",
+      "music": 0.0
+    },
+    {
+      "from": 626.339,
+      "to": 628.239,
+      "sid": 292,
+      "location": 2,
+      "content": "因为前世他们的退路",
+      "music": 0.0
+    },
+    {
+      "from": 628.239,
+      "to": 631.059,
+      "sid": 293,
+      "location": 2,
+      "content": "是帮他们解决难题的很好的工具",
+      "music": 0.0
+    },
+    {
+      "from": 631.059,
+      "to": 634.35,
+      "sid": 294,
+      "location": 2,
+      "content": "或者你可以用我上面提到的媚态来判断",
+      "music": 0.0
+    },
+    {
+      "from": 634.35,
+      "to": 636.67,
+      "sid": 295,
+      "location": 2,
+      "content": "真正的有钱人是没有媚态的",
+      "music": 0.0
+    },
+    {
+      "from": 636.67,
+      "to": 639.77,
+      "sid": 296,
+      "location": 2,
+      "content": "也就是说他们从来不会讨好别人",
+      "music": 0.0
+    },
+    {
+      "from": 639.77,
+      "to": 641.23,
+      "sid": 297,
+      "location": 2,
+      "content": "他们可以是友好的",
+      "music": 0.0
+    },
+    {
+      "from": 641.23,
+      "to": 642.71,
+      "sid": 298,
+      "location": 2,
+      "content": "但不会是讨好你",
+      "music": 0.0
+    },
+    {
+      "from": 642.71,
+      "to": 643.59,
+      "sid": 299,
+      "location": 2,
+      "content": "除此之外",
+      "music": 0.0
+    },
+    {
+      "from": 643.59,
+      "to": 646.53,
+      "sid": 300,
+      "location": 2,
+      "content": "我发现富一代身上也有一个共同点",
+      "music": 0.0
+    },
+    {
+      "from": 646.53,
+      "to": 648.39,
+      "sid": 301,
+      "location": 2,
+      "content": "就是眼神里面有杀气",
+      "music": 0.0
+    },
+    {
+      "from": 648.39,
+      "to": 649.73,
+      "sid": 302,
+      "location": 2,
+      "content": "会让人感到害怕",
+      "music": 0.0
+    },
+    {
+      "from": 649.73,
+      "to": 651.39,
+      "sid": 303,
+      "location": 2,
+      "content": "但不是那种单纯的害怕",
+      "music": 0.0
+    },
+    {
+      "from": 651.39,
+      "to": 653.67,
+      "sid": 304,
+      "location": 2,
+      "content": "而是会让人产生一种敬畏感",
+      "music": 0.0
+    },
+    {
+      "from": 653.67,
+      "to": 654.75,
+      "sid": 305,
+      "location": 2,
+      "content": "对敬畏",
+      "music": 0.0
+    },
+    {
+      "from": 654.75,
+      "to": 656.11,
+      "sid": 306,
+      "location": 2,
+      "content": "你看王健林",
+      "music": 0.0
+    },
+    {
+      "from": 656.11,
+      "to": 658.53,
+      "sid": 307,
+      "location": 2,
+      "content": "马云都是眼神里有杀气的人",
+      "music": 0.0
+    },
+    {
+      "from": 658.53,
+      "to": 659.93,
+      "sid": 308,
+      "location": 2,
+      "content": "包括小米的雷军",
+      "music": 0.0
+    },
+    {
+      "from": 659.93,
+      "to": 661.319,
+      "sid": 309,
+      "location": 2,
+      "content": "眼神也有杀气",
+      "music": 0.0
+    },
+    {
+      "from": 661.319,
+      "to": 664.819,
+      "sid": 310,
+      "location": 2,
+      "content": "他平常总笑会中和他眼神给人的感觉",
+      "music": 0.0
+    },
+    {
+      "from": 664.819,
+      "to": 666.319,
+      "sid": 311,
+      "location": 2,
+      "content": "但他不笑的时候",
+      "music": 0.0
+    },
+    {
+      "from": 666.319,
+      "to": 669.26,
+      "sid": 312,
+      "location": 2,
+      "content": "眼神中给人的敬畏感非常明显",
+      "music": 0.0
+    },
+    {
+      "from": 669.26,
+      "to": 671.22,
+      "sid": 313,
+      "location": 2,
+      "content": "所以富一代或者富二代",
+      "music": 0.0
+    },
+    {
+      "from": 671.22,
+      "to": 672.98,
+      "sid": 314,
+      "location": 2,
+      "content": "要不就是给人一种敬畏感",
+      "music": 0.0
+    },
+    {
+      "from": 672.98,
+      "to": 674.46,
+      "sid": 315,
+      "location": 2,
+      "content": "要不就是什么都无所谓",
+      "music": 0.0
+    },
+    {
+      "from": 674.46,
+      "to": 676.23,
+      "sid": 316,
+      "location": 2,
+      "content": "有钱兜底的态度",
+      "music": 0.0
+    },
+    {
+      "from": 676.23,
+      "to": 678.79,
+      "sid": 317,
+      "location": 2,
+      "content": "但如果你碰到的是八面玲珑的人",
+      "music": 0.0
+    },
+    {
+      "from": 678.79,
+      "to": 680.569,
+      "sid": 318,
+      "location": 2,
+      "content": "这种人一定不是有钱人",
+      "music": 0.0
+    },
+    {
+      "from": 680.569,
+      "to": 681.249,
+      "sid": 319,
+      "location": 2,
+      "content": "为什么呢",
+      "music": 0.0
+    },
+    {
+      "from": 681.249,
+      "to": 683.989,
+      "sid": 320,
+      "location": 2,
+      "content": "因为八面玲珑其实是一种生存之道",
+      "music": 0.0
+    },
+    {
+      "from": 683.989,
+      "to": 687.489,
+      "sid": 321,
+      "location": 2,
+      "content": "说明这个人需要通过维持各方的人际关系",
+      "music": 0.0
+    },
+    {
+      "from": 687.489,
+      "to": 689.68,
+      "sid": 322,
+      "location": 2,
+      "content": "才能在社会当中生存",
+      "music": 0.0
+    },
+    {
+      "from": 689.68,
+      "to": 693.55,
+      "sid": 323,
+      "location": 2,
+      "content": "一般这种人是大公司或者体制内的基层领导",
+      "music": 0.0
+    },
+    {
+      "from": 693.55,
+      "to": 696.07,
+      "sid": 324,
+      "location": 2,
+      "content": "因为能够决定他生死的人太多了",
+      "music": 0.0
+    },
+    {
+      "from": 696.07,
+      "to": 697.91,
+      "sid": 325,
+      "location": 2,
+      "content": "所以他不得不八面玲珑",
+      "music": 0.0
+    },
+    {
+      "from": 697.91,
+      "to": 700.12,
+      "sid": 326,
+      "location": 2,
+      "content": "他需要考虑所有人的感受",
+      "music": 0.0
+    },
+    {
+      "from": 700.12,
+      "to": 702.0,
+      "sid": 327,
+      "location": 2,
+      "content": "如果是一家公司的中高层",
+      "music": 0.0
+    },
+    {
+      "from": 702.0,
+      "to": 703.54,
+      "sid": 328,
+      "location": 2,
+      "content": "他们就不是八面玲珑了",
+      "music": 0.0
+    },
+    {
+      "from": 703.54,
+      "to": 705.2,
+      "sid": 329,
+      "location": 2,
+      "content": "因为到了那个位置上",
+      "music": 0.0
+    },
+    {
+      "from": 705.2,
+      "to": 707.49,
+      "sid": 330,
+      "location": 2,
+      "content": "能够影响到他们利益的人很少",
+      "music": 0.0
+    },
+    {
+      "from": 707.49,
+      "to": 710.37,
+      "sid": 331,
+      "location": 2,
+      "content": "所以他们不需要考虑每个人的感受",
+      "music": 0.0
+    },
+    {
+      "from": 710.37,
+      "to": 712.52,
+      "sid": 332,
+      "location": 2,
+      "content": "但他们身上还是有媚态",
+      "music": 0.0
+    },
+    {
+      "from": 712.52,
+      "to": 713.88,
+      "sid": 333,
+      "location": 2,
+      "content": "对下不会展现",
+      "music": 0.0
+    },
+    {
+      "from": 713.88,
+      "to": 715.99,
+      "sid": 334,
+      "location": 2,
+      "content": "但对上的时候会展露无遗",
+      "music": 0.0
+    },
+    {
+      "from": 715.99,
+      "to": 718.11,
+      "sid": 335,
+      "location": 2,
+      "content": "并且这种反差感非常强烈",
+      "music": 0.0
+    },
+    {
+      "from": 718.11,
+      "to": 719.69,
+      "sid": 336,
+      "location": 2,
+      "content": "这边刚骂完员工",
+      "music": 0.0
+    },
+    {
+      "from": 719.69,
+      "to": 722.42,
+      "sid": 337,
+      "location": 2,
+      "content": "转头就对他的老板卑躬屈膝了",
+      "music": 0.0
+    },
+    {
+      "from": 722.42,
+      "to": 726.44,
+      "sid": 338,
+      "location": 2,
+      "content": "而这种职场里的中高层属于中产或者中产偏上",
+      "music": 0.0
+    },
+    {
+      "from": 726.44,
+      "to": 728.45,
+      "sid": 339,
+      "location": 2,
+      "content": "但也不属于有钱人",
+      "music": 0.0
+    },
+    {
+      "from": 728.45,
+      "to": 730.49,
+      "sid": 340,
+      "location": 2,
+      "content": "小公司的小老板也是这样",
+      "music": 0.0
+    },
+    {
+      "from": 730.49,
+      "to": 731.73,
+      "sid": 341,
+      "location": 2,
+      "content": "他们虽然是老板",
+      "music": 0.0
+    },
+    {
+      "from": 731.73,
+      "to": 733.17,
+      "sid": 342,
+      "location": 2,
+      "content": "但是出门谈合作",
+      "music": 0.0
+    },
+    {
+      "from": 733.17,
+      "to": 733.9,
+      "sid": 343,
+      "location": 2,
+      "content": "谈融资",
+      "music": 0.0
+    },
+    {
+      "from": 733.9,
+      "to": 736.9,
+      "sid": 344,
+      "location": 2,
+      "content": "还是会有一些人能够左右他们的利益的",
+      "music": 0.0
+    },
+    {
+      "from": 736.9,
+      "to": 740.61,
+      "sid": 345,
+      "location": 2,
+      "content": "这个阶段他们也会呈现出反差感和媚态",
+      "music": 0.0
+    },
+    {
+      "from": 740.61,
+      "to": 743.65,
+      "sid": 346,
+      "location": 2,
+      "content": "所以八面玲珑的一般是基层领导",
+      "music": 0.0
+    },
+    {
+      "from": 743.65,
+      "to": 746.13,
+      "sid": 347,
+      "location": 2,
+      "content": "对不同的人有极大反差感",
+      "music": 0.0
+    },
+    {
+      "from": 746.13,
+      "to": 749.37,
+      "sid": 348,
+      "location": 2,
+      "content": "并且对上或者对外媚态很足的",
+      "music": 0.0
+    },
+    {
+      "from": 749.37,
+      "to": 751.74,
+      "sid": 349,
+      "location": 2,
+      "content": "一般是中高层或者小公司老板",
+      "music": 0.0
+    },
+    {
+      "from": 751.74,
+      "to": 754.3,
+      "sid": 350,
+      "location": 2,
+      "content": "最后我再分享一个有钱人的价值观",
+      "music": 0.0
+    },
+    {
+      "from": 754.3,
+      "to": 758.18,
+      "sid": 351,
+      "location": 2,
+      "content": "就是我听说过的有钱人都有家族概念",
+      "music": 0.0
+    },
+    {
+      "from": 758.18,
+      "to": 760.3,
+      "sid": 352,
+      "location": 2,
+      "content": "因为抱团会使人强大",
+      "music": 0.0
+    },
+    {
+      "from": 760.3,
+      "to": 762.32,
+      "sid": 353,
+      "location": 2,
+      "content": "我之前出国旅行住民宿",
+      "music": 0.0
+    },
+    {
+      "from": 762.32,
+      "to": 764.38,
+      "sid": 354,
+      "location": 2,
+      "content": "然后我的室友就跟我说了",
+      "music": 0.0
+    },
+    {
+      "from": 764.38,
+      "to": 767.03,
+      "sid": 355,
+      "location": 2,
+      "content": "他们公司里印度人的抱团事迹",
+      "music": 0.0
+    },
+    {
+      "from": 767.03,
+      "to": 771.26,
+      "sid": 356,
+      "location": 2,
+      "content": "就是他们公司里最开始是有一个印度领导",
+      "music": 0.0
+    },
+    {
+      "from": 771.26,
+      "to": 773.1,
+      "sid": 357,
+      "location": 2,
+      "content": "但是呢过了几年",
+      "music": 0.0
+    },
+    {
+      "from": 773.1,
+      "to": 775.72,
+      "sid": 358,
+      "location": 2,
+      "content": "这家公司变成了乌压压的一片黑色",
+      "music": 0.0
+    },
+    {
+      "from": 775.72,
+      "to": 777.84,
+      "sid": 359,
+      "location": 2,
+      "content": "就是说这个印度领导",
+      "music": 0.0
+    },
+    {
+      "from": 777.84,
+      "to": 780.66,
+      "sid": 360,
+      "location": 2,
+      "content": "把他所有能带来的亲戚全都带来了",
+      "music": 0.0
+    },
+    {
+      "from": 780.66,
+      "to": 784.21,
+      "sid": 361,
+      "location": 2,
+      "content": "然后他的亲戚又带来了更多亲戚",
+      "music": 0.0
+    },
+    {
+      "from": 784.21,
+      "to": 785.87,
+      "sid": 362,
+      "location": 2,
+      "content": "民族抱团会更强大",
+      "music": 0.0
+    },
+    {
+      "from": 785.87,
+      "to": 787.43,
+      "sid": 363,
+      "location": 2,
+      "content": "家族抱团会更有钱",
+      "music": 0.0
+    },
+    {
+      "from": 787.43,
+      "to": 790.43,
+      "sid": 364,
+      "location": 2,
+      "content": "但前提是要健康良性的抱团",
+      "music": 0.0
+    },
+    {
+      "from": 790.43,
+      "to": 791.55,
+      "sid": 365,
+      "location": 2,
+      "content": "所以我跟你们讲",
+      "music": 0.0
+    },
+    {
+      "from": 791.55,
+      "to": 794.49,
+      "sid": 366,
+      "location": 2,
+      "content": "在职场里面不要和老板的关系户闹僵",
+      "music": 0.0
+    },
+    {
+      "from": 794.49,
+      "to": 796.85,
+      "sid": 367,
+      "location": 2,
+      "content": "因为有钱人的底层逻辑就是抱团",
+      "music": 0.0
+    },
+    {
+      "from": 796.85,
+      "to": 798.92,
+      "sid": 368,
+      "location": 2,
+      "content": "他一定会向着那个关系户",
+      "music": 0.0
+    },
+    {
+      "from": 798.92,
+      "to": 801.0,
+      "sid": 369,
+      "location": 2,
+      "content": "最后的最后我想提醒一下",
+      "music": 0.0
+    },
+    {
+      "from": 801.0,
+      "to": 802.84,
+      "sid": 370,
+      "location": 2,
+      "content": "关于普通人的消费观",
+      "music": 0.0
+    },
+    {
+      "from": 802.84,
+      "to": 804.22,
+      "sid": 371,
+      "location": 2,
+      "content": "应该是怎么样的",
+      "music": 0.0
+    },
+    {
+      "from": 804.22,
+      "to": 806.2,
+      "sid": 372,
+      "location": 2,
+      "content": "我之前有听说过这样的案例",
+      "music": 0.0
+    },
+    {
+      "from": 806.2,
+      "to": 808.32,
+      "sid": 373,
+      "location": 2,
+      "content": "就是一个年薪20万的人",
+      "music": 0.0
+    },
+    {
+      "from": 808.32,
+      "to": 809.74,
+      "sid": 374,
+      "location": 2,
+      "content": "他攒了一年的钱",
+      "music": 0.0
+    },
+    {
+      "from": 809.74,
+      "to": 812.43,
+      "sid": 375,
+      "location": 2,
+      "content": "然后花了10万买了一个爱马仕的包",
+      "music": 0.0
+    },
+    {
+      "from": 812.43,
+      "to": 814.49,
+      "sid": 376,
+      "location": 2,
+      "content": "我不建议任何人这样做",
+      "music": 0.0
+    },
+    {
+      "from": 814.49,
+      "to": 816.53,
+      "sid": 377,
+      "location": 2,
+      "content": "你可以因为喜欢而买",
+      "music": 0.0
+    },
+    {
+      "from": 816.53,
+      "to": 818.95,
+      "sid": 378,
+      "location": 2,
+      "content": "你可以把买奢侈品当成你的爱好",
+      "music": 0.0
+    },
+    {
+      "from": 818.95,
+      "to": 821.2,
+      "sid": 379,
+      "location": 2,
+      "content": "但它不能是一个烧钱的爱好",
+      "music": 0.0
+    },
+    {
+      "from": 821.2,
+      "to": 823.2,
+      "sid": 380,
+      "location": 2,
+      "content": "有钱人花钱不节制的话",
+      "music": 0.0
+    },
+    {
+      "from": 823.2,
+      "to": 823.82,
+      "sid": 381,
+      "location": 2,
+      "content": "都会变穷",
+      "music": 0.0
+    },
+    {
+      "from": 823.82,
+      "to": 825.32,
+      "sid": 382,
+      "location": 2,
+      "content": "更何况是普通人呢",
+      "music": 0.0
+    },
+    {
+      "from": 825.32,
+      "to": 827.66,
+      "sid": 383,
+      "location": 2,
+      "content": "你可以每个月用收入的10%",
+      "music": 0.0
+    },
+    {
+      "from": 827.66,
+      "to": 830.23,
+      "sid": 384,
+      "location": 2,
+      "content": "买点能让自己开心的小物件",
+      "music": 0.0
+    },
+    {
+      "from": 830.23,
+      "to": 831.47,
+      "sid": 385,
+      "location": 2,
+      "content": "比如月入3万",
+      "music": 0.0
+    },
+    {
+      "from": 831.47,
+      "to": 834.73,
+      "sid": 386,
+      "location": 2,
+      "content": "每个月花三四千买件衣服项链啥的",
+      "music": 0.0
+    },
+    {
+      "from": 834.73,
+      "to": 836.37,
+      "sid": 387,
+      "location": 2,
+      "content": "哪怕你一个人吃饱",
+      "music": 0.0
+    },
+    {
+      "from": 836.37,
+      "to": 837.17,
+      "sid": 388,
+      "location": 2,
+      "content": "全家不饿",
+      "music": 0.0
+    },
+    {
+      "from": 837.17,
+      "to": 838.53,
+      "sid": 389,
+      "location": 2,
+      "content": "买奢侈品的花费",
+      "music": 0.0
+    },
+    {
+      "from": 838.53,
+      "to": 841.819,
+      "sid": 390,
+      "location": 2,
+      "content": "最多最多也不要超过收入的20%",
+      "music": 0.0
+    },
+    {
+      "from": 841.819,
+      "to": 845.039,
+      "sid": 391,
+      "location": 2,
+      "content": "金钱是帮生活解决难题的工具",
+      "music": 0.0
+    },
+    {
+      "from": 845.039,
+      "to": 847.8,
+      "sid": 392,
+      "location": 2,
+      "content": "但你不要成为金钱的奴隶",
+      "music": 0.0
+    },
+    {
+      "from": 847.8,
+      "to": 849.0,
+      "sid": 393,
+      "location": 2,
+      "content": "我是边大娘",
+      "music": 0.0
+    },
+    {
+      "from": 849.0,
+      "to": 850.56,
+      "sid": 394,
+      "location": 2,
+      "content": "只分享对生活有用的知识",
+      "music": 0.0
+    },
+    {
+      "from": 850.56,
+      "to": 851.44,
+      "sid": 395,
+      "location": 2,
+      "content": "感谢收听",
+      "music": 0.0
+    },
+    {
+      "from": 851.44,
+      "to": 852.44,
+      "sid": 396,
+      "location": 2,
+      "content": "下期再见",
+      "music": 0.0
+    }
+  ]
+}

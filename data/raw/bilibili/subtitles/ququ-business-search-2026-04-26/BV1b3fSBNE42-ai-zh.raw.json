@@ -1,0 +1,2020 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.16,
+      "to": 2.64,
+      "sid": 1,
+      "location": 2,
+      "content": "搞艺术啊真的需要很大的财富量级",
+      "music": 0.0
+    },
+    {
+      "from": 2.64,
+      "to": 5.84,
+      "sid": 2,
+      "location": 2,
+      "content": "就不管你是搞哪一个维度的艺术",
+      "music": 0.0
+    },
+    {
+      "from": 5.84,
+      "to": 10.91,
+      "sid": 3,
+      "location": 2,
+      "content": "你想让你的作品就是像金子会发光",
+      "music": 0.0
+    },
+    {
+      "from": 10.91,
+      "to": 14.33,
+      "sid": 4,
+      "location": 2,
+      "content": "这个根本就根本就不太现实",
+      "music": 0.0
+    },
+    {
+      "from": 14.45,
+      "to": 15.57,
+      "sid": 5,
+      "location": 2,
+      "content": "知道吗",
+      "music": 0.0
+    },
+    {
+      "from": 15.57,
+      "to": 18.65,
+      "sid": 6,
+      "location": 2,
+      "content": "你们不你们不要觉得自己的才华怎么怎么样",
+      "music": 0.0
+    },
+    {
+      "from": 18.65,
+      "to": 19.21,
+      "sid": 7,
+      "location": 2,
+      "content": "我告诉你们",
+      "music": 0.0
+    },
+    {
+      "from": 19.21,
+      "to": 21.33,
+      "sid": 8,
+      "location": 2,
+      "content": "我我很喜欢看画啊",
+      "music": 0.0
+    },
+    {
+      "from": 21.33,
+      "to": 24.01,
+      "sid": 9,
+      "location": 2,
+      "content": "其实我也不是说有多懂或者多钻研",
+      "music": 0.0
+    },
+    {
+      "from": 24.01,
+      "to": 25.79,
+      "sid": 10,
+      "location": 2,
+      "content": "但我比较喜欢这个品类",
+      "music": 0.0
+    },
+    {
+      "from": 25.79,
+      "to": 27.21,
+      "sid": 11,
+      "location": 2,
+      "content": "我看很多画",
+      "music": 0.0
+    },
+    {
+      "from": 27.21,
+      "to": 27.87,
+      "sid": 12,
+      "location": 2,
+      "content": "我跟你们说",
+      "music": 0.0
+    },
+    {
+      "from": 27.87,
+      "to": 31.51,
+      "sid": 13,
+      "location": 2,
+      "content": "其实真的画的好的人还是挺多的",
+      "music": 0.0
+    },
+    {
+      "from": 31.51,
+      "to": 33.59,
+      "sid": 14,
+      "location": 2,
+      "content": "我们经常会看到诶一幅画",
+      "music": 0.0
+    },
+    {
+      "from": 33.59,
+      "to": 35.99,
+      "sid": 15,
+      "location": 2,
+      "content": "感觉这个作品挺不错的",
+      "music": 0.0
+    },
+    {
+      "from": 35.99,
+      "to": 42.76,
+      "sid": 16,
+      "location": 2,
+      "content": "但是一个画真的能够被反复的被抬高价格",
+      "music": 0.0
+    },
+    {
+      "from": 42.76,
+      "to": 47.79,
+      "sid": 17,
+      "location": 2,
+      "content": "其实它这个里边是有很多的运作在里边的",
+      "music": 0.0
+    },
+    {
+      "from": 47.79,
+      "to": 52.31,
+      "sid": 18,
+      "location": 2,
+      "content": "就是有人他们有人要帮你操作这个事情",
+      "music": 0.0
+    },
+    {
+      "from": 52.31,
+      "to": 53.98,
+      "sid": 19,
+      "location": 2,
+      "content": "不是说靠你自己",
+      "music": 0.0
+    },
+    {
+      "from": 53.98,
+      "to": 56.34,
+      "sid": 20,
+      "location": 2,
+      "content": "你就觉得你自己的作品啊",
+      "music": 0.0
+    },
+    {
+      "from": 56.34,
+      "to": 59.11,
+      "sid": 21,
+      "location": 2,
+      "content": "到到哪里都是都是一流的",
+      "music": 0.0
+    },
+    {
+      "from": 59.11,
+      "to": 61.53,
+      "sid": 22,
+      "location": 2,
+      "content": "这个太难太难太难了",
+      "music": 0.0
+    },
+    {
+      "from": 61.53,
+      "to": 66.54,
+      "sid": 23,
+      "location": 2,
+      "content": "你一定是因为有人愿意去拖你的这个作品",
+      "music": 0.0
+    },
+    {
+      "from": 66.54,
+      "to": 68.28,
+      "sid": 24,
+      "location": 2,
+      "content": "把你的这个作品给你轰出来",
+      "music": 0.0
+    },
+    {
+      "from": 68.28,
+      "to": 69.18,
+      "sid": 25,
+      "location": 2,
+      "content": "给你拖出来",
+      "music": 0.0
+    },
+    {
+      "from": 69.18,
+      "to": 70.4,
+      "sid": 26,
+      "location": 2,
+      "content": "我告诉你们啊",
+      "music": 0.0
+    },
+    {
+      "from": 77.36,
+      "to": 80.28,
+      "sid": 27,
+      "location": 2,
+      "content": "当时我有一个做地产的大哥",
+      "music": 0.0
+    },
+    {
+      "from": 80.28,
+      "to": 81.28,
+      "sid": 28,
+      "location": 2,
+      "content": "他就跟我说",
+      "music": 0.0
+    },
+    {
+      "from": 81.28,
+      "to": 83.34,
+      "sid": 29,
+      "location": 2,
+      "content": "就指着他们家一幅画",
+      "music": 0.0
+    },
+    {
+      "from": 83.34,
+      "to": 84.36,
+      "sid": 30,
+      "location": 2,
+      "content": "就跟我说",
+      "music": 0.0
+    },
+    {
+      "from": 84.36,
+      "to": 87.06,
+      "sid": 31,
+      "location": 2,
+      "content": "他说这幅画他拍回来的",
+      "music": 0.0
+    },
+    {
+      "from": 87.06,
+      "to": 88.84,
+      "sid": 32,
+      "location": 2,
+      "content": "当时拍回来花了多少钱呢",
+      "music": 0.0
+    },
+    {
+      "from": 88.84,
+      "to": 93.03,
+      "sid": 33,
+      "location": 2,
+      "content": "拍回来花了好像是70万还是多少钱啊",
+      "music": 0.0
+    },
+    {
+      "from": 93.03,
+      "to": 95.77,
+      "sid": 34,
+      "location": 2,
+      "content": "那个时候我觉得70万是个很大的数字啊",
+      "music": 0.0
+    },
+    {
+      "from": 95.77,
+      "to": 97.19,
+      "sid": 35,
+      "location": 2,
+      "content": "然后那画也挺好看",
+      "music": 0.0
+    },
+    {
+      "from": 97.19,
+      "to": 97.91,
+      "sid": 36,
+      "location": 2,
+      "content": "确实挺好看",
+      "music": 0.0
+    },
+    {
+      "from": 97.91,
+      "to": 98.89,
+      "sid": 37,
+      "location": 2,
+      "content": "确实挺好看哈",
+      "music": 0.0
+    },
+    {
+      "from": 98.89,
+      "to": 100.35,
+      "sid": 38,
+      "location": 2,
+      "content": "哦我当时说哦是吗",
+      "music": 0.0
+    },
+    {
+      "from": 100.35,
+      "to": 102.15,
+      "sid": 39,
+      "location": 2,
+      "content": "我说你这个作家有什么说",
+      "music": 0.0
+    },
+    {
+      "from": 102.15,
+      "to": 103.99,
+      "sid": 40,
+      "location": 2,
+      "content": "就是这个画家有什么说法吗",
+      "music": 0.0
+    },
+    {
+      "from": 103.99,
+      "to": 106.16,
+      "sid": 41,
+      "location": 2,
+      "content": "后来那个老板他就跟我说",
+      "music": 0.0
+    },
+    {
+      "from": 106.16,
+      "to": 110.48,
+      "sid": 42,
+      "location": 2,
+      "content": "他说是有一次一个啊一个一个一个苹果",
+      "music": 0.0
+    },
+    {
+      "from": 110.48,
+      "to": 112.12,
+      "sid": 43,
+      "location": 2,
+      "content": "就叫他去北京",
+      "music": 0.0
+    },
+    {
+      "from": 112.12,
+      "to": 114.22,
+      "sid": 44,
+      "location": 2,
+      "content": "说让她参加一场拍卖会",
+      "music": 0.0
+    },
+    {
+      "from": 114.22,
+      "to": 116.66,
+      "sid": 45,
+      "location": 2,
+      "content": "说邀请他观看一场拍卖会",
+      "music": 0.0
+    },
+    {
+      "from": 116.66,
+      "to": 120.719,
+      "sid": 46,
+      "location": 2,
+      "content": "然后呢就叫了一个女士过来",
+      "music": 0.0
+    },
+    {
+      "from": 120.719,
+      "to": 122.279,
+      "sid": 47,
+      "location": 2,
+      "content": "全程接待他",
+      "music": 0.0
+    },
+    {
+      "from": 122.279,
+      "to": 125.099,
+      "sid": 48,
+      "location": 2,
+      "content": "然后那个女士呢就接到她以后",
+      "music": 0.0
+    },
+    {
+      "from": 125.099,
+      "to": 127.579,
+      "sid": 49,
+      "location": 2,
+      "content": "就去那个就是前拍卖会",
+      "music": 0.0
+    },
+    {
+      "from": 127.579,
+      "to": 130.57,
+      "sid": 50,
+      "location": 2,
+      "content": "前面会有一个叫什么那个叫御展",
+      "music": 0.0
+    },
+    {
+      "from": 130.57,
+      "to": 131.37,
+      "sid": 51,
+      "location": 2,
+      "content": "知道吧",
+      "music": 0.0
+    },
+    {
+      "from": 131.37,
+      "to": 133.03,
+      "sid": 52,
+      "location": 2,
+      "content": "这其实就在预展上",
+      "music": 0.0
+    },
+    {
+      "from": 133.03,
+      "to": 135.93,
+      "sid": 53,
+      "location": 2,
+      "content": "大家基本上就已经心里有数了",
+      "music": 0.0
+    },
+    {
+      "from": 135.93,
+      "to": 137.29,
+      "sid": 54,
+      "location": 2,
+      "content": "谁会买什么东西",
+      "music": 0.0
+    },
+    {
+      "from": 137.29,
+      "to": 138.63,
+      "sid": 55,
+      "location": 2,
+      "content": "然后他就去那个浴展",
+      "music": 0.0
+    },
+    {
+      "from": 138.63,
+      "to": 141.82,
+      "sid": 56,
+      "location": 2,
+      "content": "那个女生呢就是一个很高傲的",
+      "music": 0.0
+    },
+    {
+      "from": 141.82,
+      "to": 143.14,
+      "sid": 57,
+      "location": 2,
+      "content": "很高冷的",
+      "music": 0.0
+    },
+    {
+      "from": 143.14,
+      "to": 144.94,
+      "sid": 58,
+      "location": 2,
+      "content": "很清冷的这么一个形象",
+      "music": 0.0
+    },
+    {
+      "from": 144.94,
+      "to": 146.43,
+      "sid": 59,
+      "location": 2,
+      "content": "就是接待她的那个女生",
+      "music": 0.0
+    },
+    {
+      "from": 146.43,
+      "to": 151.23,
+      "sid": 60,
+      "location": 2,
+      "content": "当时呢他们就在那个画展里头就逛逛逛逛逛逛",
+      "music": 0.0
+    },
+    {
+      "from": 151.23,
+      "to": 152.47,
+      "sid": 61,
+      "location": 2,
+      "content": "好都没觉",
+      "music": 0.0
+    },
+    {
+      "from": 152.47,
+      "to": 153.71,
+      "sid": 62,
+      "location": 2,
+      "content": "哎这个嗯还行吧",
+      "music": 0.0
+    },
+    {
+      "from": 153.71,
+      "to": 156.47,
+      "sid": 63,
+      "location": 2,
+      "content": "嗯这个嗯我觉得这个作家一般吧",
+      "music": 0.0
+    },
+    {
+      "from": 156.47,
+      "to": 157.47,
+      "sid": 64,
+      "location": 2,
+      "content": "就一直是这样",
+      "music": 0.0
+    },
+    {
+      "from": 157.47,
+      "to": 160.89,
+      "sid": 65,
+      "location": 2,
+      "content": "好像很正常的在评价每一个作品啊",
+      "music": 0.0
+    },
+    {
+      "from": 160.89,
+      "to": 163.31,
+      "sid": 66,
+      "location": 2,
+      "content": "结果呢就走到了那幅画面前",
+      "music": 0.0
+    },
+    {
+      "from": 163.31,
+      "to": 167.17,
+      "sid": 67,
+      "location": 2,
+      "content": "然后当时就说我们觉得这幅画非常有潜力",
+      "music": 0.0
+    },
+    {
+      "from": 167.17,
+      "to": 171.67,
+      "sid": 68,
+      "location": 2,
+      "content": "当时他说怎么怎么说啊",
+      "music": 0.0
+    },
+    {
+      "from": 171.67,
+      "to": 174.89,
+      "sid": 69,
+      "location": 2,
+      "content": "那后来那个女生就跟她说说",
+      "music": 0.0
+    },
+    {
+      "from": 174.89,
+      "to": 178.28,
+      "sid": 70,
+      "location": 2,
+      "content": "我觉得今天啊这幅画嗯",
+      "music": 0.0
+    },
+    {
+      "from": 178.28,
+      "to": 181.78,
+      "sid": 71,
+      "location": 2,
+      "content": "应该可以以当时就说70万的价格",
+      "music": 0.0
+    },
+    {
+      "from": 181.78,
+      "to": 182.16,
+      "sid": 72,
+      "location": 2,
+      "content": "还说",
+      "music": 0.0
+    },
+    {
+      "from": 182.16,
+      "to": 185.94,
+      "sid": 73,
+      "location": 2,
+      "content": "我感觉今天这幅画可以以70万的价格去成交",
+      "music": 0.0
+    },
+    {
+      "from": 185.94,
+      "to": 187.76,
+      "sid": 74,
+      "location": 2,
+      "content": "那个女生就说了一句这样的话",
+      "music": 0.0
+    },
+    {
+      "from": 187.76,
+      "to": 188.72,
+      "sid": 75,
+      "location": 2,
+      "content": "然后呢",
+      "music": 0.0
+    },
+    {
+      "from": 188.72,
+      "to": 192.24,
+      "sid": 76,
+      "location": 2,
+      "content": "那个男那个老板当时就听听听懂了嘛是吧",
+      "music": 0.0
+    },
+    {
+      "from": 192.24,
+      "to": 195.26,
+      "sid": 77,
+      "location": 2,
+      "content": "后来她说过一段时间啦",
+      "music": 0.0
+    },
+    {
+      "from": 195.26,
+      "to": 197.1,
+      "sid": 78,
+      "location": 2,
+      "content": "那个女生就说过一段时间啦",
+      "music": 0.0
+    },
+    {
+      "from": 197.1,
+      "to": 198.3,
+      "sid": 79,
+      "location": 2,
+      "content": "我们还有一个展",
+      "music": 0.0
+    },
+    {
+      "from": 198.3,
+      "to": 199.3,
+      "sid": 80,
+      "location": 2,
+      "content": "过一年吧",
+      "music": 0.0
+    },
+    {
+      "from": 199.3,
+      "to": 201.1,
+      "sid": 81,
+      "location": 2,
+      "content": "当时是说过一年还是过两年",
+      "music": 0.0
+    },
+    {
+      "from": 201.1,
+      "to": 203.52,
+      "sid": 82,
+      "location": 2,
+      "content": "他说我们1212年以后还有一个展",
+      "music": 0.0
+    },
+    {
+      "from": 203.52,
+      "to": 206.989,
+      "sid": 83,
+      "location": 2,
+      "content": "他说到时候啊你再把这个话拿过来",
+      "music": 0.0
+    },
+    {
+      "from": 206.989,
+      "to": 208.689,
+      "sid": 84,
+      "location": 2,
+      "content": "我们再帮你拍出去",
+      "music": 0.0
+    },
+    {
+      "from": 208.689,
+      "to": 211.229,
+      "sid": 85,
+      "location": 2,
+      "content": "他说到时候这个画的价格",
+      "music": 0.0
+    },
+    {
+      "from": 211.229,
+      "to": 214.25,
+      "sid": 86,
+      "location": 2,
+      "content": "那肯定就比现在要搞多了",
+      "music": 0.0
+    },
+    {
+      "from": 214.25,
+      "to": 215.01,
+      "sid": 87,
+      "location": 2,
+      "content": "你知道吗",
+      "music": 0.0
+    },
+    {
+      "from": 215.01,
+      "to": 221.06,
+      "sid": 88,
+      "location": 2,
+      "content": "哦这个老板当时就花70万把这幅画拍下来了",
+      "music": 0.0
+    },
+    {
+      "from": 221.06,
+      "to": 222.98,
+      "sid": 89,
+      "location": 2,
+      "content": "这是我在他家里吃饭",
+      "music": 0.0
+    },
+    {
+      "from": 222.98,
+      "to": 224.23,
+      "sid": 90,
+      "location": 2,
+      "content": "他跟我讲的这个故事",
+      "music": 0.0
+    },
+    {
+      "from": 224.23,
+      "to": 227.05,
+      "sid": 91,
+      "location": 2,
+      "content": "那这是很这是好多年前好多年前了啊",
+      "music": 0.0
+    },
+    {
+      "from": 227.05,
+      "to": 228.73,
+      "sid": 92,
+      "location": 2,
+      "content": "现在可能我我不清楚",
+      "music": 0.0
+    },
+    {
+      "from": 228.73,
+      "to": 231.16,
+      "sid": 93,
+      "location": 2,
+      "content": "但这是好多年前好多年前的事情了",
+      "music": 0.0
+    },
+    {
+      "from": 231.16,
+      "to": 232.8,
+      "sid": 94,
+      "location": 2,
+      "content": "那这个故事啊",
+      "music": 0.0
+    },
+    {
+      "from": 232.8,
+      "to": 234.48,
+      "sid": 95,
+      "location": 2,
+      "content": "我就对我就不往下说了",
+      "music": 0.0
+    },
+    {
+      "from": 234.48,
+      "to": 236.44,
+      "sid": 96,
+      "location": 2,
+      "content": "咱们就只能到这儿哈哈",
+      "music": 0.0
+    },
+    {
+      "from": 236.44,
+      "to": 238.16,
+      "sid": 97,
+      "location": 2,
+      "content": "到这儿就打住了是吧",
+      "music": 0.0
+    },
+    {
+      "from": 238.16,
+      "to": 239.8,
+      "sid": 98,
+      "location": 2,
+      "content": "反正呢我就告诉你们",
+      "music": 0.0
+    },
+    {
+      "from": 239.8,
+      "to": 245.19,
+      "sid": 99,
+      "location": 2,
+      "content": "就是这个前面打电话让他去参加这个展的人",
+      "music": 0.0
+    },
+    {
+      "from": 245.19,
+      "to": 248.11,
+      "sid": 100,
+      "location": 2,
+      "content": "从头到尾是没有出现过的啊",
+      "music": 0.0
+    },
+    {
+      "from": 248.11,
+      "to": 251.7,
+      "sid": 101,
+      "location": 2,
+      "content": "从头到尾中间就是这个女的再接待她",
+      "music": 0.0
+    },
+    {
+      "from": 251.7,
+      "to": 253.16,
+      "sid": 102,
+      "location": 2,
+      "content": "是个女的在跟她沟通",
+      "music": 0.0
+    },
+    {
+      "from": 253.16,
+      "to": 255.5,
+      "sid": 103,
+      "location": 2,
+      "content": "然后而且人家讲话这个方式啊",
+      "music": 0.0
+    },
+    {
+      "from": 255.5,
+      "to": 260.909,
+      "sid": 104,
+      "location": 2,
+      "content": "人家讲话这个风格啊都都是就是有点隔靴搔痒",
+      "music": 0.0
+    },
+    {
+      "from": 260.909,
+      "to": 262.32,
+      "sid": 105,
+      "location": 2,
+      "content": "那个风格知道吗",
+      "music": 0.0
+    },
+    {
+      "from": 262.32,
+      "to": 263.56,
+      "sid": 106,
+      "location": 2,
+      "content": "哎这个可以诶",
+      "music": 0.0
+    },
+    {
+      "from": 263.56,
+      "to": 264.24,
+      "sid": 107,
+      "location": 2,
+      "content": "这个不错诶",
+      "music": 0.0
+    },
+    {
+      "from": 264.24,
+      "to": 265.36,
+      "sid": 108,
+      "location": 2,
+      "content": "这个还行啊",
+      "music": 0.0
+    },
+    {
+      "from": 265.36,
+      "to": 266.84,
+      "sid": 109,
+      "location": 2,
+      "content": "哦我觉得这个值钱",
+      "music": 0.0
+    },
+    {
+      "from": 266.84,
+      "to": 269.47,
+      "sid": 110,
+      "location": 2,
+      "content": "这个未来有上升空空间",
+      "music": 0.0
+    },
+    {
+      "from": 270.79,
+      "to": 272.15,
+      "sid": 111,
+      "location": 2,
+      "content": "后来卖出去没有",
+      "music": 0.0
+    },
+    {
+      "from": 272.15,
+      "to": 272.95,
+      "sid": 112,
+      "location": 2,
+      "content": "我不知道",
+      "music": 0.0
+    },
+    {
+      "from": 272.95,
+      "to": 275.23,
+      "sid": 113,
+      "location": 2,
+      "content": "因为那个老板后来被抓了",
+      "music": 0.0
+    },
+    {
+      "from": 276.6,
+      "to": 278.7,
+      "sid": 114,
+      "location": 2,
+      "content": "大哥后来进去了",
+      "music": 0.0
+    },
+    {
+      "from": 278.7,
+      "to": 279.66,
+      "sid": 115,
+      "location": 2,
+      "content": "我跟你们说啊",
+      "music": 0.0
+    },
+    {
+      "from": 279.66,
+      "to": 282.52,
+      "sid": 116,
+      "location": 2,
+      "content": "就是我是看过很多周期的人",
+      "music": 0.0
+    },
+    {
+      "from": 282.52,
+      "to": 284.36,
+      "sid": 117,
+      "location": 2,
+      "content": "我是真的看过很多周期的人",
+      "music": 0.0
+    },
+    {
+      "from": 284.36,
+      "to": 285.6,
+      "sid": 118,
+      "location": 2,
+      "content": "我真的是出来混社会",
+      "music": 0.0
+    },
+    {
+      "from": 285.6,
+      "to": 286.56,
+      "sid": 119,
+      "location": 2,
+      "content": "早知道吧",
+      "music": 0.0
+    },
+    {
+      "from": 286.56,
+      "to": 288.4,
+      "sid": 120,
+      "location": 2,
+      "content": "我真的出来混社会太早了",
+      "music": 0.0
+    },
+    {
+      "from": 288.4,
+      "to": 289.76,
+      "sid": 121,
+      "location": 2,
+      "content": "那大哥已经进去了",
+      "music": 0.0
+    },
+    {
+      "from": 289.76,
+      "to": 292.33,
+      "sid": 122,
+      "location": 2,
+      "content": "那大哥那大哥已经多少年没有音信了",
+      "music": 0.0
+    },
+    {
+      "from": 292.33,
+      "to": 292.89,
+      "sid": 123,
+      "location": 2,
+      "content": "进去了",
+      "music": 0.0
+    },
+    {
+      "from": 292.89,
+      "to": 293.77,
+      "sid": 124,
+      "location": 2,
+      "content": "后来出没出来",
+      "music": 0.0
+    },
+    {
+      "from": 293.77,
+      "to": 294.37,
+      "sid": 125,
+      "location": 2,
+      "content": "我也不知道",
+      "music": 0.0
+    },
+    {
+      "from": 294.37,
+      "to": 296.25,
+      "sid": 126,
+      "location": 2,
+      "content": "反正这大哥已经进去了啊",
+      "music": 0.0
+    },
+    {
+      "from": 296.25,
+      "to": 299.1,
+      "sid": 127,
+      "location": 2,
+      "content": "我只能告诉你们是这么个故事好不好",
+      "music": 0.0
+    },
+    {
+      "from": 299.1,
+      "to": 300.48,
+      "sid": 128,
+      "location": 2,
+      "content": "所以说呢这个就是说",
+      "music": 0.0
+    },
+    {
+      "from": 300.48,
+      "to": 302.66,
+      "sid": 129,
+      "location": 2,
+      "content": "我虽然说我对于这些东西啊",
+      "music": 0.0
+    },
+    {
+      "from": 302.66,
+      "to": 303.76,
+      "sid": 130,
+      "location": 2,
+      "content": "我没有什么太",
+      "music": 0.0
+    },
+    {
+      "from": 303.76,
+      "to": 305.86,
+      "sid": 131,
+      "location": 2,
+      "content": "因为我是一个自身确实喜欢的东西",
+      "music": 0.0
+    },
+    {
+      "from": 305.86,
+      "to": 307.95,
+      "sid": 132,
+      "location": 2,
+      "content": "你们也知道我有的时候也会去买",
+      "music": 0.0
+    },
+    {
+      "from": 307.95,
+      "to": 309.51,
+      "sid": 133,
+      "location": 2,
+      "content": "而且呢我的买呢",
+      "music": 0.0
+    },
+    {
+      "from": 309.51,
+      "to": 312.04,
+      "sid": 134,
+      "location": 2,
+      "content": "纯粹是就纯粹是就是",
+      "music": 0.0
+    },
+    {
+      "from": 312.04,
+      "to": 315.18,
+      "sid": 135,
+      "location": 2,
+      "content": "我觉得哎我我我我欣赏这个作品啊",
+      "music": 0.0
+    },
+    {
+      "from": 315.18,
+      "to": 317.6,
+      "sid": 136,
+      "location": 2,
+      "content": "但是我为什么会去买一个作品",
+      "music": 0.0
+    },
+    {
+      "from": 317.6,
+      "to": 321.35,
+      "sid": 137,
+      "location": 2,
+      "content": "大概率也是因为一个场域我买过两副",
+      "music": 0.0
+    },
+    {
+      "from": 321.35,
+      "to": 323.11,
+      "sid": 138,
+      "location": 2,
+      "content": "你们知道我买过两副香",
+      "music": 0.0
+    },
+    {
+      "from": 323.11,
+      "to": 325.91,
+      "sid": 139,
+      "location": 2,
+      "content": "我相较而言相对于我对这个东西的认知而言啊",
+      "music": 0.0
+    },
+    {
+      "from": 325.91,
+      "to": 327.93,
+      "sid": 140,
+      "location": 2,
+      "content": "相对于我觉得比较贵的两幅",
+      "music": 0.0
+    },
+    {
+      "from": 327.93,
+      "to": 331.34,
+      "sid": 141,
+      "location": 2,
+      "content": "一幅呢是挂在上海",
+      "music": 0.0
+    },
+    {
+      "from": 331.34,
+      "to": 335.55,
+      "sid": 142,
+      "location": 2,
+      "content": "一个非常的高端的一个艺术馆",
+      "music": 0.0
+    },
+    {
+      "from": 335.55,
+      "to": 337.11,
+      "sid": 143,
+      "location": 2,
+      "content": "他在那个高端艺术馆呢",
+      "music": 0.0
+    },
+    {
+      "from": 337.11,
+      "to": 338.78,
+      "sid": 144,
+      "location": 2,
+      "content": "那里面是个吃饭的地方",
+      "music": 0.0
+    },
+    {
+      "from": 338.78,
+      "to": 340.54,
+      "sid": 145,
+      "location": 2,
+      "content": "我呢是在那吃饭",
+      "music": 0.0
+    },
+    {
+      "from": 340.54,
+      "to": 343.54,
+      "sid": 146,
+      "location": 2,
+      "content": "结果正好在做那个画家的展",
+      "music": 0.0
+    },
+    {
+      "from": 343.54,
+      "to": 345.409,
+      "sid": 147,
+      "location": 2,
+      "content": "就全部是那个画家的展",
+      "music": 0.0
+    },
+    {
+      "from": 345.409,
+      "to": 348.449,
+      "sid": 148,
+      "location": 2,
+      "content": "你说如果我不在那吃饭",
+      "music": 0.0
+    },
+    {
+      "from": 348.449,
+      "to": 350.409,
+      "sid": 149,
+      "location": 2,
+      "content": "我是不是看不到这个展",
+      "music": 0.0
+    },
+    {
+      "from": 350.409,
+      "to": 353.21,
+      "sid": 150,
+      "location": 2,
+      "content": "我压根儿就不认识这个人对吧",
+      "music": 0.0
+    },
+    {
+      "from": 353.21,
+      "to": 356.81,
+      "sid": 151,
+      "location": 2,
+      "content": "我是因为我的客户把我带到那个地方去吃饭",
+      "music": 0.0
+    },
+    {
+      "from": 356.81,
+      "to": 360.5,
+      "sid": 152,
+      "location": 2,
+      "content": "我才有机会看到了那幅画",
+      "music": 0.0
+    },
+    {
+      "from": 360.5,
+      "to": 363.06,
+      "sid": 153,
+      "location": 2,
+      "content": "然而那个很高端的那个展",
+      "music": 0.0
+    },
+    {
+      "from": 363.06,
+      "to": 365.44,
+      "sid": 154,
+      "location": 2,
+      "content": "那天全部是展的那个艺术家的画",
+      "music": 0.0
+    },
+    {
+      "from": 365.44,
+      "to": 367.13,
+      "sid": 155,
+      "location": 2,
+      "content": "就是展的他一个人的画",
+      "music": 0.0
+    },
+    {
+      "from": 367.13,
+      "to": 367.93,
+      "sid": 156,
+      "location": 2,
+      "content": "我看到了",
+      "music": 0.0
+    },
+    {
+      "from": 367.93,
+      "to": 369.57,
+      "sid": 157,
+      "location": 2,
+      "content": "我当时就很喜欢",
+      "music": 0.0
+    },
+    {
+      "from": 369.57,
+      "to": 370.15,
+      "sid": 158,
+      "location": 2,
+      "content": "你知道吗",
+      "music": 0.0
+    },
+    {
+      "from": 370.15,
+      "to": 371.21,
+      "sid": 159,
+      "location": 2,
+      "content": "我确实当时很喜欢",
+      "music": 0.0
+    },
+    {
+      "from": 371.21,
+      "to": 372.29,
+      "sid": 160,
+      "location": 2,
+      "content": "我就对那个很有感觉",
+      "music": 0.0
+    },
+    {
+      "from": 372.29,
+      "to": 373.63,
+      "sid": 161,
+      "location": 2,
+      "content": "我当时就觉得那个很贵",
+      "music": 0.0
+    },
+    {
+      "from": 373.63,
+      "to": 374.65,
+      "sid": 162,
+      "location": 2,
+      "content": "我就没买",
+      "music": 0.0
+    },
+    {
+      "from": 374.65,
+      "to": 376.49,
+      "sid": 163,
+      "location": 2,
+      "content": "但是我回去以后就心心念念",
+      "music": 0.0
+    },
+    {
+      "from": 376.49,
+      "to": 377.85,
+      "sid": 164,
+      "location": 2,
+      "content": "我回去以后心心念念",
+      "music": 0.0
+    },
+    {
+      "from": 377.85,
+      "to": 380.45,
+      "sid": 165,
+      "location": 2,
+      "content": "我才又回头又去把这个画给买了",
+      "music": 0.0
+    },
+    {
+      "from": 380.45,
+      "to": 381.37,
+      "sid": 166,
+      "location": 2,
+      "content": "这是一次",
+      "music": 0.0
+    },
+    {
+      "from": 381.37,
+      "to": 381.97,
+      "sid": 167,
+      "location": 2,
+      "content": "还有一次",
+      "music": 0.0
+    },
+    {
+      "from": 381.97,
+      "to": 384.11,
+      "sid": 168,
+      "location": 2,
+      "content": "就是你们看到我那个直播间后面的那个画",
+      "music": 0.0
+    },
+    {
+      "from": 384.11,
+      "to": 387.5,
+      "sid": 169,
+      "location": 2,
+      "content": "那个是在香港那个慈善慈善拍卖",
+      "music": 0.0
+    },
+    {
+      "from": 387.5,
+      "to": 391.02,
+      "sid": 170,
+      "location": 2,
+      "content": "那个是也是那个为什么我会去那个慈善拍卖",
+      "music": 0.0
+    },
+    {
+      "from": 391.02,
+      "to": 392.5,
+      "sid": 171,
+      "location": 2,
+      "content": "也是因为我们一个会员",
+      "music": 0.0
+    },
+    {
+      "from": 392.5,
+      "to": 393.96,
+      "sid": 172,
+      "location": 2,
+      "content": "就我们那个会员",
+      "music": 0.0
+    },
+    {
+      "from": 397.14,
+      "to": 398.14,
+      "sid": 173,
+      "location": 2,
+      "content": "的这么一个角色",
+      "music": 0.0
+    },
+    {
+      "from": 398.14,
+      "to": 401.5,
+      "sid": 174,
+      "location": 2,
+      "content": "等于说人家邀请我们去纯粹的就是说去玩啊",
+      "music": 0.0
+    },
+    {
+      "from": 401.5,
+      "to": 403.429,
+      "sid": 175,
+      "location": 2,
+      "content": "去啊去去去搜索一下",
+      "music": 0.0
+    },
+    {
+      "from": 403.429,
+      "to": 407.76,
+      "sid": 176,
+      "location": 2,
+      "content": "那我呢是为了捧别人的场",
+      "music": 0.0
+    },
+    {
+      "from": 407.76,
+      "to": 408.5,
+      "sid": 177,
+      "location": 2,
+      "content": "懂吗",
+      "music": 0.0
+    },
+    {
+      "from": 408.5,
+      "to": 411.78,
+      "sid": 178,
+      "location": 2,
+      "content": "就是我正好看到了一个自己比较喜欢的东西",
+      "music": 0.0
+    },
+    {
+      "from": 411.78,
+      "to": 414.61,
+      "sid": 179,
+      "location": 2,
+      "content": "但是这个喜欢的东西它的价格也比较的贵",
+      "music": 0.0
+    },
+    {
+      "from": 414.61,
+      "to": 416.01,
+      "sid": 180,
+      "location": 2,
+      "content": "我可买可不买",
+      "music": 0.0
+    },
+    {
+      "from": 416.01,
+      "to": 417.09,
+      "sid": 181,
+      "location": 2,
+      "content": "就这个东西对于我来说",
+      "music": 0.0
+    },
+    {
+      "from": 417.09,
+      "to": 418.44,
+      "sid": 182,
+      "location": 2,
+      "content": "不是一个非买不可的东西",
+      "music": 0.0
+    },
+    {
+      "from": 418.44,
+      "to": 420.2,
+      "sid": 183,
+      "location": 2,
+      "content": "但是呢我看到了一个还可以东西",
+      "music": 0.0
+    },
+    {
+      "from": 420.2,
+      "to": 424.22,
+      "sid": 184,
+      "location": 2,
+      "content": "我又希望能够去给我们的那个会员面子",
+      "music": 0.0
+    },
+    {
+      "from": 424.22,
+      "to": 426.99,
+      "sid": 185,
+      "location": 2,
+      "content": "我希望能够去烘托他的身份",
+      "music": 0.0
+    },
+    {
+      "from": 426.99,
+      "to": 431.54,
+      "sid": 186,
+      "location": 2,
+      "content": "所以我最后就买了拍了那幅画对吧",
+      "music": 0.0
+    },
+    {
+      "from": 431.54,
+      "to": 434.62,
+      "sid": 187,
+      "location": 2,
+      "content": "就这我买过两幅价格比较贵的作品",
+      "music": 0.0
+    },
+    {
+      "from": 434.62,
+      "to": 436.21,
+      "sid": 188,
+      "location": 2,
+      "content": "都是在这种情况下买的",
+      "music": 0.0
+    },
+    {
+      "from": 436.21,
+      "to": 437.89,
+      "sid": 189,
+      "location": 2,
+      "content": "虽然这些画它好不好看",
+      "music": 0.0
+    },
+    {
+      "from": 437.89,
+      "to": 438.97,
+      "sid": 190,
+      "location": 2,
+      "content": "他肯定是好看的",
+      "music": 0.0
+    },
+    {
+      "from": 438.97,
+      "to": 440.13,
+      "sid": 191,
+      "location": 2,
+      "content": "他的艺术造诣怎么样",
+      "music": 0.0
+    },
+    {
+      "from": 440.13,
+      "to": 443.0,
+      "sid": 192,
+      "location": 2,
+      "content": "我觉得这总归是这是80分以上",
+      "music": 0.0
+    },
+    {
+      "from": 443.0,
+      "to": 443.96,
+      "sid": 193,
+      "location": 2,
+      "content": "肯定是有的吧",
+      "music": 0.0
+    },
+    {
+      "from": 443.96,
+      "to": 444.86,
+      "sid": 194,
+      "location": 2,
+      "content": "哈哈是吧",
+      "music": 0.0
+    },
+    {
+      "from": 444.86,
+      "to": 446.78,
+      "sid": 195,
+      "location": 2,
+      "content": "我们不能说对艺术有多懂",
+      "music": 0.0
+    },
+    {
+      "from": 446.78,
+      "to": 449.18,
+      "sid": 196,
+      "location": 2,
+      "content": "但是你这个东西肯定是好看的东西",
+      "music": 0.0
+    },
+    {
+      "from": 449.18,
+      "to": 449.82,
+      "sid": 197,
+      "location": 2,
+      "content": "对不对",
+      "music": 0.0
+    },
+    {
+      "from": 449.82,
+      "to": 453.22,
+      "sid": 198,
+      "location": 2,
+      "content": "但是你说他怎么能够以那么高的价格",
+      "music": 0.0
+    },
+    {
+      "from": 453.22,
+      "to": 457.78,
+      "sid": 199,
+      "location": 2,
+      "content": "流通到一个完全不认识这个艺术家的人手里",
+      "music": 0.0
+    },
+    {
+      "from": 457.78,
+      "to": 459.36,
+      "sid": 200,
+      "location": 2,
+      "content": "你像我这样的一个买家",
+      "music": 0.0
+    },
+    {
+      "from": 459.36,
+      "to": 461.26,
+      "sid": 201,
+      "location": 2,
+      "content": "他怎么能流通到我手里",
+      "music": 0.0
+    },
+    {
+      "from": 461.26,
+      "to": 464.12,
+      "sid": 202,
+      "location": 2,
+      "content": "是因为那个场域烘托了那个作品",
+      "music": 0.0
+    },
+    {
+      "from": 464.12,
+      "to": 468.41,
+      "sid": 203,
+      "location": 2,
+      "content": "但是为什么那个作品能出现在哪个场域",
+      "music": 0.0
+    },
+    {
+      "from": 468.41,
+      "to": 469.78,
+      "sid": 204,
+      "location": 2,
+      "content": "这是个问题",
+      "music": 0.0
+    },
+    {
+      "from": 469.78,
+      "to": 473.58,
+      "sid": 205,
+      "location": 2,
+      "content": "这个世界上有那么多的那么多的画",
+      "music": 0.0
+    },
+    {
+      "from": 473.58,
+      "to": 474.68,
+      "sid": 206,
+      "location": 2,
+      "content": "那么多的作品",
+      "music": 0.0
+    },
+    {
+      "from": 474.68,
+      "to": 476.8,
+      "sid": 207,
+      "location": 2,
+      "content": "那么多的艺术家对吧",
+      "music": 0.0
+    },
+    {
+      "from": 476.8,
+      "to": 479.85,
+      "sid": 208,
+      "location": 2,
+      "content": "什么样的艺术家的作品",
+      "music": 0.0
+    },
+    {
+      "from": 479.85,
+      "to": 482.07,
+      "sid": 209,
+      "location": 2,
+      "content": "他就能出现在那个场域呢",
+      "music": 0.0
+    },
+    {
+      "from": 482.07,
+      "to": 484.43,
+      "sid": 210,
+      "location": 2,
+      "content": "谁让他出现在那个场域",
+      "music": 0.0
+    },
+    {
+      "from": 484.43,
+      "to": 488.0,
+      "sid": 211,
+      "location": 2,
+      "content": "这个才是这个世界里面最核心的一个点",
+      "music": 0.0
+    },
+    {
+      "from": 488.48,
+      "to": 489.14,
+      "sid": 212,
+      "location": 2,
+      "content": "对不对",
+      "music": 0.0
+    },
+    {
+      "from": 489.14,
+      "to": 490.92,
+      "sid": 213,
+      "location": 2,
+      "content": "我们这种是属于自然购买人啊",
+      "music": 0.0
+    },
+    {
+      "from": 490.92,
+      "to": 493.88,
+      "sid": 214,
+      "location": 2,
+      "content": "就是说完全是完全是自自然流量的这种",
+      "music": 0.0
+    },
+    {
+      "from": 493.88,
+      "to": 496.18,
+      "sid": 215,
+      "location": 2,
+      "content": "但是我刚刚跟你们讲的那个故事",
+      "music": 0.0
+    },
+    {
+      "from": 496.18,
+      "to": 499.86,
+      "sid": 216,
+      "location": 2,
+      "content": "其实那个代表了这样的一个市场里",
+      "music": 0.0
+    },
+    {
+      "from": 499.86,
+      "to": 503.63,
+      "sid": 217,
+      "location": 2,
+      "content": "很多的人他在操作的一种形式",
+      "music": 0.0
+    },
+    {
+      "from": 503.63,
+      "to": 506.45,
+      "sid": 218,
+      "location": 2,
+      "content": "有人要让你呈现在那个地方",
+      "music": 0.0
+    },
+    {
+      "from": 506.45,
+      "to": 509.74,
+      "sid": 219,
+      "location": 2,
+      "content": "有人要让别人花多少钱给他买走",
+      "music": 0.0
+    },
+    {
+      "from": 509.74,
+      "to": 513.21,
+      "sid": 220,
+      "location": 2,
+      "content": "有人会告诉你下一轮这个东西值多少钱",
+      "music": 0.0
+    },
+    {
+      "from": 513.21,
+      "to": 514.33,
+      "sid": 221,
+      "location": 2,
+      "content": "他是这么一个逻辑",
+      "music": 0.0
+    },
+    {
+      "from": 514.33,
+      "to": 515.03,
+      "sid": 222,
+      "location": 2,
+      "content": "所以我跟大家讲",
+      "music": 0.0
+    },
+    {
+      "from": 515.03,
+      "to": 517.41,
+      "sid": 223,
+      "location": 2,
+      "content": "我是真的看过了很多很多的周期",
+      "music": 0.0
+    },
+    {
+      "from": 517.41,
+      "to": 519.36,
+      "sid": 224,
+      "location": 2,
+      "content": "我在跟你们讲这个话的",
+      "music": 0.0
+    },
+    {
+      "from": 519.36,
+      "to": 522.86,
+      "sid": 225,
+      "location": 2,
+      "content": "当然啊在那个时候大家所有的人都还非常有钱",
+      "music": 0.0
+    },
+    {
+      "from": 522.86,
+      "to": 524.99,
+      "sid": 226,
+      "location": 2,
+      "content": "就是非常牛掰的",
+      "music": 0.0
+    },
+    {
+      "from": 524.99,
+      "to": 527.39,
+      "sid": 227,
+      "location": 2,
+      "content": "那个时候就是你听到这个故事的时候",
+      "music": 0.0
+    },
+    {
+      "from": 527.39,
+      "to": 530.29,
+      "sid": 228,
+      "location": 2,
+      "content": "你也就是觉得哇好好好好鸟好吊是吧",
+      "music": 0.0
+    },
+    {
+      "from": 530.29,
+      "to": 531.23,
+      "sid": 229,
+      "location": 2,
+      "content": "好牛逼啊对吧",
+      "music": 0.0
+    },
+    {
+      "from": 531.23,
+      "to": 533.579,
+      "sid": 230,
+      "location": 2,
+      "content": "但是确确实实后来被抓了啊",
+      "music": 0.0
+    },
+    {
+      "from": 534.899,
+      "to": 537.279,
+      "sid": 231,
+      "location": 2,
+      "content": "确实是确实坏被抓了",
+      "music": 0.0
+    },
+    {
+      "from": 537.279,
+      "to": 541.06,
+      "sid": 232,
+      "location": 2,
+      "content": "所以说啊所以说咱们有的时候做事是这样",
+      "music": 0.0
+    },
+    {
+      "from": 541.06,
+      "to": 545.6,
+      "sid": 233,
+      "location": 2,
+      "content": "这个操作路径咱们可以懂方式方法",
+      "music": 0.0
+    },
+    {
+      "from": 545.6,
+      "to": 548.52,
+      "sid": 234,
+      "location": 2,
+      "content": "我可以有点哎有有有点认知是吧",
+      "music": 0.0
+    },
+    {
+      "from": 548.52,
+      "to": 552.3,
+      "sid": 235,
+      "location": 2,
+      "content": "但是这个事在什么地方做",
+      "music": 0.0
+    },
+    {
+      "from": 552.62,
+      "to": 553.38,
+      "sid": 236,
+      "location": 2,
+      "content": "对不对",
+      "music": 0.0
+    },
+    {
+      "from": 553.38,
+      "to": 556.49,
+      "sid": 237,
+      "location": 2,
+      "content": "就今天我有我有我有一把刀",
+      "music": 0.0
+    },
+    {
+      "from": 556.49,
+      "to": 560.17,
+      "sid": 238,
+      "location": 2,
+      "content": "我是拿这把刀做出一顿美味佳肴",
+      "music": 0.0
+    },
+    {
+      "from": 560.17,
+      "to": 562.4,
+      "sid": 239,
+      "location": 2,
+      "content": "还是拿这把刀啊",
+      "music": 0.0
+    },
+    {
+      "from": 562.4,
+      "to": 563.88,
+      "sid": 240,
+      "location": 2,
+      "content": "干什么违法乱纪的事",
+      "music": 0.0
+    },
+    {
+      "from": 563.88,
+      "to": 564.44,
+      "sid": 241,
+      "location": 2,
+      "content": "对不对",
+      "music": 0.0
+    },
+    {
+      "from": 564.44,
+      "to": 566.58,
+      "sid": 242,
+      "location": 2,
+      "content": "就这个工具我心里有数",
+      "music": 0.0
+    },
+    {
+      "from": 566.58,
+      "to": 569.42,
+      "sid": 243,
+      "location": 2,
+      "content": "我知道这个世界上他是有这样的一个工具",
+      "music": 0.0
+    },
+    {
+      "from": 569.42,
+      "to": 572.86,
+      "sid": 244,
+      "location": 2,
+      "content": "有这样的一个方式方法策略而存在的",
+      "music": 0.0
+    },
+    {
+      "from": 572.86,
+      "to": 574.3,
+      "sid": 245,
+      "location": 2,
+      "content": "但是至于要把这样的方式",
+      "music": 0.0
+    },
+    {
+      "from": 574.3,
+      "to": 576.349,
+      "sid": 246,
+      "location": 2,
+      "content": "方法策略用到什么样的地方",
+      "music": 0.0
+    },
+    {
+      "from": 576.349,
+      "to": 579.309,
+      "sid": 247,
+      "location": 2,
+      "content": "哎这个他最后就会产生完全不一样的结果",
+      "music": 0.0
+    },
+    {
+      "from": 579.309,
+      "to": 581.029,
+      "sid": 248,
+      "location": 2,
+      "content": "如果大家也希望能够观看到我们的实时的",
+      "music": 0.0
+    },
+    {
+      "from": 581.029,
+      "to": 581.629,
+      "sid": 249,
+      "location": 2,
+      "content": "连麦现场的话",
+      "music": 0.0
+    },
+    {
+      "from": 581.629,
+      "to": 582.989,
+      "sid": 250,
+      "location": 2,
+      "content": "也欢迎大家来到我们的大本营啊",
+      "music": 0.0
+    },
+    {
+      "from": 582.989,
+      "to": 584.76,
+      "sid": 251,
+      "location": 2,
+      "content": "来到我们的金贵的社群或者是闺蜜联盟",
+      "music": 0.0
+    }
+  ]
+}

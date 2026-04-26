@@ -1,0 +1,22 @@
+{
+  "bvid": "BV1wpU7BGEdU",
+  "cid": 34168966224,
+  "title": "做短视频的本质是黑掉人的认知系统",
+  "owner_name": "dontbesilent聊赚钱",
+  "status": "downloaded",
+  "reason": null,
+  "subtitle": {
+    "id": 1605036321447927552,
+    "lan": "ai-zh",
+    "lan_doc": "中文",
+    "is_lock": false,
+    "subtitle_url": "https://aisubtitle.hdslb.com/bfs/ai_subtitle/prod/11334349907860226390561629b95ec462321d7b06437f91029d828ffa",
+    "type": 1,
+    "id_str": "1605036321447927552",
+    "ai_type": 0,
+    "ai_status": 2
+  },
+  "raw_subtitle_path": "data\\raw\\bilibili\\subtitles\\275565632\\BV1wpU7BGEdU-ai-zh.raw.json",
+  "text_path": "data\\raw\\bilibili\\subtitles\\275565632\\BV1wpU7BGEdU-ai-zh.txt",
+  "metadata_path": "data\\raw\\bilibili\\subtitles\\275565632\\BV1wpU7BGEdU-ai-zh.metadata.json"
+}

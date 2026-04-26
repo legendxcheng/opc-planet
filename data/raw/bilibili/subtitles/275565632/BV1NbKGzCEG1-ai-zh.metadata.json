@@ -1,0 +1,22 @@
+{
+  "bvid": "BV1NbKGzCEG1",
+  "cid": 30678385818,
+  "title": "如何只靠原创涨粉 20 万，我的爆款逻辑",
+  "owner_name": "dontbesilent聊赚钱",
+  "status": "downloaded",
+  "reason": null,
+  "subtitle": {
+    "id": 1783636351858658048,
+    "lan": "ai-zh",
+    "lan_doc": "中文",
+    "is_lock": false,
+    "subtitle_url": "https://aisubtitle.hdslb.com/bfs/ai_subtitle/prod/11473886013291530678385818029f0c97f093b42d4a1b004896bca410",
+    "type": 1,
+    "id_str": "1783636351858658048",
+    "ai_type": 0,
+    "ai_status": 2
+  },
+  "raw_subtitle_path": "data\\raw\\bilibili\\subtitles\\275565632\\BV1NbKGzCEG1-ai-zh.raw.json",
+  "text_path": "data\\raw\\bilibili\\subtitles\\275565632\\BV1NbKGzCEG1-ai-zh.txt",
+  "metadata_path": "data\\raw\\bilibili\\subtitles\\275565632\\BV1NbKGzCEG1-ai-zh.metadata.json"
+}

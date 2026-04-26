@@ -1,0 +1,22 @@
+{
+  "bvid": "BV1A6JyzYEKo",
+  "cid": 32584240985,
+  "title": "数字人颠覆了自媒体行业❗️一键完成全球化",
+  "owner_name": "dontbesilent聊赚钱",
+  "status": "downloaded",
+  "reason": null,
+  "subtitle": {
+    "id": 1849619077748951552,
+    "lan": "ai-zh",
+    "lan_doc": "中文",
+    "is_lock": false,
+    "subtitle_url": "https://aisubtitle.hdslb.com/bfs/ai_subtitle/prod/11525435693717232584240985c9c2b5e372490ed1b0563b2775142309",
+    "type": 1,
+    "id_str": "1849619077748951552",
+    "ai_type": 0,
+    "ai_status": 2
+  },
+  "raw_subtitle_path": "data\\raw\\bilibili\\subtitles\\275565632\\BV1A6JyzYEKo-ai-zh.raw.json",
+  "text_path": "data\\raw\\bilibili\\subtitles\\275565632\\BV1A6JyzYEKo-ai-zh.txt",
+  "metadata_path": "data\\raw\\bilibili\\subtitles\\275565632\\BV1A6JyzYEKo-ai-zh.metadata.json"
+}

@@ -1,0 +1,22 @@
+{
+  "bvid": "BV1XhQCBrEoe",
+  "cid": 36957588485,
+  "title": "曲曲 高端消费品的销售怎么做",
+  "owner_name": "凯旋小鱼",
+  "status": "downloaded",
+  "reason": null,
+  "subtitle": {
+    "id": 1593655732434135552,
+    "lan": "ai-zh",
+    "lan_doc": "中文",
+    "is_lock": false,
+    "subtitle_url": "https://aisubtitle.hdslb.com/bfs/ai_subtitle/prod/11325459660973126154110262be1d93dee6e2425f58e633233d2702ed",
+    "type": 1,
+    "id_str": "1593655732434135552",
+    "ai_type": 0,
+    "ai_status": 2
+  },
+  "raw_subtitle_path": "data\\raw\\bilibili\\subtitles\\ququ-business-search-2026-04-26\\BV1XhQCBrEoe-ai-zh.raw.json",
+  "text_path": "data\\raw\\bilibili\\subtitles\\ququ-business-search-2026-04-26\\BV1XhQCBrEoe-ai-zh.txt",
+  "metadata_path": "data\\raw\\bilibili\\subtitles\\ququ-business-search-2026-04-26\\BV1XhQCBrEoe-ai-zh.metadata.json"
+}

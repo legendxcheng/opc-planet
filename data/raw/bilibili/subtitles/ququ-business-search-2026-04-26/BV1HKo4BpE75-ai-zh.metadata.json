@@ -1,0 +1,22 @@
+{
+  "bvid": "BV1HKo4BpE75",
+  "cid": 26002201016,
+  "title": "#商业智慧 不是所有商业模式你能想出来就是对的。酒吧就是应该燥起来。",
+  "owner_name": "曲神巴菲特",
+  "status": "downloaded",
+  "reason": null,
+  "subtitle": {
+    "id": 2002570250125680384,
+    "lan": "ai-zh",
+    "lan_doc": "中文",
+    "is_lock": false,
+    "subtitle_url": "https://aisubtitle.hdslb.com/bfs/ai_subtitle/prod/11644914630936726002201016a38ad310c15861adb200d5abee9695a7",
+    "type": 1,
+    "id_str": "2002570250125680384",
+    "ai_type": 0,
+    "ai_status": 2
+  },
+  "raw_subtitle_path": "data\\raw\\bilibili\\subtitles\\ququ-business-search-2026-04-26\\BV1HKo4BpE75-ai-zh.raw.json",
+  "text_path": "data\\raw\\bilibili\\subtitles\\ququ-business-search-2026-04-26\\BV1HKo4BpE75-ai-zh.txt",
+  "metadata_path": "data\\raw\\bilibili\\subtitles\\ququ-business-search-2026-04-26\\BV1HKo4BpE75-ai-zh.metadata.json"
+}

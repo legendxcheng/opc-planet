@@ -1,0 +1,2452 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.04,
+      "to": 0.87,
+      "sid": 1,
+      "location": 2,
+      "content": "你说我假啊",
+      "music": 0.0
+    },
+    {
+      "from": 0.87,
+      "to": 2.95,
+      "sid": 2,
+      "location": 2,
+      "content": "你们一定要花更少的力气去干事",
+      "music": 0.0
+    },
+    {
+      "from": 2.95,
+      "to": 4.51,
+      "sid": 3,
+      "location": 2,
+      "content": "不能反复花更多的力气去干事",
+      "music": 0.0
+    },
+    {
+      "from": 4.51,
+      "to": 6.17,
+      "sid": 4,
+      "location": 2,
+      "content": "其实如果你说你刚刚说这个事啊",
+      "music": 0.0
+    },
+    {
+      "from": 6.17,
+      "to": 7.11,
+      "sid": 5,
+      "location": 2,
+      "content": "我每天在直播间里头",
+      "music": 0.0
+    },
+    {
+      "from": 7.11,
+      "to": 8.31,
+      "sid": 6,
+      "location": 2,
+      "content": "可能大家提来提出那些问题",
+      "music": 0.0
+    },
+    {
+      "from": 8.31,
+      "to": 10.25,
+      "sid": 7,
+      "location": 2,
+      "content": "你有没有发现他很重复嗯",
+      "music": 0.0
+    },
+    {
+      "from": 10.25,
+      "to": 11.28,
+      "sid": 8,
+      "location": 2,
+      "content": "他是很仇富",
+      "music": 0.0
+    },
+    {
+      "from": 11.28,
+      "to": 14.26,
+      "sid": 9,
+      "location": 2,
+      "content": "那么其实这些东西就叫客户痛点",
+      "music": 0.0
+    },
+    {
+      "from": 14.26,
+      "to": 15.08,
+      "sid": 10,
+      "location": 2,
+      "content": "明白吗",
+      "music": 0.0
+    },
+    {
+      "from": 15.08,
+      "to": 16.56,
+      "sid": 11,
+      "location": 2,
+      "content": "被重复提及的问题",
+      "music": 0.0
+    },
+    {
+      "from": 16.56,
+      "to": 17.84,
+      "sid": 12,
+      "location": 2,
+      "content": "它就是大家最在意的问题",
+      "music": 0.0
+    },
+    {
+      "from": 17.84,
+      "to": 18.95,
+      "sid": 13,
+      "location": 2,
+      "content": "对不对哦",
+      "music": 0.0
+    },
+    {
+      "from": 18.95,
+      "to": 20.17,
+      "sid": 14,
+      "location": 2,
+      "content": "最在意的问题被解决",
+      "music": 0.0
+    },
+    {
+      "from": 20.17,
+      "to": 21.05,
+      "sid": 15,
+      "location": 2,
+      "content": "这个是不是叫干货",
+      "music": 0.0
+    },
+    {
+      "from": 21.05,
+      "to": 22.41,
+      "sid": 16,
+      "location": 2,
+      "content": "叫价值哦",
+      "music": 0.0
+    },
+    {
+      "from": 22.41,
+      "to": 23.75,
+      "sid": 17,
+      "location": 2,
+      "content": "那么我在做这个产品的时候啊",
+      "music": 0.0
+    },
+    {
+      "from": 23.75,
+      "to": 26.47,
+      "sid": 18,
+      "location": 2,
+      "content": "我就要把每天别人提的这些问题罗列出来以后",
+      "music": 0.0
+    },
+    {
+      "from": 26.47,
+      "to": 27.39,
+      "sid": 19,
+      "location": 2,
+      "content": "然后就告诉大家",
+      "music": 0.0
+    },
+    {
+      "from": 27.39,
+      "to": 30.46,
+      "sid": 20,
+      "location": 2,
+      "content": "这些就是所有的家长最关心的100个问题",
+      "music": 0.0
+    },
+    {
+      "from": 30.46,
+      "to": 32.5,
+      "sid": 21,
+      "location": 2,
+      "content": "我这100个问题我就直接就能打包卖",
+      "music": 0.0
+    },
+    {
+      "from": 32.5,
+      "to": 33.94,
+      "sid": 22,
+      "location": 2,
+      "content": "因为不是每个家长他都能做的",
+      "music": 0.0
+    },
+    {
+      "from": 33.94,
+      "to": 35.5,
+      "sid": 23,
+      "location": 2,
+      "content": "听的不是每个人",
+      "music": 0.0
+    },
+    {
+      "from": 35.5,
+      "to": 37.4,
+      "sid": 24,
+      "location": 2,
+      "content": "他都能把这100个问题在直播间给他蹲完",
+      "music": 0.0
+    },
+    {
+      "from": 37.96,
+      "to": 39.0,
+      "sid": 25,
+      "location": 2,
+      "content": "他多问你一个问题",
+      "music": 0.0
+    },
+    {
+      "from": 39.0,
+      "to": 40.16,
+      "sid": 26,
+      "location": 2,
+      "content": "他觉得哎确实你解答很好",
+      "music": 0.0
+    },
+    {
+      "from": 40.16,
+      "to": 41.28,
+      "sid": 27,
+      "location": 2,
+      "content": "他很想知道另外那100个问题",
+      "music": 0.0
+    },
+    {
+      "from": 41.28,
+      "to": 41.96,
+      "sid": 28,
+      "location": 2,
+      "content": "他就愿意下单去买",
+      "music": 0.0
+    },
+    {
+      "from": 41.96,
+      "to": 43.2,
+      "sid": 29,
+      "location": 2,
+      "content": "因为你这东西卖也不贵",
+      "music": 0.0
+    },
+    {
+      "from": 43.2,
+      "to": 44.19,
+      "sid": 30,
+      "location": 2,
+      "content": "是不是",
+      "music": 0.0
+    },
+    {
+      "from": 44.19,
+      "to": 45.47,
+      "sid": 31,
+      "location": 2,
+      "content": "OKOK我有思路",
+      "music": 0.0
+    },
+    {
+      "from": 45.47,
+      "to": 46.07,
+      "sid": 32,
+      "location": 2,
+      "content": "你这样整出来",
+      "music": 0.0
+    },
+    {
+      "from": 46.07,
+      "to": 47.11,
+      "sid": 33,
+      "location": 2,
+      "content": "你别说你不用重新录",
+      "music": 0.0
+    },
+    {
+      "from": 47.11,
+      "to": 47.55,
+      "sid": 34,
+      "location": 2,
+      "content": "就像我说的",
+      "music": 0.0
+    },
+    {
+      "from": 47.55,
+      "to": 48.51,
+      "sid": 35,
+      "location": 2,
+      "content": "你就是直播间里面切出来的",
+      "music": 0.0
+    },
+    {
+      "from": 48.51,
+      "to": 49.11,
+      "sid": 36,
+      "location": 2,
+      "content": "切出来100个问题",
+      "music": 0.0
+    },
+    {
+      "from": 49.11,
+      "to": 49.79,
+      "sid": 37,
+      "location": 2,
+      "content": "100个100个",
+      "music": 0.0
+    },
+    {
+      "from": 49.79,
+      "to": 50.64,
+      "sid": 38,
+      "location": 2,
+      "content": "我回答的最好的",
+      "music": 0.0
+    },
+    {
+      "from": 50.64,
+      "to": 53.08,
+      "sid": 39,
+      "location": 2,
+      "content": "这这这些段我全部连起来变成100个问题的",
+      "music": 0.0
+    },
+    {
+      "from": 53.08,
+      "to": 54.36,
+      "sid": 40,
+      "location": 2,
+      "content": "这题库我就说不是我卖个99",
+      "music": 0.0
+    },
+    {
+      "from": 54.36,
+      "to": 55.76,
+      "sid": 41,
+      "location": 2,
+      "content": "卖个199也会有人买啊",
+      "music": 0.0
+    },
+    {
+      "from": 55.76,
+      "to": 57.84,
+      "sid": 42,
+      "location": 2,
+      "content": "我觉得这个东西这是最真实的呀",
+      "music": 0.0
+    },
+    {
+      "from": 57.84,
+      "to": 60.4,
+      "sid": 43,
+      "location": 2,
+      "content": "啊哈这个思路好好啊哈哈好的好的",
+      "music": 0.0
+    },
+    {
+      "from": 60.4,
+      "to": 61.63,
+      "sid": 44,
+      "location": 2,
+      "content": "不学不好",
+      "music": 0.0
+    },
+    {
+      "from": 61.63,
+      "to": 62.11,
+      "sid": 45,
+      "location": 2,
+      "content": "很感谢哦",
+      "music": 0.0
+    },
+    {
+      "from": 62.11,
+      "to": 63.95,
+      "sid": 46,
+      "location": 2,
+      "content": "还有一个问题就是呃就一句话",
+      "music": 0.0
+    },
+    {
+      "from": 63.95,
+      "to": 65.03,
+      "sid": 47,
+      "location": 2,
+      "content": "就是我现在是28岁",
+      "music": 0.0
+    },
+    {
+      "from": 65.03,
+      "to": 67.27,
+      "sid": 48,
+      "location": 2,
+      "content": "然后我现在是不是就是专注事业会比较好",
+      "music": 0.0
+    },
+    {
+      "from": 67.27,
+      "to": 68.63,
+      "sid": 49,
+      "location": 2,
+      "content": "等事业搞定了之后再去找对象",
+      "music": 0.0
+    },
+    {
+      "from": 68.63,
+      "to": 73.11,
+      "sid": 50,
+      "location": 2,
+      "content": "因为我现在大部分时间都在这个事业里边",
+      "music": 0.0
+    },
+    {
+      "from": 73.11,
+      "to": 73.59,
+      "sid": 51,
+      "location": 2,
+      "content": "呃",
+      "music": 0.0
+    },
+    {
+      "from": 73.59,
+      "to": 74.75,
+      "sid": 52,
+      "location": 2,
+      "content": "我一般不会这么说嘛",
+      "music": 0.0
+    },
+    {
+      "from": 74.75,
+      "to": 75.95,
+      "sid": 53,
+      "location": 2,
+      "content": "因为毕竟也没到30对吧",
+      "music": 0.0
+    },
+    {
+      "from": 75.95,
+      "to": 77.64,
+      "sid": 54,
+      "location": 2,
+      "content": "28也是个挺好的找对象的年纪",
+      "music": 0.0
+    },
+    {
+      "from": 77.64,
+      "to": 78.74,
+      "sid": 55,
+      "location": 2,
+      "content": "如果有时间",
+      "music": 0.0
+    },
+    {
+      "from": 78.74,
+      "to": 80.52,
+      "sid": 56,
+      "location": 2,
+      "content": "比如一个星期有一天密集再见一见异性",
+      "music": 0.0
+    },
+    {
+      "from": 80.52,
+      "to": 81.52,
+      "sid": 57,
+      "location": 2,
+      "content": "我觉得也问题不大",
+      "music": 0.0
+    },
+    {
+      "from": 81.52,
+      "to": 83.32,
+      "sid": 58,
+      "location": 2,
+      "content": "但是但是呢我们找男人还是得找",
+      "music": 0.0
+    },
+    {
+      "from": 83.32,
+      "to": 85.18,
+      "sid": 59,
+      "location": 2,
+      "content": "对我们有正向帮助的男人对吧",
+      "music": 0.0
+    },
+    {
+      "from": 85.18,
+      "to": 85.96,
+      "sid": 60,
+      "location": 2,
+      "content": "能量上",
+      "music": 0.0
+    },
+    {
+      "from": 85.96,
+      "to": 86.6,
+      "sid": 61,
+      "location": 2,
+      "content": "经济上",
+      "music": 0.0
+    },
+    {
+      "from": 86.6,
+      "to": 87.32,
+      "sid": 62,
+      "location": 2,
+      "content": "专业上方便面",
+      "music": 0.0
+    },
+    {
+      "from": 87.32,
+      "to": 89.99,
+      "sid": 63,
+      "location": 2,
+      "content": "这个人他还能给我补点什么是最好的",
+      "music": 0.0
+    },
+    {
+      "from": 89.99,
+      "to": 92.19,
+      "sid": 64,
+      "location": 2,
+      "content": "这样的话呢我找对象的同时还是让我也精进啦",
+      "music": 0.0
+    },
+    {
+      "from": 92.19,
+      "to": 93.15,
+      "sid": 65,
+      "location": 2,
+      "content": "进步啦",
+      "music": 0.0
+    },
+    {
+      "from": 93.15,
+      "to": 94.87,
+      "sid": 66,
+      "location": 2,
+      "content": "好好好的好",
+      "music": 0.0
+    },
+    {
+      "from": 94.87,
+      "to": 95.43,
+      "sid": 67,
+      "location": 2,
+      "content": "谢谢支持",
+      "music": 0.0
+    },
+    {
+      "from": 95.43,
+      "to": 96.47,
+      "sid": 68,
+      "location": 2,
+      "content": "非常感谢好",
+      "music": 0.0
+    },
+    {
+      "from": 96.47,
+      "to": 97.35,
+      "sid": 69,
+      "location": 2,
+      "content": "就这样拜拜",
+      "music": 0.0
+    },
+    {
+      "from": 97.35,
+      "to": 99.15,
+      "sid": 70,
+      "location": 2,
+      "content": "大机会视野看一下好不好",
+      "music": 0.0
+    },
+    {
+      "from": 99.15,
+      "to": 100.58,
+      "sid": 71,
+      "location": 2,
+      "content": "机会视野看一下",
+      "music": 0.0
+    },
+    {
+      "from": 100.58,
+      "to": 102.26,
+      "sid": 72,
+      "location": 2,
+      "content": "肯定对于你们构建一个商业的架构",
+      "music": 0.0
+    },
+    {
+      "from": 102.26,
+      "to": 104.41,
+      "sid": 73,
+      "location": 2,
+      "content": "是绝对是有帮助的哦",
+      "music": 0.0
+    },
+    {
+      "from": 104.41,
+      "to": 106.05,
+      "sid": 74,
+      "location": 2,
+      "content": "尤其是这小小小事业啊",
+      "music": 0.0
+    },
+    {
+      "from": 106.05,
+      "to": 106.53,
+      "sid": 75,
+      "location": 2,
+      "content": "小团队啊",
+      "music": 0.0
+    },
+    {
+      "from": 106.53,
+      "to": 107.41,
+      "sid": 76,
+      "location": 2,
+      "content": "这起步啊干嘛的",
+      "music": 0.0
+    },
+    {
+      "from": 107.41,
+      "to": 109.49,
+      "sid": 77,
+      "location": 2,
+      "content": "因为我是完全0~11步一个脚印走过来的",
+      "music": 0.0
+    },
+    {
+      "from": 109.49,
+      "to": 111.6,
+      "sid": 78,
+      "location": 2,
+      "content": "你们踩过的每一步路我都没有",
+      "music": 0.0
+    },
+    {
+      "from": 111.6,
+      "to": 112.2,
+      "sid": 79,
+      "location": 2,
+      "content": "我没走过的",
+      "music": 0.0
+    },
+    {
+      "from": 112.2,
+      "to": 113.88,
+      "sid": 80,
+      "location": 2,
+      "content": "包括他刚刚讲什么3399陪跑三个月",
+      "music": 0.0
+    },
+    {
+      "from": 113.88,
+      "to": 115.62,
+      "sid": 81,
+      "location": 2,
+      "content": "其实我我以前999陪跑3年",
+      "music": 0.0
+    },
+    {
+      "from": 117.065,
+      "to": 120.29,
+      "sid": 82,
+      "location": 2,
+      "content": "我我我现在唉开始骂别人了",
+      "music": 0.0
+    },
+    {
+      "from": 120.29,
+      "to": 121.99,
+      "sid": 83,
+      "location": 2,
+      "content": "都忘记曾经的我哈哈",
+      "music": 0.0
+    },
+    {
+      "from": 121.99,
+      "to": 124.57,
+      "sid": 84,
+      "location": 2,
+      "content": "我以前刚开始搞群的时候",
+      "music": 0.0
+    },
+    {
+      "from": 124.57,
+      "to": 127.27,
+      "sid": 85,
+      "location": 2,
+      "content": "9993年的群",
+      "music": 0.0
+    },
+    {
+      "from": 127.27,
+      "to": 128.09,
+      "sid": 86,
+      "location": 2,
+      "content": "你知道吧",
+      "music": 0.0
+    },
+    {
+      "from": 128.09,
+      "to": 128.97,
+      "sid": 87,
+      "location": 2,
+      "content": "就这样的群",
+      "music": 0.0
+    },
+    {
+      "from": 128.97,
+      "to": 131.17,
+      "sid": 88,
+      "location": 2,
+      "content": "我建了三个哈哈哈",
+      "music": 0.0
+    },
+    {
+      "from": 131.17,
+      "to": 132.73,
+      "sid": 89,
+      "location": 2,
+      "content": "9993年的群",
+      "music": 0.0
+    },
+    {
+      "from": 132.73,
+      "to": 134.04,
+      "sid": 90,
+      "location": 2,
+      "content": "我建了三个",
+      "music": 0.0
+    },
+    {
+      "from": 134.04,
+      "to": 136.18,
+      "sid": 91,
+      "location": 2,
+      "content": "你们知道最后这个事儿我是怎么解决的吗",
+      "music": 0.0
+    },
+    {
+      "from": 136.18,
+      "to": 137.92,
+      "sid": 92,
+      "location": 2,
+      "content": "三个群最后过了一年",
+      "music": 0.0
+    },
+    {
+      "from": 137.92,
+      "to": 139.56,
+      "sid": 93,
+      "location": 2,
+      "content": "当时我就发现我的业务这个量级",
+      "music": 0.0
+    },
+    {
+      "from": 139.56,
+      "to": 141.23,
+      "sid": 94,
+      "location": 2,
+      "content": "完全已经冲破了我自己的想象",
+      "music": 0.0
+    },
+    {
+      "from": 141.23,
+      "to": 144.35,
+      "sid": 95,
+      "location": 2,
+      "content": "然后我给这三个群的每个人退了666",
+      "music": 0.0
+    },
+    {
+      "from": 144.35,
+      "to": 145.43,
+      "sid": 96,
+      "location": 2,
+      "content": "我把群解散了",
+      "music": 0.0
+    },
+    {
+      "from": 147.019,
+      "to": 149.139,
+      "sid": 97,
+      "location": 2,
+      "content": "我那个时候就已经意识到",
+      "music": 0.0
+    },
+    {
+      "from": 149.139,
+      "to": 150.019,
+      "sid": 98,
+      "location": 2,
+      "content": "我说这不行了呀",
+      "music": 0.0
+    },
+    {
+      "from": 150.019,
+      "to": 150.979,
+      "sid": 99,
+      "location": 2,
+      "content": "这我搞不定了",
+      "music": 0.0
+    },
+    {
+      "from": 150.979,
+      "to": 151.979,
+      "sid": 100,
+      "location": 2,
+      "content": "我实在是搞不定了",
+      "music": 0.0
+    },
+    {
+      "from": 151.979,
+      "to": 153.18,
+      "sid": 101,
+      "location": 2,
+      "content": "然后我是9993年",
+      "music": 0.0
+    },
+    {
+      "from": 153.18,
+      "to": 153.78,
+      "sid": 102,
+      "location": 2,
+      "content": "我搞了一年",
+      "music": 0.0
+    },
+    {
+      "from": 153.78,
+      "to": 155.34,
+      "sid": 103,
+      "location": 2,
+      "content": "最后我一个群每一个人退了666",
+      "music": 0.0
+    },
+    {
+      "from": 155.34,
+      "to": 156.38,
+      "sid": 104,
+      "location": 2,
+      "content": "把群就散了",
+      "music": 0.0
+    },
+    {
+      "from": 156.38,
+      "to": 157.92,
+      "sid": 105,
+      "location": 2,
+      "content": "主动每个人联系对方退钱",
+      "music": 0.0
+    },
+    {
+      "from": 157.92,
+      "to": 160.3,
+      "sid": 106,
+      "location": 2,
+      "content": "哈哈哈哇",
+      "music": 0.0
+    },
+    {
+      "from": 160.3,
+      "to": 161.02,
+      "sid": 107,
+      "location": 2,
+      "content": "不光搞过这一次",
+      "music": 0.0
+    },
+    {
+      "from": 161.02,
+      "to": 162.9,
+      "sid": 108,
+      "location": 2,
+      "content": "我搞过好几回这种退钱的事情",
+      "music": 0.0
+    },
+    {
+      "from": 162.9,
+      "to": 164.06,
+      "sid": 109,
+      "location": 2,
+      "content": "因为我自己就发现哎呀",
+      "music": 0.0
+    },
+    {
+      "from": 164.06,
+      "to": 164.98,
+      "sid": 110,
+      "location": 2,
+      "content": "完了完了我就负荷不了了",
+      "music": 0.0
+    },
+    {
+      "from": 164.98,
+      "to": 165.26,
+      "sid": 111,
+      "location": 2,
+      "content": "你知道吗",
+      "music": 0.0
+    },
+    {
+      "from": 165.26,
+      "to": 166.18,
+      "sid": 112,
+      "location": 2,
+      "content": "我就负荷不了了",
+      "music": 0.0
+    },
+    {
+      "from": 166.18,
+      "to": 169.4,
+      "sid": 113,
+      "location": 2,
+      "content": "然后我就我就开始退钱哈哈",
+      "music": 0.0
+    },
+    {
+      "from": 170.48,
+      "to": 171.12,
+      "sid": 114,
+      "location": 2,
+      "content": "但我这个人",
+      "music": 0.0
+    },
+    {
+      "from": 171.12,
+      "to": 172.08,
+      "sid": 115,
+      "location": 2,
+      "content": "所以你们通过我的行为",
+      "music": 0.0
+    },
+    {
+      "from": 172.08,
+      "to": 172.52,
+      "sid": 116,
+      "location": 2,
+      "content": "你们就知道",
+      "music": 0.0
+    },
+    {
+      "from": 172.52,
+      "to": 174.44,
+      "sid": 117,
+      "location": 2,
+      "content": "就我们是绝对不会什么割韭菜什么这个那个的",
+      "music": 0.0
+    },
+    {
+      "from": 174.44,
+      "to": 174.88,
+      "sid": 118,
+      "location": 2,
+      "content": "你们听一下",
+      "music": 0.0
+    },
+    {
+      "from": 174.88,
+      "to": 176.94,
+      "sid": 119,
+      "location": 2,
+      "content": "别人有听说过别人主动联系退钱这种事情啊",
+      "music": 0.0
+    },
+    {
+      "from": 176.94,
+      "to": 177.78,
+      "sid": 120,
+      "location": 2,
+      "content": "肯定是这样子搞交付",
+      "music": 0.0
+    },
+    {
+      "from": 177.78,
+      "to": 178.82,
+      "sid": 121,
+      "location": 2,
+      "content": "或者说我找个人替我",
+      "music": 0.0
+    },
+    {
+      "from": 178.82,
+      "to": 179.46,
+      "sid": 122,
+      "location": 2,
+      "content": "反正在群里",
+      "music": 0.0
+    },
+    {
+      "from": 179.46,
+      "to": 180.3,
+      "sid": 123,
+      "location": 2,
+      "content": "别人也不知道那个是不是我",
+      "music": 0.0
+    },
+    {
+      "from": 180.3,
+      "to": 180.62,
+      "sid": 124,
+      "location": 2,
+      "content": "对不对",
+      "music": 0.0
+    },
+    {
+      "from": 180.62,
+      "to": 180.98,
+      "sid": 125,
+      "location": 2,
+      "content": "正常人",
+      "music": 0.0
+    },
+    {
+      "from": 180.98,
+      "to": 181.98,
+      "sid": 126,
+      "location": 2,
+      "content": "你说如果是别人的机构",
+      "music": 0.0
+    },
+    {
+      "from": 181.98,
+      "to": 183.98,
+      "sid": 127,
+      "location": 2,
+      "content": "别人是想着反正也不知道这个人是不是我",
+      "music": 0.0
+    },
+    {
+      "from": 183.98,
+      "to": 184.78,
+      "sid": 128,
+      "location": 2,
+      "content": "我找个助理",
+      "music": 0.0
+    },
+    {
+      "from": 184.78,
+      "to": 185.86,
+      "sid": 129,
+      "location": 2,
+      "content": "每天在电脑上给他交付不就完了嘛",
+      "music": 0.0
+    },
+    {
+      "from": 185.86,
+      "to": 186.26,
+      "sid": 130,
+      "location": 2,
+      "content": "是有种想法",
+      "music": 0.0
+    },
+    {
+      "from": 186.26,
+      "to": 187.26,
+      "sid": 131,
+      "location": 2,
+      "content": "但是我不会我就退",
+      "music": 0.0
+    },
+    {
+      "from": 187.26,
+      "to": 188.58,
+      "sid": 132,
+      "location": 2,
+      "content": "我就退出发了退",
+      "music": 0.0
+    },
+    {
+      "from": 188.58,
+      "to": 188.9,
+      "sid": 133,
+      "location": 2,
+      "content": "我这个人",
+      "music": 0.0
+    },
+    {
+      "from": 188.9,
+      "to": 189.34,
+      "sid": 134,
+      "location": 2,
+      "content": "就是我",
+      "music": 0.0
+    },
+    {
+      "from": 189.34,
+      "to": 192.14,
+      "sid": 135,
+      "location": 2,
+      "content": "但凡觉得这个事不能够如我所承诺的那样",
+      "music": 0.0
+    },
+    {
+      "from": 192.14,
+      "to": 192.52,
+      "sid": 136,
+      "location": 2,
+      "content": "去履行",
+      "music": 0.0
+    },
+    {
+      "from": 192.52,
+      "to": 193.5,
+      "sid": 137,
+      "location": 2,
+      "content": "我就要退钱",
+      "music": 0.0
+    },
+    {
+      "from": 193.5,
+      "to": 194.54,
+      "sid": 138,
+      "location": 2,
+      "content": "我就自己主动退钱",
+      "music": 0.0
+    },
+    {
+      "from": 194.86,
+      "to": 196.42,
+      "sid": 139,
+      "location": 2,
+      "content": "因为我不会绑架自己的",
+      "music": 0.0
+    },
+    {
+      "from": 196.42,
+      "to": 197.52,
+      "sid": 140,
+      "location": 2,
+      "content": "我也不会去骗",
+      "music": 0.0
+    },
+    {
+      "from": 197.52,
+      "to": 197.66,
+      "sid": 141,
+      "location": 2,
+      "content": "我",
+      "music": 0.0
+    },
+    {
+      "from": 197.66,
+      "to": 198.02,
+      "sid": 142,
+      "location": 2,
+      "content": "不存在",
+      "music": 0.0
+    },
+    {
+      "from": 198.02,
+      "to": 199.34,
+      "sid": 143,
+      "location": 2,
+      "content": "就这事是怎么回事怎么回事",
+      "music": 0.0
+    },
+    {
+      "from": 199.34,
+      "to": 199.9,
+      "sid": 144,
+      "location": 2,
+      "content": "哎你们知不知道",
+      "music": 0.0
+    },
+    {
+      "from": 199.9,
+      "to": 200.7,
+      "sid": 145,
+      "location": 2,
+      "content": "其实很早的时候啊",
+      "music": 0.0
+    },
+    {
+      "from": 200.7,
+      "to": 201.54,
+      "sid": 146,
+      "location": 2,
+      "content": "很多很多的机构",
+      "music": 0.0
+    },
+    {
+      "from": 201.54,
+      "to": 202.64,
+      "sid": 147,
+      "location": 2,
+      "content": "很多的这种大IP什么的",
+      "music": 0.0
+    },
+    {
+      "from": 202.64,
+      "to": 203.74,
+      "sid": 148,
+      "location": 2,
+      "content": "都说让你加他本人微信",
+      "music": 0.0
+    },
+    {
+      "from": 203.74,
+      "to": 204.42,
+      "sid": 149,
+      "location": 2,
+      "content": "让你加他本人微信",
+      "music": 0.0
+    },
+    {
+      "from": 204.42,
+      "to": 205.58,
+      "sid": 150,
+      "location": 2,
+      "content": "然后呢你们加了以后",
+      "music": 0.0
+    },
+    {
+      "from": 205.58,
+      "to": 208.19,
+      "sid": 151,
+      "location": 2,
+      "content": "他们都会有这个人给你发的一句语音",
+      "music": 0.0
+    },
+    {
+      "from": 208.19,
+      "to": 211.01,
+      "sid": 152,
+      "location": 2,
+      "content": "然后让你相信你加的就是他本人的微信",
+      "music": 0.0
+    },
+    {
+      "from": 211.01,
+      "to": 211.53,
+      "sid": 153,
+      "location": 2,
+      "content": "你知道吧",
+      "music": 0.0
+    },
+    {
+      "from": 211.53,
+      "to": 212.87,
+      "sid": 154,
+      "location": 2,
+      "content": "很多大IP都是这么干的",
+      "music": 0.0
+    },
+    {
+      "from": 212.87,
+      "to": 215.239,
+      "sid": 155,
+      "location": 2,
+      "content": "然后之后他就开始跟你用文字对话",
+      "music": 0.0
+    },
+    {
+      "from": 215.239,
+      "to": 217.07,
+      "sid": 156,
+      "location": 2,
+      "content": "其实在后面就已经都不是他本人了",
+      "music": 0.0
+    },
+    {
+      "from": 217.07,
+      "to": 218.35,
+      "sid": 157,
+      "location": 2,
+      "content": "他只有跟你那第一句",
+      "music": 0.0
+    },
+    {
+      "from": 218.35,
+      "to": 219.91,
+      "sid": 158,
+      "location": 2,
+      "content": "而你那第一句其实刚他们录好了的",
+      "music": 0.0
+    },
+    {
+      "from": 219.91,
+      "to": 220.47,
+      "sid": 159,
+      "location": 2,
+      "content": "他录好了",
+      "music": 0.0
+    },
+    {
+      "from": 220.47,
+      "to": 222.36,
+      "sid": 160,
+      "location": 2,
+      "content": "然后助理是拿着那一句就就给你给你放",
+      "music": 0.0
+    },
+    {
+      "from": 222.36,
+      "to": 223.26,
+      "sid": 161,
+      "location": 2,
+      "content": "然后让你觉得",
+      "music": 0.0
+    },
+    {
+      "from": 223.26,
+      "to": 225.24,
+      "sid": 162,
+      "location": 2,
+      "content": "那因为我以前跟一个杭州公司",
+      "music": 0.0
+    },
+    {
+      "from": 225.24,
+      "to": 226.08,
+      "sid": 163,
+      "location": 2,
+      "content": "短暂的合作过半年",
+      "music": 0.0
+    },
+    {
+      "from": 226.08,
+      "to": 226.88,
+      "sid": 164,
+      "location": 2,
+      "content": "所有的这些套路",
+      "music": 0.0
+    },
+    {
+      "from": 226.88,
+      "to": 227.82,
+      "sid": 165,
+      "location": 2,
+      "content": "他们都劝我用过",
+      "music": 0.0
+    },
+    {
+      "from": 227.82,
+      "to": 229.019,
+      "sid": 166,
+      "location": 2,
+      "content": "我一条都不听",
+      "music": 0.0
+    },
+    {
+      "from": 229.019,
+      "to": 230.419,
+      "sid": 167,
+      "location": 2,
+      "content": "为什么后来就是不合作了",
+      "music": 0.0
+    },
+    {
+      "from": 230.419,
+      "to": 230.739,
+      "sid": 168,
+      "location": 2,
+      "content": "就是这个原因",
+      "music": 0.0
+    },
+    {
+      "from": 230.739,
+      "to": 232.019,
+      "sid": 169,
+      "location": 2,
+      "content": "为我的理念呢",
+      "music": 0.0
+    },
+    {
+      "from": 232.019,
+      "to": 233.58,
+      "sid": 170,
+      "location": 2,
+      "content": "我这个人就是本质",
+      "music": 0.0
+    },
+    {
+      "from": 233.58,
+      "to": 235.44,
+      "sid": 171,
+      "location": 2,
+      "content": "我的价值观是非常稳定的",
+      "music": 0.0
+    },
+    {
+      "from": 235.44,
+      "to": 236.78,
+      "sid": 172,
+      "location": 2,
+      "content": "我的核心是非常非常稳定的",
+      "music": 0.0
+    },
+    {
+      "from": 236.78,
+      "to": 238.769,
+      "sid": 173,
+      "location": 2,
+      "content": "我就是觉得不对的事我就不干",
+      "music": 0.0
+    },
+    {
+      "from": 238.769,
+      "to": 239.849,
+      "sid": 174,
+      "location": 2,
+      "content": "哼我就这样",
+      "music": 0.0
+    },
+    {
+      "from": 239.849,
+      "to": 241.169,
+      "sid": 175,
+      "location": 2,
+      "content": "不是说有短期的什么价值",
+      "music": 0.0
+    },
+    {
+      "from": 241.169,
+      "to": 242.469,
+      "sid": 176,
+      "location": 2,
+      "content": "你这东西我真的不看重",
+      "music": 0.0
+    },
+    {
+      "from": 242.469,
+      "to": 244.049,
+      "sid": 177,
+      "location": 2,
+      "content": "我就觉得我这是不对的事",
+      "music": 0.0
+    },
+    {
+      "from": 244.049,
+      "to": 245.089,
+      "sid": 178,
+      "location": 2,
+      "content": "我认为对的事我才会去做",
+      "music": 0.0
+    },
+    {
+      "from": 245.089,
+      "to": 246.19,
+      "sid": 179,
+      "location": 2,
+      "content": "我认为不对的事我就不做",
+      "music": 0.0
+    },
+    {
+      "from": 246.19,
+      "to": 248.03,
+      "sid": 180,
+      "location": 2,
+      "content": "我我我一个东西我挂的再高的价格",
+      "music": 0.0
+    },
+    {
+      "from": 248.03,
+      "to": 248.43,
+      "sid": 181,
+      "location": 2,
+      "content": "我敢挂",
+      "music": 0.0
+    },
+    {
+      "from": 248.43,
+      "to": 248.79,
+      "sid": 182,
+      "location": 2,
+      "content": "我愿意买",
+      "music": 0.0
+    },
+    {
+      "from": 248.79,
+      "to": 249.55,
+      "sid": 183,
+      "location": 2,
+      "content": "因为我觉得这个东西一个愿打",
+      "music": 0.0
+    },
+    {
+      "from": 249.55,
+      "to": 250.03,
+      "sid": 184,
+      "location": 2,
+      "content": "一个愿买对吧",
+      "music": 0.0
+    },
+    {
+      "from": 250.03,
+      "to": 251.71,
+      "sid": 185,
+      "location": 2,
+      "content": "因为我挂的东西我是怎么承诺的",
+      "music": 0.0
+    },
+    {
+      "from": 251.71,
+      "to": 252.46,
+      "sid": 186,
+      "location": 2,
+      "content": "我这怎么交付",
+      "music": 0.0
+    },
+    {
+      "from": 252.46,
+      "to": 253.18,
+      "sid": 187,
+      "location": 2,
+      "content": "我就这样",
+      "music": 0.0
+    },
+    {
+      "from": 253.18,
+      "to": 254.66,
+      "sid": 188,
+      "location": 2,
+      "content": "反正我的承诺我的交付清清楚楚写在上面",
+      "music": 0.0
+    },
+    {
+      "from": 254.66,
+      "to": 255.3,
+      "sid": 189,
+      "location": 2,
+      "content": "你愿意买你就买",
+      "music": 0.0
+    },
+    {
+      "from": 255.3,
+      "to": 256.14,
+      "sid": 190,
+      "location": 2,
+      "content": "你不愿意买你就不买",
+      "music": 0.0
+    },
+    {
+      "from": 256.14,
+      "to": 257.2,
+      "sid": 191,
+      "location": 2,
+      "content": "我就是我觉得公平交易",
+      "music": 0.0
+    },
+    {
+      "from": 257.2,
+      "to": 259.14,
+      "sid": 192,
+      "location": 2,
+      "content": "但我绝对不会过度承诺任何东西",
+      "music": 0.0
+    },
+    {
+      "from": 259.14,
+      "to": 260.26,
+      "sid": 193,
+      "location": 2,
+      "content": "我也绝对不会包装自己",
+      "music": 0.0
+    },
+    {
+      "from": 260.26,
+      "to": 261.22,
+      "sid": 194,
+      "location": 2,
+      "content": "说我能怎么怎么样",
+      "music": 0.0
+    },
+    {
+      "from": 261.22,
+      "to": 262.16,
+      "sid": 195,
+      "location": 2,
+      "content": "所以你们知道",
+      "music": 0.0
+    },
+    {
+      "from": 262.16,
+      "to": 264.66,
+      "sid": 196,
+      "location": 2,
+      "content": "从最开始所有的人来加我们团队的时候",
+      "music": 0.0
+    },
+    {
+      "from": 264.66,
+      "to": 266.74,
+      "sid": 197,
+      "location": 2,
+      "content": "我们团队每个人都是自己的自己的号",
+      "music": 0.0
+    },
+    {
+      "from": 266.74,
+      "to": 268.25,
+      "sid": 198,
+      "location": 2,
+      "content": "我们团队每个人都是自己起位",
+      "music": 0.0
+    },
+    {
+      "from": 268.25,
+      "to": 269.45,
+      "sid": 199,
+      "location": 2,
+      "content": "所有人他们都会说什么啊",
+      "music": 0.0
+    },
+    {
+      "from": 269.45,
+      "to": 270.77,
+      "sid": 200,
+      "location": 2,
+      "content": "他都不是学区本人做教会我",
+      "music": 0.0
+    },
+    {
+      "from": 270.77,
+      "to": 271.45,
+      "sid": 201,
+      "location": 2,
+      "content": "我不配哦",
+      "music": 0.0
+    },
+    {
+      "from": 271.45,
+      "to": 272.67,
+      "sid": 202,
+      "location": 2,
+      "content": "这就是我们的团队",
+      "music": 0.0
+    },
+    {
+      "from": 272.67,
+      "to": 273.73,
+      "sid": 203,
+      "location": 2,
+      "content": "这就是我们的体系",
+      "music": 0.0
+    },
+    {
+      "from": 273.73,
+      "to": 275.6,
+      "sid": 204,
+      "location": 2,
+      "content": "你愿意找我们的团队去下单",
+      "music": 0.0
+    },
+    {
+      "from": 275.6,
+      "to": 276.1,
+      "sid": 205,
+      "location": 2,
+      "content": "你就去下",
+      "music": 0.0
+    },
+    {
+      "from": 276.1,
+      "to": 277.12,
+      "sid": 206,
+      "location": 2,
+      "content": "你不愿意去找我们团队下单",
+      "music": 0.0
+    },
+    {
+      "from": 277.12,
+      "to": 277.66,
+      "sid": 207,
+      "location": 2,
+      "content": "你就不下",
+      "music": 0.0
+    },
+    {
+      "from": 277.66,
+      "to": 280.64,
+      "sid": 208,
+      "location": 2,
+      "content": "我不可能伪装成是我本人在跟你对话",
+      "music": 0.0
+    },
+    {
+      "from": 280.64,
+      "to": 282.0,
+      "sid": 209,
+      "location": 2,
+      "content": "我不会给你这样的预期",
+      "music": 0.0
+    },
+    {
+      "from": 282.0,
+      "to": 283.76,
+      "sid": 210,
+      "location": 2,
+      "content": "我是什么样就什么样",
+      "music": 0.0
+    },
+    {
+      "from": 283.76,
+      "to": 285.72,
+      "sid": 211,
+      "location": 2,
+      "content": "所以最开始杭州他们那个团队跟我说",
+      "music": 0.0
+    },
+    {
+      "from": 285.72,
+      "to": 289.48,
+      "sid": 212,
+      "location": 2,
+      "content": "哎那个呃什么你你你录个声音啊",
+      "music": 0.0
+    },
+    {
+      "from": 289.48,
+      "to": 291.2,
+      "sid": 213,
+      "location": 2,
+      "content": "以后只要只要有人来那个家的时候",
+      "music": 0.0
+    },
+    {
+      "from": 291.2,
+      "to": 292.08,
+      "sid": 214,
+      "location": 2,
+      "content": "我们就把你的声音发给他",
+      "music": 0.0
+    },
+    {
+      "from": 292.08,
+      "to": 292.72,
+      "sid": 215,
+      "location": 2,
+      "content": "他就会觉得是你了",
+      "music": 0.0
+    },
+    {
+      "from": 292.72,
+      "to": 292.96,
+      "sid": 216,
+      "location": 2,
+      "content": "本人了",
+      "music": 0.0
+    },
+    {
+      "from": 292.96,
+      "to": 293.4,
+      "sid": 217,
+      "location": 2,
+      "content": "什么什么",
+      "music": 0.0
+    },
+    {
+      "from": 293.4,
+      "to": 294.6,
+      "sid": 218,
+      "location": 2,
+      "content": "不如搞我说为什么",
+      "music": 0.0
+    },
+    {
+      "from": 294.6,
+      "to": 296.38,
+      "sid": 219,
+      "location": 2,
+      "content": "我说为什么我要让别人觉得是我本人呢",
+      "music": 0.0
+    },
+    {
+      "from": 296.38,
+      "to": 298.64,
+      "sid": 220,
+      "location": 2,
+      "content": "我说可是我觉得我本人不值这点钱",
+      "music": 0.0
+    },
+    {
+      "from": 299.72,
+      "to": 301.68,
+      "sid": 221,
+      "location": 2,
+      "content": "我说我我就是要做的更牛逼的呀",
+      "music": 0.0
+    },
+    {
+      "from": 301.68,
+      "to": 302.94,
+      "sid": 222,
+      "location": 2,
+      "content": "我未来就是要越做越牛逼的呀",
+      "music": 0.0
+    },
+    {
+      "from": 302.94,
+      "to": 304.88,
+      "sid": 223,
+      "location": 2,
+      "content": "为什么要让大家觉得他这么简单",
+      "music": 0.0
+    },
+    {
+      "from": 304.88,
+      "to": 305.64,
+      "sid": 224,
+      "location": 2,
+      "content": "就能链接到我本人",
+      "music": 0.0
+    },
+    {
+      "from": 305.64,
+      "to": 307.34,
+      "sid": 225,
+      "location": 2,
+      "content": "我为什么要给别人一个这样的预期呢",
+      "music": 0.0
+    },
+    {
+      "from": 307.34,
+      "to": 308.46,
+      "sid": 226,
+      "location": 2,
+      "content": "对啊我不想给人这个语气",
+      "music": 0.0
+    },
+    {
+      "from": 308.46,
+      "to": 310.5,
+      "sid": 227,
+      "location": 2,
+      "content": "所以很多事情跟他们谈不通都谈不拢",
+      "music": 0.0
+    },
+    {
+      "from": 310.5,
+      "to": 311.18,
+      "sid": 228,
+      "location": 2,
+      "content": "你知道吗",
+      "music": 0.0
+    },
+    {
+      "from": 311.18,
+      "to": 311.92,
+      "sid": 229,
+      "location": 2,
+      "content": "而且我告诉你们",
+      "music": 0.0
+    },
+    {
+      "from": 311.92,
+      "to": 315.43,
+      "sid": 230,
+      "location": 2,
+      "content": "我是有一个非常完整的克塑团队的",
+      "music": 0.0
+    },
+    {
+      "from": 315.43,
+      "to": 317.27,
+      "sid": 231,
+      "location": 2,
+      "content": "就说有我们的任何一个客户啊",
+      "music": 0.0
+    },
+    {
+      "from": 317.27,
+      "to": 318.19,
+      "sid": 232,
+      "location": 2,
+      "content": "比如说我不可能我说嘛",
+      "music": 0.0
+    },
+    {
+      "from": 318.19,
+      "to": 319.11,
+      "sid": 233,
+      "location": 2,
+      "content": "不可能百分之百满意对吧",
+      "music": 0.0
+    },
+    {
+      "from": 319.11,
+      "to": 321.03,
+      "sid": 234,
+      "location": 2,
+      "content": "我们的团队给到大家的要求是",
+      "music": 0.0
+    },
+    {
+      "from": 321.03,
+      "to": 323.68,
+      "sid": 235,
+      "location": 2,
+      "content": "让80%的客户得到80分的满意",
+      "music": 0.0
+    },
+    {
+      "from": 323.68,
+      "to": 324.88,
+      "sid": 236,
+      "location": 2,
+      "content": "这是我对团队的要求",
+      "music": 0.0
+    },
+    {
+      "from": 324.88,
+      "to": 326.0,
+      "sid": 237,
+      "location": 2,
+      "content": "因为我们是一个服务行业",
+      "music": 0.0
+    },
+    {
+      "from": 326.0,
+      "to": 327.64,
+      "sid": 238,
+      "location": 2,
+      "content": "我觉得百分百的客户买买买意",
+      "music": 0.0
+    },
+    {
+      "from": 327.64,
+      "to": 329.0,
+      "sid": 239,
+      "location": 2,
+      "content": "这种纯属就吹大发了",
+      "music": 0.0
+    },
+    {
+      "from": 329.0,
+      "to": 329.6,
+      "sid": 240,
+      "location": 2,
+      "content": "你就什么喝多了",
+      "music": 0.0
+    },
+    {
+      "from": 329.6,
+      "to": 330.84,
+      "sid": 241,
+      "location": 2,
+      "content": "说的话只要是不可能的",
+      "music": 0.0
+    },
+    {
+      "from": 330.84,
+      "to": 332.78,
+      "sid": 242,
+      "location": 2,
+      "content": "我就觉得我设立一个可以达到的标准",
+      "music": 0.0
+    },
+    {
+      "from": 332.78,
+      "to": 334.72,
+      "sid": 243,
+      "location": 2,
+      "content": "事实上我们的满意度远远高于这个标准",
+      "music": 0.0
+    },
+    {
+      "from": 334.72,
+      "to": 335.74,
+      "sid": 244,
+      "location": 2,
+      "content": "我们的客诉率非常非常低",
+      "music": 0.0
+    },
+    {
+      "from": 335.74,
+      "to": 338.32,
+      "sid": 245,
+      "location": 2,
+      "content": "可能是1%可能都不到的这么一个客诉率",
+      "music": 0.0
+    },
+    {
+      "from": 338.32,
+      "to": 340.28,
+      "sid": 246,
+      "location": 2,
+      "content": "但是我有一个专门的客服团队",
+      "music": 0.0
+    },
+    {
+      "from": 340.28,
+      "to": 341.32,
+      "sid": 247,
+      "location": 2,
+      "content": "就是说任何一个客户",
+      "music": 0.0
+    },
+    {
+      "from": 341.32,
+      "to": 342.4,
+      "sid": 248,
+      "location": 2,
+      "content": "你第一时间找到客客服团队",
+      "music": 0.0
+    },
+    {
+      "from": 342.4,
+      "to": 343.68,
+      "sid": 249,
+      "location": 2,
+      "content": "我们就是有一个非常清晰的流程",
+      "music": 0.0
+    },
+    {
+      "from": 343.68,
+      "to": 344.52,
+      "sid": 250,
+      "location": 2,
+      "content": "你是怎么怎么用的",
+      "music": 0.0
+    },
+    {
+      "from": 344.52,
+      "to": 344.84,
+      "sid": 251,
+      "location": 2,
+      "content": "怎么服务的",
+      "music": 0.0
+    },
+    {
+      "from": 344.84,
+      "to": 345.62,
+      "sid": 252,
+      "location": 2,
+      "content": "怎么退或者怎么转",
+      "music": 0.0
+    },
+    {
+      "from": 345.62,
+      "to": 346.49,
+      "sid": 253,
+      "location": 2,
+      "content": "清清楚楚",
+      "music": 0.0
+    },
+    {
+      "from": 346.49,
+      "to": 347.55,
+      "sid": 254,
+      "location": 2,
+      "content": "一清二白",
+      "music": 0.0
+    },
+    {
+      "from": 347.55,
+      "to": 348.67,
+      "sid": 255,
+      "location": 2,
+      "content": "我们就是这个样子",
+      "music": 0.0
+    },
+    {
+      "from": 348.67,
+      "to": 350.01,
+      "sid": 256,
+      "location": 2,
+      "content": "你不要在这个地方内耗是吧",
+      "music": 0.0
+    },
+    {
+      "from": 350.01,
+      "to": 350.57,
+      "sid": 257,
+      "location": 2,
+      "content": "没有任何内耗",
+      "music": 0.0
+    },
+    {
+      "from": 350.57,
+      "to": 351.44,
+      "sid": 258,
+      "location": 2,
+      "content": "我该怎么就怎样",
+      "music": 0.0
+    },
+    {
+      "from": 351.44,
+      "to": 353.12,
+      "sid": 259,
+      "location": 2,
+      "content": "所以我我为什么能够做这么多年",
+      "music": 0.0
+    },
+    {
+      "from": 353.12,
+      "to": 354.12,
+      "sid": 260,
+      "location": 2,
+      "content": "很多人他们会觉得",
+      "music": 0.0
+    },
+    {
+      "from": 354.12,
+      "to": 355.44,
+      "sid": 261,
+      "location": 2,
+      "content": "那最近有很多媒体他们在采访我",
+      "music": 0.0
+    },
+    {
+      "from": 355.44,
+      "to": 356.98,
+      "sid": 262,
+      "location": 2,
+      "content": "因为我们这次那归棉花会做很大嘛",
+      "music": 0.0
+    },
+    {
+      "from": 356.98,
+      "to": 358.42,
+      "sid": 263,
+      "location": 2,
+      "content": "产生很大的一声声浪",
+      "music": 0.0
+    },
+    {
+      "from": 358.42,
+      "to": 360.02,
+      "sid": 264,
+      "location": 2,
+      "content": "然后就有一些媒体联系到我们团队的人",
+      "music": 0.0
+    },
+    {
+      "from": 360.02,
+      "to": 360.74,
+      "sid": 265,
+      "location": 2,
+      "content": "就是想采访我",
+      "music": 0.0
+    },
+    {
+      "from": 360.74,
+      "to": 361.94,
+      "sid": 266,
+      "location": 2,
+      "content": "因为大家真的很好奇",
+      "music": 0.0
+    },
+    {
+      "from": 361.94,
+      "to": 363.14,
+      "sid": 267,
+      "location": 2,
+      "content": "他们就觉得正常来讲",
+      "music": 0.0
+    },
+    {
+      "from": 363.14,
+      "to": 364.76,
+      "sid": 268,
+      "location": 2,
+      "content": "就像这种所谓的互联网",
+      "music": 0.0
+    },
+    {
+      "from": 364.76,
+      "to": 366.68,
+      "sid": 269,
+      "location": 2,
+      "content": "吃互联网这碗饭的人都很虚的",
+      "music": 0.0
+    },
+    {
+      "from": 366.68,
+      "to": 368.2,
+      "sid": 270,
+      "location": 2,
+      "content": "就说的跟做的都不太一致",
+      "music": 0.0
+    },
+    {
+      "from": 368.2,
+      "to": 370.12,
+      "sid": 271,
+      "location": 2,
+      "content": "或者镜头前面跟下面都不太一致是吧",
+      "music": 0.0
+    },
+    {
+      "from": 370.12,
+      "to": 372.32,
+      "sid": 272,
+      "location": 2,
+      "content": "这才是大家对于这种所谓互联网的企业",
+      "music": 0.0
+    },
+    {
+      "from": 372.32,
+      "to": 373.62,
+      "sid": 273,
+      "location": 2,
+      "content": "出来公司的这种理解",
+      "music": 0.0
+    },
+    {
+      "from": 373.62,
+      "to": 375.3,
+      "sid": 274,
+      "location": 2,
+      "content": "所以他们看我们这一路走过来",
+      "music": 0.0
+    },
+    {
+      "from": 375.3,
+      "to": 376.46,
+      "sid": 275,
+      "location": 2,
+      "content": "他们就觉得很奇怪的",
+      "music": 0.0
+    },
+    {
+      "from": 376.46,
+      "to": 378.14,
+      "sid": 276,
+      "location": 2,
+      "content": "就觉得为什么在这个这个维度上",
+      "music": 0.0
+    },
+    {
+      "from": 378.14,
+      "to": 379.46,
+      "sid": 277,
+      "location": 2,
+      "content": "好像我们不不翻车是吧",
+      "music": 0.0
+    },
+    {
+      "from": 379.46,
+      "to": 379.7,
+      "sid": 278,
+      "location": 2,
+      "content": "是的",
+      "music": 0.0
+    },
+    {
+      "from": 379.7,
+      "to": 380.74,
+      "sid": 279,
+      "location": 2,
+      "content": "偶尔会有一些负面的声音",
+      "music": 0.0
+    },
+    {
+      "from": 380.74,
+      "to": 381.66,
+      "sid": 280,
+      "location": 2,
+      "content": "或者是所谓的什么可塑的声音",
+      "music": 0.0
+    },
+    {
+      "from": 381.66,
+      "to": 383.6,
+      "sid": 281,
+      "location": 2,
+      "content": "但是这个真的是凤毛麟角",
+      "music": 0.0
+    },
+    {
+      "from": 383.6,
+      "to": 385.969,
+      "sid": 282,
+      "location": 2,
+      "content": "因为我们的服务客户太多了",
+      "music": 0.0
+    },
+    {
+      "from": 385.969,
+      "to": 387.229,
+      "sid": 283,
+      "location": 2,
+      "content": "我们客户太多太多了",
+      "music": 0.0
+    },
+    {
+      "from": 387.229,
+      "to": 388.149,
+      "sid": 284,
+      "location": 2,
+      "content": "而且我们做了这么多年",
+      "music": 0.0
+    },
+    {
+      "from": 388.149,
+      "to": 391.0,
+      "sid": 285,
+      "location": 2,
+      "content": "实际上肉眼可见的看到我们的团队越来越好",
+      "music": 0.0
+    },
+    {
+      "from": 391.0,
+      "to": 393.14,
+      "sid": 286,
+      "location": 2,
+      "content": "就最近真的有一些有些人想要采访我",
+      "music": 0.0
+    },
+    {
+      "from": 393.14,
+      "to": 394.92,
+      "sid": 287,
+      "location": 2,
+      "content": "他们我觉得他们就是不敢相信",
+      "music": 0.0
+    },
+    {
+      "from": 394.92,
+      "to": 396.46,
+      "sid": 288,
+      "location": 2,
+      "content": "我们在用一个这样的态度",
+      "music": 0.0
+    },
+    {
+      "from": 396.46,
+      "to": 397.93,
+      "sid": 289,
+      "location": 2,
+      "content": "在做这样一个类型的企业",
+      "music": 0.0
+    },
+    {
+      "from": 397.93,
+      "to": 398.93,
+      "sid": 290,
+      "location": 2,
+      "content": "这个是很罕见的",
+      "music": 0.0
+    },
+    {
+      "from": 398.93,
+      "to": 399.97,
+      "sid": 291,
+      "location": 2,
+      "content": "我经常听到我身边的一些",
+      "music": 0.0
+    },
+    {
+      "from": 399.97,
+      "to": 400.93,
+      "sid": 292,
+      "location": 2,
+      "content": "就是传统行业的一些人啊",
+      "music": 0.0
+    },
+    {
+      "from": 400.93,
+      "to": 401.93,
+      "sid": 293,
+      "location": 2,
+      "content": "就是跟我沟通的时候",
+      "music": 0.0
+    },
+    {
+      "from": 401.93,
+      "to": 403.25,
+      "sid": 294,
+      "location": 2,
+      "content": "他们就觉得说他觉得我这个人很神奇",
+      "music": 0.0
+    },
+    {
+      "from": 403.25,
+      "to": 403.69,
+      "sid": 295,
+      "location": 2,
+      "content": "为什么呢",
+      "music": 0.0
+    },
+    {
+      "from": 403.69,
+      "to": 405.8,
+      "sid": 296,
+      "location": 2,
+      "content": "就是我们看似在做一个割韭菜的行业",
+      "music": 0.0
+    },
+    {
+      "from": 405.8,
+      "to": 407.38,
+      "sid": 297,
+      "location": 2,
+      "content": "就别人认为青蓝咨询是个韭菜",
+      "music": 0.0
+    },
+    {
+      "from": 407.38,
+      "to": 409.04,
+      "sid": 298,
+      "location": 2,
+      "content": "但其实真正跟我一了解",
+      "music": 0.0
+    },
+    {
+      "from": 409.04,
+      "to": 410.16,
+      "sid": 299,
+      "location": 2,
+      "content": "跟我一沟通一对话",
+      "music": 0.0
+    },
+    {
+      "from": 410.16,
+      "to": 411.16,
+      "sid": 300,
+      "location": 2,
+      "content": "再看我们团队的状态",
+      "music": 0.0
+    },
+    {
+      "from": 411.16,
+      "to": 413.51,
+      "sid": 301,
+      "location": 2,
+      "content": "发现我们做事情非常之严谨",
+      "music": 0.0
+    },
+    {
+      "from": 413.51,
+      "to": 414.97,
+      "sid": 302,
+      "location": 2,
+      "content": "我们做事情的严谨程度",
+      "music": 0.0
+    },
+    {
+      "from": 414.97,
+      "to": 417.19,
+      "sid": 303,
+      "location": 2,
+      "content": "甚至于远远超越了一些传统行业的这种",
+      "music": 0.0
+    },
+    {
+      "from": 417.19,
+      "to": 417.71,
+      "sid": 304,
+      "location": 2,
+      "content": "严谨程度",
+      "music": 0.0
+    },
+    {
+      "from": 417.71,
+      "to": 420.06,
+      "sid": 305,
+      "location": 2,
+      "content": "所以他们在我身上看到一个很大的一个割裂感",
+      "music": 0.0
+    }
+  ]
+}

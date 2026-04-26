@@ -1,0 +1,22 @@
+{
+  "bvid": "BV1zAQGB8EvC",
+  "cid": 37506253512,
+  "title": "你追不到她和你做不好自媒体，是同一个原因",
+  "owner_name": "dontbesilent聊赚钱",
+  "status": "downloaded",
+  "reason": null,
+  "subtitle": {
+    "id": 1594993089838253056,
+    "lan": "ai-zh",
+    "lan_doc": "中文",
+    "is_lock": false,
+    "subtitle_url": "https://aisubtitle.hdslb.com/bfs/ai_subtitle/prod/11326509914660626182422278427ae3a2c0f57329b82aca9855da788e",
+    "type": 1,
+    "id_str": "1594993089838253056",
+    "ai_type": 0,
+    "ai_status": 2
+  },
+  "raw_subtitle_path": "data\\raw\\bilibili\\subtitles\\275565632\\BV1zAQGB8EvC-ai-zh.raw.json",
+  "text_path": "data\\raw\\bilibili\\subtitles\\275565632\\BV1zAQGB8EvC-ai-zh.txt",
+  "metadata_path": "data\\raw\\bilibili\\subtitles\\275565632\\BV1zAQGB8EvC-ai-zh.metadata.json"
+}

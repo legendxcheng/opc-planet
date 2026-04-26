@@ -1,0 +1,1428 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.04,
+      "to": 3.4,
+      "sid": 1,
+      "location": 2,
+      "content": "尽管咱们已经认为脑子是最牛逼的器官",
+      "music": 0.0
+    },
+    {
+      "from": 3.4,
+      "to": 5.26,
+      "sid": 2,
+      "location": 2,
+      "content": "但他的牛逼仍然被低估",
+      "music": 0.0
+    },
+    {
+      "from": 5.26,
+      "to": 6.92,
+      "sid": 3,
+      "location": 2,
+      "content": "大家都觉得他只是聪明",
+      "music": 0.0
+    },
+    {
+      "from": 6.92,
+      "to": 8.039,
+      "sid": 4,
+      "location": 2,
+      "content": "属于玩计谋",
+      "music": 0.0
+    },
+    {
+      "from": 8.039,
+      "to": 10.399,
+      "sid": 5,
+      "location": 2,
+      "content": "实际上他才是真正的能文能武",
+      "music": 0.0
+    },
+    {
+      "from": 10.399,
+      "to": 11.679,
+      "sid": 6,
+      "location": 2,
+      "content": "长相十分豆腐",
+      "music": 0.0
+    },
+    {
+      "from": 11.679,
+      "to": 12.479,
+      "sid": 7,
+      "location": 2,
+      "content": "文的都知道",
+      "music": 0.0
+    },
+    {
+      "from": 12.479,
+      "to": 13.659,
+      "sid": 8,
+      "location": 2,
+      "content": "但武德怎么说呢",
+      "music": 0.0
+    },
+    {
+      "from": 13.659,
+      "to": 14.919,
+      "sid": 9,
+      "location": 2,
+      "content": "之前咱们就聊过",
+      "music": 0.0
+    },
+    {
+      "from": 14.919,
+      "to": 16.76,
+      "sid": 10,
+      "location": 2,
+      "content": "之所以人类搞的蟹机器人",
+      "music": 0.0
+    },
+    {
+      "from": 16.76,
+      "to": 18.22,
+      "sid": 11,
+      "location": 2,
+      "content": "个个好比脑血栓呀",
+      "music": 0.0
+    },
+    {
+      "from": 18.22,
+      "to": 19.56,
+      "sid": 12,
+      "location": 2,
+      "content": "并不是机械躯体弱",
+      "music": 0.0
+    },
+    {
+      "from": 19.56,
+      "to": 20.62,
+      "sid": 13,
+      "location": 2,
+      "content": "只是算力不够",
+      "music": 0.0
+    },
+    {
+      "from": 20.62,
+      "to": 21.64,
+      "sid": 14,
+      "location": 2,
+      "content": "脑子不大好使",
+      "music": 0.0
+    },
+    {
+      "from": 21.64,
+      "to": 23.34,
+      "sid": 15,
+      "location": 2,
+      "content": "所以才要发展AI来弥补",
+      "music": 0.0
+    },
+    {
+      "from": 23.34,
+      "to": 25.74,
+      "sid": 16,
+      "location": 2,
+      "content": "所以控制肢体的灵活也在于脑子",
+      "music": 0.0
+    },
+    {
+      "from": 25.74,
+      "to": 27.6,
+      "sid": 17,
+      "location": 2,
+      "content": "尽管这并不需要你主动去控制",
+      "music": 0.0
+    },
+    {
+      "from": 27.6,
+      "to": 28.88,
+      "sid": 18,
+      "location": 2,
+      "content": "太深魂穿祸因",
+      "music": 0.0
+    },
+    {
+      "from": 28.88,
+      "to": 31.56,
+      "sid": 19,
+      "location": 2,
+      "content": "指不定能操控轮椅来一招闪电旋风劈呢",
+      "music": 0.0
+    },
+    {
+      "from": 31.56,
+      "to": 33.62,
+      "sid": 20,
+      "location": 2,
+      "content": "脑子甚至能弥补肢体的缺陷",
+      "music": 0.0
+    },
+    {
+      "from": 33.62,
+      "to": 34.64,
+      "sid": 21,
+      "location": 2,
+      "content": "失去双手的人",
+      "music": 0.0
+    },
+    {
+      "from": 34.64,
+      "to": 37.28,
+      "sid": 22,
+      "location": 2,
+      "content": "能在大脑的控制下把脚练得无比灵活",
+      "music": 0.0
+    },
+    {
+      "from": 37.28,
+      "to": 38.94,
+      "sid": 23,
+      "location": 2,
+      "content": "鸟眼比人眼好用多了",
+      "music": 0.0
+    },
+    {
+      "from": 38.94,
+      "to": 40.76,
+      "sid": 24,
+      "location": 2,
+      "content": "但鸟比人更容易创玻璃",
+      "music": 0.0
+    },
+    {
+      "from": 40.76,
+      "to": 42.14,
+      "sid": 25,
+      "location": 2,
+      "content": "并不是你比他看得远",
+      "music": 0.0
+    },
+    {
+      "from": 42.14,
+      "to": 43.2,
+      "sid": 26,
+      "location": 2,
+      "content": "只是脑子管用",
+      "music": 0.0
+    },
+    {
+      "from": 43.2,
+      "to": 44.82,
+      "sid": 27,
+      "location": 2,
+      "content": "四四方方悬浮个门把手",
+      "music": 0.0
+    },
+    {
+      "from": 44.82,
+      "to": 45.98,
+      "sid": 28,
+      "location": 2,
+      "content": "那肯定有块玻璃呀",
+      "music": 0.0
+    },
+    {
+      "from": 45.98,
+      "to": 47.1,
+      "sid": 29,
+      "location": 2,
+      "content": "但比较可惜的是",
+      "music": 0.0
+    },
+    {
+      "from": 47.1,
+      "to": 48.4,
+      "sid": 30,
+      "location": 2,
+      "content": "如此好用的脑子",
+      "music": 0.0
+    },
+    {
+      "from": 48.4,
+      "to": 50.56,
+      "sid": 31,
+      "location": 2,
+      "content": "大多数动物也只有一个脑子",
+      "music": 0.0
+    },
+    {
+      "from": 50.56,
+      "to": 51.62,
+      "sid": 32,
+      "location": 2,
+      "content": "基本都是单线程",
+      "music": 0.0
+    },
+    {
+      "from": 51.62,
+      "to": 53.64,
+      "sid": 33,
+      "location": 2,
+      "content": "你不可能在解立体几何的同时",
+      "music": 0.0
+    },
+    {
+      "from": 53.64,
+      "to": 55.88,
+      "sid": 34,
+      "location": 2,
+      "content": "还能背诵天地阴阳合欢大乐赋",
+      "music": 0.0
+    },
+    {
+      "from": 55.88,
+      "to": 58.56,
+      "sid": 35,
+      "location": 2,
+      "content": "也不可能在伸舌头的同时用嘴巴哈气",
+      "music": 0.0
+    },
+    {
+      "from": 58.56,
+      "to": 60.06,
+      "sid": 36,
+      "location": 2,
+      "content": "这也太影响效率了吧",
+      "music": 0.0
+    },
+    {
+      "from": 60.06,
+      "to": 61.84,
+      "sid": 37,
+      "location": 2,
+      "content": "可能很多人都会有这么个想法",
+      "music": 0.0
+    },
+    {
+      "from": 61.84,
+      "to": 62.6,
+      "sid": 38,
+      "location": 2,
+      "content": "克隆个自己",
+      "music": 0.0
+    },
+    {
+      "from": 62.6,
+      "to": 63.98,
+      "sid": 39,
+      "location": 2,
+      "content": "白天他替我上班",
+      "music": 0.0
+    },
+    {
+      "from": 63.98,
+      "to": 64.98,
+      "sid": 40,
+      "location": 2,
+      "content": "我替他打游戏",
+      "music": 0.0
+    },
+    {
+      "from": 64.98,
+      "to": 66.3,
+      "sid": 41,
+      "location": 2,
+      "content": "晚上我替他睡觉",
+      "music": 0.0
+    },
+    {
+      "from": 66.3,
+      "to": 67.34,
+      "sid": 42,
+      "location": 2,
+      "content": "他替我玩手机",
+      "music": 0.0
+    },
+    {
+      "from": 67.34,
+      "to": 68.26,
+      "sid": 43,
+      "location": 2,
+      "content": "克隆七八个",
+      "music": 0.0
+    },
+    {
+      "from": 68.26,
+      "to": 69.66,
+      "sid": 44,
+      "location": 2,
+      "content": "大家多扳倒岂不爽",
+      "music": 0.0
+    },
+    {
+      "from": 69.66,
+      "to": 69.98,
+      "sid": 45,
+      "location": 2,
+      "content": "死",
+      "music": 0.0
+    },
+    {
+      "from": 69.98,
+      "to": 71.12,
+      "sid": 46,
+      "location": 2,
+      "content": "想法固然很好",
+      "music": 0.0
+    },
+    {
+      "from": 71.12,
+      "to": 71.9,
+      "sid": 47,
+      "location": 2,
+      "content": "但人一多",
+      "music": 0.0
+    },
+    {
+      "from": 71.9,
+      "to": 73.06,
+      "sid": 48,
+      "location": 2,
+      "content": "生活就不便利",
+      "music": 0.0
+    },
+    {
+      "from": 73.06,
+      "to": 74.07,
+      "sid": 49,
+      "location": 2,
+      "content": "交个女朋友",
+      "music": 0.0
+    },
+    {
+      "from": 74.07,
+      "to": 75.75,
+      "sid": 50,
+      "location": 2,
+      "content": "我们那不得手忙嘴乱的狗",
+      "music": 0.0
+    },
+    {
+      "from": 75.75,
+      "to": 78.31,
+      "sid": 51,
+      "location": 2,
+      "content": "老板开的那仨瓜俩枣的工资平摊一下",
+      "music": 0.0
+    },
+    {
+      "from": 78.31,
+      "to": 79.09,
+      "sid": 52,
+      "location": 2,
+      "content": "忽略不计了",
+      "music": 0.0
+    },
+    {
+      "from": 79.09,
+      "to": 80.03,
+      "sid": 53,
+      "location": 2,
+      "content": "那怎么办呢",
+      "music": 0.0
+    },
+    {
+      "from": 80.03,
+      "to": 82.14,
+      "sid": 54,
+      "location": 2,
+      "content": "反正脑子基本能代表一个人",
+      "music": 0.0
+    },
+    {
+      "from": 82.14,
+      "to": 82.78,
+      "sid": 55,
+      "location": 2,
+      "content": "反过来",
+      "music": 0.0
+    },
+    {
+      "from": 82.78,
+      "to": 84.98,
+      "sid": 56,
+      "location": 2,
+      "content": "一个人长三四个脑子不就完美了",
+      "music": 0.0
+    },
+    {
+      "from": 84.98,
+      "to": 86.94,
+      "sid": 57,
+      "location": 2,
+      "content": "要是像哪吒那样三头六臂",
+      "music": 0.0
+    },
+    {
+      "from": 86.94,
+      "to": 88.28,
+      "sid": 58,
+      "location": 2,
+      "content": "我还会拖更视频",
+      "music": 0.0
+    },
+    {
+      "from": 88.28,
+      "to": 90.0,
+      "sid": 59,
+      "location": 2,
+      "content": "我直接更的昏天黑地",
+      "music": 0.0
+    },
+    {
+      "from": 90.0,
+      "to": 90.52,
+      "sid": 60,
+      "location": 2,
+      "content": "乌漆嘛",
+      "music": 0.0
+    },
+    {
+      "from": 90.52,
+      "to": 91.9,
+      "sid": 61,
+      "location": 2,
+      "content": "黑更的服务器批爆",
+      "music": 0.0
+    },
+    {
+      "from": 91.9,
+      "to": 93.74,
+      "sid": 62,
+      "location": 2,
+      "content": "看的你手机死机兄弟",
+      "music": 0.0
+    },
+    {
+      "from": 93.74,
+      "to": 94.58,
+      "sid": 63,
+      "location": 2,
+      "content": "夜深人静",
+      "music": 0.0
+    },
+    {
+      "from": 94.58,
+      "to": 96.56,
+      "sid": 64,
+      "location": 2,
+      "content": "你是否会感到空虚寂寞",
+      "music": 0.0
+    },
+    {
+      "from": 96.56,
+      "to": 97.38,
+      "sid": 65,
+      "location": 2,
+      "content": "孤苦无依",
+      "music": 0.0
+    },
+    {
+      "from": 97.38,
+      "to": 98.4,
+      "sid": 66,
+      "location": 2,
+      "content": "想找女朋友",
+      "music": 0.0
+    },
+    {
+      "from": 98.4,
+      "to": 99.82,
+      "sid": 67,
+      "location": 2,
+      "content": "又觉得自己过于牛逼",
+      "music": 0.0
+    },
+    {
+      "from": 99.82,
+      "to": 100.52,
+      "sid": 68,
+      "location": 2,
+      "content": "无人可配",
+      "music": 0.0
+    },
+    {
+      "from": 100.52,
+      "to": 102.84,
+      "sid": 69,
+      "location": 2,
+      "content": "想找男朋友又有点强人所难",
+      "music": 0.0
+    },
+    {
+      "from": 102.84,
+      "to": 105.44,
+      "sid": 70,
+      "location": 2,
+      "content": "那么长好几个脑子就能解决这个问题",
+      "music": 0.0
+    },
+    {
+      "from": 105.44,
+      "to": 107.36,
+      "sid": 71,
+      "location": 2,
+      "content": "因为他们都是自己的亲脑子呀",
+      "music": 0.0
+    },
+    {
+      "from": 107.36,
+      "to": 109.72,
+      "sid": 72,
+      "location": 2,
+      "content": "你想象一下一个事事为你着想",
+      "music": 0.0
+    },
+    {
+      "from": 109.72,
+      "to": 110.96,
+      "sid": 73,
+      "location": 2,
+      "content": "渐渐有所着落",
+      "music": 0.0
+    },
+    {
+      "from": 110.96,
+      "to": 112.02,
+      "sid": 74,
+      "location": 2,
+      "content": "爱你之所爱",
+      "music": 0.0
+    },
+    {
+      "from": 112.02,
+      "to": 113.02,
+      "sid": 75,
+      "location": 2,
+      "content": "懂你之所需",
+      "music": 0.0
+    },
+    {
+      "from": 113.02,
+      "to": 114.24,
+      "sid": 76,
+      "location": 2,
+      "content": "最清楚你的快乐",
+      "music": 0.0
+    },
+    {
+      "from": 114.24,
+      "to": 115.44,
+      "sid": 77,
+      "location": 2,
+      "content": "最理解你的痛苦",
+      "music": 0.0
+    },
+    {
+      "from": 115.44,
+      "to": 116.8,
+      "sid": 78,
+      "location": 2,
+      "content": "还不会深夜惦记你",
+      "music": 0.0
+    },
+    {
+      "from": 116.8,
+      "to": 118.04,
+      "sid": 79,
+      "location": 2,
+      "content": "S后的好哥们儿",
+      "music": 0.0
+    },
+    {
+      "from": 118.04,
+      "to": 119.36,
+      "sid": 80,
+      "location": 2,
+      "content": "时时刻刻陪伴着你",
+      "music": 0.0
+    },
+    {
+      "from": 119.36,
+      "to": 120.64,
+      "sid": 81,
+      "location": 2,
+      "content": "是多么美好的事情",
+      "music": 0.0
+    },
+    {
+      "from": 120.64,
+      "to": 123.34,
+      "sid": 82,
+      "location": 2,
+      "content": "这些多出来的脑子就是这么一个存在呀",
+      "music": 0.0
+    },
+    {
+      "from": 123.34,
+      "to": 125.02,
+      "sid": 83,
+      "location": 2,
+      "content": "即便你是金刚石直男",
+      "music": 0.0
+    },
+    {
+      "from": 125.02,
+      "to": 127.36,
+      "sid": 84,
+      "location": 2,
+      "content": "与他们产生了超越朋友的友谊",
+      "music": 0.0
+    },
+    {
+      "from": 127.36,
+      "to": 128.24,
+      "sid": 85,
+      "location": 2,
+      "content": "顶多叫自恋",
+      "music": 0.0
+    },
+    {
+      "from": 128.24,
+      "to": 129.52,
+      "sid": 86,
+      "location": 2,
+      "content": "也不会被当成gay到",
+      "music": 0.0
+    },
+    {
+      "from": 129.52,
+      "to": 131.16,
+      "sid": 87,
+      "location": 2,
+      "content": "并且你们利益完全一致",
+      "music": 0.0
+    },
+    {
+      "from": 131.16,
+      "to": 132.82,
+      "sid": 88,
+      "location": 2,
+      "content": "不会因为金钱大打出手",
+      "music": 0.0
+    },
+    {
+      "from": 132.82,
+      "to": 134.84,
+      "sid": 89,
+      "location": 2,
+      "content": "也不会因为女朋友反目成仇",
+      "music": 0.0
+    },
+    {
+      "from": 134.84,
+      "to": 136.26,
+      "sid": 90,
+      "location": 2,
+      "content": "毕竟都是同道中人嘛",
+      "music": 0.0
+    },
+    {
+      "from": 136.26,
+      "to": 137.7,
+      "sid": 91,
+      "location": 2,
+      "content": "在你遇到困难的时候",
+      "music": 0.0
+    },
+    {
+      "from": 137.7,
+      "to": 138.9,
+      "sid": 92,
+      "location": 2,
+      "content": "即便是父母亲人",
+      "music": 0.0
+    },
+    {
+      "from": 138.9,
+      "to": 141.48,
+      "sid": 93,
+      "location": 2,
+      "content": "也不一定能完全设身处地及己之所及",
+      "music": 0.0
+    },
+    {
+      "from": 141.48,
+      "to": 144.54,
+      "sid": 94,
+      "location": 2,
+      "content": "但这几个好脑子却可以完全站在你的一边",
+      "music": 0.0
+    },
+    {
+      "from": 144.54,
+      "to": 146.86,
+      "sid": 95,
+      "location": 2,
+      "content": "就算它们的皮层褶皱非常光滑",
+      "music": 0.0
+    },
+    {
+      "from": 146.86,
+      "to": 148.96,
+      "sid": 96,
+      "location": 2,
+      "content": "你也会感觉到最深层次的安心",
+      "music": 0.0
+    },
+    {
+      "from": 148.96,
+      "to": 149.54,
+      "sid": 97,
+      "location": 2,
+      "content": "当然了",
+      "music": 0.0
+    },
+    {
+      "from": 149.54,
+      "to": 151.22,
+      "sid": 98,
+      "location": 2,
+      "content": "脑子最重要的还是功能",
+      "music": 0.0
+    },
+    {
+      "from": 151.22,
+      "to": 152.86,
+      "sid": 99,
+      "location": 2,
+      "content": "试想当你高考的时候",
+      "music": 0.0
+    },
+    {
+      "from": 152.86,
+      "to": 153.72,
+      "sid": 100,
+      "location": 2,
+      "content": "一个做选择",
+      "music": 0.0
+    },
+    {
+      "from": 153.72,
+      "to": 154.52,
+      "sid": 101,
+      "location": 2,
+      "content": "一个做填空",
+      "music": 0.0
+    },
+    {
+      "from": 154.52,
+      "to": 155.48,
+      "sid": 102,
+      "location": 2,
+      "content": "另一个写大题",
+      "music": 0.0
+    },
+    {
+      "from": 155.48,
+      "to": 157.18,
+      "sid": 103,
+      "location": 2,
+      "content": "搞完了一个撇边答案",
+      "music": 0.0
+    },
+    {
+      "from": 157.18,
+      "to": 158.84,
+      "sid": 104,
+      "location": 2,
+      "content": "另外俩脑子还能帮你望风",
+      "music": 0.0
+    },
+    {
+      "from": 158.84,
+      "to": 159.62,
+      "sid": 105,
+      "location": 2,
+      "content": "一个监考老师",
+      "music": 0.0
+    },
+    {
+      "from": 159.62,
+      "to": 160.52,
+      "sid": 106,
+      "location": 2,
+      "content": "一个刚刚好",
+      "music": 0.0
+    },
+    {
+      "from": 160.52,
+      "to": 162.34,
+      "sid": 107,
+      "location": 2,
+      "content": "三个臭皮匠还能顶个诸葛亮",
+      "music": 0.0
+    },
+    {
+      "from": 162.34,
+      "to": 165.3,
+      "sid": 108,
+      "location": 2,
+      "content": "三个头的诸葛在世北伐直接罚到M78",
+      "music": 0.0
+    },
+    {
+      "from": 165.3,
+      "to": 166.8,
+      "sid": 109,
+      "location": 2,
+      "content": "星云骑着奥特曼回来",
+      "music": 0.0
+    },
+    {
+      "from": 166.8,
+      "to": 168.94,
+      "sid": 110,
+      "location": 2,
+      "content": "人脑仅仅比猩猩岛大两三倍",
+      "music": 0.0
+    },
+    {
+      "from": 168.94,
+      "to": 170.32,
+      "sid": 111,
+      "location": 2,
+      "content": "就有如此大的差别",
+      "music": 0.0
+    },
+    {
+      "from": 170.32,
+      "to": 171.86,
+      "sid": 112,
+      "location": 2,
+      "content": "那要是长得跟九头蛇那样",
+      "music": 0.0
+    },
+    {
+      "from": 171.86,
+      "to": 173.44,
+      "sid": 113,
+      "location": 2,
+      "content": "岂不是早就跳出时间之外",
+      "music": 0.0
+    },
+    {
+      "from": 173.44,
+      "to": 174.58,
+      "sid": 114,
+      "location": 2,
+      "content": "不在宇宙之中了",
+      "music": 0.0
+    },
+    {
+      "from": 174.58,
+      "to": 176.78,
+      "sid": 115,
+      "location": 2,
+      "content": "不过脑子多了也不尽然是好处",
+      "music": 0.0
+    },
+    {
+      "from": 176.78,
+      "to": 177.86,
+      "sid": 116,
+      "location": 2,
+      "content": "一山不容二虎",
+      "music": 0.0
+    },
+    {
+      "from": 177.86,
+      "to": 179.2,
+      "sid": 117,
+      "location": 2,
+      "content": "脑子多了必然有内斗",
+      "music": 0.0
+    },
+    {
+      "from": 179.2,
+      "to": 182.42,
+      "sid": 118,
+      "location": 2,
+      "content": "可能在生物进化史上出现过长多个脑子的动物",
+      "music": 0.0
+    },
+    {
+      "from": 182.42,
+      "to": 184.18,
+      "sid": 119,
+      "location": 2,
+      "content": "但在危急关头不能拿出来",
+      "music": 0.0
+    },
+    {
+      "from": 184.18,
+      "to": 185.42,
+      "sid": 120,
+      "location": 2,
+      "content": "大家都满意的决策",
+      "music": 0.0
+    },
+    {
+      "from": 185.42,
+      "to": 186.54,
+      "sid": 121,
+      "location": 2,
+      "content": "就嘎嘣灭绝了",
+      "music": 0.0
+    },
+    {
+      "from": 186.54,
+      "to": 187.9,
+      "sid": 122,
+      "location": 2,
+      "content": "所以即便是现代社会",
+      "music": 0.0
+    },
+    {
+      "from": 187.9,
+      "to": 190.04,
+      "sid": 123,
+      "location": 2,
+      "content": "也需要唯一一个最终做决策的人",
+      "music": 0.0
+    },
+    {
+      "from": 190.04,
+      "to": 191.3,
+      "sid": 124,
+      "location": 2,
+      "content": "连体人就是个反例",
+      "music": 0.0
+    },
+    {
+      "from": 191.3,
+      "to": 192.58,
+      "sid": 125,
+      "location": 2,
+      "content": "像是双胞胎长一块",
+      "music": 0.0
+    },
+    {
+      "from": 192.58,
+      "to": 193.66,
+      "sid": 126,
+      "location": 2,
+      "content": "这种连的比较少",
+      "music": 0.0
+    },
+    {
+      "from": 193.66,
+      "to": 194.88,
+      "sid": 127,
+      "location": 2,
+      "content": "可以做手术给拉开",
+      "music": 0.0
+    },
+    {
+      "from": 194.88,
+      "to": 195.96,
+      "sid": 128,
+      "location": 2,
+      "content": "有的连的密的",
+      "music": 0.0
+    },
+    {
+      "from": 195.96,
+      "to": 197.7,
+      "sid": 129,
+      "location": 2,
+      "content": "除了脑袋气管食管以外",
+      "music": 0.0
+    },
+    {
+      "from": 197.7,
+      "to": 198.88,
+      "sid": 130,
+      "location": 2,
+      "content": "基本共用一副身体",
+      "music": 0.0
+    },
+    {
+      "from": 198.88,
+      "to": 200.0,
+      "sid": 131,
+      "location": 2,
+      "content": "这就非常残忍了",
+      "music": 0.0
+    },
+    {
+      "from": 200.0,
+      "to": 201.5,
+      "sid": 132,
+      "location": 2,
+      "content": "如果说一对连体兄弟",
+      "music": 0.0
+    },
+    {
+      "from": 201.5,
+      "to": 202.62,
+      "sid": 133,
+      "location": 2,
+      "content": "其中一个是gay佬",
+      "music": 0.0
+    },
+    {
+      "from": 202.62,
+      "to": 203.48,
+      "sid": 134,
+      "location": 2,
+      "content": "还交了男友",
+      "music": 0.0
+    },
+    {
+      "from": 203.48,
+      "to": 204.46,
+      "sid": 135,
+      "location": 2,
+      "content": "还是被动的一方",
+      "music": 0.0
+    },
+    {
+      "from": 204.46,
+      "to": 207.04,
+      "sid": 136,
+      "location": 2,
+      "content": "这就让另一个直男兄弟左右为难",
+      "music": 0.0
+    },
+    {
+      "from": 207.04,
+      "to": 207.8,
+      "sid": 137,
+      "location": 2,
+      "content": "难上加难",
+      "music": 0.0
+    },
+    {
+      "from": 207.8,
+      "to": 208.56,
+      "sid": 138,
+      "location": 2,
+      "content": "进退两难",
+      "music": 0.0
+    },
+    {
+      "from": 208.56,
+      "to": 209.82,
+      "sid": 139,
+      "location": 2,
+      "content": "然后勉为其难",
+      "music": 0.0
+    },
+    {
+      "from": 209.82,
+      "to": 210.58,
+      "sid": 140,
+      "location": 2,
+      "content": "恋恋难舍",
+      "music": 0.0
+    },
+    {
+      "from": 210.58,
+      "to": 211.34,
+      "sid": 141,
+      "location": 2,
+      "content": "在所难免",
+      "music": 0.0
+    },
+    {
+      "from": 211.34,
+      "to": 212.42,
+      "sid": 142,
+      "location": 2,
+      "content": "最后在劫难逃",
+      "music": 0.0
+    },
+    {
+      "from": 212.42,
+      "to": 213.3,
+      "sid": 143,
+      "location": 2,
+      "content": "覆水难收",
+      "music": 0.0
+    },
+    {
+      "from": 213.3,
+      "to": 214.18,
+      "sid": 144,
+      "location": 2,
+      "content": "欲壑难平",
+      "music": 0.0
+    },
+    {
+      "from": 214.18,
+      "to": 215.15,
+      "sid": 145,
+      "location": 2,
+      "content": "迎难而上",
+      "music": 0.0
+    },
+    {
+      "from": 215.15,
+      "to": 216.67,
+      "sid": 146,
+      "location": 2,
+      "content": "其实从法律上说",
+      "music": 0.0
+    },
+    {
+      "from": 216.67,
+      "to": 217.95,
+      "sid": 147,
+      "location": 2,
+      "content": "男女夫妻本是一体",
+      "music": 0.0
+    },
+    {
+      "from": 217.95,
+      "to": 218.71,
+      "sid": 148,
+      "location": 2,
+      "content": "比较恩爱的",
+      "music": 0.0
+    },
+    {
+      "from": 218.71,
+      "to": 220.75,
+      "sid": 149,
+      "location": 2,
+      "content": "两口子也都好的跟一个人似的",
+      "music": 0.0
+    },
+    {
+      "from": 220.75,
+      "to": 222.51,
+      "sid": 150,
+      "location": 2,
+      "content": "既然男女共处可以和谐相处",
+      "music": 0.0
+    },
+    {
+      "from": 222.51,
+      "to": 223.1,
+      "sid": 151,
+      "location": 2,
+      "content": "配合默契",
+      "music": 0.0
+    },
+    {
+      "from": 223.1,
+      "to": 225.72,
+      "sid": 152,
+      "location": 2,
+      "content": "那么这个人长得连脑子要是一男一女",
+      "music": 0.0
+    },
+    {
+      "from": 225.72,
+      "to": 227.32,
+      "sid": 153,
+      "location": 2,
+      "content": "问题不就可以解决了",
+      "music": 0.0
+    },
+    {
+      "from": 227.32,
+      "to": 229.12,
+      "sid": 154,
+      "location": 2,
+      "content": "身体就可以长成雌雄同体",
+      "music": 0.0
+    },
+    {
+      "from": 229.12,
+      "to": 230.38,
+      "sid": 155,
+      "location": 2,
+      "content": "生育就是自体受孕",
+      "music": 0.0
+    },
+    {
+      "from": 230.38,
+      "to": 232.14,
+      "sid": 156,
+      "location": 2,
+      "content": "左手拉右手就是谈恋爱了",
+      "music": 0.0
+    },
+    {
+      "from": 232.14,
+      "to": 233.86,
+      "sid": 157,
+      "location": 2,
+      "content": "扇自己俩大逼斗就是家暴",
+      "music": 0.0
+    },
+    {
+      "from": 233.86,
+      "to": 235.3,
+      "sid": 158,
+      "location": 2,
+      "content": "你打老婆就是打自己",
+      "music": 0.0
+    },
+    {
+      "from": 235.3,
+      "to": 236.84,
+      "sid": 159,
+      "location": 2,
+      "content": "普通夫妻有共同的孩子",
+      "music": 0.0
+    },
+    {
+      "from": 236.84,
+      "to": 238.62,
+      "sid": 160,
+      "location": 2,
+      "content": "会更加固彼此的感情",
+      "music": 0.0
+    },
+    {
+      "from": 238.62,
+      "to": 240.26,
+      "sid": 161,
+      "location": 2,
+      "content": "现在都有共同的身体了",
+      "music": 0.0
+    },
+    {
+      "from": 240.26,
+      "to": 242.82,
+      "sid": 162,
+      "location": 2,
+      "content": "那自然好的物理意义上的穿一条裤子了",
+      "music": 0.0
+    },
+    {
+      "from": 242.82,
+      "to": 245.1,
+      "sid": 163,
+      "location": 2,
+      "content": "兄弟们再也不用回答我和你妈掉水里",
+      "music": 0.0
+    },
+    {
+      "from": 245.1,
+      "to": 246.6,
+      "sid": 164,
+      "location": 2,
+      "content": "你先救谁这种愚蠢问题",
+      "music": 0.0
+    },
+    {
+      "from": 246.6,
+      "to": 248.76,
+      "sid": 165,
+      "location": 2,
+      "content": "也不用回答你到底爱不爱我了",
+      "music": 0.0
+    },
+    {
+      "from": 248.76,
+      "to": 250.84,
+      "sid": 166,
+      "location": 2,
+      "content": "我从脚后跟子到大腚沟子都是你的",
+      "music": 0.0
+    },
+    {
+      "from": 250.84,
+      "to": 251.86,
+      "sid": 167,
+      "location": 2,
+      "content": "不爱你爱谁呀",
+      "music": 0.0
+    },
+    {
+      "from": 251.86,
+      "to": 253.54,
+      "sid": 168,
+      "location": 2,
+      "content": "两口子想蹲点伟大友谊",
+      "music": 0.0
+    },
+    {
+      "from": 253.54,
+      "to": 254.4,
+      "sid": 169,
+      "location": 2,
+      "content": "一副身体",
+      "music": 0.0
+    },
+    {
+      "from": 254.4,
+      "to": 255.44,
+      "sid": 170,
+      "location": 2,
+      "content": "两份娱乐",
+      "music": 0.0
+    },
+    {
+      "from": 255.44,
+      "to": 257.76,
+      "sid": 171,
+      "location": 2,
+      "content": "如果你觉得这样的日子还不够精彩",
+      "music": 0.0
+    },
+    {
+      "from": 257.76,
+      "to": 259.24,
+      "sid": 172,
+      "location": 2,
+      "content": "还可以再找一个连体的",
+      "music": 0.0
+    },
+    {
+      "from": 259.24,
+      "to": 261.76,
+      "sid": 173,
+      "location": 2,
+      "content": "凑合着过48种排列组合",
+      "music": 0.0
+    },
+    {
+      "from": 261.76,
+      "to": 263.42,
+      "sid": 174,
+      "location": 2,
+      "content": "想一想都害怕呀",
+      "music": 0.0
+    },
+    {
+      "from": 263.42,
+      "to": 266.16,
+      "sid": 175,
+      "location": 2,
+      "content": "所以说领一张破证叫什么结婚呢",
+      "music": 0.0
+    },
+    {
+      "from": 266.16,
+      "to": 268.24,
+      "sid": 176,
+      "location": 2,
+      "content": "像三体姥爷那样融合在一起",
+      "music": 0.0
+    },
+    {
+      "from": 268.24,
+      "to": 270.4,
+      "sid": 177,
+      "location": 2,
+      "content": "狼哥才叫爱情吗",
+      "music": 0.0
+    }
+  ]
+}

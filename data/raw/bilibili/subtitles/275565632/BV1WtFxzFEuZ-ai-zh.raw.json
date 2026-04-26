@@ -1,0 +1,1252 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.12,
+      "to": 4.08,
+      "sid": 1,
+      "location": 2,
+      "content": "OK啊离谱投稿第七集",
+      "music": 0.0
+    },
+    {
+      "from": 5.6,
+      "to": 11.78,
+      "sid": 2,
+      "location": 2,
+      "content": "先来看这个VN1级学Q打出真伤非常逆天",
+      "music": 0.0
+    },
+    {
+      "from": 11.78,
+      "to": 16.85,
+      "sid": 3,
+      "location": 2,
+      "content": "我看看我去高达20点的真实伤害",
+      "music": 0.0
+    },
+    {
+      "from": 16.85,
+      "to": 19.59,
+      "sid": 4,
+      "location": 2,
+      "content": "正好我也找到个能造成20伤害的",
+      "music": 0.0
+    },
+    {
+      "from": 19.59,
+      "to": 23.63,
+      "sid": 5,
+      "location": 2,
+      "content": "你看看是不是他干的豹女离谱bug",
+      "music": 0.0
+    },
+    {
+      "from": 23.63,
+      "to": 25.95,
+      "sid": 6,
+      "location": 2,
+      "content": "红Buff被自己插的眼抢了",
+      "music": 0.0
+    },
+    {
+      "from": 25.95,
+      "to": 28.13,
+      "sid": 7,
+      "location": 2,
+      "content": "你确定别笑别笑别笑",
+      "music": 0.0
+    },
+    {
+      "from": 28.13,
+      "to": 30.06,
+      "sid": 8,
+      "location": 2,
+      "content": "我录完了我录完了",
+      "music": 0.0
+    },
+    {
+      "from": 30.06,
+      "to": 32.36,
+      "sid": 9,
+      "location": 2,
+      "content": "哎这真是奇怪啊",
+      "music": 0.0
+    },
+    {
+      "from": 32.36,
+      "to": 35.28,
+      "sid": 10,
+      "location": 2,
+      "content": "难不成你家眼成精了不对",
+      "music": 0.0
+    },
+    {
+      "from": 35.28,
+      "to": 35.96,
+      "sid": 11,
+      "location": 2,
+      "content": "等一下",
+      "music": 0.0
+    },
+    {
+      "from": 35.96,
+      "to": 38.53,
+      "sid": 12,
+      "location": 2,
+      "content": "这表面上是一起普通的Buff失踪案",
+      "music": 0.0
+    },
+    {
+      "from": 38.53,
+      "to": 40.01,
+      "sid": 13,
+      "location": 2,
+      "content": "但我却在这个草丛中",
+      "music": 0.0
+    },
+    {
+      "from": 40.01,
+      "to": 42.25,
+      "sid": 14,
+      "location": 2,
+      "content": "嗅到了一股烧焦的刺鼻气味",
+      "music": 0.0
+    },
+    {
+      "from": 42.25,
+      "to": 44.93,
+      "sid": 15,
+      "location": 2,
+      "content": "所以说这其实上是一起密室杀人案",
+      "music": 0.0
+    },
+    {
+      "from": 44.93,
+      "to": 47.22,
+      "sid": 16,
+      "location": 2,
+      "content": "根据草丛中隐约可见的烧焦人情",
+      "music": 0.0
+    },
+    {
+      "from": 47.22,
+      "to": 47.76,
+      "sid": 17,
+      "location": 2,
+      "content": "没错",
+      "music": 0.0
+    },
+    {
+      "from": 47.76,
+      "to": 49.94,
+      "sid": 18,
+      "location": 2,
+      "content": "就是你杀了甜甜酱自首吧",
+      "music": 0.0
+    },
+    {
+      "from": 49.94,
+      "to": 50.74,
+      "sid": 19,
+      "location": 2,
+      "content": "没什么好说的",
+      "music": 0.0
+    },
+    {
+      "from": 50.74,
+      "to": 52.46,
+      "sid": 20,
+      "location": 2,
+      "content": "顺便告诉你Buff是火男拿的",
+      "music": 0.0
+    },
+    {
+      "from": 52.46,
+      "to": 54.01,
+      "sid": 21,
+      "location": 2,
+      "content": "别冤枉你家演啊",
+      "music": 0.0
+    },
+    {
+      "from": 54.01,
+      "to": 55.57,
+      "sid": 22,
+      "location": 2,
+      "content": "这个更离谱",
+      "music": 0.0
+    },
+    {
+      "from": 55.57,
+      "to": 60.19,
+      "sid": 23,
+      "location": 2,
+      "content": "锤石Q直接无视亚索风墙来看看啊",
+      "music": 0.0
+    },
+    {
+      "from": 60.19,
+      "to": 62.59,
+      "sid": 24,
+      "location": 2,
+      "content": "我怎么不是哥们",
+      "music": 0.0
+    },
+    {
+      "from": 62.59,
+      "to": 64.55,
+      "sid": 25,
+      "location": 2,
+      "content": "你这拍屏走的哪个流派",
+      "music": 0.0
+    },
+    {
+      "from": 64.55,
+      "to": 66.69,
+      "sid": 26,
+      "location": 2,
+      "content": "你敢不敢拍的再歪点",
+      "music": 0.0
+    },
+    {
+      "from": 66.69,
+      "to": 70.78,
+      "sid": 27,
+      "location": 2,
+      "content": "哎我的脖子我可谢谢你还帮我转过来",
+      "music": 0.0
+    },
+    {
+      "from": 70.78,
+      "to": 72.94,
+      "sid": 28,
+      "location": 2,
+      "content": "我还得再帮你转回去",
+      "music": 0.0
+    },
+    {
+      "from": 72.94,
+      "to": 75.6,
+      "sid": 29,
+      "location": 2,
+      "content": "我来看一下正片吧",
+      "music": 0.0
+    },
+    {
+      "from": 76.52,
+      "to": 78.6,
+      "sid": 30,
+      "location": 2,
+      "content": "哎呦还来个大荒星陨指",
+      "music": 0.0
+    },
+    {
+      "from": 78.6,
+      "to": 80.28,
+      "sid": 31,
+      "location": 2,
+      "content": "你这也太抽象了吧",
+      "music": 0.0
+    },
+    {
+      "from": 80.28,
+      "to": 82.92,
+      "sid": 32,
+      "location": 2,
+      "content": "不过这个问题还真有必要好好讲一下",
+      "music": 0.0
+    },
+    {
+      "from": 82.92,
+      "to": 84.4,
+      "sid": 33,
+      "location": 2,
+      "content": "锤石这个皮肤啊",
+      "music": 0.0
+    },
+    {
+      "from": 84.4,
+      "to": 86.32,
+      "sid": 34,
+      "location": 2,
+      "content": "他这个钩子是合成光的",
+      "music": 0.0
+    },
+    {
+      "from": 86.32,
+      "to": 86.7,
+      "sid": 35,
+      "location": 2,
+      "content": "钩",
+      "music": 0.0
+    },
+    {
+      "from": 86.7,
+      "to": 88.289,
+      "sid": 36,
+      "location": 2,
+      "content": "弹道偏左",
+      "music": 0.0
+    },
+    {
+      "from": 88.289,
+      "to": 91.009,
+      "sid": 37,
+      "location": 2,
+      "content": "所以钩子的实际位置是要靠右一点的",
+      "music": 0.0
+    },
+    {
+      "from": 91.009,
+      "to": 93.109,
+      "sid": 38,
+      "location": 2,
+      "content": "再加上案发地点还有高低差",
+      "music": 0.0
+    },
+    {
+      "from": 93.109,
+      "to": 95.62,
+      "sid": 39,
+      "location": 2,
+      "content": "这个钩子就显得更加偏左了",
+      "music": 0.0
+    },
+    {
+      "from": 95.62,
+      "to": 98.1,
+      "sid": 40,
+      "location": 2,
+      "content": "看起来就像是穿了亚索的风墙一样",
+      "music": 0.0
+    },
+    {
+      "from": 98.1,
+      "to": 102.18,
+      "sid": 41,
+      "location": 2,
+      "content": "下一位机器人一次勾两人",
+      "music": 0.0
+    },
+    {
+      "from": 102.18,
+      "to": 104.48,
+      "sid": 42,
+      "location": 2,
+      "content": "你出飓风了",
+      "music": 0.0
+    },
+    {
+      "from": 108.92,
+      "to": 110.52,
+      "sid": 43,
+      "location": 2,
+      "content": "去哼哼",
+      "music": 0.0
+    },
+    {
+      "from": 110.52,
+      "to": 111.4,
+      "sid": 44,
+      "location": 2,
+      "content": "这么贴心",
+      "music": 0.0
+    },
+    {
+      "from": 111.4,
+      "to": 113.81,
+      "sid": 45,
+      "location": 2,
+      "content": "还给我们点了暂停啊",
+      "music": 0.0
+    },
+    {
+      "from": 115.13,
+      "to": 119.01,
+      "sid": 46,
+      "location": 2,
+      "content": "我真的是你脑袋是被阿卡丽劈过了吧",
+      "music": 0.0
+    },
+    {
+      "from": 119.01,
+      "to": 120.65,
+      "sid": 47,
+      "location": 2,
+      "content": "好的",
+      "music": 0.0
+    },
+    {
+      "from": 120.95,
+      "to": 122.53,
+      "sid": 48,
+      "location": 2,
+      "content": "你觉得自己还有救",
+      "music": 0.0
+    },
+    {
+      "from": 122.53,
+      "to": 125.6,
+      "sid": 49,
+      "location": 2,
+      "content": "嘿嘿嘿嘿嘿嘿嘿嘿",
+      "music": 0.0
+    },
+    {
+      "from": 125.6,
+      "to": 126.92,
+      "sid": 50,
+      "location": 2,
+      "content": "又来一个",
+      "music": 0.0
+    },
+    {
+      "from": 126.92,
+      "to": 130.88,
+      "sid": 51,
+      "location": 2,
+      "content": "你是说对面武器踢了你们家的野",
+      "music": 0.0
+    },
+    {
+      "from": 131.509,
+      "to": 134.61,
+      "sid": 52,
+      "location": 2,
+      "content": "你们这眼最近是叛逆期到啊",
+      "music": 0.0
+    },
+    {
+      "from": 135.01,
+      "to": 137.09,
+      "sid": 53,
+      "location": 2,
+      "content": "对此我只想说两个字",
+      "music": 0.0
+    },
+    {
+      "from": 137.09,
+      "to": 138.37,
+      "sid": 54,
+      "location": 2,
+      "content": "我来给个灯笼",
+      "music": 0.0
+    },
+    {
+      "from": 138.37,
+      "to": 138.79,
+      "sid": 55,
+      "location": 2,
+      "content": "哎",
+      "music": 0.0
+    },
+    {
+      "from": 138.79,
+      "to": 139.59,
+      "sid": 56,
+      "location": 2,
+      "content": "尊龙啊",
+      "music": 0.0
+    },
+    {
+      "from": 139.59,
+      "to": 140.98,
+      "sid": 57,
+      "location": 2,
+      "content": "尊龙啊",
+      "music": 0.0
+    },
+    {
+      "from": 140.98,
+      "to": 143.46,
+      "sid": 58,
+      "location": 2,
+      "content": "回城老是受到莫名未知伤害",
+      "music": 0.0
+    },
+    {
+      "from": 143.46,
+      "to": 143.98,
+      "sid": 59,
+      "location": 2,
+      "content": "被打断",
+      "music": 0.0
+    },
+    {
+      "from": 145.02,
+      "to": 146.38,
+      "sid": 60,
+      "location": 2,
+      "content": "不会吧",
+      "music": 0.0
+    },
+    {
+      "from": 147.05,
+      "to": 148.09,
+      "sid": 61,
+      "location": 2,
+      "content": "不是这",
+      "music": 0.0
+    },
+    {
+      "from": 148.09,
+      "to": 149.25,
+      "sid": 62,
+      "location": 2,
+      "content": "你是辅助",
+      "music": 0.0
+    },
+    {
+      "from": 149.25,
+      "to": 150.83,
+      "sid": 63,
+      "location": 2,
+      "content": "你不知道自己出了啥吗",
+      "music": 0.0
+    },
+    {
+      "from": 150.83,
+      "to": 152.17,
+      "sid": 64,
+      "location": 2,
+      "content": "我现在有点好奇",
+      "music": 0.0
+    },
+    {
+      "from": 152.17,
+      "to": 154.149,
+      "sid": 65,
+      "location": 2,
+      "content": "你们家AD到底在干嘛了",
+      "music": 0.0
+    },
+    {
+      "from": 154.149,
+      "to": 154.909,
+      "sid": 66,
+      "location": 2,
+      "content": "好来看",
+      "music": 0.0
+    },
+    {
+      "from": 154.909,
+      "to": 156.869,
+      "sid": 67,
+      "location": 2,
+      "content": "第一次打断破案了",
+      "music": 0.0
+    },
+    {
+      "from": 156.869,
+      "to": 159.089,
+      "sid": 68,
+      "location": 2,
+      "content": "近战兵干的好",
+      "music": 0.0
+    },
+    {
+      "from": 159.089,
+      "to": 161.589,
+      "sid": 69,
+      "location": 2,
+      "content": "第二次远程兵也干了",
+      "music": 0.0
+    },
+    {
+      "from": 163.88,
+      "to": 167.06,
+      "sid": 70,
+      "location": 2,
+      "content": "好防御塔也干了",
+      "music": 0.0
+    },
+    {
+      "from": 167.06,
+      "to": 168.5,
+      "sid": 71,
+      "location": 2,
+      "content": "我说实话",
+      "music": 0.0
+    },
+    {
+      "from": 168.5,
+      "to": 171.16,
+      "sid": 72,
+      "location": 2,
+      "content": "你们家这AD赶紧埋了吧",
+      "music": 0.0
+    },
+    {
+      "from": 171.74,
+      "to": 172.98,
+      "sid": 73,
+      "location": 2,
+      "content": "滑板鞋放大",
+      "music": 0.0
+    },
+    {
+      "from": 172.98,
+      "to": 175.81,
+      "sid": 74,
+      "location": 2,
+      "content": "被混E到绑定的人直接被拉回来了",
+      "music": 0.0
+    },
+    {
+      "from": 175.81,
+      "to": 177.83,
+      "sid": 75,
+      "location": 2,
+      "content": "五黑队友骂你演员",
+      "music": 0.0
+    },
+    {
+      "from": 177.83,
+      "to": 178.47,
+      "sid": 76,
+      "location": 2,
+      "content": "OK啊",
+      "music": 0.0
+    },
+    {
+      "from": 178.47,
+      "to": 179.79,
+      "sid": 77,
+      "location": 2,
+      "content": "那么为了证明你不是演员",
+      "music": 0.0
+    },
+    {
+      "from": 179.79,
+      "to": 180.95,
+      "sid": 78,
+      "location": 2,
+      "content": "我来给你洗一下",
+      "music": 0.0
+    },
+    {
+      "from": 180.95,
+      "to": 184.03,
+      "sid": 79,
+      "location": 2,
+      "content": "玩的是个凯南出AP没毛病啊",
+      "music": 0.0
+    },
+    {
+      "from": 184.03,
+      "to": 186.61,
+      "sid": 80,
+      "location": 2,
+      "content": "这我被杰斯",
+      "music": 0.0
+    },
+    {
+      "from": 186.61,
+      "to": 188.75,
+      "sid": 81,
+      "location": 2,
+      "content": "我被杰斯顶走了",
+      "music": 0.0
+    },
+    {
+      "from": 188.75,
+      "to": 189.65,
+      "sid": 82,
+      "location": 2,
+      "content": "不是我诶",
+      "music": 0.0
+    },
+    {
+      "from": 189.65,
+      "to": 190.09,
+      "sid": 83,
+      "location": 2,
+      "content": "什么意思",
+      "music": 0.0
+    },
+    {
+      "from": 190.09,
+      "to": 191.64,
+      "sid": 84,
+      "location": 2,
+      "content": "为什么我后退了",
+      "music": 0.0
+    },
+    {
+      "from": 191.64,
+      "to": 193.32,
+      "sid": 85,
+      "location": 2,
+      "content": "看得出来你真的很惊讶",
+      "music": 0.0
+    },
+    {
+      "from": 193.32,
+      "to": 194.16,
+      "sid": 86,
+      "location": 2,
+      "content": "解释一下",
+      "music": 0.0
+    },
+    {
+      "from": 194.16,
+      "to": 195.98,
+      "sid": 87,
+      "location": 2,
+      "content": "如果被绑定的是远程英雄",
+      "music": 0.0
+    },
+    {
+      "from": 195.98,
+      "to": 197.06,
+      "sid": 88,
+      "location": 2,
+      "content": "攻击距离越远",
+      "music": 0.0
+    },
+    {
+      "from": 197.06,
+      "to": 199.56,
+      "sid": 89,
+      "location": 2,
+      "content": "那么回弹的距离也越远",
+      "music": 0.0
+    },
+    {
+      "from": 203.0,
+      "to": 204.66,
+      "sid": 90,
+      "location": 2,
+      "content": "加里奥放不出大招",
+      "music": 0.0
+    },
+    {
+      "from": 204.66,
+      "to": 207.28,
+      "sid": 91,
+      "location": 2,
+      "content": "言简意赅来看看啊",
+      "music": 0.0
+    },
+    {
+      "from": 210.44,
+      "to": 211.68,
+      "sid": 92,
+      "location": 2,
+      "content": "what的发",
+      "music": 0.0
+    },
+    {
+      "from": 212.76,
+      "to": 215.16,
+      "sid": 93,
+      "location": 2,
+      "content": "你是认真的",
+      "music": 0.0
+    },
+    {
+      "from": 216.0,
+      "to": 220.729,
+      "sid": 94,
+      "location": 2,
+      "content": "不是这反正我是不敢笑啊",
+      "music": 0.0
+    },
+    {
+      "from": 220.729,
+      "to": 224.189,
+      "sid": 95,
+      "location": 2,
+      "content": "诺手bug打在有盾或者无敌的敌人身上",
+      "music": 0.0
+    },
+    {
+      "from": 224.189,
+      "to": 225.849,
+      "sid": 96,
+      "location": 2,
+      "content": "不能续血怒",
+      "music": 0.0
+    },
+    {
+      "from": 227.56,
+      "to": 229.62,
+      "sid": 97,
+      "location": 2,
+      "content": "OK和蝎子一波激烈的对拼",
+      "music": 0.0
+    },
+    {
+      "from": 229.62,
+      "to": 231.12,
+      "sid": 98,
+      "location": 2,
+      "content": "被人推到塔下去了",
+      "music": 0.0
+    },
+    {
+      "from": 231.12,
+      "to": 231.98,
+      "sid": 99,
+      "location": 2,
+      "content": "蝎子开盾",
+      "music": 0.0
+    },
+    {
+      "from": 231.98,
+      "to": 232.4,
+      "sid": 100,
+      "location": 2,
+      "content": "哎",
+      "music": 0.0
+    },
+    {
+      "from": 232.4,
+      "to": 233.74,
+      "sid": 101,
+      "location": 2,
+      "content": "我血怒呢",
+      "music": 0.0
+    },
+    {
+      "from": 233.74,
+      "to": 236.08,
+      "sid": 102,
+      "location": 2,
+      "content": "你看看这就是高手",
+      "music": 0.0
+    },
+    {
+      "from": 236.08,
+      "to": 238.66,
+      "sid": 103,
+      "location": 2,
+      "content": "打架的时候都不忘记补刀",
+      "music": 0.0
+    },
+    {
+      "from": 239.41,
+      "to": 241.1,
+      "sid": 104,
+      "location": 2,
+      "content": "不要犯任何错误",
+      "music": 0.0
+    },
+    {
+      "from": 243.24,
+      "to": 244.88,
+      "sid": 105,
+      "location": 2,
+      "content": "不过有一点他说的是对的",
+      "music": 0.0
+    },
+    {
+      "from": 244.88,
+      "to": 246.8,
+      "sid": 106,
+      "location": 2,
+      "content": "无敌的时候还真不能去选他",
+      "music": 0.0
+    },
+    {
+      "from": 246.8,
+      "to": 249.89,
+      "sid": 107,
+      "location": 2,
+      "content": "正我向你取敌",
+      "music": 0.7127659195337313
+    },
+    {
+      "from": 249.89,
+      "to": 254.07,
+      "sid": 108,
+      "location": 2,
+      "content": "这位石头人玩家非常确信自己大的没问题",
+      "music": 0.0
+    },
+    {
+      "from": 254.07,
+      "to": 256.89,
+      "sid": 109,
+      "location": 2,
+      "content": "硬要说自己大招被亚索打断了",
+      "music": 0.0
+    },
+    {
+      "from": 263.54,
+      "to": 265.5,
+      "sid": 110,
+      "location": 2,
+      "content": "这个喷不了",
+      "music": 0.0
+    },
+    {
+      "from": 265.5,
+      "to": 267.12,
+      "sid": 111,
+      "location": 2,
+      "content": "这是真石头人",
+      "music": 0.0
+    },
+    {
+      "from": 267.12,
+      "to": 268.38,
+      "sid": 112,
+      "location": 2,
+      "content": "给你慢放一下",
+      "music": 0.0
+    },
+    {
+      "from": 268.38,
+      "to": 274.84,
+      "sid": 113,
+      "location": 2,
+      "content": "你看看你还嘴硬不撞大啊哈哈",
+      "music": 0.0
+    },
+    {
+      "from": 275.4,
+      "to": 276.4,
+      "sid": 114,
+      "location": 2,
+      "content": "又来一个",
+      "music": 0.0
+    },
+    {
+      "from": 276.4,
+      "to": 280.12,
+      "sid": 115,
+      "location": 2,
+      "content": "他说死掉的武器大师帮他挡了阿克尚大招",
+      "music": 0.0
+    },
+    {
+      "from": 289.44,
+      "to": 291.68,
+      "sid": 116,
+      "location": 2,
+      "content": "要不说你玩的怎么是个盲僧呢",
+      "music": 0.0
+    },
+    {
+      "from": 291.68,
+      "to": 293.64,
+      "sid": 117,
+      "location": 2,
+      "content": "你是宁愿相信死人帮你挡的",
+      "music": 0.0
+    },
+    {
+      "from": 293.64,
+      "to": 295.39,
+      "sid": 118,
+      "location": 2,
+      "content": "也不相信是妮蔻帮你挡的",
+      "music": 0.0
+    },
+    {
+      "from": 295.39,
+      "to": 298.05,
+      "sid": 119,
+      "location": 2,
+      "content": "塞拉斯偷破败王大招没伤害",
+      "music": 0.0
+    },
+    {
+      "from": 298.05,
+      "to": 299.98,
+      "sid": 120,
+      "location": 2,
+      "content": "又出bug了",
+      "music": 0.0
+    },
+    {
+      "from": 299.98,
+      "to": 303.32,
+      "sid": 121,
+      "location": 2,
+      "content": "你看看又被对面操作了吧",
+      "music": 0.0
+    },
+    {
+      "from": 303.32,
+      "to": 305.99,
+      "sid": 122,
+      "location": 2,
+      "content": "不过你别说这船长手速还真挺快",
+      "music": 0.0
+    },
+    {
+      "from": 305.99,
+      "to": 307.53,
+      "sid": 123,
+      "location": 2,
+      "content": "这大招都被他躲掉了",
+      "music": 0.0
+    },
+    {
+      "from": 307.53,
+      "to": 309.75,
+      "sid": 124,
+      "location": 2,
+      "content": "当然想完成雪球躲R这种极限操作",
+      "music": 0.0
+    },
+    {
+      "from": 309.75,
+      "to": 310.51,
+      "sid": 125,
+      "location": 2,
+      "content": "除了手速要快",
+      "music": 0.0
+    },
+    {
+      "from": 310.51,
+      "to": 312.78,
+      "sid": 126,
+      "location": 2,
+      "content": "那必然少不了英特尔14代酷睿attract",
+      "music": 0.0
+    },
+    {
+      "from": 312.78,
+      "to": 316.6,
+      "sid": 127,
+      "location": 2,
+      "content": "而七彩虹将星X17pro max就是你的最佳选择",
+      "music": 0.0
+    },
+    {
+      "from": 316.6,
+      "to": 318.58,
+      "sid": 128,
+      "location": 2,
+      "content": "它搭载了最新的14代酷睿I",
+      "music": 0.0
+    },
+    {
+      "from": 318.58,
+      "to": 320.44,
+      "sid": 129,
+      "location": 2,
+      "content": "914900HX处理器",
+      "music": 0.0
+    },
+    {
+      "from": 320.44,
+      "to": 321.28,
+      "sid": 130,
+      "location": 2,
+      "content": "24核心",
+      "music": 0.0
+    },
+    {
+      "from": 321.28,
+      "to": 323.68,
+      "sid": 131,
+      "location": 2,
+      "content": "32线程单核最高5.8G赫兹",
+      "music": 0.0
+    },
+    {
+      "from": 323.68,
+      "to": 325.04,
+      "sid": 132,
+      "location": 2,
+      "content": "强大无需多言",
+      "music": 0.0
+    },
+    {
+      "from": 325.04,
+      "to": 327.68,
+      "sid": 133,
+      "location": 2,
+      "content": "并且支持更高的XMP内存超频技术",
+      "music": 0.0
+    },
+    {
+      "from": 327.68,
+      "to": 329.88,
+      "sid": 134,
+      "location": 2,
+      "content": "更快更强的游戏和创作硬件支持",
+      "music": 0.0
+    },
+    {
+      "from": 329.88,
+      "to": 330.68,
+      "sid": 135,
+      "location": 2,
+      "content": "作为游戏玩家",
+      "music": 0.0
+    },
+    {
+      "from": 330.68,
+      "to": 333.64,
+      "sid": 136,
+      "location": 2,
+      "content": "如果用它黑马龙也能直接化身齐天大圣",
+      "music": 0.0
+    },
+    {
+      "from": 333.64,
+      "to": 334.52,
+      "sid": 137,
+      "location": 2,
+      "content": "并且除了游戏",
+      "music": 0.0
+    },
+    {
+      "from": 334.52,
+      "to": 336.06,
+      "sid": 138,
+      "location": 2,
+      "content": "它的生产力也是顶级",
+      "music": 0.0
+    },
+    {
+      "from": 336.06,
+      "to": 337.56,
+      "sid": 139,
+      "location": 2,
+      "content": "I 914900hx",
+      "music": 0.0
+    },
+    {
+      "from": 337.56,
+      "to": 339.48,
+      "sid": 140,
+      "location": 2,
+      "content": "更快的性能和和更多的能效核",
+      "music": 0.0
+    },
+    {
+      "from": 339.48,
+      "to": 341.78,
+      "sid": 141,
+      "location": 2,
+      "content": "同时支持DDR5和PCIE5.0",
+      "music": 0.0
+    },
+    {
+      "from": 341.78,
+      "to": 344.82,
+      "sid": 142,
+      "location": 2,
+      "content": "都能够保证机器能最大限度地执行并发任务",
+      "music": 0.0
+    },
+    {
+      "from": 344.82,
+      "to": 346.34,
+      "sid": 143,
+      "location": 2,
+      "content": "而且机器自带的丰富结构",
+      "music": 0.0
+    },
+    {
+      "from": 346.34,
+      "to": 348.22,
+      "sid": 144,
+      "location": 2,
+      "content": "更是支持五频铜显一击制",
+      "music": 0.0
+    },
+    {
+      "from": 348.22,
+      "to": 348.96,
+      "sid": 145,
+      "location": 2,
+      "content": "直接一步到位",
+      "music": 0.0
+    },
+    {
+      "from": 348.96,
+      "to": 350.78,
+      "sid": 146,
+      "location": 2,
+      "content": "爽5年就问你划不划算",
+      "music": 0.0
+    },
+    {
+      "from": 350.78,
+      "to": 351.58,
+      "sid": 147,
+      "location": 2,
+      "content": "现在直接购买",
+      "music": 0.0
+    },
+    {
+      "from": 351.58,
+      "to": 353.72,
+      "sid": 148,
+      "location": 2,
+      "content": "还有最高2000元的能效换新补贴",
+      "music": 0.0
+    },
+    {
+      "from": 353.72,
+      "to": 355.88,
+      "sid": 149,
+      "location": 2,
+      "content": "以及晒单评论领100元E卡活动",
+      "music": 0.0
+    },
+    {
+      "from": 355.88,
+      "to": 356.76,
+      "sid": 150,
+      "location": 2,
+      "content": "犹豫就会败北",
+      "music": 0.0
+    },
+    {
+      "from": 356.76,
+      "to": 357.74,
+      "sid": 151,
+      "location": 2,
+      "content": "果断就有优惠",
+      "music": 0.0
+    },
+    {
+      "from": 357.74,
+      "to": 358.56,
+      "sid": 152,
+      "location": 2,
+      "content": "我先冲了",
+      "music": 0.0
+    },
+    {
+      "from": 358.56,
+      "to": 358.96,
+      "sid": 153,
+      "location": 2,
+      "content": "兄弟们",
+      "music": 0.0
+    },
+    {
+      "from": 358.96,
+      "to": 359.8,
+      "sid": 154,
+      "location": 2,
+      "content": "你们还在等什么",
+      "music": 0.0
+    },
+    {
+      "from": 359.8,
+      "to": 361.32,
+      "sid": 155,
+      "location": 2,
+      "content": "赶紧抢购吧",
+      "music": 0.16901407260464726
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "bvid": "BV1YRKZzpE6v",
+  "cid": 30713250117,
+  "title": "搞懂平台想要啥，比你闷头发 100 条都有用",
+  "owner_name": "dontbesilent聊赚钱",
+  "status": "downloaded",
+  "reason": null,
+  "subtitle": {
+    "id": 1785101006967806208,
+    "lan": "ai-zh",
+    "lan_doc": "中文",
+    "is_lock": false,
+    "subtitle_url": "https://aisubtitle.hdslb.com/bfs/ai_subtitle/prod/11475030219529930713250117668381d00797adc7ffcd41ce7e6fb68e",
+    "type": 1,
+    "id_str": "1785101006967806208",
+    "ai_type": 0,
+    "ai_status": 2
+  },
+  "raw_subtitle_path": "data\\raw\\bilibili\\subtitles\\275565632\\BV1YRKZzpE6v-ai-zh.raw.json",
+  "text_path": "data\\raw\\bilibili\\subtitles\\275565632\\BV1YRKZzpE6v-ai-zh.txt",
+  "metadata_path": "data\\raw\\bilibili\\subtitles\\275565632\\BV1YRKZzpE6v-ai-zh.metadata.json"
+}

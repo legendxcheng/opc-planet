@@ -1,0 +1,3700 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.98,
+      "to": 1.74,
+      "sid": 1,
+      "location": 2,
+      "content": "嗨互联网",
+      "music": 0.0
+    },
+    {
+      "from": 1.74,
+      "to": 2.34,
+      "sid": 2,
+      "location": 2,
+      "content": "我回来了",
+      "music": 0.0
+    },
+    {
+      "from": 2.34,
+      "to": 4.42,
+      "sid": 3,
+      "location": 2,
+      "content": "距离我发第一期视频已经过去了4年",
+      "music": 0.0
+    },
+    {
+      "from": 4.42,
+      "to": 6.82,
+      "sid": 4,
+      "location": 2,
+      "content": "4年时间已经让我从研究生转变成了打工人",
+      "music": 0.0
+    },
+    {
+      "from": 6.82,
+      "to": 8.18,
+      "sid": 5,
+      "location": 2,
+      "content": "然后我现在终于有机会",
+      "music": 0.0
+    },
+    {
+      "from": 8.18,
+      "to": 9.92,
+      "sid": 6,
+      "location": 2,
+      "content": "能和大家说一些真心话了",
+      "music": 0.0
+    },
+    {
+      "from": 9.92,
+      "to": 11.12,
+      "sid": 7,
+      "location": 2,
+      "content": "又是一年秋招季啊",
+      "music": 0.0
+    },
+    {
+      "from": 11.12,
+      "to": 12.2,
+      "sid": 8,
+      "location": 2,
+      "content": "不知道有没有朋友跟我一样",
+      "music": 0.0
+    },
+    {
+      "from": 12.2,
+      "to": 12.76,
+      "sid": 9,
+      "location": 2,
+      "content": "临近毕业了",
+      "music": 0.0
+    },
+    {
+      "from": 12.76,
+      "to": 13.4,
+      "sid": 10,
+      "location": 2,
+      "content": "开始想不考公",
+      "music": 0.0
+    },
+    {
+      "from": 13.4,
+      "to": 13.76,
+      "sid": 11,
+      "location": 2,
+      "content": "不考编",
+      "music": 0.0
+    },
+    {
+      "from": 13.76,
+      "to": 15.84,
+      "sid": 12,
+      "location": 2,
+      "content": "留给我们文科女生的出路到底还有哪些",
+      "music": 0.0
+    },
+    {
+      "from": 15.84,
+      "to": 16.96,
+      "sid": 13,
+      "location": 2,
+      "content": "我当时是下定决心了",
+      "music": 0.0
+    },
+    {
+      "from": 16.96,
+      "to": 19.44,
+      "sid": 14,
+      "location": 2,
+      "content": "我不想参加任何一场考试来获得工作的机会",
+      "music": 0.0
+    },
+    {
+      "from": 19.44,
+      "to": 20.87,
+      "sid": 15,
+      "location": 2,
+      "content": "因为我真的受够了",
+      "music": 0.0
+    },
+    {
+      "from": 20.87,
+      "to": 22.79,
+      "sid": 16,
+      "location": 2,
+      "content": "可是呢当你拿着你的高绩点奖学金",
+      "music": 0.0
+    },
+    {
+      "from": 22.79,
+      "to": 24.19,
+      "sid": 17,
+      "location": 2,
+      "content": "还有社会实践去找工作的时候呢",
+      "music": 0.0
+    },
+    {
+      "from": 24.19,
+      "to": 26.63,
+      "sid": 18,
+      "location": 2,
+      "content": "你本以为自己应该幸运的能够在十里检糖",
+      "music": 0.0
+    },
+    {
+      "from": 26.63,
+      "to": 29.32,
+      "sid": 19,
+      "location": 2,
+      "content": "但是呢面试的时候你会发现找工作是实力减米",
+      "music": 0.0
+    },
+    {
+      "from": 29.32,
+      "to": 30.56,
+      "sid": 20,
+      "location": 2,
+      "content": "等到你真的拿到offer了",
+      "music": 0.0
+    },
+    {
+      "from": 30.56,
+      "to": 31.6,
+      "sid": 21,
+      "location": 2,
+      "content": "或者说你真的去入职了",
+      "music": 0.0
+    },
+    {
+      "from": 31.6,
+      "to": 33.88,
+      "sid": 22,
+      "location": 2,
+      "content": "你会发现找工作啊真的是实力兼十就烂的",
+      "music": 0.0
+    },
+    {
+      "from": 33.88,
+      "to": 34.44,
+      "sid": 23,
+      "location": 2,
+      "content": "非常的均衡",
+      "music": 0.0
+    },
+    {
+      "from": 34.44,
+      "to": 35.0,
+      "sid": 24,
+      "location": 2,
+      "content": "非常的平等",
+      "music": 0.0
+    },
+    {
+      "from": 35.0,
+      "to": 35.84,
+      "sid": 25,
+      "location": 2,
+      "content": "也没什么可挑的",
+      "music": 0.0
+    },
+    {
+      "from": 35.84,
+      "to": 37.71,
+      "sid": 26,
+      "location": 2,
+      "content": "而且呢他们还各有各的烂哈",
+      "music": 0.0
+    },
+    {
+      "from": 37.71,
+      "to": 39.15,
+      "sid": 27,
+      "location": 2,
+      "content": "但是呢人生就是这样",
+      "music": 0.0
+    },
+    {
+      "from": 39.15,
+      "to": 40.73,
+      "sid": 28,
+      "location": 2,
+      "content": "你不能总总是既要又要啊",
+      "music": 0.0
+    },
+    {
+      "from": 40.73,
+      "to": 42.15,
+      "sid": 29,
+      "location": 2,
+      "content": "但是也不能涂一层眉头啊",
+      "music": 0.0
+    },
+    {
+      "from": 42.15,
+      "to": 42.999,
+      "sid": 30,
+      "location": 2,
+      "content": "是吧啊",
+      "music": 0.0
+    },
+    {
+      "from": 42.999,
+      "to": 44.719,
+      "sid": 31,
+      "location": 2,
+      "content": "我个人的求职经历呢也是非常的曲折",
+      "music": 0.0
+    },
+    {
+      "from": 44.719,
+      "to": 45.399,
+      "sid": 32,
+      "location": 2,
+      "content": "非常的离奇",
+      "music": 0.0
+    },
+    {
+      "from": 45.399,
+      "to": 46.519,
+      "sid": 33,
+      "location": 2,
+      "content": "我去年7月份毕业的",
+      "music": 0.0
+    },
+    {
+      "from": 46.519,
+      "to": 47.079,
+      "sid": 34,
+      "location": 2,
+      "content": "12月底的时候",
+      "music": 0.0
+    },
+    {
+      "from": 47.079,
+      "to": 49.479,
+      "sid": 35,
+      "location": 2,
+      "content": "我就已经进到我人生当中第四份正式工作了啊",
+      "music": 0.0
+    },
+    {
+      "from": 49.479,
+      "to": 50.799,
+      "sid": 36,
+      "location": 2,
+      "content": "非常的精彩精彩",
+      "music": 0.0
+    },
+    {
+      "from": 50.799,
+      "to": 52.17,
+      "sid": 37,
+      "location": 2,
+      "content": "人生很简单",
+      "music": 0.0
+    },
+    {
+      "from": 52.17,
+      "to": 52.69,
+      "sid": 38,
+      "location": 2,
+      "content": "好巧不巧啊",
+      "music": 0.0
+    },
+    {
+      "from": 52.69,
+      "to": 54.89,
+      "sid": 39,
+      "location": 2,
+      "content": "这四份工作啊都涵盖了四种职场",
+      "music": 0.0
+    },
+    {
+      "from": 54.89,
+      "to": 55.89,
+      "sid": 40,
+      "location": 2,
+      "content": "包圆了啊",
+      "music": 0.0
+    },
+    {
+      "from": 55.89,
+      "to": 56.57,
+      "sid": 41,
+      "location": 2,
+      "content": "从事业编",
+      "music": 0.0
+    },
+    {
+      "from": 56.57,
+      "to": 58.05,
+      "sid": 42,
+      "location": 2,
+      "content": "央国企到央私企大厂",
+      "music": 0.0
+    },
+    {
+      "from": 58.05,
+      "to": 59.05,
+      "sid": 43,
+      "location": 2,
+      "content": "还有外企",
+      "music": 0.0
+    },
+    {
+      "from": 59.05,
+      "to": 60.43,
+      "sid": 44,
+      "location": 2,
+      "content": "全让我体验一个遍啊",
+      "music": 0.0
+    },
+    {
+      "from": 60.43,
+      "to": 60.95,
+      "sid": 45,
+      "location": 2,
+      "content": "命运的馈赠",
+      "music": 0.0
+    },
+    {
+      "from": 60.95,
+      "to": 63.05,
+      "sid": 46,
+      "location": 2,
+      "content": "就是这样让我在25岁的时候呢",
+      "music": 0.0
+    },
+    {
+      "from": 63.05,
+      "to": 65.25,
+      "sid": 47,
+      "location": 2,
+      "content": "呃加速的体验了一下职权骚扰",
+      "music": 0.0
+    },
+    {
+      "from": 65.25,
+      "to": 66.53,
+      "sid": 48,
+      "location": 2,
+      "content": "恶意辞退啊",
+      "music": 0.0
+    },
+    {
+      "from": 66.53,
+      "to": 68.89,
+      "sid": 49,
+      "location": 2,
+      "content": "失业骑驴找马转行",
+      "music": 0.0
+    },
+    {
+      "from": 68.89,
+      "to": 70.01,
+      "sid": 50,
+      "location": 2,
+      "content": "这一整个打工周期",
+      "music": 0.0
+    },
+    {
+      "from": 70.01,
+      "to": 71.93,
+      "sid": 51,
+      "location": 2,
+      "content": "我算是拿捏",
+      "music": 0.0
+    },
+    {
+      "from": 71.93,
+      "to": 74.03,
+      "sid": 52,
+      "location": 2,
+      "content": "所以我现在看到那个什么35岁危机",
+      "music": 0.0
+    },
+    {
+      "from": 75.75,
+      "to": 78.09,
+      "sid": 53,
+      "location": 2,
+      "content": "我都内心毫无波澜",
+      "music": 0.0
+    },
+    {
+      "from": 78.09,
+      "to": 82.55,
+      "sid": 54,
+      "location": 2,
+      "content": "就是已经习惯了我25岁已经经历过一遍了",
+      "music": 0.0
+    },
+    {
+      "from": 82.55,
+      "to": 83.13,
+      "sid": 55,
+      "location": 2,
+      "content": "我怕了",
+      "music": 0.0
+    },
+    {
+      "from": 83.13,
+      "to": 84.74,
+      "sid": 56,
+      "location": 2,
+      "content": "已经就是这么坦荡",
+      "music": 0.0
+    },
+    {
+      "from": 84.74,
+      "to": 87.06,
+      "sid": 57,
+      "location": 2,
+      "content": "那今天这期视频呢就是帮助大家啊",
+      "music": 0.0
+    },
+    {
+      "from": 87.06,
+      "to": 89.02,
+      "sid": 58,
+      "location": 2,
+      "content": "结合我自己的一个真实的体验",
+      "music": 0.0
+    },
+    {
+      "from": 89.02,
+      "to": 89.84,
+      "sid": 59,
+      "location": 2,
+      "content": "还有观察",
+      "music": 0.0
+    },
+    {
+      "from": 89.84,
+      "to": 91.08,
+      "sid": 60,
+      "location": 2,
+      "content": "分享一下这四种职场",
+      "music": 0.0
+    },
+    {
+      "from": 91.08,
+      "to": 92.08,
+      "sid": 61,
+      "location": 2,
+      "content": "他们各自有哪些特点",
+      "music": 0.0
+    },
+    {
+      "from": 92.08,
+      "to": 94.32,
+      "sid": 62,
+      "location": 2,
+      "content": "以及适合哪些人群哦",
+      "music": 0.0
+    },
+    {
+      "from": 94.32,
+      "to": 95.4,
+      "sid": 63,
+      "location": 2,
+      "content": "首先第一个就是事业编",
+      "music": 0.0
+    },
+    {
+      "from": 95.4,
+      "to": 96.08,
+      "sid": 64,
+      "location": 2,
+      "content": "我当时是走任",
+      "music": 0.0
+    },
+    {
+      "from": 96.08,
+      "to": 97.789,
+      "sid": 65,
+      "location": 2,
+      "content": "在北京研笔试进了一个公立大学",
+      "music": 0.0
+    },
+    {
+      "from": 97.789,
+      "to": 98.989,
+      "sid": 66,
+      "location": 2,
+      "content": "职位呢是大学文老师",
+      "music": 0.0
+    },
+    {
+      "from": 98.989,
+      "to": 99.789,
+      "sid": 67,
+      "location": 2,
+      "content": "听起来挺光鲜的",
+      "music": 0.0
+    },
+    {
+      "from": 99.789,
+      "to": 101.549,
+      "sid": 68,
+      "location": 2,
+      "content": "是不是在通过了面试",
+      "music": 0.0
+    },
+    {
+      "from": 101.549,
+      "to": 103.169,
+      "sid": 69,
+      "location": 2,
+      "content": "还有说考核之后呢",
+      "music": 0.0
+    },
+    {
+      "from": 103.169,
+      "to": 104.61,
+      "sid": 70,
+      "location": 2,
+      "content": "在临体检的时候",
+      "music": 0.0
+    },
+    {
+      "from": 104.61,
+      "to": 106.21,
+      "sid": 71,
+      "location": 2,
+      "content": "拎着我的行李头也不回的跑步了",
+      "music": 0.0
+    },
+    {
+      "from": 106.21,
+      "to": 106.99,
+      "sid": 72,
+      "location": 2,
+      "content": "就这段工作经历",
+      "music": 0.0
+    },
+    {
+      "from": 106.99,
+      "to": 108.63,
+      "sid": 73,
+      "location": 2,
+      "content": "能让我现在回想起来都觉得非常的恶心",
+      "music": 0.0
+    },
+    {
+      "from": 108.63,
+      "to": 109.27,
+      "sid": 74,
+      "location": 2,
+      "content": "非常的惊悚",
+      "music": 0.0
+    },
+    {
+      "from": 109.27,
+      "to": 111.08,
+      "sid": 75,
+      "location": 2,
+      "content": "总体来说事业编有这样几个特点",
+      "music": 0.0
+    },
+    {
+      "from": 111.08,
+      "to": 112.8,
+      "sid": 76,
+      "location": 2,
+      "content": "首先第一个就是招聘流程长",
+      "music": 0.0
+    },
+    {
+      "from": 112.8,
+      "to": 114.16,
+      "sid": 77,
+      "location": 2,
+      "content": "准备的材料比较繁琐",
+      "music": 0.0
+    },
+    {
+      "from": 114.16,
+      "to": 115.72,
+      "sid": 78,
+      "location": 2,
+      "content": "如果你铁了心要考事业编的话",
+      "music": 0.0
+    },
+    {
+      "from": 115.72,
+      "to": 116.52,
+      "sid": 79,
+      "location": 2,
+      "content": "那你要做好准备",
+      "music": 0.0
+    },
+    {
+      "from": 116.52,
+      "to": 118.44,
+      "sid": 80,
+      "location": 2,
+      "content": "可能长期都要专注在同一个岗位上面",
+      "music": 0.0
+    },
+    {
+      "from": 118.44,
+      "to": 120.64,
+      "sid": 81,
+      "location": 2,
+      "content": "好处呢就是如果你事业编这个关不想过的时候",
+      "music": 0.0
+    },
+    {
+      "from": 120.64,
+      "to": 122.28,
+      "sid": 82,
+      "location": 2,
+      "content": "你就可以一键打包投递其他的岗位",
+      "music": 0.0
+    },
+    {
+      "from": 122.28,
+      "to": 123.1,
+      "sid": 83,
+      "location": 2,
+      "content": "非常的方便",
+      "music": 0.0
+    },
+    {
+      "from": 123.1,
+      "to": 125.22,
+      "sid": 84,
+      "location": 2,
+      "content": "第二点就是政治氛围非常浓厚",
+      "music": 0.0
+    },
+    {
+      "from": 125.22,
+      "to": 126.58,
+      "sid": 85,
+      "location": 2,
+      "content": "我们当时施工的时候呢",
+      "music": 0.0
+    },
+    {
+      "from": 126.58,
+      "to": 128.48,
+      "sid": 86,
+      "location": 2,
+      "content": "几乎每一天都会被找去思想谈话",
+      "music": 0.0
+    },
+    {
+      "from": 128.48,
+      "to": 129.5,
+      "sid": 87,
+      "location": 2,
+      "content": "有时候呢是一对一",
+      "music": 0.0
+    },
+    {
+      "from": 129.5,
+      "to": 130.38,
+      "sid": 88,
+      "location": 2,
+      "content": "有时候是一对多",
+      "music": 0.0
+    },
+    {
+      "from": 130.38,
+      "to": 131.66,
+      "sid": 89,
+      "location": 2,
+      "content": "当然这也有地域的一些因素",
+      "music": 0.0
+    },
+    {
+      "from": 131.66,
+      "to": 133.76,
+      "sid": 90,
+      "location": 2,
+      "content": "在我们还是被要求写个人自传",
+      "music": 0.0
+    },
+    {
+      "from": 133.76,
+      "to": 136.2,
+      "sid": 91,
+      "location": 2,
+      "content": "然后这个人自传呢是全学院的老师都要传阅",
+      "music": 0.0
+    },
+    {
+      "from": 136.2,
+      "to": 137.62,
+      "sid": 92,
+      "location": 2,
+      "content": "可以说是毫无隐私可言",
+      "music": 0.0
+    },
+    {
+      "from": 137.62,
+      "to": 138.58,
+      "sid": 93,
+      "location": 2,
+      "content": "这还不是最重要的",
+      "music": 0.0
+    },
+    {
+      "from": 138.58,
+      "to": 139.78,
+      "sid": 94,
+      "location": 2,
+      "content": "最重要的是一点小事",
+      "music": 0.0
+    },
+    {
+      "from": 139.78,
+      "to": 140.66,
+      "sid": 95,
+      "location": 2,
+      "content": "就会被上纲上线",
+      "music": 0.0
+    },
+    {
+      "from": 140.66,
+      "to": 141.38,
+      "sid": 96,
+      "location": 2,
+      "content": "被扣帽子",
+      "music": 0.0
+    },
+    {
+      "from": 141.38,
+      "to": 142.14,
+      "sid": 97,
+      "location": 2,
+      "content": "学过文科的人",
+      "music": 0.0
+    },
+    {
+      "from": 142.14,
+      "to": 143.36,
+      "sid": 98,
+      "location": 2,
+      "content": "应该都有这样的一个敏感性",
+      "music": 0.0
+    },
+    {
+      "from": 143.36,
+      "to": 144.37,
+      "sid": 99,
+      "location": 2,
+      "content": "懂得都懂",
+      "music": 0.0
+    },
+    {
+      "from": 144.37,
+      "to": 145.17,
+      "sid": 100,
+      "location": 2,
+      "content": "第三个呀",
+      "music": 0.0
+    },
+    {
+      "from": 145.17,
+      "to": 147.49,
+      "sid": 101,
+      "location": 2,
+      "content": "就是频繁的吹口哨以及服从性测试",
+      "music": 0.0
+    },
+    {
+      "from": 147.49,
+      "to": 149.25,
+      "sid": 102,
+      "location": 2,
+      "content": "这点和第二点息息相关",
+      "music": 0.0
+    },
+    {
+      "from": 149.25,
+      "to": 151.53,
+      "sid": 103,
+      "location": 2,
+      "content": "体制内呢人和人之间的边界感是比较弱的",
+      "music": 0.0
+    },
+    {
+      "from": 151.53,
+      "to": 152.49,
+      "sid": 104,
+      "location": 2,
+      "content": "而且体制内的工作",
+      "music": 0.0
+    },
+    {
+      "from": 152.49,
+      "to": 154.46,
+      "sid": 105,
+      "location": 2,
+      "content": "也会让人油然产生一种莫名的忧虑感",
+      "music": 0.0
+    },
+    {
+      "from": 154.46,
+      "to": 156.54,
+      "sid": 106,
+      "location": 2,
+      "content": "但他们永远都不会了解这份优越感",
+      "music": 0.0
+    },
+    {
+      "from": 156.54,
+      "to": 158.0,
+      "sid": 107,
+      "location": 2,
+      "content": "并不是源于自己的能力和修养",
+      "music": 0.0
+    },
+    {
+      "from": 158.0,
+      "to": 160.6,
+      "sid": 108,
+      "location": 2,
+      "content": "单纯是因为背靠一个更大更光荣的集体",
+      "music": 0.0
+    },
+    {
+      "from": 160.6,
+      "to": 162.0,
+      "sid": 109,
+      "location": 2,
+      "content": "所以在体制内工作呢",
+      "music": 0.0
+    },
+    {
+      "from": 162.0,
+      "to": 163.9,
+      "sid": 110,
+      "location": 2,
+      "content": "人和人真的很缺少最基本的尊重",
+      "music": 0.0
+    },
+    {
+      "from": 163.9,
+      "to": 166.11,
+      "sid": 111,
+      "location": 2,
+      "content": "还有一个呢就是关系户比较多多",
+      "music": 0.0
+    },
+    {
+      "from": 166.11,
+      "to": 167.55,
+      "sid": 112,
+      "location": 2,
+      "content": "我们当时一起面试的一个女孩",
+      "music": 0.0
+    },
+    {
+      "from": 167.55,
+      "to": 168.25,
+      "sid": 113,
+      "location": 2,
+      "content": "她是北大的",
+      "music": 0.0
+    },
+    {
+      "from": 168.25,
+      "to": 170.01,
+      "sid": 114,
+      "location": 2,
+      "content": "可以说是这个学院的学历top",
+      "music": 0.0
+    },
+    {
+      "from": 170.01,
+      "to": 171.47,
+      "sid": 115,
+      "location": 2,
+      "content": "但是在她施工结束之后",
+      "music": 0.0
+    },
+    {
+      "from": 171.47,
+      "to": 172.81,
+      "sid": 116,
+      "location": 2,
+      "content": "面试到体检那一关的时候",
+      "music": 0.0
+    },
+    {
+      "from": 172.81,
+      "to": 173.69,
+      "sid": 117,
+      "location": 2,
+      "content": "我后来听她讲",
+      "music": 0.0
+    },
+    {
+      "from": 173.69,
+      "to": 175.26,
+      "sid": 118,
+      "location": 2,
+      "content": "就是被潜规则了",
+      "music": 0.0
+    },
+    {
+      "from": 175.26,
+      "to": 176.9,
+      "sid": 119,
+      "location": 2,
+      "content": "教研室主任直白的告诉她",
+      "music": 0.0
+    },
+    {
+      "from": 176.9,
+      "to": 177.84,
+      "sid": 120,
+      "location": 2,
+      "content": "她想要一个男的",
+      "music": 0.0
+    },
+    {
+      "from": 177.84,
+      "to": 179.76,
+      "sid": 121,
+      "location": 2,
+      "content": "以及想要一个他之前安排好的关系户",
+      "music": 0.0
+    },
+    {
+      "from": 179.76,
+      "to": 181.72,
+      "sid": 122,
+      "location": 2,
+      "content": "只不过那个关系户很可惜没进面试",
+      "music": 0.0
+    },
+    {
+      "from": 181.72,
+      "to": 183.38,
+      "sid": 123,
+      "location": 2,
+      "content": "第五点暂时观成就保守",
+      "music": 0.0
+    },
+    {
+      "from": 183.38,
+      "to": 184.46,
+      "sid": 124,
+      "location": 2,
+      "content": "结合第四点来说",
+      "music": 0.0
+    },
+    {
+      "from": 184.46,
+      "to": 185.18,
+      "sid": 125,
+      "location": 2,
+      "content": "如果一个职场",
+      "music": 0.0
+    },
+    {
+      "from": 185.18,
+      "to": 186.04,
+      "sid": 126,
+      "location": 2,
+      "content": "他关系户还多",
+      "music": 0.0
+    },
+    {
+      "from": 186.04,
+      "to": 187.34,
+      "sid": 127,
+      "location": 2,
+      "content": "在职官还比较成就保守",
+      "music": 0.0
+    },
+    {
+      "from": 187.34,
+      "to": 190.2,
+      "sid": 128,
+      "location": 2,
+      "content": "那大概率苦活累活脏活全部都会甩给没关系",
+      "music": 0.0
+    },
+    {
+      "from": 190.2,
+      "to": 191.84,
+      "sid": 129,
+      "location": 2,
+      "content": "没背景的外地新人来做领导",
+      "music": 0.0
+    },
+    {
+      "from": 191.84,
+      "to": 193.26,
+      "sid": 130,
+      "location": 2,
+      "content": "同事不仅会指点你的工作",
+      "music": 0.0
+    },
+    {
+      "from": 193.26,
+      "to": 195.43,
+      "sid": 131,
+      "location": 2,
+      "content": "他们会连你的私生活也不会放过",
+      "music": 0.0
+    },
+    {
+      "from": 195.43,
+      "to": 198.59,
+      "sid": 132,
+      "location": 2,
+      "content": "第六个事业编都是服务期进去很难出来",
+      "music": 0.0
+    },
+    {
+      "from": 198.59,
+      "to": 199.05,
+      "sid": 133,
+      "location": 2,
+      "content": "更难",
+      "music": 0.0
+    },
+    {
+      "from": 199.05,
+      "to": 201.1,
+      "sid": 134,
+      "location": 2,
+      "content": "一旦你的职场不符合预期的时候",
+      "music": 0.0
+    },
+    {
+      "from": 201.1,
+      "to": 202.8,
+      "sid": 135,
+      "location": 2,
+      "content": "编制就会变成一根拴狗绳",
+      "music": 0.0
+    },
+    {
+      "from": 202.8,
+      "to": 204.72,
+      "sid": 136,
+      "location": 2,
+      "content": "第七管理制度不公开不透明",
+      "music": 0.0
+    },
+    {
+      "from": 204.72,
+      "to": 207.26,
+      "sid": 137,
+      "location": 2,
+      "content": "学校的人事和行政一般都不会特别的专业",
+      "music": 0.0
+    },
+    {
+      "from": 207.26,
+      "to": 209.3,
+      "sid": 138,
+      "location": 2,
+      "content": "我跑路的原因之一就是他们没有契约精神",
+      "music": 0.0
+    },
+    {
+      "from": 209.3,
+      "to": 210.18,
+      "sid": 139,
+      "location": 2,
+      "content": "出尔反尔",
+      "music": 0.0
+    },
+    {
+      "from": 210.18,
+      "to": 212.5,
+      "sid": 140,
+      "location": 2,
+      "content": "施工期间呢也从来没有人介绍过工作内容",
+      "music": 0.0
+    },
+    {
+      "from": 212.5,
+      "to": 213.5,
+      "sid": 141,
+      "location": 2,
+      "content": "签约流程去了",
+      "music": 0.0
+    },
+    {
+      "from": 213.5,
+      "to": 215.46,
+      "sid": 142,
+      "location": 2,
+      "content": "就直接让我们每天无偿工作十几个小时",
+      "music": 0.0
+    },
+    {
+      "from": 215.46,
+      "to": 218.26,
+      "sid": 143,
+      "location": 2,
+      "content": "包括但不限于制作了整个课本的教案PPT",
+      "music": 0.0
+    },
+    {
+      "from": 218.26,
+      "to": 219.26,
+      "sid": 144,
+      "location": 2,
+      "content": "课后习题",
+      "music": 0.0
+    },
+    {
+      "from": 219.26,
+      "to": 220.36,
+      "sid": 145,
+      "location": 2,
+      "content": "什么监考啊",
+      "music": 0.0
+    },
+    {
+      "from": 220.36,
+      "to": 221.12,
+      "sid": 146,
+      "location": 2,
+      "content": "批卷纸啊",
+      "music": 0.0
+    },
+    {
+      "from": 221.12,
+      "to": 222.16,
+      "sid": 147,
+      "location": 2,
+      "content": "还有什么抄材料啊",
+      "music": 0.0
+    },
+    {
+      "from": 222.16,
+      "to": 223.08,
+      "sid": 148,
+      "location": 2,
+      "content": "这种杂活",
+      "music": 0.0
+    },
+    {
+      "from": 223.08,
+      "to": 223.74,
+      "sid": 149,
+      "location": 2,
+      "content": "到最后",
+      "music": 0.0
+    },
+    {
+      "from": 223.74,
+      "to": 225.14,
+      "sid": 150,
+      "location": 2,
+      "content": "那个教研室主任甚至还让我",
+      "music": 0.0
+    },
+    {
+      "from": 225.14,
+      "to": 228.1,
+      "sid": 151,
+      "location": 2,
+      "content": "每个人帮他写了8000字的研究综述",
+      "music": 0.0
+    },
+    {
+      "from": 228.1,
+      "to": 230.02,
+      "sid": 152,
+      "location": 2,
+      "content": "当时我发PDF版给这些老师的时候",
+      "music": 0.0
+    },
+    {
+      "from": 230.02,
+      "to": 230.58,
+      "sid": 153,
+      "location": 2,
+      "content": "他们还不乐意",
+      "music": 0.0
+    },
+    {
+      "from": 230.58,
+      "to": 231.62,
+      "sid": 154,
+      "location": 2,
+      "content": "他们要让我们发word",
+      "music": 0.0
+    },
+    {
+      "from": 231.62,
+      "to": 232.86,
+      "sid": 155,
+      "location": 2,
+      "content": "也就是说我们最后的工作成果",
+      "music": 0.0
+    },
+    {
+      "from": 232.86,
+      "to": 234.0,
+      "sid": 156,
+      "location": 2,
+      "content": "全让他们给白嫖啊",
+      "music": 0.0
+    },
+    {
+      "from": 234.0,
+      "to": 234.48,
+      "sid": 157,
+      "location": 2,
+      "content": "说到这里呀",
+      "music": 0.0
+    },
+    {
+      "from": 234.48,
+      "to": 235.36,
+      "sid": 158,
+      "location": 2,
+      "content": "有的朋友可能会骂我",
+      "music": 0.0
+    },
+    {
+      "from": 235.36,
+      "to": 236.96,
+      "sid": 159,
+      "location": 2,
+      "content": "说我在抹黑体制内的工作",
+      "music": 0.0
+    },
+    {
+      "from": 236.96,
+      "to": 239.96,
+      "sid": 160,
+      "location": 2,
+      "content": "然后说我恶意玷污了老师这样一个高贵的职业",
+      "music": 0.0
+    },
+    {
+      "from": 239.96,
+      "to": 241.93,
+      "sid": 161,
+      "location": 2,
+      "content": "可能自己找到体制内工作就非常的完美",
+      "music": 0.0
+    },
+    {
+      "from": 241.93,
+      "to": 244.09,
+      "sid": 162,
+      "location": 2,
+      "content": "我也再次非常欢迎各位找到完美体制内工作的",
+      "music": 0.0
+    },
+    {
+      "from": 244.09,
+      "to": 245.29,
+      "sid": 163,
+      "location": 2,
+      "content": "朋友分享一下自己的经验",
+      "music": 0.0
+    },
+    {
+      "from": 245.29,
+      "to": 246.38,
+      "sid": 164,
+      "location": 2,
+      "content": "本人急需",
+      "music": 0.0
+    },
+    {
+      "from": 246.38,
+      "to": 247.88,
+      "sid": 165,
+      "location": 2,
+      "content": "第二个呢就是央国企",
+      "music": 0.0
+    },
+    {
+      "from": 247.88,
+      "to": 249.22,
+      "sid": 166,
+      "location": 2,
+      "content": "央国企和高校园那一点像",
+      "music": 0.0
+    },
+    {
+      "from": 249.22,
+      "to": 249.98,
+      "sid": 167,
+      "location": 2,
+      "content": "那是又有一点差异",
+      "music": 0.0
+    },
+    {
+      "from": 249.98,
+      "to": 251.26,
+      "sid": 168,
+      "location": 2,
+      "content": "毕竟现在央国企很多都已经市场化了",
+      "music": 0.0
+    },
+    {
+      "from": 251.26,
+      "to": 252.68,
+      "sid": 169,
+      "location": 2,
+      "content": "所以他的规则还不是那么的象牙塔",
+      "music": 0.0
+    },
+    {
+      "from": 252.68,
+      "to": 253.34,
+      "sid": 170,
+      "location": 2,
+      "content": "首先第一个呢",
+      "music": 0.0
+    },
+    {
+      "from": 253.34,
+      "to": 255.06,
+      "sid": 171,
+      "location": 2,
+      "content": "就是它能够最好的发挥你的一个学历优势",
+      "music": 0.0
+    },
+    {
+      "from": 255.06,
+      "to": 256.92,
+      "sid": 172,
+      "location": 2,
+      "content": "应届生今年国际门槛还是比较低的",
+      "music": 0.0
+    },
+    {
+      "from": 256.92,
+      "to": 258.18,
+      "sid": 173,
+      "location": 2,
+      "content": "如果你想社招再进的话",
+      "music": 0.0
+    },
+    {
+      "from": 258.18,
+      "to": 259.86,
+      "sid": 174,
+      "location": 2,
+      "content": "可能要有35年对口的工作经验才行",
+      "music": 0.0
+    },
+    {
+      "from": 259.86,
+      "to": 261.02,
+      "sid": 175,
+      "location": 2,
+      "content": "不过呀等你真入职了",
+      "music": 0.0
+    },
+    {
+      "from": 261.02,
+      "to": 263.04,
+      "sid": 176,
+      "location": 2,
+      "content": "你就会发现你的学历不堪一击",
+      "music": 0.0
+    },
+    {
+      "from": 263.04,
+      "to": 265.0,
+      "sid": 177,
+      "location": 2,
+      "content": "因为你的领导啊都是大专好",
+      "music": 0.0
+    },
+    {
+      "from": 265.0,
+      "to": 266.94,
+      "sid": 178,
+      "location": 2,
+      "content": "第二个就是工作内容比较简单",
+      "music": 0.0
+    },
+    {
+      "from": 266.94,
+      "to": 267.84,
+      "sid": 179,
+      "location": 2,
+      "content": "也比较的清闲",
+      "music": 0.0
+    },
+    {
+      "from": 267.84,
+      "to": 268.47,
+      "sid": 180,
+      "location": 2,
+      "content": "朝九晚五",
+      "music": 0.0
+    },
+    {
+      "from": 268.47,
+      "to": 269.31,
+      "sid": 181,
+      "location": 2,
+      "content": "理工科可能不这样",
+      "music": 0.0
+    },
+    {
+      "from": 269.31,
+      "to": 270.87,
+      "sid": 182,
+      "location": 2,
+      "content": "但是文科职能岗真的没什么难度",
+      "music": 0.0
+    },
+    {
+      "from": 270.87,
+      "to": 272.29,
+      "sid": 183,
+      "location": 2,
+      "content": "基本上就是学校里面干过的那些事",
+      "music": 0.0
+    },
+    {
+      "from": 272.29,
+      "to": 273.27,
+      "sid": 184,
+      "location": 2,
+      "content": "如果你想提前体验的话",
+      "music": 0.0
+    },
+    {
+      "from": 273.27,
+      "to": 275.31,
+      "sid": 185,
+      "location": 2,
+      "content": "那你可以去试一试学校的学生助理这个岗",
+      "music": 0.0
+    },
+    {
+      "from": 275.31,
+      "to": 276.88,
+      "sid": 186,
+      "location": 2,
+      "content": "第三个就是工作流程非常的长",
+      "music": 0.0
+    },
+    {
+      "from": 276.88,
+      "to": 278.32,
+      "sid": 187,
+      "location": 2,
+      "content": "大家的效率也非常的低啊",
+      "music": 0.0
+    },
+    {
+      "from": 278.32,
+      "to": 279.2,
+      "sid": 188,
+      "location": 2,
+      "content": "你没发现开不完的会",
+      "music": 0.0
+    },
+    {
+      "from": 279.2,
+      "to": 281.08,
+      "sid": 189,
+      "location": 2,
+      "content": "但是能逃出个讨论出结果的会议少之又少",
+      "music": 0.0
+    },
+    {
+      "from": 281.08,
+      "to": 282.72,
+      "sid": 190,
+      "location": 2,
+      "content": "但是会议纪要呢还是非得走那个形式",
+      "music": 0.0
+    },
+    {
+      "from": 282.72,
+      "to": 283.37,
+      "sid": 191,
+      "location": 2,
+      "content": "非得要写",
+      "music": 0.0
+    },
+    {
+      "from": 283.37,
+      "to": 284.57,
+      "sid": 192,
+      "location": 2,
+      "content": "还有就是他那个OA系统啊",
+      "music": 0.0
+    },
+    {
+      "from": 284.57,
+      "to": 285.47,
+      "sid": 193,
+      "location": 2,
+      "content": "也是老的不能再老",
+      "music": 0.0
+    },
+    {
+      "from": 285.47,
+      "to": 286.09,
+      "sid": 194,
+      "location": 2,
+      "content": "尽管如此呢",
+      "music": 0.0
+    },
+    {
+      "from": 286.09,
+      "to": 287.13,
+      "sid": 195,
+      "location": 2,
+      "content": "该走的流程还是一个不能少",
+      "music": 0.0
+    },
+    {
+      "from": 287.13,
+      "to": 287.65,
+      "sid": 196,
+      "location": 2,
+      "content": "必须得走完",
+      "music": 0.0
+    },
+    {
+      "from": 287.65,
+      "to": 289.04,
+      "sid": 197,
+      "location": 2,
+      "content": "第四个就是同事老龄化",
+      "music": 0.0
+    },
+    {
+      "from": 289.04,
+      "to": 289.96,
+      "sid": 198,
+      "location": 2,
+      "content": "这个能说明两件事",
+      "music": 0.0
+    },
+    {
+      "from": 289.96,
+      "to": 290.96,
+      "sid": 199,
+      "location": 2,
+      "content": "你第一个要么公司待遇好",
+      "music": 0.0
+    },
+    {
+      "from": 290.96,
+      "to": 291.56,
+      "sid": 200,
+      "location": 2,
+      "content": "大家都不愿意走",
+      "music": 0.0
+    },
+    {
+      "from": 291.56,
+      "to": 292.38,
+      "sid": 201,
+      "location": 2,
+      "content": "都愿意在这养老",
+      "music": 0.0
+    },
+    {
+      "from": 292.38,
+      "to": 293.84,
+      "sid": 202,
+      "location": 2,
+      "content": "第二个呢就是公司留不住新人",
+      "music": 0.0
+    },
+    {
+      "from": 293.84,
+      "to": 295.23,
+      "sid": 203,
+      "location": 2,
+      "content": "老人排外就这两种可能",
+      "music": 0.0
+    },
+    {
+      "from": 295.23,
+      "to": 297.07,
+      "sid": 204,
+      "location": 2,
+      "content": "第五个中高层站队明显",
+      "music": 0.0
+    },
+    {
+      "from": 297.07,
+      "to": 297.95,
+      "sid": 205,
+      "location": 2,
+      "content": "利益关系复杂",
+      "music": 0.0
+    },
+    {
+      "from": 297.95,
+      "to": 298.67,
+      "sid": 206,
+      "location": 2,
+      "content": "信我一句话",
+      "music": 0.0
+    },
+    {
+      "from": 298.67,
+      "to": 300.1,
+      "sid": 207,
+      "location": 2,
+      "content": "如果一个公司他业务不是非常好",
+      "music": 0.0
+    },
+    {
+      "from": 300.1,
+      "to": 301.46,
+      "sid": 208,
+      "location": 2,
+      "content": "然后工作也比较清闲",
+      "music": 0.0
+    },
+    {
+      "from": 301.46,
+      "to": 302.9,
+      "sid": 209,
+      "location": 2,
+      "content": "那他的人际关系一定不会简单到哪里",
+      "music": 0.0
+    },
+    {
+      "from": 302.9,
+      "to": 303.76,
+      "sid": 210,
+      "location": 2,
+      "content": "简单到哪里去",
+      "music": 0.0
+    },
+    {
+      "from": 303.76,
+      "to": 305.62,
+      "sid": 211,
+      "location": 2,
+      "content": "因为大家的心思全用在人际交往上",
+      "music": 0.0
+    },
+    {
+      "from": 305.62,
+      "to": 306.54,
+      "sid": 212,
+      "location": 2,
+      "content": "你时如果你是新人的话",
+      "music": 0.0
+    },
+    {
+      "from": 306.54,
+      "to": 307.94,
+      "sid": 213,
+      "location": 2,
+      "content": "最好还是去基层干起比较好",
+      "music": 0.0
+    },
+    {
+      "from": 307.94,
+      "to": 308.61,
+      "sid": 214,
+      "location": 2,
+      "content": "比较稳妥",
+      "music": 0.0
+    },
+    {
+      "from": 308.61,
+      "to": 310.25,
+      "sid": 215,
+      "location": 2,
+      "content": "第六个劳动法的法外之地啊",
+      "music": 0.0
+    },
+    {
+      "from": 310.25,
+      "to": 312.17,
+      "sid": 216,
+      "location": 2,
+      "content": "我当时就是被这家公司恶意裁员了",
+      "music": 0.0
+    },
+    {
+      "from": 312.17,
+      "to": 313.17,
+      "sid": 217,
+      "location": 2,
+      "content": "还是在试用期的时候",
+      "music": 0.0
+    },
+    {
+      "from": 313.17,
+      "to": 314.37,
+      "sid": 218,
+      "location": 2,
+      "content": "我的领导为了把我赶走",
+      "music": 0.0
+    },
+    {
+      "from": 314.37,
+      "to": 315.37,
+      "sid": 219,
+      "location": 2,
+      "content": "甚至还报了警上警",
+      "music": 0.0
+    },
+    {
+      "from": 315.37,
+      "to": 316.25,
+      "sid": 220,
+      "location": 2,
+      "content": "警察来了之后劝我说",
+      "music": 0.0
+    },
+    {
+      "from": 317.86,
+      "to": 319.63,
+      "sid": 221,
+      "location": 2,
+      "content": "但是大刘也没有给我任何的赔偿",
+      "music": 0.0
+    },
+    {
+      "from": 319.63,
+      "to": 321.77,
+      "sid": 222,
+      "location": 2,
+      "content": "整个离职流程我是自己一个人处理完了",
+      "music": 0.0
+    },
+    {
+      "from": 321.77,
+      "to": 322.91,
+      "sid": 223,
+      "location": 2,
+      "content": "每一个环节都有漏洞",
+      "music": 0.0
+    },
+    {
+      "from": 322.91,
+      "to": 323.83,
+      "sid": 224,
+      "location": 2,
+      "content": "可以说是一塌糊涂",
+      "music": 0.0
+    },
+    {
+      "from": 323.83,
+      "to": 325.31,
+      "sid": 225,
+      "location": 2,
+      "content": "就是劳动法形同摆设",
+      "music": 0.0
+    },
+    {
+      "from": 325.31,
+      "to": 326.39,
+      "sid": 226,
+      "location": 2,
+      "content": "人事只会跟我说一句话",
+      "music": 0.0
+    },
+    {
+      "from": 326.39,
+      "to": 327.27,
+      "sid": 227,
+      "location": 2,
+      "content": "他说不服你就去告我啊",
+      "music": 0.0
+    },
+    {
+      "from": 327.27,
+      "to": 328.4,
+      "sid": 228,
+      "location": 2,
+      "content": "不服你就去仲裁啊",
+      "music": 0.0
+    },
+    {
+      "from": 328.4,
+      "to": 330.32,
+      "sid": 229,
+      "location": 2,
+      "content": "当然这也可能是我们中国职场的一个通病啊",
+      "music": 0.0
+    },
+    {
+      "from": 330.32,
+      "to": 331.38,
+      "sid": 230,
+      "location": 2,
+      "content": "第一个就是隐形福利",
+      "music": 0.0
+    },
+    {
+      "from": 331.38,
+      "to": 332.24,
+      "sid": 231,
+      "location": 2,
+      "content": "这里面我要提一嘴",
+      "music": 0.0
+    },
+    {
+      "from": 332.24,
+      "to": 333.44,
+      "sid": 232,
+      "location": 2,
+      "content": "就是这个包吃包住的问题",
+      "music": 0.0
+    },
+    {
+      "from": 333.44,
+      "to": 335.049,
+      "sid": 233,
+      "location": 2,
+      "content": "包吃包住它有两种可能啊",
+      "music": 0.0
+    },
+    {
+      "from": 335.049,
+      "to": 335.809,
+      "sid": 234,
+      "location": 2,
+      "content": "嗯包吃包住",
+      "music": 0.0
+    },
+    {
+      "from": 335.809,
+      "to": 337.489,
+      "sid": 235,
+      "location": 2,
+      "content": "他很有可能是因为你这家公司离市中心比较远",
+      "music": 0.0
+    },
+    {
+      "from": 337.489,
+      "to": 338.28,
+      "sid": 236,
+      "location": 2,
+      "content": "所以他包吃包住",
+      "music": 0.0
+    },
+    {
+      "from": 338.28,
+      "to": 339.56,
+      "sid": 237,
+      "location": 2,
+      "content": "再一个如果你住公司的宿舍的话",
+      "music": 0.0
+    },
+    {
+      "from": 339.56,
+      "to": 341.24,
+      "sid": 238,
+      "location": 2,
+      "content": "你到时候离职之类的都非常的不方便",
+      "music": 0.0
+    },
+    {
+      "from": 341.24,
+      "to": 343.24,
+      "sid": 239,
+      "location": 2,
+      "content": "还有就是逢年过节发的那点隐形福利",
+      "music": 0.0
+    },
+    {
+      "from": 343.24,
+      "to": 344.32,
+      "sid": 240,
+      "location": 2,
+      "content": "对于我这种单身人士来说",
+      "music": 0.0
+    },
+    {
+      "from": 344.32,
+      "to": 345.1,
+      "sid": 241,
+      "location": 2,
+      "content": "真的毫无诱惑力",
+      "music": 0.0
+    },
+    {
+      "from": 345.1,
+      "to": 346.14,
+      "sid": 242,
+      "location": 2,
+      "content": "其实我觉得我们中文系",
+      "music": 0.0
+    },
+    {
+      "from": 346.14,
+      "to": 347.5,
+      "sid": 243,
+      "location": 2,
+      "content": "在央国企就是负责传话的",
+      "music": 0.0
+    },
+    {
+      "from": 347.5,
+      "to": 348.38,
+      "sid": 244,
+      "location": 2,
+      "content": "真的没什么难度",
+      "music": 0.0
+    },
+    {
+      "from": 348.38,
+      "to": 349.14,
+      "sid": 245,
+      "location": 2,
+      "content": "总的来说呢",
+      "music": 0.0
+    },
+    {
+      "from": 349.14,
+      "to": 349.94,
+      "sid": 246,
+      "location": 2,
+      "content": "央国企和体制内",
+      "music": 0.0
+    },
+    {
+      "from": 349.94,
+      "to": 351.7,
+      "sid": 247,
+      "location": 2,
+      "content": "他们的官本位文化都非常的浓厚",
+      "music": 0.0
+    },
+    {
+      "from": 351.7,
+      "to": 353.42,
+      "sid": 248,
+      "location": 2,
+      "content": "上下级呢等级也比较森严啊",
+      "music": 0.0
+    },
+    {
+      "from": 353.42,
+      "to": 354.14,
+      "sid": 249,
+      "location": 2,
+      "content": "所以我不会说",
+      "music": 0.0
+    },
+    {
+      "from": 354.14,
+      "to": 356.5,
+      "sid": 250,
+      "location": 2,
+      "content": "这两种职场适合追求稳定的人去选择",
+      "music": 0.0
+    },
+    {
+      "from": 356.5,
+      "to": 357.84,
+      "sid": 251,
+      "location": 2,
+      "content": "因为稳定是一个中性词吧",
+      "music": 0.0
+    },
+    {
+      "from": 357.84,
+      "to": 359.18,
+      "sid": 252,
+      "location": 2,
+      "content": "稳定的背后有可能是稳定的幸福",
+      "music": 0.0
+    },
+    {
+      "from": 359.18,
+      "to": 360.3,
+      "sid": 253,
+      "location": 2,
+      "content": "也有可能是稳定的痛苦",
+      "music": 0.0
+    },
+    {
+      "from": 360.3,
+      "to": 363.47,
+      "sid": 254,
+      "location": 2,
+      "content": "而人获得幸福的方式无非就是心手一致呃",
+      "music": 0.0
+    },
+    {
+      "from": 363.47,
+      "to": 364.55,
+      "sid": 255,
+      "location": 2,
+      "content": "如果你从小到大对于学校",
+      "music": 0.0
+    },
+    {
+      "from": 364.55,
+      "to": 366.87,
+      "sid": 256,
+      "location": 2,
+      "content": "还有家庭的各种规则制度没有任何的抱怨质疑",
+      "music": 0.0
+    },
+    {
+      "from": 366.87,
+      "to": 368.1,
+      "sid": 257,
+      "location": 2,
+      "content": "还有反对意见的话",
+      "music": 0.0
+    },
+    {
+      "from": 368.1,
+      "to": 369.94,
+      "sid": 258,
+      "location": 2,
+      "content": "甚至还能够在这种体制当中感觉到",
+      "music": 0.0
+    },
+    {
+      "from": 369.94,
+      "to": 370.78,
+      "sid": 259,
+      "location": 2,
+      "content": "非常的舒适和自在",
+      "music": 0.0
+    },
+    {
+      "from": 370.78,
+      "to": 372.36,
+      "sid": 260,
+      "location": 2,
+      "content": "并且有那个心气儿力争上游",
+      "music": 0.0
+    },
+    {
+      "from": 372.36,
+      "to": 373.74,
+      "sid": 261,
+      "location": 2,
+      "content": "比如说和老师打好关系",
+      "music": 0.0
+    },
+    {
+      "from": 373.74,
+      "to": 375.99,
+      "sid": 262,
+      "location": 2,
+      "content": "比如说想当班干部嗯之类的吧",
+      "music": 0.0
+    },
+    {
+      "from": 375.99,
+      "to": 377.77,
+      "sid": 263,
+      "location": 2,
+      "content": "那么这两种职场是非常适合你的",
+      "music": 0.0
+    },
+    {
+      "from": 377.77,
+      "to": 379.89,
+      "sid": 264,
+      "location": 2,
+      "content": "我不是在抨击或者说贬低某种体质啊",
+      "music": 0.0
+    },
+    {
+      "from": 379.89,
+      "to": 381.55,
+      "sid": 265,
+      "location": 2,
+      "content": "我觉得任何一个体质他都是有缺陷的",
+      "music": 0.0
+    },
+    {
+      "from": 381.55,
+      "to": 382.35,
+      "sid": 266,
+      "location": 2,
+      "content": "因为体质啊",
+      "music": 0.0
+    },
+    {
+      "from": 382.35,
+      "to": 382.74,
+      "sid": 267,
+      "location": 2,
+      "content": "规则啊",
+      "music": 0.0
+    },
+    {
+      "from": 382.74,
+      "to": 383.1,
+      "sid": 268,
+      "location": 2,
+      "content": "民俗啊",
+      "music": 0.0
+    },
+    {
+      "from": 383.1,
+      "to": 384.22,
+      "sid": 269,
+      "location": 2,
+      "content": "这些都是人为发明创造的",
+      "music": 0.0
+    },
+    {
+      "from": 384.22,
+      "to": 385.26,
+      "sid": 270,
+      "location": 2,
+      "content": "那人类本身就是有缺陷",
+      "music": 0.0
+    },
+    {
+      "from": 385.26,
+      "to": 385.82,
+      "sid": 271,
+      "location": 2,
+      "content": "有局限性的",
+      "music": 0.0
+    },
+    {
+      "from": 385.82,
+      "to": 387.48,
+      "sid": 272,
+      "location": 2,
+      "content": "所以人造物也难免嘛对吧",
+      "music": 0.0
+    },
+    {
+      "from": 387.48,
+      "to": 388.88,
+      "sid": 273,
+      "location": 2,
+      "content": "我想说的是",
+      "music": 0.0
+    },
+    {
+      "from": 388.88,
+      "to": 391.22,
+      "sid": 274,
+      "location": 2,
+      "content": "你对于自己的价值评判体系",
+      "music": 0.0
+    },
+    {
+      "from": 391.22,
+      "to": 393.5,
+      "sid": 275,
+      "location": 2,
+      "content": "和社会的价值评判体系如果是一致的话",
+      "music": 0.0
+    },
+    {
+      "from": 393.5,
+      "to": 395.28,
+      "sid": 276,
+      "location": 2,
+      "content": "那你就嗯一定要去选择一份",
+      "music": 0.0
+    },
+    {
+      "from": 395.28,
+      "to": 396.76,
+      "sid": 277,
+      "location": 2,
+      "content": "社会认可度高的工作",
+      "music": 0.0
+    },
+    {
+      "from": 396.76,
+      "to": 398.84,
+      "sid": 278,
+      "location": 2,
+      "content": "因为它会最大化的给你一个重反馈",
+      "music": 0.0
+    },
+    {
+      "from": 398.84,
+      "to": 401.46,
+      "sid": 279,
+      "location": 2,
+      "content": "那这样的重反馈也能够让你去忍受得体",
+      "music": 0.0
+    },
+    {
+      "from": 401.46,
+      "to": 402.56,
+      "sid": 280,
+      "location": 2,
+      "content": "工作当中得得体",
+      "music": 0.0
+    },
+    {
+      "from": 402.56,
+      "to": 404.76,
+      "sid": 281,
+      "location": 2,
+      "content": "而且对人际关系的敏感和重视",
+      "music": 0.0
+    },
+    {
+      "from": 404.76,
+      "to": 406.94,
+      "sid": 282,
+      "location": 2,
+      "content": "也会成为你在职场上的巨大优势",
+      "music": 0.0
+    },
+    {
+      "from": 406.94,
+      "to": 408.04,
+      "sid": 283,
+      "location": 2,
+      "content": "第三个是私企",
+      "music": 0.0
+    },
+    {
+      "from": 408.04,
+      "to": 409.18,
+      "sid": 284,
+      "location": 2,
+      "content": "我当时是换到第三份工作",
+      "music": 0.0
+    },
+    {
+      "from": 409.18,
+      "to": 410.38,
+      "sid": 285,
+      "location": 2,
+      "content": "也是来到了第三座城市",
+      "music": 0.0
+    },
+    {
+      "from": 410.38,
+      "to": 411.18,
+      "sid": 286,
+      "location": 2,
+      "content": "来到新城市之后呢",
+      "music": 0.0
+    },
+    {
+      "from": 411.18,
+      "to": 412.38,
+      "sid": 287,
+      "location": 2,
+      "content": "我继续笔钱去交我的房租",
+      "music": 0.0
+    },
+    {
+      "from": 412.38,
+      "to": 413.9,
+      "sid": 288,
+      "location": 2,
+      "content": "所以我很快的入了一部啊",
+      "music": 0.0
+    },
+    {
+      "from": 413.9,
+      "to": 415.04,
+      "sid": 289,
+      "location": 2,
+      "content": "大家都不看好的公司",
+      "music": 0.0
+    },
+    {
+      "from": 415.04,
+      "to": 416.34,
+      "sid": 290,
+      "location": 2,
+      "content": "然后大家都不看好的一个行业",
+      "music": 0.0
+    },
+    {
+      "from": 416.34,
+      "to": 418.08,
+      "sid": 291,
+      "location": 2,
+      "content": "好去了一家知名的教育大厂啊",
+      "music": 0.0
+    },
+    {
+      "from": 418.08,
+      "to": 419.96,
+      "sid": 292,
+      "location": 2,
+      "content": "老实说我觉得工作体验感还是很不错的",
+      "music": 0.0
+    },
+    {
+      "from": 419.96,
+      "to": 421.08,
+      "sid": 293,
+      "location": 2,
+      "content": "并没有大家说的那么不堪",
+      "music": 0.0
+    },
+    {
+      "from": 421.08,
+      "to": 422.56,
+      "sid": 294,
+      "location": 2,
+      "content": "包括这个行业我其实蛮看好的",
+      "music": 0.0
+    },
+    {
+      "from": 422.56,
+      "to": 423.76,
+      "sid": 295,
+      "location": 2,
+      "content": "他确实能挣到钱的大厂",
+      "music": 0.0
+    },
+    {
+      "from": 423.76,
+      "to": 426.34,
+      "sid": 296,
+      "location": 2,
+      "content": "给我的感觉就是结合了外企和国企的一些特质",
+      "music": 0.0
+    },
+    {
+      "from": 426.34,
+      "to": 427.8,
+      "sid": 297,
+      "location": 2,
+      "content": "比如说既要求你能吃苦",
+      "music": 0.0
+    },
+    {
+      "from": 427.8,
+      "to": 428.74,
+      "sid": 298,
+      "location": 2,
+      "content": "还要求你讲效率",
+      "music": 0.0
+    },
+    {
+      "from": 428.74,
+      "to": 429.82,
+      "sid": 299,
+      "location": 2,
+      "content": "除此之外还有这样一些特点",
+      "music": 0.0
+    },
+    {
+      "from": 429.82,
+      "to": 430.8,
+      "sid": 300,
+      "location": 2,
+      "content": "第一个就是年轻人多",
+      "music": 0.0
+    },
+    {
+      "from": 430.8,
+      "to": 432.76,
+      "sid": 301,
+      "location": 2,
+      "content": "在这期间我没有见到过30多岁的同事",
+      "music": 0.0
+    },
+    {
+      "from": 432.76,
+      "to": 434.4,
+      "sid": 302,
+      "location": 2,
+      "content": "这就说明公司的人员流动性比较大",
+      "music": 0.0
+    },
+    {
+      "from": 434.4,
+      "to": 436.74,
+      "sid": 303,
+      "location": 2,
+      "content": "但是好处就是人和人之间的沟通成本比较低",
+      "music": 0.0
+    },
+    {
+      "from": 436.74,
+      "to": 437.5,
+      "sid": 304,
+      "location": 2,
+      "content": "效率比较高",
+      "music": 0.0
+    },
+    {
+      "from": 437.5,
+      "to": 438.52,
+      "sid": 305,
+      "location": 2,
+      "content": "因为我们之间没什么代沟",
+      "music": 0.0
+    },
+    {
+      "from": 438.52,
+      "to": 439.99,
+      "sid": 306,
+      "location": 2,
+      "content": "上下级也不是非常的明显",
+      "music": 0.0
+    },
+    {
+      "from": 439.99,
+      "to": 441.43,
+      "sid": 307,
+      "location": 2,
+      "content": "基本上是扁平化的管理",
+      "music": 0.0
+    },
+    {
+      "from": 441.43,
+      "to": 443.31,
+      "sid": 308,
+      "location": 2,
+      "content": "但是坏处呢就是让你时不时的焦虑吧",
+      "music": 0.0
+    },
+    {
+      "from": 443.31,
+      "to": 444.91,
+      "sid": 309,
+      "location": 2,
+      "content": "只要到30岁该何去何从呢",
+      "music": 0.0
+    },
+    {
+      "from": 444.91,
+      "to": 447.26,
+      "sid": 310,
+      "location": 2,
+      "content": "然后第二点呢就是他的工作强度比较大",
+      "music": 0.0
+    },
+    {
+      "from": 447.26,
+      "to": 448.02,
+      "sid": 311,
+      "location": 2,
+      "content": "但是多劳多得",
+      "music": 0.0
+    },
+    {
+      "from": 448.02,
+      "to": 449.22,
+      "sid": 312,
+      "location": 2,
+      "content": "大家不要觉得体制内就不加班了",
+      "music": 0.0
+    },
+    {
+      "from": 449.22,
+      "to": 449.94,
+      "sid": 313,
+      "location": 2,
+      "content": "体制内不说加班",
+      "music": 0.0
+    },
+    {
+      "from": 449.94,
+      "to": 450.72,
+      "sid": 314,
+      "location": 2,
+      "content": "他讲的是奉献",
+      "music": 0.0
+    },
+    {
+      "from": 450.72,
+      "to": 451.58,
+      "sid": 315,
+      "location": 2,
+      "content": "但是大厂不一样",
+      "music": 0.0
+    },
+    {
+      "from": 451.58,
+      "to": 452.74,
+      "sid": 316,
+      "location": 2,
+      "content": "大厂就是你干一分的活",
+      "music": 0.0
+    },
+    {
+      "from": 452.74,
+      "to": 453.74,
+      "sid": 317,
+      "location": 2,
+      "content": "他就给你一分的钱",
+      "music": 0.0
+    },
+    {
+      "from": 453.74,
+      "to": 455.02,
+      "sid": 318,
+      "location": 2,
+      "content": "这在一定程度上就能缓解",
+      "music": 0.0
+    },
+    {
+      "from": 455.02,
+      "to": 456.32,
+      "sid": 319,
+      "location": 2,
+      "content": "第一个特点带来的30岁焦虑",
+      "music": 0.0
+    },
+    {
+      "from": 456.32,
+      "to": 457.86,
+      "sid": 320,
+      "location": 2,
+      "content": "第三个就是顺着第二点讲",
+      "music": 0.0
+    },
+    {
+      "from": 457.86,
+      "to": 459.08,
+      "sid": 321,
+      "location": 2,
+      "content": "就是他的加班比较严重",
+      "music": 0.0
+    },
+    {
+      "from": 459.08,
+      "to": 460.78,
+      "sid": 322,
+      "location": 2,
+      "content": "那多劳多得这样的一个奖励机制呢",
+      "music": 0.0
+    },
+    {
+      "from": 460.78,
+      "to": 462.5,
+      "sid": 323,
+      "location": 2,
+      "content": "就会让团队变得非常的卷嗯",
+      "music": 0.0
+    },
+    {
+      "from": 462.5,
+      "to": 463.78,
+      "sid": 324,
+      "location": 2,
+      "content": "除了工作时候的那八个小时",
+      "music": 0.0
+    },
+    {
+      "from": 463.78,
+      "to": 465.7,
+      "sid": 325,
+      "location": 2,
+      "content": "你可能还需要额外付出更多的时间和精力",
+      "music": 0.0
+    },
+    {
+      "from": 465.7,
+      "to": 467.6,
+      "sid": 326,
+      "location": 2,
+      "content": "才能够达到公司的一个要求和标准",
+      "music": 0.0
+    },
+    {
+      "from": 467.6,
+      "to": 469.64,
+      "sid": 327,
+      "location": 2,
+      "content": "第四个就是他的培训机制非常的完善",
+      "music": 0.0
+    },
+    {
+      "from": 469.64,
+      "to": 472.1,
+      "sid": 328,
+      "location": 2,
+      "content": "第五个同样也是劳动法的法外之地",
+      "music": 0.0
+    },
+    {
+      "from": 472.1,
+      "to": 474.45,
+      "sid": 329,
+      "location": 2,
+      "content": "就是也没多遵守劳动法",
+      "music": 0.0
+    },
+    {
+      "from": 474.45,
+      "to": 476.17,
+      "sid": 330,
+      "location": 2,
+      "content": "我当时是在特地在试用期提了离职",
+      "music": 0.0
+    },
+    {
+      "from": 476.17,
+      "to": 478.27,
+      "sid": 331,
+      "location": 2,
+      "content": "结果硬生生的扣了我半个月才让我走",
+      "music": 0.0
+    },
+    {
+      "from": 478.27,
+      "to": 481.06,
+      "sid": 332,
+      "location": 2,
+      "content": "我可能让本土的企业遵守劳动法是一种奢望吧",
+      "music": 0.0
+    },
+    {
+      "from": 481.06,
+      "to": 482.12,
+      "sid": 333,
+      "location": 2,
+      "content": "我也表示理解",
+      "music": 0.0
+    },
+    {
+      "from": 482.12,
+      "to": 483.46,
+      "sid": 334,
+      "location": 2,
+      "content": "但是不赞同嗯",
+      "music": 0.0
+    },
+    {
+      "from": 483.46,
+      "to": 484.34,
+      "sid": 335,
+      "location": 2,
+      "content": "总体上来说呢",
+      "music": 0.0
+    },
+    {
+      "from": 484.34,
+      "to": 486.38,
+      "sid": 336,
+      "location": 2,
+      "content": "私企的大厂这种就比较适合年纪小",
+      "music": 0.0
+    },
+    {
+      "from": 486.38,
+      "to": 487.549,
+      "sid": 337,
+      "location": 2,
+      "content": "精力比较旺盛的朋友",
+      "music": 0.0
+    },
+    {
+      "from": 487.549,
+      "to": 488.789,
+      "sid": 338,
+      "location": 2,
+      "content": "如果你抗压能力强",
+      "music": 0.0
+    },
+    {
+      "from": 488.789,
+      "to": 490.029,
+      "sid": 339,
+      "location": 2,
+      "content": "然后竞争意识也比较强的话",
+      "music": 0.0
+    },
+    {
+      "from": 490.029,
+      "to": 491.01,
+      "sid": 340,
+      "location": 2,
+      "content": "那就再适合不过",
+      "music": 0.0
+    },
+    {
+      "from": 491.01,
+      "to": 492.61,
+      "sid": 341,
+      "location": 2,
+      "content": "如果幸运遇到一个好的团队",
+      "music": 0.0
+    },
+    {
+      "from": 492.61,
+      "to": 495.03,
+      "sid": 342,
+      "location": 2,
+      "content": "那你就能在短时间内获得一笔不菲的资金",
+      "music": 0.0
+    },
+    {
+      "from": 495.03,
+      "to": 497.47,
+      "sid": 343,
+      "location": 2,
+      "content": "然后还能够在你的简历上大大的加分",
+      "music": 0.0
+    },
+    {
+      "from": 497.47,
+      "to": 498.95,
+      "sid": 344,
+      "location": 2,
+      "content": "但是请大家进了大城之后",
+      "music": 0.0
+    },
+    {
+      "from": 498.95,
+      "to": 500.35,
+      "sid": 345,
+      "location": 2,
+      "content": "一定要注意身体健康",
+      "music": 0.0
+    },
+    {
+      "from": 500.35,
+      "to": 501.79,
+      "sid": 346,
+      "location": 2,
+      "content": "最后一个就是外企",
+      "music": 0.0
+    },
+    {
+      "from": 501.79,
+      "to": 503.87,
+      "sid": 347,
+      "location": 2,
+      "content": "说我现在这份工作是我干的最长的一份工作",
+      "music": 0.0
+    },
+    {
+      "from": 503.87,
+      "to": 505.47,
+      "sid": 348,
+      "location": 2,
+      "content": "嗯其实工作在我看来都一样",
+      "music": 0.0
+    },
+    {
+      "from": 505.47,
+      "to": 507.05,
+      "sid": 349,
+      "location": 2,
+      "content": "他都是拿你的时间知识",
+      "music": 0.0
+    },
+    {
+      "from": 507.05,
+      "to": 509.27,
+      "sid": 350,
+      "location": 2,
+      "content": "还有体力去去换取一些生存的成本",
+      "music": 0.0
+    },
+    {
+      "from": 509.27,
+      "to": 510.11,
+      "sid": 351,
+      "location": 2,
+      "content": "就这么简单啊",
+      "music": 0.0
+    },
+    {
+      "from": 510.11,
+      "to": 511.45,
+      "sid": 352,
+      "location": 2,
+      "content": "现在外企很多中国人在管理",
+      "music": 0.0
+    },
+    {
+      "from": 511.45,
+      "to": 512.78,
+      "sid": 353,
+      "location": 2,
+      "content": "所以本土化也是在所难免",
+      "music": 0.0
+    },
+    {
+      "from": 512.78,
+      "to": 514.34,
+      "sid": 354,
+      "location": 2,
+      "content": "大家也不要叠太多的滤镜啊",
+      "music": 0.0
+    },
+    {
+      "from": 514.34,
+      "to": 516.58,
+      "sid": 355,
+      "location": 2,
+      "content": "只不过外企他的这个管理方式会更加的礼貌",
+      "music": 0.0
+    },
+    {
+      "from": 516.58,
+      "to": 517.18,
+      "sid": 356,
+      "location": 2,
+      "content": "更加的隐晦",
+      "music": 0.0
+    },
+    {
+      "from": 517.18,
+      "to": 517.86,
+      "sid": 357,
+      "location": 2,
+      "content": "更加的客气",
+      "music": 0.0
+    },
+    {
+      "from": 517.86,
+      "to": 520.7,
+      "sid": 358,
+      "location": 2,
+      "content": "所谓的人文关怀其实都是为了让你更加有拍神",
+      "music": 0.0
+    },
+    {
+      "from": 520.7,
+      "to": 523.539,
+      "sid": 359,
+      "location": 2,
+      "content": "然后让你干活的时候更加心甘情愿而已嗯",
+      "music": 0.0
+    },
+    {
+      "from": 523.539,
+      "to": 524.459,
+      "sid": 360,
+      "location": 2,
+      "content": "首先第一个就是外企",
+      "music": 0.0
+    },
+    {
+      "from": 524.459,
+      "to": 526.64,
+      "sid": 361,
+      "location": 2,
+      "content": "他非常严格的去遵循了劳动法嗯",
+      "music": 0.0
+    },
+    {
+      "from": 526.64,
+      "to": 528.72,
+      "sid": 362,
+      "location": 2,
+      "content": "像我在之前两次职场遇到的一些问题啊",
+      "music": 0.0
+    },
+    {
+      "from": 528.72,
+      "to": 531.24,
+      "sid": 363,
+      "location": 2,
+      "content": "他在新的劳动合同上面都会明令的去禁止",
+      "music": 0.0
+    },
+    {
+      "from": 531.24,
+      "to": 532.7,
+      "sid": 364,
+      "location": 2,
+      "content": "之前的两份体制内的工作",
+      "music": 0.0
+    },
+    {
+      "from": 532.7,
+      "to": 533.72,
+      "sid": 365,
+      "location": 2,
+      "content": "都因为我的性别",
+      "music": 0.0
+    },
+    {
+      "from": 533.72,
+      "to": 535.72,
+      "sid": 366,
+      "location": 2,
+      "content": "给我带来了非常大的冒犯以及束缚",
+      "music": 0.0
+    },
+    {
+      "from": 535.72,
+      "to": 536.12,
+      "sid": 367,
+      "location": 2,
+      "content": "还有压迫",
+      "music": 0.0
+    },
+    {
+      "from": 536.12,
+      "to": 537.38,
+      "sid": 368,
+      "location": 2,
+      "content": "让我非常的不爽",
+      "music": 0.0
+    },
+    {
+      "from": 537.38,
+      "to": 539.62,
+      "sid": 369,
+      "location": 2,
+      "content": "第二个呢就是入职就年假",
+      "music": 0.0
+    },
+    {
+      "from": 539.62,
+      "to": 541.28,
+      "sid": 370,
+      "location": 2,
+      "content": "不管你的工作时间如何",
+      "music": 0.0
+    },
+    {
+      "from": 541.28,
+      "to": 543.29,
+      "sid": 371,
+      "location": 2,
+      "content": "然后第三个就是非常的讲求效率",
+      "music": 0.0
+    },
+    {
+      "from": 543.29,
+      "to": 544.69,
+      "sid": 372,
+      "location": 2,
+      "content": "并且不允许加班呃",
+      "music": 0.0
+    },
+    {
+      "from": 544.69,
+      "to": 545.75,
+      "sid": 373,
+      "location": 2,
+      "content": "好处就是到点下班",
+      "music": 0.0
+    },
+    {
+      "from": 545.75,
+      "to": 548.42,
+      "sid": 374,
+      "location": 2,
+      "content": "坏处就是你必须要遵循公司制定的sop",
+      "music": 0.0
+    },
+    {
+      "from": 548.42,
+      "to": 550.38,
+      "sid": 375,
+      "location": 2,
+      "content": "还有就是公司开会基本上都是线上",
+      "music": 0.0
+    },
+    {
+      "from": 550.38,
+      "to": 552.42,
+      "sid": 376,
+      "location": 2,
+      "content": "有事又说是人和人之间也属于是坦诚沟通",
+      "music": 0.0
+    },
+    {
+      "from": 552.42,
+      "to": 553.24,
+      "sid": 377,
+      "location": 2,
+      "content": "快速决策的那种",
+      "music": 0.0
+    },
+    {
+      "from": 553.24,
+      "to": 554.34,
+      "sid": 378,
+      "location": 2,
+      "content": "但也由于加班比较少",
+      "music": 0.0
+    },
+    {
+      "from": 554.34,
+      "to": 555.54,
+      "sid": 379,
+      "location": 2,
+      "content": "所以薪资也不是特别高",
+      "music": 0.0
+    },
+    {
+      "from": 555.54,
+      "to": 556.78,
+      "sid": 380,
+      "location": 2,
+      "content": "第四个就是外企",
+      "music": 0.0
+    },
+    {
+      "from": 556.78,
+      "to": 558.1,
+      "sid": 381,
+      "location": 2,
+      "content": "他的企业文化比较的健康",
+      "music": 0.0
+    },
+    {
+      "from": 558.1,
+      "to": 560.02,
+      "sid": 382,
+      "location": 2,
+      "content": "可以说我是这四份工作当中最健康嗯",
+      "music": 0.0
+    },
+    {
+      "from": 560.02,
+      "to": 561.02,
+      "sid": 383,
+      "location": 2,
+      "content": "大家都是到点下班",
+      "music": 0.0
+    },
+    {
+      "from": 561.02,
+      "to": 563.02,
+      "sid": 384,
+      "location": 2,
+      "content": "所以都是专注力都在本职工作",
+      "music": 0.0
+    },
+    {
+      "from": 563.02,
+      "to": 564.52,
+      "sid": 385,
+      "location": 2,
+      "content": "人和人之间都是比较尊重的",
+      "music": 0.0
+    },
+    {
+      "from": 564.52,
+      "to": 566.15,
+      "sid": 386,
+      "location": 2,
+      "content": "然后也不会去刺探彼此的一个隐私",
+      "music": 0.0
+    },
+    {
+      "from": 566.15,
+      "to": 568.03,
+      "sid": 387,
+      "location": 2,
+      "content": "但我觉得可能也是我遇到的团队比较好",
+      "music": 0.0
+    },
+    {
+      "from": 568.03,
+      "to": 569.47,
+      "sid": 388,
+      "location": 2,
+      "content": "因为人个人只要存在利益关系",
+      "music": 0.0
+    },
+    {
+      "from": 569.47,
+      "to": 570.99,
+      "sid": 389,
+      "location": 2,
+      "content": "他难免会有一些摩擦和碰撞",
+      "music": 0.0
+    },
+    {
+      "from": 570.99,
+      "to": 572.15,
+      "sid": 390,
+      "location": 2,
+      "content": "和体制内不太一样",
+      "music": 0.0
+    },
+    {
+      "from": 572.15,
+      "to": 574.63,
+      "sid": 391,
+      "location": 2,
+      "content": "外企他是经常会调整那个组织架构的",
+      "music": 0.0
+    },
+    {
+      "from": 574.63,
+      "to": 575.83,
+      "sid": 392,
+      "location": 2,
+      "content": "所以刻意的去站队啊",
+      "music": 0.0
+    },
+    {
+      "from": 575.83,
+      "to": 576.47,
+      "sid": 393,
+      "location": 2,
+      "content": "是没什么必要的",
+      "music": 0.0
+    },
+    {
+      "from": 576.47,
+      "to": 578.22,
+      "sid": 394,
+      "location": 2,
+      "content": "这个也是对我这种性格比较友好",
+      "music": 0.0
+    },
+    {
+      "from": 578.22,
+      "to": 580.24,
+      "sid": 395,
+      "location": 2,
+      "content": "第五个就是他的培训机制非常的完善",
+      "music": 0.0
+    },
+    {
+      "from": 580.24,
+      "to": 583.02,
+      "sid": 396,
+      "location": 2,
+      "content": "他会制定一个非常详细的培养计划",
+      "music": 0.0
+    },
+    {
+      "from": 583.02,
+      "to": 585.46,
+      "sid": 397,
+      "location": 2,
+      "content": "包括每个时间节点之前你要达成哪些标准",
+      "music": 0.0
+    },
+    {
+      "from": 585.46,
+      "to": 587.06,
+      "sid": 398,
+      "location": 2,
+      "content": "但是相对来说是比较量化的",
+      "music": 0.0
+    },
+    {
+      "from": 587.06,
+      "to": 589.42,
+      "sid": 399,
+      "location": 2,
+      "content": "第六个就是现在大环境不好吧",
+      "music": 0.0
+    },
+    {
+      "from": 589.42,
+      "to": 590.94,
+      "sid": 400,
+      "location": 2,
+      "content": "每个职场都会存在一个弊病",
+      "music": 0.0
+    },
+    {
+      "from": 590.94,
+      "to": 592.51,
+      "sid": 401,
+      "location": 2,
+      "content": "就是他的建设不是非常的明朗",
+      "music": 0.0
+    },
+    {
+      "from": 592.51,
+      "to": 593.79,
+      "sid": 402,
+      "location": 2,
+      "content": "不光是腰果起的降温增效",
+      "music": 0.0
+    },
+    {
+      "from": 593.79,
+      "to": 595.92,
+      "sid": 403,
+      "location": 2,
+      "content": "而现在各大系列它维HC都非常的少",
+      "music": 0.0
+    },
+    {
+      "from": 595.92,
+      "to": 598.14,
+      "sid": 404,
+      "location": 2,
+      "content": "所以留给新人的上升空间也不是非常的多",
+      "music": 0.0
+    },
+    {
+      "from": 598.14,
+      "to": 599.84,
+      "sid": 405,
+      "location": 2,
+      "content": "第七个就是主动者至上嗯",
+      "music": 0.0
+    },
+    {
+      "from": 599.84,
+      "to": 601.12,
+      "sid": 406,
+      "location": 2,
+      "content": "外企的氛围是非常鼓励",
+      "music": 0.0
+    },
+    {
+      "from": 601.12,
+      "to": 603.0,
+      "sid": 407,
+      "location": 2,
+      "content": "大家能够自信的去表达自己的观点",
+      "music": 0.0
+    },
+    {
+      "from": 603.0,
+      "to": 604.8,
+      "sid": 408,
+      "location": 2,
+      "content": "也强调说你要尊重自己的感受",
+      "music": 0.0
+    },
+    {
+      "from": 604.8,
+      "to": 605.84,
+      "sid": 409,
+      "location": 2,
+      "content": "把感受放到第一位哦",
+      "music": 0.0
+    },
+    {
+      "from": 605.84,
+      "to": 607.16,
+      "sid": 410,
+      "location": 2,
+      "content": "我刚入职的时候有点不适应",
+      "music": 0.0
+    },
+    {
+      "from": 607.16,
+      "to": 608.2,
+      "sid": 411,
+      "location": 2,
+      "content": "因为我发现大家有什么意见",
+      "music": 0.0
+    },
+    {
+      "from": 608.2,
+      "to": 608.92,
+      "sid": 412,
+      "location": 2,
+      "content": "不管上下级关系",
+      "music": 0.0
+    },
+    {
+      "from": 608.92,
+      "to": 610.71,
+      "sid": 413,
+      "location": 2,
+      "content": "他都会水灵灵的就能表达出来了",
+      "music": 0.0
+    },
+    {
+      "from": 610.71,
+      "to": 612.19,
+      "sid": 414,
+      "location": 2,
+      "content": "但是呢事后大家也不会记仇",
+      "music": 0.0
+    },
+    {
+      "from": 612.19,
+      "to": 613.37,
+      "sid": 415,
+      "location": 2,
+      "content": "基本上都是就事论事",
+      "music": 0.0
+    },
+    {
+      "from": 613.37,
+      "to": 615.31,
+      "sid": 416,
+      "location": 2,
+      "content": "这也是给我蛮大的震撼",
+      "music": 0.0
+    },
+    {
+      "from": 615.31,
+      "to": 617.11,
+      "sid": 417,
+      "location": 2,
+      "content": "因为好像从小我们的文化体系当中",
+      "music": 0.0
+    },
+    {
+      "from": 620.51,
+      "to": 621.79,
+      "sid": 418,
+      "location": 2,
+      "content": "我们的文化可能比较的中庸啊",
+      "music": 0.0
+    },
+    {
+      "from": 621.79,
+      "to": 622.589,
+      "sid": 419,
+      "location": 2,
+      "content": "比较的保守",
+      "music": 0.0
+    },
+    {
+      "from": 622.589,
+      "to": 624.549,
+      "sid": 420,
+      "location": 2,
+      "content": "但是外企呢他就鼓励你去当那个出头鸟",
+      "music": 0.0
+    },
+    {
+      "from": 624.549,
+      "to": 625.369,
+      "sid": 421,
+      "location": 2,
+      "content": "去当领头羊",
+      "music": 0.0
+    },
+    {
+      "from": 625.369,
+      "to": 626.909,
+      "sid": 422,
+      "location": 2,
+      "content": "而且他非常注重团队的协作",
+      "music": 0.0
+    },
+    {
+      "from": 626.909,
+      "to": 627.869,
+      "sid": 423,
+      "location": 2,
+      "content": "而团队协作跟那种牺牲小",
+      "music": 0.0
+    },
+    {
+      "from": 627.869,
+      "to": 628.9,
+      "sid": 424,
+      "location": 2,
+      "content": "我的集体主义还不太一样",
+      "music": 0.0
+    },
+    {
+      "from": 628.9,
+      "to": 630.3,
+      "sid": 425,
+      "location": 2,
+      "content": "他是希望你能够脱颖而出",
+      "music": 0.0
+    },
+    {
+      "from": 630.3,
+      "to": 631.1,
+      "sid": 426,
+      "location": 2,
+      "content": "带领团队",
+      "music": 0.0
+    },
+    {
+      "from": 631.1,
+      "to": 633.22,
+      "sid": 427,
+      "location": 2,
+      "content": "而且能够用自己的个人魅力去带动整个团队",
+      "music": 0.0
+    },
+    {
+      "from": 633.22,
+      "to": 634.18,
+      "sid": 428,
+      "location": 2,
+      "content": "达成我们的业绩",
+      "music": 0.0
+    },
+    {
+      "from": 634.18,
+      "to": 636.17,
+      "sid": 429,
+      "location": 2,
+      "content": "就是你既能主动的去承担责任",
+      "music": 0.0
+    },
+    {
+      "from": 636.17,
+      "to": 637.21,
+      "sid": 430,
+      "location": 2,
+      "content": "而且遇到问题的时候",
+      "music": 0.0
+    },
+    {
+      "from": 637.21,
+      "to": 638.67,
+      "sid": 431,
+      "location": 2,
+      "content": "你也要去主动的采取行动",
+      "music": 0.0
+    },
+    {
+      "from": 638.67,
+      "to": 640.63,
+      "sid": 432,
+      "location": 2,
+      "content": "那如果你比较喜欢多元文化",
+      "music": 0.0
+    },
+    {
+      "from": 640.63,
+      "to": 643.829,
+      "sid": 433,
+      "location": 2,
+      "content": "认同人和人之间应该保持一个平等尊重的关系",
+      "music": 0.0
+    },
+    {
+      "from": 643.829,
+      "to": 645.669,
+      "sid": 434,
+      "location": 2,
+      "content": "并且乐于沟通表达",
+      "music": 0.0
+    },
+    {
+      "from": 645.669,
+      "to": 647.589,
+      "sid": 435,
+      "location": 2,
+      "content": "有一定的影响力和领导力的话",
+      "music": 0.0
+    },
+    {
+      "from": 647.589,
+      "to": 649.029,
+      "sid": 436,
+      "location": 2,
+      "content": "那外企是一个不错的选择",
+      "music": 0.0
+    },
+    {
+      "from": 649.029,
+      "to": 650.85,
+      "sid": 437,
+      "location": 2,
+      "content": "其实选工作的本质",
+      "music": 0.0
+    },
+    {
+      "from": 650.85,
+      "to": 652.71,
+      "sid": 438,
+      "location": 2,
+      "content": "是在选择一种你想要的生活方式",
+      "music": 0.0
+    },
+    {
+      "from": 652.71,
+      "to": 654.09,
+      "sid": 439,
+      "location": 2,
+      "content": "而工作只不过就是一条路径",
+      "music": 0.0
+    },
+    {
+      "from": 654.09,
+      "to": 656.01,
+      "sid": 440,
+      "location": 2,
+      "content": "而它能够帮助你实现你想要的一种生活",
+      "music": 0.0
+    },
+    {
+      "from": 656.01,
+      "to": 658.78,
+      "sid": 441,
+      "location": 2,
+      "content": "其实我这四份工作干的都不是非常的精疲力尽",
+      "music": 0.0
+    },
+    {
+      "from": 658.78,
+      "to": 659.84,
+      "sid": 442,
+      "location": 2,
+      "content": "因为我找工作的时候呢",
+      "music": 0.0
+    },
+    {
+      "from": 659.84,
+      "to": 661.4,
+      "sid": 443,
+      "location": 2,
+      "content": "就一直在想怎么样不把自己累着",
+      "music": 0.0
+    },
+    {
+      "from": 661.4,
+      "to": 662.18,
+      "sid": 444,
+      "location": 2,
+      "content": "还能把钱赚到",
+      "music": 0.0
+    },
+    {
+      "from": 662.18,
+      "to": 664.28,
+      "sid": 445,
+      "location": 2,
+      "content": "但是四份工作基本上都是在不同时期",
+      "music": 0.0
+    },
+    {
+      "from": 664.28,
+      "to": 665.48,
+      "sid": 446,
+      "location": 2,
+      "content": "满足了我当下的一个需求",
+      "music": 0.0
+    },
+    {
+      "from": 665.48,
+      "to": 666.44,
+      "sid": 447,
+      "location": 2,
+      "content": "世界是一个大卖场",
+      "music": 0.0
+    },
+    {
+      "from": 666.44,
+      "to": 667.72,
+      "sid": 448,
+      "location": 2,
+      "content": "人人都必须要出来卖",
+      "music": 0.0
+    },
+    {
+      "from": 667.72,
+      "to": 669.1,
+      "sid": 449,
+      "location": 2,
+      "content": "但是你也可以当一个买家",
+      "music": 0.0
+    },
+    {
+      "from": 669.1,
+      "to": 671.26,
+      "sid": 450,
+      "location": 2,
+      "content": "去大胆的挑选自己想要的",
+      "music": 0.0
+    },
+    {
+      "from": 671.26,
+      "to": 673.17,
+      "sid": 451,
+      "location": 2,
+      "content": "只要有足够的资本",
+      "music": 0.0
+    },
+    {
+      "from": 673.17,
+      "to": 674.53,
+      "sid": 452,
+      "location": 2,
+      "content": "那有时候可能会买高",
+      "music": 0.0
+    },
+    {
+      "from": 674.53,
+      "to": 675.69,
+      "sid": 453,
+      "location": 2,
+      "content": "有时候可能会买低",
+      "music": 0.0
+    },
+    {
+      "from": 675.69,
+      "to": 677.27,
+      "sid": 454,
+      "location": 2,
+      "content": "商品收费盈亏难免",
+      "music": 0.0
+    },
+    {
+      "from": 677.27,
+      "to": 678.45,
+      "sid": 455,
+      "location": 2,
+      "content": "如果像我一样买错了",
+      "music": 0.0
+    },
+    {
+      "from": 678.45,
+      "to": 679.81,
+      "sid": 456,
+      "location": 2,
+      "content": "那就及时买单走人",
+      "music": 0.0
+    },
+    {
+      "from": 679.81,
+      "to": 681.05,
+      "sid": 457,
+      "location": 2,
+      "content": "换下一场就这么简单",
+      "music": 0.0
+    },
+    {
+      "from": 681.05,
+      "to": 683.01,
+      "sid": 458,
+      "location": 2,
+      "content": "以上就是本期视频的全部内容了",
+      "music": 0.0
+    },
+    {
+      "from": 683.01,
+      "to": 684.45,
+      "sid": 459,
+      "location": 2,
+      "content": "希望能够帮助到弟子",
+      "music": 0.0
+    },
+    {
+      "from": 684.45,
+      "to": 686.17,
+      "sid": 460,
+      "location": 2,
+      "content": "我们下期再见啦",
+      "music": 0.0
+    },
+    {
+      "from": 687.049,
+      "to": 689.22,
+      "sid": 461,
+      "location": 2,
+      "content": "也有信心",
+      "music": 0.17647057525952142
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Extract Bilibili Transcripts"
+  short_description: "Download Bilibili video transcript text"
+  default_prompt: "Use $extract-bilibili-transcripts to download transcript text from a Bilibili video or creator page."

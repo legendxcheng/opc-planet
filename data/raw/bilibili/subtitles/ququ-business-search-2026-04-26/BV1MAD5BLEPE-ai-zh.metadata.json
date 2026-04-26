@@ -1,0 +1,22 @@
+{
+  "bvid": "BV1MAD5BLEPE",
+  "cid": 37251646551,
+  "title": "曲曲：97 年女生月入几万却迷茫：流量比选品重要 100 倍",
+  "owner_name": "曲神带我看世界",
+  "status": "downloaded",
+  "reason": null,
+  "subtitle": {
+    "id": 1602960048248596480,
+    "lan": "ai-zh",
+    "lan_doc": "中文",
+    "is_lock": false,
+    "subtitle_url": "https://aisubtitle.hdslb.com/bfs/ai_subtitle/prod/113327342686306263450825832adbf1ed4d84a6d706b5f11755837552",
+    "type": 1,
+    "id_str": "1602960048248596480",
+    "ai_type": 0,
+    "ai_status": 2
+  },
+  "raw_subtitle_path": "data\\raw\\bilibili\\subtitles\\ququ-business-search-2026-04-26\\BV1MAD5BLEPE-ai-zh.raw.json",
+  "text_path": "data\\raw\\bilibili\\subtitles\\ququ-business-search-2026-04-26\\BV1MAD5BLEPE-ai-zh.txt",
+  "metadata_path": "data\\raw\\bilibili\\subtitles\\ququ-business-search-2026-04-26\\BV1MAD5BLEPE-ai-zh.metadata.json"
+}

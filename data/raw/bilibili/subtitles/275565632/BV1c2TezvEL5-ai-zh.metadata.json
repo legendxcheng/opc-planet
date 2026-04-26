@@ -1,0 +1,22 @@
+{
+  "bvid": "BV1c2TezvEL5",
+  "cid": 30403462564,
+  "title": "在小红书赚钱的思维逻辑：货只是内容的赠品",
+  "owner_name": "dontbesilent聊赚钱",
+  "status": "downloaded",
+  "reason": null,
+  "subtitle": {
+    "id": 1772591280698728192,
+    "lan": "ai-zh",
+    "lan_doc": "中文",
+    "is_lock": false,
+    "subtitle_url": "https://aisubtitle.hdslb.com/bfs/ai_subtitle/prod/11465252464249930403462564eca90b7c8f70ce12b15dab0a28ffb22b",
+    "type": 1,
+    "id_str": "1772591280698728192",
+    "ai_type": 0,
+    "ai_status": 2
+  },
+  "raw_subtitle_path": "data\\raw\\bilibili\\subtitles\\275565632\\BV1c2TezvEL5-ai-zh.raw.json",
+  "text_path": "data\\raw\\bilibili\\subtitles\\275565632\\BV1c2TezvEL5-ai-zh.txt",
+  "metadata_path": "data\\raw\\bilibili\\subtitles\\275565632\\BV1c2TezvEL5-ai-zh.metadata.json"
+}

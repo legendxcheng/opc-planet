@@ -1,0 +1,22 @@
+{
+  "bvid": "BV1yUQTBWEux",
+  "cid": 37404738177,
+  "title": "你赚不到钱是因为，不会问又不会抄",
+  "owner_name": "边大娘FM",
+  "status": "downloaded",
+  "reason": null,
+  "subtitle": {
+    "id": 1994092970848176896,
+    "lan": "ai-zh",
+    "lan_doc": "中文",
+    "is_lock": false,
+    "subtitle_url": "https://aisubtitle.hdslb.com/bfs/ai_subtitle/prod/11638306085729237404738177f4518176ba13a721b8b944a7c81cf9da",
+    "type": 1,
+    "id_str": "1994092970848176896",
+    "ai_type": 0,
+    "ai_status": 2
+  },
+  "raw_subtitle_path": "data\\raw\\bilibili\\subtitles\\1900638792\\BV1yUQTBWEux-ai-zh.raw.json",
+  "text_path": "data\\raw\\bilibili\\subtitles\\1900638792\\BV1yUQTBWEux-ai-zh.txt",
+  "metadata_path": "data\\raw\\bilibili\\subtitles\\1900638792\\BV1yUQTBWEux-ai-zh.metadata.json"
+}

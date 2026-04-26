@@ -1,0 +1,268 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.04,
+      "to": 0.72,
+      "sid": 1,
+      "location": 2,
+      "content": "这个是我",
+      "music": 0.0
+    },
+    {
+      "from": 0.72,
+      "to": 2.26,
+      "sid": 2,
+      "location": 2,
+      "content": "我在完全使用真人出镜",
+      "music": 0.0
+    },
+    {
+      "from": 2.26,
+      "to": 3.28,
+      "sid": 3,
+      "location": 2,
+      "content": "下面是我的数字人",
+      "music": 0.0
+    },
+    {
+      "from": 3.28,
+      "to": 4.84,
+      "sid": 4,
+      "location": 2,
+      "content": "他是我用豆包生成的一张图片",
+      "music": 0.0
+    },
+    {
+      "from": 4.84,
+      "to": 6.3,
+      "sid": 5,
+      "location": 2,
+      "content": "现在我可以让他的动作",
+      "music": 0.0
+    },
+    {
+      "from": 6.3,
+      "to": 9.34,
+      "sid": 6,
+      "location": 2,
+      "content": "眼神音调语速完全和我保持一致",
+      "music": 0.0
+    },
+    {
+      "from": 9.34,
+      "to": 10.7,
+      "sid": 7,
+      "location": 2,
+      "content": "数字人创建非常复杂",
+      "music": 0.0
+    },
+    {
+      "from": 10.7,
+      "to": 12.82,
+      "sid": 8,
+      "location": 2,
+      "content": "需要为每个人去创建单独的数字形象",
+      "music": 0.0
+    },
+    {
+      "from": 12.82,
+      "to": 13.5,
+      "sid": 9,
+      "location": 2,
+      "content": "制作周期长",
+      "music": 0.0
+    },
+    {
+      "from": 13.5,
+      "to": 14.22,
+      "sid": 10,
+      "location": 2,
+      "content": "成本也很高",
+      "music": 0.0
+    },
+    {
+      "from": 14.22,
+      "to": 15.82,
+      "sid": 11,
+      "location": 2,
+      "content": "那么现在只需要我的原始视频",
+      "music": 0.0
+    },
+    {
+      "from": 15.82,
+      "to": 17.46,
+      "sid": 12,
+      "location": 2,
+      "content": "加上一张图片去进行一个融合",
+      "music": 0.0
+    },
+    {
+      "from": 17.46,
+      "to": 19.42,
+      "sid": 13,
+      "location": 2,
+      "content": "就可以让数字人轻松复制我的视频",
+      "music": 0.0
+    },
+    {
+      "from": 19.42,
+      "to": 21.54,
+      "sid": 14,
+      "location": 2,
+      "content": "不过我暂时并不打算让他们代替我来出镜",
+      "music": 0.0
+    },
+    {
+      "from": 21.54,
+      "to": 23.48,
+      "sid": 15,
+      "location": 2,
+      "content": "峰哥真正想要的这让素质人帮他做",
+      "music": 0.0
+    },
+    {
+      "from": 23.48,
+      "to": 25.26,
+      "sid": 16,
+      "location": 2,
+      "content": "30国里遍覆盖全球市场",
+      "music": 0.0
+    },
+    {
+      "from": 25.26,
+      "to": 26.66,
+      "sid": 17,
+      "location": 2,
+      "content": "Cover at vote of carrokev",
+      "music": 0.0
+    },
+    {
+      "from": 26.66,
+      "to": 26.86,
+      "sid": 18,
+      "location": 2,
+      "content": "Deo",
+      "music": 0.0
+    },
+    {
+      "from": 26.86,
+      "to": 27.66,
+      "sid": 19,
+      "location": 2,
+      "content": "Erroscoaquated",
+      "music": 0.0
+    },
+    {
+      "from": 27.66,
+      "to": 28.9,
+      "sid": 20,
+      "location": 2,
+      "content": "So in bloon of chi ysee",
+      "music": 0.0
+    },
+    {
+      "from": 28.9,
+      "to": 29.88,
+      "sid": 21,
+      "location": 2,
+      "content": "I pain this is spaniel",
+      "music": 0.0
+    },
+    {
+      "from": 29.88,
+      "to": 30.58,
+      "sid": 22,
+      "location": 2,
+      "content": "Lashort sl",
+      "music": 0.0
+    },
+    {
+      "from": 30.58,
+      "to": 30.86,
+      "sid": 23,
+      "location": 2,
+      "content": "Conan",
+      "music": 0.0
+    },
+    {
+      "from": 30.86,
+      "to": 31.58,
+      "sid": 24,
+      "location": 2,
+      "content": "Mathe inian tome",
+      "music": 0.0
+    },
+    {
+      "from": 31.58,
+      "to": 31.82,
+      "sid": 25,
+      "location": 2,
+      "content": "Journey",
+      "music": 0.0
+    },
+    {
+      "from": 31.82,
+      "to": 32.659,
+      "sid": 26,
+      "location": 2,
+      "content": "Loyd to deutch land",
+      "music": 0.0
+    },
+    {
+      "from": 32.659,
+      "to": 33.299,
+      "sid": 27,
+      "location": 2,
+      "content": "Quot videos",
+      "music": 0.0
+    },
+    {
+      "from": 33.299,
+      "to": 34.059,
+      "sid": 28,
+      "location": 2,
+      "content": "Animal ya dimension",
+      "music": 0.0
+    },
+    {
+      "from": 34.059,
+      "to": 35.04,
+      "sid": 29,
+      "location": 2,
+      "content": "Aviation",
+      "music": 0.0
+    },
+    {
+      "from": 35.04,
+      "to": 39.04,
+      "sid": 30,
+      "location": 2,
+      "content": "霓虹国的",
+      "music": 0.0
+    },
+    {
+      "from": 39.04,
+      "to": 41.88,
+      "sid": 31,
+      "location": 2,
+      "content": "而这一切不用等到未来2025年的AI",
+      "music": 0.0
+    },
+    {
+      "from": 41.88,
+      "to": 42.88,
+      "sid": 32,
+      "location": 2,
+      "content": "现在就可以实现",
+      "music": 0.0
+    }
+  ]
+}

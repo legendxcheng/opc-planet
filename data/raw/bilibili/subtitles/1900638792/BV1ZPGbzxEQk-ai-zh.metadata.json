@@ -1,0 +1,22 @@
+{
+  "bvid": "BV1ZPGbzxEQk",
+  "cid": 29720642035,
+  "title": "大厂螺丝钉or小厂万金油？说说我的职业建议",
+  "owner_name": "边大娘FM",
+  "status": "downloaded",
+  "reason": null,
+  "subtitle": {
+    "id": 1591320878698827776,
+    "lan": "ai-zh",
+    "lan_doc": "中文",
+    "is_lock": false,
+    "subtitle_url": "https://aisubtitle.hdslb.com/bfs/ai_subtitle/prod/113236359779527261048898462295e47d8210580f9b8f83861979627c",
+    "type": 1,
+    "id_str": "1591320878698827776",
+    "ai_type": 0,
+    "ai_status": 2
+  },
+  "raw_subtitle_path": "data\\raw\\bilibili\\subtitles\\1900638792\\BV1ZPGbzxEQk-ai-zh.raw.json",
+  "text_path": "data\\raw\\bilibili\\subtitles\\1900638792\\BV1ZPGbzxEQk-ai-zh.txt",
+  "metadata_path": "data\\raw\\bilibili\\subtitles\\1900638792\\BV1ZPGbzxEQk-ai-zh.metadata.json"
+}

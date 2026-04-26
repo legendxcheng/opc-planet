@@ -1,0 +1,660 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.08,
+      "to": 2.22,
+      "sid": 1,
+      "location": 2,
+      "content": "撕开AI躺赚的遮羞布",
+      "music": 0.0
+    },
+    {
+      "from": 2.22,
+      "to": 3.52,
+      "sid": 2,
+      "location": 2,
+      "content": "2026年",
+      "music": 0.0
+    },
+    {
+      "from": 3.52,
+      "to": 5.66,
+      "sid": 3,
+      "location": 2,
+      "content": "谁在把创业焦虑当韭菜割",
+      "music": 0.0
+    },
+    {
+      "from": 5.66,
+      "to": 6.62,
+      "sid": 4,
+      "location": 2,
+      "content": "别划走",
+      "music": 0.0
+    },
+    {
+      "from": 6.62,
+      "to": 7.76,
+      "sid": 5,
+      "location": 2,
+      "content": "我就问你一句",
+      "music": 0.0
+    },
+    {
+      "from": 7.76,
+      "to": 8.96,
+      "sid": 6,
+      "location": 2,
+      "content": "2026年了",
+      "music": 0.0
+    },
+    {
+      "from": 8.96,
+      "to": 12.54,
+      "sid": 7,
+      "location": 2,
+      "content": "你报的那个AI自动带货训练营现在回本了吗",
+      "music": 0.0
+    },
+    {
+      "from": 12.54,
+      "to": 14.43,
+      "sid": 8,
+      "location": 2,
+      "content": "最近有个粉丝给我发私信",
+      "music": 0.0
+    },
+    {
+      "from": 14.43,
+      "to": 15.61,
+      "sid": 9,
+      "location": 2,
+      "content": "差点把我气笑了",
+      "music": 0.0
+    },
+    {
+      "from": 15.61,
+      "to": 18.13,
+      "sid": 10,
+      "location": 2,
+      "content": "他刷到那个广州青州智能的广告",
+      "music": 0.0
+    },
+    {
+      "from": 18.13,
+      "to": 19.729,
+      "sid": 11,
+      "location": 2,
+      "content": "说什么不用拍视频",
+      "music": 0.0
+    },
+    {
+      "from": 19.729,
+      "to": 20.869,
+      "sid": 12,
+      "location": 2,
+      "content": "AI自动生成",
+      "music": 0.0
+    },
+    {
+      "from": 20.869,
+      "to": 21.729,
+      "sid": 13,
+      "location": 2,
+      "content": "躺着月入过万",
+      "music": 0.0
+    },
+    {
+      "from": 21.729,
+      "to": 22.289,
+      "sid": 14,
+      "location": 2,
+      "content": "脑子一热",
+      "music": 0.0
+    },
+    {
+      "from": 22.289,
+      "to": 23.529,
+      "sid": 15,
+      "location": 2,
+      "content": "交了6980",
+      "music": 0.0
+    },
+    {
+      "from": 23.529,
+      "to": 26.129,
+      "sid": 16,
+      "location": 2,
+      "content": "结果呢公司被警方查封了",
+      "music": 0.0
+    },
+    {
+      "from": 26.129,
+      "to": 27.46,
+      "sid": 17,
+      "location": 2,
+      "content": "人去楼空",
+      "music": 0.0
+    },
+    {
+      "from": 27.46,
+      "to": 31.28,
+      "sid": 18,
+      "location": 2,
+      "content": "就剩下一面写着AI造福音的锦旗在那挂着",
+      "music": 0.0
+    },
+    {
+      "from": 31.28,
+      "to": 32.78,
+      "sid": 19,
+      "location": 2,
+      "content": "这哥们儿现在人傻了",
+      "music": 0.0
+    },
+    {
+      "from": 32.78,
+      "to": 33.9,
+      "sid": 20,
+      "location": 2,
+      "content": "问我伯谦",
+      "music": 0.0
+    },
+    {
+      "from": 33.9,
+      "to": 36.64,
+      "sid": 21,
+      "location": 2,
+      "content": "不是说2026年是AI风口吗",
+      "music": 0.0
+    },
+    {
+      "from": 36.64,
+      "to": 38.12,
+      "sid": 22,
+      "location": 2,
+      "content": "怎么到我这就成风口",
+      "music": 0.0
+    },
+    {
+      "from": 38.12,
+      "to": 39.88,
+      "sid": 23,
+      "location": 2,
+      "content": "浪尖上的猪直接摔死了",
+      "music": 0.0
+    },
+    {
+      "from": 39.88,
+      "to": 40.98,
+      "sid": 24,
+      "location": 2,
+      "content": "我告诉你为什么",
+      "music": 0.0
+    },
+    {
+      "from": 40.98,
+      "to": 42.56,
+      "sid": 25,
+      "location": 2,
+      "content": "因为你才是那个产品",
+      "music": 0.0
+    },
+    {
+      "from": 42.56,
+      "to": 43.46,
+      "sid": 26,
+      "location": 2,
+      "content": "不是用户",
+      "music": 0.0
+    },
+    {
+      "from": 43.46,
+      "to": 44.6,
+      "sid": 27,
+      "location": 2,
+      "content": "那些搞培训的",
+      "music": 0.0
+    },
+    {
+      "from": 44.6,
+      "to": 47.02,
+      "sid": 28,
+      "location": 2,
+      "content": "他们根本不关心你能不能卖出去货",
+      "music": 0.0
+    },
+    {
+      "from": 47.02,
+      "to": 49.32,
+      "sid": 29,
+      "location": 2,
+      "content": "他们只关心能不能卖给你焦虑",
+      "music": 0.0
+    },
+    {
+      "from": 49.32,
+      "to": 50.54,
+      "sid": 30,
+      "location": 2,
+      "content": "你买的不是克",
+      "music": 0.0
+    },
+    {
+      "from": 50.54,
+      "to": 52.26,
+      "sid": 31,
+      "location": 2,
+      "content": "是缓解焦虑的安慰剂",
+      "music": 0.0
+    },
+    {
+      "from": 52.26,
+      "to": 54.58,
+      "sid": 32,
+      "location": 2,
+      "content": "现在创业圈最恶心的潜规则",
+      "music": 0.0
+    },
+    {
+      "from": 54.58,
+      "to": 56.64,
+      "sid": 33,
+      "location": 2,
+      "content": "就是把镰刀包装成封口",
+      "music": 0.0
+    },
+    {
+      "from": 56.64,
+      "to": 58.85,
+      "sid": 34,
+      "location": 2,
+      "content": "1AI矩阵号培训",
+      "music": 0.0
+    },
+    {
+      "from": 58.85,
+      "to": 60.99,
+      "sid": 35,
+      "location": 2,
+      "content": "教你用AI批量做号",
+      "music": 0.0
+    },
+    {
+      "from": 60.99,
+      "to": 64.75,
+      "sid": 36,
+      "location": 2,
+      "content": "结果平台一查非真人创作号全封了",
+      "music": 0.0
+    },
+    {
+      "from": 64.75,
+      "to": 66.15,
+      "sid": 37,
+      "location": 2,
+      "content": "学费打水漂",
+      "music": 0.0
+    },
+    {
+      "from": 66.15,
+      "to": 68.57,
+      "sid": 38,
+      "location": 2,
+      "content": "二副业刚需陷阱天天刷屏",
+      "music": 0.0
+    },
+    {
+      "from": 68.57,
+      "to": 69.38,
+      "sid": 39,
+      "location": 2,
+      "content": "月入过万",
+      "music": 0.0
+    },
+    {
+      "from": 69.38,
+      "to": 71.06,
+      "sid": 40,
+      "location": 2,
+      "content": "搞得你不搞副业就像个废物",
+      "music": 0.0
+    },
+    {
+      "from": 71.06,
+      "to": 72.72,
+      "sid": 41,
+      "location": 2,
+      "content": "结果你熬夜做数据标注",
+      "music": 0.0
+    },
+    {
+      "from": 72.72,
+      "to": 74.32,
+      "sid": 42,
+      "location": 2,
+      "content": "人家拿你当免费劳动力",
+      "music": 0.0
+    },
+    {
+      "from": 74.32,
+      "to": 75.62,
+      "sid": 43,
+      "location": 2,
+      "content": "最后以不合格为由",
+      "music": 0.0
+    },
+    {
+      "from": 75.62,
+      "to": 76.56,
+      "sid": 44,
+      "location": 2,
+      "content": "一分钱不给",
+      "music": 0.0
+    },
+    {
+      "from": 76.56,
+      "to": 78.73,
+      "sid": 45,
+      "location": 2,
+      "content": "三快递驿站神话告诉你",
+      "music": 0.0
+    },
+    {
+      "from": 78.73,
+      "to": 80.17,
+      "sid": 46,
+      "location": 2,
+      "content": "十平米月入3万",
+      "music": 0.0
+    },
+    {
+      "from": 80.17,
+      "to": 81.43,
+      "sid": 47,
+      "location": 2,
+      "content": "等你投了6万接手",
+      "music": 0.0
+    },
+    {
+      "from": 81.43,
+      "to": 83.13,
+      "sid": 48,
+      "location": 2,
+      "content": "发现是997的牢笼",
+      "music": 0.0
+    },
+    {
+      "from": 83.13,
+      "to": 84.17,
+      "sid": 49,
+      "location": 2,
+      "content": "一个月赚6000",
+      "music": 0.0
+    },
+    {
+      "from": 84.17,
+      "to": 84.93,
+      "sid": 50,
+      "location": 2,
+      "content": "不如打工",
+      "music": 0.0
+    },
+    {
+      "from": 84.93,
+      "to": 86.49,
+      "sid": 51,
+      "location": 2,
+      "content": "想转手都没人接盘",
+      "music": 0.0
+    },
+    {
+      "from": 86.49,
+      "to": 87.93,
+      "sid": 52,
+      "location": 2,
+      "content": "这些项目的本质是什么",
+      "music": 0.0
+    },
+    {
+      "from": 87.93,
+      "to": 90.17,
+      "sid": 53,
+      "location": 2,
+      "content": "是收割想走捷径的人",
+      "music": 0.0
+    },
+    {
+      "from": 90.17,
+      "to": 93.66,
+      "sid": 54,
+      "location": 2,
+      "content": "真正的创业者都在埋头搞供应链做服务",
+      "music": 0.0
+    },
+    {
+      "from": 93.66,
+      "to": 97.62,
+      "sid": 55,
+      "location": 2,
+      "content": "只有韭菜才天天在短视频里找一夜暴富的秘籍",
+      "music": 0.0
+    },
+    {
+      "from": 97.62,
+      "to": 98.7,
+      "sid": 56,
+      "location": 2,
+      "content": "我知道你累",
+      "music": 0.0
+    },
+    {
+      "from": 98.7,
+      "to": 99.46,
+      "sid": 57,
+      "location": 2,
+      "content": "你焦虑",
+      "music": 0.0
+    },
+    {
+      "from": 99.46,
+      "to": 101.21,
+      "sid": 58,
+      "location": 2,
+      "content": "你看别人赚钱眼红",
+      "music": 0.0
+    },
+    {
+      "from": 101.21,
+      "to": 103.81,
+      "sid": 59,
+      "location": 2,
+      "content": "但创业不是逃避打工的避难所",
+      "music": 0.0
+    },
+    {
+      "from": 103.81,
+      "to": 105.69,
+      "sid": 60,
+      "location": 2,
+      "content": "而是更残酷的修罗场",
+      "music": 0.0
+    },
+    {
+      "from": 105.69,
+      "to": 107.08,
+      "sid": 61,
+      "location": 2,
+      "content": "那些教你躺赚的人",
+      "music": 0.0
+    },
+    {
+      "from": 107.08,
+      "to": 108.76,
+      "sid": 62,
+      "location": 2,
+      "content": "自己都在熬夜写脚本",
+      "music": 0.0
+    },
+    {
+      "from": 108.76,
+      "to": 109.5,
+      "sid": 63,
+      "location": 2,
+      "content": "搞流量",
+      "music": 0.0
+    },
+    {
+      "from": 109.5,
+      "to": 111.0,
+      "sid": 64,
+      "location": 2,
+      "content": "他们卖给你的是一个",
+      "music": 0.0
+    },
+    {
+      "from": 111.0,
+      "to": 113.18,
+      "sid": 65,
+      "location": 2,
+      "content": "你不需要努力就能成功的幻觉",
+      "music": 0.0
+    },
+    {
+      "from": 113.18,
+      "to": 116.56,
+      "sid": 66,
+      "location": 2,
+      "content": "创业心理的第一课就是承认没有捷径",
+      "music": 0.0
+    },
+    {
+      "from": 116.56,
+      "to": 119.08,
+      "sid": 67,
+      "location": 2,
+      "content": "如果你现在正盯着满屋子的库存",
+      "music": 0.0
+    },
+    {
+      "from": 119.08,
+      "to": 120.16,
+      "sid": 68,
+      "location": 2,
+      "content": "或者看着那个",
+      "music": 0.0
+    },
+    {
+      "from": 120.16,
+      "to": 122.46,
+      "sid": 69,
+      "location": 2,
+      "content": "只有128个粉丝的账号发呆",
+      "music": 0.0
+    },
+    {
+      "from": 122.46,
+      "to": 123.62,
+      "sid": 70,
+      "location": 2,
+      "content": "别怀疑自己蠢",
+      "music": 0.0
+    },
+    {
+      "from": 123.62,
+      "to": 124.76,
+      "sid": 71,
+      "location": 2,
+      "content": "你只是太想赢",
+      "music": 0.0
+    },
+    {
+      "from": 124.76,
+      "to": 125.66,
+      "sid": 72,
+      "location": 2,
+      "content": "被坏人利用了",
+      "music": 0.0
+    },
+    {
+      "from": 125.66,
+      "to": 126.8,
+      "sid": 73,
+      "location": 2,
+      "content": "这份想赢的心",
+      "music": 0.0
+    },
+    {
+      "from": 126.8,
+      "to": 128.209,
+      "sid": 74,
+      "location": 2,
+      "content": "记住伯谦这句话",
+      "music": 0.0
+    },
+    {
+      "from": 128.209,
+      "to": 129.929,
+      "sid": 75,
+      "location": 2,
+      "content": "2026年不踩坑",
+      "music": 0.0
+    },
+    {
+      "from": 129.929,
+      "to": 132.529,
+      "sid": 76,
+      "location": 2,
+      "content": "你就已经跑赢了80%的人",
+      "music": 0.0
+    },
+    {
+      "from": 132.529,
+      "to": 135.79,
+      "sid": 77,
+      "location": 2,
+      "content": "如果你也踩过AI培训或副业加盟的坑",
+      "music": 0.0
+    },
+    {
+      "from": 135.79,
+      "to": 137.07,
+      "sid": 78,
+      "location": 2,
+      "content": "在评论区打出来",
+      "music": 0.0
+    },
+    {
+      "from": 137.07,
+      "to": 137.93,
+      "sid": 79,
+      "location": 2,
+      "content": "我被鸽了",
+      "music": 0.0
+    },
+    {
+      "from": 137.93,
+      "to": 139.31,
+      "sid": 80,
+      "location": 2,
+      "content": "让更多人看到真相",
+      "music": 0.0
+    },
+    {
+      "from": 139.31,
+      "to": 140.9,
+      "sid": 81,
+      "location": 2,
+      "content": "别再送人头了",
+      "music": 0.0
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "bvid": "BV1G8mKYeEbd",
+  "cid": 26316834403,
+  "title": "【曲曲】从网红张林超分析，“女性创业者”需要什么样的伴侣",
+  "owner_name": "认知演化论",
+  "status": "downloaded",
+  "reason": null,
+  "subtitle": {
+    "id": 1601610777570250496,
+    "lan": "ai-zh",
+    "lan_doc": "中文",
+    "is_lock": false,
+    "subtitle_url": "https://aisubtitle.hdslb.com/bfs/ai_subtitle/prod/11331675626231726316834403bc5ce651f15f5e321c53048baa60a233",
+    "type": 1,
+    "id_str": "1601610777570250496",
+    "ai_type": 0,
+    "ai_status": 2
+  },
+  "raw_subtitle_path": "data\\raw\\bilibili\\subtitles\\ququ-business-search-2026-04-26\\BV1G8mKYeEbd-ai-zh.raw.json",
+  "text_path": "data\\raw\\bilibili\\subtitles\\ququ-business-search-2026-04-26\\BV1G8mKYeEbd-ai-zh.txt",
+  "metadata_path": "data\\raw\\bilibili\\subtitles\\ququ-business-search-2026-04-26\\BV1G8mKYeEbd-ai-zh.metadata.json"
+}

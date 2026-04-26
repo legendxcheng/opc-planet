@@ -1,0 +1,148 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.18,
+      "to": 1.63,
+      "sid": 1,
+      "location": 2,
+      "content": "对的啊",
+      "music": 0.0
+    },
+    {
+      "from": 1.63,
+      "to": 2.57,
+      "sid": 2,
+      "location": 2,
+      "content": "哥们儿",
+      "music": 0.0
+    },
+    {
+      "from": 2.57,
+      "to": 3.91,
+      "sid": 3,
+      "location": 2,
+      "content": "你这瓜多少钱一斤呐",
+      "music": 0.0
+    },
+    {
+      "from": 3.91,
+      "to": 5.09,
+      "sid": 4,
+      "location": 2,
+      "content": "两块钱一斤",
+      "music": 0.0
+    },
+    {
+      "from": 5.09,
+      "to": 7.87,
+      "sid": 5,
+      "location": 2,
+      "content": "卧槽你这瓜皮子是金子做的",
+      "music": 0.0
+    },
+    {
+      "from": 7.87,
+      "to": 9.32,
+      "sid": 6,
+      "location": 2,
+      "content": "还是瓜粒子是金子做的",
+      "music": 0.0
+    },
+    {
+      "from": 9.32,
+      "to": 10.4,
+      "sid": 7,
+      "location": 2,
+      "content": "你瞧这现在哪有瓜呀",
+      "music": 0.0
+    },
+    {
+      "from": 10.4,
+      "to": 11.24,
+      "sid": 8,
+      "location": 2,
+      "content": "这都是大棚的瓜",
+      "music": 0.0
+    },
+    {
+      "from": 11.24,
+      "to": 11.76,
+      "sid": 9,
+      "location": 2,
+      "content": "你嫌贵",
+      "music": 0.0
+    },
+    {
+      "from": 11.76,
+      "to": 12.38,
+      "sid": 10,
+      "location": 2,
+      "content": "我还嫌贵呢",
+      "music": 0.0
+    },
+    {
+      "from": 12.38,
+      "to": 14.04,
+      "sid": 11,
+      "location": 2,
+      "content": "给我挑一个行",
+      "music": 0.0
+    },
+    {
+      "from": 14.78,
+      "to": 16.52,
+      "sid": 12,
+      "location": 2,
+      "content": "这个怎么样啊",
+      "music": 0.0
+    },
+    {
+      "from": 16.52,
+      "to": 17.66,
+      "sid": 13,
+      "location": 2,
+      "content": "这瓜保熟吗",
+      "music": 0.0
+    },
+    {
+      "from": 17.66,
+      "to": 19.82,
+      "sid": 14,
+      "location": 2,
+      "content": "我开水果摊的能卖给你生瓜蛋子",
+      "music": 0.0
+    },
+    {
+      "from": 19.82,
+      "to": 22.06,
+      "sid": 15,
+      "location": 2,
+      "content": "我问你这瓜保熟吗",
+      "music": 0.0
+    },
+    {
+      "from": 22.34,
+      "to": 23.9,
+      "sid": 16,
+      "location": 2,
+      "content": "你是故意找茬",
+      "music": 0.0
+    },
+    {
+      "from": 23.9,
+      "to": 24.38,
+      "sid": 17,
+      "location": 2,
+      "content": "是不是",
+      "music": 0.0
+    }
+  ]
+}

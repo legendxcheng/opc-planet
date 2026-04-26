@@ -1,0 +1,22 @@
+{
+  "bvid": "BV17dZ9BoEHv",
+  "cid": 36022978542,
+  "title": "赚钱心理：白手起家到资产过亿，女企业家分享致富心态",
+  "owner_name": "包极好",
+  "status": "downloaded",
+  "reason": null,
+  "subtitle": {
+    "id": 1608246702328966656,
+    "lan": "ai-zh",
+    "lan_doc": "中文",
+    "is_lock": false,
+    "subtitle_url": "https://aisubtitle.hdslb.com/bfs/ai_subtitle/prod/113368631412447264608165217ae7993e70ec1215634deb906591b5ff",
+    "type": 1,
+    "id_str": "1608246702328966656",
+    "ai_type": 1,
+    "ai_status": 2
+  },
+  "raw_subtitle_path": "data\\raw\\bilibili\\subtitles\\ququ-business-search-2026-04-26\\BV17dZ9BoEHv-ai-zh.raw.json",
+  "text_path": "data\\raw\\bilibili\\subtitles\\ququ-business-search-2026-04-26\\BV17dZ9BoEHv-ai-zh.txt",
+  "metadata_path": "data\\raw\\bilibili\\subtitles\\ququ-business-search-2026-04-26\\BV17dZ9BoEHv-ai-zh.metadata.json"
+}

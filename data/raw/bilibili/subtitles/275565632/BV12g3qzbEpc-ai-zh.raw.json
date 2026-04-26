@@ -1,0 +1,28 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.54,
+      "to": 4.22,
+      "sid": 1,
+      "location": 2,
+      "content": "♪ 恍恍惚惚已经隔世 ♪",
+      "music": 0.9999999572649592
+    },
+    {
+      "from": 6.36,
+      "to": 10.06,
+      "sid": 2,
+      "location": 2,
+      "content": "♪ 依然无法说 ♪",
+      "music": 0.999999923076929
+    }
+  ]
+}

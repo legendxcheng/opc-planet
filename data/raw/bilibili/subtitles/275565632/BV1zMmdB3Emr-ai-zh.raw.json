@@ -1,0 +1,1164 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.1,
+      "to": 2.38,
+      "sid": 1,
+      "location": 2,
+      "content": "我强烈建议大家在赚钱的时候",
+      "music": 0.0
+    },
+    {
+      "from": 2.38,
+      "to": 4.92,
+      "sid": 2,
+      "location": 2,
+      "content": "不要用所谓主业和副业这样的措辞",
+      "music": 0.0
+    },
+    {
+      "from": 4.92,
+      "to": 5.92,
+      "sid": 3,
+      "location": 2,
+      "content": "去定义你的业务",
+      "music": 0.0
+    },
+    {
+      "from": 5.92,
+      "to": 6.92,
+      "sid": 4,
+      "location": 2,
+      "content": "去定义你的机会",
+      "music": 0.0
+    },
+    {
+      "from": 6.92,
+      "to": 8.84,
+      "sid": 5,
+      "location": 2,
+      "content": "因为你用什么样的方式去使用语言",
+      "music": 0.0
+    },
+    {
+      "from": 8.84,
+      "to": 10.26,
+      "sid": 6,
+      "location": 2,
+      "content": "你就会拥有什么样的思维方式",
+      "music": 0.0
+    },
+    {
+      "from": 10.26,
+      "to": 12.28,
+      "sid": 7,
+      "location": 2,
+      "content": "而主页副业这一对的词汇",
+      "music": 0.0
+    },
+    {
+      "from": 12.28,
+      "to": 13.88,
+      "sid": 8,
+      "location": 2,
+      "content": "其实是对人的商业思维的",
+      "music": 0.0
+    },
+    {
+      "from": 13.88,
+      "to": 15.5,
+      "sid": 9,
+      "location": 2,
+      "content": "一种非常不好的一种禁锢",
+      "music": 0.0
+    },
+    {
+      "from": 15.5,
+      "to": 16.8,
+      "sid": 10,
+      "location": 2,
+      "content": "首先主业这两个字",
+      "music": 0.0
+    },
+    {
+      "from": 16.8,
+      "to": 19.12,
+      "sid": 11,
+      "location": 2,
+      "content": "它其实就是假设我这个人是单一身份的",
+      "music": 0.0
+    },
+    {
+      "from": 19.12,
+      "to": 21.88,
+      "sid": 12,
+      "location": 2,
+      "content": "他在尝试用我作为企业雇员的这个身份",
+      "music": 0.0
+    },
+    {
+      "from": 21.88,
+      "to": 22.96,
+      "sid": 13,
+      "location": 2,
+      "content": "来定义我这个人",
+      "music": 0.0
+    },
+    {
+      "from": 22.96,
+      "to": 24.48,
+      "sid": 14,
+      "location": 2,
+      "content": "这其实是非常可怕的一件事情",
+      "music": 0.0
+    },
+    {
+      "from": 24.48,
+      "to": 25.84,
+      "sid": 15,
+      "location": 2,
+      "content": "那比如说我可以在学校工作",
+      "music": 0.0
+    },
+    {
+      "from": 25.84,
+      "to": 26.74,
+      "sid": 16,
+      "location": 2,
+      "content": "那给学生讲课",
+      "music": 0.0
+    },
+    {
+      "from": 26.74,
+      "to": 27.72,
+      "sid": 17,
+      "location": 2,
+      "content": "必然就是我的日常",
+      "music": 0.0
+    },
+    {
+      "from": 27.72,
+      "to": 30.9,
+      "sid": 18,
+      "location": 2,
+      "content": "那教学讲课这件事情他只是我的一个行为啊",
+      "music": 0.0
+    },
+    {
+      "from": 30.9,
+      "to": 32.2,
+      "sid": 19,
+      "location": 2,
+      "content": "行为是可以被改变的",
+      "music": 0.0
+    },
+    {
+      "from": 32.2,
+      "to": 33.2,
+      "sid": 20,
+      "location": 2,
+      "content": "你不能让这个事情",
+      "music": 0.0
+    },
+    {
+      "from": 33.2,
+      "to": 34.82,
+      "sid": 21,
+      "location": 2,
+      "content": "和我整个人直接划了一个等号",
+      "music": 0.0
+    },
+    {
+      "from": 34.82,
+      "to": 35.52,
+      "sid": 22,
+      "location": 2,
+      "content": "那有人跟我说",
+      "music": 0.0
+    },
+    {
+      "from": 35.52,
+      "to": 36.48,
+      "sid": 23,
+      "location": 2,
+      "content": "他的主业是教师",
+      "music": 0.0
+    },
+    {
+      "from": 36.48,
+      "to": 37.68,
+      "sid": 24,
+      "location": 2,
+      "content": "但他真正热爱的是调酒",
+      "music": 0.0
+    },
+    {
+      "from": 37.68,
+      "to": 39.08,
+      "sid": 25,
+      "location": 2,
+      "content": "所以他还有一个副业是调酒师",
+      "music": 0.0
+    },
+    {
+      "from": 39.08,
+      "to": 40.44,
+      "sid": 26,
+      "location": 2,
+      "content": "我觉得这个表述就非常奇怪",
+      "music": 0.0
+    },
+    {
+      "from": 40.44,
+      "to": 41.7,
+      "sid": 27,
+      "location": 2,
+      "content": "就好像调酒这个事情",
+      "music": 0.0
+    },
+    {
+      "from": 41.7,
+      "to": 43.54,
+      "sid": 28,
+      "location": 2,
+      "content": "只是你做出来的一个行为而已",
+      "music": 0.0
+    },
+    {
+      "from": 43.54,
+      "to": 46.38,
+      "sid": 29,
+      "location": 2,
+      "content": "但是教师这个职业却可以定义你整个人的本质",
+      "music": 0.0
+    },
+    {
+      "from": 46.38,
+      "to": 47.94,
+      "sid": 30,
+      "location": 2,
+      "content": "那为什么你不不能用你热爱的事情",
+      "music": 0.0
+    },
+    {
+      "from": 47.94,
+      "to": 49.1,
+      "sid": 31,
+      "location": 2,
+      "content": "去定义你这个人的本质呢",
+      "music": 0.0
+    },
+    {
+      "from": 49.1,
+      "to": 49.94,
+      "sid": 32,
+      "location": 2,
+      "content": "你喜欢的那个事情",
+      "music": 0.0
+    },
+    {
+      "from": 49.94,
+      "to": 51.28,
+      "sid": 33,
+      "location": 2,
+      "content": "你非要轻描淡写一下",
+      "music": 0.0
+    },
+    {
+      "from": 51.28,
+      "to": 51.98,
+      "sid": 34,
+      "location": 2,
+      "content": "他是你的事业",
+      "music": 0.0
+    },
+    {
+      "from": 51.98,
+      "to": 52.74,
+      "sid": 35,
+      "location": 2,
+      "content": "就是你的事业吗",
+      "music": 0.0
+    },
+    {
+      "from": 52.74,
+      "to": 53.94,
+      "sid": 36,
+      "location": 2,
+      "content": "你还要在前面加一个父子",
+      "music": 0.0
+    },
+    {
+      "from": 53.94,
+      "to": 54.66,
+      "sid": 37,
+      "location": 2,
+      "content": "非说他是副业",
+      "music": 0.0
+    },
+    {
+      "from": 54.66,
+      "to": 55.46,
+      "sid": 38,
+      "location": 2,
+      "content": "给他打压一下",
+      "music": 0.0
+    },
+    {
+      "from": 55.46,
+      "to": 56.32,
+      "sid": 39,
+      "location": 2,
+      "content": "好像很见不得光",
+      "music": 0.0
+    },
+    {
+      "from": 56.32,
+      "to": 58.84,
+      "sid": 40,
+      "location": 2,
+      "content": "那可能是因为你调酒这个事情投入的时间少",
+      "music": 0.0
+    },
+    {
+      "from": 58.84,
+      "to": 59.36,
+      "sid": 41,
+      "location": 2,
+      "content": "赚钱也少",
+      "music": 0.0
+    },
+    {
+      "from": 59.36,
+      "to": 61.12,
+      "sid": 42,
+      "location": 2,
+      "content": "然后你当老师这个事情呢投入的时间多",
+      "music": 0.0
+    },
+    {
+      "from": 61.12,
+      "to": 61.74,
+      "sid": 43,
+      "location": 2,
+      "content": "赚钱也多",
+      "music": 0.0
+    },
+    {
+      "from": 61.74,
+      "to": 63.98,
+      "sid": 44,
+      "location": 2,
+      "content": "但这又是又是另外一个很奇怪的一个假设",
+      "music": 0.0
+    },
+    {
+      "from": 63.98,
+      "to": 66.86,
+      "sid": 45,
+      "location": 2,
+      "content": "就是假设我的投入和产出之间一定是线性的哦",
+      "music": 0.0
+    },
+    {
+      "from": 66.86,
+      "to": 67.7,
+      "sid": 46,
+      "location": 2,
+      "content": "我投入的时间多",
+      "music": 0.0
+    },
+    {
+      "from": 67.7,
+      "to": 68.5,
+      "sid": 47,
+      "location": 2,
+      "content": "我必然赚钱多",
+      "music": 0.0
+    },
+    {
+      "from": 68.5,
+      "to": 69.22,
+      "sid": 48,
+      "location": 2,
+      "content": "我投入的时间少",
+      "music": 0.0
+    },
+    {
+      "from": 69.22,
+      "to": 70.08,
+      "sid": 49,
+      "location": 2,
+      "content": "我必然赚钱少",
+      "music": 0.0
+    },
+    {
+      "from": 70.08,
+      "to": 72.34,
+      "sid": 50,
+      "location": 2,
+      "content": "但是我们讲商业的基本常识是",
+      "music": 0.0
+    },
+    {
+      "from": 72.34,
+      "to": 74.82,
+      "sid": 51,
+      "location": 2,
+      "content": "你的收入取决于你的商业模式",
+      "music": 0.0
+    },
+    {
+      "from": 74.82,
+      "to": 76.38,
+      "sid": 52,
+      "location": 2,
+      "content": "而不是你的时间投入",
+      "music": 0.0
+    },
+    {
+      "from": 76.38,
+      "to": 78.52,
+      "sid": 53,
+      "location": 2,
+      "content": "这就是常说的为什么叫选择大于努力对吧",
+      "music": 0.0
+    },
+    {
+      "from": 78.52,
+      "to": 80.06,
+      "sid": 54,
+      "location": 2,
+      "content": "如果你在选择机会的时候",
+      "music": 0.0
+    },
+    {
+      "from": 80.06,
+      "to": 80.88,
+      "sid": 55,
+      "location": 2,
+      "content": "从一开始开始",
+      "music": 0.0
+    },
+    {
+      "from": 80.88,
+      "to": 82.52,
+      "sid": 56,
+      "location": 2,
+      "content": "你就给自己眼睛上加了一个滤镜",
+      "music": 0.0
+    },
+    {
+      "from": 82.52,
+      "to": 83.6,
+      "sid": 57,
+      "location": 2,
+      "content": "就把生意分为两类",
+      "music": 0.0
+    },
+    {
+      "from": 83.6,
+      "to": 84.28,
+      "sid": 58,
+      "location": 2,
+      "content": "一类叫主页",
+      "music": 0.0
+    },
+    {
+      "from": 84.28,
+      "to": 85.02,
+      "sid": 59,
+      "location": 2,
+      "content": "一类叫副业",
+      "music": 0.0
+    },
+    {
+      "from": 85.02,
+      "to": 88.18,
+      "sid": 60,
+      "location": 2,
+      "content": "那么有没有可能在你使用了这种方式的那一刻",
+      "music": 0.0
+    },
+    {
+      "from": 88.18,
+      "to": 88.42,
+      "sid": 61,
+      "location": 2,
+      "content": "开始",
+      "music": 0.0
+    },
+    {
+      "from": 88.42,
+      "to": 90.7,
+      "sid": 62,
+      "location": 2,
+      "content": "就决定了你大概率就赚不到什么钱了",
+      "music": 0.0
+    },
+    {
+      "from": 90.7,
+      "to": 93.36,
+      "sid": 63,
+      "location": 2,
+      "content": "因为这个世界上绝大多数的能赚大钱的机会",
+      "music": 0.0
+    },
+    {
+      "from": 93.36,
+      "to": 95.2,
+      "sid": 64,
+      "location": 2,
+      "content": "它既不可能被定义为主业",
+      "music": 0.0
+    },
+    {
+      "from": 95.2,
+      "to": 96.68,
+      "sid": 65,
+      "location": 2,
+      "content": "也不可能被定义为副业",
+      "music": 0.0
+    },
+    {
+      "from": 96.68,
+      "to": 98.68,
+      "sid": 66,
+      "location": 2,
+      "content": "假如说我现在要做AI硬件的创业",
+      "music": 0.0
+    },
+    {
+      "from": 98.68,
+      "to": 99.52,
+      "sid": 67,
+      "location": 2,
+      "content": "我要干一票大的",
+      "music": 0.0
+    },
+    {
+      "from": 99.52,
+      "to": 100.62,
+      "sid": 68,
+      "location": 2,
+      "content": "你很难想象",
+      "music": 0.0
+    },
+    {
+      "from": 100.62,
+      "to": 103.28,
+      "sid": 69,
+      "location": 2,
+      "content": "哪一个创业者会把自己的这个事情和定义为",
+      "music": 0.0
+    },
+    {
+      "from": 103.28,
+      "to": 104.24,
+      "sid": 70,
+      "location": 2,
+      "content": "这是所谓的主业",
+      "music": 0.0
+    },
+    {
+      "from": 104.24,
+      "to": 104.44,
+      "sid": 71,
+      "location": 2,
+      "content": "对吧",
+      "music": 0.0
+    },
+    {
+      "from": 104.44,
+      "to": 106.14,
+      "sid": 72,
+      "location": 2,
+      "content": "你all in都不一定能成功的事",
+      "music": 0.0
+    },
+    {
+      "from": 106.14,
+      "to": 108.22,
+      "sid": 73,
+      "location": 2,
+      "content": "这是把你的这个人生的财富积累",
+      "music": 0.0
+    },
+    {
+      "from": 108.22,
+      "to": 109.94,
+      "sid": 74,
+      "location": 2,
+      "content": "还有把你的个人热爱的事业",
+      "music": 0.0
+    },
+    {
+      "from": 109.94,
+      "to": 111.22,
+      "sid": 75,
+      "location": 2,
+      "content": "合二为一的一个事情",
+      "music": 0.0
+    },
+    {
+      "from": 111.22,
+      "to": 114.0,
+      "sid": 76,
+      "location": 2,
+      "content": "难道你还要再额外时间搞一个副业吗",
+      "music": 0.0
+    },
+    {
+      "from": 114.0,
+      "to": 116.54,
+      "sid": 77,
+      "location": 2,
+      "content": "那么这种真正有可能一战翻身的事情",
+      "music": 0.0
+    },
+    {
+      "from": 116.54,
+      "to": 118.1,
+      "sid": 78,
+      "location": 2,
+      "content": "它既不可能被定义为主业",
+      "music": 0.0
+    },
+    {
+      "from": 118.1,
+      "to": 119.38,
+      "sid": 79,
+      "location": 2,
+      "content": "也不可能被定义为副业",
+      "music": 0.0
+    },
+    {
+      "from": 119.38,
+      "to": 121.34,
+      "sid": 80,
+      "location": 2,
+      "content": "但是你在一开始选择的机会的时候",
+      "music": 0.0
+    },
+    {
+      "from": 121.34,
+      "to": 123.14,
+      "sid": 81,
+      "location": 2,
+      "content": "你就用这种二分法去选择机会",
+      "music": 0.0
+    },
+    {
+      "from": 123.14,
+      "to": 124.38,
+      "sid": 82,
+      "location": 2,
+      "content": "那是不是从一开始",
+      "music": 0.0
+    },
+    {
+      "from": 124.38,
+      "to": 126.7,
+      "sid": 83,
+      "location": 2,
+      "content": "这种90%以上的能赚大钱的事情",
+      "music": 0.0
+    },
+    {
+      "from": 126.7,
+      "to": 127.68,
+      "sid": 84,
+      "location": 2,
+      "content": "都被你排除在外了",
+      "music": 0.0
+    },
+    {
+      "from": 127.68,
+      "to": 128.56,
+      "sid": 85,
+      "location": 2,
+      "content": "维特根斯坦说",
+      "music": 0.0
+    },
+    {
+      "from": 128.56,
+      "to": 130.04,
+      "sid": 86,
+      "location": 2,
+      "content": "语言的边界就是世界的边界",
+      "music": 0.0
+    },
+    {
+      "from": 130.04,
+      "to": 132.74,
+      "sid": 87,
+      "location": 2,
+      "content": "那么当我用主业和副业这一对子词汇",
+      "music": 0.0
+    },
+    {
+      "from": 132.74,
+      "to": 134.72,
+      "sid": 88,
+      "location": 2,
+      "content": "这样的方式去使用语言的时候",
+      "music": 0.0
+    },
+    {
+      "from": 134.72,
+      "to": 136.08,
+      "sid": 89,
+      "location": 2,
+      "content": "那么我的世界的边界",
+      "music": 0.0
+    },
+    {
+      "from": 136.08,
+      "to": 138.18,
+      "sid": 90,
+      "location": 2,
+      "content": "就是我所接触到的商业知识机会",
+      "music": 0.0
+    },
+    {
+      "from": 138.18,
+      "to": 139.84,
+      "sid": 91,
+      "location": 2,
+      "content": "全部不都是用时间换钱",
+      "music": 0.0
+    },
+    {
+      "from": 139.84,
+      "to": 142.08,
+      "sid": 92,
+      "location": 2,
+      "content": "因为只有我坚持用时间去换钱",
+      "music": 0.0
+    },
+    {
+      "from": 142.08,
+      "to": 143.92,
+      "sid": 93,
+      "location": 2,
+      "content": "我投入时间多的必然赚钱多",
+      "music": 0.0
+    },
+    {
+      "from": 143.92,
+      "to": 145.76,
+      "sid": 94,
+      "location": 2,
+      "content": "投入投入时间少的必然赚钱少",
+      "music": 0.0
+    },
+    {
+      "from": 145.76,
+      "to": 147.0,
+      "sid": 95,
+      "location": 2,
+      "content": "只有在这种情况下",
+      "music": 0.0
+    },
+    {
+      "from": 147.0,
+      "to": 148.88,
+      "sid": 96,
+      "location": 2,
+      "content": "我的业务才能有大小之分",
+      "music": 0.0
+    },
+    {
+      "from": 148.88,
+      "to": 149.94,
+      "sid": 97,
+      "location": 2,
+      "content": "有主副之分对吧",
+      "music": 0.0
+    },
+    {
+      "from": 149.94,
+      "to": 151.68,
+      "sid": 98,
+      "location": 2,
+      "content": "否则你说我主业一个月赚3000",
+      "music": 0.0
+    },
+    {
+      "from": 151.68,
+      "to": 152.88,
+      "sid": 99,
+      "location": 2,
+      "content": "我副业一个月挣50万",
+      "music": 0.0
+    },
+    {
+      "from": 152.88,
+      "to": 154.8,
+      "sid": 100,
+      "location": 2,
+      "content": "那二者之间这个主副之分就乱套了呀",
+      "music": 0.0
+    },
+    {
+      "from": 154.8,
+      "to": 156.5,
+      "sid": 101,
+      "location": 2,
+      "content": "他和我的语言逻辑就冲突了呀",
+      "music": 0.0
+    },
+    {
+      "from": 156.5,
+      "to": 158.9,
+      "sid": 102,
+      "location": 2,
+      "content": "而且这里面顺带还有一个很可怕的因果假设",
+      "music": 0.0
+    },
+    {
+      "from": 158.9,
+      "to": 160.48,
+      "sid": 103,
+      "location": 2,
+      "content": "就是他假设主业是因",
+      "music": 0.0
+    },
+    {
+      "from": 160.48,
+      "to": 161.18,
+      "sid": 104,
+      "location": 2,
+      "content": "副业是果",
+      "music": 0.0
+    },
+    {
+      "from": 161.18,
+      "to": 163.72,
+      "sid": 105,
+      "location": 2,
+      "content": "因为我的主页提供了一个稳定的生活基础",
+      "music": 0.0
+    },
+    {
+      "from": 163.72,
+      "to": 165.56,
+      "sid": 106,
+      "location": 2,
+      "content": "才能向外延伸去做我的副业",
+      "music": 0.0
+    },
+    {
+      "from": 165.56,
+      "to": 166.42,
+      "sid": 107,
+      "location": 2,
+      "content": "所以这个是结果",
+      "music": 0.0
+    },
+    {
+      "from": 166.42,
+      "to": 168.48,
+      "sid": 108,
+      "location": 2,
+      "content": "但是这个因果它有没有可能可以反过来呢",
+      "music": 0.0
+    },
+    {
+      "from": 168.48,
+      "to": 170.4,
+      "sid": 109,
+      "location": 2,
+      "content": "有没有可能因为我探索了我的副业",
+      "music": 0.0
+    },
+    {
+      "from": 170.4,
+      "to": 172.64,
+      "sid": 110,
+      "location": 2,
+      "content": "所以我的主业的方向也可以有所调整",
+      "music": 0.0
+    },
+    {
+      "from": 172.64,
+      "to": 174.64,
+      "sid": 111,
+      "location": 2,
+      "content": "有可能因为我的副业有了很好的收入",
+      "music": 0.0
+    },
+    {
+      "from": 174.64,
+      "to": 176.12,
+      "sid": 112,
+      "location": 2,
+      "content": "那我的主业可以直接辞职呢",
+      "music": 0.0
+    },
+    {
+      "from": 176.12,
+      "to": 177.8,
+      "sid": 113,
+      "location": 2,
+      "content": "那么这个时候到底谁是主谁是副呢",
+      "music": 0.0
+    },
+    {
+      "from": 177.8,
+      "to": 179.8,
+      "sid": 114,
+      "location": 2,
+      "content": "你这个主副之间又分不清主次关系了对吧",
+      "music": 0.0
+    },
+    {
+      "from": 179.8,
+      "to": 181.54,
+      "sid": 115,
+      "location": 2,
+      "content": "所以这个措辞本来就很奇怪",
+      "music": 0.0
+    },
+    {
+      "from": 181.54,
+      "to": 183.44,
+      "sid": 116,
+      "location": 2,
+      "content": "就好比我一个人可以注册多家公司",
+      "music": 0.0
+    },
+    {
+      "from": 183.44,
+      "to": 185.74,
+      "sid": 117,
+      "location": 2,
+      "content": "甚至我多家公司之间还可以有业务往来",
+      "music": 0.0
+    },
+    {
+      "from": 185.74,
+      "to": 188.1,
+      "sid": 118,
+      "location": 2,
+      "content": "这是一个很自然的一个业务协作关系",
+      "music": 0.0
+    },
+    {
+      "from": 188.1,
+      "to": 189.88,
+      "sid": 119,
+      "location": 2,
+      "content": "没听说过我的多家公司之间",
+      "music": 0.0
+    },
+    {
+      "from": 189.88,
+      "to": 191.08,
+      "sid": 120,
+      "location": 2,
+      "content": "还要分一个大小王的",
+      "music": 0.0
+    },
+    {
+      "from": 191.08,
+      "to": 192.96,
+      "sid": 121,
+      "location": 2,
+      "content": "所以不要用职业来定义自己",
+      "music": 0.0
+    },
+    {
+      "from": 192.96,
+      "to": 194.52,
+      "sid": 122,
+      "location": 2,
+      "content": "要用可能性来定义自己",
+      "music": 0.0
+    },
+    {
+      "from": 194.52,
+      "to": 195.64,
+      "sid": 123,
+      "location": 2,
+      "content": "我的不同的工作",
+      "music": 0.0
+    },
+    {
+      "from": 195.64,
+      "to": 197.64,
+      "sid": 124,
+      "location": 2,
+      "content": "只是允许我用不同的投入",
+      "music": 0.0
+    },
+    {
+      "from": 197.64,
+      "to": 199.64,
+      "sid": 125,
+      "location": 2,
+      "content": "来换取不同形式的产出而已",
+      "music": 0.0
+    },
+    {
+      "from": 199.64,
+      "to": 201.4,
+      "sid": 126,
+      "location": 2,
+      "content": "那可能我的有些工作是需要我",
+      "music": 0.0
+    },
+    {
+      "from": 201.4,
+      "to": 202.66,
+      "sid": 127,
+      "location": 2,
+      "content": "动用我手上的金钱",
+      "music": 0.0
+    },
+    {
+      "from": 202.66,
+      "to": 205.28,
+      "sid": 128,
+      "location": 2,
+      "content": "还有我的人脉去完成一些任务来换取回报的",
+      "music": 0.0
+    },
+    {
+      "from": 205.28,
+      "to": 207.78,
+      "sid": 129,
+      "location": 2,
+      "content": "那还有另外一些任务可能不需要我投入金钱",
+      "music": 0.0
+    },
+    {
+      "from": 207.78,
+      "to": 209.38,
+      "sid": 130,
+      "location": 2,
+      "content": "但是需要的我投入我的时间",
+      "music": 0.0
+    },
+    {
+      "from": 209.38,
+      "to": 209.94,
+      "sid": 131,
+      "location": 2,
+      "content": "我的心力",
+      "music": 0.0
+    },
+    {
+      "from": 209.94,
+      "to": 212.68,
+      "sid": 132,
+      "location": 2,
+      "content": "让我解决一些未知的一些麻烦来换取回报",
+      "music": 0.0
+    },
+    {
+      "from": 212.68,
+      "to": 215.14,
+      "sid": 133,
+      "location": 2,
+      "content": "这些业务与业务之间可以产生非常多样性的",
+      "music": 0.0
+    },
+    {
+      "from": 215.14,
+      "to": 217.08,
+      "sid": 134,
+      "location": 2,
+      "content": "非常奇妙的各种各样的有趣的组合",
+      "music": 0.0
+    },
+    {
+      "from": 217.08,
+      "to": 219.44,
+      "sid": 135,
+      "location": 2,
+      "content": "而探索这件事情本身也是非常有乐趣的",
+      "music": 0.0
+    },
+    {
+      "from": 219.44,
+      "to": 221.52,
+      "sid": 136,
+      "location": 2,
+      "content": "我们没有必要用我的事业来定义",
+      "music": 0.0
+    },
+    {
+      "from": 221.52,
+      "to": 223.24,
+      "sid": 137,
+      "location": 2,
+      "content": "我也没有必要把不同的事业之间",
+      "music": 0.0
+    },
+    {
+      "from": 223.24,
+      "to": 224.04,
+      "sid": 138,
+      "location": 2,
+      "content": "非要分一个大小",
+      "music": 0.0
+    },
+    {
+      "from": 224.04,
+      "to": 224.2,
+      "sid": 139,
+      "location": 2,
+      "content": "王",
+      "music": 0.0
+    },
+    {
+      "from": 224.2,
+      "to": 225.58,
+      "sid": 140,
+      "location": 2,
+      "content": "一个人和他的工作之间",
+      "music": 0.0
+    },
+    {
+      "from": 225.58,
+      "to": 228.14,
+      "sid": 141,
+      "location": 2,
+      "content": "不是一夫一妻制这样的严格对应的关系",
+      "music": 0.0
+    },
+    {
+      "from": 228.14,
+      "to": 229.02,
+      "sid": 142,
+      "location": 2,
+      "content": "一个好的商人",
+      "music": 0.0
+    },
+    {
+      "from": 229.02,
+      "to": 230.58,
+      "sid": 143,
+      "location": 2,
+      "content": "或者我们说一个好的生产者吧",
+      "music": 0.0
+    },
+    {
+      "from": 230.58,
+      "to": 232.92,
+      "sid": 144,
+      "location": 2,
+      "content": "是可以有很多种形态的",
+      "music": 0.0
+    }
+  ]
+}

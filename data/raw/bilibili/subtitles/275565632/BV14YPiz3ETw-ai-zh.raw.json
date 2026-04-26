@@ -1,0 +1,1676 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.02,
+      "to": 1.38,
+      "sid": 1,
+      "location": 2,
+      "content": "去年我发了1万多条推文",
+      "music": 0.0
+    },
+    {
+      "from": 1.38,
+      "to": 3.1,
+      "sid": 2,
+      "location": 2,
+      "content": "我一个人运营了七个自媒体账号",
+      "music": 0.0
+    },
+    {
+      "from": 3.1,
+      "to": 5.34,
+      "sid": 3,
+      "location": 2,
+      "content": "很多人问我说怎么能搞定这个执行力的问题啊",
+      "music": 0.0
+    },
+    {
+      "from": 5.34,
+      "to": 6.7,
+      "sid": 4,
+      "location": 2,
+      "content": "我们今天一条视频3分钟",
+      "music": 0.0
+    },
+    {
+      "from": 6.7,
+      "to": 8.02,
+      "sid": 5,
+      "location": 2,
+      "content": "把这个根源彻底给讲清楚",
+      "music": 0.0
+    },
+    {
+      "from": 8.02,
+      "to": 9.14,
+      "sid": 6,
+      "location": 2,
+      "content": "核心其实就一条",
+      "music": 0.0
+    },
+    {
+      "from": 9.14,
+      "to": 11.22,
+      "sid": 7,
+      "location": 2,
+      "content": "就只要你此时此刻不是在执行",
+      "music": 0.0
+    },
+    {
+      "from": 11.22,
+      "to": 12.38,
+      "sid": 8,
+      "location": 2,
+      "content": "你手上的那个动作",
+      "music": 0.0
+    },
+    {
+      "from": 12.38,
+      "to": 15.14,
+      "sid": 9,
+      "location": 2,
+      "content": "大概率就是为了逃避执行而专门打造的动作",
+      "music": 0.0
+    },
+    {
+      "from": 15.14,
+      "to": 16.22,
+      "sid": 10,
+      "location": 2,
+      "content": "我解释一下这句话什么意思",
+      "music": 0.0
+    },
+    {
+      "from": 16.22,
+      "to": 17.02,
+      "sid": 11,
+      "location": 2,
+      "content": "他可能比较反常",
+      "music": 0.0
+    },
+    {
+      "from": 17.02,
+      "to": 19.66,
+      "sid": 12,
+      "location": 2,
+      "content": "但就是这句话彻底治好了我的拖延",
+      "music": 0.0
+    },
+    {
+      "from": 19.66,
+      "to": 20.74,
+      "sid": 13,
+      "location": 2,
+      "content": "我首先你要搞清楚啊",
+      "music": 0.0
+    },
+    {
+      "from": 20.74,
+      "to": 22.54,
+      "sid": 14,
+      "location": 2,
+      "content": "绝大多数的没有执行力的人",
+      "music": 0.0
+    },
+    {
+      "from": 22.54,
+      "to": 24.26,
+      "sid": 15,
+      "location": 2,
+      "content": "都不是所谓的什么不学无术",
+      "music": 0.0
+    },
+    {
+      "from": 24.26,
+      "to": 24.9,
+      "sid": 16,
+      "location": 2,
+      "content": "玩物丧志的人",
+      "music": 0.0
+    },
+    {
+      "from": 24.9,
+      "to": 25.94,
+      "sid": 17,
+      "location": 2,
+      "content": "没有执行力的人",
+      "music": 0.0
+    },
+    {
+      "from": 25.94,
+      "to": 27.3,
+      "sid": 18,
+      "location": 2,
+      "content": "大多数都是非常焦虑的",
+      "music": 0.0
+    },
+    {
+      "from": 27.3,
+      "to": 27.98,
+      "sid": 19,
+      "location": 2,
+      "content": "你真让他玩",
+      "music": 0.0
+    },
+    {
+      "from": 27.98,
+      "to": 28.9,
+      "sid": 20,
+      "location": 2,
+      "content": "他其实没心思玩",
+      "music": 0.0
+    },
+    {
+      "from": 28.9,
+      "to": 31.18,
+      "sid": 21,
+      "location": 2,
+      "content": "你面上看他一天刷了好几个小时短视频",
+      "music": 0.0
+    },
+    {
+      "from": 31.18,
+      "to": 32.38,
+      "sid": 22,
+      "location": 2,
+      "content": "实际上他是很焦虑的",
+      "music": 0.0
+    },
+    {
+      "from": 32.38,
+      "to": 33.08,
+      "sid": 23,
+      "location": 2,
+      "content": "在刷短视频",
+      "music": 0.0
+    },
+    {
+      "from": 33.08,
+      "to": 34.66,
+      "sid": 24,
+      "location": 2,
+      "content": "他时不时想起来我有个事没干完",
+      "music": 0.0
+    },
+    {
+      "from": 34.66,
+      "to": 35.7,
+      "sid": 25,
+      "location": 2,
+      "content": "时不时就想起来一下",
+      "music": 0.0
+    },
+    {
+      "from": 35.7,
+      "to": 36.98,
+      "sid": 26,
+      "location": 2,
+      "content": "所以他既不愿意把干了",
+      "music": 0.0
+    },
+    {
+      "from": 36.98,
+      "to": 37.54,
+      "sid": 27,
+      "location": 2,
+      "content": "你让他玩",
+      "music": 0.0
+    },
+    {
+      "from": 37.54,
+      "to": 38.26,
+      "sid": 28,
+      "location": 2,
+      "content": "他又玩不踏实",
+      "music": 0.0
+    },
+    {
+      "from": 38.26,
+      "to": 39.26,
+      "sid": 29,
+      "location": 2,
+      "content": "这个是第一阶段",
+      "music": 0.0
+    },
+    {
+      "from": 39.26,
+      "to": 40.82,
+      "sid": 30,
+      "location": 2,
+      "content": "第一阶段呢一般还好一点",
+      "music": 0.0
+    },
+    {
+      "from": 40.82,
+      "to": 41.98,
+      "sid": 31,
+      "location": 2,
+      "content": "只要稍微有个人鞭策一下",
+      "music": 0.0
+    },
+    {
+      "from": 41.98,
+      "to": 44.1,
+      "sid": 32,
+      "location": 2,
+      "content": "一般可以解决麻烦的是第二阶段",
+      "music": 0.0
+    },
+    {
+      "from": 44.1,
+      "to": 45.1,
+      "sid": 33,
+      "location": 2,
+      "content": "当这个人很焦虑",
+      "music": 0.0
+    },
+    {
+      "from": 45.1,
+      "to": 46.22,
+      "sid": 34,
+      "location": 2,
+      "content": "他不做点什么不踏实",
+      "music": 0.0
+    },
+    {
+      "from": 46.22,
+      "to": 48.54,
+      "sid": 35,
+      "location": 2,
+      "content": "但是他又不愿意直接去做那个",
+      "music": 0.0
+    },
+    {
+      "from": 48.54,
+      "to": 49.94,
+      "sid": 36,
+      "location": 2,
+      "content": "能达成目标的事情的时候",
+      "music": 0.0
+    },
+    {
+      "from": 49.94,
+      "to": 52.86,
+      "sid": 37,
+      "location": 2,
+      "content": "他会去找一些和这个目标有关系的",
+      "music": 0.0
+    },
+    {
+      "from": 52.86,
+      "to": 53.9,
+      "sid": 38,
+      "location": 2,
+      "content": "其他的事情去做",
+      "music": 0.0
+    },
+    {
+      "from": 53.9,
+      "to": 54.74,
+      "sid": 39,
+      "location": 2,
+      "content": "去缓解他的焦虑",
+      "music": 0.0
+    },
+    {
+      "from": 54.74,
+      "to": 55.7,
+      "sid": 40,
+      "location": 2,
+      "content": "你比如说我要做自媒体",
+      "music": 0.0
+    },
+    {
+      "from": 55.7,
+      "to": 56.66,
+      "sid": 41,
+      "location": 2,
+      "content": "那我得会写文案吧",
+      "music": 0.0
+    },
+    {
+      "from": 56.66,
+      "to": 57.84,
+      "sid": 42,
+      "location": 2,
+      "content": "可是我又写不出来咋办",
+      "music": 0.0
+    },
+    {
+      "from": 57.84,
+      "to": 59.4,
+      "sid": 43,
+      "location": 2,
+      "content": "没事咱先去报个课",
+      "music": 0.0
+    },
+    {
+      "from": 59.4,
+      "to": 60.56,
+      "sid": 44,
+      "location": 2,
+      "content": "一学就是两个月",
+      "music": 0.0
+    },
+    {
+      "from": 60.56,
+      "to": 61.52,
+      "sid": 45,
+      "location": 2,
+      "content": "你比如说我要做个项目",
+      "music": 0.0
+    },
+    {
+      "from": 61.52,
+      "to": 62.64,
+      "sid": 46,
+      "location": 2,
+      "content": "把这项目我要不懂咋办呀",
+      "music": 0.0
+    },
+    {
+      "from": 62.64,
+      "to": 63.44,
+      "sid": 47,
+      "location": 2,
+      "content": "我得调研呀",
+      "music": 0.0
+    },
+    {
+      "from": 63.44,
+      "to": 64.36,
+      "sid": 48,
+      "location": 2,
+      "content": "一调研就是两星期",
+      "music": 0.0
+    },
+    {
+      "from": 64.36,
+      "to": 65.92,
+      "sid": 49,
+      "location": 2,
+      "content": "那你能说我学习是不对的",
+      "music": 0.0
+    },
+    {
+      "from": 65.92,
+      "to": 67.0,
+      "sid": 50,
+      "location": 2,
+      "content": "我调研是不对的吗",
+      "music": 0.0
+    },
+    {
+      "from": 67.0,
+      "to": 67.88,
+      "sid": 51,
+      "location": 2,
+      "content": "当然不能啊",
+      "music": 0.0
+    },
+    {
+      "from": 67.88,
+      "to": 69.58,
+      "sid": 52,
+      "location": 2,
+      "content": "我前期准备不准备怎么能行啊",
+      "music": 0.0
+    },
+    {
+      "from": 69.58,
+      "to": 70.56,
+      "sid": 53,
+      "location": 2,
+      "content": "问题就出在这",
+      "music": 0.0
+    },
+    {
+      "from": 70.56,
+      "to": 71.82,
+      "sid": 54,
+      "location": 2,
+      "content": "就只要你在学习",
+      "music": 0.0
+    },
+    {
+      "from": 71.82,
+      "to": 72.22,
+      "sid": 55,
+      "location": 2,
+      "content": "在筹备",
+      "music": 0.0
+    },
+    {
+      "from": 72.22,
+      "to": 72.66,
+      "sid": 56,
+      "location": 2,
+      "content": "在调研",
+      "music": 0.0
+    },
+    {
+      "from": 72.66,
+      "to": 73.7,
+      "sid": 57,
+      "location": 2,
+      "content": "就没有人能反驳你了",
+      "music": 0.0
+    },
+    {
+      "from": 73.7,
+      "to": 75.36,
+      "sid": 58,
+      "location": 2,
+      "content": "这些事情都是为了达成目标",
+      "music": 0.0
+    },
+    {
+      "from": 75.36,
+      "to": 76.48,
+      "sid": 59,
+      "location": 2,
+      "content": "而不得不做的事情呀",
+      "music": 0.0
+    },
+    {
+      "from": 76.48,
+      "to": 77.6,
+      "sid": 60,
+      "location": 2,
+      "content": "那你就立于不败之地了",
+      "music": 0.0
+    },
+    {
+      "from": 77.6,
+      "to": 79.12,
+      "sid": 61,
+      "location": 2,
+      "content": "那这个借口完美到什么程度呢",
+      "music": 0.0
+    },
+    {
+      "from": 79.12,
+      "to": 80.56,
+      "sid": 62,
+      "location": 2,
+      "content": "比如说有的时候为了完成一件事情",
+      "music": 0.0
+    },
+    {
+      "from": 80.56,
+      "to": 82.28,
+      "sid": 63,
+      "location": 2,
+      "content": "我可能真的是不得不去调研",
+      "music": 0.0
+    },
+    {
+      "from": 82.28,
+      "to": 83.5,
+      "sid": 64,
+      "location": 2,
+      "content": "不调研是真的不行的",
+      "music": 0.0
+    },
+    {
+      "from": 83.5,
+      "to": 85.26,
+      "sid": 65,
+      "location": 2,
+      "content": "可是明明能半个小时调研的事",
+      "music": 0.0
+    },
+    {
+      "from": 85.26,
+      "to": 86.74,
+      "sid": 66,
+      "location": 2,
+      "content": "我就给你调研三四个小时",
+      "music": 0.0
+    },
+    {
+      "from": 86.74,
+      "to": 88.82,
+      "sid": 67,
+      "location": 2,
+      "content": "那多出来的那几个小时其实就是逃避嘛",
+      "music": 0.0
+    },
+    {
+      "from": 88.82,
+      "to": 90.22,
+      "sid": 68,
+      "location": 2,
+      "content": "所以这个箭头应该反着画",
+      "music": 0.0
+    },
+    {
+      "from": 90.22,
+      "to": 91.88,
+      "sid": 69,
+      "location": 2,
+      "content": "就是为了逃避这个目标",
+      "music": 0.0
+    },
+    {
+      "from": 91.88,
+      "to": 93.14,
+      "sid": 70,
+      "location": 2,
+      "content": "我才去调的研呀",
+      "music": 0.0
+    },
+    {
+      "from": 93.14,
+      "to": 94.58,
+      "sid": 71,
+      "location": 2,
+      "content": "为了这个醋才包的饺啊",
+      "music": 0.0
+    },
+    {
+      "from": 94.58,
+      "to": 95.58,
+      "sid": 72,
+      "location": 2,
+      "content": "你说我每天都在读书",
+      "music": 0.0
+    },
+    {
+      "from": 95.58,
+      "to": 96.38,
+      "sid": 73,
+      "location": 2,
+      "content": "读书总没错吧",
+      "music": 0.0
+    },
+    {
+      "from": 96.38,
+      "to": 98.16,
+      "sid": 74,
+      "location": 2,
+      "content": "我每天都在健身锻炼身体总没错吧",
+      "music": 0.0
+    },
+    {
+      "from": 98.16,
+      "to": 99.8,
+      "sid": 75,
+      "location": 2,
+      "content": "对读书跟健身都没错",
+      "music": 0.0
+    },
+    {
+      "from": 99.8,
+      "to": 101.28,
+      "sid": 76,
+      "location": 2,
+      "content": "所以只要你还在读书",
+      "music": 0.0
+    },
+    {
+      "from": 101.28,
+      "to": 102.16,
+      "sid": 77,
+      "location": 2,
+      "content": "只要你还在健身",
+      "music": 0.0
+    },
+    {
+      "from": 102.16,
+      "to": 103.66,
+      "sid": 78,
+      "location": 2,
+      "content": "你就永远立于不败之地",
+      "music": 0.0
+    },
+    {
+      "from": 103.66,
+      "to": 104.92,
+      "sid": 79,
+      "location": 2,
+      "content": "我一想起我有什么事",
+      "music": 0.0
+    },
+    {
+      "from": 104.92,
+      "to": 106.26,
+      "sid": 80,
+      "location": 2,
+      "content": "我咔我就把微信读书打开了",
+      "music": 0.0
+    },
+    {
+      "from": 106.26,
+      "to": 107.38,
+      "sid": 81,
+      "location": 2,
+      "content": "我一想起我有个什么事",
+      "music": 0.0
+    },
+    {
+      "from": 107.38,
+      "to": 108.54,
+      "sid": 82,
+      "location": 2,
+      "content": "我马上就往健身房一钻",
+      "music": 0.0
+    },
+    {
+      "from": 108.54,
+      "to": 109.02,
+      "sid": 83,
+      "location": 2,
+      "content": "所以你会发现",
+      "music": 0.0
+    },
+    {
+      "from": 109.02,
+      "to": 110.82,
+      "sid": 84,
+      "location": 2,
+      "content": "为什么身边很多人他每年都在说啊",
+      "music": 0.0
+    },
+    {
+      "from": 110.82,
+      "to": 111.54,
+      "sid": 85,
+      "location": 2,
+      "content": "我准备辞职了",
+      "music": 0.0
+    },
+    {
+      "from": 111.54,
+      "to": 112.14,
+      "sid": 86,
+      "location": 2,
+      "content": "我准备创业了",
+      "music": 0.0
+    },
+    {
+      "from": 112.14,
+      "to": 113.14,
+      "sid": 87,
+      "location": 2,
+      "content": "我准备做个副业了",
+      "music": 0.0
+    },
+    {
+      "from": 113.14,
+      "to": 113.96,
+      "sid": 88,
+      "location": 2,
+      "content": "但是他一直在教育",
+      "music": 0.0
+    },
+    {
+      "from": 113.96,
+      "to": 114.72,
+      "sid": 89,
+      "location": 2,
+      "content": "一直不开始做",
+      "music": 0.0
+    },
+    {
+      "from": 114.72,
+      "to": 115.92,
+      "sid": 90,
+      "location": 2,
+      "content": "我管这个叫模拟创业",
+      "music": 0.0
+    },
+    {
+      "from": 115.92,
+      "to": 117.48,
+      "sid": 91,
+      "location": 2,
+      "content": "就我们从经济学角度去看这个事",
+      "music": 0.0
+    },
+    {
+      "from": 117.48,
+      "to": 119.12,
+      "sid": 92,
+      "location": 2,
+      "content": "在一个真实的市场环境里面",
+      "music": 0.0
+    },
+    {
+      "from": 119.12,
+      "to": 120.54,
+      "sid": 93,
+      "location": 2,
+      "content": "信息收集是有成本的",
+      "music": 0.0
+    },
+    {
+      "from": 120.54,
+      "to": 123.22,
+      "sid": 94,
+      "location": 2,
+      "content": "创业者是不可能把所有的变量都摸清楚再行动",
+      "music": 0.0
+    },
+    {
+      "from": 123.22,
+      "to": 125.62,
+      "sid": 95,
+      "location": 2,
+      "content": "因为你每分每秒的拖延都是在损失成本",
+      "music": 0.0
+    },
+    {
+      "from": 125.62,
+      "to": 127.34,
+      "sid": 96,
+      "location": 2,
+      "content": "但是一旦我真的去做了这件事情",
+      "music": 0.0
+    },
+    {
+      "from": 127.34,
+      "to": 129.4,
+      "sid": 97,
+      "location": 2,
+      "content": "就很有可能会产生两个不好的结果",
+      "music": 0.0
+    },
+    {
+      "from": 129.4,
+      "to": 131.2,
+      "sid": 98,
+      "location": 2,
+      "content": "第一个是只要我干了这件事情",
+      "music": 0.0
+    },
+    {
+      "from": 131.2,
+      "to": 132.04,
+      "sid": 99,
+      "location": 2,
+      "content": "只要我执行了",
+      "music": 0.0
+    },
+    {
+      "from": 132.04,
+      "to": 133.06,
+      "sid": 100,
+      "location": 2,
+      "content": "我就有可能失败",
+      "music": 0.0
+    },
+    {
+      "from": 133.06,
+      "to": 133.84,
+      "sid": 101,
+      "location": 2,
+      "content": "第二个事情是",
+      "music": 0.0
+    },
+    {
+      "from": 133.84,
+      "to": 135.78,
+      "sid": 102,
+      "location": 2,
+      "content": "就算这个事情本身是成功的",
+      "music": 0.0
+    },
+    {
+      "from": 135.78,
+      "to": 137.34,
+      "sid": 103,
+      "location": 2,
+      "content": "可是在更大的社会层面上",
+      "music": 0.0
+    },
+    {
+      "from": 137.34,
+      "to": 139.36,
+      "sid": 104,
+      "location": 2,
+      "content": "我依然有可能不是一个成功人士",
+      "music": 0.0
+    },
+    {
+      "from": 139.36,
+      "to": 140.56,
+      "sid": 105,
+      "location": 2,
+      "content": "我赚了20万又怎么样",
+      "music": 0.0
+    },
+    {
+      "from": 140.56,
+      "to": 141.8,
+      "sid": 106,
+      "location": 2,
+      "content": "在社会公认的层面上",
+      "music": 0.0
+    },
+    {
+      "from": 141.8,
+      "to": 142.8,
+      "sid": 107,
+      "location": 2,
+      "content": "我依然不成功啊",
+      "music": 0.0
+    },
+    {
+      "from": 142.8,
+      "to": 143.52,
+      "sid": 108,
+      "location": 2,
+      "content": "那怎么办呢",
+      "music": 0.0
+    },
+    {
+      "from": 143.52,
+      "to": 145.98,
+      "sid": 109,
+      "location": 2,
+      "content": "就会有人开始在脑海中叫模拟创业",
+      "music": 0.0
+    },
+    {
+      "from": 145.98,
+      "to": 148.58,
+      "sid": 110,
+      "location": 2,
+      "content": "只要我暂时不去开始创业",
+      "music": 0.0
+    },
+    {
+      "from": 148.58,
+      "to": 149.54,
+      "sid": 111,
+      "location": 2,
+      "content": "我就不可能错",
+      "music": 0.0
+    },
+    {
+      "from": 149.54,
+      "to": 150.26,
+      "sid": 112,
+      "location": 2,
+      "content": "我也不可能亏",
+      "music": 0.0
+    },
+    {
+      "from": 150.26,
+      "to": 152.84,
+      "sid": 113,
+      "location": 2,
+      "content": "而而且呢我还能维持住一个人设",
+      "music": 0.0
+    },
+    {
+      "from": 152.84,
+      "to": 155.78,
+      "sid": 114,
+      "location": 2,
+      "content": "就是我是一个暂时被拖延症给耽误了的",
+      "music": 0.0
+    },
+    {
+      "from": 155.78,
+      "to": 157.46,
+      "sid": 115,
+      "location": 2,
+      "content": "一个又聪明又勤奋的人",
+      "music": 0.0
+    },
+    {
+      "from": 157.46,
+      "to": 158.54,
+      "sid": 116,
+      "location": 2,
+      "content": "我每天都在读书",
+      "music": 0.0
+    },
+    {
+      "from": 158.54,
+      "to": 159.5,
+      "sid": 117,
+      "location": 2,
+      "content": "每天都在健身",
+      "music": 0.0
+    },
+    {
+      "from": 159.5,
+      "to": 161.38,
+      "sid": 118,
+      "location": 2,
+      "content": "虽然我现在还没干成事",
+      "music": 0.0
+    },
+    {
+      "from": 161.38,
+      "to": 162.58,
+      "sid": 119,
+      "location": 2,
+      "content": "但是我韬光养晦",
+      "music": 0.0
+    },
+    {
+      "from": 162.58,
+      "to": 163.34,
+      "sid": 120,
+      "location": 2,
+      "content": "厚积薄发",
+      "music": 0.0
+    },
+    {
+      "from": 163.34,
+      "to": 164.54,
+      "sid": 121,
+      "location": 2,
+      "content": "一旦给我机会",
+      "music": 0.0
+    },
+    {
+      "from": 164.54,
+      "to": 165.54,
+      "sid": 122,
+      "location": 2,
+      "content": "我就一鸣惊人了",
+      "music": 0.0
+    },
+    {
+      "from": 165.54,
+      "to": 167.1,
+      "sid": 123,
+      "location": 2,
+      "content": "但如果我真的去做了这个事",
+      "music": 0.0
+    },
+    {
+      "from": 167.1,
+      "to": 169.3,
+      "sid": 124,
+      "location": 2,
+      "content": "岂不就很有可能会戳破我这个人设",
+      "music": 0.0
+    },
+    {
+      "from": 169.3,
+      "to": 170.42,
+      "sid": 125,
+      "location": 2,
+      "content": "在旧有的叙事里",
+      "music": 0.0
+    },
+    {
+      "from": 170.42,
+      "to": 173.14,
+      "sid": 126,
+      "location": 2,
+      "content": "我是一个暂时被耽误了的一个能成事的人",
+      "music": 0.0
+    },
+    {
+      "from": 173.14,
+      "to": 174.5,
+      "sid": 127,
+      "location": 2,
+      "content": "可是在这个新的叙事里面",
+      "music": 0.0
+    },
+    {
+      "from": 174.5,
+      "to": 177.74,
+      "sid": 128,
+      "location": 2,
+      "content": "我是一个就算没有拖延症也做不成事的人",
+      "music": 0.0
+    },
+    {
+      "from": 177.74,
+      "to": 179.42,
+      "sid": 129,
+      "location": 2,
+      "content": "所以永远都在模拟创业",
+      "music": 0.0
+    },
+    {
+      "from": 179.42,
+      "to": 181.18,
+      "sid": 130,
+      "location": 2,
+      "content": "长长年累月的研究创业",
+      "music": 0.0
+    },
+    {
+      "from": 181.18,
+      "to": 183.12,
+      "sid": 131,
+      "location": 2,
+      "content": "这是一个回报很丰厚的事情",
+      "music": 0.0
+    },
+    {
+      "from": 183.12,
+      "to": 184.48,
+      "sid": 132,
+      "location": 2,
+      "content": "他可以永远的维持住",
+      "music": 0.0
+    },
+    {
+      "from": 184.48,
+      "to": 186.3,
+      "sid": 133,
+      "location": 2,
+      "content": "我暂时还没成功这么一个人设",
+      "music": 0.0
+    },
+    {
+      "from": 186.3,
+      "to": 188.22,
+      "sid": 134,
+      "location": 2,
+      "content": "那和这个丰厚的回报相比呢",
+      "music": 0.0
+    },
+    {
+      "from": 188.22,
+      "to": 189.18,
+      "sid": 135,
+      "location": 2,
+      "content": "真实的创业",
+      "music": 0.0
+    },
+    {
+      "from": 189.18,
+      "to": 191.2,
+      "sid": 136,
+      "location": 2,
+      "content": "他只要成功率不是百五%",
+      "music": 0.0
+    },
+    {
+      "from": 191.2,
+      "to": 192.72,
+      "sid": 137,
+      "location": 2,
+      "content": "我是断然不可能去干的",
+      "music": 0.0
+    },
+    {
+      "from": 192.72,
+      "to": 193.72,
+      "sid": 138,
+      "location": 2,
+      "content": "因为他划不来呀",
+      "music": 0.0
+    },
+    {
+      "from": 193.72,
+      "to": 196.08,
+      "sid": 139,
+      "location": 2,
+      "content": "可是创业的收益就是来源于这件事情",
+      "music": 0.0
+    },
+    {
+      "from": 196.08,
+      "to": 198.06,
+      "sid": 140,
+      "location": 2,
+      "content": "有风险就是来源于它的不确定性",
+      "music": 0.0
+    },
+    {
+      "from": 198.06,
+      "to": 201.1,
+      "sid": 141,
+      "location": 2,
+      "content": "所以一旦你从这个准备阶段开始得到快感了",
+      "music": 0.0
+    },
+    {
+      "from": 201.1,
+      "to": 202.18,
+      "sid": 142,
+      "location": 2,
+      "content": "从那一刻开始",
+      "music": 0.0
+    },
+    {
+      "from": 202.18,
+      "to": 204.98,
+      "sid": 143,
+      "location": 2,
+      "content": "就决定了你最终不可能在创业里拿到收益了",
+      "music": 0.0
+    },
+    {
+      "from": 204.98,
+      "to": 206.74,
+      "sid": 144,
+      "location": 2,
+      "content": "表面上看准备是一个手段",
+      "music": 0.0
+    },
+    {
+      "from": 206.74,
+      "to": 207.94,
+      "sid": 145,
+      "location": 2,
+      "content": "它是为了实现你的目的",
+      "music": 0.0
+    },
+    {
+      "from": 207.94,
+      "to": 210.26,
+      "sid": 146,
+      "location": 2,
+      "content": "但是当这个目的有可能突破你的人设",
+      "music": 0.0
+    },
+    {
+      "from": 210.26,
+      "to": 211.34,
+      "sid": 147,
+      "location": 2,
+      "content": "而准备这个事情",
+      "music": 0.0
+    },
+    {
+      "from": 211.34,
+      "to": 213.12,
+      "sid": 148,
+      "location": 2,
+      "content": "它本身就能给你带来快感的时候",
+      "music": 0.0
+    },
+    {
+      "from": 213.12,
+      "to": 215.18,
+      "sid": 149,
+      "location": 2,
+      "content": "准备这个事情本身就会变成你的目的",
+      "music": 0.0
+    },
+    {
+      "from": 215.18,
+      "to": 216.94,
+      "sid": 150,
+      "location": 2,
+      "content": "你会一直在准备高三复读",
+      "music": 0.0
+    },
+    {
+      "from": 216.94,
+      "to": 218.54,
+      "sid": 151,
+      "location": 2,
+      "content": "本来还是为了考上清华北大",
+      "music": 0.0
+    },
+    {
+      "from": 218.54,
+      "to": 219.38,
+      "sid": 152,
+      "location": 2,
+      "content": "可是我复读了一年",
+      "music": 0.0
+    },
+    {
+      "from": 219.38,
+      "to": 220.14,
+      "sid": 153,
+      "location": 2,
+      "content": "只考上了人大",
+      "music": 0.0
+    },
+    {
+      "from": 220.14,
+      "to": 221.02,
+      "sid": 154,
+      "location": 2,
+      "content": "人大能不能去呢",
+      "music": 0.0
+    },
+    {
+      "from": 221.02,
+      "to": 222.1,
+      "sid": 155,
+      "location": 2,
+      "content": "当然不能去去了",
+      "music": 0.0
+    },
+    {
+      "from": 222.1,
+      "to": 223.32,
+      "sid": 156,
+      "location": 2,
+      "content": "就戳破了我的人设呀",
+      "music": 0.0
+    },
+    {
+      "from": 223.32,
+      "to": 224.1,
+      "sid": 157,
+      "location": 2,
+      "content": "那怎么办呢",
+      "music": 0.0
+    },
+    {
+      "from": 224.1,
+      "to": 225.02,
+      "sid": 158,
+      "location": 2,
+      "content": "再复读一年",
+      "music": 0.0
+    },
+    {
+      "from": 225.02,
+      "to": 225.82,
+      "sid": 159,
+      "location": 2,
+      "content": "再复读一年",
+      "music": 0.0
+    },
+    {
+      "from": 225.82,
+      "to": 226.86,
+      "sid": 160,
+      "location": 2,
+      "content": "在这一年的时间里",
+      "music": 0.0
+    },
+    {
+      "from": 226.86,
+      "to": 228.9,
+      "sid": 161,
+      "location": 2,
+      "content": "我就是一个游可能考上清华北大的人",
+      "music": 0.0
+    },
+    {
+      "from": 228.9,
+      "to": 229.62,
+      "sid": 162,
+      "location": 2,
+      "content": "第2年再也没考上",
+      "music": 0.0
+    },
+    {
+      "from": 229.62,
+      "to": 230.08,
+      "sid": 163,
+      "location": 2,
+      "content": "怎么办呢",
+      "music": 0.0
+    },
+    {
+      "from": 230.08,
+      "to": 230.7,
+      "sid": 164,
+      "location": 2,
+      "content": "再复读",
+      "music": 0.0
+    },
+    {
+      "from": 230.7,
+      "to": 231.9,
+      "sid": 165,
+      "location": 2,
+      "content": "所以我会复读18年",
+      "music": 0.0
+    },
+    {
+      "from": 231.9,
+      "to": 233.58,
+      "sid": 166,
+      "location": 2,
+      "content": "那怎么能打破这个心理循环呢",
+      "music": 0.0
+    },
+    {
+      "from": 233.58,
+      "to": 235.02,
+      "sid": 167,
+      "location": 2,
+      "content": "第一个我们不做推理",
+      "music": 0.0
+    },
+    {
+      "from": 235.02,
+      "to": 235.74,
+      "sid": 168,
+      "location": 2,
+      "content": "只看事实",
+      "music": 0.0
+    },
+    {
+      "from": 235.74,
+      "to": 237.16,
+      "sid": 169,
+      "location": 2,
+      "content": "只要从现实层面上讲",
+      "music": 0.0
+    },
+    {
+      "from": 237.16,
+      "to": 240.08,
+      "sid": 170,
+      "location": 2,
+      "content": "我做的事情没有直接的去推动这个目标",
+      "music": 0.0
+    },
+    {
+      "from": 240.08,
+      "to": 241.96,
+      "sid": 171,
+      "location": 2,
+      "content": "本身我就给你打上一个怀疑的标签",
+      "music": 0.0
+    },
+    {
+      "from": 241.96,
+      "to": 244.0,
+      "sid": 172,
+      "location": 2,
+      "content": "我就认为你只有1%的情况",
+      "music": 0.0
+    },
+    {
+      "from": 244.0,
+      "to": 246.14,
+      "sid": 173,
+      "location": 2,
+      "content": "是真的在准备你百九十九都是为了逃避",
+      "music": 0.0
+    },
+    {
+      "from": 246.14,
+      "to": 248.14,
+      "sid": 174,
+      "location": 2,
+      "content": "你是没有办法在不写文案的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 248.14,
+      "to": 248.86,
+      "sid": 175,
+      "location": 2,
+      "content": "学会写文案的",
+      "music": 0.0
+    },
+    {
+      "from": 248.86,
+      "to": 249.58,
+      "sid": 176,
+      "location": 2,
+      "content": "你说你买个课",
+      "music": 0.0
+    },
+    {
+      "from": 249.58,
+      "to": 250.58,
+      "sid": 177,
+      "location": 2,
+      "content": "你可以去买课",
+      "music": 0.0
+    },
+    {
+      "from": 250.58,
+      "to": 252.98,
+      "sid": 178,
+      "location": 2,
+      "content": "买完课的结果是你必须一边看课",
+      "music": 0.0
+    },
+    {
+      "from": 252.98,
+      "to": 253.64,
+      "sid": 179,
+      "location": 2,
+      "content": "一边写文案",
+      "music": 0.0
+    },
+    {
+      "from": 253.64,
+      "to": 254.82,
+      "sid": 180,
+      "location": 2,
+      "content": "而不是只看课",
+      "music": 0.0
+    },
+    {
+      "from": 254.82,
+      "to": 256.48,
+      "sid": 181,
+      "location": 2,
+      "content": "那第二个解决方案呢会比较反常识",
+      "music": 0.0
+    },
+    {
+      "from": 256.48,
+      "to": 257.839,
+      "sid": 182,
+      "location": 2,
+      "content": "是阿德勒心理学认为呢",
+      "music": 0.0
+    },
+    {
+      "from": 257.839,
+      "to": 260.039,
+      "sid": 183,
+      "location": 2,
+      "content": "说人之所以会害怕这个目的",
+      "music": 0.0
+    },
+    {
+      "from": 260.039,
+      "to": 260.719,
+      "sid": 184,
+      "location": 2,
+      "content": "害怕失败",
+      "music": 0.0
+    },
+    {
+      "from": 260.719,
+      "to": 262.899,
+      "sid": 185,
+      "location": 2,
+      "content": "本质上是源于我的自卑情结",
+      "music": 0.0
+    },
+    {
+      "from": 262.899,
+      "to": 264.88,
+      "sid": 186,
+      "location": 2,
+      "content": "所以真正能打破闭环的事",
+      "music": 0.0
+    },
+    {
+      "from": 264.88,
+      "to": 267.48,
+      "sid": 187,
+      "location": 2,
+      "content": "在社会层面上去建立良好的社会关系",
+      "music": 0.0
+    },
+    {
+      "from": 267.48,
+      "to": 268.4,
+      "sid": 188,
+      "location": 2,
+      "content": "你去帮助他人",
+      "music": 0.0
+    },
+    {
+      "from": 268.4,
+      "to": 270.56,
+      "sid": 189,
+      "location": 2,
+      "content": "从这个互动当中得到你的身份认同",
+      "music": 0.0
+    },
+    {
+      "from": 270.56,
+      "to": 271.64,
+      "sid": 190,
+      "location": 2,
+      "content": "让你建立自信",
+      "music": 0.0
+    },
+    {
+      "from": 271.64,
+      "to": 273.6,
+      "sid": 191,
+      "location": 2,
+      "content": "让你相信自己是一个有用的人",
+      "music": 0.0
+    },
+    {
+      "from": 273.6,
+      "to": 275.04,
+      "sid": 192,
+      "location": 2,
+      "content": "你就不会去害怕失败了",
+      "music": 0.0
+    },
+    {
+      "from": 275.04,
+      "to": 276.72,
+      "sid": 193,
+      "location": 2,
+      "content": "因为就算这一个事情失败了",
+      "music": 0.0
+    },
+    {
+      "from": 276.72,
+      "to": 278.88,
+      "sid": 194,
+      "location": 2,
+      "content": "他也不影响我整个人是一个有用的人",
+      "music": 0.0
+    },
+    {
+      "from": 278.88,
+      "to": 279.96,
+      "sid": 195,
+      "location": 2,
+      "content": "所以这一派的观点认为",
+      "music": 0.0
+    },
+    {
+      "from": 279.96,
+      "to": 281.88,
+      "sid": 196,
+      "location": 2,
+      "content": "帮助他人建立好的社会关系",
+      "music": 0.0
+    },
+    {
+      "from": 281.88,
+      "to": 283.28,
+      "sid": 197,
+      "location": 2,
+      "content": "是可以让你去直面目标的",
+      "music": 0.0
+    },
+    {
+      "from": 283.28,
+      "to": 283.92,
+      "sid": 198,
+      "location": 2,
+      "content": "归根结底",
+      "music": 0.0
+    },
+    {
+      "from": 283.92,
+      "to": 286.2,
+      "sid": 199,
+      "location": 2,
+      "content": "我们生活在一个三维的一个物理世界里",
+      "music": 0.0
+    },
+    {
+      "from": 286.2,
+      "to": 288.88,
+      "sid": 200,
+      "location": 2,
+      "content": "但这个世界只有执行才去能推动事情",
+      "music": 0.0
+    },
+    {
+      "from": 288.88,
+      "to": 289.92,
+      "sid": 201,
+      "location": 2,
+      "content": "如果你不去执行",
+      "music": 0.0
+    },
+    {
+      "from": 289.92,
+      "to": 291.44,
+      "sid": 202,
+      "location": 2,
+      "content": "你反复在大脑里去模拟的话",
+      "music": 0.0
+    },
+    {
+      "from": 291.44,
+      "to": 294.08,
+      "sid": 203,
+      "location": 2,
+      "content": "只会让你这个前额叶皮层持续的高耗能",
+      "music": 0.0
+    },
+    {
+      "from": 294.08,
+      "to": 294.96,
+      "sid": 204,
+      "location": 2,
+      "content": "让你越来越疲劳",
+      "music": 0.0
+    },
+    {
+      "from": 294.96,
+      "to": 296.32,
+      "sid": 205,
+      "location": 2,
+      "content": "让你这个杏仁核反复点火",
+      "music": 0.0
+    },
+    {
+      "from": 296.32,
+      "to": 296.8,
+      "sid": 206,
+      "location": 2,
+      "content": "敏感度越",
+      "music": 0.0
+    },
+    {
+      "from": 296.8,
+      "to": 299.64,
+      "sid": 207,
+      "location": 2,
+      "content": "他除了消耗你这个生物生理的这个资源以外",
+      "music": 0.0
+    },
+    {
+      "from": 299.64,
+      "to": 301.82,
+      "sid": 208,
+      "location": 2,
+      "content": "不会对这个世界产生任何的改变",
+      "music": 0.0
+    }
+  ]
+}

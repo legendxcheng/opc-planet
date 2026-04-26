@@ -1,0 +1,252 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "jpn-1.2.0-index2.5",
+  "body": [
+    {
+      "content": "♪ 音乐 ♪",
+      "from": 5.3,
+      "location": 2,
+      "music": 0.9999999637681173,
+      "sid": 1,
+      "to": 8.78
+    },
+    {
+      "content": "♪ 音乐 ♪",
+      "from": 8.78,
+      "location": 2,
+      "music": 1.0,
+      "sid": 2,
+      "to": 12.81
+    },
+    {
+      "content": "♪ 音乐 ♪",
+      "from": 12.81,
+      "location": 2,
+      "music": 1.0,
+      "sid": 3,
+      "to": 15.23
+    },
+    {
+      "content": "♪ 音乐 ♪",
+      "from": 15.23,
+      "location": 2,
+      "music": 1.0,
+      "sid": 4,
+      "to": 21.49
+    },
+    {
+      "content": "♪ 音乐 ♪",
+      "from": 37.56,
+      "location": 2,
+      "music": 1.0,
+      "sid": 5,
+      "to": 44.459
+    },
+    {
+      "content": "♪ 音乐 ♪",
+      "from": 44.939,
+      "location": 2,
+      "music": 0.92,
+      "sid": 6,
+      "to": 48.459
+    },
+    {
+      "content": "♪ 音乐 ♪",
+      "from": 48.459,
+      "location": 2,
+      "music": 0.89,
+      "sid": 7,
+      "to": 51.53
+    },
+    {
+      "content": "♪ 音乐 ♪",
+      "from": 51.53,
+      "location": 2,
+      "music": 0.96,
+      "sid": 8,
+      "to": 53.65
+    },
+    {
+      "content": "♪ 音乐 ♪",
+      "from": 53.65,
+      "location": 2,
+      "music": 0.99,
+      "sid": 9,
+      "to": 57.81
+    },
+    {
+      "content": "♪ 音乐 ♪",
+      "from": 57.81,
+      "location": 2,
+      "music": 1.0,
+      "sid": 10,
+      "to": 61.35
+    },
+    {
+      "content": "♪ 音乐 ♪",
+      "from": 61.35,
+      "location": 2,
+      "music": 1.0,
+      "sid": 11,
+      "to": 63.34
+    },
+    {
+      "content": "♪ 音乐 ♪",
+      "from": 63.34,
+      "location": 2,
+      "music": 1.0,
+      "sid": 12,
+      "to": 70.6
+    },
+    {
+      "content": "♪ 音乐 ♪",
+      "from": 70.6,
+      "location": 2,
+      "music": 1.0,
+      "sid": 13,
+      "to": 74.62
+    },
+    {
+      "content": "♪ 音乐 ♪",
+      "from": 74.62,
+      "location": 2,
+      "music": 1.0,
+      "sid": 14,
+      "to": 79.5
+    },
+    {
+      "content": "♪ 音乐 ♪",
+      "from": 79.5,
+      "location": 2,
+      "music": 1.0,
+      "sid": 15,
+      "to": 83.64
+    },
+    {
+      "content": "♪ 音乐 ♪",
+      "from": 83.64,
+      "location": 2,
+      "music": 1.0,
+      "sid": 16,
+      "to": 86.37
+    },
+    {
+      "content": "♪ 音乐 ♪",
+      "from": 86.455,
+      "location": 2,
+      "music": 1.0,
+      "sid": 17,
+      "to": 93.13
+    },
+    {
+      "content": "♪ 音乐 ♪",
+      "from": 93.13,
+      "location": 2,
+      "music": 1.0,
+      "sid": 18,
+      "to": 95.09
+    },
+    {
+      "content": "♪ 音乐 ♪",
+      "from": 101.5,
+      "location": 2,
+      "music": 1.0,
+      "sid": 19,
+      "to": 108.15
+    },
+    {
+      "content": "♪ 音乐 ♪",
+      "from": 108.59,
+      "location": 2,
+      "music": 0.96,
+      "sid": 20,
+      "to": 111.63
+    },
+    {
+      "content": "♪ 音乐 ♪",
+      "from": 111.63,
+      "location": 2,
+      "music": 0.95,
+      "sid": 21,
+      "to": 115.449
+    },
+    {
+      "content": "♪ 音乐 ♪",
+      "from": 116.009,
+      "location": 2,
+      "music": 0.98,
+      "sid": 22,
+      "to": 123.61
+    },
+    {
+      "content": "♪ 音乐 ♪",
+      "from": 123.85,
+      "location": 2,
+      "music": 0.99,
+      "sid": 23,
+      "to": 130.98
+    },
+    {
+      "content": "♪ 音乐 ♪",
+      "from": 130.98,
+      "location": 2,
+      "music": 1.0,
+      "sid": 24,
+      "to": 134.28
+    },
+    {
+      "content": "♪ 音乐 ♪",
+      "from": 134.28,
+      "location": 2,
+      "music": 1.0,
+      "sid": 25,
+      "to": 138.12
+    },
+    {
+      "content": "♪ 音乐 ♪",
+      "from": 138.12,
+      "location": 2,
+      "music": 1.0,
+      "sid": 26,
+      "to": 144.579
+    },
+    {
+      "content": "♪ 音乐 ♪",
+      "from": 144.579,
+      "location": 2,
+      "music": 1.0,
+      "sid": 27,
+      "to": 149.29
+    },
+    {
+      "content": "♪ 音乐 ♪",
+      "from": 149.29,
+      "location": 2,
+      "music": 1.0,
+      "sid": 28,
+      "to": 153.13
+    },
+    {
+      "content": "♪ 音乐 ♪",
+      "from": 153.13,
+      "location": 2,
+      "music": 1.0,
+      "sid": 29,
+      "to": 156.33
+    },
+    {
+      "content": "♪ 音乐 ♪",
+      "from": 156.33,
+      "location": 2,
+      "music": 0.9999999667774098,
+      "sid": 30,
+      "to": 160.52
+    }
+  ]
+}

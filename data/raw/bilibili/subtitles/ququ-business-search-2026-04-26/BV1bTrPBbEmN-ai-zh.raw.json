@@ -1,0 +1,1108 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.12,
+      "to": 3.39,
+      "sid": 1,
+      "location": 2,
+      "content": "赚钱是一门专门的学科",
+      "music": 0.0
+    },
+    {
+      "from": 3.39,
+      "to": 4.83,
+      "sid": 2,
+      "location": 2,
+      "content": "你学语文",
+      "music": 0.0
+    },
+    {
+      "from": 4.83,
+      "to": 5.65,
+      "sid": 3,
+      "location": 2,
+      "content": "学数学",
+      "music": 0.0
+    },
+    {
+      "from": 5.65,
+      "to": 6.51,
+      "sid": 4,
+      "location": 2,
+      "content": "学英语",
+      "music": 0.0
+    },
+    {
+      "from": 6.51,
+      "to": 7.33,
+      "sid": 5,
+      "location": 2,
+      "content": "学法律",
+      "music": 0.0
+    },
+    {
+      "from": 7.33,
+      "to": 8.11,
+      "sid": 6,
+      "location": 2,
+      "content": "学财务",
+      "music": 0.0
+    },
+    {
+      "from": 8.11,
+      "to": 8.59,
+      "sid": 7,
+      "location": 2,
+      "content": "学这个学",
+      "music": 0.0
+    },
+    {
+      "from": 8.59,
+      "to": 10.61,
+      "sid": 8,
+      "location": 2,
+      "content": "那学什么东西",
+      "music": 0.0
+    },
+    {
+      "from": 10.97,
+      "to": 13.53,
+      "sid": 9,
+      "location": 2,
+      "content": "他都不直线垂直解决",
+      "music": 0.0
+    },
+    {
+      "from": 13.53,
+      "to": 17.95,
+      "sid": 10,
+      "location": 2,
+      "content": "赚钱赚钱就是我专门要学赚钱",
+      "music": 0.0
+    },
+    {
+      "from": 17.95,
+      "to": 19.77,
+      "sid": 11,
+      "location": 2,
+      "content": "他就才能赚到钱",
+      "music": 0.0
+    },
+    {
+      "from": 19.77,
+      "to": 23.22,
+      "sid": 12,
+      "location": 2,
+      "content": "学赚钱的本质就是交易",
+      "music": 0.0
+    },
+    {
+      "from": 23.66,
+      "to": 26.86,
+      "sid": 13,
+      "location": 2,
+      "content": "交易就是把东西卖出去",
+      "music": 0.0
+    },
+    {
+      "from": 27.3,
+      "to": 28.22,
+      "sid": 14,
+      "location": 2,
+      "content": "对不对",
+      "music": 0.0
+    },
+    {
+      "from": 28.22,
+      "to": 29.8,
+      "sid": 15,
+      "location": 2,
+      "content": "找到产品",
+      "music": 0.0
+    },
+    {
+      "from": 29.8,
+      "to": 30.58,
+      "sid": 16,
+      "location": 2,
+      "content": "找到买家",
+      "music": 0.0
+    },
+    {
+      "from": 30.58,
+      "to": 31.6,
+      "sid": 17,
+      "location": 2,
+      "content": "找到卖家",
+      "music": 0.0
+    },
+    {
+      "from": 31.6,
+      "to": 36.559,
+      "sid": 18,
+      "location": 2,
+      "content": "然后我能把这个我就是卖家对吧",
+      "music": 0.0
+    },
+    {
+      "from": 36.559,
+      "to": 38.139,
+      "sid": 19,
+      "location": 2,
+      "content": "我能把这个事搞成",
+      "music": 0.0
+    },
+    {
+      "from": 38.139,
+      "to": 40.629,
+      "sid": 20,
+      "location": 2,
+      "content": "最后能收到钱",
+      "music": 0.0
+    },
+    {
+      "from": 40.949,
+      "to": 44.889,
+      "sid": 21,
+      "location": 2,
+      "content": "所以我说销售是最小的商业模型",
+      "music": 0.0
+    },
+    {
+      "from": 44.889,
+      "to": 49.08,
+      "sid": 22,
+      "location": 2,
+      "content": "你一个人要把一个小的商业闭环跑通",
+      "music": 0.0
+    },
+    {
+      "from": 49.08,
+      "to": 52.38,
+      "sid": 23,
+      "location": 2,
+      "content": "我知道怎么把一个东西卖出去",
+      "music": 0.0
+    },
+    {
+      "from": 52.38,
+      "to": 54.08,
+      "sid": 24,
+      "location": 2,
+      "content": "那么我就有可能卖出两个",
+      "music": 0.0
+    },
+    {
+      "from": 54.08,
+      "to": 54.52,
+      "sid": 25,
+      "location": 2,
+      "content": "卖出三个",
+      "music": 0.0
+    },
+    {
+      "from": 54.52,
+      "to": 55.12,
+      "sid": 26,
+      "location": 2,
+      "content": "卖出十个",
+      "music": 0.0
+    },
+    {
+      "from": 55.12,
+      "to": 56.0,
+      "sid": 27,
+      "location": 2,
+      "content": "你卖出1万个",
+      "music": 0.0
+    },
+    {
+      "from": 56.0,
+      "to": 57.519,
+      "sid": 28,
+      "location": 2,
+      "content": "那个就叫生意",
+      "music": 0.0
+    },
+    {
+      "from": 57.519,
+      "to": 59.999,
+      "sid": 29,
+      "location": 2,
+      "content": "就是把销售做到一定规模就叫生意",
+      "music": 0.0
+    },
+    {
+      "from": 61.21,
+      "to": 64.37,
+      "sid": 30,
+      "location": 2,
+      "content": "所有的解决一个具体的技术上的问题的",
+      "music": 0.0
+    },
+    {
+      "from": 64.37,
+      "to": 66.06,
+      "sid": 31,
+      "location": 2,
+      "content": "大概率都是拿底薪的",
+      "music": 0.0
+    },
+    {
+      "from": 66.06,
+      "to": 69.86,
+      "sid": 32,
+      "location": 2,
+      "content": "那么决定你是否能拿到超高的底薪的",
+      "music": 0.0
+    },
+    {
+      "from": 69.86,
+      "to": 75.62,
+      "sid": 33,
+      "location": 2,
+      "content": "取决于你所掌握的这个技术在市场上是否稀缺",
+      "music": 0.0
+    },
+    {
+      "from": 76.14,
+      "to": 80.06,
+      "sid": 34,
+      "location": 2,
+      "content": "以及你所掌握这个技术在市场的排名里面",
+      "music": 0.0
+    },
+    {
+      "from": 80.06,
+      "to": 82.26,
+      "sid": 35,
+      "location": 2,
+      "content": "你能排到第几",
+      "music": 0.0
+    },
+    {
+      "from": 83.1,
+      "to": 87.93,
+      "sid": 36,
+      "location": 2,
+      "content": "所以我才说有些钱呢他是适合精英赚的",
+      "music": 0.0
+    },
+    {
+      "from": 87.93,
+      "to": 92.83,
+      "sid": 37,
+      "location": 2,
+      "content": "金英传就是这些人他真是读书读得好对吧",
+      "music": 0.0
+    },
+    {
+      "from": 92.83,
+      "to": 96.21,
+      "sid": 38,
+      "location": 2,
+      "content": "他就是搞专业搞得非常的牛",
+      "music": 0.0
+    },
+    {
+      "from": 96.21,
+      "to": 97.77,
+      "sid": 39,
+      "location": 2,
+      "content": "那么这一挂的人",
+      "music": 0.0
+    },
+    {
+      "from": 97.77,
+      "to": 101.825,
+      "sid": 40,
+      "location": 2,
+      "content": "他们就是适合走所谓的高级打工仔路线的",
+      "music": 0.0
+    },
+    {
+      "from": 102.96,
+      "to": 105.16,
+      "sid": 41,
+      "location": 2,
+      "content": "只要是任何一个企业",
+      "music": 0.0
+    },
+    {
+      "from": 105.16,
+      "to": 108.94,
+      "sid": 42,
+      "location": 2,
+      "content": "他对于你的这个能力有核心诉求的时候",
+      "music": 0.0
+    },
+    {
+      "from": 108.94,
+      "to": 111.75,
+      "sid": 43,
+      "location": 2,
+      "content": "他就愿意高薪的聘请你",
+      "music": 0.0
+    },
+    {
+      "from": 111.75,
+      "to": 113.07,
+      "sid": 44,
+      "location": 2,
+      "content": "你没看那个华为",
+      "music": 0.0
+    },
+    {
+      "from": 113.07,
+      "to": 114.23,
+      "sid": 45,
+      "location": 2,
+      "content": "他不是养了一个",
+      "music": 0.0
+    },
+    {
+      "from": 114.23,
+      "to": 115.35,
+      "sid": 46,
+      "location": 2,
+      "content": "当时是养了一个养",
+      "music": 0.0
+    },
+    {
+      "from": 115.35,
+      "to": 116.23,
+      "sid": 47,
+      "location": 2,
+      "content": "养养了一个什么人",
+      "music": 0.0
+    },
+    {
+      "from": 116.23,
+      "to": 117.41,
+      "sid": 48,
+      "location": 2,
+      "content": "养了好多年",
+      "music": 0.0
+    },
+    {
+      "from": 117.41,
+      "to": 119.18,
+      "sid": 49,
+      "location": 2,
+      "content": "心非常高",
+      "music": 0.0
+    },
+    {
+      "from": 119.18,
+      "to": 120.26,
+      "sid": 50,
+      "location": 2,
+      "content": "非常高的薪水",
+      "music": 0.0
+    },
+    {
+      "from": 120.26,
+      "to": 121.22,
+      "sid": 51,
+      "location": 2,
+      "content": "养了一个人",
+      "music": 0.0
+    },
+    {
+      "from": 121.22,
+      "to": 124.04,
+      "sid": 52,
+      "location": 2,
+      "content": "N年不出成绩不出",
+      "music": 0.0
+    },
+    {
+      "from": 124.04,
+      "to": 125.169,
+      "sid": 53,
+      "location": 2,
+      "content": "结果",
+      "music": 0.0
+    },
+    {
+      "from": 125.369,
+      "to": 130.389,
+      "sid": 54,
+      "location": 2,
+      "content": "最后出来的那一下子就给这个集团超大的负能",
+      "music": 0.0
+    },
+    {
+      "from": 130.389,
+      "to": 131.189,
+      "sid": 55,
+      "location": 2,
+      "content": "对不对",
+      "music": 0.0
+    },
+    {
+      "from": 131.189,
+      "to": 133.829,
+      "sid": 56,
+      "location": 2,
+      "content": "这就是这就是所谓的精英路线啊",
+      "music": 0.0
+    },
+    {
+      "from": 133.829,
+      "to": 136.04,
+      "sid": 57,
+      "location": 2,
+      "content": "这个就是所谓的高级打工仔路线呐",
+      "music": 0.0
+    },
+    {
+      "from": 136.04,
+      "to": 139.93,
+      "sid": 58,
+      "location": 2,
+      "content": "因为你所掌握的这个技术是别人的核心需求",
+      "music": 0.0
+    },
+    {
+      "from": 139.93,
+      "to": 142.15,
+      "sid": 59,
+      "location": 2,
+      "content": "市场上有你这个技术的人不多",
+      "music": 0.0
+    },
+    {
+      "from": 142.15,
+      "to": 144.63,
+      "sid": 60,
+      "location": 2,
+      "content": "或者说就算有你这个技术都大家都很水",
+      "music": 0.0
+    },
+    {
+      "from": 144.63,
+      "to": 146.42,
+      "sid": 61,
+      "location": 2,
+      "content": "你的排名前三",
+      "music": 0.0
+    },
+    {
+      "from": 146.82,
+      "to": 149.64,
+      "sid": 62,
+      "location": 2,
+      "content": "我作为这个这个公司",
+      "music": 0.0
+    },
+    {
+      "from": 149.64,
+      "to": 153.59,
+      "sid": 63,
+      "location": 2,
+      "content": "我对这个东西有非常强烈的需求",
+      "music": 0.0
+    },
+    {
+      "from": 153.91,
+      "to": 155.49,
+      "sid": 64,
+      "location": 2,
+      "content": "是5G对吧",
+      "music": 0.0
+    },
+    {
+      "from": 155.49,
+      "to": 159.209,
+      "sid": 65,
+      "location": 2,
+      "content": "所以说我宁可花钱去砸一个未来的可能性",
+      "music": 0.0
+    },
+    {
+      "from": 159.209,
+      "to": 160.769,
+      "sid": 66,
+      "location": 2,
+      "content": "因为这一个可能性",
+      "music": 0.0
+    },
+    {
+      "from": 160.769,
+      "to": 163.68,
+      "sid": 67,
+      "location": 2,
+      "content": "有可能就让我在市场上遥遥领先",
+      "music": 0.0
+    },
+    {
+      "from": 164.16,
+      "to": 167.88,
+      "sid": 68,
+      "location": 2,
+      "content": "那这样的人你就光你就光听我讲这个事情",
+      "music": 0.0
+    },
+    {
+      "from": 167.88,
+      "to": 169.52,
+      "sid": 69,
+      "location": 2,
+      "content": "你觉得他难不难",
+      "music": 0.0
+    },
+    {
+      "from": 170.419,
+      "to": 174.7,
+      "sid": 70,
+      "location": 2,
+      "content": "你光听我讲这件事情的实现的可能性",
+      "music": 0.0
+    },
+    {
+      "from": 174.7,
+      "to": 177.86,
+      "sid": 71,
+      "location": 2,
+      "content": "他是一个极其少数群体",
+      "music": 0.0
+    },
+    {
+      "from": 177.86,
+      "to": 182.26,
+      "sid": 72,
+      "location": 2,
+      "content": "绝对的精英人群才能实现的路径",
+      "music": 0.0
+    },
+    {
+      "from": 182.26,
+      "to": 187.71,
+      "sid": 73,
+      "location": 2,
+      "content": "所以我老说在其企业里边拿高薪的人呐",
+      "music": 0.0
+    },
+    {
+      "from": 187.71,
+      "to": 192.47,
+      "sid": 74,
+      "location": 2,
+      "content": "他们这帮子人确实是脑子非常非常好的人",
+      "music": 0.0
+    },
+    {
+      "from": 192.47,
+      "to": 194.27,
+      "sid": 75,
+      "location": 2,
+      "content": "所以这一帮子人呢",
+      "music": 0.0
+    },
+    {
+      "from": 194.27,
+      "to": 197.41,
+      "sid": 76,
+      "location": 2,
+      "content": "往往他都没有放到商业世界里面来角逐",
+      "music": 0.0
+    },
+    {
+      "from": 197.41,
+      "to": 199.17,
+      "sid": 77,
+      "location": 2,
+      "content": "因为他们都选择了",
+      "music": 0.0
+    },
+    {
+      "from": 199.17,
+      "to": 202.67,
+      "sid": 78,
+      "location": 2,
+      "content": "就是他们在从小到大都是被别人抢了啊",
+      "music": 0.0
+    },
+    {
+      "from": 202.67,
+      "to": 207.71,
+      "sid": 79,
+      "location": 2,
+      "content": "这一挂的人才有可能通过所谓的专业路径",
+      "music": 0.0
+    },
+    {
+      "from": 207.71,
+      "to": 210.15,
+      "sid": 80,
+      "location": 2,
+      "content": "只只钻研自己的专业",
+      "music": 0.0
+    },
+    {
+      "from": 210.15,
+      "to": 211.55,
+      "sid": 81,
+      "location": 2,
+      "content": "你什么都不用销售",
+      "music": 0.0
+    },
+    {
+      "from": 211.55,
+      "to": 213.51,
+      "sid": 82,
+      "location": 2,
+      "content": "你完全不用想这个东西怎么卖出去",
+      "music": 0.0
+    },
+    {
+      "from": 213.51,
+      "to": 216.079,
+      "sid": 83,
+      "location": 2,
+      "content": "你就给我把这个东西弄出来就行",
+      "music": 0.0
+    },
+    {
+      "from": 216.439,
+      "to": 223.6,
+      "sid": 84,
+      "location": 2,
+      "content": "这样的人他才能获得非常高的这个你能做到吗",
+      "music": 0.0
+    },
+    {
+      "from": 223.6,
+      "to": 224.8,
+      "sid": 85,
+      "location": 2,
+      "content": "这个世界上",
+      "music": 0.0
+    },
+    {
+      "from": 224.8,
+      "to": 227.74,
+      "sid": 86,
+      "location": 2,
+      "content": "这个社会上有几个人是这个维度的呢",
+      "music": 0.0
+    },
+    {
+      "from": 227.74,
+      "to": 230.6,
+      "sid": 87,
+      "location": 2,
+      "content": "这真的是凤毛麟角中的凤毛麟角",
+      "music": 0.0
+    },
+    {
+      "from": 230.6,
+      "to": 232.76,
+      "sid": 88,
+      "location": 2,
+      "content": "他们这种人是这个世界的稀缺品",
+      "music": 0.0
+    },
+    {
+      "from": 232.76,
+      "to": 233.68,
+      "sid": 89,
+      "location": 2,
+      "content": "我扪心自问",
+      "music": 0.0
+    },
+    {
+      "from": 233.68,
+      "to": 235.68,
+      "sid": 90,
+      "location": 2,
+      "content": "咱们能当这个世界的稀缺品不",
+      "music": 0.0
+    },
+    {
+      "from": 235.68,
+      "to": 237.68,
+      "sid": 91,
+      "location": 2,
+      "content": "我每天恨不得就是个酒肉和尚",
+      "music": 0.0
+    },
+    {
+      "from": 237.68,
+      "to": 240.93,
+      "sid": 92,
+      "location": 2,
+      "content": "我我他妈鬼的稀缺品",
+      "music": 0.0
+    },
+    {
+      "from": 241.25,
+      "to": 244.27,
+      "sid": 93,
+      "location": 2,
+      "content": "所以我说的是普通人",
+      "music": 0.0
+    },
+    {
+      "from": 244.27,
+      "to": 245.77,
+      "sid": 94,
+      "location": 2,
+      "content": "就普通人呐",
+      "music": 0.0
+    },
+    {
+      "from": 245.77,
+      "to": 247.45,
+      "sid": 95,
+      "location": 2,
+      "content": "你们学所有的东西",
+      "music": 0.0
+    },
+    {
+      "from": 247.45,
+      "to": 248.57,
+      "sid": 96,
+      "location": 2,
+      "content": "他是目的是什么",
+      "music": 0.0
+    },
+    {
+      "from": 248.57,
+      "to": 249.44,
+      "sid": 97,
+      "location": 2,
+      "content": "我告诉你们",
+      "music": 0.0
+    },
+    {
+      "from": 249.44,
+      "to": 251.66,
+      "sid": 98,
+      "location": 2,
+      "content": "你们不要觉得说哎妈下去像你这么说",
+      "music": 0.0
+    },
+    {
+      "from": 251.66,
+      "to": 253.08,
+      "sid": 99,
+      "location": 2,
+      "content": "那就是所有东西不用学了",
+      "music": 0.0
+    },
+    {
+      "from": 253.08,
+      "to": 254.76,
+      "sid": 100,
+      "location": 2,
+      "content": "我这只需要学校售",
+      "music": 0.0
+    },
+    {
+      "from": 254.76,
+      "to": 256.12,
+      "sid": 101,
+      "location": 2,
+      "content": "不是不是",
+      "music": 0.0
+    },
+    {
+      "from": 256.12,
+      "to": 257.289,
+      "sid": 102,
+      "location": 2,
+      "content": "为什么呢",
+      "music": 0.0
+    },
+    {
+      "from": 257.289,
+      "to": 261.569,
+      "sid": 103,
+      "location": 2,
+      "content": "因为销售跟销售之间它都是讲不同的方式",
+      "music": 0.0
+    },
+    {
+      "from": 261.569,
+      "to": 262.72,
+      "sid": 104,
+      "location": 2,
+      "content": "方法策略的",
+      "music": 0.0
+    },
+    {
+      "from": 262.72,
+      "to": 266.83,
+      "sid": 105,
+      "location": 2,
+      "content": "或者说不同的行业之间的这个销售啊",
+      "music": 0.0
+    },
+    {
+      "from": 266.83,
+      "to": 269.39,
+      "sid": 106,
+      "location": 2,
+      "content": "他需要你掌握的技能",
+      "music": 0.0
+    },
+    {
+      "from": 269.39,
+      "to": 271.47,
+      "sid": 107,
+      "location": 2,
+      "content": "了解的信息他是不一样的",
+      "music": 0.0
+    },
+    {
+      "from": 271.47,
+      "to": 273.43,
+      "sid": 108,
+      "location": 2,
+      "content": "我卖菜也是销售",
+      "music": 0.0
+    },
+    {
+      "from": 273.43,
+      "to": 275.73,
+      "sid": 109,
+      "location": 2,
+      "content": "卖化妆品也是销售",
+      "music": 0.0
+    },
+    {
+      "from": 276.09,
+      "to": 277.65,
+      "sid": 110,
+      "location": 2,
+      "content": "卖服务也是销售啊",
+      "music": 0.0
+    },
+    {
+      "from": 277.65,
+      "to": 278.69,
+      "sid": 111,
+      "location": 2,
+      "content": "我卖飞机也是在销售",
+      "music": 0.0
+    },
+    {
+      "from": 278.69,
+      "to": 279.73,
+      "sid": 112,
+      "location": 2,
+      "content": "我卖汽车也在销售",
+      "music": 0.0
+    },
+    {
+      "from": 279.73,
+      "to": 281.13,
+      "sid": 113,
+      "location": 2,
+      "content": "卖房子也在销售对吧",
+      "music": 0.0
+    },
+    {
+      "from": 281.13,
+      "to": 284.419,
+      "sid": 114,
+      "location": 2,
+      "content": "我今天卖七件卖卖卖工程",
+      "music": 0.0
+    },
+    {
+      "from": 284.419,
+      "to": 288.26,
+      "sid": 115,
+      "location": 2,
+      "content": "我也是在销售那么多的行业",
+      "music": 0.0
+    },
+    {
+      "from": 288.26,
+      "to": 289.7,
+      "sid": 116,
+      "location": 2,
+      "content": "各行各业有服务",
+      "music": 0.0
+    },
+    {
+      "from": 289.7,
+      "to": 290.48,
+      "sid": 117,
+      "location": 2,
+      "content": "有产品",
+      "music": 0.0
+    },
+    {
+      "from": 290.48,
+      "to": 292.53,
+      "sid": 118,
+      "location": 2,
+      "content": "服务本身也是产品的一种",
+      "music": 0.0
+    },
+    {
+      "from": 292.53,
+      "to": 293.29,
+      "sid": 119,
+      "location": 2,
+      "content": "对不对",
+      "music": 0.0
+    },
+    {
+      "from": 293.29,
+      "to": 295.91,
+      "sid": 120,
+      "location": 2,
+      "content": "那么你做什么",
+      "music": 0.0
+    },
+    {
+      "from": 295.91,
+      "to": 299.74,
+      "sid": 121,
+      "location": 2,
+      "content": "他是不是要结合你曾经学过的专业",
+      "music": 0.0
+    },
+    {
+      "from": 299.74,
+      "to": 302.18,
+      "sid": 122,
+      "location": 2,
+      "content": "并不是说你学了这个专业",
+      "music": 0.0
+    },
+    {
+      "from": 302.18,
+      "to": 304.909,
+      "sid": 123,
+      "location": 2,
+      "content": "你就一定要到这个专业里面去做销售",
+      "music": 0.0
+    },
+    {
+      "from": 304.909,
+      "to": 306.989,
+      "sid": 124,
+      "location": 2,
+      "content": "你说我我是学土木的",
+      "music": 0.0
+    },
+    {
+      "from": 306.989,
+      "to": 308.589,
+      "sid": 125,
+      "location": 2,
+      "content": "我就一定要去卖房子",
+      "music": 0.0
+    },
+    {
+      "from": 308.589,
+      "to": 311.1,
+      "sid": 126,
+      "location": 2,
+      "content": "不是不是的",
+      "music": 0.0
+    },
+    {
+      "from": 311.1,
+      "to": 312.08,
+      "sid": 127,
+      "location": 2,
+      "content": "而是什么呢",
+      "music": 0.0
+    },
+    {
+      "from": 312.08,
+      "to": 313.66,
+      "sid": 128,
+      "location": 2,
+      "content": "你的那个专业",
+      "music": 0.0
+    },
+    {
+      "from": 313.66,
+      "to": 319.22,
+      "sid": 129,
+      "location": 2,
+      "content": "他会成为未来你选择某一个产品或者服务",
+      "music": 0.0
+    },
+    {
+      "from": 319.22,
+      "to": 320.48,
+      "sid": 130,
+      "location": 2,
+      "content": "去销售的时候",
+      "music": 0.0
+    },
+    {
+      "from": 320.48,
+      "to": 323.32,
+      "sid": 131,
+      "location": 2,
+      "content": "你的核心竞争力",
+      "music": 0.0
+    },
+    {
+      "from": 323.32,
+      "to": 324.9,
+      "sid": 132,
+      "location": 2,
+      "content": "因为你的专业",
+      "music": 0.0
+    },
+    {
+      "from": 324.9,
+      "to": 329.54,
+      "sid": 133,
+      "location": 2,
+      "content": "你曾经钻研过的这个你有别人没有的这个东西",
+      "music": 0.0
+    },
+    {
+      "from": 329.54,
+      "to": 331.9,
+      "sid": 134,
+      "location": 2,
+      "content": "什么叫我有你没有",
+      "music": 0.0
+    },
+    {
+      "from": 331.9,
+      "to": 334.34,
+      "sid": 135,
+      "location": 2,
+      "content": "我们在销售任何一个东西的时候",
+      "music": 0.0
+    },
+    {
+      "from": 334.34,
+      "to": 336.18,
+      "sid": 136,
+      "location": 2,
+      "content": "我想要领先于他人",
+      "music": 0.0
+    },
+    {
+      "from": 336.18,
+      "to": 339.14,
+      "sid": 137,
+      "location": 2,
+      "content": "我就要讲出那个叫我有你没有",
+      "music": 0.0
+    }
+  ]
+}

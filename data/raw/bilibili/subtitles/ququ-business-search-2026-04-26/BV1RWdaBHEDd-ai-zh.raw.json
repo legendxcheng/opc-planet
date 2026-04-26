@@ -1,0 +1,6964 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.12,
+      "to": 0.7,
+      "sid": 1,
+      "location": 2,
+      "content": "大家好",
+      "music": 0.0
+    },
+    {
+      "from": 0.7,
+      "to": 1.56,
+      "sid": 2,
+      "location": 2,
+      "content": "我是up主",
+      "music": 0.0
+    },
+    {
+      "from": 1.56,
+      "to": 2.34,
+      "sid": 3,
+      "location": 2,
+      "content": "智能路障",
+      "music": 0.0
+    },
+    {
+      "from": 2.34,
+      "to": 4.02,
+      "sid": 4,
+      "location": 2,
+      "content": "不知道大家有没有发现",
+      "music": 0.0
+    },
+    {
+      "from": 4.02,
+      "to": 6.68,
+      "sid": 5,
+      "location": 2,
+      "content": "最近年轻人似乎越来越能省钟",
+      "music": 0.0
+    },
+    {
+      "from": 6.68,
+      "to": 7.82,
+      "sid": 6,
+      "location": 2,
+      "content": "薛高花西子",
+      "music": 0.0
+    },
+    {
+      "from": 7.82,
+      "to": 11.06,
+      "sid": 7,
+      "location": 2,
+      "content": "近两年有很多价格高的商品都被骂上了热搜",
+      "music": 0.0
+    },
+    {
+      "from": 11.06,
+      "to": 13.0,
+      "sid": 8,
+      "location": 2,
+      "content": "那些走高端路线的零食",
+      "music": 0.0
+    },
+    {
+      "from": 13.0,
+      "to": 16.36,
+      "sid": 9,
+      "location": 2,
+      "content": "雪糕奶茶咖啡等品牌业绩也一路下滑",
+      "music": 0.0
+    },
+    {
+      "from": 16.36,
+      "to": 17.72,
+      "sid": 10,
+      "location": 2,
+      "content": "不少都濒临倒闭",
+      "music": 0.0
+    },
+    {
+      "from": 17.72,
+      "to": 20.48,
+      "sid": 11,
+      "location": 2,
+      "content": "反而是走平价亲民路线的品牌越来越多",
+      "music": 0.0
+    },
+    {
+      "from": 20.48,
+      "to": 22.28,
+      "sid": 12,
+      "location": 2,
+      "content": "比起几11杯的奶茶",
+      "music": 0.0
+    },
+    {
+      "from": 22.28,
+      "to": 24.94,
+      "sid": 13,
+      "location": 2,
+      "content": "大家越来越喜欢买几块钱的柠檬水",
+      "music": 0.0
+    },
+    {
+      "from": 24.94,
+      "to": 27.42,
+      "sid": 14,
+      "location": 2,
+      "content": "我家小区门口原来有个高端零食店",
+      "music": 0.0
+    },
+    {
+      "from": 27.42,
+      "to": 29.52,
+      "sid": 15,
+      "location": 2,
+      "content": "就是那种你进去随便买一小袋",
+      "music": 0.0
+    },
+    {
+      "from": 29.52,
+      "to": 30.02,
+      "sid": 16,
+      "location": 2,
+      "content": "一结账",
+      "music": 0.0
+    },
+    {
+      "from": 30.02,
+      "to": 31.1,
+      "sid": 17,
+      "location": 2,
+      "content": "价格200块的",
+      "music": 0.0
+    },
+    {
+      "from": 32.82,
+      "to": 34.42,
+      "sid": 18,
+      "location": 2,
+      "content": "现在新开的一家零食店",
+      "music": 0.0
+    },
+    {
+      "from": 34.42,
+      "to": 35.58,
+      "sid": 19,
+      "location": 2,
+      "content": "不止主打平价",
+      "music": 0.0
+    },
+    {
+      "from": 35.58,
+      "to": 38.12,
+      "sid": 20,
+      "location": 2,
+      "content": "而且打出的口号是一颗糖都能买",
+      "music": 0.0
+    },
+    {
+      "from": 38.12,
+      "to": 40.5,
+      "sid": 21,
+      "location": 2,
+      "content": "没错真的能只拿一颗糖去结账",
+      "music": 0.0
+    },
+    {
+      "from": 40.5,
+      "to": 42.24,
+      "sid": 22,
+      "location": 2,
+      "content": "这种零食店现在越来越多",
+      "music": 0.0
+    },
+    {
+      "from": 42.24,
+      "to": 43.72,
+      "sid": 23,
+      "location": 2,
+      "content": "大家应该都能感受到",
+      "music": 0.0
+    },
+    {
+      "from": 43.72,
+      "to": 45.72,
+      "sid": 24,
+      "location": 2,
+      "content": "当然这个现象还有蔓延的趋势",
+      "music": 0.0
+    },
+    {
+      "from": 45.72,
+      "to": 46.62,
+      "sid": 25,
+      "location": 2,
+      "content": "不止年轻人",
+      "music": 0.0
+    },
+    {
+      "from": 46.62,
+      "to": 48.36,
+      "sid": 26,
+      "location": 2,
+      "content": "老登们消费也更理性了",
+      "music": 0.0
+    },
+    {
+      "from": 48.36,
+      "to": 51.38,
+      "sid": 27,
+      "location": 2,
+      "content": "连价格坚挺如硬通货的茅台都开始下跌了",
+      "music": 0.0
+    },
+    {
+      "from": 51.38,
+      "to": 53.84,
+      "sid": 28,
+      "location": 2,
+      "content": "此外很多主打低价的电商平台",
+      "music": 0.0
+    },
+    {
+      "from": 53.84,
+      "to": 54.84,
+      "sid": 29,
+      "location": 2,
+      "content": "什么拼多多",
+      "music": 0.0
+    },
+    {
+      "from": 54.84,
+      "to": 56.48,
+      "sid": 30,
+      "location": 2,
+      "content": "1688飞速崛起",
+      "music": 0.0
+    },
+    {
+      "from": 56.48,
+      "to": 58.98,
+      "sid": 31,
+      "location": 2,
+      "content": "各种二手交易需求也越来越旺盛",
+      "music": 0.0
+    },
+    {
+      "from": 58.98,
+      "to": 61.76,
+      "sid": 32,
+      "location": 2,
+      "content": "大家也越来越不愿意过各种购物节了",
+      "music": 0.0
+    },
+    {
+      "from": 61.76,
+      "to": 64.0,
+      "sid": 33,
+      "location": 2,
+      "content": "原来双11之类的电商平台",
+      "music": 0.0
+    },
+    {
+      "from": 64.0,
+      "to": 65.62,
+      "sid": 34,
+      "location": 2,
+      "content": "都会自豪地公布销售额",
+      "music": 0.0
+    },
+    {
+      "from": 65.62,
+      "to": 67.3,
+      "sid": 35,
+      "location": 2,
+      "content": "最近几年都密不发丧",
+      "music": 0.0
+    },
+    {
+      "from": 67.3,
+      "to": 69.9,
+      "sid": 36,
+      "location": 2,
+      "content": "让我印象最深刻的是有很多热搜",
+      "music": 0.0
+    },
+    {
+      "from": 69.9,
+      "to": 72.22,
+      "sid": 37,
+      "location": 2,
+      "content": "譬如什么女子毕业工作多少年",
+      "music": 0.0
+    },
+    {
+      "from": 72.22,
+      "to": 73.1,
+      "sid": 38,
+      "location": 2,
+      "content": "省吃俭用",
+      "music": 0.0
+    },
+    {
+      "from": 73.1,
+      "to": 74.08,
+      "sid": 39,
+      "location": 2,
+      "content": "抠出两套房",
+      "music": 0.0
+    },
+    {
+      "from": 74.08,
+      "to": 76.68,
+      "sid": 40,
+      "location": 2,
+      "content": "什么外卖员3年挣的100多万存款",
+      "music": 0.0
+    },
+    {
+      "from": 76.68,
+      "to": 78.6,
+      "sid": 41,
+      "location": 2,
+      "content": "这种新闻几乎全网讨论",
+      "music": 0.0
+    },
+    {
+      "from": 78.6,
+      "to": 80.7,
+      "sid": 42,
+      "location": 2,
+      "content": "比购物节之类的热度高多了",
+      "music": 0.0
+    },
+    {
+      "from": 80.7,
+      "to": 82.58,
+      "sid": 43,
+      "location": 2,
+      "content": "为何会发生这种转变呢",
+      "music": 0.0
+    },
+    {
+      "from": 82.58,
+      "to": 85.22,
+      "sid": 44,
+      "location": 2,
+      "content": "这意味着消费主义的时代已经过去了吗",
+      "music": 0.0
+    },
+    {
+      "from": 85.22,
+      "to": 88.18,
+      "sid": 45,
+      "location": 2,
+      "content": "其实我2020年已经讲过一期消费主义了",
+      "music": 0.0
+    },
+    {
+      "from": 88.18,
+      "to": 90.28,
+      "sid": 46,
+      "location": 2,
+      "content": "内视频442万播放",
+      "music": 0.0
+    },
+    {
+      "from": 90.28,
+      "to": 91.12,
+      "sid": 47,
+      "location": 2,
+      "content": "好玩的是",
+      "music": 0.0
+    },
+    {
+      "from": 91.12,
+      "to": 93.16,
+      "sid": 48,
+      "location": 2,
+      "content": "几乎70%的播放量",
+      "music": 0.0
+    },
+    {
+      "from": 93.16,
+      "to": 95.26,
+      "sid": 49,
+      "location": 2,
+      "content": "都是在最近两年出现的",
+      "music": 0.0
+    },
+    {
+      "from": 95.26,
+      "to": 97.58,
+      "sid": 50,
+      "location": 2,
+      "content": "是我长尾效应最强的一期视频",
+      "music": 0.0
+    },
+    {
+      "from": 97.58,
+      "to": 99.14,
+      "sid": 51,
+      "location": 2,
+      "content": "说明随着消费下行",
+      "music": 0.0
+    },
+    {
+      "from": 99.14,
+      "to": 102.18,
+      "sid": 52,
+      "location": 2,
+      "content": "大家对这个话题感兴趣程度在不断上升",
+      "music": 0.0
+    },
+    {
+      "from": 102.18,
+      "to": 102.82,
+      "sid": 53,
+      "location": 2,
+      "content": "这两年",
+      "music": 0.0
+    },
+    {
+      "from": 102.82,
+      "to": 105.68,
+      "sid": 54,
+      "location": 2,
+      "content": "市面上更是出现了无数反思消费主义的书",
+      "music": 0.0
+    },
+    {
+      "from": 105.68,
+      "to": 107.3,
+      "sid": 55,
+      "location": 2,
+      "content": "这些书我也看了不少啊",
+      "music": 0.0
+    },
+    {
+      "from": 107.3,
+      "to": 109.06,
+      "sid": 56,
+      "location": 2,
+      "content": "这几年也经历了不少事情",
+      "music": 0.0
+    },
+    {
+      "from": 109.06,
+      "to": 111.38,
+      "sid": 57,
+      "location": 2,
+      "content": "对这个话题也有了很多新的感悟",
+      "music": 0.0
+    },
+    {
+      "from": 111.38,
+      "to": 113.72,
+      "sid": 58,
+      "location": 2,
+      "content": "今天就再开个视频聊聊消费主义",
+      "music": 0.0
+    },
+    {
+      "from": 113.72,
+      "to": 115.28,
+      "sid": 59,
+      "location": 2,
+      "content": "这里尤其推荐两本书",
+      "music": 0.0
+    },
+    {
+      "from": 115.28,
+      "to": 117.68,
+      "sid": 60,
+      "location": 2,
+      "content": "分别是制造消费者和工作",
+      "music": 0.0
+    },
+    {
+      "from": 117.68,
+      "to": 119.34,
+      "sid": 61,
+      "location": 2,
+      "content": "消费主义和新穷人",
+      "music": 0.0
+    },
+    {
+      "from": 119.34,
+      "to": 120.98,
+      "sid": 62,
+      "location": 2,
+      "content": "感兴趣的可以去看一看",
+      "music": 0.0
+    },
+    {
+      "from": 120.98,
+      "to": 123.06,
+      "sid": 63,
+      "location": 2,
+      "content": "那开头大家先思考一个问题",
+      "music": 0.0
+    },
+    {
+      "from": 123.06,
+      "to": 126.24,
+      "sid": 64,
+      "location": 2,
+      "content": "你逛夜市路边摊和逛商场有什么区别呢",
+      "music": 0.0
+    },
+    {
+      "from": 126.24,
+      "to": 127.08,
+      "sid": 65,
+      "location": 2,
+      "content": "在路边摊",
+      "music": 0.0
+    },
+    {
+      "from": 127.08,
+      "to": 128.66,
+      "sid": 66,
+      "location": 2,
+      "content": "如果你饿了想吃炒饭",
+      "music": 0.0
+    },
+    {
+      "from": 128.66,
+      "to": 131.9,
+      "sid": 67,
+      "location": 2,
+      "content": "你可能会选择看起来好吃或者看起来干净的摊",
+      "music": 0.0
+    },
+    {
+      "from": 131.9,
+      "to": 132.06,
+      "sid": 68,
+      "location": 2,
+      "content": "名",
+      "music": 0.0
+    },
+    {
+      "from": 132.06,
+      "to": 134.44,
+      "sid": 69,
+      "location": 2,
+      "content": "叫张三炒饭或李四炒饭无所谓",
+      "music": 0.0
+    },
+    {
+      "from": 134.44,
+      "to": 135.96,
+      "sid": 70,
+      "location": 2,
+      "content": "它们没有品牌区别",
+      "music": 0.0
+    },
+    {
+      "from": 135.96,
+      "to": 137.74,
+      "sid": 71,
+      "location": 2,
+      "content": "到底谁家的品质更好",
+      "music": 0.0
+    },
+    {
+      "from": 137.74,
+      "to": 140.42,
+      "sid": 72,
+      "location": 2,
+      "content": "可能得把两个摊位都吃一遍才有结论",
+      "music": 0.0
+    },
+    {
+      "from": 140.42,
+      "to": 141.34,
+      "sid": 73,
+      "location": 2,
+      "content": "而在商场",
+      "music": 0.0
+    },
+    {
+      "from": 141.34,
+      "to": 142.78,
+      "sid": 74,
+      "location": 2,
+      "content": "如果你想买双鞋",
+      "music": 0.0
+    },
+    {
+      "from": 142.78,
+      "to": 144.8,
+      "sid": 75,
+      "location": 2,
+      "content": "尽管一层楼全是卖鞋的",
+      "music": 0.0
+    },
+    {
+      "from": 144.8,
+      "to": 146.42,
+      "sid": 76,
+      "location": 2,
+      "content": "你也不会有任何困惑",
+      "music": 0.0
+    },
+    {
+      "from": 146.42,
+      "to": 149.98,
+      "sid": 77,
+      "location": 2,
+      "content": "会径直走到耐克或者安踏等你最熟悉的店中",
+      "music": 0.0
+    },
+    {
+      "from": 149.98,
+      "to": 151.58,
+      "sid": 78,
+      "location": 2,
+      "content": "因为你认这些牌子",
+      "music": 0.0
+    },
+    {
+      "from": 151.58,
+      "to": 153.48,
+      "sid": 79,
+      "location": 2,
+      "content": "下意识就觉得他们质量好",
+      "music": 0.0
+    },
+    {
+      "from": 153.48,
+      "to": 154.36,
+      "sid": 80,
+      "location": 2,
+      "content": "款式好看",
+      "music": 0.0
+    },
+    {
+      "from": 154.36,
+      "to": 155.88,
+      "sid": 81,
+      "location": 2,
+      "content": "或者穿着有面子等等",
+      "music": 0.0
+    },
+    {
+      "from": 155.88,
+      "to": 157.04,
+      "sid": 82,
+      "location": 2,
+      "content": "所以品牌的出现",
+      "music": 0.0
+    },
+    {
+      "from": 157.04,
+      "to": 159.96,
+      "sid": 83,
+      "location": 2,
+      "content": "是区分消费主义是否发达的重要标志",
+      "music": 0.0
+    },
+    {
+      "from": 159.96,
+      "to": 161.829,
+      "sid": 84,
+      "location": 2,
+      "content": "那为什么会诞生品牌呢",
+      "music": 0.0
+    },
+    {
+      "from": 161.829,
+      "to": 163.289,
+      "sid": 85,
+      "location": 2,
+      "content": "原来交通不发达",
+      "music": 0.0
+    },
+    {
+      "from": 163.289,
+      "to": 164.909,
+      "sid": 86,
+      "location": 2,
+      "content": "大家粮食自给自足",
+      "music": 0.0
+    },
+    {
+      "from": 164.909,
+      "to": 166.589,
+      "sid": 87,
+      "location": 2,
+      "content": "衣服自己缝制工具",
+      "music": 0.0
+    },
+    {
+      "from": 166.589,
+      "to": 167.54,
+      "sid": 88,
+      "location": 2,
+      "content": "家具自己造",
+      "music": 0.0
+    },
+    {
+      "from": 167.54,
+      "to": 169.46,
+      "sid": 89,
+      "location": 2,
+      "content": "所有人都是生产者身份",
+      "music": 0.0
+    },
+    {
+      "from": 169.46,
+      "to": 171.16,
+      "sid": 90,
+      "location": 2,
+      "content": "即使最富裕的国家中",
+      "music": 0.0
+    },
+    {
+      "from": 171.16,
+      "to": 173.12,
+      "sid": 91,
+      "location": 2,
+      "content": "绝大多数人口也都是农民",
+      "music": 0.0
+    },
+    {
+      "from": 173.12,
+      "to": 174.66,
+      "sid": 92,
+      "location": 2,
+      "content": "即使存在社会分工",
+      "music": 0.0
+    },
+    {
+      "from": 174.66,
+      "to": 176.46,
+      "sid": 93,
+      "location": 2,
+      "content": "也是在小范围内存在",
+      "music": 0.0
+    },
+    {
+      "from": 176.46,
+      "to": 177.94,
+      "sid": 94,
+      "location": 2,
+      "content": "比如村子里有个铁匠",
+      "music": 0.0
+    },
+    {
+      "from": 177.94,
+      "to": 180.04,
+      "sid": 95,
+      "location": 2,
+      "content": "村民们锅破了就去找他补一补",
+      "music": 0.0
+    },
+    {
+      "from": 180.04,
+      "to": 181.82,
+      "sid": 96,
+      "location": 2,
+      "content": "要农具就去找他做两把",
+      "music": 0.0
+    },
+    {
+      "from": 181.82,
+      "to": 183.08,
+      "sid": 97,
+      "location": 2,
+      "content": "大家产出都低",
+      "music": 0.0
+    },
+    {
+      "from": 183.08,
+      "to": 185.74,
+      "sid": 98,
+      "location": 2,
+      "content": "没什么剩余产品拿去从事商业活动",
+      "music": 0.0
+    },
+    {
+      "from": 185.74,
+      "to": 187.209,
+      "sid": 99,
+      "location": 2,
+      "content": "而且交通太差了",
+      "music": 0.0
+    },
+    {
+      "from": 187.209,
+      "to": 188.469,
+      "sid": 100,
+      "location": 2,
+      "content": "全都是泥巴地",
+      "music": 0.0
+    },
+    {
+      "from": 188.469,
+      "to": 189.289,
+      "sid": 101,
+      "location": 2,
+      "content": "天气不好",
+      "music": 0.0
+    },
+    {
+      "from": 189.289,
+      "to": 190.609,
+      "sid": 102,
+      "location": 2,
+      "content": "就更是寸步难行",
+      "music": 0.0
+    },
+    {
+      "from": 190.609,
+      "to": 192.889,
+      "sid": 103,
+      "location": 2,
+      "content": "还总是遇到强盗出一趟远门",
+      "music": 0.0
+    },
+    {
+      "from": 192.889,
+      "to": 194.18,
+      "sid": 104,
+      "location": 2,
+      "content": "死亡率很高的",
+      "music": 0.0
+    },
+    {
+      "from": 194.18,
+      "to": 196.38,
+      "sid": 105,
+      "location": 2,
+      "content": "所以那时候运输成本高到离谱",
+      "music": 0.0
+    },
+    {
+      "from": 196.38,
+      "to": 199.44,
+      "sid": 106,
+      "location": 2,
+      "content": "当时只有轻且价值高的商品才容易流通",
+      "music": 0.0
+    },
+    {
+      "from": 199.44,
+      "to": 201.84,
+      "sid": 107,
+      "location": 2,
+      "content": "一些工业生产所需的重型材料",
+      "music": 0.0
+    },
+    {
+      "from": 201.84,
+      "to": 204.28,
+      "sid": 108,
+      "location": 2,
+      "content": "铁和煤之类的都是通过船运",
+      "music": 0.0
+    },
+    {
+      "from": 204.28,
+      "to": 206.07,
+      "sid": 109,
+      "location": 2,
+      "content": "但船运限制也很大",
+      "music": 0.0
+    },
+    {
+      "from": 206.07,
+      "to": 208.59,
+      "sid": 110,
+      "location": 2,
+      "content": "如果一些地方水文地理条件不理想",
+      "music": 0.0
+    },
+    {
+      "from": 208.59,
+      "to": 209.65,
+      "sid": 111,
+      "location": 2,
+      "content": "发展就会落后",
+      "music": 0.0
+    },
+    {
+      "from": 209.65,
+      "to": 211.23,
+      "sid": 112,
+      "location": 2,
+      "content": "但工业革命的发生",
+      "music": 0.0
+    },
+    {
+      "from": 211.23,
+      "to": 212.87,
+      "sid": 113,
+      "location": 2,
+      "content": "特别是火车出现后",
+      "music": 0.0
+    },
+    {
+      "from": 212.87,
+      "to": 214.96,
+      "sid": 114,
+      "location": 2,
+      "content": "彻底消灭了距离带来的阻碍",
+      "music": 0.0
+    },
+    {
+      "from": 214.96,
+      "to": 215.84,
+      "sid": 115,
+      "location": 2,
+      "content": "根据统计",
+      "music": 0.0
+    },
+    {
+      "from": 215.84,
+      "to": 216.96,
+      "sid": 116,
+      "location": 2,
+      "content": "1650年",
+      "music": 0.0
+    },
+    {
+      "from": 216.96,
+      "to": 219.8,
+      "sid": 117,
+      "location": 2,
+      "content": "从巴黎到马赛需要359小时",
+      "music": 0.0
+    },
+    {
+      "from": 219.8,
+      "to": 220.88,
+      "sid": 118,
+      "location": 2,
+      "content": "1782年",
+      "music": 0.0
+    },
+    {
+      "from": 220.88,
+      "to": 222.9,
+      "sid": 119,
+      "location": 2,
+      "content": "随着马车改良的越来越轻",
+      "music": 0.0
+    },
+    {
+      "from": 222.9,
+      "to": 225.6,
+      "sid": 120,
+      "location": 2,
+      "content": "从巴黎到马赛只需要184小时",
+      "music": 0.0
+    },
+    {
+      "from": 225.6,
+      "to": 229.04,
+      "sid": 121,
+      "location": 2,
+      "content": "而1887年的人坐火车只需要13小时",
+      "music": 0.0
+    },
+    {
+      "from": 229.04,
+      "to": 231.2,
+      "sid": 122,
+      "location": 2,
+      "content": "商品此时开始大范围流通",
+      "music": 0.0
+    },
+    {
+      "from": 231.2,
+      "to": 233.42,
+      "sid": 123,
+      "location": 2,
+      "content": "大家的生活习惯也随之改变了",
+      "music": 0.0
+    },
+    {
+      "from": 233.42,
+      "to": 234.86,
+      "sid": 124,
+      "location": 2,
+      "content": "原来都是自给自足",
+      "music": 0.0
+    },
+    {
+      "from": 234.86,
+      "to": 237.2,
+      "sid": 125,
+      "location": 2,
+      "content": "靠种田畜牧来获得农产品",
+      "music": 0.0
+    },
+    {
+      "from": 237.2,
+      "to": 239.74,
+      "sid": 126,
+      "location": 2,
+      "content": "一旦遭虫害或是发洪水下冰雹",
+      "music": 0.0
+    },
+    {
+      "from": 239.74,
+      "to": 241.06,
+      "sid": 127,
+      "location": 2,
+      "content": "人们就面临着饥荒",
+      "music": 0.0
+    },
+    {
+      "from": 241.06,
+      "to": 242.14,
+      "sid": 128,
+      "location": 2,
+      "content": "可运输方便后",
+      "music": 0.0
+    },
+    {
+      "from": 242.14,
+      "to": 244.82,
+      "sid": 129,
+      "location": 2,
+      "content": "农民从事生产时可以专一的生产",
+      "music": 0.0
+    },
+    {
+      "from": 244.82,
+      "to": 246.0,
+      "sid": 130,
+      "location": 2,
+      "content": "卖的更贵的商品",
+      "music": 0.0
+    },
+    {
+      "from": 246.0,
+      "to": 247.02,
+      "sid": 131,
+      "location": 2,
+      "content": "有资料显示",
+      "music": 0.0
+    },
+    {
+      "from": 247.02,
+      "to": 248.62,
+      "sid": 132,
+      "location": 2,
+      "content": "正是火车得以普及的",
+      "music": 0.0
+    },
+    {
+      "from": 248.62,
+      "to": 249.68,
+      "sid": 133,
+      "location": 2,
+      "content": "1850年前后",
+      "music": 0.0
+    },
+    {
+      "from": 249.68,
+      "to": 251.62,
+      "sid": 134,
+      "location": 2,
+      "content": "法国不少农村的养蚕业",
+      "music": 0.0
+    },
+    {
+      "from": 251.62,
+      "to": 253.84,
+      "sid": 135,
+      "location": 2,
+      "content": "葡萄酒行业得到了长足的发展",
+      "music": 0.0
+    },
+    {
+      "from": 253.84,
+      "to": 256.92,
+      "sid": 136,
+      "location": 2,
+      "content": "当地农农民会再拿赚到的钱去买所需的食物",
+      "music": 0.0
+    },
+    {
+      "from": 256.92,
+      "to": 257.58,
+      "sid": 137,
+      "location": 2,
+      "content": "衣物等等",
+      "music": 0.0
+    },
+    {
+      "from": 257.58,
+      "to": 260.32,
+      "sid": 138,
+      "location": 2,
+      "content": "现代商品销往各地市场建立起来了",
+      "music": 0.0
+    },
+    {
+      "from": 260.32,
+      "to": 261.64,
+      "sid": 139,
+      "location": 2,
+      "content": "第二个问题出现了",
+      "music": 0.0
+    },
+    {
+      "from": 261.64,
+      "to": 264.2,
+      "sid": 140,
+      "location": 2,
+      "content": "那就是生产与消费被彻底分离了",
+      "music": 0.0
+    },
+    {
+      "from": 264.2,
+      "to": 265.7,
+      "sid": 141,
+      "location": 2,
+      "content": "这会造成什么现象呢",
+      "music": 0.0
+    },
+    {
+      "from": 265.7,
+      "to": 266.32,
+      "sid": 142,
+      "location": 2,
+      "content": "很简单",
+      "music": 0.0
+    },
+    {
+      "from": 266.32,
+      "to": 268.78,
+      "sid": 143,
+      "location": 2,
+      "content": "你不知道吃穿用的这些玩意是哪来的",
+      "music": 0.0
+    },
+    {
+      "from": 268.78,
+      "to": 271.62,
+      "sid": 144,
+      "location": 2,
+      "content": "所以我们对物品的理解会变得抽象起来",
+      "music": 0.0
+    },
+    {
+      "from": 271.62,
+      "to": 273.78,
+      "sid": 145,
+      "location": 2,
+      "content": "只能用虚幻的方式去理解它",
+      "music": 0.0
+    },
+    {
+      "from": 273.78,
+      "to": 276.12,
+      "sid": 146,
+      "location": 2,
+      "content": "整个社会就会变得越来越败物",
+      "music": 0.0
+    },
+    {
+      "from": 276.12,
+      "to": 277.5,
+      "sid": 147,
+      "location": 2,
+      "content": "讲点直观的例子",
+      "music": 0.0
+    },
+    {
+      "from": 277.5,
+      "to": 279.26,
+      "sid": 148,
+      "location": 2,
+      "content": "猪肉以前在农村",
+      "music": 0.0
+    },
+    {
+      "from": 279.26,
+      "to": 281.66,
+      "sid": 149,
+      "location": 2,
+      "content": "几乎家家户户都看过杀猪的过程",
+      "music": 0.0
+    },
+    {
+      "from": 281.66,
+      "to": 283.82,
+      "sid": 150,
+      "location": 2,
+      "content": "连小孩都知道猪肉是怎么来的",
+      "music": 0.0
+    },
+    {
+      "from": 283.82,
+      "to": 286.86,
+      "sid": 151,
+      "location": 2,
+      "content": "但现在城里人要搞清楚猪肉怎么来的就很难了",
+      "music": 0.0
+    },
+    {
+      "from": 286.86,
+      "to": 290.0,
+      "sid": 152,
+      "location": 2,
+      "content": "比如我们去的商超背后有专门的集采中心",
+      "music": 0.0
+    },
+    {
+      "from": 290.0,
+      "to": 292.54,
+      "sid": 153,
+      "location": 2,
+      "content": "集采中心又是找的肉类批发代理商",
+      "music": 0.0
+    },
+    {
+      "from": 292.54,
+      "to": 294.3,
+      "sid": 154,
+      "location": 2,
+      "content": "这些猪肉也是集中屠宰",
+      "music": 0.0
+    },
+    {
+      "from": 294.3,
+      "to": 295.14,
+      "sid": 155,
+      "location": 2,
+      "content": "集中饲养",
+      "music": 0.0
+    },
+    {
+      "from": 295.14,
+      "to": 296.1,
+      "sid": 156,
+      "location": 2,
+      "content": "集中繁殖的",
+      "music": 0.0
+    },
+    {
+      "from": 296.1,
+      "to": 298.6,
+      "sid": 157,
+      "location": 2,
+      "content": "就连屠宰也可以分为放血烫皮",
+      "music": 0.0
+    },
+    {
+      "from": 298.6,
+      "to": 299.14,
+      "sid": 158,
+      "location": 2,
+      "content": "脱毛",
+      "music": 0.0
+    },
+    {
+      "from": 299.14,
+      "to": 299.7,
+      "sid": 159,
+      "location": 2,
+      "content": "刮皮",
+      "music": 0.0
+    },
+    {
+      "from": 299.7,
+      "to": 301.02,
+      "sid": 160,
+      "location": 2,
+      "content": "去内脏和切块",
+      "music": 0.0
+    },
+    {
+      "from": 301.02,
+      "to": 304.3,
+      "sid": 161,
+      "location": 2,
+      "content": "任何一项具体的工作皆由不同的人来完成",
+      "music": 0.0
+    },
+    {
+      "from": 304.3,
+      "to": 306.64,
+      "sid": 162,
+      "location": 2,
+      "content": "大家共同构成了庞大的链条",
+      "music": 0.0
+    },
+    {
+      "from": 306.64,
+      "to": 310.66,
+      "sid": 163,
+      "location": 2,
+      "content": "于是繁育屠宰加工和消费之间离得越来越远",
+      "music": 0.0
+    },
+    {
+      "from": 310.66,
+      "to": 312.58,
+      "sid": 164,
+      "location": 2,
+      "content": "成品猪肉被保鲜膜包好",
+      "music": 0.0
+    },
+    {
+      "from": 312.58,
+      "to": 313.98,
+      "sid": 165,
+      "location": 2,
+      "content": "放在超市生鲜区中",
+      "music": 0.0
+    },
+    {
+      "from": 313.98,
+      "to": 315.6,
+      "sid": 166,
+      "location": 2,
+      "content": "在我们这些顾客眼中",
+      "music": 0.0
+    },
+    {
+      "from": 315.6,
+      "to": 317.82,
+      "sid": 167,
+      "location": 2,
+      "content": "就成为了一种独立存在的东西",
+      "music": 0.0
+    },
+    {
+      "from": 317.82,
+      "to": 319.8,
+      "sid": 168,
+      "location": 2,
+      "content": "于是变得抽象和拜物化了",
+      "music": 0.0
+    },
+    {
+      "from": 319.8,
+      "to": 321.82,
+      "sid": 169,
+      "location": 2,
+      "content": "你可能觉得这个说法很夸张",
+      "music": 0.0
+    },
+    {
+      "from": 321.82,
+      "to": 324.02,
+      "sid": 170,
+      "location": 2,
+      "content": "猪肉跟败物扯得上什么关系呢",
+      "music": 0.0
+    },
+    {
+      "from": 324.02,
+      "to": 325.18,
+      "sid": 171,
+      "location": 2,
+      "content": "但你仔细想想",
+      "music": 0.0
+    },
+    {
+      "from": 325.18,
+      "to": 326.799,
+      "sid": 172,
+      "location": 2,
+      "content": "一斤猪肉十来块钱",
+      "music": 0.0
+    },
+    {
+      "from": 326.799,
+      "to": 330.28,
+      "sid": 173,
+      "location": 2,
+      "content": "而顶级火腿呢可能一片就要几十甚至上百",
+      "music": 0.0
+    },
+    {
+      "from": 330.28,
+      "to": 333.5,
+      "sid": 174,
+      "location": 2,
+      "content": "火腿爱好者们还会关注品牌产地等级",
+      "music": 0.0
+    },
+    {
+      "from": 333.5,
+      "to": 334.8,
+      "sid": 175,
+      "location": 2,
+      "content": "但人们既不在乎",
+      "music": 0.0
+    },
+    {
+      "from": 334.8,
+      "to": 337.12,
+      "sid": 176,
+      "location": 2,
+      "content": "也不知道猪是怎么成为火腿的",
+      "music": 0.0
+    },
+    {
+      "from": 337.12,
+      "to": 339.28,
+      "sid": 177,
+      "location": 2,
+      "content": "在商品刚刚兴起的年代",
+      "music": 0.0
+    },
+    {
+      "from": 339.28,
+      "to": 342.08,
+      "sid": 178,
+      "location": 2,
+      "content": "这些农民原本吃的东西都是自己种的养的",
+      "music": 0.0
+    },
+    {
+      "from": 342.08,
+      "to": 343.32,
+      "sid": 179,
+      "location": 2,
+      "content": "现在却要依赖于一个",
+      "music": 0.0
+    },
+    {
+      "from": 343.32,
+      "to": 345.52,
+      "sid": 180,
+      "location": 2,
+      "content": "遥远而神秘的大型工业体系",
+      "music": 0.0
+    },
+    {
+      "from": 345.52,
+      "to": 347.72,
+      "sid": 181,
+      "location": 2,
+      "content": "那我们为什么要把生产的控制权",
+      "music": 0.0
+    },
+    {
+      "from": 347.72,
+      "to": 349.28,
+      "sid": 182,
+      "location": 2,
+      "content": "交给不认识的大公司呢",
+      "music": 0.0
+    },
+    {
+      "from": 349.28,
+      "to": 350.56,
+      "sid": 183,
+      "location": 2,
+      "content": "这些食物安全吗",
+      "music": 0.0
+    },
+    {
+      "from": 350.56,
+      "to": 351.26,
+      "sid": 184,
+      "location": 2,
+      "content": "干净吗",
+      "music": 0.0
+    },
+    {
+      "from": 351.26,
+      "to": 353.08,
+      "sid": 185,
+      "location": 2,
+      "content": "别搞个企业级猪肉过来",
+      "music": 0.0
+    },
+    {
+      "from": 353.08,
+      "to": 354.24,
+      "sid": 186,
+      "location": 2,
+      "content": "把爷肚子吃坏了",
+      "music": 0.0
+    },
+    {
+      "from": 354.24,
+      "to": 357.9,
+      "sid": 187,
+      "location": 2,
+      "content": "特别是这些食物都是用罐子瓶子袋子包装好的",
+      "music": 0.0
+    },
+    {
+      "from": 357.9,
+      "to": 358.96,
+      "sid": 188,
+      "location": 2,
+      "content": "看不见摸不着",
+      "music": 0.0
+    },
+    {
+      "from": 358.96,
+      "to": 359.7,
+      "sid": 189,
+      "location": 2,
+      "content": "也闻不到",
+      "music": 0.0
+    },
+    {
+      "from": 359.7,
+      "to": 363.16,
+      "sid": 190,
+      "location": 2,
+      "content": "与农民们以往感知食物的方式是完全相悖的",
+      "music": 0.0
+    },
+    {
+      "from": 363.16,
+      "to": 365.56,
+      "sid": 191,
+      "location": 2,
+      "content": "而且也不是熟悉的社群生产的",
+      "music": 0.0
+    },
+    {
+      "from": 365.56,
+      "to": 366.84,
+      "sid": 192,
+      "location": 2,
+      "content": "要是打开一只罐头",
+      "music": 0.0
+    },
+    {
+      "from": 366.84,
+      "to": 367.58,
+      "sid": 193,
+      "location": 2,
+      "content": "东西不对",
+      "music": 0.0
+    },
+    {
+      "from": 367.58,
+      "to": 369.6,
+      "sid": 194,
+      "location": 2,
+      "content": "消费者也不知道向谁求助",
+      "music": 0.0
+    },
+    {
+      "from": 369.6,
+      "to": 371.22,
+      "sid": 195,
+      "location": 2,
+      "content": "为了解决信任问题",
+      "music": 0.0
+    },
+    {
+      "from": 371.22,
+      "to": 372.36,
+      "sid": 196,
+      "location": 2,
+      "content": "品牌出现了",
+      "music": 0.0
+    },
+    {
+      "from": 372.36,
+      "to": 375.68,
+      "sid": 197,
+      "location": 2,
+      "content": "所以品牌的第一个作用就是给消费者安全感",
+      "music": 0.0
+    },
+    {
+      "from": 375.68,
+      "to": 378.38,
+      "sid": 198,
+      "location": 2,
+      "content": "这些食物不是来自陌生的无名公司",
+      "music": 0.0
+    },
+    {
+      "from": 378.38,
+      "to": 380.88,
+      "sid": 199,
+      "location": 2,
+      "content": "而是来自某个更有温度的地方",
+      "music": 0.0
+    },
+    {
+      "from": 380.88,
+      "to": 382.3,
+      "sid": 200,
+      "location": 2,
+      "content": "我们熟悉品牌后",
+      "music": 0.0
+    },
+    {
+      "from": 382.3,
+      "to": 383.54,
+      "sid": 201,
+      "location": 2,
+      "content": "不需要用触觉",
+      "music": 0.0
+    },
+    {
+      "from": 383.54,
+      "to": 385.32,
+      "sid": 202,
+      "location": 2,
+      "content": "视觉味觉来评估产品了",
+      "music": 0.0
+    },
+    {
+      "from": 385.32,
+      "to": 387.24,
+      "sid": 203,
+      "location": 2,
+      "content": "只需要选择信任某个品牌",
+      "music": 0.0
+    },
+    {
+      "from": 387.24,
+      "to": 388.38,
+      "sid": 204,
+      "location": 2,
+      "content": "就能确保品质",
+      "music": 0.0
+    },
+    {
+      "from": 388.38,
+      "to": 389.84,
+      "sid": 205,
+      "location": 2,
+      "content": "但很快大家就发现",
+      "music": 0.0
+    },
+    {
+      "from": 389.84,
+      "to": 391.74,
+      "sid": 206,
+      "location": 2,
+      "content": "品牌不仅能给人安全感",
+      "music": 0.0
+    },
+    {
+      "from": 391.74,
+      "to": 393.42,
+      "sid": 207,
+      "location": 2,
+      "content": "还有一种更神秘的力量",
+      "music": 0.0
+    },
+    {
+      "from": 393.42,
+      "to": 395.16,
+      "sid": 208,
+      "location": 2,
+      "content": "它可以把产品符号化",
+      "music": 0.0
+    },
+    {
+      "from": 395.16,
+      "to": 395.88,
+      "sid": 209,
+      "location": 2,
+      "content": "图腾化",
+      "music": 0.0
+    },
+    {
+      "from": 395.88,
+      "to": 398.44,
+      "sid": 210,
+      "location": 2,
+      "content": "产品的价值也不再取决于成分了",
+      "music": 0.0
+    },
+    {
+      "from": 398.44,
+      "to": 400.3,
+      "sid": 211,
+      "location": 2,
+      "content": "譬如我们买个瓷砖清洁剂",
+      "music": 0.0
+    },
+    {
+      "from": 400.3,
+      "to": 403.61,
+      "sid": 212,
+      "location": 2,
+      "content": "一般不会深究里面是白醋和小苏打的混合物",
+      "music": 0.0
+    },
+    {
+      "from": 403.61,
+      "to": 406.25,
+      "sid": 213,
+      "location": 2,
+      "content": "我们更在乎的是这个品牌的清洁剂",
+      "music": 0.0
+    },
+    {
+      "from": 406.25,
+      "to": 408.43,
+      "sid": 214,
+      "location": 2,
+      "content": "在媒体上是如何广受赞誉的",
+      "music": 0.0
+    },
+    {
+      "from": 408.43,
+      "to": 410.79,
+      "sid": 215,
+      "location": 2,
+      "content": "当人们在拜物这条路上越走越远",
+      "music": 0.0
+    },
+    {
+      "from": 410.79,
+      "to": 413.17,
+      "sid": 216,
+      "location": 2,
+      "content": "我们就渐渐步入了消费社会",
+      "music": 0.0
+    },
+    {
+      "from": 413.17,
+      "to": 414.21,
+      "sid": 217,
+      "location": 2,
+      "content": "这个过程中",
+      "music": 0.0
+    },
+    {
+      "from": 414.21,
+      "to": 417.37,
+      "sid": 218,
+      "location": 2,
+      "content": "最先带头的是19世纪的资产阶级",
+      "music": 0.0
+    },
+    {
+      "from": 417.37,
+      "to": 419.24,
+      "sid": 219,
+      "location": 2,
+      "content": "他们的身份可能是小商人",
+      "music": 0.0
+    },
+    {
+      "from": 419.24,
+      "to": 420.28,
+      "sid": 220,
+      "location": 2,
+      "content": "记者医生",
+      "music": 0.0
+    },
+    {
+      "from": 420.28,
+      "to": 421.28,
+      "sid": 221,
+      "location": 2,
+      "content": "上班族等等",
+      "music": 0.0
+    },
+    {
+      "from": 421.28,
+      "to": 424.72,
+      "sid": 222,
+      "location": 2,
+      "content": "总之普遍处在普罗大众和贵族精英中间",
+      "music": 0.0
+    },
+    {
+      "from": 424.72,
+      "to": 425.92,
+      "sid": 223,
+      "location": 2,
+      "content": "上不去也下不来",
+      "music": 0.0
+    },
+    {
+      "from": 425.92,
+      "to": 428.0,
+      "sid": 224,
+      "location": 2,
+      "content": "他整个人的层次就卡在这里了",
+      "music": 0.0
+    },
+    {
+      "from": 428.0,
+      "to": 429.86,
+      "sid": 225,
+      "location": 2,
+      "content": "所以这群人身份认知很矛盾",
+      "music": 0.0
+    },
+    {
+      "from": 432.44,
+      "to": 434.9,
+      "sid": 226,
+      "location": 2,
+      "content": "因为他们从事的大部分是智识劳动",
+      "music": 0.0
+    },
+    {
+      "from": 434.9,
+      "to": 437.54,
+      "sid": 227,
+      "location": 2,
+      "content": "觉得体力劳动只有执行性和服从性",
+      "music": 0.0
+    },
+    {
+      "from": 437.54,
+      "to": 438.4,
+      "sid": 228,
+      "location": 2,
+      "content": "很低级",
+      "music": 0.0
+    },
+    {
+      "from": 438.4,
+      "to": 439.52,
+      "sid": 229,
+      "location": 2,
+      "content": "一点儿也不贵族",
+      "music": 0.0
+    },
+    {
+      "from": 439.52,
+      "to": 441.3,
+      "sid": 230,
+      "location": 2,
+      "content": "但他们又并非真正的贵族",
+      "music": 0.0
+    },
+    {
+      "from": 441.3,
+      "to": 442.3,
+      "sid": 231,
+      "location": 2,
+      "content": "渴望往上爬",
+      "music": 0.0
+    },
+    {
+      "from": 442.3,
+      "to": 443.62,
+      "sid": 232,
+      "location": 2,
+      "content": "却被贵族们瞧不起",
+      "music": 0.0
+    },
+    {
+      "from": 443.62,
+      "to": 445.98,
+      "sid": 233,
+      "location": 2,
+      "content": "于是他们不得不通过改变生活方式",
+      "music": 0.0
+    },
+    {
+      "from": 445.98,
+      "to": 447.74,
+      "sid": 234,
+      "location": 2,
+      "content": "使自己接近贵族文化",
+      "music": 0.0
+    },
+    {
+      "from": 447.74,
+      "to": 450.38,
+      "sid": 235,
+      "location": 2,
+      "content": "也就是说要过上和平民有区别的生活",
+      "music": 0.0
+    },
+    {
+      "from": 450.38,
+      "to": 451.84,
+      "sid": 236,
+      "location": 2,
+      "content": "有位作家这样总结",
+      "music": 0.0
+    },
+    {
+      "from": 451.84,
+      "to": 453.46,
+      "sid": 237,
+      "location": 2,
+      "content": "资产阶级和别人的区别",
+      "music": 0.0
+    },
+    {
+      "from": 453.46,
+      "to": 455.3,
+      "sid": 238,
+      "location": 2,
+      "content": "就在于他们太追求区别了",
+      "music": 0.0
+    },
+    {
+      "from": 455.3,
+      "to": 458.62,
+      "sid": 239,
+      "location": 2,
+      "content": "他们会用各种不动产财产来证明自己的品位",
+      "music": 0.0
+    },
+    {
+      "from": 458.62,
+      "to": 460.88,
+      "sid": 240,
+      "location": 2,
+      "content": "因为他们信奉的是一套占有体系",
+      "music": 0.0
+    },
+    {
+      "from": 460.88,
+      "to": 463.08,
+      "sid": 241,
+      "location": 2,
+      "content": "物质占有就是它们存在的方式",
+      "music": 0.0
+    },
+    {
+      "from": 463.08,
+      "to": 464.92,
+      "sid": 242,
+      "location": 2,
+      "content": "譬如住标准更高的房子",
+      "music": 0.0
+    },
+    {
+      "from": 464.92,
+      "to": 466.5,
+      "sid": 243,
+      "location": 2,
+      "content": "在家里摆各种烛台",
+      "music": 0.0
+    },
+    {
+      "from": 466.5,
+      "to": 467.7,
+      "sid": 244,
+      "location": 2,
+      "content": "绘画瓷器",
+      "music": 0.0
+    },
+    {
+      "from": 467.7,
+      "to": 468.64,
+      "sid": 245,
+      "location": 2,
+      "content": "地毯等等",
+      "music": 0.0
+    },
+    {
+      "from": 468.64,
+      "to": 471.4,
+      "sid": 246,
+      "location": 2,
+      "content": "这些内饰和物品主要目的就是为了摆阔",
+      "music": 0.0
+    },
+    {
+      "from": 471.4,
+      "to": 472.88,
+      "sid": 247,
+      "location": 2,
+      "content": "以前的封建社会中",
+      "music": 0.0
+    },
+    {
+      "from": 472.88,
+      "to": 474.36,
+      "sid": 248,
+      "location": 2,
+      "content": "每个人都遵从等级",
+      "music": 0.0
+    },
+    {
+      "from": 474.36,
+      "to": 475.5,
+      "sid": 249,
+      "location": 2,
+      "content": "那时的观念是",
+      "music": 0.0
+    },
+    {
+      "from": 475.5,
+      "to": 477.32,
+      "sid": 250,
+      "location": 2,
+      "content": "人之所以分369等",
+      "music": 0.0
+    },
+    {
+      "from": 477.32,
+      "to": 477.96,
+      "sid": 251,
+      "location": 2,
+      "content": "都是上帝",
+      "music": 0.0
+    },
+    {
+      "from": 477.96,
+      "to": 480.5,
+      "sid": 252,
+      "location": 2,
+      "content": "按不要妄图改变自己所处的地位",
+      "music": 0.0
+    },
+    {
+      "from": 480.5,
+      "to": 481.6,
+      "sid": 253,
+      "location": 2,
+      "content": "那是违抗神意",
+      "music": 0.0
+    },
+    {
+      "from": 481.6,
+      "to": 483.26,
+      "sid": 254,
+      "location": 2,
+      "content": "而且还有限制奢侈法",
+      "music": 0.0
+    },
+    {
+      "from": 483.26,
+      "to": 486.78,
+      "sid": 255,
+      "location": 2,
+      "content": "不同等级的人服装房屋和食物都有固定的标准",
+      "music": 0.0
+    },
+    {
+      "from": 486.78,
+      "to": 488.72,
+      "sid": 256,
+      "location": 2,
+      "content": "超出等级是罪恶的表现",
+      "music": 0.0
+    },
+    {
+      "from": 488.72,
+      "to": 491.42,
+      "sid": 257,
+      "location": 2,
+      "content": "贵族过奢华的生活也不是为了享受",
+      "music": 0.0
+    },
+    {
+      "from": 491.42,
+      "to": 492.46,
+      "sid": 258,
+      "location": 2,
+      "content": "而是履行义务",
+      "music": 0.0
+    },
+    {
+      "from": 492.46,
+      "to": 493.36,
+      "sid": 259,
+      "location": 2,
+      "content": "不止西方",
+      "music": 0.0
+    },
+    {
+      "from": 493.36,
+      "to": 494.48,
+      "sid": 260,
+      "location": 2,
+      "content": "东方也是一样的",
+      "music": 0.0
+    },
+    {
+      "from": 494.48,
+      "to": 497.44,
+      "sid": 261,
+      "location": 2,
+      "content": "孔子主张人们应该穿戴与身份相称的衣服",
+      "music": 0.0
+    },
+    {
+      "from": 497.44,
+      "to": 499.58,
+      "sid": 262,
+      "location": 2,
+      "content": "你一个种田的跑去穿当官的衣服",
+      "music": 0.0
+    },
+    {
+      "from": 499.58,
+      "to": 501.18,
+      "sid": 263,
+      "location": 2,
+      "content": "那可谓礼崩乐坏了",
+      "music": 0.0
+    },
+    {
+      "from": 501.18,
+      "to": 502.66,
+      "sid": 264,
+      "location": 2,
+      "content": "可这种社会崩塌后",
+      "music": 0.0
+    },
+    {
+      "from": 502.66,
+      "to": 504.18,
+      "sid": 265,
+      "location": 2,
+      "content": "等级变成了流动的",
+      "music": 0.0
+    },
+    {
+      "from": 504.18,
+      "to": 506.38,
+      "sid": 266,
+      "location": 2,
+      "content": "你的地位就取决于你拥有什么",
+      "music": 0.0
+    },
+    {
+      "from": 506.38,
+      "to": 507.34,
+      "sid": 267,
+      "location": 2,
+      "content": "你衣冠楚楚",
+      "music": 0.0
+    },
+    {
+      "from": 507.34,
+      "to": 508.42,
+      "sid": 268,
+      "location": 2,
+      "content": "哪怕你是个农民",
+      "music": 0.0
+    },
+    {
+      "from": 508.42,
+      "to": 509.75,
+      "sid": 269,
+      "location": 2,
+      "content": "你贵族感也很重",
+      "music": 0.0
+    },
+    {
+      "from": 509.75,
+      "to": 511.03,
+      "sid": 270,
+      "location": 2,
+      "content": "你穿的像农民",
+      "music": 0.0
+    },
+    {
+      "from": 511.03,
+      "to": 511.99,
+      "sid": 271,
+      "location": 2,
+      "content": "哪怕你是贵族",
+      "music": 0.0
+    },
+    {
+      "from": 511.99,
+      "to": 513.33,
+      "sid": 272,
+      "location": 2,
+      "content": "你也是头感蛮重的",
+      "music": 0.0
+    },
+    {
+      "from": 513.33,
+      "to": 516.7,
+      "sid": 273,
+      "location": 2,
+      "content": "于是资产阶级之中爆发了一场符号之战",
+      "music": 0.0
+    },
+    {
+      "from": 516.7,
+      "to": 518.48,
+      "sid": 274,
+      "location": 2,
+      "content": "要是风格太大众化了",
+      "music": 0.0
+    },
+    {
+      "from": 518.48,
+      "to": 521.08,
+      "sid": 275,
+      "location": 2,
+      "content": "岂不是说明你和底层人的地位一样的吗",
+      "music": 0.0
+    },
+    {
+      "from": 521.08,
+      "to": 522.74,
+      "sid": 276,
+      "location": 2,
+      "content": "所以为了维护自己的地位",
+      "music": 0.0
+    },
+    {
+      "from": 522.74,
+      "to": 525.68,
+      "sid": 277,
+      "location": 2,
+      "content": "他们必须炫耀一些难以模仿的独特符号",
+      "music": 0.0
+    },
+    {
+      "from": 525.68,
+      "to": 528.32,
+      "sid": 278,
+      "location": 2,
+      "content": "这样才能把风格语法掌握在自己手里",
+      "music": 0.0
+    },
+    {
+      "from": 528.32,
+      "to": 530.02,
+      "sid": 279,
+      "location": 2,
+      "content": "给底层阶级设置障碍",
+      "music": 0.0
+    },
+    {
+      "from": 530.02,
+      "to": 533.38,
+      "sid": 280,
+      "location": 2,
+      "content": "于是19世纪的资产阶级非常流行崇洋媚外",
+      "music": 0.0
+    },
+    {
+      "from": 533.38,
+      "to": 534.06,
+      "sid": 281,
+      "location": 2,
+      "content": "为啥呢",
+      "music": 0.0
+    },
+    {
+      "from": 534.06,
+      "to": 535.48,
+      "sid": 282,
+      "location": 2,
+      "content": "因为外国是遥远的",
+      "music": 0.0
+    },
+    {
+      "from": 535.48,
+      "to": 537.12,
+      "sid": 283,
+      "location": 2,
+      "content": "甚至完全是幻想中的",
+      "music": 0.0
+    },
+    {
+      "from": 537.12,
+      "to": 538.96,
+      "sid": 284,
+      "location": 2,
+      "content": "反正也没多少人能够出国",
+      "music": 0.0
+    },
+    {
+      "from": 538.96,
+      "to": 542.17,
+      "sid": 285,
+      "location": 2,
+      "content": "并且你还得有一定的知识才能理解外国文化",
+      "music": 0.0
+    },
+    {
+      "from": 542.17,
+      "to": 544.43,
+      "sid": 286,
+      "location": 2,
+      "content": "这样外国文化是不是就足够独特",
+      "music": 0.0
+    },
+    {
+      "from": 544.43,
+      "to": 545.43,
+      "sid": 287,
+      "location": 2,
+      "content": "难以模仿了呢",
+      "music": 0.0
+    },
+    {
+      "from": 545.43,
+      "to": 547.97,
+      "sid": 288,
+      "location": 2,
+      "content": "于是这些人就会拼命表达外国的东西",
+      "music": 0.0
+    },
+    {
+      "from": 547.97,
+      "to": 548.91,
+      "sid": 289,
+      "location": 2,
+      "content": "比本国的好",
+      "music": 0.0
+    },
+    {
+      "from": 548.91,
+      "to": 550.71,
+      "sid": 290,
+      "location": 2,
+      "content": "表现自己对外国的爱",
+      "music": 0.0
+    },
+    {
+      "from": 550.71,
+      "to": 553.89,
+      "sid": 291,
+      "location": 2,
+      "content": "并给外国文化加上高尚美德等等品质",
+      "music": 0.0
+    },
+    {
+      "from": 553.89,
+      "to": 556.19,
+      "sid": 292,
+      "location": 2,
+      "content": "这样才能显得自己和本国人不同",
+      "music": 0.0
+    },
+    {
+      "from": 556.19,
+      "to": 558.49,
+      "sid": 293,
+      "location": 2,
+      "content": "比周围那些平凡的人更优越",
+      "music": 0.0
+    },
+    {
+      "from": 558.49,
+      "to": 559.61,
+      "sid": 294,
+      "location": 2,
+      "content": "有意思的是",
+      "music": 0.0
+    },
+    {
+      "from": 559.61,
+      "to": 562.45,
+      "sid": 295,
+      "location": 2,
+      "content": "那时法国喜欢附庸风雅的资产阶级们",
+      "music": 0.0
+    },
+    {
+      "from": 562.45,
+      "to": 563.93,
+      "sid": 296,
+      "location": 2,
+      "content": "很多都是英国文化迷",
+      "music": 0.0
+    },
+    {
+      "from": 563.93,
+      "to": 566.66,
+      "sid": 297,
+      "location": 2,
+      "content": "英国那些同样的人则迷恋法国文化",
+      "music": 0.0
+    },
+    {
+      "from": 566.66,
+      "to": 567.38,
+      "sid": 298,
+      "location": 2,
+      "content": "前面讲了",
+      "music": 0.0
+    },
+    {
+      "from": 567.38,
+      "to": 568.26,
+      "sid": 299,
+      "location": 2,
+      "content": "品牌的出现",
+      "music": 0.0
+    },
+    {
+      "from": 568.26,
+      "to": 570.329,
+      "sid": 300,
+      "location": 2,
+      "content": "资产阶级附庸风雅的心态",
+      "music": 0.0
+    },
+    {
+      "from": 570.329,
+      "to": 574.3,
+      "sid": 301,
+      "location": 2,
+      "content": "而构成消费社会的第三块拼图就是广告",
+      "music": 0.0
+    },
+    {
+      "from": 574.3,
+      "to": 576.3,
+      "sid": 302,
+      "location": 2,
+      "content": "一直到19世纪末期",
+      "music": 0.0
+    },
+    {
+      "from": 576.3,
+      "to": 577.86,
+      "sid": 303,
+      "location": 2,
+      "content": "广告都是很乏味的",
+      "music": 0.0
+    },
+    {
+      "from": 577.86,
+      "to": 579.74,
+      "sid": 304,
+      "location": 2,
+      "content": "本产品功能是什么什么什么",
+      "music": 0.0
+    },
+    {
+      "from": 579.74,
+      "to": 581.12,
+      "sid": 305,
+      "location": 2,
+      "content": "价格是多少多少多少",
+      "music": 0.0
+    },
+    {
+      "from": 581.12,
+      "to": 584.3,
+      "sid": 306,
+      "location": 2,
+      "content": "往往都是用大白话描述物品的基础信息",
+      "music": 0.0
+    },
+    {
+      "from": 584.3,
+      "to": 586.44,
+      "sid": 307,
+      "location": 2,
+      "content": "但图像革命改编的广告行业",
+      "music": 0.0
+    },
+    {
+      "from": 586.44,
+      "to": 588.96,
+      "sid": 308,
+      "location": 2,
+      "content": "因为图片和影像可以让大家产生符号",
+      "music": 0.0
+    },
+    {
+      "from": 588.96,
+      "to": 591.98,
+      "sid": 309,
+      "location": 2,
+      "content": "联想广告就不用再干巴巴描述产品功能了",
+      "music": 0.0
+    },
+    {
+      "from": 591.98,
+      "to": 594.16,
+      "sid": 310,
+      "location": 2,
+      "content": "可以更多突出产品的心理效应",
+      "music": 0.0
+    },
+    {
+      "from": 594.16,
+      "to": 595.94,
+      "sid": 311,
+      "location": 2,
+      "content": "以此来操纵消费者意识",
+      "music": 0.0
+    },
+    {
+      "from": 595.94,
+      "to": 597.36,
+      "sid": 312,
+      "location": 2,
+      "content": "这类广告刚出现时",
+      "music": 0.0
+    },
+    {
+      "from": 597.36,
+      "to": 598.66,
+      "sid": 313,
+      "location": 2,
+      "content": "套路还比较简单",
+      "music": 0.0
+    },
+    {
+      "from": 598.66,
+      "to": 600.36,
+      "sid": 314,
+      "location": 2,
+      "content": "比如说有个人头皮屑很多",
+      "music": 0.0
+    },
+    {
+      "from": 600.36,
+      "to": 601.4,
+      "sid": 315,
+      "location": 2,
+      "content": "总被人嘲笑",
+      "music": 0.0
+    },
+    {
+      "from": 601.4,
+      "to": 603.05,
+      "sid": 316,
+      "location": 2,
+      "content": "连他自己也觉得羞耻",
+      "music": 0.0
+    },
+    {
+      "from": 603.05,
+      "to": 605.93,
+      "sid": 317,
+      "location": 2,
+      "content": "而这个小毛病让她的生活工作都受到影响",
+      "music": 0.0
+    },
+    {
+      "from": 605.93,
+      "to": 607.11,
+      "sid": 318,
+      "location": 2,
+      "content": "女神离她而去",
+      "music": 0.0
+    },
+    {
+      "from": 607.11,
+      "to": 608.17,
+      "sid": 319,
+      "location": 2,
+      "content": "工作也被阻碍",
+      "music": 0.0
+    },
+    {
+      "from": 608.17,
+      "to": 610.78,
+      "sid": 320,
+      "location": 2,
+      "content": "于是她只能度过一个相对失败的人生",
+      "music": 0.0
+    },
+    {
+      "from": 610.78,
+      "to": 613.36,
+      "sid": 321,
+      "location": 2,
+      "content": "但最后出现了一款神奇的去屑洗发水",
+      "music": 0.0
+    },
+    {
+      "from": 613.36,
+      "to": 615.34,
+      "sid": 322,
+      "location": 2,
+      "content": "这哥们用了后成了人生赢家",
+      "music": 0.0
+    },
+    {
+      "from": 615.34,
+      "to": 616.96,
+      "sid": 323,
+      "location": 2,
+      "content": "这种广告的目的在于",
+      "music": 0.0
+    },
+    {
+      "from": 616.96,
+      "to": 619.8,
+      "sid": 324,
+      "location": 2,
+      "content": "让消费者意识到自己的错误和不足",
+      "music": 0.0
+    },
+    {
+      "from": 619.8,
+      "to": 622.32,
+      "sid": 325,
+      "location": 2,
+      "content": "并采用正确的消费方式拯救自己",
+      "music": 0.0
+    },
+    {
+      "from": 622.32,
+      "to": 624.96,
+      "sid": 326,
+      "location": 2,
+      "content": "现在这种直球引发焦虑的广告变少了",
+      "music": 0.0
+    },
+    {
+      "from": 624.96,
+      "to": 627.48,
+      "sid": 327,
+      "location": 2,
+      "content": "但这种脚本结构仍然大规模存在着",
+      "music": 0.0
+    },
+    {
+      "from": 627.48,
+      "to": 629.42,
+      "sid": 328,
+      "location": 2,
+      "content": "这个结构就是问题出现",
+      "music": 0.0
+    },
+    {
+      "from": 629.42,
+      "to": 630.64,
+      "sid": 329,
+      "location": 2,
+      "content": "产品出现问题",
+      "music": 0.0
+    },
+    {
+      "from": 630.64,
+      "to": 632.7,
+      "sid": 330,
+      "location": 2,
+      "content": "解决那些引发焦虑的动机",
+      "music": 0.0
+    },
+    {
+      "from": 632.7,
+      "to": 634.46,
+      "sid": 331,
+      "location": 2,
+      "content": "仍然隐藏在广告话语中",
+      "music": 0.0
+    },
+    {
+      "from": 634.46,
+      "to": 636.48,
+      "sid": 332,
+      "location": 2,
+      "content": "譬如日化行业套路一直如此",
+      "music": 0.0
+    },
+    {
+      "from": 636.48,
+      "to": 639.58,
+      "sid": 333,
+      "location": 2,
+      "content": "模特的眼睛嘴唇皮肤总之很完美",
+      "music": 0.0
+    },
+    {
+      "from": 639.58,
+      "to": 640.84,
+      "sid": 334,
+      "location": 2,
+      "content": "为何这么完美呢",
+      "music": 0.0
+    },
+    {
+      "from": 640.84,
+      "to": 643.18,
+      "sid": 335,
+      "location": 2,
+      "content": "因为他们用的这些化妆品或护肤品",
+      "music": 0.0
+    },
+    {
+      "from": 643.18,
+      "to": 644.18,
+      "sid": 336,
+      "location": 2,
+      "content": "汽车也是如此",
+      "music": 0.0
+    },
+    {
+      "from": 644.18,
+      "to": 645.18,
+      "sid": 337,
+      "location": 2,
+      "content": "没什么汽车广告",
+      "music": 0.0
+    },
+    {
+      "from": 645.18,
+      "to": 647.78,
+      "sid": 338,
+      "location": 2,
+      "content": "会老老实实介绍车本身的配置信息",
+      "music": 0.0
+    },
+    {
+      "from": 647.78,
+      "to": 649.02,
+      "sid": 339,
+      "location": 2,
+      "content": "全部都在想方法",
+      "music": 0.0
+    },
+    {
+      "from": 649.02,
+      "to": 651.38,
+      "sid": 340,
+      "location": 2,
+      "content": "彰显汽车给车主带来的社会地位",
+      "music": 0.0
+    },
+    {
+      "from": 651.38,
+      "to": 653.38,
+      "sid": 341,
+      "location": 2,
+      "content": "或是暗示拥有了这样的汽车",
+      "music": 0.0
+    },
+    {
+      "from": 653.38,
+      "to": 655.28,
+      "sid": 342,
+      "location": 2,
+      "content": "车主就会变成一个什么样的人",
+      "music": 0.0
+    },
+    {
+      "from": 655.28,
+      "to": 656.84,
+      "sid": 343,
+      "location": 2,
+      "content": "可能有的小伙伴会问了",
+      "music": 0.0
+    },
+    {
+      "from": 656.84,
+      "to": 658.44,
+      "sid": 344,
+      "location": 2,
+      "content": "有的豪华品牌卖那么贵",
+      "music": 0.0
+    },
+    {
+      "from": 658.44,
+      "to": 660.68,
+      "sid": 345,
+      "location": 2,
+      "content": "为什么也要对平民老百姓打广告呢",
+      "music": 0.0
+    },
+    {
+      "from": 660.68,
+      "to": 661.94,
+      "sid": 346,
+      "location": 2,
+      "content": "大部分人根本买不起",
+      "music": 0.0
+    },
+    {
+      "from": 661.94,
+      "to": 663.36,
+      "sid": 347,
+      "location": 2,
+      "content": "那不是浪费广告费吗",
+      "music": 0.0
+    },
+    {
+      "from": 663.36,
+      "to": 665.64,
+      "sid": 348,
+      "location": 2,
+      "content": "他们只针对有钱人做营销不行吗",
+      "music": 0.0
+    },
+    {
+      "from": 665.64,
+      "to": 667.18,
+      "sid": 349,
+      "location": 2,
+      "content": "还有很多奢侈品也是",
+      "music": 0.0
+    },
+    {
+      "from": 667.18,
+      "to": 668.94,
+      "sid": 350,
+      "location": 2,
+      "content": "不管是香奈儿还是爱马仕",
+      "music": 0.0
+    },
+    {
+      "from": 668.94,
+      "to": 670.88,
+      "sid": 351,
+      "location": 2,
+      "content": "或是劳力士之类的手表品牌",
+      "music": 0.0
+    },
+    {
+      "from": 670.88,
+      "to": 674.74,
+      "sid": 352,
+      "location": 2,
+      "content": "他们总是在最市中心的商场开面积最大的店铺",
+      "music": 0.0
+    },
+    {
+      "from": 674.74,
+      "to": 676.62,
+      "sid": 353,
+      "location": 2,
+      "content": "然后门口挂着大大的品牌名",
+      "music": 0.0
+    },
+    {
+      "from": 676.62,
+      "to": 678.64,
+      "sid": 354,
+      "location": 2,
+      "content": "因为大部分人都买不起这些东西",
+      "music": 0.0
+    },
+    {
+      "from": 678.64,
+      "to": 680.42,
+      "sid": 355,
+      "location": 2,
+      "content": "店面的客流量显然不会高",
+      "music": 0.0
+    },
+    {
+      "from": 680.42,
+      "to": 682.4,
+      "sid": 356,
+      "location": 2,
+      "content": "搞这么大位置纯属浪费空间",
+      "music": 0.0
+    },
+    {
+      "from": 682.4,
+      "to": 684.22,
+      "sid": 357,
+      "location": 2,
+      "content": "那其实这个道理也很好理解",
+      "music": 0.0
+    },
+    {
+      "from": 684.22,
+      "to": 685.82,
+      "sid": 358,
+      "location": 2,
+      "content": "这就跟一些网络游戏一样",
+      "music": 0.0
+    },
+    {
+      "from": 685.82,
+      "to": 688.66,
+      "sid": 359,
+      "location": 2,
+      "content": "如果没有平民玩氪金大佬是不会充钱的",
+      "music": 0.0
+    },
+    {
+      "from": 688.66,
+      "to": 691.34,
+      "sid": 360,
+      "location": 2,
+      "content": "因为他们感受不到凌驾于弱者之上的乐趣",
+      "music": 0.0
+    },
+    {
+      "from": 691.34,
+      "to": 694.73,
+      "sid": 361,
+      "location": 2,
+      "content": "所以好的网游会把平民和氪金大佬同时照顾好",
+      "music": 0.0
+    },
+    {
+      "from": 694.73,
+      "to": 696.21,
+      "sid": 362,
+      "location": 2,
+      "content": "奢侈品也是一样的道理",
+      "music": 0.0
+    },
+    {
+      "from": 696.21,
+      "to": 697.59,
+      "sid": 363,
+      "location": 2,
+      "content": "你越是买不起",
+      "music": 0.0
+    },
+    {
+      "from": 697.59,
+      "to": 699.03,
+      "sid": 364,
+      "location": 2,
+      "content": "就越是要对你打广告",
+      "music": 0.0
+    },
+    {
+      "from": 699.03,
+      "to": 701.22,
+      "sid": 365,
+      "location": 2,
+      "content": "就一定得让你认识到这东西很很贵",
+      "music": 0.0
+    },
+    {
+      "from": 701.22,
+      "to": 702.96,
+      "sid": 366,
+      "location": 2,
+      "content": "最好的效果是让你买不起",
+      "music": 0.0
+    },
+    {
+      "from": 702.96,
+      "to": 704.58,
+      "sid": 367,
+      "location": 2,
+      "content": "却对这些东西朝思暮想",
+      "music": 0.0
+    },
+    {
+      "from": 704.58,
+      "to": 707.52,
+      "sid": 368,
+      "location": 2,
+      "content": "那样有钱人掏钱买了这东西才会有优越感",
+      "music": 0.0
+    },
+    {
+      "from": 707.52,
+      "to": 709.86,
+      "sid": 369,
+      "location": 2,
+      "content": "总之在广告行业的努力下",
+      "music": 0.0
+    },
+    {
+      "from": 709.86,
+      "to": 712.72,
+      "sid": 370,
+      "location": 2,
+      "content": "商品越来越多的和我们的个性品质",
+      "music": 0.0
+    },
+    {
+      "from": 712.72,
+      "to": 714.74,
+      "sid": 371,
+      "location": 2,
+      "content": "社会地位和价值产生关联",
+      "music": 0.0
+    },
+    {
+      "from": 714.74,
+      "to": 716.1,
+      "sid": 372,
+      "location": 2,
+      "content": "人们也渐渐地觉得",
+      "music": 0.0
+    },
+    {
+      "from": 716.1,
+      "to": 717.54,
+      "sid": 373,
+      "location": 2,
+      "content": "商品既是一种工具",
+      "music": 0.0
+    },
+    {
+      "from": 717.54,
+      "to": 719.42,
+      "sid": 374,
+      "location": 2,
+      "content": "也是人不可或缺的一部分",
+      "music": 0.0
+    },
+    {
+      "from": 719.42,
+      "to": 720.32,
+      "sid": 375,
+      "location": 2,
+      "content": "没有了商品",
+      "music": 0.0
+    },
+    {
+      "from": 720.32,
+      "to": 721.81,
+      "sid": 376,
+      "location": 2,
+      "content": "人的存在也不完整了",
+      "music": 0.0
+    },
+    {
+      "from": 721.81,
+      "to": 725.61,
+      "sid": 377,
+      "location": 2,
+      "content": "生产者甚至会用相似的技术和原料制造产品",
+      "music": 0.0
+    },
+    {
+      "from": 725.61,
+      "to": 727.54,
+      "sid": 378,
+      "location": 2,
+      "content": "却给他们冠上不同的品牌",
+      "music": 0.0
+    },
+    {
+      "from": 727.54,
+      "to": 728.7,
+      "sid": 379,
+      "location": 2,
+      "content": "打不同的广告",
+      "music": 0.0
+    },
+    {
+      "from": 728.7,
+      "to": 729.68,
+      "sid": 380,
+      "location": 2,
+      "content": "譬如有段时间",
+      "music": 0.0
+    },
+    {
+      "from": 729.68,
+      "to": 732.48,
+      "sid": 381,
+      "location": 2,
+      "content": "零式香氛的广告是你用了就能更具诱惑力",
+      "music": 0.0
+    },
+    {
+      "from": 732.48,
+      "to": 735.6,
+      "sid": 382,
+      "location": 2,
+      "content": "然后很多性感美女就会对你投怀送抱艳遇",
+      "music": 0.0
+    },
+    {
+      "from": 735.6,
+      "to": 736.56,
+      "sid": 383,
+      "location": 2,
+      "content": "随时有女权",
+      "music": 0.0
+    },
+    {
+      "from": 736.56,
+      "to": 737.66,
+      "sid": 384,
+      "location": 2,
+      "content": "看了拳头都硬了",
+      "music": 0.0
+    },
+    {
+      "from": 737.66,
+      "to": 740.32,
+      "sid": 385,
+      "location": 2,
+      "content": "而多芬香氛的广告则非常女性主义",
+      "music": 0.0
+    },
+    {
+      "from": 740.32,
+      "to": 742.0,
+      "sid": 386,
+      "location": 2,
+      "content": "号称要尊重所有美丽",
+      "music": 0.0
+    },
+    {
+      "from": 742.0,
+      "to": 744.44,
+      "sid": 387,
+      "location": 2,
+      "content": "不要用固定的规范来禁锢审美标准",
+      "music": 0.0
+    },
+    {
+      "from": 744.44,
+      "to": 746.52,
+      "sid": 388,
+      "location": 2,
+      "content": "与前面广告的价值观结相反",
+      "music": 0.0
+    },
+    {
+      "from": 746.52,
+      "to": 748.92,
+      "sid": 389,
+      "location": 2,
+      "content": "但这两个品牌都是联合利华旗下的",
+      "music": 0.0
+    },
+    {
+      "from": 748.92,
+      "to": 751.6,
+      "sid": 390,
+      "location": 2,
+      "content": "所以所谓的多元化完全不影响资本赚钱",
+      "music": 0.0
+    },
+    {
+      "from": 751.6,
+      "to": 753.12,
+      "sid": 391,
+      "location": 2,
+      "content": "他们直接搞一堆品牌",
+      "music": 0.0
+    },
+    {
+      "from": 753.12,
+      "to": 754.86,
+      "sid": 392,
+      "location": 2,
+      "content": "覆盖所有细分市场就完事了",
+      "music": 0.0
+    },
+    {
+      "from": 754.86,
+      "to": 758.18,
+      "sid": 393,
+      "location": 2,
+      "content": "当多种文化同时盛行乃至竞争对抗的时候",
+      "music": 0.0
+    },
+    {
+      "from": 758.18,
+      "to": 761.34,
+      "sid": 394,
+      "location": 2,
+      "content": "他们甚至能同时为交战的每一方都提供武装",
+      "music": 0.0
+    },
+    {
+      "from": 761.34,
+      "to": 762.02,
+      "sid": 395,
+      "location": 2,
+      "content": "赢麻了",
+      "music": 0.0
+    },
+    {
+      "from": 762.02,
+      "to": 764.0,
+      "sid": 396,
+      "location": 2,
+      "content": "有两个例子很能说明问题啊",
+      "music": 0.0
+    },
+    {
+      "from": 764.0,
+      "to": 765.62,
+      "sid": 397,
+      "location": 2,
+      "content": "第一个是随意女郎",
+      "music": 0.0
+    },
+    {
+      "from": 765.62,
+      "to": 767.28,
+      "sid": 398,
+      "location": 2,
+      "content": "大概在1880年",
+      "music": 0.0
+    },
+    {
+      "from": 767.28,
+      "to": 769.52,
+      "sid": 399,
+      "location": 2,
+      "content": "欧美理想的女性范式是这样的",
+      "music": 0.0
+    },
+    {
+      "from": 769.52,
+      "to": 771.02,
+      "sid": 400,
+      "location": 2,
+      "content": "气质纯洁而精致",
+      "music": 0.0
+    },
+    {
+      "from": 771.02,
+      "to": 772.48,
+      "sid": 401,
+      "location": 2,
+      "content": "要做家庭守护者",
+      "music": 0.0
+    },
+    {
+      "from": 772.48,
+      "to": 773.38,
+      "sid": 402,
+      "location": 2,
+      "content": "自我牺牲",
+      "music": 0.0
+    },
+    {
+      "from": 773.38,
+      "to": 775.28,
+      "sid": 403,
+      "location": 2,
+      "content": "服从虔诚懂事",
+      "music": 0.0
+    },
+    {
+      "from": 775.28,
+      "to": 777.36,
+      "sid": 404,
+      "location": 2,
+      "content": "把全部心力倾注在家庭中",
+      "music": 0.0
+    },
+    {
+      "from": 777.36,
+      "to": 778.78,
+      "sid": 405,
+      "location": 2,
+      "content": "追求生活的稳定性",
+      "music": 0.0
+    },
+    {
+      "from": 778.78,
+      "to": 780.46,
+      "sid": 406,
+      "location": 2,
+      "content": "服从禁欲主义的要求",
+      "music": 0.0
+    },
+    {
+      "from": 780.46,
+      "to": 783.42,
+      "sid": 407,
+      "location": 2,
+      "content": "还要用厚厚的衣服突出丰满的胸部和臀部",
+      "music": 0.0
+    },
+    {
+      "from": 783.42,
+      "to": 784.8,
+      "sid": 408,
+      "location": 2,
+      "content": "象征着生殖文明",
+      "music": 0.0
+    },
+    {
+      "from": 784.8,
+      "to": 786.08,
+      "sid": 409,
+      "location": 2,
+      "content": "然而几十年过去",
+      "music": 0.0
+    },
+    {
+      "from": 786.08,
+      "to": 787.48,
+      "sid": 410,
+      "location": 2,
+      "content": "到了1920年",
+      "music": 0.0
+    },
+    {
+      "from": 787.48,
+      "to": 790.8,
+      "sid": 411,
+      "location": 2,
+      "content": "欧美媒体上开始充斥着一种随意女郎的形象",
+      "music": 0.0
+    },
+    {
+      "from": 790.8,
+      "to": 792.7,
+      "sid": 412,
+      "location": 2,
+      "content": "他们抽烟喝酒跳舞",
+      "music": 0.0
+    },
+    {
+      "from": 792.7,
+      "to": 793.54,
+      "sid": 413,
+      "location": 2,
+      "content": "大声说话",
+      "music": 0.0
+    },
+    {
+      "from": 793.54,
+      "to": 795.08,
+      "sid": 414,
+      "location": 2,
+      "content": "公开倡导享乐主义",
+      "music": 0.0
+    },
+    {
+      "from": 795.08,
+      "to": 796.88,
+      "sid": 415,
+      "location": 2,
+      "content": "对旧规范满是挑衅",
+      "music": 0.0
+    },
+    {
+      "from": 796.88,
+      "to": 798.42,
+      "sid": 416,
+      "location": 2,
+      "content": "剪掉了浓密的长发",
+      "music": 0.0
+    },
+    {
+      "from": 798.42,
+      "to": 800.28,
+      "sid": 417,
+      "location": 2,
+      "content": "脱掉了紧身胸衣和长裙",
+      "music": 0.0
+    },
+    {
+      "from": 800.28,
+      "to": 802.8,
+      "sid": 418,
+      "location": 2,
+      "content": "取而代之的是无袖连衣裙短裙",
+      "music": 0.0
+    },
+    {
+      "from": 802.8,
+      "to": 805.04,
+      "sid": 419,
+      "location": 2,
+      "content": "中型帽丝袜或是运动装",
+      "music": 0.0
+    },
+    {
+      "from": 805.04,
+      "to": 806.82,
+      "sid": 420,
+      "location": 2,
+      "content": "而且他们普遍化大浓妆",
+      "music": 0.0
+    },
+    {
+      "from": 806.82,
+      "to": 807.92,
+      "sid": 421,
+      "location": 2,
+      "content": "而在此之前",
+      "music": 0.0
+    },
+    {
+      "from": 809.5,
+      "to": 811.2,
+      "sid": 422,
+      "location": 2,
+      "content": "你可能会觉得这是好事",
+      "music": 0.0
+    },
+    {
+      "from": 811.2,
+      "to": 812.52,
+      "sid": 423,
+      "location": 2,
+      "content": "大家换上了轻装",
+      "music": 0.0
+    },
+    {
+      "from": 812.52,
+      "to": 814.08,
+      "sid": 424,
+      "location": 2,
+      "content": "活动起来就更方便了",
+      "music": 0.0
+    },
+    {
+      "from": 814.08,
+      "to": 815.58,
+      "sid": 425,
+      "location": 2,
+      "content": "这不就是女性解放吗",
+      "music": 0.0
+    },
+    {
+      "from": 815.58,
+      "to": 816.599,
+      "sid": 426,
+      "location": 2,
+      "content": "但实际上",
+      "music": 0.0
+    },
+    {
+      "from": 816.599,
+      "to": 817.499,
+      "sid": 427,
+      "location": 2,
+      "content": "实用性",
+      "music": 0.0
+    },
+    {
+      "from": 817.499,
+      "to": 818.919,
+      "sid": 428,
+      "location": 2,
+      "content": "舒适性和便利性",
+      "music": 0.0
+    },
+    {
+      "from": 818.919,
+      "to": 821.21,
+      "sid": 429,
+      "location": 2,
+      "content": "并不是这种风格创新的主导因素",
+      "music": 0.0
+    },
+    {
+      "from": 821.21,
+      "to": 823.49,
+      "sid": 430,
+      "location": 2,
+      "content": "所以女郎们虽然不穿长裙了",
+      "music": 0.0
+    },
+    {
+      "from": 823.49,
+      "to": 826.45,
+      "sid": 431,
+      "location": 2,
+      "content": "但她们爱穿的高跟鞋走起路来更加辛苦",
+      "music": 0.0
+    },
+    {
+      "from": 826.45,
+      "to": 827.59,
+      "sid": 432,
+      "location": 2,
+      "content": "裙子虽然短了",
+      "music": 0.0
+    },
+    {
+      "from": 827.59,
+      "to": 828.55,
+      "sid": 433,
+      "location": 2,
+      "content": "但却更紧了",
+      "music": 0.0
+    },
+    {
+      "from": 828.55,
+      "to": 829.96,
+      "sid": 434,
+      "location": 2,
+      "content": "极大的限制了步伐",
+      "music": 0.0
+    },
+    {
+      "from": 829.96,
+      "to": 831.48,
+      "sid": 435,
+      "location": 2,
+      "content": "紧身胸衣消失了",
+      "music": 0.0
+    },
+    {
+      "from": 831.48,
+      "to": 833.92,
+      "sid": 436,
+      "location": 2,
+      "content": "但腰带紧身搭和胸罩却出现了",
+      "music": 0.0
+    },
+    {
+      "from": 833.92,
+      "to": 835.56,
+      "sid": 437,
+      "location": 2,
+      "content": "穿这些东西不是为了轻便",
+      "music": 0.0
+    },
+    {
+      "from": 835.56,
+      "to": 837.6,
+      "sid": 438,
+      "location": 2,
+      "content": "目的是为了把胸部和臀部勒紧",
+      "music": 0.0
+    },
+    {
+      "from": 837.6,
+      "to": 838.58,
+      "sid": 439,
+      "location": 2,
+      "content": "以显得更平",
+      "music": 0.0
+    },
+    {
+      "from": 838.58,
+      "to": 840.6,
+      "sid": 440,
+      "location": 2,
+      "content": "所以这虽然是一种新的审美",
+      "music": 0.0
+    },
+    {
+      "from": 840.6,
+      "to": 842.52,
+      "sid": 441,
+      "location": 2,
+      "content": "但实际上也带来了新的约束",
+      "music": 0.0
+    },
+    {
+      "from": 842.52,
+      "to": 843.94,
+      "sid": 442,
+      "location": 2,
+      "content": "要成为随意女郎",
+      "music": 0.0
+    },
+    {
+      "from": 843.94,
+      "to": 846.46,
+      "sid": 443,
+      "location": 2,
+      "content": "女人必须将正确的符号物组合起来",
+      "music": 0.0
+    },
+    {
+      "from": 846.46,
+      "to": 848.26,
+      "sid": 444,
+      "location": 2,
+      "content": "譬如要精心打扮化妆",
+      "music": 0.0
+    },
+    {
+      "from": 848.26,
+      "to": 849.6,
+      "sid": 445,
+      "location": 2,
+      "content": "涂上亮晶晶的指甲",
+      "music": 0.0
+    },
+    {
+      "from": 849.6,
+      "to": 850.74,
+      "sid": 446,
+      "location": 2,
+      "content": "剃光腿毛等等",
+      "music": 0.0
+    },
+    {
+      "from": 850.74,
+      "to": 852.82,
+      "sid": 447,
+      "location": 2,
+      "content": "对身体的纪律也更加严格了",
+      "music": 0.0
+    },
+    {
+      "from": 852.82,
+      "to": 854.36,
+      "sid": 448,
+      "location": 2,
+      "content": "因为不严格控制饮食",
+      "music": 0.0
+    },
+    {
+      "from": 854.36,
+      "to": 855.84,
+      "sid": 449,
+      "location": 2,
+      "content": "是穿不上那些衣服的",
+      "music": 0.0
+    },
+    {
+      "from": 855.84,
+      "to": 856.6,
+      "sid": 450,
+      "location": 2,
+      "content": "做自己",
+      "music": 0.0
+    },
+    {
+      "from": 856.6,
+      "to": 859.32,
+      "sid": 451,
+      "location": 2,
+      "content": "对这些随意女郎而言变成了一种焦虑",
+      "music": 0.0
+    },
+    {
+      "from": 859.32,
+      "to": 861.06,
+      "sid": 452,
+      "location": 2,
+      "content": "所以这根本称不上解放",
+      "music": 0.0
+    },
+    {
+      "from": 861.06,
+      "to": 862.54,
+      "sid": 453,
+      "location": 2,
+      "content": "只是一种审美更迭",
+      "music": 0.0
+    },
+    {
+      "from": 862.54,
+      "to": 864.72,
+      "sid": 454,
+      "location": 2,
+      "content": "正如制造消费者书中所写",
+      "music": 0.0
+    },
+    {
+      "from": 864.72,
+      "to": 866.88,
+      "sid": 455,
+      "location": 2,
+      "content": "他们得到的与其说是自由",
+      "music": 0.0
+    },
+    {
+      "from": 866.88,
+      "to": 868.58,
+      "sid": 456,
+      "location": 2,
+      "content": "不如说是象征性的自由",
+      "music": 0.0
+    },
+    {
+      "from": 868.58,
+      "to": 872.18,
+      "sid": 457,
+      "location": 2,
+      "content": "现代女性消费者是在解放女性的伪装下诞生的",
+      "music": 0.0
+    },
+    {
+      "from": 872.18,
+      "to": 875.64,
+      "sid": 458,
+      "location": 2,
+      "content": "第二个例子是1960年代出现的反叛文化",
+      "music": 0.0
+    },
+    {
+      "from": 875.64,
+      "to": 876.68,
+      "sid": 459,
+      "location": 2,
+      "content": "二战结束后",
+      "music": 0.0
+    },
+    {
+      "from": 876.68,
+      "to": 878.02,
+      "sid": 460,
+      "location": 2,
+      "content": "工业化进一步加深",
+      "music": 0.0
+    },
+    {
+      "from": 878.02,
+      "to": 879.4,
+      "sid": 461,
+      "location": 2,
+      "content": "在大公司的控制下",
+      "music": 0.0
+    },
+    {
+      "from": 879.4,
+      "to": 881.16,
+      "sid": 462,
+      "location": 2,
+      "content": "人们的生活变得标准化",
+      "music": 0.0
+    },
+    {
+      "from": 881.16,
+      "to": 883.32,
+      "sid": 463,
+      "location": 2,
+      "content": "每天除了工作就是消费广告",
+      "music": 0.0
+    },
+    {
+      "from": 883.32,
+      "to": 884.78,
+      "sid": 464,
+      "location": 2,
+      "content": "播的都是整洁的家庭",
+      "music": 0.0
+    },
+    {
+      "from": 884.78,
+      "to": 885.78,
+      "sid": 465,
+      "location": 2,
+      "content": "新奇的家电",
+      "music": 0.0
+    },
+    {
+      "from": 885.78,
+      "to": 887.1,
+      "sid": 466,
+      "location": 2,
+      "content": "大且舒适的住宅",
+      "music": 0.0
+    },
+    {
+      "from": 887.1,
+      "to": 888.4,
+      "sid": 467,
+      "location": 2,
+      "content": "修建整洁的草坪",
+      "music": 0.0
+    },
+    {
+      "from": 888.4,
+      "to": 889.8,
+      "sid": 468,
+      "location": 2,
+      "content": "锃亮的汽车等等",
+      "music": 0.0
+    },
+    {
+      "from": 889.8,
+      "to": 892.04,
+      "sid": 469,
+      "location": 2,
+      "content": "这些符号成了完美生活的模板",
+      "music": 0.0
+    },
+    {
+      "from": 892.04,
+      "to": 894.0,
+      "sid": 470,
+      "location": 2,
+      "content": "于是人变得越来越没有个性",
+      "music": 0.0
+    },
+    {
+      "from": 894.0,
+      "to": 896.56,
+      "sid": 471,
+      "location": 2,
+      "content": "不少人产生了深层焦虑和意义危机",
+      "music": 0.0
+    },
+    {
+      "from": 896.56,
+      "to": 899.42,
+      "sid": 472,
+      "location": 2,
+      "content": "这种心态在1950年弥漫于整个美国",
+      "music": 0.0
+    },
+    {
+      "from": 899.42,
+      "to": 900.78,
+      "sid": 473,
+      "location": 2,
+      "content": "到了1960年代",
+      "music": 0.0
+    },
+    {
+      "from": 900.78,
+      "to": 901.82,
+      "sid": 474,
+      "location": 2,
+      "content": "渐渐也学声音",
+      "music": 0.0
+    },
+    {
+      "from": 901.82,
+      "to": 903.44,
+      "sid": 475,
+      "location": 2,
+      "content": "开始批判从众的现象",
+      "music": 0.0
+    },
+    {
+      "from": 903.44,
+      "to": 906.42,
+      "sid": 476,
+      "location": 2,
+      "content": "还有人把一些哲学家和社会学家的理论找出来",
+      "music": 0.0
+    },
+    {
+      "from": 906.42,
+      "to": 907.66,
+      "sid": 477,
+      "location": 2,
+      "content": "最终得出了结论",
+      "music": 0.0
+    },
+    {
+      "from": 907.66,
+      "to": 908.76,
+      "sid": 478,
+      "location": 2,
+      "content": "这就是异化",
+      "music": 0.0
+    },
+    {
+      "from": 908.76,
+      "to": 909.94,
+      "sid": 479,
+      "location": 2,
+      "content": "大家拼命工作",
+      "music": 0.0
+    },
+    {
+      "from": 909.94,
+      "to": 911.34,
+      "sid": 480,
+      "location": 2,
+      "content": "只为了赚钱去消费",
+      "music": 0.0
+    },
+    {
+      "from": 911.34,
+      "to": 913.88,
+      "sid": 481,
+      "location": 2,
+      "content": "去过那些资本家所定义的完美生活",
+      "music": 0.0
+    },
+    {
+      "from": 913.88,
+      "to": 915.38,
+      "sid": 482,
+      "location": 2,
+      "content": "资本主义太罪恶了",
+      "music": 0.0
+    },
+    {
+      "from": 915.38,
+      "to": 916.3,
+      "sid": 483,
+      "location": 2,
+      "content": "操纵了人们",
+      "music": 0.0
+    },
+    {
+      "from": 916.3,
+      "to": 918.2,
+      "sid": 484,
+      "location": 2,
+      "content": "让大家都变得被动和从众",
+      "music": 0.0
+    },
+    {
+      "from": 918.2,
+      "to": 920.0,
+      "sid": 485,
+      "location": 2,
+      "content": "所以我们要换一种生活方式",
+      "music": 0.0
+    },
+    {
+      "from": 920.0,
+      "to": 922.86,
+      "sid": 486,
+      "location": 2,
+      "content": "来反抗这种资产阶级式的标准生活模板",
+      "music": 0.0
+    },
+    {
+      "from": 922.86,
+      "to": 924.48,
+      "sid": 487,
+      "location": 2,
+      "content": "这就是反叛文化的由来啊",
+      "music": 0.0
+    },
+    {
+      "from": 924.48,
+      "to": 926.8,
+      "sid": 488,
+      "location": 2,
+      "content": "年轻人和很多对社会不满的人们",
+      "music": 0.0
+    },
+    {
+      "from": 926.8,
+      "to": 929.0,
+      "sid": 489,
+      "location": 2,
+      "content": "开始去崇拜一些边缘化的英雄",
+      "music": 0.0
+    },
+    {
+      "from": 929.0,
+      "to": 930.98,
+      "sid": 490,
+      "location": 2,
+      "content": "以及那些蔑视社会标准的人",
+      "music": 0.0
+    },
+    {
+      "from": 930.98,
+      "to": 934.06,
+      "sid": 491,
+      "location": 2,
+      "content": "那时候欧美各国都出现了很多以性爱暴力",
+      "music": 0.0
+    },
+    {
+      "from": 934.06,
+      "to": 935.84,
+      "sid": 492,
+      "location": 2,
+      "content": "和青春为题材的电影",
+      "music": 0.0
+    },
+    {
+      "from": 935.84,
+      "to": 938.82,
+      "sid": 493,
+      "location": 2,
+      "content": "还出现了针对青年文化的杂志和电视节目",
+      "music": 0.0
+    },
+    {
+      "from": 938.82,
+      "to": 941.94,
+      "sid": 494,
+      "location": 2,
+      "content": "甚至青春期这个概念也是这段时间出现的",
+      "music": 0.0
+    },
+    {
+      "from": 941.94,
+      "to": 944.12,
+      "sid": 495,
+      "location": 2,
+      "content": "不少青年喜欢穿得像抢劫犯一样",
+      "music": 0.0
+    },
+    {
+      "from": 944.12,
+      "to": 945.3,
+      "sid": 496,
+      "location": 2,
+      "content": "剪个古怪的发型",
+      "music": 0.0
+    },
+    {
+      "from": 945.3,
+      "to": 947.52,
+      "sid": 497,
+      "location": 2,
+      "content": "加入少数派参加激进的活动",
+      "music": 0.0
+    },
+    {
+      "from": 947.52,
+      "to": 949.48,
+      "sid": 498,
+      "location": 2,
+      "content": "以此让自己显得高深莫测",
+      "music": 0.0
+    },
+    {
+      "from": 949.48,
+      "to": 951.78,
+      "sid": 499,
+      "location": 2,
+      "content": "冒险违法成立酒精",
+      "music": 0.0
+    },
+    {
+      "from": 951.78,
+      "to": 953.34,
+      "sid": 500,
+      "location": 2,
+      "content": "现在都成了酷行为",
+      "music": 0.0
+    },
+    {
+      "from": 953.34,
+      "to": 954.84,
+      "sid": 501,
+      "location": 2,
+      "content": "以前的社会边缘人",
+      "music": 0.0
+    },
+    {
+      "from": 954.84,
+      "to": 956.92,
+      "sid": 502,
+      "location": 2,
+      "content": "小混混则成了酷的代表",
+      "music": 0.0
+    },
+    {
+      "from": 956.92,
+      "to": 958.5,
+      "sid": 503,
+      "location": 2,
+      "content": "聪明的观众应该发现了",
+      "music": 0.0
+    },
+    {
+      "from": 958.5,
+      "to": 959.68,
+      "sid": 504,
+      "location": 2,
+      "content": "所谓的反主流文化",
+      "music": 0.0
+    },
+    {
+      "from": 959.68,
+      "to": 961.32,
+      "sid": 505,
+      "location": 2,
+      "content": "表面上是反资本主义",
+      "music": 0.0
+    },
+    {
+      "from": 961.32,
+      "to": 963.32,
+      "sid": 506,
+      "location": 2,
+      "content": "但和之前资产阶级崇洋媚外",
+      "music": 0.0
+    },
+    {
+      "from": 963.32,
+      "to": 966.68,
+      "sid": 507,
+      "location": 2,
+      "content": "女人追求随意女郎风格有很多相似之处",
+      "music": 0.0
+    },
+    {
+      "from": 966.68,
+      "to": 968.36,
+      "sid": 508,
+      "location": 2,
+      "content": "这种追求离经叛道",
+      "music": 0.0
+    },
+    {
+      "from": 968.36,
+      "to": 971.34,
+      "sid": 509,
+      "location": 2,
+      "content": "只是一种让自己显得与众不同的流行趋势",
+      "music": 0.0
+    },
+    {
+      "from": 971.34,
+      "to": 972.8,
+      "sid": 510,
+      "location": 2,
+      "content": "你要拒绝做普通人",
+      "music": 0.0
+    },
+    {
+      "from": 972.8,
+      "to": 975.52,
+      "sid": 511,
+      "location": 2,
+      "content": "还是必须通过拥有某些东西来证明自己",
+      "music": 0.0
+    },
+    {
+      "from": 975.52,
+      "to": 976.5,
+      "sid": 512,
+      "location": 2,
+      "content": "远离了庸俗",
+      "music": 0.0
+    },
+    {
+      "from": 976.5,
+      "to": 979.32,
+      "sid": 513,
+      "location": 2,
+      "content": "也就是说你还是需要为了出众而消费",
+      "music": 0.0
+    },
+    {
+      "from": 979.32,
+      "to": 981.98,
+      "sid": 514,
+      "location": 2,
+      "content": "而且正是因为经济太发达了",
+      "music": 0.0
+    },
+    {
+      "from": 981.98,
+      "to": 984.08,
+      "sid": 515,
+      "location": 2,
+      "content": "那些青年才有机会去反叛",
+      "music": 0.0
+    },
+    {
+      "from": 984.08,
+      "to": 985.08,
+      "sid": 516,
+      "location": 2,
+      "content": "因为他们的家庭",
+      "music": 0.0
+    },
+    {
+      "from": 985.08,
+      "to": 987.18,
+      "sid": 517,
+      "location": 2,
+      "content": "已经为他们提供了富足的生活条件",
+      "music": 0.0
+    },
+    {
+      "from": 987.18,
+      "to": 989.08,
+      "sid": 518,
+      "location": 2,
+      "content": "他们才有机会去投身各种运动",
+      "music": 0.0
+    },
+    {
+      "from": 989.08,
+      "to": 990.6,
+      "sid": 519,
+      "location": 2,
+      "content": "而不必担心衣食住行",
+      "music": 0.0
+    },
+    {
+      "from": 990.6,
+      "to": 993.64,
+      "sid": 520,
+      "location": 2,
+      "content": "当时青年还流行去尼泊尔之类的地方旅行",
+      "music": 0.0
+    },
+    {
+      "from": 993.64,
+      "to": 995.58,
+      "sid": 521,
+      "location": 2,
+      "content": "但正是因为美国经济强大",
+      "music": 0.0
+    },
+    {
+      "from": 995.58,
+      "to": 998.18,
+      "sid": 522,
+      "location": 2,
+      "content": "他们才能在当地每天靠着一美元生活",
+      "music": 0.0
+    },
+    {
+      "from": 998.18,
+      "to": 1000.38,
+      "sid": 523,
+      "location": 2,
+      "content": "换言之饿他们几天就老实了",
+      "music": 0.0
+    },
+    {
+      "from": 1000.38,
+      "to": 1003.48,
+      "sid": 524,
+      "location": 2,
+      "content": "所谓的反主流不仅没法摧毁资本主义",
+      "music": 0.0
+    },
+    {
+      "from": 1003.48,
+      "to": 1005.98,
+      "sid": 525,
+      "location": 2,
+      "content": "反而还会对资本主义起到促进作用",
+      "music": 0.0
+    },
+    {
+      "from": 1005.98,
+      "to": 1008.42,
+      "sid": 526,
+      "location": 2,
+      "content": "这样大家需要通过购买特定的符号物",
+      "music": 0.0
+    },
+    {
+      "from": 1008.42,
+      "to": 1010.32,
+      "sid": 527,
+      "location": 2,
+      "content": "才能彰显自己的离经叛道",
+      "music": 0.0
+    },
+    {
+      "from": 1010.32,
+      "to": 1012.8,
+      "sid": 528,
+      "location": 2,
+      "content": "说明这种文化是建立在消费之上的",
+      "music": 0.0
+    },
+    {
+      "from": 1012.8,
+      "to": 1014.56,
+      "sid": 529,
+      "location": 2,
+      "content": "就跟现在rap总要穿潮牌",
+      "music": 0.0
+    },
+    {
+      "from": 1014.56,
+      "to": 1015.64,
+      "sid": 530,
+      "location": 2,
+      "content": "带金属饰品",
+      "music": 0.0
+    },
+    {
+      "from": 1015.64,
+      "to": 1016.94,
+      "sid": 531,
+      "location": 2,
+      "content": "摇滚总要穿皮衣",
+      "music": 0.0
+    },
+    {
+      "from": 1016.94,
+      "to": 1017.74,
+      "sid": 532,
+      "location": 2,
+      "content": "一骑机车",
+      "music": 0.0
+    },
+    {
+      "from": 1017.74,
+      "to": 1019.76,
+      "sid": 533,
+      "location": 2,
+      "content": "文青总要去咖啡厅打卡一样",
+      "music": 0.0
+    },
+    {
+      "from": 1019.76,
+      "to": 1022.28,
+      "sid": 534,
+      "location": 2,
+      "content": "大家越渴望用物质来实现自我表达",
+      "music": 0.0
+    },
+    {
+      "from": 1022.28,
+      "to": 1023.4,
+      "sid": 535,
+      "location": 2,
+      "content": "越会刺激商业",
+      "music": 0.0
+    },
+    {
+      "from": 1023.4,
+      "to": 1025.58,
+      "sid": 536,
+      "location": 2,
+      "content": "而不会对政治产生任何影响",
+      "music": 0.0
+    },
+    {
+      "from": 1025.58,
+      "to": 1026.46,
+      "sid": 537,
+      "location": 2,
+      "content": "至于商家呢",
+      "music": 0.0
+    },
+    {
+      "from": 1026.46,
+      "to": 1028.12,
+      "sid": 538,
+      "location": 2,
+      "content": "不但不反感反主流文化",
+      "music": 0.0
+    },
+    {
+      "from": 1028.12,
+      "to": 1029.1,
+      "sid": 539,
+      "location": 2,
+      "content": "反而还很支持",
+      "music": 0.0
+    },
+    {
+      "from": 1029.1,
+      "to": 1031.2,
+      "sid": 540,
+      "location": 2,
+      "content": "理由是这种文化更新周期太短了",
+      "music": 0.0
+    },
+    {
+      "from": 1031.2,
+      "to": 1034.04,
+      "sid": 541,
+      "location": 2,
+      "content": "某种新风格流行后很快就会被众人模仿",
+      "music": 0.0
+    },
+    {
+      "from": 1034.04,
+      "to": 1034.74,
+      "sid": 542,
+      "location": 2,
+      "content": "然后过时",
+      "music": 0.0
+    },
+    {
+      "from": 1034.74,
+      "to": 1037.22,
+      "sid": 543,
+      "location": 2,
+      "content": "于是那些先行者们就会感到非常恼火",
+      "music": 0.0
+    },
+    {
+      "from": 1037.22,
+      "to": 1039.72,
+      "sid": 544,
+      "location": 2,
+      "content": "因为他们建立起的优越感已经被抹平了",
+      "music": 0.0
+    },
+    {
+      "from": 1039.72,
+      "to": 1041.7,
+      "sid": 545,
+      "location": 2,
+      "content": "前几年JKLOLITA大火",
+      "music": 0.0
+    },
+    {
+      "from": 1041.7,
+      "to": 1044.1,
+      "sid": 546,
+      "location": 2,
+      "content": "经常有圈内的姐妹去攻击圈外人",
+      "music": 0.0
+    },
+    {
+      "from": 1044.1,
+      "to": 1046.54,
+      "sid": 547,
+      "location": 2,
+      "content": "还有很多小众文化圈子非常排外",
+      "music": 0.0
+    },
+    {
+      "from": 1046.54,
+      "to": 1048.539,
+      "sid": 548,
+      "location": 2,
+      "content": "魔怔都是基于这个理由啊",
+      "music": 0.0
+    },
+    {
+      "from": 1048.539,
+      "to": 1050.139,
+      "sid": 549,
+      "location": 2,
+      "content": "当这种文化彻底出圈",
+      "music": 0.0
+    },
+    {
+      "from": 1050.139,
+      "to": 1051.659,
+      "sid": 550,
+      "location": 2,
+      "content": "无法建立优越感以后",
+      "music": 0.0
+    },
+    {
+      "from": 1051.659,
+      "to": 1054.199,
+      "sid": 551,
+      "location": 2,
+      "content": "这些潮人就会放弃先前那些审美坚持",
+      "music": 0.0
+    },
+    {
+      "from": 1054.199,
+      "to": 1056.1,
+      "sid": 552,
+      "location": 2,
+      "content": "转而去追求更新潮的时尚",
+      "music": 0.0
+    },
+    {
+      "from": 1056.1,
+      "to": 1058.58,
+      "sid": 553,
+      "location": 2,
+      "content": "寻找更能让自己出众的新消费方式",
+      "music": 0.0
+    },
+    {
+      "from": 1061.2,
+      "to": 1064.9,
+      "sid": 554,
+      "location": 2,
+      "content": "更何况欧美老一辈是崇尚节俭储蓄禁欲的",
+      "music": 0.0
+    },
+    {
+      "from": 1064.9,
+      "to": 1067.68,
+      "sid": 555,
+      "location": 2,
+      "content": "而60年代搞反主流文化的那些年轻人",
+      "music": 0.0
+    },
+    {
+      "from": 1067.68,
+      "to": 1069.58,
+      "sid": 556,
+      "location": 2,
+      "content": "那是完全抛弃了这些精神",
+      "music": 0.0
+    },
+    {
+      "from": 1069.58,
+      "to": 1071.1,
+      "sid": 557,
+      "location": 2,
+      "content": "主打一个及时行乐",
+      "music": 0.0
+    },
+    {
+      "from": 1071.1,
+      "to": 1072.6,
+      "sid": 558,
+      "location": 2,
+      "content": "有多少钱就花多少钱",
+      "music": 0.0
+    },
+    {
+      "from": 1072.6,
+      "to": 1073.76,
+      "sid": 559,
+      "location": 2,
+      "content": "商家都笑麻了",
+      "music": 0.0
+    },
+    {
+      "from": 1073.76,
+      "to": 1076.5,
+      "sid": 560,
+      "location": 2,
+      "content": "有一个例子更能说明资本主义的包容性",
+      "music": 0.0
+    },
+    {
+      "from": 1076.5,
+      "to": 1077.32,
+      "sid": 561,
+      "location": 2,
+      "content": "前面说过",
+      "music": 0.0
+    },
+    {
+      "from": 1077.32,
+      "to": 1079.6,
+      "sid": 562,
+      "location": 2,
+      "content": "反主流文化起初反的就是资本",
+      "music": 0.0
+    },
+    {
+      "from": 1079.6,
+      "to": 1082.38,
+      "sid": 563,
+      "location": 2,
+      "content": "以及反对大型商业公司对社会的操控",
+      "music": 0.0
+    },
+    {
+      "from": 1082.38,
+      "to": 1084.04,
+      "sid": 564,
+      "location": 2,
+      "content": "尤其是那些广告活动",
+      "music": 0.0
+    },
+    {
+      "from": 1084.04,
+      "to": 1086.46,
+      "sid": 565,
+      "location": 2,
+      "content": "商人们居高临下地展示他们的产品",
+      "music": 0.0
+    },
+    {
+      "from": 1086.46,
+      "to": 1089.24,
+      "sid": 566,
+      "location": 2,
+      "content": "告诉你只要买了某件商品才能融入社会",
+      "music": 0.0
+    },
+    {
+      "from": 1089.24,
+      "to": 1092.28,
+      "sid": 567,
+      "location": 2,
+      "content": "特别是汽车行业的广告从来不讲参数",
+      "music": 0.0
+    },
+    {
+      "from": 1092.28,
+      "to": 1094.08,
+      "sid": 568,
+      "location": 2,
+      "content": "而是给观众带来一种权利",
+      "music": 0.0
+    },
+    {
+      "from": 1094.08,
+      "to": 1096.2,
+      "sid": 569,
+      "location": 2,
+      "content": "想象这个车就是成功的象征",
+      "music": 0.0
+    },
+    {
+      "from": 1096.2,
+      "to": 1097.1,
+      "sid": 570,
+      "location": 2,
+      "content": "你开了这个车",
+      "music": 0.0
+    },
+    {
+      "from": 1097.1,
+      "to": 1097.96,
+      "sid": 571,
+      "location": 2,
+      "content": "你就有威严",
+      "music": 0.0
+    },
+    {
+      "from": 1097.96,
+      "to": 1098.88,
+      "sid": 572,
+      "location": 2,
+      "content": "就是人上人",
+      "music": 0.0
+    },
+    {
+      "from": 1098.88,
+      "to": 1100.48,
+      "sid": 573,
+      "location": 2,
+      "content": "但反主流文化流行后呢",
+      "music": 0.0
+    },
+    {
+      "from": 1100.48,
+      "to": 1103.3,
+      "sid": 574,
+      "location": 2,
+      "content": "德国大众给甲壳虫汽车打了一个这样的广告",
+      "music": 0.0
+    },
+    {
+      "from": 1103.3,
+      "to": 1104.82,
+      "sid": 575,
+      "location": 2,
+      "content": "他自嘲自己很简陋",
+      "music": 0.0
+    },
+    {
+      "from": 1104.82,
+      "to": 1106.67,
+      "sid": 576,
+      "location": 2,
+      "content": "还自嘲这个车很狭小",
+      "music": 0.0
+    },
+    {
+      "from": 1106.67,
+      "to": 1108.75,
+      "sid": 577,
+      "location": 2,
+      "content": "它让你的房子看起来更大",
+      "music": 0.0
+    },
+    {
+      "from": 1108.75,
+      "to": 1109.67,
+      "sid": 578,
+      "location": 2,
+      "content": "最大胆的是",
+      "music": 0.0
+    },
+    {
+      "from": 1109.67,
+      "to": 1112.11,
+      "sid": 579,
+      "location": 2,
+      "content": "这句广告词丑陋缓慢",
+      "music": 0.0
+    },
+    {
+      "from": 1112.11,
+      "to": 1113.51,
+      "sid": 580,
+      "location": 2,
+      "content": "吵闹昂贵",
+      "music": 0.0
+    },
+    {
+      "from": 1113.51,
+      "to": 1116.3,
+      "sid": 581,
+      "location": 2,
+      "content": "这种自嘲式的谦虚显得很叛逆",
+      "music": 0.0
+    },
+    {
+      "from": 1116.3,
+      "to": 1118.9,
+      "sid": 582,
+      "location": 2,
+      "content": "但他讽刺的是整个美国的汽车行业",
+      "music": 0.0
+    },
+    {
+      "from": 1118.9,
+      "to": 1121.94,
+      "sid": 583,
+      "location": 2,
+      "content": "因为当时美国的汽车行业普遍有计划废纸制",
+      "music": 0.0
+    },
+    {
+      "from": 1121.94,
+      "to": 1124.66,
+      "sid": 584,
+      "location": 2,
+      "content": "就是说在汽车设计时会有计划的考虑",
+      "music": 0.0
+    },
+    {
+      "from": 1124.66,
+      "to": 1126.28,
+      "sid": 585,
+      "location": 2,
+      "content": "以后几年会更换的设计",
+      "music": 0.0
+    },
+    {
+      "from": 1126.28,
+      "to": 1129.18,
+      "sid": 586,
+      "location": 2,
+      "content": "这样几年后现有的汽车式样就老化了",
+      "music": 0.0
+    },
+    {
+      "from": 1129.18,
+      "to": 1130.72,
+      "sid": 587,
+      "location": 2,
+      "content": "大家就会有动力买新的",
+      "music": 0.0
+    },
+    {
+      "from": 1130.72,
+      "to": 1132.82,
+      "sid": 588,
+      "location": 2,
+      "content": "而大众甲壳虫这样的广告一打",
+      "music": 0.0
+    },
+    {
+      "from": 1132.82,
+      "to": 1134.34,
+      "sid": 589,
+      "location": 2,
+      "content": "不仅嘲讽程度拉满",
+      "music": 0.0
+    },
+    {
+      "from": 1134.34,
+      "to": 1136.6,
+      "sid": 590,
+      "location": 2,
+      "content": "还充分迎合了当时的反主流文化",
+      "music": 0.0
+    },
+    {
+      "from": 1136.6,
+      "to": 1138.18,
+      "sid": 591,
+      "location": 2,
+      "content": "立即受到消费者追捧",
+      "music": 0.0
+    },
+    {
+      "from": 1138.18,
+      "to": 1139.94,
+      "sid": 592,
+      "location": 2,
+      "content": "很快别的品牌也开始跟进了",
+      "music": 0.0
+    },
+    {
+      "from": 1139.94,
+      "to": 1140.66,
+      "sid": 593,
+      "location": 2,
+      "content": "譬如沃尔沃",
+      "music": 0.0
+    },
+    {
+      "from": 1140.66,
+      "to": 1143.46,
+      "sid": 594,
+      "location": 2,
+      "content": "1964年的广告是不爱车之人的汽车",
+      "music": 0.0
+    },
+    {
+      "from": 1143.46,
+      "to": 1145.72,
+      "sid": 595,
+      "location": 2,
+      "content": "以此嘲讽那些经常换汽车的人",
+      "music": 0.0
+    },
+    {
+      "from": 1145.72,
+      "to": 1146.58,
+      "sid": 596,
+      "location": 2,
+      "content": "道奇的广告",
+      "music": 0.0
+    },
+    {
+      "from": 1146.58,
+      "to": 1148.88,
+      "sid": 597,
+      "location": 2,
+      "content": "是你准备好加入道奇叛乱了吗",
+      "music": 0.0
+    },
+    {
+      "from": 1148.88,
+      "to": 1151.02,
+      "sid": 598,
+      "location": 2,
+      "content": "被视为独立和叛逆的象征",
+      "music": 0.0
+    },
+    {
+      "from": 1151.02,
+      "to": 1152.5,
+      "sid": 599,
+      "location": 2,
+      "content": "所以管你反叛什么",
+      "music": 0.0
+    },
+    {
+      "from": 1152.5,
+      "to": 1154.28,
+      "sid": 600,
+      "location": 2,
+      "content": "对资本根本毫无影响",
+      "music": 0.0
+    },
+    {
+      "from": 1154.28,
+      "to": 1156.86,
+      "sid": 601,
+      "location": 2,
+      "content": "他们只需要调整广告的语言风格就行了",
+      "music": 0.0
+    },
+    {
+      "from": 1156.86,
+      "to": 1159.84,
+      "sid": 602,
+      "location": 2,
+      "content": "而且这些广告还会声称某种新的消费方式",
+      "music": 0.0
+    },
+    {
+      "from": 1159.84,
+      "to": 1162.52,
+      "sid": 603,
+      "location": 2,
+      "content": "就是为了让人们不被旧有的消费所捆绑",
+      "music": 0.0
+    },
+    {
+      "from": 1162.52,
+      "to": 1164.06,
+      "sid": 604,
+      "location": 2,
+      "content": "以前广告强调卓越",
+      "music": 0.0
+    },
+    {
+      "from": 1164.06,
+      "to": 1165.68,
+      "sid": 605,
+      "location": 2,
+      "content": "强调我们的产品是最好的",
+      "music": 0.0
+    },
+    {
+      "from": 1165.68,
+      "to": 1167.06,
+      "sid": 606,
+      "location": 2,
+      "content": "现在则强调自由",
+      "music": 0.0
+    },
+    {
+      "from": 1167.06,
+      "to": 1169.08,
+      "sid": 607,
+      "location": 2,
+      "content": "鼓励消费者做真实的自己",
+      "music": 0.0
+    },
+    {
+      "from": 1169.08,
+      "to": 1170.7,
+      "sid": 608,
+      "location": 2,
+      "content": "把这个套路玩到极致的是",
+      "music": 0.0
+    },
+    {
+      "from": 1170.7,
+      "to": 1172.42,
+      "sid": 609,
+      "location": 2,
+      "content": "苹果这家公司成立以来",
+      "music": 0.0
+    },
+    {
+      "from": 1172.42,
+      "to": 1174.98,
+      "sid": 610,
+      "location": 2,
+      "content": "就一直致力于为自己塑造叛逆的形象",
+      "music": 0.0
+    },
+    {
+      "from": 1174.98,
+      "to": 1177.0,
+      "sid": 611,
+      "location": 2,
+      "content": "1984年麦金塔发布时",
+      "music": 0.0
+    },
+    {
+      "from": 1177.0,
+      "to": 1179.22,
+      "sid": 612,
+      "location": 2,
+      "content": "苹果就委托导演做了一个电视广告",
+      "music": 0.0
+    },
+    {
+      "from": 1179.22,
+      "to": 1180.38,
+      "sid": 613,
+      "location": 2,
+      "content": "开场是一个礼堂",
+      "music": 0.0
+    },
+    {
+      "from": 1180.38,
+      "to": 1181.3,
+      "sid": 614,
+      "location": 2,
+      "content": "巨大的屏幕上",
+      "music": 0.0
+    },
+    {
+      "from": 1181.3,
+      "to": 1183.9,
+      "sid": 615,
+      "location": 2,
+      "content": "有一个1984里面那种风格的老大哥",
+      "music": 0.0
+    },
+    {
+      "from": 1183.9,
+      "to": 1186.72,
+      "sid": 616,
+      "location": 2,
+      "content": "对着昏昏欲睡的人群发表傲慢的演讲",
+      "music": 0.0
+    },
+    {
+      "from": 1186.72,
+      "to": 1188.4,
+      "sid": 617,
+      "location": 2,
+      "content": "突然一个穿着麦金塔上衣的",
+      "music": 0.0
+    },
+    {
+      "from": 1188.4,
+      "to": 1190.16,
+      "sid": 618,
+      "location": 2,
+      "content": "年轻女运动员跑了过来",
+      "music": 0.0
+    },
+    {
+      "from": 1190.16,
+      "to": 1191.72,
+      "sid": 619,
+      "location": 2,
+      "content": "身后还有士兵在追赶",
+      "music": 0.0
+    },
+    {
+      "from": 1191.72,
+      "to": 1193.78,
+      "sid": 620,
+      "location": 2,
+      "content": "这个运动员还是跑到了屏幕前",
+      "music": 0.0
+    },
+    {
+      "from": 1193.78,
+      "to": 1195.32,
+      "sid": 621,
+      "location": 2,
+      "content": "拿着大锤砸掉了屏幕",
+      "music": 0.0
+    },
+    {
+      "from": 1195.32,
+      "to": 1196.92,
+      "sid": 622,
+      "location": 2,
+      "content": "然后画外音评论道",
+      "music": 0.0
+    },
+    {
+      "from": 1196.92,
+      "to": 1199.08,
+      "sid": 623,
+      "location": 2,
+      "content": "1984年1月24日",
+      "music": 0.0
+    },
+    {
+      "from": 1199.08,
+      "to": 1200.7,
+      "sid": 624,
+      "location": 2,
+      "content": "苹果将发布麦金塔",
+      "music": 0.0
+    },
+    {
+      "from": 1200.7,
+      "to": 1203.22,
+      "sid": 625,
+      "location": 2,
+      "content": "你会明白为什么1984年不会像小说",
+      "music": 0.0
+    },
+    {
+      "from": 1203.22,
+      "to": 1204.4,
+      "sid": 626,
+      "location": 2,
+      "content": "1984年那样",
+      "music": 0.0
+    },
+    {
+      "from": 1207.68,
+      "to": 1210.88,
+      "sid": 627,
+      "location": 2,
+      "content": "因为他的形象就是没有灵魂的工业化的苹果",
+      "music": 0.0
+    },
+    {
+      "from": 1210.88,
+      "to": 1211.8,
+      "sid": 628,
+      "location": 2,
+      "content": "则是解放者",
+      "music": 0.0
+    },
+    {
+      "from": 1211.8,
+      "to": 1213.16,
+      "sid": 629,
+      "location": 2,
+      "content": "把计算机的控制权",
+      "music": 0.0
+    },
+    {
+      "from": 1213.16,
+      "to": 1215.5,
+      "sid": 630,
+      "location": 2,
+      "content": "从大企业和政府的魔掌中夺走了",
+      "music": 0.0
+    },
+    {
+      "from": 1215.5,
+      "to": 1217.2,
+      "sid": 631,
+      "location": 2,
+      "content": "交到了平民百姓手上",
+      "music": 0.0
+    },
+    {
+      "from": 1217.2,
+      "to": 1219.2,
+      "sid": 632,
+      "location": 2,
+      "content": "这与我自己的感受相当",
+      "music": 0.0
+    },
+    {
+      "from": 1219.2,
+      "to": 1221.04,
+      "sid": 633,
+      "location": 2,
+      "content": "我是2019年做up主",
+      "music": 0.0
+    },
+    {
+      "from": 1221.04,
+      "to": 1221.88,
+      "sid": 634,
+      "location": 2,
+      "content": "没过几个月",
+      "music": 0.0
+    },
+    {
+      "from": 1221.88,
+      "to": 1223.17,
+      "sid": 635,
+      "location": 2,
+      "content": "知识区就崛起了",
+      "music": 0.0
+    },
+    {
+      "from": 1223.17,
+      "to": 1225.85,
+      "sid": 636,
+      "location": 2,
+      "content": "然后知识区当时盛行的内容就是解构",
+      "music": 0.0
+    },
+    {
+      "from": 1225.85,
+      "to": 1227.31,
+      "sid": 637,
+      "location": 2,
+      "content": "批判这个批判那个",
+      "music": 0.0
+    },
+    {
+      "from": 1227.31,
+      "to": 1230.82,
+      "sid": 638,
+      "location": 2,
+      "content": "所以2020年B站掀起了一股反资本的热潮",
+      "music": 0.0
+    },
+    {
+      "from": 1230.82,
+      "to": 1233.62,
+      "sid": 639,
+      "location": 2,
+      "content": "但实际上我们up主的商单并没有减少",
+      "music": 0.0
+    },
+    {
+      "from": 1233.62,
+      "to": 1234.86,
+      "sid": 640,
+      "location": 2,
+      "content": "而且都换了话术",
+      "music": 0.0
+    },
+    {
+      "from": 1234.86,
+      "to": 1237.02,
+      "sid": 641,
+      "location": 2,
+      "content": "强调这个游戏不是大资本做的",
+      "music": 0.0
+    },
+    {
+      "from": 1237.02,
+      "to": 1238.84,
+      "sid": 642,
+      "location": 2,
+      "content": "是一群热爱内容的人做的",
+      "music": 0.0
+    },
+    {
+      "from": 1238.84,
+      "to": 1240.22,
+      "sid": 643,
+      "location": 2,
+      "content": "强调消费主义不好",
+      "music": 0.0
+    },
+    {
+      "from": 1240.22,
+      "to": 1241.6,
+      "sid": 644,
+      "location": 2,
+      "content": "所以这个品牌很实用",
+      "music": 0.0
+    },
+    {
+      "from": 1241.6,
+      "to": 1243.4,
+      "sid": 645,
+      "location": 2,
+      "content": "没有花里胡哨的那个平台",
+      "music": 0.0
+    },
+    {
+      "from": 1243.4,
+      "to": 1245.83,
+      "sid": 646,
+      "location": 2,
+      "content": "有更加便宜的东西可买等等等等",
+      "music": 0.0
+    },
+    {
+      "from": 1245.83,
+      "to": 1246.77,
+      "sid": 647,
+      "location": 2,
+      "content": "包括现在",
+      "music": 0.0
+    },
+    {
+      "from": 1246.77,
+      "to": 1249.65,
+      "sid": 648,
+      "location": 2,
+      "content": "我虽然2020年早就做了消费主义的视频",
+      "music": 0.0
+    },
+    {
+      "from": 1249.65,
+      "to": 1251.27,
+      "sid": 649,
+      "location": 2,
+      "content": "但突然悟出这个话题",
+      "music": 0.0
+    },
+    {
+      "from": 1251.27,
+      "to": 1252.39,
+      "sid": 650,
+      "location": 2,
+      "content": "最近很多人关心",
+      "music": 0.0
+    },
+    {
+      "from": 1252.39,
+      "to": 1253.62,
+      "sid": 651,
+      "location": 2,
+      "content": "于是又出了一期",
+      "music": 0.0
+    },
+    {
+      "from": 1253.62,
+      "to": 1254.94,
+      "sid": 652,
+      "location": 2,
+      "content": "如果这期视频爆了",
+      "music": 0.0
+    },
+    {
+      "from": 1254.94,
+      "to": 1256.92,
+      "sid": 653,
+      "location": 2,
+      "content": "那说明我又迎合市场成功了",
+      "music": 0.0
+    },
+    {
+      "from": 1256.92,
+      "to": 1258.42,
+      "sid": 654,
+      "location": 2,
+      "content": "还有男女对立加剧",
+      "music": 0.0
+    },
+    {
+      "from": 1258.42,
+      "to": 1260.16,
+      "sid": 655,
+      "location": 2,
+      "content": "于是有人专注女性赛道",
+      "music": 0.0
+    },
+    {
+      "from": 1260.16,
+      "to": 1261.36,
+      "sid": 656,
+      "location": 2,
+      "content": "宣传女权理论",
+      "music": 0.0
+    },
+    {
+      "from": 1261.36,
+      "to": 1262.7,
+      "sid": 657,
+      "location": 2,
+      "content": "有人专注男性赛道",
+      "music": 0.0
+    },
+    {
+      "from": 1262.7,
+      "to": 1263.78,
+      "sid": 658,
+      "location": 2,
+      "content": "宣传男性觉醒",
+      "music": 0.0
+    },
+    {
+      "from": 1263.78,
+      "to": 1265.26,
+      "sid": 659,
+      "location": 2,
+      "content": "男人要对自己好一点",
+      "music": 0.0
+    },
+    {
+      "from": 1265.26,
+      "to": 1268.58,
+      "sid": 660,
+      "location": 2,
+      "content": "但有可能两个赛道的up都是同一家MCN旗下的",
+      "music": 0.0
+    },
+    {
+      "from": 1268.58,
+      "to": 1271.06,
+      "sid": 661,
+      "location": 2,
+      "content": "这种内容行业的对立加剧与切割",
+      "music": 0.0
+    },
+    {
+      "from": 1271.06,
+      "to": 1272.26,
+      "sid": 662,
+      "location": 2,
+      "content": "不止自媒体",
+      "music": 0.0
+    },
+    {
+      "from": 1272.26,
+      "to": 1273.06,
+      "sid": 663,
+      "location": 2,
+      "content": "影视剧",
+      "music": 0.0
+    },
+    {
+      "from": 1273.06,
+      "to": 1275.26,
+      "sid": 664,
+      "location": 2,
+      "content": "网文游戏都出现了这种现象",
+      "music": 0.0
+    },
+    {
+      "from": 1275.26,
+      "to": 1277.58,
+      "sid": 665,
+      "location": 2,
+      "content": "譬如游戏圈有人宣扬有南部玩理论",
+      "music": 0.0
+    },
+    {
+      "from": 1277.58,
+      "to": 1279.82,
+      "sid": 666,
+      "location": 2,
+      "content": "于是就有人做极致魅男的游戏",
+      "music": 0.0
+    },
+    {
+      "from": 1279.82,
+      "to": 1282.24,
+      "sid": 667,
+      "location": 2,
+      "content": "但可能同一家公司的另一个工作室",
+      "music": 0.0
+    },
+    {
+      "from": 1282.24,
+      "to": 1283.9,
+      "sid": 668,
+      "location": 2,
+      "content": "又有极致魅女的游戏",
+      "music": 0.0
+    },
+    {
+      "from": 1283.9,
+      "to": 1286.05,
+      "sid": 669,
+      "location": 2,
+      "content": "就跟前面联合利华的例子一样",
+      "music": 0.0
+    },
+    {
+      "from": 1286.05,
+      "to": 1288.95,
+      "sid": 670,
+      "location": 2,
+      "content": "资本只需要做一堆细分赛道的产品就好了",
+      "music": 0.0
+    },
+    {
+      "from": 1288.95,
+      "to": 1291.05,
+      "sid": 671,
+      "location": 2,
+      "content": "所以说无论你反主流还是反什么",
+      "music": 0.0
+    },
+    {
+      "from": 1291.05,
+      "to": 1293.41,
+      "sid": 672,
+      "location": 2,
+      "content": "这种文化本质上就是根植于商业的",
+      "music": 0.0
+    },
+    {
+      "from": 1293.41,
+      "to": 1295.5,
+      "sid": 673,
+      "location": 2,
+      "content": "他们也只能在基础设施完善",
+      "music": 0.0
+    },
+    {
+      "from": 1295.5,
+      "to": 1296.32,
+      "sid": 674,
+      "location": 2,
+      "content": "通信发达",
+      "music": 0.0
+    },
+    {
+      "from": 1296.32,
+      "to": 1298.48,
+      "sid": 675,
+      "location": 2,
+      "content": "市场成熟的情况下才能得到发展",
+      "music": 0.0
+    },
+    {
+      "from": 1298.48,
+      "to": 1299.76,
+      "sid": 676,
+      "location": 2,
+      "content": "而且更可悲的是",
+      "music": 0.0
+    },
+    {
+      "from": 1299.76,
+      "to": 1300.72,
+      "sid": 677,
+      "location": 2,
+      "content": "这个时代中",
+      "music": 0.0
+    },
+    {
+      "from": 1300.72,
+      "to": 1302.08,
+      "sid": 678,
+      "location": 2,
+      "content": "如果你无法消费",
+      "music": 0.0
+    },
+    {
+      "from": 1302.08,
+      "to": 1303.68,
+      "sid": 679,
+      "location": 2,
+      "content": "你就是一种新穷人",
+      "music": 0.0
+    },
+    {
+      "from": 1303.68,
+      "to": 1304.94,
+      "sid": 680,
+      "location": 2,
+      "content": "这是什么意思呢",
+      "music": 0.0
+    },
+    {
+      "from": 1304.94,
+      "to": 1307.04,
+      "sid": 681,
+      "location": 2,
+      "content": "原来我们是一个生产型社会",
+      "music": 0.0
+    },
+    {
+      "from": 1307.04,
+      "to": 1308.5,
+      "sid": 682,
+      "location": 2,
+      "content": "大家都种田畜牧",
+      "music": 0.0
+    },
+    {
+      "from": 1308.5,
+      "to": 1309.8,
+      "sid": 683,
+      "location": 2,
+      "content": "物质相对匮乏",
+      "music": 0.0
+    },
+    {
+      "from": 1309.8,
+      "to": 1311.84,
+      "sid": 684,
+      "location": 2,
+      "content": "一场天灾就有可能闹饥荒",
+      "music": 0.0
+    },
+    {
+      "from": 1311.84,
+      "to": 1313.46,
+      "sid": 685,
+      "location": 2,
+      "content": "所以在生产型社会中",
+      "music": 0.0
+    },
+    {
+      "from": 1313.46,
+      "to": 1315.08,
+      "sid": 686,
+      "location": 2,
+      "content": "大家是赞扬贫穷的",
+      "music": 0.0
+    },
+    {
+      "from": 1315.08,
+      "to": 1316.52,
+      "sid": 687,
+      "location": 2,
+      "content": "比如西方的宗教教义",
+      "music": 0.0
+    },
+    {
+      "from": 1316.52,
+      "to": 1319.62,
+      "sid": 688,
+      "location": 2,
+      "content": "认为富人进天堂比骆驼穿过针眼都困难",
+      "music": 0.0
+    },
+    {
+      "from": 1319.62,
+      "to": 1321.34,
+      "sid": 689,
+      "location": 2,
+      "content": "中国和部分周边的地区",
+      "music": 0.0
+    },
+    {
+      "from": 1321.34,
+      "to": 1323.38,
+      "sid": 690,
+      "location": 2,
+      "content": "以儒家思想为主要的信仰体系",
+      "music": 0.0
+    },
+    {
+      "from": 1323.38,
+      "to": 1326.0,
+      "sid": 691,
+      "location": 2,
+      "content": "主张普通人不应该沉迷于物质享受",
+      "music": 0.0
+    },
+    {
+      "from": 1326.0,
+      "to": 1327.88,
+      "sid": 692,
+      "location": 2,
+      "content": "对财富的追逐是可比的",
+      "music": 0.0
+    },
+    {
+      "from": 1327.88,
+      "to": 1328.72,
+      "sid": 693,
+      "location": 2,
+      "content": "这样一来呢",
+      "music": 0.0
+    },
+    {
+      "from": 1328.72,
+      "to": 1329.98,
+      "sid": 694,
+      "location": 2,
+      "content": "穷人尽管很苦",
+      "music": 0.0
+    },
+    {
+      "from": 1329.98,
+      "to": 1332.66,
+      "sid": 695,
+      "location": 2,
+      "content": "但在精神上是可以得到极大的安慰的",
+      "music": 0.0
+    },
+    {
+      "from": 1332.66,
+      "to": 1334.34,
+      "sid": 696,
+      "location": 2,
+      "content": "马克思的理论出现后",
+      "music": 0.0
+    },
+    {
+      "from": 1334.34,
+      "to": 1335.38,
+      "sid": 697,
+      "location": 2,
+      "content": "相比于富人",
+      "music": 0.0
+    },
+    {
+      "from": 1335.38,
+      "to": 1337.98,
+      "sid": 698,
+      "location": 2,
+      "content": "穷人甚至处于精神上的优越地位",
+      "music": 0.0
+    },
+    {
+      "from": 1337.98,
+      "to": 1340.52,
+      "sid": 699,
+      "location": 2,
+      "content": "因为无产阶级是资产阶级的掘墓人",
+      "music": 0.0
+    },
+    {
+      "from": 1340.52,
+      "to": 1342.78,
+      "sid": 700,
+      "location": 2,
+      "content": "穷人那是要给富人操办仪式的",
+      "music": 0.0
+    },
+    {
+      "from": 1342.78,
+      "to": 1343.96,
+      "sid": 701,
+      "location": 2,
+      "content": "那能不优越吗",
+      "music": 0.0
+    },
+    {
+      "from": 1343.96,
+      "to": 1346.74,
+      "sid": 702,
+      "location": 2,
+      "content": "大家还能自豪地说出你工人爷爷来了",
+      "music": 0.0
+    },
+    {
+      "from": 1346.74,
+      "to": 1348.2,
+      "sid": 703,
+      "location": 2,
+      "content": "然而到了消费社会",
+      "music": 0.0
+    },
+    {
+      "from": 1348.2,
+      "to": 1351.56,
+      "sid": 704,
+      "location": 2,
+      "content": "贫穷意味着你直接被排除在了日常生活之外",
+      "music": 0.0
+    },
+    {
+      "from": 1351.56,
+      "to": 1354.28,
+      "sid": 705,
+      "location": 2,
+      "content": "因为你没法用任何消费定义自己的风格",
+      "music": 0.0
+    },
+    {
+      "from": 1354.28,
+      "to": 1357.68,
+      "sid": 706,
+      "location": 2,
+      "content": "这就会造成穷人在心理上产生一种自我屈辱感",
+      "music": 0.0
+    },
+    {
+      "from": 1357.68,
+      "to": 1358.9,
+      "sid": 707,
+      "location": 2,
+      "content": "作为一个消费社会",
+      "music": 0.0
+    },
+    {
+      "from": 1358.9,
+      "to": 1359.94,
+      "sid": 708,
+      "location": 2,
+      "content": "只有不断消耗",
+      "music": 0.0
+    },
+    {
+      "from": 1359.94,
+      "to": 1361.44,
+      "sid": 709,
+      "location": 2,
+      "content": "才能源源不断的产出",
+      "music": 0.0
+    },
+    {
+      "from": 1361.44,
+      "to": 1362.88,
+      "sid": 710,
+      "location": 2,
+      "content": "社会才能维持运转",
+      "music": 0.0
+    },
+    {
+      "from": 1362.88,
+      "to": 1365.64,
+      "sid": 711,
+      "location": 2,
+      "content": "而当新穷人们不能理举行消费这一责任",
+      "music": 0.0
+    },
+    {
+      "from": 1365.64,
+      "to": 1368.04,
+      "sid": 712,
+      "location": 2,
+      "content": "他们对于社会来讲变得非常多余",
+      "music": 0.0
+    },
+    {
+      "from": 1368.04,
+      "to": 1370.22,
+      "sid": 713,
+      "location": 2,
+      "content": "这就是新穷人的内涵和悲剧",
+      "music": 0.0
+    },
+    {
+      "from": 1370.22,
+      "to": 1372.99,
+      "sid": 714,
+      "location": 2,
+      "content": "这也是世界各国都要刺激生育的原因",
+      "music": 0.0
+    },
+    {
+      "from": 1372.99,
+      "to": 1374.43,
+      "sid": 715,
+      "location": 2,
+      "content": "不是需要他们生产",
+      "music": 0.0
+    },
+    {
+      "from": 1374.43,
+      "to": 1375.77,
+      "sid": 716,
+      "location": 2,
+      "content": "而是需要他们消费",
+      "music": 0.0
+    },
+    {
+      "from": 1375.77,
+      "to": 1378.4,
+      "sid": 717,
+      "location": 2,
+      "content": "而一个家庭养育一个孩子长大的过程",
+      "music": 0.0
+    },
+    {
+      "from": 1378.4,
+      "to": 1379.8,
+      "sid": 718,
+      "location": 2,
+      "content": "会产生无数的消费",
+      "music": 0.0
+    },
+    {
+      "from": 1379.8,
+      "to": 1381.98,
+      "sid": 719,
+      "location": 2,
+      "content": "但新穷人们并没有什么好方法",
+      "music": 0.0
+    },
+    {
+      "from": 1381.98,
+      "to": 1383.96,
+      "sid": 720,
+      "location": 2,
+      "content": "因为他们本身也被招安了",
+      "music": 0.0
+    },
+    {
+      "from": 1383.96,
+      "to": 1386.18,
+      "sid": 721,
+      "location": 2,
+      "content": "改变社会是需要革命主体的",
+      "music": 0.0
+    },
+    {
+      "from": 1388.2,
+      "to": 1389.66,
+      "sid": 722,
+      "location": 2,
+      "content": "他们光脚不怕穿鞋的",
+      "music": 0.0
+    },
+    {
+      "from": 1389.66,
+      "to": 1390.5,
+      "sid": 723,
+      "location": 2,
+      "content": "所以要革命",
+      "music": 0.0
+    },
+    {
+      "from": 1390.5,
+      "to": 1393.12,
+      "sid": 724,
+      "location": 2,
+      "content": "而现在不管是工人们还是穷人们",
+      "music": 0.0
+    },
+    {
+      "from": 1393.12,
+      "to": 1394.78,
+      "sid": 725,
+      "location": 2,
+      "content": "大家都觉得只要努努力",
+      "music": 0.0
+    },
+    {
+      "from": 1394.78,
+      "to": 1397.18,
+      "sid": 726,
+      "location": 2,
+      "content": "也能过上相对更好一点的生活",
+      "music": 0.0
+    },
+    {
+      "from": 1397.18,
+      "to": 1399.34,
+      "sid": 727,
+      "location": 2,
+      "content": "也就没那么多野心和叛逆心了",
+      "music": 0.0
+    },
+    {
+      "from": 1399.34,
+      "to": 1400.84,
+      "sid": 728,
+      "location": 2,
+      "content": "那么话题回到开头",
+      "music": 0.0
+    },
+    {
+      "from": 1400.84,
+      "to": 1401.68,
+      "sid": 729,
+      "location": 2,
+      "content": "最近几年",
+      "music": 0.0
+    },
+    {
+      "from": 1401.68,
+      "to": 1404.38,
+      "sid": 730,
+      "location": 2,
+      "content": "大家似乎对用消费定义自己不感兴趣了",
+      "music": 0.0
+    },
+    {
+      "from": 1404.38,
+      "to": 1406.92,
+      "sid": 731,
+      "location": 2,
+      "content": "更能冲上热搜的往往是高储蓄",
+      "music": 0.0
+    },
+    {
+      "from": 1406.92,
+      "to": 1408.5,
+      "sid": 732,
+      "location": 2,
+      "content": "抠出钱买房等新闻",
+      "music": 0.0
+    },
+    {
+      "from": 1408.5,
+      "to": 1411.6,
+      "sid": 733,
+      "location": 2,
+      "content": "这是否说明我们有可能终结消费主义呢",
+      "music": 0.0
+    },
+    {
+      "from": 1411.6,
+      "to": 1412.7,
+      "sid": 734,
+      "location": 2,
+      "content": "答案是悲观的",
+      "music": 0.0
+    },
+    {
+      "from": 1412.7,
+      "to": 1414.18,
+      "sid": 735,
+      "location": 2,
+      "content": "相信观众也看出来了",
+      "music": 0.0
+    },
+    {
+      "from": 1414.18,
+      "to": 1415.44,
+      "sid": 736,
+      "location": 2,
+      "content": "所谓消费主义",
+      "music": 0.0
+    },
+    {
+      "from": 1415.44,
+      "to": 1418.56,
+      "sid": 737,
+      "location": 2,
+      "content": "本质上是通过占有物品来体现自己的身份",
+      "music": 0.0
+    },
+    {
+      "from": 1418.56,
+      "to": 1420.02,
+      "sid": 738,
+      "location": 2,
+      "content": "这几年消费下行",
+      "music": 0.0
+    },
+    {
+      "from": 1420.02,
+      "to": 1422.22,
+      "sid": 739,
+      "location": 2,
+      "content": "但也只是那种非理性消费",
+      "music": 0.0
+    },
+    {
+      "from": 1422.22,
+      "to": 1423.2,
+      "sid": 740,
+      "location": 2,
+      "content": "炫耀式消费",
+      "music": 0.0
+    },
+    {
+      "from": 1423.2,
+      "to": 1424.94,
+      "sid": 741,
+      "location": 2,
+      "content": "变少了那些克制欲望",
+      "music": 0.0
+    },
+    {
+      "from": 1424.94,
+      "to": 1425.95,
+      "sid": 742,
+      "location": 2,
+      "content": "极致抠门",
+      "music": 0.0
+    },
+    {
+      "from": 1425.95,
+      "to": 1428.67,
+      "sid": 743,
+      "location": 2,
+      "content": "然后拥有了大量存款或是买了房的",
+      "music": 0.0
+    },
+    {
+      "from": 1428.67,
+      "to": 1432.19,
+      "sid": 744,
+      "location": 2,
+      "content": "也只是通过占有存款和房子来界定自己的身份",
+      "music": 0.0
+    },
+    {
+      "from": 1432.19,
+      "to": 1433.14,
+      "sid": 745,
+      "location": 2,
+      "content": "能上热搜",
+      "music": 0.0
+    },
+    {
+      "from": 1433.14,
+      "to": 1435.6,
+      "sid": 746,
+      "location": 2,
+      "content": "可能因为现在这个时代风险更大",
+      "music": 0.0
+    },
+    {
+      "from": 1435.6,
+      "to": 1436.46,
+      "sid": 747,
+      "location": 2,
+      "content": "失业率更高",
+      "music": 0.0
+    },
+    {
+      "from": 1436.46,
+      "to": 1438.7,
+      "sid": 748,
+      "location": 2,
+      "content": "大家觉得他们这种抠门的生活方式",
+      "music": 0.0
+    },
+    {
+      "from": 1438.7,
+      "to": 1439.92,
+      "sid": 749,
+      "location": 2,
+      "content": "更能给人安全感",
+      "music": 0.0
+    },
+    {
+      "from": 1439.92,
+      "to": 1442.66,
+      "sid": 750,
+      "location": 2,
+      "content": "所以消费社会这个主题并没有被改变",
+      "music": 0.0
+    },
+    {
+      "from": 1442.66,
+      "to": 1444.6,
+      "sid": 751,
+      "location": 2,
+      "content": "只是换了一种形式存在着",
+      "music": 0.0
+    },
+    {
+      "from": 1444.6,
+      "to": 1446.52,
+      "sid": 752,
+      "location": 2,
+      "content": "视频结尾再谈谈我的看法吧",
+      "music": 0.0
+    },
+    {
+      "from": 1446.52,
+      "to": 1448.44,
+      "sid": 753,
+      "location": 2,
+      "content": "我觉得自己还是挺有预见性的",
+      "music": 0.0
+    },
+    {
+      "from": 1448.44,
+      "to": 1451.5,
+      "sid": 754,
+      "location": 2,
+      "content": "在2020年刚出消费主义那期视频时",
+      "music": 0.0
+    },
+    {
+      "from": 1451.5,
+      "to": 1453.0,
+      "sid": 755,
+      "location": 2,
+      "content": "其实因为观点不同",
+      "music": 0.0
+    },
+    {
+      "from": 1453.0,
+      "to": 1454.22,
+      "sid": 756,
+      "location": 2,
+      "content": "受到了不少谩骂",
+      "music": 0.0
+    },
+    {
+      "from": 1454.22,
+      "to": 1456.56,
+      "sid": 757,
+      "location": 2,
+      "content": "但这几年这些观点越来越受欢迎",
+      "music": 0.0
+    },
+    {
+      "from": 1456.56,
+      "to": 1458.34,
+      "sid": 758,
+      "location": 2,
+      "content": "我当时说钻石是智商税",
+      "music": 0.0
+    },
+    {
+      "from": 1458.34,
+      "to": 1459.68,
+      "sid": 759,
+      "location": 2,
+      "content": "也有很多人反驳",
+      "music": 0.0
+    },
+    {
+      "from": 1459.68,
+      "to": 1461.96,
+      "sid": 760,
+      "location": 2,
+      "content": "可随后几年暂时是智商税",
+      "music": 0.0
+    },
+    {
+      "from": 1461.96,
+      "to": 1464.61,
+      "sid": 761,
+      "location": 2,
+      "content": "这个话题就越来越多地出现在热点上",
+      "music": 0.0
+    },
+    {
+      "from": 1464.61,
+      "to": 1467.45,
+      "sid": 762,
+      "location": 2,
+      "content": "甚至每隔几个月就有一个讲这个话题的视频",
+      "music": 0.0
+    },
+    {
+      "from": 1467.45,
+      "to": 1468.26,
+      "sid": 763,
+      "location": 2,
+      "content": "成为爆款",
+      "music": 0.0
+    },
+    {
+      "from": 1468.26,
+      "to": 1469.18,
+      "sid": 764,
+      "location": 2,
+      "content": "那个视频中",
+      "music": 0.0
+    },
+    {
+      "from": 1469.18,
+      "to": 1472.46,
+      "sid": 765,
+      "location": 2,
+      "content": "我对消费主义的态度是相当激烈和不客气的",
+      "music": 0.0
+    },
+    {
+      "from": 1472.46,
+      "to": 1473.94,
+      "sid": 766,
+      "location": 2,
+      "content": "我也不是说一套做一套",
+      "music": 0.0
+    },
+    {
+      "from": 1473.94,
+      "to": 1476.15,
+      "sid": 767,
+      "location": 2,
+      "content": "因为我在生活中也是这样践行的",
+      "music": 0.0
+    },
+    {
+      "from": 1476.15,
+      "to": 1477.93,
+      "sid": 768,
+      "location": 2,
+      "content": "杜绝了一切不必要的消费",
+      "music": 0.0
+    },
+    {
+      "from": 1477.93,
+      "to": 1481.03,
+      "sid": 769,
+      "location": 2,
+      "content": "但事实上我的生活并没有因此就顺利了",
+      "music": 0.0
+    },
+    {
+      "from": 1481.03,
+      "to": 1481.94,
+      "sid": 770,
+      "location": 2,
+      "content": "或是幸福了",
+      "music": 0.0
+    },
+    {
+      "from": 1481.94,
+      "to": 1483.9,
+      "sid": 771,
+      "location": 2,
+      "content": "原来的我每次都会通过买东西",
+      "music": 0.0
+    },
+    {
+      "from": 1483.9,
+      "to": 1485.54,
+      "sid": 772,
+      "location": 2,
+      "content": "来获得一些虚假的安慰",
+      "music": 0.0
+    },
+    {
+      "from": 1485.54,
+      "to": 1486.88,
+      "sid": 773,
+      "location": 2,
+      "content": "但转变观念后",
+      "music": 0.0
+    },
+    {
+      "from": 1486.88,
+      "to": 1488.76,
+      "sid": 774,
+      "location": 2,
+      "content": "安慰我的变成了存款数字",
+      "music": 0.0
+    },
+    {
+      "from": 1488.76,
+      "to": 1490.08,
+      "sid": 775,
+      "location": 2,
+      "content": "只有数字不断增长",
+      "music": 0.0
+    },
+    {
+      "from": 1490.08,
+      "to": 1491.24,
+      "sid": 776,
+      "location": 2,
+      "content": "我才能获得快感",
+      "music": 0.0
+    },
+    {
+      "from": 1491.24,
+      "to": 1492.74,
+      "sid": 777,
+      "location": 2,
+      "content": "当我有了一定存款后",
+      "music": 0.0
+    },
+    {
+      "from": 1492.74,
+      "to": 1494.45,
+      "sid": 778,
+      "location": 2,
+      "content": "我觉得我可能需要理财",
+      "music": 0.0
+    },
+    {
+      "from": 1494.45,
+      "to": 1495.89,
+      "sid": 779,
+      "location": 2,
+      "content": "结果大家都懂的",
+      "music": 0.0
+    },
+    {
+      "from": 1495.89,
+      "to": 1496.91,
+      "sid": 780,
+      "location": 2,
+      "content": "你不理财",
+      "music": 0.0
+    },
+    {
+      "from": 1496.91,
+      "to": 1497.81,
+      "sid": 781,
+      "location": 2,
+      "content": "财不理你",
+      "music": 0.0
+    },
+    {
+      "from": 1497.81,
+      "to": 1500.13,
+      "sid": 782,
+      "location": 2,
+      "content": "你要理财才他妈给你断头台",
+      "music": 0.0
+    },
+    {
+      "from": 1500.13,
+      "to": 1503.4,
+      "sid": 783,
+      "location": 2,
+      "content": "最重要的是我那段时间的心理状态也没多好",
+      "music": 0.0
+    },
+    {
+      "from": 1503.4,
+      "to": 1505.78,
+      "sid": 784,
+      "location": 2,
+      "content": "我觉得一个人空虚或是充实",
+      "music": 0.0
+    },
+    {
+      "from": 1505.78,
+      "to": 1507.8,
+      "sid": 785,
+      "location": 2,
+      "content": "也不是消费方式能决定的",
+      "music": 0.0
+    },
+    {
+      "from": 1507.8,
+      "to": 1511.08,
+      "sid": 786,
+      "location": 2,
+      "content": "更多的是看这个人是否从事了创造性的活动",
+      "music": 0.0
+    },
+    {
+      "from": 1511.08,
+      "to": 1513.82,
+      "sid": 787,
+      "location": 2,
+      "content": "放纵欲望或是刻意压制自己的欲望",
+      "music": 0.0
+    },
+    {
+      "from": 1513.82,
+      "to": 1515.54,
+      "sid": 788,
+      "location": 2,
+      "content": "其实都是不健康的",
+      "music": 0.0
+    },
+    {
+      "from": 1515.54,
+      "to": 1516.52,
+      "sid": 789,
+      "location": 2,
+      "content": "可我醒悟后",
+      "music": 0.0
+    },
+    {
+      "from": 1516.52,
+      "to": 1518.78,
+      "sid": 790,
+      "location": 2,
+      "content": "现在仍然是一个消费阳痿的状态",
+      "music": 0.0
+    },
+    {
+      "from": 1518.78,
+      "to": 1520.42,
+      "sid": 791,
+      "location": 2,
+      "content": "完全没什么买东西的欲望",
+      "music": 0.0
+    },
+    {
+      "from": 1520.42,
+      "to": 1521.72,
+      "sid": 792,
+      "location": 2,
+      "content": "可以同时觉得可悲",
+      "music": 0.0
+    },
+    {
+      "from": 1521.72,
+      "to": 1524.94,
+      "sid": 793,
+      "location": 2,
+      "content": "自己年轻时面对某些物品虽然狂热",
+      "music": 0.0
+    },
+    {
+      "from": 1524.94,
+      "to": 1526.56,
+      "sid": 794,
+      "location": 2,
+      "content": "但我并不讨厌这种感受",
+      "music": 0.0
+    },
+    {
+      "from": 1526.56,
+      "to": 1528.64,
+      "sid": 795,
+      "location": 2,
+      "content": "现在却完全不会有这种激情了",
+      "music": 0.0
+    },
+    {
+      "from": 1528.64,
+      "to": 1530.82,
+      "sid": 796,
+      "location": 2,
+      "content": "我想说的是一个正常的社会",
+      "music": 0.0
+    },
+    {
+      "from": 1530.82,
+      "to": 1532.34,
+      "sid": 797,
+      "location": 2,
+      "content": "他不可能没有消费",
+      "music": 0.0
+    },
+    {
+      "from": 1532.34,
+      "to": 1533.92,
+      "sid": 798,
+      "location": 2,
+      "content": "我们解构消费主义",
+      "music": 0.0
+    },
+    {
+      "from": 1533.92,
+      "to": 1535.48,
+      "sid": 799,
+      "location": 2,
+      "content": "你看了能跳出来",
+      "music": 0.0
+    },
+    {
+      "from": 1535.48,
+      "to": 1537.36,
+      "sid": 800,
+      "location": 2,
+      "content": "让视野稍微变宽阔一点",
+      "music": 0.0
+    },
+    {
+      "from": 1537.36,
+      "to": 1538.0,
+      "sid": 801,
+      "location": 2,
+      "content": "这很好",
+      "music": 0.0
+    },
+    {
+      "from": 1538.0,
+      "to": 1541.0,
+      "sid": 802,
+      "location": 2,
+      "content": "但完全没必要不分青红皂白的去反消费",
+      "music": 0.0
+    },
+    {
+      "from": 1541.0,
+      "to": 1543.44,
+      "sid": 803,
+      "location": 2,
+      "content": "而是客观看待消费带来的好处",
+      "music": 0.0
+    },
+    {
+      "from": 1543.44,
+      "to": 1546.56,
+      "sid": 804,
+      "location": 2,
+      "content": "譬如我最开始就言辞激烈地骂钻石是智商税",
+      "music": 0.0
+    },
+    {
+      "from": 1546.56,
+      "to": 1547.52,
+      "sid": 805,
+      "location": 2,
+      "content": "不如买黄金",
+      "music": 0.0
+    },
+    {
+      "from": 1547.52,
+      "to": 1549.48,
+      "sid": 806,
+      "location": 2,
+      "content": "现在我连这个想法都转变了",
+      "music": 0.0
+    },
+    {
+      "from": 1549.48,
+      "to": 1550.98,
+      "sid": 807,
+      "location": 2,
+      "content": "从经济角度来讲",
+      "music": 0.0
+    },
+    {
+      "from": 1550.98,
+      "to": 1552.5,
+      "sid": 808,
+      "location": 2,
+      "content": "这是智商税没错",
+      "music": 0.0
+    },
+    {
+      "from": 1552.5,
+      "to": 1553.64,
+      "sid": 809,
+      "location": 2,
+      "content": "毕竟卵用没有",
+      "music": 0.0
+    },
+    {
+      "from": 1553.64,
+      "to": 1554.76,
+      "sid": 810,
+      "location": 2,
+      "content": "你不如送黄金",
+      "music": 0.0
+    },
+    {
+      "from": 1554.76,
+      "to": 1555.54,
+      "sid": 811,
+      "location": 2,
+      "content": "到时候离婚了",
+      "music": 0.0
+    },
+    {
+      "from": 1555.54,
+      "to": 1557.53,
+      "sid": 812,
+      "location": 2,
+      "content": "大家分家产的时候还能卖点钱",
+      "music": 0.0
+    },
+    {
+      "from": 1557.53,
+      "to": 1560.49,
+      "sid": 813,
+      "location": 2,
+      "content": "可现在大家都知道钻石是智商税了",
+      "music": 0.0
+    },
+    {
+      "from": 1560.49,
+      "to": 1563.87,
+      "sid": 814,
+      "location": 2,
+      "content": "仍然有人愿意花个几万块钱去买个没用的东西",
+      "music": 0.0
+    },
+    {
+      "from": 1563.87,
+      "to": 1565.57,
+      "sid": 815,
+      "location": 2,
+      "content": "那说明这人很浪漫啊",
+      "music": 0.0
+    },
+    {
+      "from": 1565.57,
+      "to": 1567.45,
+      "sid": 816,
+      "location": 2,
+      "content": "很看重他们的爱情关系啊",
+      "music": 0.0
+    },
+    {
+      "from": 1567.45,
+      "to": 1568.63,
+      "sid": 817,
+      "location": 2,
+      "content": "就跟烟花一样",
+      "music": 0.0
+    },
+    {
+      "from": 1568.63,
+      "to": 1570.45,
+      "sid": 818,
+      "location": 2,
+      "content": "转瞬即逝也没啥用",
+      "music": 0.0
+    },
+    {
+      "from": 1570.45,
+      "to": 1571.44,
+      "sid": 819,
+      "location": 2,
+      "content": "但好看呀",
+      "music": 0.0
+    },
+    {
+      "from": 1571.44,
+      "to": 1572.92,
+      "sid": 820,
+      "location": 2,
+      "content": "而且就算以后离婚了",
+      "music": 0.0
+    },
+    {
+      "from": 1572.92,
+      "to": 1573.82,
+      "sid": 821,
+      "location": 2,
+      "content": "也卖不了钱",
+      "music": 0.0
+    },
+    {
+      "from": 1573.82,
+      "to": 1575.52,
+      "sid": 822,
+      "location": 2,
+      "content": "虽然我可能还是不会买",
+      "music": 0.0
+    },
+    {
+      "from": 1575.52,
+      "to": 1576.86,
+      "sid": 823,
+      "location": 2,
+      "content": "但以后有别人要买",
+      "music": 0.0
+    },
+    {
+      "from": 1576.86,
+      "to": 1578.54,
+      "sid": 824,
+      "location": 2,
+      "content": "我也不会再去嘲讽别人",
+      "music": 0.0
+    },
+    {
+      "from": 1578.54,
+      "to": 1580.88,
+      "sid": 825,
+      "location": 2,
+      "content": "人家自己的钱想怎么花怎么花",
+      "music": 0.0
+    },
+    {
+      "from": 1580.88,
+      "to": 1582.78,
+      "sid": 826,
+      "location": 2,
+      "content": "这种优越的心态完全没必要",
+      "music": 0.0
+    },
+    {
+      "from": 1582.78,
+      "to": 1585.04,
+      "sid": 827,
+      "location": 2,
+      "content": "而且这几年就业形势不好",
+      "music": 0.0
+    },
+    {
+      "from": 1585.04,
+      "to": 1586.32,
+      "sid": 828,
+      "location": 2,
+      "content": "经济增速放缓",
+      "music": 0.0
+    },
+    {
+      "from": 1586.32,
+      "to": 1587.98,
+      "sid": 829,
+      "location": 2,
+      "content": "年轻人普遍没钱消费",
+      "music": 0.0
+    },
+    {
+      "from": 1587.98,
+      "to": 1589.72,
+      "sid": 830,
+      "location": 2,
+      "content": "大家都反思消费主义了",
+      "music": 0.0
+    },
+    {
+      "from": 1589.72,
+      "to": 1591.38,
+      "sid": 831,
+      "location": 2,
+      "content": "那社会就变得更好了嘛",
+      "music": 0.0
+    },
+    {
+      "from": 1591.38,
+      "to": 1592.24,
+      "sid": 832,
+      "location": 2,
+      "content": "显然没有",
+      "music": 0.0
+    },
+    {
+      "from": 1592.24,
+      "to": 1595.16,
+      "sid": 833,
+      "location": 2,
+      "content": "因为大部分人闲下来也不会去想着变革社会",
+      "music": 0.0
+    },
+    {
+      "from": 1595.16,
+      "to": 1597.12,
+      "sid": 834,
+      "location": 2,
+      "content": "取而代之的是戾气越来越重",
+      "music": 0.0
+    },
+    {
+      "from": 1597.12,
+      "to": 1598.44,
+      "sid": 835,
+      "location": 2,
+      "content": "对立越来越加剧",
+      "music": 0.0
+    },
+    {
+      "from": 1598.44,
+      "to": 1600.88,
+      "sid": 836,
+      "location": 2,
+      "content": "在网络上一言不合就问候别人全家",
+      "music": 0.0
+    },
+    {
+      "from": 1600.88,
+      "to": 1604.48,
+      "sid": 837,
+      "location": 2,
+      "content": "我说实话给我感觉还不如消费主义盛行的时候",
+      "music": 0.0
+    },
+    {
+      "from": 1604.48,
+      "to": 1605.78,
+      "sid": 838,
+      "location": 2,
+      "content": "每个人都心无杂念",
+      "music": 0.0
+    },
+    {
+      "from": 1605.78,
+      "to": 1607.08,
+      "sid": 839,
+      "location": 2,
+      "content": "一心搞钱攀比",
+      "music": 0.0
+    },
+    {
+      "from": 1607.08,
+      "to": 1608.24,
+      "sid": 840,
+      "location": 2,
+      "content": "那样还和谐一点",
+      "music": 0.0
+    },
+    {
+      "from": 1608.24,
+      "to": 1608.98,
+      "sid": 841,
+      "location": 2,
+      "content": "总而言之",
+      "music": 0.0
+    },
+    {
+      "from": 1608.98,
+      "to": 1610.92,
+      "sid": 842,
+      "location": 2,
+      "content": "消费主义会造成一些问题",
+      "music": 0.0
+    },
+    {
+      "from": 1610.92,
+      "to": 1612.64,
+      "sid": 843,
+      "location": 2,
+      "content": "但也要客观看待它的好处",
+      "music": 0.0
+    },
+    {
+      "from": 1612.64,
+      "to": 1614.57,
+      "sid": 844,
+      "location": 2,
+      "content": "它确实也是目前的最优解",
+      "music": 0.0
+    },
+    {
+      "from": 1614.57,
+      "to": 1615.99,
+      "sid": 845,
+      "location": 2,
+      "content": "我曾在视频里说",
+      "music": 0.0
+    },
+    {
+      "from": 1615.99,
+      "to": 1618.3,
+      "sid": 846,
+      "location": 2,
+      "content": "消费主义是一个无所不包的牢笼",
+      "music": 0.0
+    },
+    {
+      "from": 1618.3,
+      "to": 1620.04,
+      "sid": 847,
+      "location": 2,
+      "content": "我们需要从中逃离出来",
+      "music": 0.0
+    },
+    {
+      "from": 1620.04,
+      "to": 1621.18,
+      "sid": 848,
+      "location": 2,
+      "content": "但我现在发觉",
+      "music": 0.0
+    },
+    {
+      "from": 1621.18,
+      "to": 1623.08,
+      "sid": 849,
+      "location": 2,
+      "content": "消费主义其实是一枚硬币",
+      "music": 0.0
+    },
+    {
+      "from": 1623.08,
+      "to": 1624.56,
+      "sid": 850,
+      "location": 2,
+      "content": "任何硬币都有两面",
+      "music": 0.0
+    },
+    {
+      "from": 1624.56,
+      "to": 1626.06,
+      "sid": 851,
+      "location": 2,
+      "content": "但硬币本身只有一个",
+      "music": 0.0
+    },
+    {
+      "from": 1626.06,
+      "to": 1627.26,
+      "sid": 852,
+      "location": 2,
+      "content": "无论你站在哪面",
+      "music": 0.0
+    },
+    {
+      "from": 1627.26,
+      "to": 1629.82,
+      "sid": 853,
+      "location": 2,
+      "content": "是陷入消费主义还是反对消费主义",
+      "music": 0.0
+    },
+    {
+      "from": 1629.82,
+      "to": 1631.7,
+      "sid": 854,
+      "location": 2,
+      "content": "都站在了硬币本身之上",
+      "music": 0.0
+    },
+    {
+      "from": 1631.7,
+      "to": 1633.62,
+      "sid": 855,
+      "location": 2,
+      "content": "所以我们与其思考选边站",
+      "music": 0.0
+    },
+    {
+      "from": 1633.62,
+      "to": 1635.68,
+      "sid": 856,
+      "location": 2,
+      "content": "不如去思考怎么找到边界",
+      "music": 0.0
+    },
+    {
+      "from": 1635.68,
+      "to": 1637.16,
+      "sid": 857,
+      "location": 2,
+      "content": "把硬币垂直立起",
+      "music": 0.0
+    },
+    {
+      "from": 1637.16,
+      "to": 1638.54,
+      "sid": 858,
+      "location": 2,
+      "content": "站在第三面上",
+      "music": 0.0
+    },
+    {
+      "from": 1638.54,
+      "to": 1640.28,
+      "sid": 859,
+      "location": 2,
+      "content": "温和的与消费主义共舞",
+      "music": 0.0
+    },
+    {
+      "from": 1640.28,
+      "to": 1642.24,
+      "sid": 860,
+      "location": 2,
+      "content": "我们可以享受消费带来的便利",
+      "music": 0.0
+    },
+    {
+      "from": 1642.24,
+      "to": 1643.72,
+      "sid": 861,
+      "location": 2,
+      "content": "但无需被商品定义",
+      "music": 0.0
+    },
+    {
+      "from": 1643.72,
+      "to": 1645.12,
+      "sid": 862,
+      "location": 2,
+      "content": "我们可以努力赚钱",
+      "music": 0.0
+    },
+    {
+      "from": 1645.12,
+      "to": 1647.16,
+      "sid": 863,
+      "location": 2,
+      "content": "但无需把钱视为唯一的信仰",
+      "music": 0.0
+    },
+    {
+      "from": 1647.16,
+      "to": 1648.48,
+      "sid": 864,
+      "location": 2,
+      "content": "我们可以现实一点",
+      "music": 0.0
+    },
+    {
+      "from": 1648.48,
+      "to": 1650.08,
+      "sid": 865,
+      "location": 2,
+      "content": "但不要被现实所吞没",
+      "music": 0.0
+    },
+    {
+      "from": 1650.08,
+      "to": 1652.36,
+      "sid": 866,
+      "location": 2,
+      "content": "我们可以迷恋市中心的大house",
+      "music": 0.0
+    },
+    {
+      "from": 1652.36,
+      "to": 1655.5,
+      "sid": 867,
+      "location": 2,
+      "content": "同样也可以在脑中建构一个丰富的精神家园",
+      "music": 0.0
+    },
+    {
+      "from": 1655.5,
+      "to": 1657.14,
+      "sid": 868,
+      "location": 2,
+      "content": "我们可以有今生今世",
+      "music": 0.0
+    },
+    {
+      "from": 1657.14,
+      "to": 1660.28,
+      "sid": 869,
+      "location": 2,
+      "content": "但这完全不妨碍我们迈向一个诗意的世界",
+      "music": 0.0
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "bvid": "BV1xF7pzYE1n",
+  "cid": 30233329849,
+  "title": "职场中，基层管理者应该管些什么？",
+  "owner_name": "边大娘FM",
+  "status": "downloaded",
+  "reason": null,
+  "subtitle": {
+    "id": 1600882269545880832,
+    "lan": "ai-zh",
+    "lan_doc": "中文",
+    "is_lock": false,
+    "subtitle_url": "https://aisubtitle.hdslb.com/bfs/ai_subtitle/prod/11331108549620026302353249516f6e812fb11f840f7af2317c61c605",
+    "type": 1,
+    "id_str": "1600882269545880832",
+    "ai_type": 0,
+    "ai_status": 2
+  },
+  "raw_subtitle_path": "data\\raw\\bilibili\\subtitles\\1900638792\\BV1xF7pzYE1n-ai-zh.raw.json",
+  "text_path": "data\\raw\\bilibili\\subtitles\\1900638792\\BV1xF7pzYE1n-ai-zh.txt",
+  "metadata_path": "data\\raw\\bilibili\\subtitles\\1900638792\\BV1xF7pzYE1n-ai-zh.metadata.json"
+}

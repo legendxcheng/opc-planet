@@ -1,0 +1,22 @@
+{
+  "bvid": "BV17cAAzcE9G",
+  "cid": 36869901605,
+  "title": "想预测成功的人都不适合创业",
+  "owner_name": "dontbesilent聊赚钱",
+  "status": "downloaded",
+  "reason": null,
+  "subtitle": {
+    "id": 1590665917174430208,
+    "lan": "ai-zh",
+    "lan_doc": "中文",
+    "is_lock": false,
+    "subtitle_url": "https://aisubtitle.hdslb.com/bfs/ai_subtitle/prod/11323125950239926091129167fb879befde0283a51066be61f59aeb9f",
+    "type": 1,
+    "id_str": "1590665917174430208",
+    "ai_type": 0,
+    "ai_status": 2
+  },
+  "raw_subtitle_path": "data\\raw\\bilibili\\subtitles\\275565632\\BV17cAAzcE9G-ai-zh.raw.json",
+  "text_path": "data\\raw\\bilibili\\subtitles\\275565632\\BV17cAAzcE9G-ai-zh.txt",
+  "metadata_path": "data\\raw\\bilibili\\subtitles\\275565632\\BV17cAAzcE9G-ai-zh.metadata.json"
+}

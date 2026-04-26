@@ -1,0 +1,604 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.26,
+      "to": 2.48,
+      "sid": 1,
+      "location": 2,
+      "content": "这个视频能救命就三个字",
+      "music": 0.0
+    },
+    {
+      "from": 2.48,
+      "to": 4.7,
+      "sid": 2,
+      "location": 2,
+      "content": "其实说是救命恩更合适",
+      "music": 0.0
+    },
+    {
+      "from": 4.7,
+      "to": 7.15,
+      "sid": 3,
+      "location": 2,
+      "content": "是避免悲剧的出现",
+      "music": 0.0
+    },
+    {
+      "from": 7.15,
+      "to": 8.21,
+      "sid": 4,
+      "location": 2,
+      "content": "三个字啊",
+      "music": 0.0
+    },
+    {
+      "from": 8.21,
+      "to": 9.3,
+      "sid": 5,
+      "location": 2,
+      "content": "温度差",
+      "music": 0.0
+    },
+    {
+      "from": 9.3,
+      "to": 10.66,
+      "sid": 6,
+      "location": 2,
+      "content": "去年的时候呢",
+      "music": 0.0
+    },
+    {
+      "from": 10.66,
+      "to": 13.1,
+      "sid": 7,
+      "location": 2,
+      "content": "我在那个季节里讲过这样的案例",
+      "music": 0.0
+    },
+    {
+      "from": 13.1,
+      "to": 14.78,
+      "sid": 8,
+      "location": 2,
+      "content": "但是今年我一定要提前讲",
+      "music": 0.0
+    },
+    {
+      "from": 14.78,
+      "to": 16.46,
+      "sid": 9,
+      "location": 2,
+      "content": "因为提前讲了",
+      "music": 0.0
+    },
+    {
+      "from": 16.46,
+      "to": 19.9,
+      "sid": 10,
+      "location": 2,
+      "content": "能让大家知道避免这种到冬天寒冷的时候",
+      "music": 0.0
+    },
+    {
+      "from": 19.9,
+      "to": 22.85,
+      "sid": 11,
+      "location": 2,
+      "content": "因为温度差导致死亡悲剧的出现",
+      "music": 0.0
+    },
+    {
+      "from": 22.85,
+      "to": 24.63,
+      "sid": 12,
+      "location": 2,
+      "content": "去年我用了两个案例",
+      "music": 0.0
+    },
+    {
+      "from": 24.63,
+      "to": 25.65,
+      "sid": 13,
+      "location": 2,
+      "content": "都是我接诊的",
+      "music": 0.0
+    },
+    {
+      "from": 25.65,
+      "to": 28.97,
+      "sid": 14,
+      "location": 2,
+      "content": "第一个案例是一个男士在火锅店里面吃饭",
+      "music": 0.0
+    },
+    {
+      "from": 28.97,
+      "to": 29.37,
+      "sid": 15,
+      "location": 2,
+      "content": "你想啊",
+      "music": 0.0
+    },
+    {
+      "from": 29.37,
+      "to": 29.73,
+      "sid": 16,
+      "location": 2,
+      "content": "冬天来",
+      "music": 0.0
+    },
+    {
+      "from": 29.73,
+      "to": 30.33,
+      "sid": 17,
+      "location": 2,
+      "content": "你看现在啊",
+      "music": 0.0
+    },
+    {
+      "from": 30.33,
+      "to": 31.17,
+      "sid": 18,
+      "location": 2,
+      "content": "现在已经冷了",
+      "music": 0.0
+    },
+    {
+      "from": 31.17,
+      "to": 33.09,
+      "sid": 19,
+      "location": 2,
+      "content": "我穿那个是嗯棉马甲",
+      "music": 0.0
+    },
+    {
+      "from": 33.09,
+      "to": 33.89,
+      "sid": 20,
+      "location": 2,
+      "content": "前几天特别冷",
+      "music": 0.0
+    },
+    {
+      "from": 33.89,
+      "to": 36.51,
+      "sid": 21,
+      "location": 2,
+      "content": "我已经穿了那种棉厚厚棉服了",
+      "music": 0.0
+    },
+    {
+      "from": 36.51,
+      "to": 39.21,
+      "sid": 22,
+      "location": 2,
+      "content": "已经冬天的时候在火店里面吃饭",
+      "music": 0.0
+    },
+    {
+      "from": 39.21,
+      "to": 40.97,
+      "sid": 23,
+      "location": 2,
+      "content": "但屋里边比较暖和",
+      "music": 0.0
+    },
+    {
+      "from": 40.97,
+      "to": 42.97,
+      "sid": 24,
+      "location": 2,
+      "content": "然后外面很冷",
+      "music": 0.0
+    },
+    {
+      "from": 42.97,
+      "to": 45.45,
+      "sid": 25,
+      "location": 2,
+      "content": "这个人呢他喜欢抽烟",
+      "music": 0.0
+    },
+    {
+      "from": 45.45,
+      "to": 48.24,
+      "sid": 26,
+      "location": 2,
+      "content": "然后在屋里边火车烟里面吃着吃着呢",
+      "music": 0.0
+    },
+    {
+      "from": 48.24,
+      "to": 49.48,
+      "sid": 27,
+      "location": 2,
+      "content": "哎屋里面不让抽烟呢",
+      "music": 0.0
+    },
+    {
+      "from": 49.48,
+      "to": 50.96,
+      "sid": 28,
+      "location": 2,
+      "content": "于是他就跑到外面来抽了",
+      "music": 0.0
+    },
+    {
+      "from": 50.96,
+      "to": 52.48,
+      "sid": 29,
+      "location": 2,
+      "content": "然后也没有穿太多衣服",
+      "music": 0.0
+    },
+    {
+      "from": 52.48,
+      "to": 53.52,
+      "sid": 30,
+      "location": 2,
+      "content": "想抽着烟就回去了",
+      "music": 0.0
+    },
+    {
+      "from": 53.52,
+      "to": 58.14,
+      "sid": 31,
+      "location": 2,
+      "content": "结果呢温度差一热一冷猝死",
+      "music": 0.0
+    },
+    {
+      "from": 58.14,
+      "to": 60.59,
+      "sid": 32,
+      "location": 2,
+      "content": "怀疑是一个心源性猝死",
+      "music": 0.0
+    },
+    {
+      "from": 60.91,
+      "to": 63.35,
+      "sid": 33,
+      "location": 2,
+      "content": "还有一个案例是几个男士啊",
+      "music": 0.0
+    },
+    {
+      "from": 63.35,
+      "to": 64.33,
+      "sid": 34,
+      "location": 2,
+      "content": "这哥儿几个喝酒",
+      "music": 0.0
+    },
+    {
+      "from": 64.33,
+      "to": 65.73,
+      "sid": 35,
+      "location": 2,
+      "content": "喝完酒之后也在冬天啊",
+      "music": 0.0
+    },
+    {
+      "from": 65.73,
+      "to": 66.61,
+      "sid": 36,
+      "location": 2,
+      "content": "喝完酒之后呢",
+      "music": 0.0
+    },
+    {
+      "from": 66.61,
+      "to": 67.67,
+      "sid": 37,
+      "location": 2,
+      "content": "哎说溜达回家",
+      "music": 0.0
+    },
+    {
+      "from": 67.67,
+      "to": 71.99,
+      "sid": 38,
+      "location": 2,
+      "content": "结果走到一个呃桑桑桑做桑拿的一个地方",
+      "music": 0.0
+    },
+    {
+      "from": 71.99,
+      "to": 74.47,
+      "sid": 39,
+      "location": 2,
+      "content": "然后诶他们觉得做桑拿这个地方",
+      "music": 0.0
+    },
+    {
+      "from": 74.47,
+      "to": 76.37,
+      "sid": 40,
+      "location": 2,
+      "content": "要不大家去做个桑拿蒸一蒸",
+      "music": 0.0
+    },
+    {
+      "from": 76.37,
+      "to": 77.39,
+      "sid": 41,
+      "location": 2,
+      "content": "然后洗澡",
+      "music": 0.0
+    },
+    {
+      "from": 77.39,
+      "to": 80.72,
+      "sid": 42,
+      "location": 2,
+      "content": "这样于是他们就进去了",
+      "music": 0.0
+    },
+    {
+      "from": 80.72,
+      "to": 83.08,
+      "sid": 43,
+      "location": 2,
+      "content": "然后这个男士呢在蒸桑拿的时候",
+      "music": 0.0
+    },
+    {
+      "from": 83.08,
+      "to": 84.56,
+      "sid": 44,
+      "location": 2,
+      "content": "突然间就昏迷了",
+      "music": 0.0
+    },
+    {
+      "from": 84.56,
+      "to": 85.52,
+      "sid": 45,
+      "location": 2,
+      "content": "然后开始吐",
+      "music": 0.0
+    },
+    {
+      "from": 85.52,
+      "to": 87.36,
+      "sid": 46,
+      "location": 2,
+      "content": "然后那会初步诊断是一个脑出血",
+      "music": 0.0
+    },
+    {
+      "from": 87.36,
+      "to": 88.54,
+      "sid": 47,
+      "location": 2,
+      "content": "到医院一查呢",
+      "music": 0.0
+    },
+    {
+      "from": 88.54,
+      "to": 89.9,
+      "sid": 48,
+      "location": 2,
+      "content": "大面积脑出血",
+      "music": 0.0
+    },
+    {
+      "from": 89.9,
+      "to": 91.94,
+      "sid": 49,
+      "location": 2,
+      "content": "最后这个人还是没救出来",
+      "music": 0.0
+    },
+    {
+      "from": 91.94,
+      "to": 92.82,
+      "sid": 50,
+      "location": 2,
+      "content": "这个是什么呢",
+      "music": 0.0
+    },
+    {
+      "from": 92.82,
+      "to": 94.14,
+      "sid": 51,
+      "location": 2,
+      "content": "温度差就是一冷一热",
+      "music": 0.0
+    },
+    {
+      "from": 94.14,
+      "to": 95.509,
+      "sid": 52,
+      "location": 2,
+      "content": "一热一冷",
+      "music": 0.0
+    },
+    {
+      "from": 95.509,
+      "to": 98.269,
+      "sid": 53,
+      "location": 2,
+      "content": "这种呢特别是既往血管有问题的",
+      "music": 0.0
+    },
+    {
+      "from": 98.269,
+      "to": 100.069,
+      "sid": 54,
+      "location": 2,
+      "content": "有一些心脏的问题呀",
+      "music": 0.0
+    },
+    {
+      "from": 100.069,
+      "to": 101.469,
+      "sid": 55,
+      "location": 2,
+      "content": "心脑血管疾病的行为啊",
+      "music": 0.0
+    },
+    {
+      "from": 101.469,
+      "to": 102.069,
+      "sid": 56,
+      "location": 2,
+      "content": "高血压啊",
+      "music": 0.0
+    },
+    {
+      "from": 102.069,
+      "to": 106.91,
+      "sid": 57,
+      "location": 2,
+      "content": "这些人它就容易导致一些危险情况出现心梗了",
+      "music": 0.0
+    },
+    {
+      "from": 108.15,
+      "to": 110.03,
+      "sid": 58,
+      "location": 2,
+      "content": "脑出血了这一节出现",
+      "music": 0.0
+    },
+    {
+      "from": 110.03,
+      "to": 110.83,
+      "sid": 59,
+      "location": 2,
+      "content": "所以记住啊",
+      "music": 0.0
+    },
+    {
+      "from": 110.83,
+      "to": 114.15,
+      "sid": 60,
+      "location": 2,
+      "content": "温度差有个适应的过程",
+      "music": 0.0
+    },
+    {
+      "from": 114.15,
+      "to": 116.27,
+      "sid": 61,
+      "location": 2,
+      "content": "别突然间从很热的地方到很冷",
+      "music": 0.0
+    },
+    {
+      "from": 116.27,
+      "to": 118.67,
+      "sid": 62,
+      "location": 2,
+      "content": "也不知道从很冷的地方到很热",
+      "music": 0.0
+    },
+    {
+      "from": 118.95,
+      "to": 119.97,
+      "sid": 63,
+      "location": 2,
+      "content": "还有老人啊",
+      "music": 0.0
+    },
+    {
+      "from": 119.97,
+      "to": 120.95,
+      "sid": 64,
+      "location": 2,
+      "content": "截止到冬天的时候",
+      "music": 0.0
+    },
+    {
+      "from": 120.95,
+      "to": 124.289,
+      "sid": 65,
+      "location": 2,
+      "content": "戴上帽子还是很有帮助的",
+      "music": 0.0
+    },
+    {
+      "from": 124.289,
+      "to": 125.809,
+      "sid": 66,
+      "location": 2,
+      "content": "虽然这个季节不是很冷",
+      "music": 0.0
+    },
+    {
+      "from": 125.809,
+      "to": 126.769,
+      "sid": 67,
+      "location": 2,
+      "content": "不是很冷的时候",
+      "music": 0.0
+    },
+    {
+      "from": 126.769,
+      "to": 128.669,
+      "sid": 68,
+      "location": 2,
+      "content": "但是把这个科普先提前告诉大家",
+      "music": 0.0
+    },
+    {
+      "from": 128.669,
+      "to": 130.549,
+      "sid": 69,
+      "location": 2,
+      "content": "给大家预警一下",
+      "music": 0.0
+    },
+    {
+      "from": 130.549,
+      "to": 131.769,
+      "sid": 70,
+      "location": 2,
+      "content": "先行告知一下",
+      "music": 0.0
+    },
+    {
+      "from": 131.769,
+      "to": 134.73,
+      "sid": 71,
+      "location": 2,
+      "content": "这样我觉得可不可能拥有异议吧",
+      "music": 0.0
+    },
+    {
+      "from": 134.73,
+      "to": 135.39,
+      "sid": 72,
+      "location": 2,
+      "content": "还是那句话",
+      "music": 0.0
+    },
+    {
+      "from": 135.39,
+      "to": 136.47,
+      "sid": 73,
+      "location": 2,
+      "content": "希望他们健平平安",
+      "music": 0.0
+    },
+    {
+      "from": 136.47,
+      "to": 137.46,
+      "sid": 74,
+      "location": 2,
+      "content": "别意外",
+      "music": 0.0
+    }
+  ]
+}

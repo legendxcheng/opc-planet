@@ -1,0 +1,22 @@
+{
+  "bvid": "BV1zj41177Wk",
+  "cid": 1343353031,
+  "title": "曲曲  讲商业   专业思维VS市场思维",
+  "owner_name": "高能量供给",
+  "status": "downloaded",
+  "reason": null,
+  "subtitle": {
+    "id": 1591992956859195648,
+    "lan": "ai-zh",
+    "lan_doc": "中文",
+    "is_lock": false,
+    "subtitle_url": "https://aisubtitle.hdslb.com/bfs/ai_subtitle/prod/11324166144138426118655698690058b62ad2f9d78b3bfaae3aaa6b2b",
+    "type": 1,
+    "id_str": "1591992956859195648",
+    "ai_type": 0,
+    "ai_status": 2
+  },
+  "raw_subtitle_path": "data\\raw\\bilibili\\subtitles\\ququ-business-search-2026-04-26\\BV1zj41177Wk-ai-zh.raw.json",
+  "text_path": "data\\raw\\bilibili\\subtitles\\ququ-business-search-2026-04-26\\BV1zj41177Wk-ai-zh.txt",
+  "metadata_path": "data\\raw\\bilibili\\subtitles\\ququ-business-search-2026-04-26\\BV1zj41177Wk-ai-zh.metadata.json"
+}

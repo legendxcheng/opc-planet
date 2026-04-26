@@ -1,0 +1,22 @@
+{
+  "bvid": "BV11ExrzrEaz",
+  "cid": 32930269208,
+  "title": "曲曲干货赚钱靠的是想象力你之所以赚不到钱或许就是这个原因思路太狭隘赚钱想象力创业商业认知商业思维",
+  "owner_name": "曲曲官方帐号",
+  "status": "downloaded",
+  "reason": null,
+  "subtitle": {
+    "id": 1860752525603503104,
+    "lan": "ai-zh",
+    "lan_doc": "中文",
+    "is_lock": false,
+    "subtitle_url": "https://aisubtitle.hdslb.com/bfs/ai_subtitle/prod/11534134673514332930269208cd7943befa8c8b9f3c872618e4c765d0",
+    "type": 1,
+    "id_str": "1860752525603503104",
+    "ai_type": 0,
+    "ai_status": 2
+  },
+  "raw_subtitle_path": "data\\raw\\bilibili\\subtitles\\ququ-business-search-2026-04-26\\BV11ExrzrEaz-ai-zh.raw.json",
+  "text_path": "data\\raw\\bilibili\\subtitles\\ququ-business-search-2026-04-26\\BV11ExrzrEaz-ai-zh.txt",
+  "metadata_path": "data\\raw\\bilibili\\subtitles\\ququ-business-search-2026-04-26\\BV11ExrzrEaz-ai-zh.metadata.json"
+}

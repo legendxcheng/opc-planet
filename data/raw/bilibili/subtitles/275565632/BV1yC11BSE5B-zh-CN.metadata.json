@@ -1,0 +1,23 @@
+{
+  "bvid": "BV1yC11BSE5B",
+  "cid": 33798030518,
+  "title": "我用 AI 给算法做了一面镜子，流量百万",
+  "owner_name": "dontbesilent聊赚钱",
+  "status": "downloaded",
+  "reason": null,
+  "subtitle": {
+    "id": 31982964274364419,
+    "lan": "zh-CN",
+    "lan_doc": "中文（中国）",
+    "is_lock": false,
+    "author_mid": 483301783,
+    "subtitle_url": "https://aisubtitle.hdslb.com/bfs/subtitle/fc03562711af08687398775a4423dc71028e1203.json",
+    "type": 0,
+    "id_str": "31982964274364419",
+    "ai_type": 0,
+    "ai_status": 0
+  },
+  "raw_subtitle_path": "data\\raw\\bilibili\\subtitles\\275565632\\BV1yC11BSE5B-zh-CN.raw.json",
+  "text_path": "data\\raw\\bilibili\\subtitles\\275565632\\BV1yC11BSE5B-zh-CN.txt",
+  "metadata_path": "data\\raw\\bilibili\\subtitles\\275565632\\BV1yC11BSE5B-zh-CN.metadata.json"
+}

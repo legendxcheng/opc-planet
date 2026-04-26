@@ -1,0 +1,22 @@
+{
+  "bvid": "BV1fGotYoEf8",
+  "cid": 29065480679,
+  "title": "大公司拓展新业务，为何总是失败收场？",
+  "owner_name": "边大娘FM",
+  "status": "downloaded",
+  "reason": null,
+  "subtitle": {
+    "id": 1717639911357785856,
+    "lan": "ai-zh",
+    "lan_doc": "中文",
+    "is_lock": false,
+    "subtitle_url": "https://aisubtitle.hdslb.com/bfs/ai_subtitle/prod/11422326273532029065480679ec6be95b367f34987eff16b1ccfb3985",
+    "type": 1,
+    "id_str": "1717639911357785856",
+    "ai_type": 0,
+    "ai_status": 2
+  },
+  "raw_subtitle_path": "data\\raw\\bilibili\\subtitles\\1900638792\\BV1fGotYoEf8-ai-zh.raw.json",
+  "text_path": "data\\raw\\bilibili\\subtitles\\1900638792\\BV1fGotYoEf8-ai-zh.txt",
+  "metadata_path": "data\\raw\\bilibili\\subtitles\\1900638792\\BV1fGotYoEf8-ai-zh.metadata.json"
+}

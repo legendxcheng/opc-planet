@@ -1,0 +1,22 @@
+{
+  "bvid": "BV1yv1rBzE3c",
+  "cid": 33683999246,
+  "title": "如何成为更值钱的博主：流量变现底层逻辑",
+  "owner_name": "dontbesilent聊赚钱",
+  "status": "downloaded",
+  "reason": null,
+  "subtitle": {
+    "id": 1880173506281682432,
+    "lan": "ai-zh",
+    "lan_doc": "中文",
+    "is_lock": false,
+    "subtitle_url": "https://aisubtitle.hdslb.com/bfs/ai_subtitle/prod/115490177486016336839992468a017884474cb0e43008af37b700d6e2",
+    "type": 1,
+    "id_str": "1880173506281682432",
+    "ai_type": 0,
+    "ai_status": 2
+  },
+  "raw_subtitle_path": "data\\raw\\bilibili\\subtitles\\275565632\\BV1yv1rBzE3c-ai-zh.raw.json",
+  "text_path": "data\\raw\\bilibili\\subtitles\\275565632\\BV1yv1rBzE3c-ai-zh.txt",
+  "metadata_path": "data\\raw\\bilibili\\subtitles\\275565632\\BV1yv1rBzE3c-ai-zh.metadata.json"
+}

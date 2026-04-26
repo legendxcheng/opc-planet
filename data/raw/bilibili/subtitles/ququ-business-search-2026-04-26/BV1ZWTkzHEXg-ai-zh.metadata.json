@@ -1,0 +1,22 @@
+{
+  "bvid": "BV1ZWTkzHEXg",
+  "cid": 30419649405,
+  "title": "闺蜜联盟面对面，跟雄竞姐妹聊商业太丝滑了，尤其是做高端市场，一定是长期主义+复利思维=大结果",
+  "owner_name": "曲美人大本营",
+  "status": "downloaded",
+  "reason": null,
+  "subtitle": {
+    "id": 1590665917174430208,
+    "lan": "ai-zh",
+    "lan_doc": "中文",
+    "is_lock": false,
+    "subtitle_url": "https://aisubtitle.hdslb.com/bfs/ai_subtitle/prod/11323125950239926091129167fb879befde0283a51066be61f59aeb9f",
+    "type": 1,
+    "id_str": "1590665917174430208",
+    "ai_type": 0,
+    "ai_status": 2
+  },
+  "raw_subtitle_path": "data\\raw\\bilibili\\subtitles\\ququ-business-search-2026-04-26\\BV1ZWTkzHEXg-ai-zh.raw.json",
+  "text_path": "data\\raw\\bilibili\\subtitles\\ququ-business-search-2026-04-26\\BV1ZWTkzHEXg-ai-zh.txt",
+  "metadata_path": "data\\raw\\bilibili\\subtitles\\ququ-business-search-2026-04-26\\BV1ZWTkzHEXg-ai-zh.metadata.json"
+}

@@ -1,0 +1,1900 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.0,
+      "to": 1.14,
+      "sid": 1,
+      "location": 2,
+      "content": "你见过这样的国家吗",
+      "music": 0.0
+    },
+    {
+      "from": 1.14,
+      "to": 3.72,
+      "sid": 2,
+      "location": 2,
+      "content": "他高喊着人民当家做主的口号",
+      "music": 0.0
+    },
+    {
+      "from": 6.76,
+      "to": 9.44,
+      "sid": 3,
+      "location": 2,
+      "content": "宣称自己是人类历史上第一个",
+      "music": 0.0
+    },
+    {
+      "from": 11.72,
+      "to": 13.4,
+      "sid": 4,
+      "location": 2,
+      "content": "他们却用一道严苛的法令",
+      "music": 0.0
+    },
+    {
+      "from": 13.4,
+      "to": 15.6,
+      "sid": 5,
+      "location": 2,
+      "content": "将国家的主人禁锢在流水线上",
+      "music": 0.0
+    },
+    {
+      "from": 15.6,
+      "to": 17.56,
+      "sid": 6,
+      "location": 2,
+      "content": "沦为国家工业发展上的奴隶",
+      "music": 0.0
+    },
+    {
+      "from": 17.56,
+      "to": 19.08,
+      "sid": 7,
+      "location": 2,
+      "content": "这可不是什么反乌托邦",
+      "music": 0.0
+    },
+    {
+      "from": 19.08,
+      "to": 19.99,
+      "sid": 8,
+      "location": 2,
+      "content": "电影里的情节",
+      "music": 0.0
+    },
+    {
+      "from": 19.99,
+      "to": 22.17,
+      "sid": 9,
+      "location": 2,
+      "content": "而是真真切切发生过的现实",
+      "music": 0.0
+    },
+    {
+      "from": 22.17,
+      "to": 23.39,
+      "sid": 10,
+      "location": 2,
+      "content": "1940年6月",
+      "music": 0.0
+    },
+    {
+      "from": 23.39,
+      "to": 26.62,
+      "sid": 11,
+      "location": 2,
+      "content": "一道荒唐的劳动法在苏联横空出世",
+      "music": 0.0
+    },
+    {
+      "from": 26.62,
+      "to": 28.48,
+      "sid": 12,
+      "location": 2,
+      "content": "在延长工作时间的同时",
+      "music": 0.0
+    },
+    {
+      "from": 28.48,
+      "to": 31.72,
+      "sid": 13,
+      "location": 2,
+      "content": "还将矿工和离职列入到刑事犯罪的范畴",
+      "music": 0.0
+    },
+    {
+      "from": 35.42,
+      "to": 38.92,
+      "sid": 14,
+      "location": 2,
+      "content": "这事儿从里到外都透着一股诡异的荒唐",
+      "music": 0.0
+    },
+    {
+      "from": 38.92,
+      "to": 41.08,
+      "sid": 15,
+      "location": 2,
+      "content": "一个标榜解放全人类的国家",
+      "music": 0.0
+    },
+    {
+      "from": 41.08,
+      "to": 43.08,
+      "sid": 16,
+      "location": 2,
+      "content": "为何要用最严苛的法律",
+      "music": 0.0
+    },
+    {
+      "from": 43.08,
+      "to": 45.28,
+      "sid": 17,
+      "location": 2,
+      "content": "把自己的工人控制在工厂里",
+      "music": 0.0
+    },
+    {
+      "from": 45.28,
+      "to": 47.74,
+      "sid": 18,
+      "location": 2,
+      "content": "一个本应是国家主人的阶级",
+      "music": 0.0
+    },
+    {
+      "from": 47.74,
+      "to": 50.46,
+      "sid": 19,
+      "location": 2,
+      "content": "为何连迟到一分钟的自由都没有",
+      "music": 0.0
+    },
+    {
+      "from": 50.46,
+      "to": 53.98,
+      "sid": 20,
+      "location": 2,
+      "content": "甚至连生病照顾家人都成了犯罪的前提",
+      "music": 0.0
+    },
+    {
+      "from": 53.98,
+      "to": 56.74,
+      "sid": 21,
+      "location": 2,
+      "content": "今天我们就来聊聊这条荒唐的劳动法",
+      "music": 0.0
+    },
+    {
+      "from": 56.74,
+      "to": 59.9,
+      "sid": 22,
+      "location": 2,
+      "content": "看看他是如何把国家的主人逼成了行尸走肉",
+      "music": 0.0
+    },
+    {
+      "from": 59.9,
+      "to": 62.98,
+      "sid": 23,
+      "location": 2,
+      "content": "又如何为帝国的崩塌埋下最深的伏笔",
+      "music": 0.0
+    },
+    {
+      "from": 62.98,
+      "to": 64.86,
+      "sid": 24,
+      "location": 2,
+      "content": "1924年1月21日",
+      "music": 0.0
+    },
+    {
+      "from": 64.86,
+      "to": 66.82,
+      "sid": 25,
+      "location": 2,
+      "content": "伟大的无产阶级革命家",
+      "music": 0.0
+    },
+    {
+      "from": 66.82,
+      "to": 70.63,
+      "sid": 26,
+      "location": 2,
+      "content": "苏联的缔造者列宁因中风突然离世",
+      "music": 0.0
+    },
+    {
+      "from": 70.63,
+      "to": 72.41,
+      "sid": 27,
+      "location": 2,
+      "content": "享年54岁",
+      "music": 0.0
+    },
+    {
+      "from": 72.41,
+      "to": 73.43,
+      "sid": 28,
+      "location": 2,
+      "content": "列宁死后",
+      "music": 0.0
+    },
+    {
+      "from": 73.43,
+      "to": 75.42,
+      "sid": 29,
+      "location": 2,
+      "content": "苏联内部的矛盾迅速激化",
+      "music": 0.0
+    },
+    {
+      "from": 78.14,
+      "to": 80.14,
+      "sid": 30,
+      "location": 2,
+      "content": "后来自格鲁吉亚的暴脾气",
+      "music": 0.0
+    },
+    {
+      "from": 80.14,
+      "to": 81.0,
+      "sid": 31,
+      "location": 2,
+      "content": "斯大林上位",
+      "music": 0.0
+    },
+    {
+      "from": 81.0,
+      "to": 82.83,
+      "sid": 32,
+      "location": 2,
+      "content": "成为苏联第二代话事人",
+      "music": 0.0
+    },
+    {
+      "from": 82.83,
+      "to": 85.53,
+      "sid": 33,
+      "location": 2,
+      "content": "这位主张国家至上的格鲁吉亚人掌权后",
+      "music": 0.0
+    },
+    {
+      "from": 85.53,
+      "to": 87.21,
+      "sid": 34,
+      "location": 2,
+      "content": "立刻就对列宁留下的遗产",
+      "music": 0.0
+    },
+    {
+      "from": 87.21,
+      "to": 88.9,
+      "sid": 35,
+      "location": 2,
+      "content": "展开了大刀阔斧的改革",
+      "music": 0.0
+    },
+    {
+      "from": 88.9,
+      "to": 91.1,
+      "sid": 36,
+      "location": 2,
+      "content": "他废除了列宁时代的新经济政策",
+      "music": 0.0
+    },
+    {
+      "from": 91.1,
+      "to": 93.74,
+      "sid": 37,
+      "location": 2,
+      "content": "将市场机制彻底赶出了苏联社会",
+      "music": 0.0
+    },
+    {
+      "from": 93.74,
+      "to": 95.58,
+      "sid": 38,
+      "location": 2,
+      "content": "而为了应对外来势力的威胁",
+      "music": 0.0
+    },
+    {
+      "from": 95.58,
+      "to": 98.56,
+      "sid": 39,
+      "location": 2,
+      "content": "他将国家重心放在了军事产业和重工业上",
+      "music": 0.0
+    },
+    {
+      "from": 98.56,
+      "to": 102.04,
+      "sid": 40,
+      "location": 2,
+      "content": "誓要用10年时间走完资本主义世界100年的路",
+      "music": 0.0
+    },
+    {
+      "from": 102.04,
+      "to": 105.72,
+      "sid": 41,
+      "location": 2,
+      "content": "于是一场轰轰烈烈又近乎疯狂的工业化运动",
+      "music": 0.0
+    },
+    {
+      "from": 105.72,
+      "to": 106.26,
+      "sid": 42,
+      "location": 2,
+      "content": "开始了",
+      "music": 0.0
+    },
+    {
+      "from": 106.26,
+      "to": 107.78,
+      "sid": 43,
+      "location": 2,
+      "content": "在5年计划的框架下",
+      "music": 0.0
+    },
+    {
+      "from": 107.78,
+      "to": 110.1,
+      "sid": 44,
+      "location": 2,
+      "content": "苏联工业规模迎来火箭般的提升",
+      "music": 0.0
+    },
+    {
+      "from": 110.1,
+      "to": 113.479,
+      "sid": 45,
+      "location": 2,
+      "content": "乌拉尔工业区的工厂如雨后春笋一般拔地而起",
+      "music": 0.0
+    },
+    {
+      "from": 113.479,
+      "to": 115.399,
+      "sid": 46,
+      "location": 2,
+      "content": "顿巴斯的煤矿彻夜运作",
+      "music": 0.0
+    },
+    {
+      "from": 115.399,
+      "to": 117.719,
+      "sid": 47,
+      "location": 2,
+      "content": "煤炭钢铁产量迅速翻倍",
+      "music": 0.0
+    },
+    {
+      "from": 117.719,
+      "to": 120.039,
+      "sid": 48,
+      "location": 2,
+      "content": "在短时间内实现了弯道超车",
+      "music": 0.0
+    },
+    {
+      "from": 120.039,
+      "to": 122.25,
+      "sid": 49,
+      "location": 2,
+      "content": "一跃成为欧洲第一工业国",
+      "music": 0.0
+    },
+    {
+      "from": 124.41,
+      "to": 126.27,
+      "sid": 50,
+      "location": 2,
+      "content": "背后是看不见的牺牲",
+      "music": 0.0
+    },
+    {
+      "from": 126.27,
+      "to": 128.75,
+      "sid": 51,
+      "location": 2,
+      "content": "那些投身国家工业建设的工人们",
+      "music": 0.0
+    },
+    {
+      "from": 128.75,
+      "to": 130.519,
+      "sid": 52,
+      "location": 2,
+      "content": "他们的生活是什么样的",
+      "music": 0.0
+    },
+    {
+      "from": 130.519,
+      "to": 131.919,
+      "sid": 53,
+      "location": 2,
+      "content": "首先在待遇上",
+      "music": 0.0
+    },
+    {
+      "from": 131.919,
+      "to": 134.12,
+      "sid": 54,
+      "location": 2,
+      "content": "苏联工人的薪水微薄的可怜",
+      "music": 0.0
+    },
+    {
+      "from": 134.12,
+      "to": 136.28,
+      "sid": 55,
+      "location": 2,
+      "content": "大部分工人拿到的薪水仅仅够",
+      "music": 0.0
+    },
+    {
+      "from": 136.28,
+      "to": 138.06,
+      "sid": 56,
+      "location": 2,
+      "content": "勉强维持一家人的基本生存",
+      "music": 0.0
+    },
+    {
+      "from": 138.06,
+      "to": 139.2,
+      "sid": 57,
+      "location": 2,
+      "content": "食品配给的不足",
+      "music": 0.0
+    },
+    {
+      "from": 139.2,
+      "to": 142.38,
+      "sid": 58,
+      "location": 2,
+      "content": "让饥饿成为那个时代苏联工人们最熟悉的朋友",
+      "music": 0.0
+    },
+    {
+      "from": 142.38,
+      "to": 145.32,
+      "sid": 59,
+      "location": 2,
+      "content": "其次工作环境与也是恶劣到了极点",
+      "music": 0.0
+    },
+    {
+      "from": 145.32,
+      "to": 147.32,
+      "sid": 60,
+      "location": 2,
+      "content": "为了追求更有效的生产方式",
+      "music": 0.0
+    },
+    {
+      "from": 147.32,
+      "to": 150.08,
+      "sid": 61,
+      "location": 2,
+      "content": "苏联官方几乎将所有工业经费都用在了",
+      "music": 0.0
+    },
+    {
+      "from": 150.08,
+      "to": 152.22,
+      "sid": 62,
+      "location": 2,
+      "content": "购买海外机械和雇佣专家身上",
+      "music": 0.0
+    },
+    {
+      "from": 152.22,
+      "to": 153.96,
+      "sid": 63,
+      "location": 2,
+      "content": "安全建设基本没有",
+      "music": 0.0
+    },
+    {
+      "from": 153.96,
+      "to": 155.04,
+      "sid": 64,
+      "location": 2,
+      "content": "车间里的噪音",
+      "music": 0.0
+    },
+    {
+      "from": 155.04,
+      "to": 155.8,
+      "sid": 65,
+      "location": 2,
+      "content": "震耳欲聋",
+      "music": 0.0
+    },
+    {
+      "from": 155.8,
+      "to": 156.76,
+      "sid": 66,
+      "location": 2,
+      "content": "空气污浊",
+      "music": 0.0
+    },
+    {
+      "from": 156.76,
+      "to": 158.56,
+      "sid": 67,
+      "location": 2,
+      "content": "工伤事故频繁发生",
+      "music": 0.0
+    },
+    {
+      "from": 158.56,
+      "to": 161.68,
+      "sid": 68,
+      "location": 2,
+      "content": "不少工人连爽像样的劳保手套都没有",
+      "music": 0.0
+    },
+    {
+      "from": 161.68,
+      "to": 163.88,
+      "sid": 69,
+      "location": 2,
+      "content": "于是在各种负面因素的影响下",
+      "music": 0.0
+    },
+    {
+      "from": 163.88,
+      "to": 165.18,
+      "sid": 70,
+      "location": 2,
+      "content": "一条最朴素",
+      "music": 0.0
+    },
+    {
+      "from": 165.18,
+      "to": 168.26,
+      "sid": 71,
+      "location": 2,
+      "content": "最直接的反抗之路摆在了苏联工人面前",
+      "music": 0.0
+    },
+    {
+      "from": 168.26,
+      "to": 169.36,
+      "sid": 72,
+      "location": 2,
+      "content": "那就是一个字",
+      "music": 0.0
+    },
+    {
+      "from": 169.36,
+      "to": 171.379,
+      "sid": 73,
+      "location": 2,
+      "content": "跑工人不是傻子",
+      "music": 0.0
+    },
+    {
+      "from": 171.379,
+      "to": 172.679,
+      "sid": 74,
+      "location": 2,
+      "content": "在工厂累死累活",
+      "music": 0.0
+    },
+    {
+      "from": 172.679,
+      "to": 173.439,
+      "sid": 75,
+      "location": 2,
+      "content": "还吃不饱",
+      "music": 0.0
+    },
+    {
+      "from": 173.439,
+      "to": 175.67,
+      "sid": 76,
+      "location": 2,
+      "content": "还有受伤没命的风险不跑",
+      "music": 0.0
+    },
+    {
+      "from": 175.67,
+      "to": 177.59,
+      "sid": 77,
+      "location": 2,
+      "content": "等着领导给家里人发抚恤金啊",
+      "music": 0.0
+    },
+    {
+      "from": 179.61,
+      "to": 181.55,
+      "sid": 78,
+      "location": 2,
+      "content": "苏联的劳动力是相对自由的",
+      "music": 0.0
+    },
+    {
+      "from": 181.55,
+      "to": 183.99,
+      "sid": 79,
+      "location": 2,
+      "content": "企业没有权利阻止工人辞职",
+      "music": 0.0
+    },
+    {
+      "from": 183.99,
+      "to": 187.63,
+      "sid": 80,
+      "location": 2,
+      "content": "于是劳动力流失的风在苏联工业体系内刮起来",
+      "music": 0.0
+    },
+    {
+      "from": 187.63,
+      "to": 189.35,
+      "sid": 81,
+      "location": 2,
+      "content": "工人们开始货比三家",
+      "music": 0.0
+    },
+    {
+      "from": 189.35,
+      "to": 190.38,
+      "sid": 82,
+      "location": 2,
+      "content": "骑驴找马",
+      "music": 0.0
+    },
+    {
+      "from": 190.38,
+      "to": 193.22,
+      "sid": 83,
+      "location": 2,
+      "content": "要么向环境待遇好的厂子那边讨生活",
+      "music": 0.0
+    },
+    {
+      "from": 193.22,
+      "to": 194.9,
+      "sid": 84,
+      "location": 2,
+      "content": "要么干脆跑到乡下",
+      "music": 0.0
+    },
+    {
+      "from": 194.9,
+      "to": 196.34,
+      "sid": 85,
+      "location": 2,
+      "content": "甚至向东拓荒",
+      "music": 0.0
+    },
+    {
+      "from": 196.34,
+      "to": 198.93,
+      "sid": 86,
+      "location": 2,
+      "content": "然而这种大规模的劳动力流失",
+      "music": 0.0
+    },
+    {
+      "from": 198.93,
+      "to": 200.79,
+      "sid": 87,
+      "location": 2,
+      "content": "对于苏联而言是致命的",
+      "music": 0.0
+    },
+    {
+      "from": 200.79,
+      "to": 203.81,
+      "sid": 88,
+      "location": 2,
+      "content": "我们都知道苏联的经济模式是指令性的",
+      "music": 0.0
+    },
+    {
+      "from": 203.81,
+      "to": 206.29,
+      "sid": 89,
+      "location": 2,
+      "content": "国家计划委员会负责制定生产计划",
+      "music": 0.0
+    },
+    {
+      "from": 206.29,
+      "to": 209.49,
+      "sid": 90,
+      "location": 2,
+      "content": "用人话来讲就是今年要造多少工业品",
+      "music": 0.0
+    },
+    {
+      "from": 209.49,
+      "to": 210.65,
+      "sid": 91,
+      "location": 2,
+      "content": "大致需要多少",
+      "music": 0.0
+    },
+    {
+      "from": 210.65,
+      "to": 211.14,
+      "sid": 92,
+      "location": 2,
+      "content": "工人",
+      "music": 0.0
+    },
+    {
+      "from": 211.14,
+      "to": 212.94,
+      "sid": 93,
+      "location": 2,
+      "content": "都是根据计算来的",
+      "music": 0.0
+    },
+    {
+      "from": 212.94,
+      "to": 215.0,
+      "sid": 94,
+      "location": 2,
+      "content": "结果赶上劳动力流失的风潮",
+      "music": 0.0
+    },
+    {
+      "from": 215.0,
+      "to": 215.98,
+      "sid": 95,
+      "location": 2,
+      "content": "工人跑了",
+      "music": 0.0
+    },
+    {
+      "from": 215.98,
+      "to": 217.62,
+      "sid": 96,
+      "location": 2,
+      "content": "计划自然就落空了",
+      "music": 0.0
+    },
+    {
+      "from": 217.62,
+      "to": 220.48,
+      "sid": 97,
+      "location": 2,
+      "content": "宏伟的工业蓝图瞬间就成了一纸空文",
+      "music": 0.0
+    },
+    {
+      "from": 220.48,
+      "to": 222.52,
+      "sid": 98,
+      "location": 2,
+      "content": "那些坐镇中央和地方政府",
+      "music": 0.0
+    },
+    {
+      "from": 222.52,
+      "to": 224.56,
+      "sid": 99,
+      "location": 2,
+      "content": "整日指点江山的职业官僚们",
+      "music": 0.0
+    },
+    {
+      "from": 224.56,
+      "to": 226.5,
+      "sid": 100,
+      "location": 2,
+      "content": "看着如雪片般飞来的报告",
+      "music": 0.0
+    },
+    {
+      "from": 226.5,
+      "to": 228.06,
+      "sid": 101,
+      "location": 2,
+      "content": "可谓是心急如焚",
+      "music": 0.0
+    },
+    {
+      "from": 228.06,
+      "to": 228.85,
+      "sid": 102,
+      "location": 2,
+      "content": "怎么办",
+      "music": 0.0
+    },
+    {
+      "from": 228.85,
+      "to": 230.45,
+      "sid": 103,
+      "location": 2,
+      "content": "给工人改善待遇",
+      "music": 0.0
+    },
+    {
+      "from": 230.45,
+      "to": 232.53,
+      "sid": 104,
+      "location": 2,
+      "content": "加工资那可不行",
+      "music": 0.0
+    },
+    {
+      "from": 232.53,
+      "to": 234.53,
+      "sid": 105,
+      "location": 2,
+      "content": "加工资要花真金白银",
+      "music": 0.0
+    },
+    {
+      "from": 234.53,
+      "to": 236.43,
+      "sid": 106,
+      "location": 2,
+      "content": "可现在国库里的那点子儿",
+      "music": 0.0
+    },
+    {
+      "from": 236.43,
+      "to": 239.87,
+      "sid": 107,
+      "location": 2,
+      "content": "基本上都拿去买西方技术设备和聘请工程师了",
+      "music": 0.0
+    },
+    {
+      "from": 239.87,
+      "to": 241.85,
+      "sid": 108,
+      "location": 2,
+      "content": "要是现在给工人们加了工资",
+      "music": 0.0
+    },
+    {
+      "from": 241.85,
+      "to": 244.18,
+      "sid": 109,
+      "location": 2,
+      "content": "新设备新技术都还没完全落地",
+      "music": 0.0
+    },
+    {
+      "from": 244.18,
+      "to": 245.66,
+      "sid": 110,
+      "location": 2,
+      "content": "万一从中出了岔子",
+      "music": 0.0
+    },
+    {
+      "from": 245.66,
+      "to": 247.14,
+      "sid": 111,
+      "location": 2,
+      "content": "上面给的KPI完不成",
+      "music": 0.0
+    },
+    {
+      "from": 247.14,
+      "to": 248.24,
+      "sid": 112,
+      "location": 2,
+      "content": "那谁来担待",
+      "music": 0.0
+    },
+    {
+      "from": 248.24,
+      "to": 251.08,
+      "sid": 113,
+      "location": 2,
+      "content": "况且以斯大林动不动就杀人的暴脾气",
+      "music": 0.0
+    },
+    {
+      "from": 251.08,
+      "to": 252.49,
+      "sid": 114,
+      "location": 2,
+      "content": "谁又敢起这个头",
+      "music": 0.0
+    },
+    {
+      "from": 252.49,
+      "to": 253.99,
+      "sid": 115,
+      "location": 2,
+      "content": "既然胡萝卜战术行不通",
+      "music": 0.0
+    },
+    {
+      "from": 253.99,
+      "to": 255.29,
+      "sid": 116,
+      "location": 2,
+      "content": "那就只能先苦一苦",
+      "music": 0.0
+    },
+    {
+      "from": 255.29,
+      "to": 255.81,
+      "sid": 117,
+      "location": 2,
+      "content": "百姓",
+      "music": 0.0
+    },
+    {
+      "from": 255.81,
+      "to": 258.67,
+      "sid": 118,
+      "location": 2,
+      "content": "用大棒先把工人们驱赶到工位上",
+      "music": 0.0
+    },
+    {
+      "from": 258.67,
+      "to": 260.98,
+      "sid": 119,
+      "location": 2,
+      "content": "于是在1940年6月26日",
+      "music": 0.0
+    },
+    {
+      "from": 260.98,
+      "to": 262.86,
+      "sid": 120,
+      "location": 2,
+      "content": "苏联当局用最粗暴的方式",
+      "music": 0.0
+    },
+    {
+      "from": 262.86,
+      "to": 264.54,
+      "sid": 121,
+      "location": 2,
+      "content": "回应了劳动力流失的现状",
+      "music": 0.0
+    },
+    {
+      "from": 264.54,
+      "to": 267.78,
+      "sid": 122,
+      "location": 2,
+      "content": "他们用一条严苛的法令彻底终结了这个问题",
+      "music": 0.0
+    },
+    {
+      "from": 267.78,
+      "to": 269.98,
+      "sid": 123,
+      "location": 2,
+      "content": "人类这种生物在干坏事",
+      "music": 0.0
+    },
+    {
+      "from": 269.98,
+      "to": 272.17,
+      "sid": 124,
+      "location": 2,
+      "content": "这个方面就从来不缺少创造力",
+      "music": 0.0
+    },
+    {
+      "from": 272.17,
+      "to": 275.27,
+      "sid": 125,
+      "location": 2,
+      "content": "而苏联的立法专家更是这个领域里的佼佼者",
+      "music": 0.0
+    },
+    {
+      "from": 275.27,
+      "to": 276.83,
+      "sid": 126,
+      "location": 2,
+      "content": "在这群官僚的运作下",
+      "music": 0.0
+    },
+    {
+      "from": 276.83,
+      "to": 279.81,
+      "sid": 127,
+      "location": 2,
+      "content": "这部劳动法来到了一个前所未有的高度",
+      "music": 0.0
+    },
+    {
+      "from": 279.81,
+      "to": 281.37,
+      "sid": 128,
+      "location": 2,
+      "content": "首先法令规定",
+      "music": 0.0
+    },
+    {
+      "from": 281.37,
+      "to": 283.45,
+      "sid": 129,
+      "location": 2,
+      "content": "企业职工如果擅自离职",
+      "music": 0.0
+    },
+    {
+      "from": 283.45,
+      "to": 285.79,
+      "sid": 130,
+      "location": 2,
+      "content": "或者想通过辞职来换个工作",
+      "music": 0.0
+    },
+    {
+      "from": 285.79,
+      "to": 286.53,
+      "sid": 131,
+      "location": 2,
+      "content": "对不起",
+      "music": 0.0
+    },
+    {
+      "from": 286.53,
+      "to": 288.35,
+      "sid": 132,
+      "location": 2,
+      "content": "这不叫追求更好生活",
+      "music": 0.0
+    },
+    {
+      "from": 290.27,
+      "to": 292.75,
+      "sid": 133,
+      "location": 2,
+      "content": "需要被判处二到4年的监禁",
+      "music": 0.0
+    },
+    {
+      "from": 292.75,
+      "to": 296.2,
+      "sid": 134,
+      "location": 2,
+      "content": "其次凡是迟到早退超过20分钟",
+      "music": 0.0
+    },
+    {
+      "from": 296.2,
+      "to": 297.74,
+      "sid": 135,
+      "location": 2,
+      "content": "一律按旷工处理",
+      "music": 0.0
+    },
+    {
+      "from": 297.74,
+      "to": 299.36,
+      "sid": 136,
+      "location": 2,
+      "content": "矿工不仅要被扣工资",
+      "music": 0.0
+    },
+    {
+      "from": 299.36,
+      "to": 301.2,
+      "sid": 137,
+      "location": 2,
+      "content": "还要被判两个月的强制劳动",
+      "music": 0.0
+    },
+    {
+      "from": 301.2,
+      "to": 301.94,
+      "sid": 138,
+      "location": 2,
+      "content": "更要命的是",
+      "music": 0.0
+    },
+    {
+      "from": 301.94,
+      "to": 304.4,
+      "sid": 139,
+      "location": 2,
+      "content": "这条法令没有任何例外的条款",
+      "music": 0.0
+    },
+    {
+      "from": 304.4,
+      "to": 307.05,
+      "sid": 140,
+      "location": 2,
+      "content": "不管你有什么理由突发疾病",
+      "music": 0.0
+    },
+    {
+      "from": 307.05,
+      "to": 308.05,
+      "sid": 141,
+      "location": 2,
+      "content": "亲人去世",
+      "music": 0.0
+    },
+    {
+      "from": 308.05,
+      "to": 309.31,
+      "sid": 142,
+      "location": 2,
+      "content": "甚至世界末日",
+      "music": 0.0
+    },
+    {
+      "from": 309.31,
+      "to": 311.85,
+      "sid": 143,
+      "location": 2,
+      "content": "只要你没有提前准备好的请假条",
+      "music": 0.0
+    },
+    {
+      "from": 311.85,
+      "to": 312.87,
+      "sid": 144,
+      "location": 2,
+      "content": "那么恭喜你",
+      "music": 0.0
+    },
+    {
+      "from": 312.87,
+      "to": 315.02,
+      "sid": 145,
+      "location": 2,
+      "content": "你触发了伟大的劳动法",
+      "music": 0.0
+    },
+    {
+      "from": 315.02,
+      "to": 316.54,
+      "sid": 146,
+      "location": 2,
+      "content": "门卫工会干事",
+      "music": 0.0
+    },
+    {
+      "from": 316.54,
+      "to": 317.38,
+      "sid": 147,
+      "location": 2,
+      "content": "车间主任",
+      "music": 0.0
+    },
+    {
+      "from": 317.38,
+      "to": 319.18,
+      "sid": 148,
+      "location": 2,
+      "content": "这些本应保护工人的人",
+      "music": 0.0
+    },
+    {
+      "from": 319.18,
+      "to": 321.14,
+      "sid": 149,
+      "location": 2,
+      "content": "一夜之间都变成了狱警",
+      "music": 0.0
+    },
+    {
+      "from": 321.14,
+      "to": 325.32,
+      "sid": 150,
+      "location": 2,
+      "content": "他们的职责之一就是拿着秒表蹲在工厂门口",
+      "music": 0.0
+    },
+    {
+      "from": 325.32,
+      "to": 327.52,
+      "sid": 151,
+      "location": 2,
+      "content": "记下每一个迟到的工人名字",
+      "music": 0.0
+    },
+    {
+      "from": 327.52,
+      "to": 328.64,
+      "sid": 152,
+      "location": 2,
+      "content": "然后上报",
+      "music": 0.0
+    },
+    {
+      "from": 328.64,
+      "to": 329.9,
+      "sid": 153,
+      "location": 2,
+      "content": "从这一天起",
+      "music": 0.0
+    },
+    {
+      "from": 329.9,
+      "to": 333.57,
+      "sid": 154,
+      "location": 2,
+      "content": "苏联的工厂就变成了一座座没有围墙的监狱",
+      "music": 0.0
+    },
+    {
+      "from": 333.57,
+      "to": 335.57,
+      "sid": 155,
+      "location": 2,
+      "content": "数字是最有说服力的",
+      "music": 0.0
+    },
+    {
+      "from": 335.57,
+      "to": 338.21,
+      "sid": 156,
+      "location": 2,
+      "content": "在法令颁布后的1940年下半年",
+      "music": 0.0
+    },
+    {
+      "from": 338.21,
+      "to": 339.55,
+      "sid": 157,
+      "location": 2,
+      "content": "仅仅半年的时间",
+      "music": 0.0
+    },
+    {
+      "from": 339.55,
+      "to": 341.77,
+      "sid": 158,
+      "location": 2,
+      "content": "就有近20万苏联工人被判刑",
+      "music": 0.0
+    },
+    {
+      "from": 341.77,
+      "to": 343.75,
+      "sid": 159,
+      "location": 2,
+      "content": "而根据后来的历史学者统计",
+      "music": 0.0
+    },
+    {
+      "from": 343.75,
+      "to": 346.02,
+      "sid": 160,
+      "location": 2,
+      "content": "从1940年到1956年",
+      "music": 0.0
+    },
+    {
+      "from": 346.02,
+      "to": 347.82,
+      "sid": 161,
+      "location": 2,
+      "content": "在长达16年的时间里",
+      "music": 0.0
+    },
+    {
+      "from": 347.82,
+      "to": 351.58,
+      "sid": 162,
+      "location": 2,
+      "content": "因为这条法令而被监禁或强制劳动的工人总数",
+      "music": 0.0
+    },
+    {
+      "from": 351.58,
+      "to": 352.89,
+      "sid": 163,
+      "location": 2,
+      "content": "超过了300万人",
+      "music": 0.0
+    },
+    {
+      "from": 352.89,
+      "to": 355.71,
+      "sid": 164,
+      "location": 2,
+      "content": "要知道苏联当时的总人口才不到2亿人",
+      "music": 0.0
+    },
+    {
+      "from": 355.71,
+      "to": 357.95,
+      "sid": 165,
+      "location": 2,
+      "content": "这300多万身陷翎羽的工人",
+      "music": 0.0
+    },
+    {
+      "from": 357.95,
+      "to": 360.01,
+      "sid": 166,
+      "location": 2,
+      "content": "都是那些宣传画上容光焕发",
+      "music": 0.0
+    },
+    {
+      "from": 361.56,
+      "to": 364.18,
+      "sid": 167,
+      "location": 2,
+      "content": "他们被剥夺了支配自己时间的权利",
+      "music": 0.0
+    },
+    {
+      "from": 364.18,
+      "to": 366.02,
+      "sid": 168,
+      "location": 2,
+      "content": "被剥夺了选择工作的自由",
+      "music": 0.0
+    },
+    {
+      "from": 366.02,
+      "to": 369.1,
+      "sid": 169,
+      "location": 2,
+      "content": "被自己当家做主的国家亲手送进了劳改营",
+      "music": 0.0
+    },
+    {
+      "from": 369.1,
+      "to": 370.14,
+      "sid": 170,
+      "location": 2,
+      "content": "更讽刺的是",
+      "music": 0.0
+    },
+    {
+      "from": 370.14,
+      "to": 372.6,
+      "sid": 171,
+      "location": 2,
+      "content": "当工人们沦为新时代农奴的同时",
+      "music": 0.0
+    },
+    {
+      "from": 372.6,
+      "to": 375.76,
+      "sid": 172,
+      "location": 2,
+      "content": "那些远在莫斯科列宁格勒的高级官僚们",
+      "music": 0.0
+    },
+    {
+      "from": 375.76,
+      "to": 377.98,
+      "sid": 173,
+      "location": 2,
+      "content": "正住在政府安排的宽敞住所",
+      "music": 0.0
+    },
+    {
+      "from": 377.98,
+      "to": 381.14,
+      "sid": 174,
+      "location": 2,
+      "content": "享受着特供商店里买不到的鱼子酱和威士忌",
+      "music": 0.0
+    },
+    {
+      "from": 381.14,
+      "to": 384.74,
+      "sid": 175,
+      "location": 2,
+      "content": "每个月还能从斯大林手里拿个装满钞票的信封",
+      "music": 0.0
+    },
+    {
+      "from": 384.74,
+      "to": 386.1,
+      "sid": 176,
+      "location": 2,
+      "content": "他们可以把自己的亲戚",
+      "music": 0.0
+    },
+    {
+      "from": 386.1,
+      "to": 388.37,
+      "sid": 177,
+      "location": 2,
+      "content": "随手塞进某个清闲的机关岗位里",
+      "music": 0.0
+    },
+    {
+      "from": 388.37,
+      "to": 390.49,
+      "sid": 178,
+      "location": 2,
+      "content": "拿着远高于一线工人的工资",
+      "music": 0.0
+    },
+    {
+      "from": 390.49,
+      "to": 393.13,
+      "sid": 179,
+      "location": 2,
+      "content": "而每天的工作内容就是喝茶看报",
+      "music": 0.0
+    },
+    {
+      "from": 393.13,
+      "to": 394.92,
+      "sid": 180,
+      "location": 2,
+      "content": "随手批阅送上来的文件",
+      "music": 0.0
+    },
+    {
+      "from": 396.36,
+      "to": 398.34,
+      "sid": 181,
+      "location": 2,
+      "content": "享受着社会发展带来的福利",
+      "music": 0.0
+    },
+    {
+      "from": 398.34,
+      "to": 401.24,
+      "sid": 182,
+      "location": 2,
+      "content": "而创造价值的工人们却只能自愿加班",
+      "music": 0.0
+    },
+    {
+      "from": 401.24,
+      "to": 403.07,
+      "sid": 183,
+      "location": 2,
+      "content": "为苏联的工业化献身",
+      "music": 0.0
+    },
+    {
+      "from": 403.07,
+      "to": 406.23,
+      "sid": 184,
+      "location": 2,
+      "content": "他们用最严苛的法律去约束工人的自由",
+      "music": 0.0
+    },
+    {
+      "from": 406.23,
+      "to": 407.69,
+      "sid": 185,
+      "location": 2,
+      "content": "却用最隐蔽的权力",
+      "music": 0.0
+    },
+    {
+      "from": 407.69,
+      "to": 410.47,
+      "sid": 186,
+      "location": 2,
+      "content": "为自己和家人谋取最舒适的岗位",
+      "music": 0.0
+    },
+    {
+      "from": 412.65,
+      "to": 415.15,
+      "sid": 187,
+      "location": 2,
+      "content": "政府宣传与社会现实的巨大割裂",
+      "music": 0.0
+    },
+    {
+      "from": 415.15,
+      "to": 416.27,
+      "sid": 188,
+      "location": 2,
+      "content": "不仅伤害了工人",
+      "music": 0.0
+    },
+    {
+      "from": 416.27,
+      "to": 419.299,
+      "sid": 189,
+      "location": 2,
+      "content": "也对整个苏联社会造成了不可逆的损伤",
+      "music": 0.0
+    },
+    {
+      "from": 419.299,
+      "to": 422.579,
+      "sid": 190,
+      "location": 2,
+      "content": "主要是这条法令并没有带来苏联高级官僚",
+      "music": 0.0
+    },
+    {
+      "from": 422.579,
+      "to": 423.86,
+      "sid": 191,
+      "location": 2,
+      "content": "心中的高效生产",
+      "music": 0.0
+    },
+    {
+      "from": 423.86,
+      "to": 425.54,
+      "sid": 192,
+      "location": 2,
+      "content": "即便苏联在卫国战争期间",
+      "music": 0.0
+    },
+    {
+      "from": 425.54,
+      "to": 427.46,
+      "sid": 193,
+      "location": 2,
+      "content": "展现出了极强的工业生产能力",
+      "music": 0.0
+    },
+    {
+      "from": 427.46,
+      "to": 430.08,
+      "sid": 194,
+      "location": 2,
+      "content": "但这种繁荣只是建立在国民众志成城",
+      "music": 0.0
+    },
+    {
+      "from": 430.08,
+      "to": 431.12,
+      "sid": 195,
+      "location": 2,
+      "content": "抗击纳粹之上",
+      "music": 0.0
+    },
+    {
+      "from": 431.12,
+      "to": 432.9,
+      "sid": 196,
+      "location": 2,
+      "content": "和这条法令的关系并不大",
+      "music": 0.0
+    },
+    {
+      "from": 432.9,
+      "to": 434.54,
+      "sid": 197,
+      "location": 2,
+      "content": "而随着卫国战争的胜利",
+      "music": 0.0
+    },
+    {
+      "from": 434.54,
+      "to": 438.0,
+      "sid": 198,
+      "location": 2,
+      "content": "工人们的境遇却没有因战争结束而得到改善",
+      "music": 0.0
+    },
+    {
+      "from": 438.0,
+      "to": 440.6,
+      "sid": 199,
+      "location": 2,
+      "content": "当他们发现自己连生病的权利都没有时",
+      "music": 0.0
+    },
+    {
+      "from": 440.6,
+      "to": 442.97,
+      "sid": 200,
+      "location": 2,
+      "content": "这些国家的主人彻底心寒了",
+      "music": 0.0
+    },
+    {
+      "from": 442.97,
+      "to": 445.45,
+      "sid": 201,
+      "location": 2,
+      "content": "于是一种更深层次的反抗",
+      "music": 0.0
+    },
+    {
+      "from": 445.45,
+      "to": 448.86,
+      "sid": 202,
+      "location": 2,
+      "content": "消极怠工开始在全苏联的工厂里蔓延",
+      "music": 0.0
+    },
+    {
+      "from": 448.86,
+      "to": 450.44,
+      "sid": 203,
+      "location": 2,
+      "content": "工人们学会了磨洋工",
+      "music": 0.0
+    },
+    {
+      "from": 450.44,
+      "to": 452.16,
+      "sid": 204,
+      "location": 2,
+      "content": "他们往往在早上打卡之后",
+      "music": 0.0
+    },
+    {
+      "from": 452.16,
+      "to": 453.72,
+      "sid": 205,
+      "location": 2,
+      "content": "就开始在车间里晃荡",
+      "music": 0.0
+    },
+    {
+      "from": 453.72,
+      "to": 455.02,
+      "sid": 206,
+      "location": 2,
+      "content": "抽烟聊天",
+      "music": 0.0
+    },
+    {
+      "from": 455.02,
+      "to": 456.66,
+      "sid": 207,
+      "location": 2,
+      "content": "至于厂里的生产指标",
+      "music": 0.0
+    },
+    {
+      "from": 456.66,
+      "to": 458.58,
+      "sid": 208,
+      "location": 2,
+      "content": "那是车间主任要操心的事情",
+      "music": 0.0
+    },
+    {
+      "from": 458.58,
+      "to": 460.56,
+      "sid": 209,
+      "location": 2,
+      "content": "和咱们打工的又有什么关系",
+      "music": 0.0
+    },
+    {
+      "from": 460.56,
+      "to": 462.9,
+      "sid": 210,
+      "location": 2,
+      "content": "那你说产品质量反正都差不多",
+      "music": 0.0
+    },
+    {
+      "from": 462.9,
+      "to": 463.94,
+      "sid": 211,
+      "location": 2,
+      "content": "能用就行",
+      "music": 0.0
+    },
+    {
+      "from": 463.94,
+      "to": 465.96,
+      "sid": 212,
+      "location": 2,
+      "content": "工厂的效率变得极其低下",
+      "music": 0.0
+    },
+    {
+      "from": 465.96,
+      "to": 467.54,
+      "sid": 213,
+      "location": 2,
+      "content": "废品率居高不下",
+      "music": 0.0
+    },
+    {
+      "from": 467.54,
+      "to": 469.7,
+      "sid": 214,
+      "location": 2,
+      "content": "在军工企业甚至出现了",
+      "music": 0.0
+    },
+    {
+      "from": 469.7,
+      "to": 471.06,
+      "sid": 215,
+      "location": 2,
+      "content": "因为工人故意偷懒",
+      "music": 0.0
+    },
+    {
+      "from": 471.06,
+      "to": 473.34,
+      "sid": 216,
+      "location": 2,
+      "content": "导致坦克变速箱里混进铁屑",
+      "music": 0.0
+    },
+    {
+      "from": 473.34,
+      "to": 476.21,
+      "sid": 217,
+      "location": 2,
+      "content": "在交付后连日常训练都完不成",
+      "music": 0.0
+    },
+    {
+      "from": 476.21,
+      "to": 478.91,
+      "sid": 218,
+      "location": 2,
+      "content": "苏联官僚们本想用恐惧来鞭策工人",
+      "music": 0.0
+    },
+    {
+      "from": 478.91,
+      "to": 480.409,
+      "sid": 219,
+      "location": 2,
+      "content": "最后却弄巧成拙",
+      "music": 0.0
+    },
+    {
+      "from": 480.409,
+      "to": 482.709,
+      "sid": 220,
+      "location": 2,
+      "content": "用绝望毁掉了他们的劳动积极性",
+      "music": 0.0
+    },
+    {
+      "from": 482.709,
+      "to": 484.929,
+      "sid": 221,
+      "location": 2,
+      "content": "把工人阶级推到了苏维埃的对立面",
+      "music": 0.0
+    },
+    {
+      "from": 484.929,
+      "to": 486.12,
+      "sid": 222,
+      "location": 2,
+      "content": "直到1956年",
+      "music": 0.0
+    },
+    {
+      "from": 488.76,
+      "to": 490.93,
+      "sid": 223,
+      "location": 2,
+      "content": "这条不得人心的法令才被废除",
+      "music": 0.0
+    },
+    {
+      "from": 490.93,
+      "to": 493.51,
+      "sid": 224,
+      "location": 2,
+      "content": "尽管苏联官方在之后推动绩效改革",
+      "music": 0.0
+    },
+    {
+      "from": 493.51,
+      "to": 495.01,
+      "sid": 225,
+      "location": 2,
+      "content": "着手提高工人待遇",
+      "music": 0.0
+    },
+    {
+      "from": 495.01,
+      "to": 497.26,
+      "sid": 226,
+      "location": 2,
+      "content": "但摸鱼摆烂早已深入骨髓",
+      "music": 0.0
+    },
+    {
+      "from": 497.26,
+      "to": 498.34,
+      "sid": 227,
+      "location": 2,
+      "content": "当信任崩塌",
+      "music": 0.0
+    },
+    {
+      "from": 498.34,
+      "to": 500.22,
+      "sid": 228,
+      "location": 2,
+      "content": "再谈重建已没有什么可能",
+      "music": 0.0
+    },
+    {
+      "from": 500.22,
+      "to": 503.26,
+      "sid": 229,
+      "location": 2,
+      "content": "总有人将苏联的解体归咎于戈尔巴乔夫的失败",
+      "music": 0.0
+    },
+    {
+      "from": 505.16,
+      "to": 507.32,
+      "sid": 230,
+      "location": 2,
+      "content": "但他们都忽视了这道荒唐法令",
+      "music": 0.0
+    },
+    {
+      "from": 507.32,
+      "to": 510.42,
+      "sid": 231,
+      "location": 2,
+      "content": "早已给这个红色帝国埋下了一颗覆灭的种子",
+      "music": 0.0
+    },
+    {
+      "from": 513.16,
+      "to": 516.539,
+      "sid": 232,
+      "location": 2,
+      "content": "一个高喊着全世界无产者联合起来的国家",
+      "music": 0.0
+    },
+    {
+      "from": 516.539,
+      "to": 518.659,
+      "sid": 233,
+      "location": 2,
+      "content": "却亲手用最残忍的法律",
+      "music": 0.0
+    },
+    {
+      "from": 518.659,
+      "to": 521.22,
+      "sid": 234,
+      "location": 2,
+      "content": "把自己的工人逼成了囚犯和奴隶",
+      "music": 0.0
+    },
+    {
+      "from": 522.5,
+      "to": 524.54,
+      "sid": 235,
+      "location": 2,
+      "content": "沉没的人民就会用脚投票",
+      "music": 0.0
+    },
+    {
+      "from": 524.54,
+      "to": 526.96,
+      "sid": 236,
+      "location": 2,
+      "content": "政权的覆灭也只是时间问题",
+      "music": 0.0
+    }
+  ]
+}

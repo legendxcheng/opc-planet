@@ -1,0 +1,596 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.04,
+      "to": 3.31,
+      "sid": 1,
+      "location": 2,
+      "content": "你们有没有看那个美国的那个片子",
+      "music": 0.0
+    },
+    {
+      "from": 3.31,
+      "to": 4.65,
+      "sid": 2,
+      "location": 2,
+      "content": "就是那个金牌经纪人",
+      "music": 0.0
+    },
+    {
+      "from": 4.65,
+      "to": 8.34,
+      "sid": 3,
+      "location": 2,
+      "content": "他们那些在纽约卖豪宅的那帮人老有钱了",
+      "music": 0.0
+    },
+    {
+      "from": 8.34,
+      "to": 10.5,
+      "sid": 4,
+      "location": 2,
+      "content": "你看看现在上海卖豪宅那帮人",
+      "music": 0.0
+    },
+    {
+      "from": 10.5,
+      "to": 12.64,
+      "sid": 5,
+      "location": 2,
+      "content": "上海最著名的那几个卖豪宅的",
+      "music": 0.0
+    },
+    {
+      "from": 12.64,
+      "to": 13.98,
+      "sid": 6,
+      "location": 2,
+      "content": "出门都是宾利",
+      "music": 0.0
+    },
+    {
+      "from": 13.98,
+      "to": 16.8,
+      "sid": 7,
+      "location": 2,
+      "content": "真的就你们要是就是想搞钱啊",
+      "music": 0.0
+    },
+    {
+      "from": 16.8,
+      "to": 18.54,
+      "sid": 8,
+      "location": 2,
+      "content": "就得离钱近",
+      "music": 0.0
+    },
+    {
+      "from": 18.54,
+      "to": 20.34,
+      "sid": 9,
+      "location": 2,
+      "content": "是不是哪个地方有钱",
+      "music": 0.0
+    },
+    {
+      "from": 20.34,
+      "to": 20.94,
+      "sid": 10,
+      "location": 2,
+      "content": "我去哪里",
+      "music": 0.0
+    },
+    {
+      "from": 20.94,
+      "to": 22.12,
+      "sid": 11,
+      "location": 2,
+      "content": "这个就叫搞钱的态度",
+      "music": 0.0
+    },
+    {
+      "from": 22.12,
+      "to": 26.64,
+      "sid": 12,
+      "location": 2,
+      "content": "在职场里边能够拿到就是百万往上的啊对吧",
+      "music": 0.0
+    },
+    {
+      "from": 26.64,
+      "to": 28.7,
+      "sid": 13,
+      "location": 2,
+      "content": "实现1000万以上就到个四五千四五十",
+      "music": 0.0
+    },
+    {
+      "from": 28.7,
+      "to": 29.88,
+      "sid": 14,
+      "location": 2,
+      "content": "你能实现个1000万以上",
+      "music": 0.0
+    },
+    {
+      "from": 29.88,
+      "to": 31.54,
+      "sid": 15,
+      "location": 2,
+      "content": "但这种如果你靠打工",
+      "music": 0.0
+    },
+    {
+      "from": 31.54,
+      "to": 33.93,
+      "sid": 16,
+      "location": 2,
+      "content": "你一定是企业里面的高管",
+      "music": 0.0
+    },
+    {
+      "from": 33.93,
+      "to": 35.77,
+      "sid": 17,
+      "location": 2,
+      "content": "你要拿到这样的一个收入水平",
+      "music": 0.0
+    },
+    {
+      "from": 35.77,
+      "to": 36.81,
+      "sid": 18,
+      "location": 2,
+      "content": "在企业里面去做",
+      "music": 0.0
+    },
+    {
+      "from": 36.81,
+      "to": 39.05,
+      "sid": 19,
+      "location": 2,
+      "content": "你是不是得是一个特别才华横溢的人",
+      "music": 0.0
+    },
+    {
+      "from": 39.05,
+      "to": 40.74,
+      "sid": 20,
+      "location": 2,
+      "content": "你才有可能做到所谓的高管啊",
+      "music": 0.0
+    },
+    {
+      "from": 40.74,
+      "to": 43.34,
+      "sid": 21,
+      "location": 2,
+      "content": "那你这种特别特别才华横溢",
+      "music": 0.0
+    },
+    {
+      "from": 43.34,
+      "to": 44.3,
+      "sid": 22,
+      "location": 2,
+      "content": "他是怎么体现出来的",
+      "music": 0.0
+    },
+    {
+      "from": 44.3,
+      "to": 46.26,
+      "sid": 23,
+      "location": 2,
+      "content": "是从学生时代你就体现出来了",
+      "music": 0.0
+    },
+    {
+      "from": 46.26,
+      "to": 49.18,
+      "sid": 24,
+      "location": 2,
+      "content": "就是学生时代你可能就是属于那种学霸型的人",
+      "music": 0.0
+    },
+    {
+      "from": 49.18,
+      "to": 49.82,
+      "sid": 25,
+      "location": 2,
+      "content": "对不对",
+      "music": 0.0
+    },
+    {
+      "from": 49.82,
+      "to": 50.86,
+      "sid": 26,
+      "location": 2,
+      "content": "特别的会学习",
+      "music": 0.0
+    },
+    {
+      "from": 50.86,
+      "to": 52.43,
+      "sid": 27,
+      "location": 2,
+      "content": "特别的会考试的这一帮",
+      "music": 0.0
+    },
+    {
+      "from": 52.43,
+      "to": 54.55,
+      "sid": 28,
+      "location": 2,
+      "content": "动不动的就能上就能上清北啊",
+      "music": 0.0
+    },
+    {
+      "from": 54.55,
+      "to": 55.85,
+      "sid": 29,
+      "location": 2,
+      "content": "什么上常青藤什么这种的",
+      "music": 0.0
+    },
+    {
+      "from": 55.85,
+      "to": 59.99,
+      "sid": 30,
+      "location": 2,
+      "content": "他在企业里面相对来说就能拿到更好的资源",
+      "music": 0.0
+    },
+    {
+      "from": 59.99,
+      "to": 62.45,
+      "sid": 31,
+      "location": 2,
+      "content": "但是所有的普罗大众",
+      "music": 0.0
+    },
+    {
+      "from": 62.45,
+      "to": 65.29,
+      "sid": 32,
+      "location": 2,
+      "content": "也就是说99.99%的普罗大众",
+      "music": 0.0
+    },
+    {
+      "from": 65.29,
+      "to": 67.79,
+      "sid": 33,
+      "location": 2,
+      "content": "如果想要去靠拢财富自由这件事情",
+      "music": 0.0
+    },
+    {
+      "from": 67.79,
+      "to": 69.74,
+      "sid": 34,
+      "location": 2,
+      "content": "除了销售别无他法",
+      "music": 0.0
+    },
+    {
+      "from": 69.74,
+      "to": 71.5,
+      "sid": 35,
+      "location": 2,
+      "content": "那么你只有做好销售",
+      "music": 0.0
+    },
+    {
+      "from": 71.5,
+      "to": 73.5,
+      "sid": 36,
+      "location": 2,
+      "content": "你才有可能成就商业对吧",
+      "music": 0.0
+    },
+    {
+      "from": 73.5,
+      "to": 74.42,
+      "sid": 37,
+      "location": 2,
+      "content": "他是一个顺向逻辑",
+      "music": 0.0
+    },
+    {
+      "from": 74.42,
+      "to": 75.5,
+      "sid": 38,
+      "location": 2,
+      "content": "也说一个好的销售",
+      "music": 0.0
+    },
+    {
+      "from": 75.5,
+      "to": 79.17,
+      "sid": 39,
+      "location": 2,
+      "content": "他更有概率去成为一个成功的创业者",
+      "music": 0.0
+    },
+    {
+      "from": 79.25,
+      "to": 80.21,
+      "sid": 40,
+      "location": 2,
+      "content": "这是普通人",
+      "music": 0.0
+    },
+    {
+      "from": 80.21,
+      "to": 82.59,
+      "sid": 41,
+      "location": 2,
+      "content": "所以为什么我们说年入100万",
+      "music": 0.0
+    },
+    {
+      "from": 82.59,
+      "to": 86.37,
+      "sid": 42,
+      "location": 2,
+      "content": "比年薪100万要简单1万倍",
+      "music": 0.0
+    },
+    {
+      "from": 86.37,
+      "to": 87.99,
+      "sid": 43,
+      "location": 2,
+      "content": "就年入100万",
+      "music": 0.0
+    },
+    {
+      "from": 87.99,
+      "to": 90.14,
+      "sid": 44,
+      "location": 2,
+      "content": "是你开动你的脑筋对吧",
+      "music": 0.0
+    },
+    {
+      "from": 90.14,
+      "to": 91.46,
+      "sid": 45,
+      "location": 2,
+      "content": "然后打开你的野心",
+      "music": 0.0
+    },
+    {
+      "from": 91.46,
+      "to": 92.54,
+      "sid": 46,
+      "location": 2,
+      "content": "打开你的嗅觉",
+      "music": 0.0
+    },
+    {
+      "from": 92.54,
+      "to": 94.76,
+      "sid": 47,
+      "location": 2,
+      "content": "然后在这个市场上面去捕捉这样的机会",
+      "music": 0.0
+    },
+    {
+      "from": 94.76,
+      "to": 97.25,
+      "sid": 48,
+      "location": 2,
+      "content": "然后形成销售闭环就能达到的事情",
+      "music": 0.0
+    },
+    {
+      "from": 97.25,
+      "to": 98.77,
+      "sid": 49,
+      "location": 2,
+      "content": "但是年薪100万",
+      "music": 0.0
+    },
+    {
+      "from": 98.77,
+      "to": 100.65,
+      "sid": 50,
+      "location": 2,
+      "content": "那是你从小到大",
+      "music": 0.0
+    },
+    {
+      "from": 100.65,
+      "to": 102.63,
+      "sid": 51,
+      "location": 2,
+      "content": "可能你就得走这种精英路线",
+      "music": 0.0
+    },
+    {
+      "from": 102.63,
+      "to": 104.8,
+      "sid": 52,
+      "location": 2,
+      "content": "你就是很会学习啊",
+      "music": 0.0
+    },
+    {
+      "from": 104.8,
+      "to": 105.62,
+      "sid": 53,
+      "location": 2,
+      "content": "很会考试啊",
+      "music": 0.0
+    },
+    {
+      "from": 105.62,
+      "to": 106.64,
+      "sid": 54,
+      "location": 2,
+      "content": "然后应聘的时候",
+      "music": 0.0
+    },
+    {
+      "from": 106.64,
+      "to": 108.72,
+      "sid": 55,
+      "location": 2,
+      "content": "你就是拿着学历一出来就非常的闪光",
+      "music": 0.0
+    },
+    {
+      "from": 108.72,
+      "to": 109.74,
+      "sid": 56,
+      "location": 2,
+      "content": "非常的耀眼对吧",
+      "music": 0.0
+    },
+    {
+      "from": 109.74,
+      "to": 110.96,
+      "sid": 57,
+      "location": 2,
+      "content": "人家高薪聘你的时候",
+      "music": 0.0
+    },
+    {
+      "from": 110.96,
+      "to": 113.76,
+      "sid": 58,
+      "location": 2,
+      "content": "就就就就就你人家只要是高薪出来求人才",
+      "music": 0.0
+    },
+    {
+      "from": 113.76,
+      "to": 114.66,
+      "sid": 59,
+      "location": 2,
+      "content": "一定是高学历",
+      "music": 0.0
+    },
+    {
+      "from": 114.66,
+      "to": 115.66,
+      "sid": 60,
+      "location": 2,
+      "content": "一定是强背景",
+      "music": 0.0
+    },
+    {
+      "from": 115.66,
+      "to": 116.0,
+      "sid": 61,
+      "location": 2,
+      "content": "对不对",
+      "music": 0.0
+    },
+    {
+      "from": 116.0,
+      "to": 117.56,
+      "sid": 62,
+      "location": 2,
+      "content": "高学历强背景一挑就把你挑中",
+      "music": 0.0
+    },
+    {
+      "from": 117.56,
+      "to": 118.64,
+      "sid": 63,
+      "location": 2,
+      "content": "你这多难呐",
+      "music": 0.0
+    },
+    {
+      "from": 118.64,
+      "to": 120.7,
+      "sid": 64,
+      "location": 2,
+      "content": "但是销售是可以学的",
+      "music": 0.0
+    },
+    {
+      "from": 120.7,
+      "to": 121.76,
+      "sid": 65,
+      "location": 2,
+      "content": "就是要敢搞",
+      "music": 0.0
+    },
+    {
+      "from": 121.76,
+      "to": 122.76,
+      "sid": 66,
+      "location": 2,
+      "content": "说白了就是我敢卖",
+      "music": 0.0
+    },
+    {
+      "from": 122.76,
+      "to": 123.3,
+      "sid": 67,
+      "location": 2,
+      "content": "我敢张嘴",
+      "music": 0.0
+    },
+    {
+      "from": 123.3,
+      "to": 124.04,
+      "sid": 68,
+      "location": 2,
+      "content": "我敢卖对吧",
+      "music": 0.0
+    },
+    {
+      "from": 124.04,
+      "to": 127.999,
+      "sid": 69,
+      "location": 2,
+      "content": "我愿意把我认可的产品卖给卖给信任我的人",
+      "music": 0.0
+    },
+    {
+      "from": 127.999,
+      "to": 129.119,
+      "sid": 70,
+      "location": 2,
+      "content": "然后实现这个闭环",
+      "music": 0.0
+    },
+    {
+      "from": 129.119,
+      "to": 130.099,
+      "sid": 71,
+      "location": 2,
+      "content": "不断的去实现这个闭环",
+      "music": 0.0
+    },
+    {
+      "from": 130.099,
+      "to": 130.839,
+      "sid": 72,
+      "location": 2,
+      "content": "其实年入100万",
+      "music": 0.0
+    },
+    {
+      "from": 130.839,
+      "to": 132.34,
+      "sid": 73,
+      "location": 2,
+      "content": "他相对来说就会比较轻松",
+      "music": 0.0
+    }
+  ]
+}

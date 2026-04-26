@@ -1,0 +1,77 @@
+- banner [ref=e2]:
+  - generic [ref=e4]:
+    - list [ref=e5]:
+      - listitem [ref=e6]:
+        - link "首页" [ref=e7] [cursor=pointer]:
+          - /url: //www.bilibili.com
+          - img [ref=e8]
+          - generic [ref=e10]:
+            - generic [ref=e11]: 首页
+            - img [ref=e12]
+      - listitem [ref=e15]:
+        - link "番剧" [ref=e16] [cursor=pointer]:
+          - /url: //www.bilibili.com/anime/
+      - listitem [ref=e17]:
+        - link "直播" [ref=e18] [cursor=pointer]:
+          - /url: //live.bilibili.com
+      - listitem [ref=e19]:
+        - link "游戏中心" [ref=e20] [cursor=pointer]:
+          - /url: //game.bilibili.com/platform
+      - listitem [ref=e21]:
+        - link "会员购" [ref=e22] [cursor=pointer]:
+          - /url: //show.bilibili.com/platform/home.html?msource=pc_web
+      - listitem [ref=e23]:
+        - link "漫画" [ref=e24] [cursor=pointer]:
+          - /url: //manga.bilibili.com?from=bill_top_mnav
+      - listitem [ref=e25]:
+        - link "赛事" [ref=e26] [cursor=pointer]:
+          - /url: //www.bilibili.com/match/home/
+      - listitem [ref=e27]:
+        - link "下载客户端" [ref=e28] [cursor=pointer]:
+          - /url: //app.bilibili.com
+          - img [ref=e29]
+          - generic [ref=e32]: 下载客户端
+    - generic [ref=e36]:
+      - textbox [ref=e38]
+      - img [ref=e40] [cursor=pointer]
+    - list [ref=e42]:
+      - listitem [ref=e43] [cursor=pointer]:
+        - link [ref=e44]:
+          - /url: //space.bilibili.com/66771496
+      - listitem [ref=e48]:
+        - link "大会员" [ref=e49] [cursor=pointer]:
+          - /url: //account.bilibili.com/big
+          - img [ref=e50]
+          - generic [ref=e55]: 大会员
+      - listitem [ref=e56]:
+        - link "消息" [ref=e57] [cursor=pointer]:
+          - /url: //message.bilibili.com
+          - img [ref=e58]
+          - generic [ref=e61]: 消息
+      - listitem [ref=e62]:
+        - link "动态" [ref=e63] [cursor=pointer]:
+          - /url: //t.bilibili.com/
+          - img [ref=e64]
+          - generic [ref=e70]: 动态
+      - listitem [ref=e71]:
+        - link "收藏" [ref=e72] [cursor=pointer]:
+          - /url: //space.bilibili.com/66771496/favlist
+          - img [ref=e73]
+          - generic [ref=e76]: 收藏
+      - listitem [ref=e77]:
+        - link "历史" [ref=e78] [cursor=pointer]:
+          - /url: //www.bilibili.com/history
+          - img [ref=e79]
+          - generic [ref=e81]: 历史
+      - listitem [ref=e82] [cursor=pointer]:
+        - link "创作中心" [ref=e83]:
+          - /url: //member.bilibili.com/platform/home
+          - img [ref=e84]
+          - generic [ref=e88]: 创作中心
+      - listitem [ref=e89] [cursor=pointer]:
+        - listitem [ref=e90]:
+          - link "投稿" [ref=e91]:
+            - /url: //member.bilibili.com/platform/upload/video/frame
+            - generic [ref=e92]:
+              - img [ref=e93]
+              - generic [ref=e96]: 投稿

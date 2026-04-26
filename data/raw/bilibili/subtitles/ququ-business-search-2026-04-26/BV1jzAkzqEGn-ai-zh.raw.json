@@ -1,0 +1,1068 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.0,
+      "to": 0.44,
+      "sid": 1,
+      "location": 2,
+      "content": "大家好",
+      "music": 0.0
+    },
+    {
+      "from": 0.44,
+      "to": 1.42,
+      "sid": 2,
+      "location": 2,
+      "content": "我是吴祖的",
+      "music": 0.0
+    },
+    {
+      "from": 1.42,
+      "to": 2.52,
+      "sid": 3,
+      "location": 2,
+      "content": "然后曲奇你好",
+      "music": 0.0
+    },
+    {
+      "from": 2.52,
+      "to": 3.44,
+      "sid": 4,
+      "location": 2,
+      "content": "我是你的老乡",
+      "music": 0.0
+    },
+    {
+      "from": 3.44,
+      "to": 4.88,
+      "sid": 5,
+      "location": 2,
+      "content": "我也是武汉的",
+      "music": 0.0
+    },
+    {
+      "from": 4.88,
+      "to": 8.29,
+      "sid": 6,
+      "location": 2,
+      "content": "然后呢我叫蔡希菜呢是蔡依林的菜",
+      "music": 0.0
+    },
+    {
+      "from": 8.29,
+      "to": 9.55,
+      "sid": 7,
+      "location": 2,
+      "content": "西呢是西瓜的西",
+      "music": 0.0
+    },
+    {
+      "from": 9.55,
+      "to": 10.83,
+      "sid": 8,
+      "location": 2,
+      "content": "我是做医美的",
+      "music": 0.0
+    },
+    {
+      "from": 10.83,
+      "to": 13.43,
+      "sid": 9,
+      "location": 2,
+      "content": "我的资源范围是全中国的整形医院",
+      "music": 0.0
+    },
+    {
+      "from": 13.43,
+      "to": 15.079,
+      "sid": 10,
+      "location": 2,
+      "content": "我都能拿到内部的折扣",
+      "music": 0.0
+    },
+    {
+      "from": 15.079,
+      "to": 18.179,
+      "sid": 11,
+      "location": 2,
+      "content": "但是呢苦于现在线上宣传比较严格",
+      "music": 0.0
+    },
+    {
+      "from": 18.179,
+      "to": 19.72,
+      "sid": 12,
+      "location": 2,
+      "content": "很容易违规限流",
+      "music": 0.0
+    },
+    {
+      "from": 19.72,
+      "to": 21.42,
+      "sid": 13,
+      "location": 2,
+      "content": "就导致我很多号都被封了",
+      "music": 0.0
+    },
+    {
+      "from": 21.42,
+      "to": 23.45,
+      "sid": 14,
+      "location": 2,
+      "content": "在线下的拓客上引流也比较难",
+      "music": 0.0
+    },
+    {
+      "from": 23.45,
+      "to": 26.01,
+      "sid": 15,
+      "location": 2,
+      "content": "所以想问一下您能不能针对医美行业",
+      "music": 0.0
+    },
+    {
+      "from": 26.01,
+      "to": 28.37,
+      "sid": 16,
+      "location": 2,
+      "content": "在线上和线下能不能给些建议",
+      "music": 0.0
+    },
+    {
+      "from": 28.37,
+      "to": 30.51,
+      "sid": 17,
+      "location": 2,
+      "content": "但是我刚刚听曲曲线上课也说了",
+      "music": 0.0
+    },
+    {
+      "from": 30.51,
+      "to": 32.4,
+      "sid": 18,
+      "location": 2,
+      "content": "就是医美行业现在不太好做",
+      "music": 0.0
+    },
+    {
+      "from": 32.4,
+      "to": 35.42,
+      "sid": 19,
+      "location": 2,
+      "content": "所以说如果做医美想要转行的话",
+      "music": 0.0
+    },
+    {
+      "from": 35.42,
+      "to": 37.52,
+      "sid": 20,
+      "location": 2,
+      "content": "有这个基础适合转行哪些行业",
+      "music": 0.0
+    },
+    {
+      "from": 37.52,
+      "to": 38.34,
+      "sid": 21,
+      "location": 2,
+      "content": "哪些方向呢",
+      "music": 0.0
+    },
+    {
+      "from": 38.34,
+      "to": 39.9,
+      "sid": 22,
+      "location": 2,
+      "content": "嗯我觉得其实也不是说",
+      "music": 0.0
+    },
+    {
+      "from": 39.9,
+      "to": 42.28,
+      "sid": 23,
+      "location": 2,
+      "content": "医美的行业怎么就不好做啊",
+      "music": 0.0
+    },
+    {
+      "from": 42.28,
+      "to": 45.2,
+      "sid": 24,
+      "location": 2,
+      "content": "你相较于现在很多其他的行业来说",
+      "music": 0.0
+    },
+    {
+      "from": 45.2,
+      "to": 48.0,
+      "sid": 25,
+      "location": 2,
+      "content": "医美行业还是好做一点的",
+      "music": 0.0
+    },
+    {
+      "from": 48.0,
+      "to": 48.98,
+      "sid": 26,
+      "location": 2,
+      "content": "实话实说",
+      "music": 0.0
+    },
+    {
+      "from": 48.98,
+      "to": 50.9,
+      "sid": 27,
+      "location": 2,
+      "content": "正是因为他太好做了",
+      "music": 0.0
+    },
+    {
+      "from": 50.9,
+      "to": 53.97,
+      "sid": 28,
+      "location": 2,
+      "content": "所以网上才会对他这样围追堵截的",
+      "music": 0.0
+    },
+    {
+      "from": 53.97,
+      "to": 55.61,
+      "sid": 29,
+      "location": 2,
+      "content": "你要这么去思考这个问题",
+      "music": 0.0
+    },
+    {
+      "from": 55.61,
+      "to": 56.75,
+      "sid": 30,
+      "location": 2,
+      "content": "正是因为这个行业",
+      "music": 0.0
+    },
+    {
+      "from": 56.75,
+      "to": 59.28,
+      "sid": 31,
+      "location": 2,
+      "content": "它的它的整个应该说是发展非常的乱",
+      "music": 0.0
+    },
+    {
+      "from": 59.28,
+      "to": 61.7,
+      "sid": 32,
+      "location": 2,
+      "content": "所以说行业行业行业才要去管它对吧",
+      "music": 0.0
+    },
+    {
+      "from": 61.7,
+      "to": 64.22,
+      "sid": 33,
+      "location": 2,
+      "content": "那我觉得你如果说在线上的这个引流",
+      "music": 0.0
+    },
+    {
+      "from": 64.22,
+      "to": 66.9,
+      "sid": 34,
+      "location": 2,
+      "content": "你刚刚讲的一个点我不是很明白啊",
+      "music": 0.0
+    },
+    {
+      "from": 66.9,
+      "to": 70.58,
+      "sid": 35,
+      "location": 2,
+      "content": "什么叫做我有全国的医美的医疗的资源",
+      "music": 0.0
+    },
+    {
+      "from": 70.58,
+      "to": 73.26,
+      "sid": 36,
+      "location": 2,
+      "content": "我能够拿到全部的内部的价格",
+      "music": 0.0
+    },
+    {
+      "from": 73.26,
+      "to": 76.189,
+      "sid": 37,
+      "location": 2,
+      "content": "就是这一句话对于我来说",
+      "music": 0.0
+    },
+    {
+      "from": 76.189,
+      "to": 77.589,
+      "sid": 38,
+      "location": 2,
+      "content": "他是要打一个问号的",
+      "music": 0.0
+    },
+    {
+      "from": 77.589,
+      "to": 79.689,
+      "sid": 39,
+      "location": 2,
+      "content": "因为我们自己也做这件事",
+      "music": 0.0
+    },
+    {
+      "from": 79.689,
+      "to": 83.59,
+      "sid": 40,
+      "location": 2,
+      "content": "所以呢如果你现在讲你是一个渠道",
+      "music": 0.0
+    },
+    {
+      "from": 83.59,
+      "to": 85.93,
+      "sid": 41,
+      "location": 2,
+      "content": "因为你我听下来感觉你你在跟我讲",
+      "music": 0.0
+    },
+    {
+      "from": 85.93,
+      "to": 87.83,
+      "sid": 42,
+      "location": 2,
+      "content": "你是一个渠道的这么一个概念",
+      "music": 0.0
+    },
+    {
+      "from": 87.83,
+      "to": 89.85,
+      "sid": 43,
+      "location": 2,
+      "content": "那么你是一个渠道的概念",
+      "music": 0.0
+    },
+    {
+      "from": 89.85,
+      "to": 93.22,
+      "sid": 44,
+      "location": 2,
+      "content": "要么你手上应该本身就拥有大量的客户",
+      "music": 0.0
+    },
+    {
+      "from": 93.22,
+      "to": 96.74,
+      "sid": 45,
+      "location": 2,
+      "content": "或者说要么你本身能够跟某一家医院",
+      "music": 0.0
+    },
+    {
+      "from": 96.74,
+      "to": 98.7,
+      "sid": 46,
+      "location": 2,
+      "content": "形成一个非常强的强关联",
+      "music": 0.0
+    },
+    {
+      "from": 98.7,
+      "to": 99.52,
+      "sid": 47,
+      "location": 2,
+      "content": "他是因为什么",
+      "music": 0.0
+    },
+    {
+      "from": 99.52,
+      "to": 100.52,
+      "sid": 48,
+      "location": 2,
+      "content": "你是股东",
+      "music": 0.0
+    },
+    {
+      "from": 100.52,
+      "to": 101.77,
+      "sid": 49,
+      "location": 2,
+      "content": "你是创始人",
+      "music": 0.0
+    },
+    {
+      "from": 101.77,
+      "to": 104.49,
+      "sid": 50,
+      "location": 2,
+      "content": "你不能说我我全国的医美我都有资源",
+      "music": 0.0
+    },
+    {
+      "from": 104.49,
+      "to": 106.15,
+      "sid": 51,
+      "location": 2,
+      "content": "我全国我都能拿到底价",
+      "music": 0.0
+    },
+    {
+      "from": 106.15,
+      "to": 107.49,
+      "sid": 52,
+      "location": 2,
+      "content": "那么这个我只能说",
+      "music": 0.0
+    },
+    {
+      "from": 107.49,
+      "to": 108.29,
+      "sid": 53,
+      "location": 2,
+      "content": "你可能是一个",
+      "music": 0.0
+    },
+    {
+      "from": 108.29,
+      "to": 110.86,
+      "sid": 54,
+      "location": 2,
+      "content": "在医美行业沉浸了一些年的业务员啊",
+      "music": 0.0
+    },
+    {
+      "from": 110.86,
+      "to": 112.82,
+      "sid": 55,
+      "location": 2,
+      "content": "你可以把你的客户带到任何一个一家医院",
+      "music": 0.0
+    },
+    {
+      "from": 112.82,
+      "to": 114.42,
+      "sid": 56,
+      "location": 2,
+      "content": "任何一家医院都可以给到你返佣",
+      "music": 0.0
+    },
+    {
+      "from": 114.42,
+      "to": 116.2,
+      "sid": 57,
+      "location": 2,
+      "content": "那我是这么理解这件事",
+      "music": 0.0
+    },
+    {
+      "from": 116.2,
+      "to": 117.68,
+      "sid": 58,
+      "location": 2,
+      "content": "但是如果是这样一件事的话",
+      "music": 0.0
+    },
+    {
+      "from": 117.68,
+      "to": 119.68,
+      "sid": 59,
+      "location": 2,
+      "content": "我觉得你目前其实所在的困境",
+      "music": 0.0
+    },
+    {
+      "from": 119.68,
+      "to": 122.11,
+      "sid": 60,
+      "location": 2,
+      "content": "并不是所谓的流量的问题",
+      "music": 0.0
+    },
+    {
+      "from": 122.11,
+      "to": 124.23,
+      "sid": 61,
+      "location": 2,
+      "content": "而是你在目前这个赛道",
+      "music": 0.0
+    },
+    {
+      "from": 124.23,
+      "to": 126.38,
+      "sid": 62,
+      "location": 2,
+      "content": "没有找到自己的核心竞争力的问题",
+      "music": 0.0
+    },
+    {
+      "from": 126.38,
+      "to": 127.34,
+      "sid": 63,
+      "location": 2,
+      "content": "这个是问题",
+      "music": 0.0
+    },
+    {
+      "from": 127.34,
+      "to": 129.78,
+      "sid": 64,
+      "location": 2,
+      "content": "因为事实上没有一个人可以跟我讲",
+      "music": 0.0
+    },
+    {
+      "from": 129.78,
+      "to": 132.66,
+      "sid": 65,
+      "location": 2,
+      "content": "我可以拿到全国的医院的底价是这样的",
+      "music": 0.0
+    },
+    {
+      "from": 132.66,
+      "to": 134.65,
+      "sid": 66,
+      "location": 2,
+      "content": "那么你的观念首先要变",
+      "music": 0.0
+    },
+    {
+      "from": 134.65,
+      "to": 137.06,
+      "sid": 67,
+      "location": 2,
+      "content": "如果我一个客户到了你手上",
+      "music": 0.0
+    },
+    {
+      "from": 137.06,
+      "to": 140.54,
+      "sid": 68,
+      "location": 2,
+      "content": "你要怎么来判断我把你带去哪家医院呢",
+      "music": 0.0
+    },
+    {
+      "from": 140.54,
+      "to": 141.2,
+      "sid": 69,
+      "location": 2,
+      "content": "对不对",
+      "music": 0.0
+    },
+    {
+      "from": 141.2,
+      "to": 143.31,
+      "sid": 70,
+      "location": 2,
+      "content": "那这是客户他也会产生的一个疑惑",
+      "music": 0.0
+    },
+    {
+      "from": 143.31,
+      "to": 147.49,
+      "sid": 71,
+      "location": 2,
+      "content": "所以有些事情你你认为它是前端的流量的问题",
+      "music": 0.0
+    },
+    {
+      "from": 147.49,
+      "to": 150.48,
+      "sid": 72,
+      "location": 2,
+      "content": "它很有可能是你对于后端的业务链的思考",
+      "music": 0.0
+    },
+    {
+      "from": 150.48,
+      "to": 152.06,
+      "sid": 73,
+      "location": 2,
+      "content": "不够的一个问题",
+      "music": 0.0
+    },
+    {
+      "from": 152.06,
+      "to": 153.4,
+      "sid": 74,
+      "location": 2,
+      "content": "那我觉得与其你说",
+      "music": 0.0
+    },
+    {
+      "from": 153.4,
+      "to": 154.88,
+      "sid": 75,
+      "location": 2,
+      "content": "我可以拿到所有的医院的资源",
+      "music": 0.0
+    },
+    {
+      "from": 154.88,
+      "to": 158.03,
+      "sid": 76,
+      "location": 2,
+      "content": "你不如说哪家医院是我开的对吧",
+      "music": 0.0
+    },
+    {
+      "from": 158.03,
+      "to": 159.93,
+      "sid": 77,
+      "location": 2,
+      "content": "那么我的客户直接就是到我的医院",
+      "music": 0.0
+    },
+    {
+      "from": 159.93,
+      "to": 162.1,
+      "sid": 78,
+      "location": 2,
+      "content": "客户对于你的信任度会更高一些",
+      "music": 0.0
+    },
+    {
+      "from": 162.1,
+      "to": 164.32,
+      "sid": 79,
+      "location": 2,
+      "content": "那么或者说你说哎我想要转型",
+      "music": 0.0
+    },
+    {
+      "from": 164.32,
+      "to": 166.12,
+      "sid": 80,
+      "location": 2,
+      "content": "如果说你真的是想要转型的话",
+      "music": 0.0
+    },
+    {
+      "from": 166.12,
+      "to": 167.72,
+      "sid": 81,
+      "location": 2,
+      "content": "其实我们思考的方向应该是",
+      "music": 0.0
+    },
+    {
+      "from": 167.72,
+      "to": 169.63,
+      "sid": 82,
+      "location": 2,
+      "content": "我现在手头的客户有什么",
+      "music": 0.0
+    },
+    {
+      "from": 169.63,
+      "to": 171.57,
+      "sid": 83,
+      "location": 2,
+      "content": "他们现在还有什么需求",
+      "music": 0.0
+    },
+    {
+      "from": 171.57,
+      "to": 174.51,
+      "sid": 84,
+      "location": 2,
+      "content": "或者说盘你曾经已经消费过的客户",
+      "music": 0.0
+    },
+    {
+      "from": 174.51,
+      "to": 175.73,
+      "sid": 85,
+      "location": 2,
+      "content": "你有听那个数学老师讲",
+      "music": 0.0
+    },
+    {
+      "from": 175.73,
+      "to": 177.98,
+      "sid": 86,
+      "location": 2,
+      "content": "他说我们在我们这里有过一次消费的客户",
+      "music": 0.0
+    },
+    {
+      "from": 177.98,
+      "to": 180.0,
+      "sid": 87,
+      "location": 2,
+      "content": "他来这里再次询单的时候",
+      "music": 0.0
+    },
+    {
+      "from": 180.0,
+      "to": 182.03,
+      "sid": 88,
+      "location": 2,
+      "content": "他的下单率会感达到80%",
+      "music": 0.0
+    },
+    {
+      "from": 182.03,
+      "to": 182.63,
+      "sid": 89,
+      "location": 2,
+      "content": "也就是说",
+      "music": 0.0
+    },
+    {
+      "from": 182.63,
+      "to": 184.85,
+      "sid": 90,
+      "location": 2,
+      "content": "一个客户一旦跟你建立过一次成交链接",
+      "music": 0.0
+    },
+    {
+      "from": 184.85,
+      "to": 186.91,
+      "sid": 91,
+      "location": 2,
+      "content": "那么后面你再去给他做其他产品的时候",
+      "music": 0.0
+    },
+    {
+      "from": 186.91,
+      "to": 188.33,
+      "sid": 92,
+      "location": 2,
+      "content": "如果这个是他的真实需求",
+      "music": 0.0
+    },
+    {
+      "from": 188.33,
+      "to": 190.13,
+      "sid": 93,
+      "location": 2,
+      "content": "他的消费能力会变得非常的强",
+      "music": 0.0
+    },
+    {
+      "from": 190.13,
+      "to": 192.19,
+      "sid": 94,
+      "location": 2,
+      "content": "所以你要看你的客户的这一头",
+      "music": 0.0
+    },
+    {
+      "from": 192.19,
+      "to": 194.41,
+      "sid": 95,
+      "location": 2,
+      "content": "你到底有没有做的很好",
+      "music": 0.0
+    },
+    {
+      "from": 194.41,
+      "to": 195.93,
+      "sid": 96,
+      "location": 2,
+      "content": "那这就是我的建议好不好",
+      "music": 0.0
+    },
+    {
+      "from": 195.93,
+      "to": 197.13,
+      "sid": 97,
+      "location": 2,
+      "content": "谢谢曲曲的解答",
+      "music": 0.0
+    },
+    {
+      "from": 197.13,
+      "to": 198.47,
+      "sid": 98,
+      "location": 2,
+      "content": "然后我稍微补充一下",
+      "music": 0.0
+    },
+    {
+      "from": 198.47,
+      "to": 201.75,
+      "sid": 99,
+      "location": 2,
+      "content": "我自己呢自己的每一页实体医美容院",
+      "music": 0.0
+    },
+    {
+      "from": 201.75,
+      "to": 203.35,
+      "sid": 100,
+      "location": 2,
+      "content": "包括说医院都在武汉这边",
+      "music": 0.0
+    },
+    {
+      "from": 203.35,
+      "to": 204.89,
+      "sid": 101,
+      "location": 2,
+      "content": "但是全国可能有很多顾客",
+      "music": 0.0
+    },
+    {
+      "from": 204.89,
+      "to": 207.459,
+      "sid": 102,
+      "location": 2,
+      "content": "我就能够帮他们对接到当地的一些医院",
+      "music": 0.0
+    },
+    {
+      "from": 207.459,
+      "to": 208.739,
+      "sid": 103,
+      "location": 2,
+      "content": "就是免得他们两边飞",
+      "music": 0.0
+    },
+    {
+      "from": 208.739,
+      "to": 210.379,
+      "sid": 104,
+      "location": 2,
+      "content": "就是所以我想告诉你",
+      "music": 0.0
+    },
+    {
+      "from": 210.379,
+      "to": 213.019,
+      "sid": 105,
+      "location": 2,
+      "content": "你不要活在你自己刚刚这个路径里头",
+      "music": 0.0
+    },
+    {
+      "from": 213.019,
+      "to": 214.339,
+      "sid": 106,
+      "location": 2,
+      "content": "如果你这么讲话",
+      "music": 0.0
+    },
+    {
+      "from": 214.339,
+      "to": 215.679,
+      "sid": 107,
+      "location": 2,
+      "content": "客户就不会信任你",
+      "music": 0.0
+    },
+    {
+      "from": 215.679,
+      "to": 219.0,
+      "sid": 108,
+      "location": 2,
+      "content": "因为你是一个去医院拿返佣的人",
+      "music": 0.0
+    },
+    {
+      "from": 219.0,
+      "to": 219.88,
+      "sid": 109,
+      "location": 2,
+      "content": "明白吗",
+      "music": 0.0
+    },
+    {
+      "from": 219.88,
+      "to": 223.44,
+      "sid": 110,
+      "location": 2,
+      "content": "你要首先要明白这个他是我为什么要找你",
+      "music": 0.0
+    },
+    {
+      "from": 223.44,
+      "to": 225.04,
+      "sid": 111,
+      "location": 2,
+      "content": "你比别人的优势在哪里",
+      "music": 0.0
+    },
+    {
+      "from": 225.04,
+      "to": 227.53,
+      "sid": 112,
+      "location": 2,
+      "content": "就因为你可以带着我全国各地满地飞吗",
+      "music": 0.0
+    },
+    {
+      "from": 227.53,
+      "to": 228.15,
+      "sid": 113,
+      "location": 2,
+      "content": "对不对",
+      "music": 0.0
+    },
+    {
+      "from": 228.15,
+      "to": 231.77,
+      "sid": 114,
+      "location": 2,
+      "content": "如果你今天说你是专门做韩国这个医疗整形的",
+      "music": 0.0
+    },
+    {
+      "from": 231.77,
+      "to": 233.99,
+      "sid": 115,
+      "location": 2,
+      "content": "你说我每个月我都能组一次团",
+      "music": 0.0
+    },
+    {
+      "from": 233.99,
+      "to": 237.45,
+      "sid": 116,
+      "location": 2,
+      "content": "每次我都知道眼睛做的最好的是哪里",
+      "music": 0.0
+    },
+    {
+      "from": 237.45,
+      "to": 238.59,
+      "sid": 117,
+      "location": 2,
+      "content": "鼻子做的最好的是哪里",
+      "music": 0.0
+    },
+    {
+      "from": 238.59,
+      "to": 239.78,
+      "sid": 118,
+      "location": 2,
+      "content": "下巴做的最好的是哪里",
+      "music": 0.0
+    },
+    {
+      "from": 239.78,
+      "to": 240.94,
+      "sid": 119,
+      "location": 2,
+      "content": "皮肤做的最好的是哪里",
+      "music": 0.0
+    },
+    {
+      "from": 240.94,
+      "to": 241.94,
+      "sid": 120,
+      "location": 2,
+      "content": "我每个月组一次团",
+      "music": 0.0
+    },
+    {
+      "from": 241.94,
+      "to": 242.72,
+      "sid": 121,
+      "location": 2,
+      "content": "全部跟我飞",
+      "music": 0.0
+    },
+    {
+      "from": 242.72,
+      "to": 245.88,
+      "sid": 122,
+      "location": 2,
+      "content": "那我们的行程就是每一个医院只做这一个项目",
+      "music": 0.0
+    },
+    {
+      "from": 245.88,
+      "to": 246.709,
+      "sid": 123,
+      "location": 2,
+      "content": "你这么讲",
+      "music": 0.0
+    },
+    {
+      "from": 246.709,
+      "to": 248.229,
+      "sid": 124,
+      "location": 2,
+      "content": "那我觉得你是厉害的",
+      "music": 0.0
+    },
+    {
+      "from": 248.229,
+      "to": 249.789,
+      "sid": 125,
+      "location": 2,
+      "content": "很快你这个逻辑它就通了",
+      "music": 0.0
+    },
+    {
+      "from": 249.789,
+      "to": 250.249,
+      "sid": 126,
+      "location": 2,
+      "content": "对不对",
+      "music": 0.0
+    },
+    {
+      "from": 250.249,
+      "to": 251.389,
+      "sid": 127,
+      "location": 2,
+      "content": "但是你现在讲的这个逻辑",
+      "music": 0.0
+    },
+    {
+      "from": 251.389,
+      "to": 253.03,
+      "sid": 128,
+      "location": 2,
+      "content": "在客户这个地方他肯定是不通顺的",
+      "music": 0.0
+    },
+    {
+      "from": 253.03,
+      "to": 254.91,
+      "sid": 129,
+      "location": 2,
+      "content": "如果大家也希望能够观看到我们的实时的",
+      "music": 0.0
+    },
+    {
+      "from": 254.91,
+      "to": 255.47,
+      "sid": 130,
+      "location": 2,
+      "content": "连麦现场的话",
+      "music": 0.0
+    },
+    {
+      "from": 255.47,
+      "to": 256.83,
+      "sid": 131,
+      "location": 2,
+      "content": "也欢迎大家来到我们的大本营啊",
+      "music": 0.0
+    },
+    {
+      "from": 256.83,
+      "to": 258.62,
+      "sid": 132,
+      "location": 2,
+      "content": "来到我们的金贵的社群或者是闺蜜联盟",
+      "music": 0.0
+    }
+  ]
+}

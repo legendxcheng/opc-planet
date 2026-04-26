@@ -1,0 +1,4244 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.1,
+      "to": 2.8,
+      "sid": 1,
+      "location": 2,
+      "content": "我前段时间刷到一个讲执行力的视频",
+      "music": 0.0
+    },
+    {
+      "from": 2.8,
+      "to": 6.529,
+      "sid": 2,
+      "location": 2,
+      "content": "那个博主说执行力差的人是因为太爱思考了",
+      "music": 0.0
+    },
+    {
+      "from": 6.529,
+      "to": 8.649,
+      "sid": 3,
+      "location": 2,
+      "content": "有些问题明明已经想好了",
+      "music": 0.0
+    },
+    {
+      "from": 8.649,
+      "to": 12.08,
+      "sid": 4,
+      "location": 2,
+      "content": "但是做着做着又开始重复思考之前的问题",
+      "music": 0.0
+    },
+    {
+      "from": 12.08,
+      "to": 14.54,
+      "sid": 5,
+      "location": 2,
+      "content": "导致行动的时候犹豫不决",
+      "music": 0.0
+    },
+    {
+      "from": 14.54,
+      "to": 15.629,
+      "sid": 6,
+      "location": 2,
+      "content": "不停的内耗",
+      "music": 0.0
+    },
+    {
+      "from": 15.629,
+      "to": 17.529,
+      "sid": 7,
+      "location": 2,
+      "content": "说来说去就是把想得多",
+      "music": 0.0
+    },
+    {
+      "from": 17.529,
+      "to": 21.16,
+      "sid": 8,
+      "location": 2,
+      "content": "做得少的坏毛病包装成了爱思考的好习惯",
+      "music": 0.0
+    },
+    {
+      "from": 21.16,
+      "to": 22.28,
+      "sid": 9,
+      "location": 2,
+      "content": "你们发现没有",
+      "music": 0.0
+    },
+    {
+      "from": 22.28,
+      "to": 25.32,
+      "sid": 10,
+      "location": 2,
+      "content": "网上很多这种教人提升执行力的视频",
+      "music": 0.0
+    },
+    {
+      "from": 25.32,
+      "to": 27.92,
+      "sid": 11,
+      "location": 2,
+      "content": "都在帮人们把成功归为主观",
+      "music": 0.0
+    },
+    {
+      "from": 27.92,
+      "to": 29.46,
+      "sid": 12,
+      "location": 2,
+      "content": "把失败归为客观",
+      "music": 0.0
+    },
+    {
+      "from": 29.46,
+      "to": 31.64,
+      "sid": 13,
+      "location": 2,
+      "content": "什么叫做把成功归为主观呢",
+      "music": 0.0
+    },
+    {
+      "from": 31.64,
+      "to": 35.129,
+      "sid": 14,
+      "location": 2,
+      "content": "就是一件事情干成了都是他自己的功劳",
+      "music": 0.0
+    },
+    {
+      "from": 35.129,
+      "to": 37.469,
+      "sid": 15,
+      "location": 2,
+      "content": "哪怕别人在这个过程中帮过他",
+      "music": 0.0
+    },
+    {
+      "from": 37.469,
+      "to": 39.129,
+      "sid": 16,
+      "location": 2,
+      "content": "他都会选择性地忽略",
+      "music": 0.0
+    },
+    {
+      "from": 39.129,
+      "to": 40.209,
+      "sid": 17,
+      "location": 2,
+      "content": "但如果失败了",
+      "music": 0.0
+    },
+    {
+      "from": 40.209,
+      "to": 41.749,
+      "sid": 18,
+      "location": 2,
+      "content": "他就开始找客观原因",
+      "music": 0.0
+    },
+    {
+      "from": 41.749,
+      "to": 44.109,
+      "sid": 19,
+      "location": 2,
+      "content": "比如在那个博主的评论区里面",
+      "music": 0.0
+    },
+    {
+      "from": 44.109,
+      "to": 46.87,
+      "sid": 20,
+      "location": 2,
+      "content": "有人说是大环境的问题太多",
+      "music": 0.0
+    },
+    {
+      "from": 46.87,
+      "to": 48.46,
+      "sid": 21,
+      "location": 2,
+      "content": "才会让人止不住思考",
+      "music": 0.0
+    },
+    {
+      "from": 48.46,
+      "to": 50.84,
+      "sid": 22,
+      "location": 2,
+      "content": "是肾气不足才喜欢胡思乱想",
+      "music": 0.0
+    },
+    {
+      "from": 50.84,
+      "to": 53.08,
+      "sid": 23,
+      "location": 2,
+      "content": "总之执行力强是我有本事",
+      "music": 0.0
+    },
+    {
+      "from": 53.08,
+      "to": 53.9,
+      "sid": 24,
+      "location": 2,
+      "content": "执行力差",
+      "music": 0.0
+    },
+    {
+      "from": 53.9,
+      "to": 55.04,
+      "sid": 25,
+      "location": 2,
+      "content": "是环境有问题",
+      "music": 0.0
+    },
+    {
+      "from": 55.04,
+      "to": 56.1,
+      "sid": 26,
+      "location": 2,
+      "content": "身体有问题",
+      "music": 0.0
+    },
+    {
+      "from": 56.1,
+      "to": 59.11,
+      "sid": 27,
+      "location": 2,
+      "content": "甚至是爱思考这种优点带来的问题",
+      "music": 0.0
+    },
+    {
+      "from": 59.11,
+      "to": 60.77,
+      "sid": 28,
+      "location": 2,
+      "content": "遇事找客观原因",
+      "music": 0.0
+    },
+    {
+      "from": 60.77,
+      "to": 64.31,
+      "sid": 29,
+      "location": 2,
+      "content": "只能让人从后悔犯错变成心安理得的犯错",
+      "music": 0.0
+    },
+    {
+      "from": 64.31,
+      "to": 66.19,
+      "sid": 30,
+      "location": 2,
+      "content": "但是对于解决问题来讲",
+      "music": 0.0
+    },
+    {
+      "from": 66.19,
+      "to": 67.94,
+      "sid": 31,
+      "location": 2,
+      "content": "它起不到任何帮助",
+      "music": 0.0
+    },
+    {
+      "from": 67.94,
+      "to": 69.75,
+      "sid": 32,
+      "location": 2,
+      "content": "爱思考不等于内耗",
+      "music": 0.0
+    },
+    {
+      "from": 69.75,
+      "to": 71.47,
+      "sid": 33,
+      "location": 2,
+      "content": "思考是看到问题",
+      "music": 0.0
+    },
+    {
+      "from": 71.47,
+      "to": 72.31,
+      "sid": 34,
+      "location": 2,
+      "content": "分析问题",
+      "music": 0.0
+    },
+    {
+      "from": 72.31,
+      "to": 73.37,
+      "sid": 35,
+      "location": 2,
+      "content": "然后解决问题",
+      "music": 0.0
+    },
+    {
+      "from": 73.37,
+      "to": 75.13,
+      "sid": 36,
+      "location": 2,
+      "content": "它只会带来三种结果",
+      "music": 0.0
+    },
+    {
+      "from": 75.13,
+      "to": 78.1,
+      "sid": 37,
+      "location": 2,
+      "content": "第一种是把问题想通之后解决掉",
+      "music": 0.0
+    },
+    {
+      "from": 78.1,
+      "to": 80.08,
+      "sid": 38,
+      "location": 2,
+      "content": "第二种是想不明白问题",
+      "music": 0.0
+    },
+    {
+      "from": 80.08,
+      "to": 82.509,
+      "sid": 39,
+      "location": 2,
+      "content": "就先把它放到一边去干别的事儿",
+      "music": 0.0
+    },
+    {
+      "from": 82.509,
+      "to": 85.309,
+      "sid": 40,
+      "location": 2,
+      "content": "最后一种是越是想不通一个问题",
+      "music": 0.0
+    },
+    {
+      "from": 85.309,
+      "to": 87.309,
+      "sid": 41,
+      "location": 2,
+      "content": "越是控制不住自己去想",
+      "music": 0.0
+    },
+    {
+      "from": 87.309,
+      "to": 89.029,
+      "sid": 42,
+      "location": 2,
+      "content": "最后这个问题没解决",
+      "music": 0.0
+    },
+    {
+      "from": 89.029,
+      "to": 90.47,
+      "sid": 43,
+      "location": 2,
+      "content": "别的事儿也没干",
+      "music": 0.0
+    },
+    {
+      "from": 90.47,
+      "to": 93.61,
+      "sid": 44,
+      "location": 2,
+      "content": "所有喜欢反复思考的人都是第三种人",
+      "music": 0.0
+    },
+    {
+      "from": 93.61,
+      "to": 94.89,
+      "sid": 45,
+      "location": 2,
+      "content": "你们不是爱思考",
+      "music": 0.0
+    },
+    {
+      "from": 94.89,
+      "to": 96.79,
+      "sid": 46,
+      "location": 2,
+      "content": "而是明明思考能力很差",
+      "music": 0.0
+    },
+    {
+      "from": 96.79,
+      "to": 97.77,
+      "sid": 47,
+      "location": 2,
+      "content": "却非要思考",
+      "music": 0.0
+    },
+    {
+      "from": 97.77,
+      "to": 100.71,
+      "sid": 48,
+      "location": 2,
+      "content": "最后陷入了鬼打墙的思维怪圈",
+      "music": 0.0
+    },
+    {
+      "from": 100.71,
+      "to": 104.34,
+      "sid": 49,
+      "location": 2,
+      "content": "但凡一件事儿你能想明白就会形成定论",
+      "music": 0.0
+    },
+    {
+      "from": 104.34,
+      "to": 106.0,
+      "sid": 50,
+      "location": 2,
+      "content": "之所以反复思考",
+      "music": 0.0
+    },
+    {
+      "from": 106.0,
+      "to": 106.78,
+      "sid": 51,
+      "location": 2,
+      "content": "没有定论",
+      "music": 0.0
+    },
+    {
+      "from": 106.78,
+      "to": 108.12,
+      "sid": 52,
+      "location": 2,
+      "content": "就是因为没想明白",
+      "music": 0.0
+    },
+    {
+      "from": 108.12,
+      "to": 110.42,
+      "sid": 53,
+      "location": 2,
+      "content": "才会在理性思考的过程中",
+      "music": 0.0
+    },
+    {
+      "from": 110.42,
+      "to": 113.48,
+      "sid": 54,
+      "location": 2,
+      "content": "产生内耗和自我怀疑的种种情绪",
+      "music": 0.0
+    },
+    {
+      "from": 113.48,
+      "to": 115.38,
+      "sid": 55,
+      "location": 2,
+      "content": "这不是思考带来的问题",
+      "music": 0.0
+    },
+    {
+      "from": 115.38,
+      "to": 116.86,
+      "sid": 56,
+      "location": 2,
+      "content": "而是人的问题",
+      "music": 0.0
+    },
+    {
+      "from": 116.86,
+      "to": 119.34,
+      "sid": 57,
+      "location": 2,
+      "content": "思考能力差的人就应该放弃思考",
+      "music": 0.0
+    },
+    {
+      "from": 119.34,
+      "to": 121.22,
+      "sid": 58,
+      "location": 2,
+      "content": "不要做自己不擅长的事",
+      "music": 0.0
+    },
+    {
+      "from": 121.22,
+      "to": 122.62,
+      "sid": 59,
+      "location": 2,
+      "content": "而是直接行动",
+      "music": 0.0
+    },
+    {
+      "from": 122.62,
+      "to": 125.18,
+      "sid": 60,
+      "location": 2,
+      "content": "然后用结果来倒推自己的想法",
+      "music": 0.0
+    },
+    {
+      "from": 125.18,
+      "to": 125.889,
+      "sid": 61,
+      "location": 2,
+      "content": "对不对",
+      "music": 0.0
+    },
+    {
+      "from": 125.889,
+      "to": 127.949,
+      "sid": 62,
+      "location": 2,
+      "content": "结果好就说明想法正确",
+      "music": 0.0
+    },
+    {
+      "from": 127.949,
+      "to": 128.729,
+      "sid": 63,
+      "location": 2,
+      "content": "继续巩固",
+      "music": 0.0
+    },
+    {
+      "from": 128.729,
+      "to": 132.24,
+      "sid": 64,
+      "location": 2,
+      "content": "结果不好就换一种想法和做法继续尝试",
+      "music": 0.0
+    },
+    {
+      "from": 132.24,
+      "to": 133.24,
+      "sid": 65,
+      "location": 2,
+      "content": "简单来说",
+      "music": 0.0
+    },
+    {
+      "from": 133.24,
+      "to": 137.5,
+      "sid": 66,
+      "location": 2,
+      "content": "就是把过度思考的毛病变成定期复盘的习惯",
+      "music": 0.0
+    },
+    {
+      "from": 137.5,
+      "to": 139.78,
+      "sid": 67,
+      "location": 2,
+      "content": "做完一件事之后巩固好的",
+      "music": 0.0
+    },
+    {
+      "from": 139.78,
+      "to": 140.76,
+      "sid": 68,
+      "location": 2,
+      "content": "改善差的",
+      "music": 0.0
+    },
+    {
+      "from": 140.76,
+      "to": 143.36,
+      "sid": 69,
+      "location": 2,
+      "content": "然后再做再改再做再改",
+      "music": 0.0
+    },
+    {
+      "from": 143.36,
+      "to": 145.93,
+      "sid": 70,
+      "location": 2,
+      "content": "最终你就会得到那个正确答案",
+      "music": 0.0
+    },
+    {
+      "from": 145.93,
+      "to": 147.41,
+      "sid": 71,
+      "location": 2,
+      "content": "那有的人会说",
+      "music": 0.0
+    },
+    {
+      "from": 147.41,
+      "to": 149.31,
+      "sid": 72,
+      "location": 2,
+      "content": "普通人的试错成本很低",
+      "music": 0.0
+    },
+    {
+      "from": 149.31,
+      "to": 150.33,
+      "sid": 73,
+      "location": 2,
+      "content": "万一做错了",
+      "music": 0.0
+    },
+    {
+      "from": 150.33,
+      "to": 152.35,
+      "sid": 74,
+      "location": 2,
+      "content": "我承担不起后果怎么办",
+      "music": 0.0
+    },
+    {
+      "from": 152.35,
+      "to": 153.17,
+      "sid": 75,
+      "location": 2,
+      "content": "很简单",
+      "music": 0.0
+    },
+    {
+      "from": 153.17,
+      "to": 154.99,
+      "sid": 76,
+      "location": 2,
+      "content": "你只需要遵守两个原则",
+      "music": 0.0
+    },
+    {
+      "from": 154.99,
+      "to": 157.37,
+      "sid": 77,
+      "location": 2,
+      "content": "第一不可逆的事情不做",
+      "music": 0.0
+    },
+    {
+      "from": 157.37,
+      "to": 159.96,
+      "sid": 78,
+      "location": 2,
+      "content": "第二代价大的事情不做",
+      "music": 0.0
+    },
+    {
+      "from": 159.96,
+      "to": 162.519,
+      "sid": 79,
+      "location": 2,
+      "content": "其余的事情想到就去做",
+      "music": 0.0
+    },
+    {
+      "from": 162.519,
+      "to": 164.219,
+      "sid": 80,
+      "location": 2,
+      "content": "举一个最简单的例子",
+      "music": 0.0
+    },
+    {
+      "from": 164.219,
+      "to": 165.639,
+      "sid": 81,
+      "location": 2,
+      "content": "作为新媒体负责人",
+      "music": 0.0
+    },
+    {
+      "from": 165.639,
+      "to": 169.219,
+      "sid": 82,
+      "location": 2,
+      "content": "我不会要求运营小红书的同学字字精准",
+      "music": 0.0
+    },
+    {
+      "from": 169.219,
+      "to": 170.19,
+      "sid": 83,
+      "location": 2,
+      "content": "不能犯错",
+      "music": 0.0
+    },
+    {
+      "from": 170.19,
+      "to": 172.55,
+      "sid": 84,
+      "location": 2,
+      "content": "因为小红书的笔记可以随时修",
+      "music": 0.0
+    },
+    {
+      "from": 172.55,
+      "to": 172.93,
+      "sid": 85,
+      "location": 2,
+      "content": "改",
+      "music": 0.0
+    },
+    {
+      "from": 172.93,
+      "to": 174.65,
+      "sid": 86,
+      "location": 2,
+      "content": "错了就再重新编辑嘛",
+      "music": 0.0
+    },
+    {
+      "from": 174.65,
+      "to": 175.95,
+      "sid": 87,
+      "location": 2,
+      "content": "但是公众号不行",
+      "music": 0.0
+    },
+    {
+      "from": 175.95,
+      "to": 178.17,
+      "sid": 88,
+      "location": 2,
+      "content": "公众号每篇最多改十个字",
+      "music": 0.0
+    },
+    {
+      "from": 178.17,
+      "to": 180.25,
+      "sid": 89,
+      "location": 2,
+      "content": "删除文章就只能明天再发",
+      "music": 0.0
+    },
+    {
+      "from": 180.25,
+      "to": 181.29,
+      "sid": 90,
+      "location": 2,
+      "content": "就算删除了",
+      "music": 0.0
+    },
+    {
+      "from": 181.29,
+      "to": 181.73,
+      "sid": 91,
+      "location": 2,
+      "content": "消息",
+      "music": 0.0
+    },
+    {
+      "from": 181.73,
+      "to": 185.269,
+      "sid": 92,
+      "location": 2,
+      "content": "提示也会永远显示在已关注用户的会话框里",
+      "music": 0.0
+    },
+    {
+      "from": 185.269,
+      "to": 187.509,
+      "sid": 93,
+      "location": 2,
+      "content": "所以小红书运营是可逆的",
+      "music": 0.0
+    },
+    {
+      "from": 187.509,
+      "to": 189.489,
+      "sid": 94,
+      "location": 2,
+      "content": "但是公众号运营是不可逆的",
+      "music": 0.0
+    },
+    {
+      "from": 189.489,
+      "to": 192.309,
+      "sid": 95,
+      "location": 2,
+      "content": "公众号每次的推送我们会反复检查",
+      "music": 0.0
+    },
+    {
+      "from": 192.309,
+      "to": 193.34,
+      "sid": 96,
+      "location": 2,
+      "content": "避免出错",
+      "music": 0.0
+    },
+    {
+      "from": 193.34,
+      "to": 195.7,
+      "sid": 97,
+      "location": 2,
+      "content": "还有我前段时间刷到一个新人",
+      "music": 0.0
+    },
+    {
+      "from": 195.7,
+      "to": 198.98,
+      "sid": 98,
+      "location": 2,
+      "content": "博主说自己被骗着签了一家MCN机构",
+      "music": 0.0
+    },
+    {
+      "from": 198.98,
+      "to": 199.88,
+      "sid": 99,
+      "location": 2,
+      "content": "签约之前",
+      "music": 0.0
+    },
+    {
+      "from": 199.88,
+      "to": 202.459,
+      "sid": 100,
+      "location": 2,
+      "content": "机构承诺不会从博主这里抽成",
+      "music": 0.0
+    },
+    {
+      "from": 202.459,
+      "to": 204.859,
+      "sid": 101,
+      "location": 2,
+      "content": "博主心想反正我也没有多少粉丝",
+      "music": 0.0
+    },
+    {
+      "from": 204.859,
+      "to": 206.499,
+      "sid": 102,
+      "location": 2,
+      "content": "应该不会有人骗我",
+      "music": 0.0
+    },
+    {
+      "from": 206.499,
+      "to": 209.85,
+      "sid": 103,
+      "location": 2,
+      "content": "结果签约之后发现抽成高达50%",
+      "music": 0.0
+    },
+    {
+      "from": 209.85,
+      "to": 211.37,
+      "sid": 104,
+      "location": 2,
+      "content": "你像签约这个事情",
+      "music": 0.0
+    },
+    {
+      "from": 211.37,
+      "to": 213.11,
+      "sid": 105,
+      "location": 2,
+      "content": "它就是一个不可逆事件",
+      "music": 0.0
+    },
+    {
+      "from": 213.11,
+      "to": 216.37,
+      "sid": 106,
+      "location": 2,
+      "content": "哪怕他现在不需要你付出任何的成本",
+      "music": 0.0
+    },
+    {
+      "from": 216.37,
+      "to": 218.27,
+      "sid": 107,
+      "location": 2,
+      "content": "但是只要你签了字",
+      "music": 0.0
+    },
+    {
+      "from": 218.27,
+      "to": 220.1,
+      "sid": 108,
+      "location": 2,
+      "content": "就没有办法反悔了对吗",
+      "music": 0.0
+    },
+    {
+      "from": 220.1,
+      "to": 222.86,
+      "sid": 109,
+      "location": 2,
+      "content": "所以普通人在没有把握的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 222.86,
+      "to": 225.649,
+      "sid": 110,
+      "location": 2,
+      "content": "任何不能撤回的事情都不要做",
+      "music": 0.0
+    },
+    {
+      "from": 225.649,
+      "to": 227.869,
+      "sid": 111,
+      "location": 2,
+      "content": "那什么是代价大的事情呢",
+      "music": 0.0
+    },
+    {
+      "from": 227.869,
+      "to": 229.489,
+      "sid": 112,
+      "location": 2,
+      "content": "比如普通人想开店",
+      "music": 0.0
+    },
+    {
+      "from": 229.489,
+      "to": 231.709,
+      "sid": 113,
+      "location": 2,
+      "content": "动不动就是二三十万的加盟费",
+      "music": 0.0
+    },
+    {
+      "from": 231.709,
+      "to": 234.19,
+      "sid": 114,
+      "location": 2,
+      "content": "有的人甚至跑去借钱开店",
+      "music": 0.0
+    },
+    {
+      "from": 234.19,
+      "to": 235.95,
+      "sid": 115,
+      "location": 2,
+      "content": "但凡要花大钱的",
+      "music": 0.0
+    },
+    {
+      "from": 235.95,
+      "to": 237.49,
+      "sid": 116,
+      "location": 2,
+      "content": "都是代价大的事情",
+      "music": 0.0
+    },
+    {
+      "from": 237.49,
+      "to": 238.45,
+      "sid": 117,
+      "location": 2,
+      "content": "巴菲特说过",
+      "music": 0.0
+    },
+    {
+      "from": 238.45,
+      "to": 239.75,
+      "sid": 118,
+      "location": 2,
+      "content": "尽量不要犯错",
+      "music": 0.0
+    },
+    {
+      "from": 239.75,
+      "to": 241.05,
+      "sid": 119,
+      "location": 2,
+      "content": "他为什么会这么说呢",
+      "music": 0.0
+    },
+    {
+      "from": 241.05,
+      "to": 243.23,
+      "sid": 120,
+      "location": 2,
+      "content": "因为巴菲特干的是投资",
+      "music": 0.0
+    },
+    {
+      "from": 243.23,
+      "to": 245.63,
+      "sid": 121,
+      "location": 2,
+      "content": "而且他的每笔投资都是巨款",
+      "music": 0.0
+    },
+    {
+      "from": 245.63,
+      "to": 246.67,
+      "sid": 122,
+      "location": 2,
+      "content": "一旦投错了",
+      "music": 0.0
+    },
+    {
+      "from": 246.67,
+      "to": 247.8,
+      "sid": 123,
+      "location": 2,
+      "content": "代价是很大的",
+      "music": 0.0
+    },
+    {
+      "from": 247.8,
+      "to": 250.36,
+      "sid": 124,
+      "location": 2,
+      "content": "但是你去问一个做小买卖的生意人",
+      "music": 0.0
+    },
+    {
+      "from": 250.36,
+      "to": 251.9,
+      "sid": 125,
+      "location": 2,
+      "content": "他大概率会告诉你",
+      "music": 0.0
+    },
+    {
+      "from": 251.9,
+      "to": 254.09,
+      "sid": 126,
+      "location": 2,
+      "content": "人要不断试错才能成长",
+      "music": 0.0
+    },
+    {
+      "from": 254.09,
+      "to": 256.53,
+      "sid": 127,
+      "location": 2,
+      "content": "而他之所以会得出相反的结论",
+      "music": 0.0
+    },
+    {
+      "from": 256.53,
+      "to": 259.11,
+      "sid": 128,
+      "location": 2,
+      "content": "是因为他做的事情代价都很小",
+      "music": 0.0
+    },
+    {
+      "from": 259.11,
+      "to": 261.74,
+      "sid": 129,
+      "location": 2,
+      "content": "所以他才有机会不断试错",
+      "music": 0.0
+    },
+    {
+      "from": 261.74,
+      "to": 262.66,
+      "sid": 130,
+      "location": 2,
+      "content": "除此之外",
+      "music": 0.0
+    },
+    {
+      "from": 262.66,
+      "to": 264.16,
+      "sid": 131,
+      "location": 2,
+      "content": "有的时候思考能力差",
+      "music": 0.0
+    },
+    {
+      "from": 264.16,
+      "to": 265.95,
+      "sid": 132,
+      "location": 2,
+      "content": "是因为缺少标准",
+      "music": 0.0
+    },
+    {
+      "from": 265.95,
+      "to": 268.61,
+      "sid": 133,
+      "location": 2,
+      "content": "比如我上大学那会儿和一个同学吃饭",
+      "music": 0.0
+    },
+    {
+      "from": 268.61,
+      "to": 270.07,
+      "sid": 134,
+      "location": 2,
+      "content": "刚一坐到餐厅里面",
+      "music": 0.0
+    },
+    {
+      "from": 270.07,
+      "to": 271.29,
+      "sid": 135,
+      "location": 2,
+      "content": "我就开始发消息",
+      "music": 0.0
+    },
+    {
+      "from": 271.29,
+      "to": 273.3,
+      "sid": 136,
+      "location": 2,
+      "content": "然后我让我同学先点餐",
+      "music": 0.0
+    },
+    {
+      "from": 273.3,
+      "to": 275.2,
+      "sid": 137,
+      "location": 2,
+      "content": "等我处理完消息再一抬头",
+      "music": 0.0
+    },
+    {
+      "from": 275.2,
+      "to": 276.78,
+      "sid": 138,
+      "location": 2,
+      "content": "发现15分钟过去了",
+      "music": 0.0
+    },
+    {
+      "from": 276.78,
+      "to": 278.0,
+      "sid": 139,
+      "location": 2,
+      "content": "他还没下单",
+      "music": 0.0
+    },
+    {
+      "from": 278.0,
+      "to": 279.24,
+      "sid": 140,
+      "location": 2,
+      "content": "他说不行",
+      "music": 0.0
+    },
+    {
+      "from": 279.24,
+      "to": 280.0,
+      "sid": 141,
+      "location": 2,
+      "content": "我太纠结了",
+      "music": 0.0
+    },
+    {
+      "from": 280.0,
+      "to": 281.28,
+      "sid": 142,
+      "location": 2,
+      "content": "我真不知道该点什么",
+      "music": 0.0
+    },
+    {
+      "from": 281.28,
+      "to": 282.37,
+      "sid": 143,
+      "location": 2,
+      "content": "还是你点吧",
+      "music": 0.0
+    },
+    {
+      "from": 282.37,
+      "to": 284.07,
+      "sid": 144,
+      "location": 2,
+      "content": "你说点餐这么小的事情",
+      "music": 0.0
+    },
+    {
+      "from": 284.07,
+      "to": 285.19,
+      "sid": 145,
+      "location": 2,
+      "content": "他是想不通吗",
+      "music": 0.0
+    },
+    {
+      "from": 285.19,
+      "to": 287.289,
+      "sid": 146,
+      "location": 2,
+      "content": "不是他是没有标准",
+      "music": 0.0
+    },
+    {
+      "from": 287.289,
+      "to": 289.169,
+      "sid": 147,
+      "location": 2,
+      "content": "他想选没吃过的A",
+      "music": 0.0
+    },
+    {
+      "from": 289.169,
+      "to": 290.88,
+      "sid": 148,
+      "location": 2,
+      "content": "但是又怕A不好吃",
+      "music": 0.0
+    },
+    {
+      "from": 290.88,
+      "to": 293.0,
+      "sid": 149,
+      "location": 2,
+      "content": "他想选之前吃过几次的B",
+      "music": 0.0
+    },
+    {
+      "from": 293.0,
+      "to": 294.14,
+      "sid": 150,
+      "location": 2,
+      "content": "但是又吃腻了",
+      "music": 0.0
+    },
+    {
+      "from": 294.14,
+      "to": 296.58,
+      "sid": 151,
+      "location": 2,
+      "content": "他还想选看起来卖相好看的C",
+      "music": 0.0
+    },
+    {
+      "from": 296.58,
+      "to": 299.62,
+      "sid": 152,
+      "location": 2,
+      "content": "但是又怕卖相越好的口感越差",
+      "music": 0.0
+    },
+    {
+      "from": 299.62,
+      "to": 301.12,
+      "sid": 153,
+      "location": 2,
+      "content": "因为没有标准",
+      "music": 0.0
+    },
+    {
+      "from": 301.12,
+      "to": 303.75,
+      "sid": 154,
+      "location": 2,
+      "content": "所以永远得不到唯一的答案",
+      "music": 0.0
+    },
+    {
+      "from": 303.75,
+      "to": 307.21,
+      "sid": 155,
+      "location": 2,
+      "content": "如果能在点餐之前给自己设立一个硬性标准",
+      "music": 0.0
+    },
+    {
+      "from": 307.21,
+      "to": 310.05,
+      "sid": 156,
+      "location": 2,
+      "content": "比如我今天这顿就是要吃没吃过的",
+      "music": 0.0
+    },
+    {
+      "from": 310.05,
+      "to": 312.36,
+      "sid": 157,
+      "location": 2,
+      "content": "那你一秒钟之内就会有答案",
+      "music": 0.0
+    },
+    {
+      "from": 312.36,
+      "to": 315.26,
+      "sid": 158,
+      "location": 2,
+      "content": "但是设立标准的前提是有选择",
+      "music": 0.0
+    },
+    {
+      "from": 315.26,
+      "to": 316.76,
+      "sid": 159,
+      "location": 2,
+      "content": "目的是筛选选项",
+      "music": 0.0
+    },
+    {
+      "from": 316.76,
+      "to": 319.0,
+      "sid": 160,
+      "location": 2,
+      "content": "如果你连生存都成问题",
+      "music": 0.0
+    },
+    {
+      "from": 319.0,
+      "to": 320.08,
+      "sid": 161,
+      "location": 2,
+      "content": "没有选择的时候",
+      "music": 0.0
+    },
+    {
+      "from": 320.08,
+      "to": 321.68,
+      "sid": 162,
+      "location": 2,
+      "content": "就不要谈标准",
+      "music": 0.0
+    },
+    {
+      "from": 321.68,
+      "to": 323.52,
+      "sid": 163,
+      "location": 2,
+      "content": "我不止一次提醒过大家",
+      "music": 0.0
+    },
+    {
+      "from": 326.38,
+      "to": 328.57,
+      "sid": 164,
+      "location": 2,
+      "content": "之前就有用户问我说",
+      "music": 0.0
+    },
+    {
+      "from": 328.57,
+      "to": 331.03,
+      "sid": 165,
+      "location": 2,
+      "content": "那在缺少相关经验的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 331.03,
+      "to": 333.54,
+      "sid": 166,
+      "location": 2,
+      "content": "怎么判断一个博主的观点可不可信呢",
+      "music": 0.0
+    },
+    {
+      "from": 333.54,
+      "to": 335.48,
+      "sid": 167,
+      "location": 2,
+      "content": "有一个最简单的判断方法",
+      "music": 0.0
+    },
+    {
+      "from": 335.48,
+      "to": 339.04,
+      "sid": 168,
+      "location": 2,
+      "content": "只要你看到一个博主输出的社会化观点",
+      "music": 0.0
+    },
+    {
+      "from": 339.04,
+      "to": 340.52,
+      "sid": 169,
+      "location": 2,
+      "content": "吸引来的都是大学生",
+      "music": 0.0
+    },
+    {
+      "from": 340.52,
+      "to": 342.59,
+      "sid": 170,
+      "location": 2,
+      "content": "就说明他的观点不可信",
+      "music": 0.0
+    },
+    {
+      "from": 342.59,
+      "to": 345.73,
+      "sid": 171,
+      "location": 2,
+      "content": "因为步入社会的人知道他的观点站不住脚",
+      "music": 0.0
+    },
+    {
+      "from": 345.73,
+      "to": 347.1,
+      "sid": 172,
+      "location": 2,
+      "content": "才没有关注他",
+      "music": 0.0
+    },
+    {
+      "from": 347.1,
+      "to": 349.34,
+      "sid": 173,
+      "location": 2,
+      "content": "而我开头提到的那个博主",
+      "music": 0.0
+    },
+    {
+      "from": 349.34,
+      "to": 351.84,
+      "sid": 174,
+      "location": 2,
+      "content": "在我打开抖音巨量算术小程序",
+      "music": 0.0
+    },
+    {
+      "from": 351.84,
+      "to": 353.32,
+      "sid": 175,
+      "location": 2,
+      "content": "输入他的昵称之后",
+      "music": 0.0
+    },
+    {
+      "from": 353.32,
+      "to": 354.0,
+      "sid": 176,
+      "location": 2,
+      "content": "发现",
+      "music": 0.0
+    },
+    {
+      "from": 354.0,
+      "to": 354.92,
+      "sid": 177,
+      "location": 2,
+      "content": "他的粉丝",
+      "music": 0.0
+    },
+    {
+      "from": 354.92,
+      "to": 358.21,
+      "sid": 178,
+      "location": 2,
+      "content": "果然以18~23岁的女大学生为主",
+      "music": 0.0
+    },
+    {
+      "from": 358.21,
+      "to": 361.71,
+      "sid": 179,
+      "location": 2,
+      "content": "包括上半年有一个博主提出过一个很火的观点",
+      "music": 0.0
+    },
+    {
+      "from": 361.71,
+      "to": 365.169,
+      "sid": 180,
+      "location": 2,
+      "content": "叫做女性想要上桌就要了解宏观政治",
+      "music": 0.0
+    },
+    {
+      "from": 365.169,
+      "to": 368.37,
+      "sid": 181,
+      "location": 2,
+      "content": "你会发现他的粉丝也以女大学生为主",
+      "music": 0.0
+    },
+    {
+      "from": 368.37,
+      "to": 369.81,
+      "sid": 182,
+      "location": 2,
+      "content": "因为步入社会之后",
+      "music": 0.0
+    },
+    {
+      "from": 369.81,
+      "to": 370.53,
+      "sid": 183,
+      "location": 2,
+      "content": "你就知道",
+      "music": 0.0
+    },
+    {
+      "from": 370.53,
+      "to": 373.47,
+      "sid": 184,
+      "location": 2,
+      "content": "现实中了解再多的政治都上不了桌",
+      "music": 0.0
+    },
+    {
+      "from": 373.47,
+      "to": 377.1,
+      "sid": 185,
+      "location": 2,
+      "content": "只有掌握了政治背后的资源才能上桌",
+      "music": 0.0
+    },
+    {
+      "from": 377.1,
+      "to": 378.64,
+      "sid": 186,
+      "location": 2,
+      "content": "其次有人说",
+      "music": 0.0
+    },
+    {
+      "from": 378.64,
+      "to": 380.02,
+      "sid": 187,
+      "location": 2,
+      "content": "想要增强判断力",
+      "music": 0.0
+    },
+    {
+      "from": 380.02,
+      "to": 381.46,
+      "sid": 188,
+      "location": 2,
+      "content": "就要练习批判思维",
+      "music": 0.0
+    },
+    {
+      "from": 381.46,
+      "to": 383.14,
+      "sid": 189,
+      "location": 2,
+      "content": "但我不建议大家这么做",
+      "music": 0.0
+    },
+    {
+      "from": 383.14,
+      "to": 385.04,
+      "sid": 190,
+      "location": 2,
+      "content": "单纯的批判没有任何意义",
+      "music": 0.0
+    },
+    {
+      "from": 385.04,
+      "to": 387.0,
+      "sid": 191,
+      "location": 2,
+      "content": "任何一件事情都会有漏洞",
+      "music": 0.0
+    },
+    {
+      "from": 387.0,
+      "to": 389.54,
+      "sid": 192,
+      "location": 2,
+      "content": "我们要找的不是没有漏洞的方案",
+      "music": 0.0
+    },
+    {
+      "from": 389.54,
+      "to": 391.0,
+      "sid": 193,
+      "location": 2,
+      "content": "而是最优方案",
+      "music": 0.0
+    },
+    {
+      "from": 391.0,
+      "to": 392.84,
+      "sid": 194,
+      "location": 2,
+      "content": "你像在一些互联网大厂",
+      "music": 0.0
+    },
+    {
+      "from": 392.84,
+      "to": 394.66,
+      "sid": 195,
+      "location": 2,
+      "content": "比如我之前在美团的时候",
+      "music": 0.0
+    },
+    {
+      "from": 394.66,
+      "to": 396.22,
+      "sid": 196,
+      "location": 2,
+      "content": "美团有一个硬性规定",
+      "music": 0.0
+    },
+    {
+      "from": 396.22,
+      "to": 398.32,
+      "sid": 197,
+      "location": 2,
+      "content": "就是领导在年终述职",
+      "music": 0.0
+    },
+    {
+      "from": 398.32,
+      "to": 402.08,
+      "sid": 198,
+      "location": 2,
+      "content": "转正答辩等等的关键场合给员工提意见的时候",
+      "music": 0.0
+    },
+    {
+      "from": 402.08,
+      "to": 403.66,
+      "sid": 199,
+      "location": 2,
+      "content": "不能提批判性意见",
+      "music": 0.0
+    },
+    {
+      "from": 403.66,
+      "to": 405.4,
+      "sid": 200,
+      "location": 2,
+      "content": "只能提建设性意见",
+      "music": 0.0
+    },
+    {
+      "from": 405.4,
+      "to": 406.96,
+      "sid": 201,
+      "location": 2,
+      "content": "什么是批判性意见呢",
+      "music": 0.0
+    },
+    {
+      "from": 406.96,
+      "to": 409.36,
+      "sid": 202,
+      "location": 2,
+      "content": "就是员工提供了一个A方案",
+      "music": 0.0
+    },
+    {
+      "from": 409.36,
+      "to": 410.64,
+      "sid": 203,
+      "location": 2,
+      "content": "你觉得A方案不好",
+      "music": 0.0
+    },
+    {
+      "from": 410.64,
+      "to": 411.68,
+      "sid": 204,
+      "location": 2,
+      "content": "随即指了出来",
+      "music": 0.0
+    },
+    {
+      "from": 411.68,
+      "to": 412.83,
+      "sid": 205,
+      "location": 2,
+      "content": "这就叫批判",
+      "music": 0.0
+    },
+    {
+      "from": 412.83,
+      "to": 416.01,
+      "sid": 206,
+      "location": 2,
+      "content": "而建设性意见是指你认为A方案不好",
+      "music": 0.0
+    },
+    {
+      "from": 416.01,
+      "to": 416.35,
+      "sid": 207,
+      "location": 2,
+      "content": "Ok",
+      "music": 0.0
+    },
+    {
+      "from": 416.35,
+      "to": 418.49,
+      "sid": 208,
+      "location": 2,
+      "content": "那你提供一个比A方案更好的",
+      "music": 0.0
+    },
+    {
+      "from": 418.49,
+      "to": 420.01,
+      "sid": 209,
+      "location": 2,
+      "content": "B方案的思路出来",
+      "music": 0.0
+    },
+    {
+      "from": 420.01,
+      "to": 421.17,
+      "sid": 210,
+      "location": 2,
+      "content": "如果你给不到",
+      "music": 0.0
+    },
+    {
+      "from": 421.17,
+      "to": 424.01,
+      "sid": 211,
+      "location": 2,
+      "content": "那就说明纵使A方案有再多的问题",
+      "music": 0.0
+    },
+    {
+      "from": 424.01,
+      "to": 425.64,
+      "sid": 212,
+      "location": 2,
+      "content": "它也是最好的方案",
+      "music": 0.0
+    },
+    {
+      "from": 425.64,
+      "to": 427.84,
+      "sid": 213,
+      "location": 2,
+      "content": "所以批判思维很简单",
+      "music": 0.0
+    },
+    {
+      "from": 427.84,
+      "to": 429.36,
+      "sid": 214,
+      "location": 2,
+      "content": "但是建设思维很难",
+      "music": 0.0
+    },
+    {
+      "from": 429.36,
+      "to": 431.72,
+      "sid": 215,
+      "location": 2,
+      "content": "前者是脱离实际思考问题",
+      "music": 0.0
+    },
+    {
+      "from": 431.72,
+      "to": 435.6,
+      "sid": 216,
+      "location": 2,
+      "content": "但是后者需要结合种种的现实情况来考量",
+      "music": 0.0
+    },
+    {
+      "from": 435.6,
+      "to": 438.2,
+      "sid": 217,
+      "location": 2,
+      "content": "很多事情看似有一些不合理的地方",
+      "music": 0.0
+    },
+    {
+      "from": 438.2,
+      "to": 440.56,
+      "sid": 218,
+      "location": 2,
+      "content": "但是在考虑了各种现实之后",
+      "music": 0.0
+    },
+    {
+      "from": 440.56,
+      "to": 443.25,
+      "sid": 219,
+      "location": 2,
+      "content": "他就成了我们唯一能选择的方案",
+      "music": 0.0
+    },
+    {
+      "from": 443.25,
+      "to": 444.69,
+      "sid": 220,
+      "location": 2,
+      "content": "当然缺少执行力",
+      "music": 0.0
+    },
+    {
+      "from": 444.69,
+      "to": 446.35,
+      "sid": 221,
+      "location": 2,
+      "content": "可能还和目标不合理",
+      "music": 0.0
+    },
+    {
+      "from": 446.35,
+      "to": 449.15,
+      "sid": 222,
+      "location": 2,
+      "content": "完美主义难以坚持这些因素有关",
+      "music": 0.0
+    },
+    {
+      "from": 449.15,
+      "to": 450.79,
+      "sid": 223,
+      "location": 2,
+      "content": "接下来针对这些问题",
+      "music": 0.0
+    },
+    {
+      "from": 450.79,
+      "to": 452.94,
+      "sid": 224,
+      "location": 2,
+      "content": "我来一一给到对应的方法",
+      "music": 0.0
+    },
+    {
+      "from": 452.94,
+      "to": 454.9,
+      "sid": 225,
+      "location": 2,
+      "content": "首先如果目标不合理",
+      "music": 0.0
+    },
+    {
+      "from": 454.9,
+      "to": 456.34,
+      "sid": 226,
+      "location": 2,
+      "content": "一般分成三种情况",
+      "music": 0.0
+    },
+    {
+      "from": 456.34,
+      "to": 457.66,
+      "sid": 227,
+      "location": 2,
+      "content": "一是目标过大",
+      "music": 0.0
+    },
+    {
+      "from": 457.66,
+      "to": 459.08,
+      "sid": 228,
+      "location": 2,
+      "content": "二是目标过多",
+      "music": 0.0
+    },
+    {
+      "from": 459.08,
+      "to": 461.159,
+      "sid": 229,
+      "location": 2,
+      "content": "三是目标不符合实际",
+      "music": 0.0
+    },
+    {
+      "from": 461.159,
+      "to": 462.479,
+      "sid": 230,
+      "location": 2,
+      "content": "先来说前两点",
+      "music": 0.0
+    },
+    {
+      "from": 462.479,
+      "to": 465.319,
+      "sid": 231,
+      "location": 2,
+      "content": "目标过大的时候要学会拆解目标",
+      "music": 0.0
+    },
+    {
+      "from": 465.319,
+      "to": 468.26,
+      "sid": 232,
+      "location": 2,
+      "content": "目标过多的时候要学会筛选目标",
+      "music": 0.0
+    },
+    {
+      "from": 468.26,
+      "to": 469.26,
+      "sid": 233,
+      "location": 2,
+      "content": "我之前分享",
+      "music": 0.0
+    },
+    {
+      "from": 469.26,
+      "to": 472.52,
+      "sid": 234,
+      "location": 2,
+      "content": "我在网上看到有人发帖说自己月薪2000",
+      "music": 0.0
+    },
+    {
+      "from": 472.52,
+      "to": 474.38,
+      "sid": 235,
+      "location": 2,
+      "content": "想尽快实现财务自由",
+      "music": 0.0
+    },
+    {
+      "from": 474.38,
+      "to": 477.28,
+      "sid": 236,
+      "location": 2,
+      "content": "2000和财务自由之间的差距太大了",
+      "music": 0.0
+    },
+    {
+      "from": 477.28,
+      "to": 479.5,
+      "sid": 237,
+      "location": 2,
+      "content": "这个时候就要把一个大目标",
+      "music": 0.0
+    },
+    {
+      "from": 479.5,
+      "to": 482.1,
+      "sid": 238,
+      "location": 2,
+      "content": "拆解成一个个阶段性的小目标",
+      "music": 0.0
+    },
+    {
+      "from": 482.1,
+      "to": 484.36,
+      "sid": 239,
+      "location": 2,
+      "content": "今年先定月薪5000的目标",
+      "music": 0.0
+    },
+    {
+      "from": 484.36,
+      "to": 485.24,
+      "sid": 240,
+      "location": 2,
+      "content": "明年1万",
+      "music": 0.0
+    },
+    {
+      "from": 485.24,
+      "to": 486.21,
+      "sid": 241,
+      "location": 2,
+      "content": "后年2万",
+      "music": 0.0
+    },
+    {
+      "from": 486.21,
+      "to": 488.59,
+      "sid": 242,
+      "location": 2,
+      "content": "而不是一夜之间实现财务自由",
+      "music": 0.0
+    },
+    {
+      "from": 488.59,
+      "to": 490.23,
+      "sid": 243,
+      "location": 2,
+      "content": "这个叫做拆解目标",
+      "music": 0.0
+    },
+    {
+      "from": 490.23,
+      "to": 491.95,
+      "sid": 244,
+      "location": 2,
+      "content": "那什么是筛选目标呢",
+      "music": 0.0
+    },
+    {
+      "from": 491.95,
+      "to": 492.78,
+      "sid": 245,
+      "location": 2,
+      "content": "举个例子",
+      "music": 0.0
+    },
+    {
+      "from": 492.78,
+      "to": 495.78,
+      "sid": 246,
+      "location": 2,
+      "content": "假设你在找工作的时候有升职加薪",
+      "music": 0.0
+    },
+    {
+      "from": 495.78,
+      "to": 496.34,
+      "sid": 247,
+      "location": 2,
+      "content": "不加班",
+      "music": 0.0
+    },
+    {
+      "from": 496.34,
+      "to": 497.34,
+      "sid": 248,
+      "location": 2,
+      "content": "这三个目标",
+      "music": 0.0
+    },
+    {
+      "from": 497.34,
+      "to": 498.64,
+      "sid": 249,
+      "location": 2,
+      "content": "大环境好的时候",
+      "music": 0.0
+    },
+    {
+      "from": 498.64,
+      "to": 501.96,
+      "sid": 250,
+      "location": 2,
+      "content": "你有可能找到能同时满足三个目标的工作",
+      "music": 0.0
+    },
+    {
+      "from": 501.96,
+      "to": 503.72,
+      "sid": 251,
+      "location": 2,
+      "content": "但是大环境不好的时候",
+      "music": 0.0
+    },
+    {
+      "from": 503.72,
+      "to": 505.2,
+      "sid": 252,
+      "location": 2,
+      "content": "其实很多人也都知道",
+      "music": 0.0
+    },
+    {
+      "from": 505.2,
+      "to": 507.86,
+      "sid": 253,
+      "location": 2,
+      "content": "要放弃一些很难达到的目标",
+      "music": 0.0
+    },
+    {
+      "from": 507.86,
+      "to": 509.16,
+      "sid": 254,
+      "location": 2,
+      "content": "有人就会想说",
+      "music": 0.0
+    },
+    {
+      "from": 509.16,
+      "to": 510.44,
+      "sid": 255,
+      "location": 2,
+      "content": "既然工作不好找",
+      "music": 0.0
+    },
+    {
+      "from": 510.44,
+      "to": 511.9,
+      "sid": 256,
+      "location": 2,
+      "content": "升职加薪很困难",
+      "music": 0.0
+    },
+    {
+      "from": 511.9,
+      "to": 513.7,
+      "sid": 257,
+      "location": 2,
+      "content": "那我就以保底目标为主",
+      "music": 0.0
+    },
+    {
+      "from": 513.7,
+      "to": 515.15,
+      "sid": 258,
+      "location": 2,
+      "content": "也就是不加班儿",
+      "music": 0.0
+    },
+    {
+      "from": 515.15,
+      "to": 516.87,
+      "sid": 259,
+      "location": 2,
+      "content": "甚至在面试过程中",
+      "music": 0.0
+    },
+    {
+      "from": 516.87,
+      "to": 518.27,
+      "sid": 260,
+      "location": 2,
+      "content": "面试官也承诺过你",
+      "music": 0.0
+    },
+    {
+      "from": 518.27,
+      "to": 519.59,
+      "sid": 261,
+      "location": 2,
+      "content": "我们工作不忙的",
+      "music": 0.0
+    },
+    {
+      "from": 519.59,
+      "to": 521.01,
+      "sid": 262,
+      "location": 2,
+      "content": "我们也很少加班的",
+      "music": 0.0
+    },
+    {
+      "from": 521.01,
+      "to": 522.25,
+      "sid": 263,
+      "location": 2,
+      "content": "但是等你入职后",
+      "music": 0.0
+    },
+    {
+      "from": 522.25,
+      "to": 525.43,
+      "sid": 264,
+      "location": 2,
+      "content": "就会发现这家公司说的和做的不一样",
+      "music": 0.0
+    },
+    {
+      "from": 525.43,
+      "to": 527.33,
+      "sid": 265,
+      "location": 2,
+      "content": "最后你每天忙得要死",
+      "music": 0.0
+    },
+    {
+      "from": 527.33,
+      "to": 529.569,
+      "sid": 266,
+      "location": 2,
+      "content": "三个目标连一个都没达到",
+      "music": 0.0
+    },
+    {
+      "from": 529.569,
+      "to": 531.149,
+      "sid": 267,
+      "location": 2,
+      "content": "其实大环境越差",
+      "music": 0.0
+    },
+    {
+      "from": 531.149,
+      "to": 533.269,
+      "sid": 268,
+      "location": 2,
+      "content": "我们越要以升职加薪为目标",
+      "music": 0.0
+    },
+    {
+      "from": 533.269,
+      "to": 534.969,
+      "sid": 269,
+      "location": 2,
+      "content": "因为短则看上限",
+      "music": 0.0
+    },
+    {
+      "from": 534.969,
+      "to": 536.4,
+      "sid": 270,
+      "location": 2,
+      "content": "长则看下限",
+      "music": 0.0
+    },
+    {
+      "from": 536.4,
+      "to": 540.1,
+      "sid": 271,
+      "location": 2,
+      "content": "像不加班这种保底目标是为了给人设置保障的",
+      "music": 0.0
+    },
+    {
+      "from": 540.1,
+      "to": 542.42,
+      "sid": 272,
+      "location": 2,
+      "content": "只有把时间线拉得足够长",
+      "music": 0.0
+    },
+    {
+      "from": 542.42,
+      "to": 545.0,
+      "sid": 273,
+      "location": 2,
+      "content": "才能看到下线目标带来的好处",
+      "music": 0.0
+    },
+    {
+      "from": 545.0,
+      "to": 547.64,
+      "sid": 274,
+      "location": 2,
+      "content": "但现在很难有谁能保证自己",
+      "music": 0.0
+    },
+    {
+      "from": 547.64,
+      "to": 549.46,
+      "sid": 275,
+      "location": 2,
+      "content": "在一家公司待满35年",
+      "music": 0.0
+    },
+    {
+      "from": 549.46,
+      "to": 552.56,
+      "sid": 276,
+      "location": 2,
+      "content": "如果你在一家公司只干了三个月就被裁了",
+      "music": 0.0
+    },
+    {
+      "from": 552.56,
+      "to": 555.28,
+      "sid": 277,
+      "location": 2,
+      "content": "那么加不加班对你来讲没有任何区别",
+      "music": 0.0
+    },
+    {
+      "from": 555.28,
+      "to": 557.46,
+      "sid": 278,
+      "location": 2,
+      "content": "所以越是不稳定的时候",
+      "music": 0.0
+    },
+    {
+      "from": 557.46,
+      "to": 560.63,
+      "sid": 279,
+      "location": 2,
+      "content": "越要设置升职加薪这种上限目标",
+      "music": 0.0
+    },
+    {
+      "from": 560.63,
+      "to": 563.09,
+      "sid": 280,
+      "location": 2,
+      "content": "当然现在升职加薪非常困难",
+      "music": 0.0
+    },
+    {
+      "from": 563.09,
+      "to": 564.69,
+      "sid": 281,
+      "location": 2,
+      "content": "找不到升职加薪的工作",
+      "music": 0.0
+    },
+    {
+      "from": 564.69,
+      "to": 565.53,
+      "sid": 282,
+      "location": 2,
+      "content": "你也尽力了",
+      "music": 0.0
+    },
+    {
+      "from": 565.53,
+      "to": 568.2,
+      "sid": 283,
+      "location": 2,
+      "content": "最后能找到什么工作就干什么工作",
+      "music": 0.0
+    },
+    {
+      "from": 568.2,
+      "to": 571.93,
+      "sid": 284,
+      "location": 2,
+      "content": "只是不要从最一开始就设置一个错误的目标",
+      "music": 0.0
+    },
+    {
+      "from": 571.93,
+      "to": 574.45,
+      "sid": 285,
+      "location": 2,
+      "content": "第三种是目标不符合实际",
+      "music": 0.0
+    },
+    {
+      "from": 574.45,
+      "to": 576.67,
+      "sid": 286,
+      "location": 2,
+      "content": "比如有的打工人想出来创业",
+      "music": 0.0
+    },
+    {
+      "from": 576.67,
+      "to": 578.14,
+      "sid": 287,
+      "location": 2,
+      "content": "我听到的理由是",
+      "music": 0.0
+    },
+    {
+      "from": 578.14,
+      "to": 580.84,
+      "sid": 288,
+      "location": 2,
+      "content": "打工人的工作价值本来是一年100万",
+      "music": 0.0
+    },
+    {
+      "from": 580.84,
+      "to": 583.24,
+      "sid": 289,
+      "location": 2,
+      "content": "但是90%被老板剥削了",
+      "music": 0.0
+    },
+    {
+      "from": 583.24,
+      "to": 584.66,
+      "sid": 290,
+      "location": 2,
+      "content": "如果我出来创业",
+      "music": 0.0
+    },
+    {
+      "from": 584.66,
+      "to": 588.06,
+      "sid": 291,
+      "location": 2,
+      "content": "我就能够把剩下的90万也揣到自己兜里",
+      "music": 0.0
+    },
+    {
+      "from": 588.06,
+      "to": 590.24,
+      "sid": 292,
+      "location": 2,
+      "content": "很多人以为大环境不好的时候",
+      "music": 0.0
+    },
+    {
+      "from": 590.24,
+      "to": 592.23,
+      "sid": 293,
+      "location": 2,
+      "content": "你的钱都被老板吞掉了",
+      "music": 0.0
+    },
+    {
+      "from": 592.23,
+      "to": 593.75,
+      "sid": 294,
+      "location": 2,
+      "content": "但是当你创业之后",
+      "music": 0.0
+    },
+    {
+      "from": 593.75,
+      "to": 594.49,
+      "sid": 295,
+      "location": 2,
+      "content": "就会发现",
+      "music": 0.0
+    },
+    {
+      "from": 594.49,
+      "to": 596.47,
+      "sid": 296,
+      "location": 2,
+      "content": "不是你的钱被老板吞掉了",
+      "music": 0.0
+    },
+    {
+      "from": 596.47,
+      "to": 599.69,
+      "sid": 297,
+      "location": 2,
+      "content": "而是你和老板的钱一起被市场吞掉了",
+      "music": 0.0
+    },
+    {
+      "from": 599.69,
+      "to": 601.95,
+      "sid": 298,
+      "location": 2,
+      "content": "如果你老板从头到尾都很抠",
+      "music": 0.0
+    },
+    {
+      "from": 601.95,
+      "to": 603.22,
+      "sid": 299,
+      "location": 2,
+      "content": "那就是他的问题",
+      "music": 0.0
+    },
+    {
+      "from": 603.22,
+      "to": 604.98,
+      "sid": 300,
+      "location": 2,
+      "content": "但如果他之前很大方",
+      "music": 0.0
+    },
+    {
+      "from": 604.98,
+      "to": 606.52,
+      "sid": 301,
+      "location": 2,
+      "content": "最近突然给你降薪了",
+      "music": 0.0
+    },
+    {
+      "from": 606.52,
+      "to": 609.569,
+      "sid": 302,
+      "location": 2,
+      "content": "那大概率是市场的变化造成的",
+      "music": 0.0
+    },
+    {
+      "from": 609.569,
+      "to": 611.689,
+      "sid": 303,
+      "location": 2,
+      "content": "你的很多不符合实际的目标",
+      "music": 0.0
+    },
+    {
+      "from": 611.689,
+      "to": 614.23,
+      "sid": 304,
+      "location": 2,
+      "content": "是因为你从来没有接触过市场",
+      "music": 0.0
+    },
+    {
+      "from": 614.23,
+      "to": 617.39,
+      "sid": 305,
+      "location": 2,
+      "content": "你觉得打工和当老板需要的能力相同",
+      "music": 0.0
+    },
+    {
+      "from": 617.39,
+      "to": 619.83,
+      "sid": 306,
+      "location": 2,
+      "content": "所以才会误以为老板开公司",
+      "music": 0.0
+    },
+    {
+      "from": 619.83,
+      "to": 623.329,
+      "sid": 307,
+      "location": 2,
+      "content": "只是增加了中间商赚差价的这么一个环节",
+      "music": 0.0
+    },
+    {
+      "from": 623.329,
+      "to": 627.129,
+      "sid": 308,
+      "location": 2,
+      "content": "但其实职场需要的能力和市场需要的能力",
+      "music": 0.0
+    },
+    {
+      "from": 627.129,
+      "to": 627.949,
+      "sid": 309,
+      "location": 2,
+      "content": "完全不同",
+      "music": 0.0
+    },
+    {
+      "from": 627.949,
+      "to": 631.19,
+      "sid": 310,
+      "location": 2,
+      "content": "不要站在职场体系去看待市场体系",
+      "music": 0.0
+    },
+    {
+      "from": 631.19,
+      "to": 632.87,
+      "sid": 311,
+      "location": 2,
+      "content": "比如我之前在小红书上",
+      "music": 0.0
+    },
+    {
+      "from": 632.87,
+      "to": 635.27,
+      "sid": 312,
+      "location": 2,
+      "content": "刷到一个媒介供应商的员工发视频",
+      "music": 0.0
+    },
+    {
+      "from": 635.27,
+      "to": 637.37,
+      "sid": 313,
+      "location": 2,
+      "content": "说现在达人返点这么高",
+      "music": 0.0
+    },
+    {
+      "from": 637.37,
+      "to": 639.43,
+      "sid": 314,
+      "location": 2,
+      "content": "是因为钱都进了媒介的口袋",
+      "music": 0.0
+    },
+    {
+      "from": 639.43,
+      "to": 640.41,
+      "sid": 315,
+      "location": 2,
+      "content": "其实不是的",
+      "music": 0.0
+    },
+    {
+      "from": 640.41,
+      "to": 641.51,
+      "sid": 316,
+      "location": 2,
+      "content": "因为我是甲方",
+      "music": 0.0
+    },
+    {
+      "from": 641.51,
+      "to": 643.83,
+      "sid": 317,
+      "location": 2,
+      "content": "所以我知道这些媒介供应商",
+      "music": 0.0
+    },
+    {
+      "from": 643.83,
+      "to": 645.839,
+      "sid": 318,
+      "location": 2,
+      "content": "最后是把返点都给了甲方",
+      "music": 0.0
+    },
+    {
+      "from": 645.839,
+      "to": 647.939,
+      "sid": 319,
+      "location": 2,
+      "content": "根源是因为甲方没钱了",
+      "music": 0.0
+    },
+    {
+      "from": 647.939,
+      "to": 650.519,
+      "sid": 320,
+      "location": 2,
+      "content": "以前达人营销一年预算100万",
+      "music": 0.0
+    },
+    {
+      "from": 650.519,
+      "to": 651.89,
+      "sid": 321,
+      "location": 2,
+      "content": "现在一年30万",
+      "music": 0.0
+    },
+    {
+      "from": 651.89,
+      "to": 654.51,
+      "sid": 322,
+      "location": 2,
+      "content": "所以甲方会选择返点更高的供应商",
+      "music": 0.0
+    },
+    {
+      "from": 654.51,
+      "to": 656.93,
+      "sid": 323,
+      "location": 2,
+      "content": "而供应商为了拿到甲方的单子",
+      "music": 0.0
+    },
+    {
+      "from": 656.93,
+      "to": 658.28,
+      "sid": 324,
+      "location": 2,
+      "content": "就会彼此竞争",
+      "music": 0.0
+    },
+    {
+      "from": 658.28,
+      "to": 660.24,
+      "sid": 325,
+      "location": 2,
+      "content": "找达人要越来越高的返点",
+      "music": 0.0
+    },
+    {
+      "from": 660.24,
+      "to": 662.589,
+      "sid": 326,
+      "location": 2,
+      "content": "最后形成了一个恶性循环",
+      "music": 0.0
+    },
+    {
+      "from": 662.589,
+      "to": 665.749,
+      "sid": 327,
+      "location": 2,
+      "content": "有的人是把创业当成退路才想要创业的",
+      "music": 0.0
+    },
+    {
+      "from": 665.749,
+      "to": 666.989,
+      "sid": 328,
+      "location": 2,
+      "content": "但是你要明白",
+      "music": 0.0
+    },
+    {
+      "from": 666.989,
+      "to": 668.869,
+      "sid": 329,
+      "location": 2,
+      "content": "退路之所以称之为退路",
+      "music": 0.0
+    },
+    {
+      "from": 668.869,
+      "to": 672.02,
+      "sid": 330,
+      "location": 2,
+      "content": "是因为他是退一步仍然能选择的路",
+      "music": 0.0
+    },
+    {
+      "from": 672.02,
+      "to": 674.26,
+      "sid": 331,
+      "location": 2,
+      "content": "它让你更轻松更舒服对吗",
+      "music": 0.0
+    },
+    {
+      "from": 674.26,
+      "to": 677.6,
+      "sid": 332,
+      "location": 2,
+      "content": "那么它带来的结果有可能比现状更好吗",
+      "music": 0.0
+    },
+    {
+      "from": 677.6,
+      "to": 678.38,
+      "sid": 333,
+      "location": 2,
+      "content": "不会的",
+      "music": 0.0
+    },
+    {
+      "from": 678.38,
+      "to": 680.109,
+      "sid": 334,
+      "location": 2,
+      "content": "只会比现状更差",
+      "music": 0.0
+    },
+    {
+      "from": 680.109,
+      "to": 682.86,
+      "sid": 335,
+      "location": 2,
+      "content": "但有的人却把退路当成了出路",
+      "music": 0.0
+    },
+    {
+      "from": 682.86,
+      "to": 686.58,
+      "sid": 336,
+      "location": 2,
+      "content": "如果你不知道你面前的这条路是退路还是出路",
+      "music": 0.0
+    },
+    {
+      "from": 686.58,
+      "to": 689.67,
+      "sid": 337,
+      "location": 2,
+      "content": "可以去面试你想做的行业的创业公司",
+      "music": 0.0
+    },
+    {
+      "from": 689.67,
+      "to": 691.39,
+      "sid": 338,
+      "location": 2,
+      "content": "只要投递的是管理岗",
+      "music": 0.0
+    },
+    {
+      "from": 691.39,
+      "to": 693.69,
+      "sid": 339,
+      "location": 2,
+      "content": "基本上最后就能到CEO面",
+      "music": 0.0
+    },
+    {
+      "from": 693.69,
+      "to": 696.27,
+      "sid": 340,
+      "location": 2,
+      "content": "在和CEO面试的一个小时里面",
+      "music": 0.0
+    },
+    {
+      "from": 696.27,
+      "to": 699.07,
+      "sid": 341,
+      "location": 2,
+      "content": "把你对行业的所有疑问都问一遍",
+      "music": 0.0
+    },
+    {
+      "from": 699.07,
+      "to": 702.01,
+      "sid": 342,
+      "location": 2,
+      "content": "你就知道这个行业现在是个什么行情了",
+      "music": 0.0
+    },
+    {
+      "from": 702.01,
+      "to": 705.05,
+      "sid": 343,
+      "location": 2,
+      "content": "我有时想拓展对于更多领域的认知",
+      "music": 0.0
+    },
+    {
+      "from": 705.05,
+      "to": 706.55,
+      "sid": 344,
+      "location": 2,
+      "content": "就会用到这个方法",
+      "music": 0.0
+    },
+    {
+      "from": 706.55,
+      "to": 708.19,
+      "sid": 345,
+      "location": 2,
+      "content": "我也不会入职这些公司",
+      "music": 0.0
+    },
+    {
+      "from": 708.19,
+      "to": 710.21,
+      "sid": 346,
+      "location": 2,
+      "content": "只是为了获取信息才去面试",
+      "music": 0.0
+    },
+    {
+      "from": 710.21,
+      "to": 711.75,
+      "sid": 347,
+      "location": 2,
+      "content": "如果面了一圈回来",
+      "music": 0.0
+    },
+    {
+      "from": 711.75,
+      "to": 714.069,
+      "sid": 348,
+      "location": 2,
+      "content": "发现确实没有其他的路可以选",
+      "music": 0.0
+    },
+    {
+      "from": 714.069,
+      "to": 715.309,
+      "sid": 349,
+      "location": 2,
+      "content": "只能先上班",
+      "music": 0.0
+    },
+    {
+      "from": 715.309,
+      "to": 717.409,
+      "sid": 350,
+      "location": 2,
+      "content": "但是工作又干得很糟心",
+      "music": 0.0
+    },
+    {
+      "from": 717.409,
+      "to": 718.929,
+      "sid": 351,
+      "location": 2,
+      "content": "看着领导那张脸就烦",
+      "music": 0.0
+    },
+    {
+      "from": 718.929,
+      "to": 720.389,
+      "sid": 352,
+      "location": 2,
+      "content": "这个时候怎么办呢",
+      "music": 0.0
+    },
+    {
+      "from": 720.389,
+      "to": 721.569,
+      "sid": 353,
+      "location": 2,
+      "content": "调整心态",
+      "music": 0.0
+    },
+    {
+      "from": 721.569,
+      "to": 724.469,
+      "sid": 354,
+      "location": 2,
+      "content": "有的人在发现领导能力不如自己的时候",
+      "music": 0.0
+    },
+    {
+      "from": 724.469,
+      "to": 726.269,
+      "sid": 355,
+      "location": 2,
+      "content": "他就没有办法认可领导",
+      "music": 0.0
+    },
+    {
+      "from": 726.269,
+      "to": 727.689,
+      "sid": 356,
+      "location": 2,
+      "content": "但是在工作中",
+      "music": 0.0
+    },
+    {
+      "from": 727.689,
+      "to": 729.029,
+      "sid": 357,
+      "location": 2,
+      "content": "我们看的不是人格",
+      "music": 0.0
+    },
+    {
+      "from": 729.029,
+      "to": 729.93,
+      "sid": 358,
+      "location": 2,
+      "content": "而是分工",
+      "music": 0.0
+    },
+    {
+      "from": 729.93,
+      "to": 731.97,
+      "sid": 359,
+      "location": 2,
+      "content": "你可以不认可领导的人格",
+      "music": 0.0
+    },
+    {
+      "from": 731.97,
+      "to": 734.16,
+      "sid": 360,
+      "location": 2,
+      "content": "但是要尊重职场的分工",
+      "music": 0.0
+    },
+    {
+      "from": 734.16,
+      "to": 736.02,
+      "sid": 361,
+      "location": 2,
+      "content": "你是流水线上的一环",
+      "music": 0.0
+    },
+    {
+      "from": 736.02,
+      "to": 738.52,
+      "sid": 362,
+      "location": 2,
+      "content": "他也是他的环节出现了故障",
+      "music": 0.0
+    },
+    {
+      "from": 738.52,
+      "to": 740.2,
+      "sid": 363,
+      "location": 2,
+      "content": "你要做的不是一起故障",
+      "music": 0.0
+    },
+    {
+      "from": 740.2,
+      "to": 741.9,
+      "sid": 364,
+      "location": 2,
+      "content": "而是继续干你的事儿",
+      "music": 0.0
+    },
+    {
+      "from": 741.9,
+      "to": 744.8,
+      "sid": 365,
+      "location": 2,
+      "content": "工厂的老板在零件出现故障的时候",
+      "music": 0.0
+    },
+    {
+      "from": 744.8,
+      "to": 746.34,
+      "sid": 366,
+      "location": 2,
+      "content": "他知道该怎么办",
+      "music": 0.0
+    },
+    {
+      "from": 746.34,
+      "to": 749.34,
+      "sid": 367,
+      "location": 2,
+      "content": "其次是完美主义导致执行力差",
+      "music": 0.0
+    },
+    {
+      "from": 749.34,
+      "to": 750.14,
+      "sid": 368,
+      "location": 2,
+      "content": "你会发现",
+      "music": 0.0
+    },
+    {
+      "from": 750.14,
+      "to": 753.22,
+      "sid": 369,
+      "location": 2,
+      "content": "当一个人把执行力差和完美主义挂钩起来",
+      "music": 0.0
+    },
+    {
+      "from": 753.22,
+      "to": 756.41,
+      "sid": 370,
+      "location": 2,
+      "content": "也是在把失败归为客观的一种表现",
+      "music": 0.0
+    },
+    {
+      "from": 756.41,
+      "to": 759.5,
+      "sid": 371,
+      "location": 2,
+      "content": "我身边有很多大公司做公关的朋友",
+      "music": 0.0
+    },
+    {
+      "from": 759.5,
+      "to": 761.8,
+      "sid": 372,
+      "location": 2,
+      "content": "大公司的公关都是完美主义者",
+      "music": 0.0
+    },
+    {
+      "from": 761.8,
+      "to": 764.74,
+      "sid": 373,
+      "location": 2,
+      "content": "因为岗位要求公关不一定要出成绩",
+      "music": 0.0
+    },
+    {
+      "from": 764.74,
+      "to": 766.41,
+      "sid": 374,
+      "location": 2,
+      "content": "但是一定不能出错",
+      "music": 0.0
+    },
+    {
+      "from": 766.41,
+      "to": 767.99,
+      "sid": 375,
+      "location": 2,
+      "content": "给老板写的发言稿",
+      "music": 0.0
+    },
+    {
+      "from": 767.99,
+      "to": 770.05,
+      "sid": 376,
+      "location": 2,
+      "content": "还有提供给媒体的稿子等等",
+      "music": 0.0
+    },
+    {
+      "from": 770.05,
+      "to": 772.79,
+      "sid": 377,
+      "location": 2,
+      "content": "包括公关一号位出去发言的时候",
+      "music": 0.0
+    },
+    {
+      "from": 772.79,
+      "to": 775.31,
+      "sid": 378,
+      "location": 2,
+      "content": "说错了一个字都属于严重失误",
+      "music": 0.0
+    },
+    {
+      "from": 775.31,
+      "to": 778.35,
+      "sid": 379,
+      "location": 2,
+      "content": "他们甚至很喜欢把朋友圈签名设置成",
+      "music": 0.0
+    },
+    {
+      "from": 778.35,
+      "to": 780.01,
+      "sid": 380,
+      "location": 2,
+      "content": "完成比完美更重要",
+      "music": 0.0
+    },
+    {
+      "from": 780.01,
+      "to": 781.21,
+      "sid": 381,
+      "location": 2,
+      "content": "以此说服自己",
+      "music": 0.0
+    },
+    {
+      "from": 781.21,
+      "to": 782.87,
+      "sid": 382,
+      "location": 2,
+      "content": "不要太追求完美",
+      "music": 0.0
+    },
+    {
+      "from": 782.87,
+      "to": 784.63,
+      "sid": 383,
+      "location": 2,
+      "content": "但我这些做公关的朋友",
+      "music": 0.0
+    },
+    {
+      "from": 784.63,
+      "to": 786.51,
+      "sid": 384,
+      "location": 2,
+      "content": "没有一个人是执行力差的",
+      "music": 0.0
+    },
+    {
+      "from": 786.51,
+      "to": 788.79,
+      "sid": 385,
+      "location": 2,
+      "content": "因为完美主义不是不做事",
+      "music": 0.0
+    },
+    {
+      "from": 788.79,
+      "to": 789.84,
+      "sid": 386,
+      "location": 2,
+      "content": "而是多做事儿",
+      "music": 0.0
+    },
+    {
+      "from": 789.84,
+      "to": 792.48,
+      "sid": 387,
+      "location": 2,
+      "content": "一般人做事做到80分就打住了",
+      "music": 0.0
+    },
+    {
+      "from": 792.48,
+      "to": 795.91,
+      "sid": 388,
+      "location": 2,
+      "content": "但是完美主义者要求自己做到100分才会停下",
+      "music": 0.0
+    },
+    {
+      "from": 795.91,
+      "to": 798.16,
+      "sid": 389,
+      "location": 2,
+      "content": "他们会多扣20分的细节",
+      "music": 0.0
+    },
+    {
+      "from": 798.16,
+      "to": 800.68,
+      "sid": 390,
+      "location": 2,
+      "content": "所以任何从不行动的完美主义者",
+      "music": 0.0
+    },
+    {
+      "from": 800.68,
+      "to": 802.32,
+      "sid": 391,
+      "location": 2,
+      "content": "并不是真的完美主义",
+      "music": 0.0
+    },
+    {
+      "from": 802.32,
+      "to": 803.78,
+      "sid": 392,
+      "location": 2,
+      "content": "你连做都没做过",
+      "music": 0.0
+    },
+    {
+      "from": 803.78,
+      "to": 807.0,
+      "sid": 393,
+      "location": 2,
+      "content": "怎么知道你在做的时候是一个追求完美的人呢",
+      "music": 0.0
+    },
+    {
+      "from": 807.0,
+      "to": 808.68,
+      "sid": 394,
+      "location": 2,
+      "content": "那有的人可能会说了",
+      "music": 0.0
+    },
+    {
+      "from": 808.68,
+      "to": 810.16,
+      "sid": 395,
+      "location": 2,
+      "content": "我的完美主义是指",
+      "music": 0.0
+    },
+    {
+      "from": 810.16,
+      "to": 813.24,
+      "sid": 396,
+      "location": 2,
+      "content": "执行前思考的严谨程度和认知高度",
+      "music": 0.0
+    },
+    {
+      "from": 813.24,
+      "to": 814.55,
+      "sid": 397,
+      "location": 2,
+      "content": "要达到100分",
+      "music": 0.0
+    },
+    {
+      "from": 814.55,
+      "to": 816.67,
+      "sid": 398,
+      "location": 2,
+      "content": "我在网上听到过这样一句话",
+      "music": 0.0
+    },
+    {
+      "from": 816.67,
+      "to": 818.02,
+      "sid": 399,
+      "location": 2,
+      "content": "用在这里正合适",
+      "music": 0.0
+    },
+    {
+      "from": 818.02,
+      "to": 819.78,
+      "sid": 400,
+      "location": 2,
+      "content": "他说认知100分",
+      "music": 0.0
+    },
+    {
+      "from": 819.78,
+      "to": 821.66,
+      "sid": 401,
+      "location": 2,
+      "content": "但是执行力只有三分的人",
+      "music": 0.0
+    },
+    {
+      "from": 821.66,
+      "to": 824.589,
+      "sid": 402,
+      "location": 2,
+      "content": "他在社会上的竞争力也只有三分",
+      "music": 0.0
+    },
+    {
+      "from": 824.589,
+      "to": 827.96,
+      "sid": 403,
+      "location": 2,
+      "content": "这句话送给所有思想上的完美主义者",
+      "music": 0.0
+    },
+    {
+      "from": 827.96,
+      "to": 828.92,
+      "sid": 404,
+      "location": 2,
+      "content": "话说回来",
+      "music": 0.0
+    },
+    {
+      "from": 828.92,
+      "to": 830.38,
+      "sid": 405,
+      "location": 2,
+      "content": "一个人想要快速成长",
+      "music": 0.0
+    },
+    {
+      "from": 830.38,
+      "to": 831.46,
+      "sid": 406,
+      "location": 2,
+      "content": "不是追求完美",
+      "music": 0.0
+    },
+    {
+      "from": 831.46,
+      "to": 832.89,
+      "sid": 407,
+      "location": 2,
+      "content": "而是接受批评",
+      "music": 0.0
+    },
+    {
+      "from": 832.89,
+      "to": 834.89,
+      "sid": 408,
+      "location": 2,
+      "content": "这也是为什么公共关系",
+      "music": 0.0
+    },
+    {
+      "from": 834.89,
+      "to": 835.95,
+      "sid": 409,
+      "location": 2,
+      "content": "政府关系的人",
+      "music": 0.0
+    },
+    {
+      "from": 835.95,
+      "to": 838.9,
+      "sid": 410,
+      "location": 2,
+      "content": "很少有人能够坐上大厂CEO的位置",
+      "music": 0.0
+    },
+    {
+      "from": 838.9,
+      "to": 841.34,
+      "sid": 411,
+      "location": 2,
+      "content": "因为当你被要求不能出错的时候",
+      "music": 0.0
+    },
+    {
+      "from": 841.34,
+      "to": 843.25,
+      "sid": 412,
+      "location": 2,
+      "content": "成长速度就是比较慢",
+      "music": 0.0
+    },
+    {
+      "from": 843.25,
+      "to": 844.01,
+      "sid": 413,
+      "location": 2,
+      "content": "很多年前",
+      "music": 0.0
+    },
+    {
+      "from": 844.01,
+      "to": 846.37,
+      "sid": 414,
+      "location": 2,
+      "content": "我所在的一家互联网公司的领导",
+      "music": 0.0
+    },
+    {
+      "from": 846.37,
+      "to": 847.67,
+      "sid": 415,
+      "location": 2,
+      "content": "他经常被老板骂",
+      "music": 0.0
+    },
+    {
+      "from": 847.67,
+      "to": 849.819,
+      "sid": 416,
+      "location": 2,
+      "content": "但是3年内晋升两次",
+      "music": 0.0
+    },
+    {
+      "from": 849.819,
+      "to": 851.619,
+      "sid": 417,
+      "location": 2,
+      "content": "直接坐到了总监的位子",
+      "music": 0.0
+    },
+    {
+      "from": 851.619,
+      "to": 854.079,
+      "sid": 418,
+      "location": 2,
+      "content": "有一次下午两点他要给老板汇报",
+      "music": 0.0
+    },
+    {
+      "from": 854.079,
+      "to": 855.099,
+      "sid": 419,
+      "location": 2,
+      "content": "在汇报之前",
+      "music": 0.0
+    },
+    {
+      "from": 855.099,
+      "to": 857.27,
+      "sid": 420,
+      "location": 2,
+      "content": "他悠哉游哉地冲了一杯咖啡",
+      "music": 0.0
+    },
+    {
+      "from": 857.27,
+      "to": 859.67,
+      "sid": 421,
+      "location": 2,
+      "content": "然后一边摇晃着杯子喝着咖啡",
+      "music": 0.0
+    },
+    {
+      "from": 859.67,
+      "to": 860.81,
+      "sid": 422,
+      "location": 2,
+      "content": "一边乐呵呵地说",
+      "music": 0.0
+    },
+    {
+      "from": 860.81,
+      "to": 862.05,
+      "sid": 423,
+      "location": 2,
+      "content": "我得多喝几口",
+      "music": 0.0
+    },
+    {
+      "from": 862.05,
+      "to": 864.5,
+      "sid": 424,
+      "location": 2,
+      "content": "这样下午才有精神挨老板的骂",
+      "music": 0.0
+    },
+    {
+      "from": 864.5,
+      "to": 866.32,
+      "sid": 425,
+      "location": 2,
+      "content": "我身边的同事也是这样",
+      "music": 0.0
+    },
+    {
+      "from": 866.32,
+      "to": 867.82,
+      "sid": 426,
+      "location": 2,
+      "content": "他们进步最快的时候",
+      "music": 0.0
+    },
+    {
+      "from": 867.82,
+      "to": 870.29,
+      "sid": 427,
+      "location": 2,
+      "content": "就是在挨完老板骂的一个星期里",
+      "music": 0.0
+    },
+    {
+      "from": 870.29,
+      "to": 872.93,
+      "sid": 428,
+      "location": 2,
+      "content": "平常需要三个月慢慢梳理的事情",
+      "music": 0.0
+    },
+    {
+      "from": 872.93,
+      "to": 874.01,
+      "sid": 429,
+      "location": 2,
+      "content": "被老板骂完之后",
+      "music": 0.0
+    },
+    {
+      "from": 874.01,
+      "to": 875.68,
+      "sid": 430,
+      "location": 2,
+      "content": "三天就能改过来",
+      "music": 0.0
+    },
+    {
+      "from": 875.68,
+      "to": 877.58,
+      "sid": 431,
+      "location": 2,
+      "content": "最后是难以坚持",
+      "music": 0.0
+    },
+    {
+      "from": 877.58,
+      "to": 878.8,
+      "sid": 432,
+      "location": 2,
+      "content": "导致执行力差",
+      "music": 0.0
+    },
+    {
+      "from": 878.8,
+      "to": 881.53,
+      "sid": 433,
+      "location": 2,
+      "content": "换句话说就是三天打鱼两天晒网",
+      "music": 0.0
+    },
+    {
+      "from": 881.53,
+      "to": 882.71,
+      "sid": 434,
+      "location": 2,
+      "content": "其实这很正常",
+      "music": 0.0
+    },
+    {
+      "from": 882.71,
+      "to": 884.89,
+      "sid": 435,
+      "location": 2,
+      "content": "因为习惯的养成速度很缓慢",
+      "music": 0.0
+    },
+    {
+      "from": 884.89,
+      "to": 887.05,
+      "sid": 436,
+      "location": 2,
+      "content": "但是想打破它又非常容易",
+      "music": 0.0
+    },
+    {
+      "from": 887.05,
+      "to": 889.81,
+      "sid": 437,
+      "location": 2,
+      "content": "就比方说每次放完小长假之后",
+      "music": 0.0
+    },
+    {
+      "from": 889.81,
+      "to": 893.21,
+      "sid": 438,
+      "location": 2,
+      "content": "节后回来上班的第一周都很难找到工作状态",
+      "music": 0.0
+    },
+    {
+      "from": 893.21,
+      "to": 894.81,
+      "sid": 439,
+      "location": 2,
+      "content": "因为事情一旦停止",
+      "music": 0.0
+    },
+    {
+      "from": 894.81,
+      "to": 896.75,
+      "sid": 440,
+      "location": 2,
+      "content": "就很难重新拾起来",
+      "music": 0.0
+    },
+    {
+      "from": 896.75,
+      "to": 899.39,
+      "sid": 441,
+      "location": 2,
+      "content": "所以养成习惯最好的方法就是",
+      "music": 0.0
+    },
+    {
+      "from": 899.39,
+      "to": 901.11,
+      "sid": 442,
+      "location": 2,
+      "content": "不要让自己停下来",
+      "music": 0.0
+    },
+    {
+      "from": 901.11,
+      "to": 903.53,
+      "sid": 443,
+      "location": 2,
+      "content": "如果你想养成读书的习惯",
+      "music": 0.0
+    },
+    {
+      "from": 903.53,
+      "to": 905.87,
+      "sid": 444,
+      "location": 2,
+      "content": "不要给自己设置每周读几本书",
+      "music": 0.0
+    },
+    {
+      "from": 905.87,
+      "to": 907.41,
+      "sid": 445,
+      "location": 2,
+      "content": "每个月读几本书的任务",
+      "music": 0.0
+    },
+    {
+      "from": 907.41,
+      "to": 909.569,
+      "sid": 446,
+      "location": 2,
+      "content": "而是每天读20页书",
+      "music": 0.0
+    },
+    {
+      "from": 909.569,
+      "to": 911.389,
+      "sid": 447,
+      "location": 2,
+      "content": "如果你今天读了40页",
+      "music": 0.0
+    },
+    {
+      "from": 911.389,
+      "to": 912.869,
+      "sid": 448,
+      "location": 2,
+      "content": "想着明天的任务完成了",
+      "music": 0.0
+    },
+    {
+      "from": 912.869,
+      "to": 913.569,
+      "sid": 449,
+      "location": 2,
+      "content": "不用读了",
+      "music": 0.0
+    },
+    {
+      "from": 913.569,
+      "to": 914.49,
+      "sid": 450,
+      "location": 2,
+      "content": "后天再读",
+      "music": 0.0
+    },
+    {
+      "from": 914.49,
+      "to": 917.73,
+      "sid": 451,
+      "location": 2,
+      "content": "等到了后天你就发现你再也说服不了自己",
+      "music": 0.0
+    },
+    {
+      "from": 917.73,
+      "to": 918.89,
+      "sid": 452,
+      "location": 2,
+      "content": "翻开那本书了",
+      "music": 0.0
+    },
+    {
+      "from": 918.89,
+      "to": 920.73,
+      "sid": 453,
+      "location": 2,
+      "content": "当然人肯定是需要休息的",
+      "music": 0.0
+    },
+    {
+      "from": 920.73,
+      "to": 923.61,
+      "sid": 454,
+      "location": 2,
+      "content": "但是尽量让自己的行为具有惯性",
+      "music": 0.0
+    },
+    {
+      "from": 923.61,
+      "to": 924.49,
+      "sid": 455,
+      "location": 2,
+      "content": "除此之外",
+      "music": 0.0
+    },
+    {
+      "from": 924.49,
+      "to": 926.21,
+      "sid": 456,
+      "location": 2,
+      "content": "还有一种比较极端的方法",
+      "music": 0.0
+    },
+    {
+      "from": 926.21,
+      "to": 927.97,
+      "sid": 457,
+      "location": 2,
+      "content": "很早之前我看过一个案例",
+      "music": 0.0
+    },
+    {
+      "from": 927.97,
+      "to": 930.98,
+      "sid": 458,
+      "location": 2,
+      "content": "就是有个人为了让自己每天可以早起",
+      "music": 0.0
+    },
+    {
+      "from": 930.98,
+      "to": 934.56,
+      "sid": 459,
+      "location": 2,
+      "content": "他会在当天晚上定时一封转天早上的邮件",
+      "music": 0.0
+    },
+    {
+      "from": 934.56,
+      "to": 936.5,
+      "sid": 460,
+      "location": 2,
+      "content": "而这封邮件是他的遗嘱",
+      "music": 0.0
+    },
+    {
+      "from": 936.5,
+      "to": 937.58,
+      "sid": 461,
+      "location": 2,
+      "content": "如果他起不来",
+      "music": 0.0
+    },
+    {
+      "from": 937.58,
+      "to": 940.98,
+      "sid": 462,
+      "location": 2,
+      "content": "这封邮件会在转天早上群发给他身边所有的人",
+      "music": 0.0
+    },
+    {
+      "from": 940.98,
+      "to": 942.52,
+      "sid": 463,
+      "location": 2,
+      "content": "到时候他就尴尬了",
+      "music": 0.0
+    },
+    {
+      "from": 942.52,
+      "to": 944.62,
+      "sid": 464,
+      "location": 2,
+      "content": "他必须强迫自己早点起",
+      "music": 0.0
+    },
+    {
+      "from": 944.62,
+      "to": 947.11,
+      "sid": 465,
+      "location": 2,
+      "content": "然后把这封邮件的定时取消掉",
+      "music": 0.0
+    },
+    {
+      "from": 947.11,
+      "to": 949.79,
+      "sid": 466,
+      "location": 2,
+      "content": "总之就是用更大的恐惧来克服他",
+      "music": 0.0
+    },
+    {
+      "from": 949.79,
+      "to": 952.14,
+      "sid": 467,
+      "location": 2,
+      "content": "对于坚持早起这个习惯的恐惧",
+      "music": 0.0
+    },
+    {
+      "from": 952.14,
+      "to": 953.3,
+      "sid": 468,
+      "location": 2,
+      "content": "最后我想说",
+      "music": 0.0
+    },
+    {
+      "from": 953.3,
+      "to": 955.18,
+      "sid": 469,
+      "location": 2,
+      "content": "一件事情的成功或者失败",
+      "music": 0.0
+    },
+    {
+      "from": 955.18,
+      "to": 957.24,
+      "sid": 470,
+      "location": 2,
+      "content": "一定是外因和内因同时作用",
+      "music": 0.0
+    },
+    {
+      "from": 957.24,
+      "to": 959.14,
+      "sid": 471,
+      "location": 2,
+      "content": "我在上面所有的表述中",
+      "music": 0.0
+    },
+    {
+      "from": 959.14,
+      "to": 961.26,
+      "sid": 472,
+      "location": 2,
+      "content": "从来没有否认过外因的存在",
+      "music": 0.0
+    },
+    {
+      "from": 961.26,
+      "to": 964.12,
+      "sid": 473,
+      "location": 2,
+      "content": "但是我们要做的是看到外因的同时",
+      "music": 0.0
+    },
+    {
+      "from": 964.12,
+      "to": 965.53,
+      "sid": 474,
+      "location": 2,
+      "content": "更加关注内因",
+      "music": 0.0
+    },
+    {
+      "from": 965.53,
+      "to": 967.81,
+      "sid": 475,
+      "location": 2,
+      "content": "把眼光放在能改变的事情上",
+      "music": 0.0
+    },
+    {
+      "from": 967.81,
+      "to": 970.33,
+      "sid": 476,
+      "location": 2,
+      "content": "才能发挥主观能动性好",
+      "music": 0.0
+    },
+    {
+      "from": 970.33,
+      "to": 971.21,
+      "sid": 477,
+      "location": 2,
+      "content": "今天就是这些",
+      "music": 0.0
+    },
+    {
+      "from": 971.21,
+      "to": 972.21,
+      "sid": 478,
+      "location": 2,
+      "content": "再来回顾一下",
+      "music": 0.0
+    },
+    {
+      "from": 972.21,
+      "to": 974.23,
+      "sid": 479,
+      "location": 2,
+      "content": "第一把成功归为主观",
+      "music": 0.0
+    },
+    {
+      "from": 974.23,
+      "to": 975.25,
+      "sid": 480,
+      "location": 2,
+      "content": "失败归为客观",
+      "music": 0.0
+    },
+    {
+      "from": 975.25,
+      "to": 977.63,
+      "sid": 481,
+      "location": 2,
+      "content": "对于解决问题起不到任何帮助",
+      "music": 0.0
+    },
+    {
+      "from": 977.63,
+      "to": 979.81,
+      "sid": 482,
+      "location": 2,
+      "content": "执行力差的人应该少思考",
+      "music": 0.0
+    },
+    {
+      "from": 979.81,
+      "to": 980.53,
+      "sid": 483,
+      "location": 2,
+      "content": "多行动",
+      "music": 0.0
+    },
+    {
+      "from": 980.53,
+      "to": 981.26,
+      "sid": 484,
+      "location": 2,
+      "content": "多复盘",
+      "music": 0.0
+    },
+    {
+      "from": 981.26,
+      "to": 983.62,
+      "sid": 485,
+      "location": 2,
+      "content": "用结果倒推想法是否正确",
+      "music": 0.0
+    },
+    {
+      "from": 983.62,
+      "to": 986.38,
+      "sid": 486,
+      "location": 2,
+      "content": "第二没有标准就得不到唯一的答案",
+      "music": 0.0
+    },
+    {
+      "from": 986.38,
+      "to": 988.43,
+      "sid": 487,
+      "location": 2,
+      "content": "前提是有选择的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 988.43,
+      "to": 989.11,
+      "sid": 488,
+      "location": 2,
+      "content": "第三",
+      "music": 0.0
+    },
+    {
+      "from": 989.11,
+      "to": 992.55,
+      "sid": 489,
+      "location": 2,
+      "content": "普通人控制试错成本的两个前提是不可逆的",
+      "music": 0.0
+    },
+    {
+      "from": 992.55,
+      "to": 992.87,
+      "sid": 490,
+      "location": 2,
+      "content": "事情",
+      "music": 0.0
+    },
+    {
+      "from": 992.87,
+      "to": 994.19,
+      "sid": 491,
+      "location": 2,
+      "content": "不做代价大的事情",
+      "music": 0.0
+    },
+    {
+      "from": 994.19,
+      "to": 995.55,
+      "sid": 492,
+      "location": 2,
+      "content": "不做其他的事情",
+      "music": 0.0
+    },
+    {
+      "from": 995.55,
+      "to": 996.74,
+      "sid": 493,
+      "location": 2,
+      "content": "想到就去做",
+      "music": 0.0
+    },
+    {
+      "from": 996.74,
+      "to": 998.82,
+      "sid": 494,
+      "location": 2,
+      "content": "第四批判思维很简单",
+      "music": 0.0
+    },
+    {
+      "from": 998.82,
+      "to": 1000.22,
+      "sid": 495,
+      "location": 2,
+      "content": "但是建设思维很难",
+      "music": 0.0
+    },
+    {
+      "from": 1000.22,
+      "to": 1002.24,
+      "sid": 496,
+      "location": 2,
+      "content": "前者是脱离实际找漏洞",
+      "music": 0.0
+    },
+    {
+      "from": 1002.24,
+      "to": 1004.7,
+      "sid": 497,
+      "location": 2,
+      "content": "后者是结合实际找最优方案",
+      "music": 0.0
+    },
+    {
+      "from": 1004.7,
+      "to": 1006.46,
+      "sid": 498,
+      "location": 2,
+      "content": "如果给不出更好的建议",
+      "music": 0.0
+    },
+    {
+      "from": 1006.46,
+      "to": 1008.98,
+      "sid": 499,
+      "location": 2,
+      "content": "说明现在的方案即使充满漏洞",
+      "music": 0.0
+    },
+    {
+      "from": 1008.98,
+      "to": 1010.26,
+      "sid": 500,
+      "location": 2,
+      "content": "也是最优方案",
+      "music": 0.0
+    },
+    {
+      "from": 1010.26,
+      "to": 1012.02,
+      "sid": 501,
+      "location": 2,
+      "content": "第五目标不合理",
+      "music": 0.0
+    },
+    {
+      "from": 1012.02,
+      "to": 1014.96,
+      "sid": 502,
+      "location": 2,
+      "content": "是因为目标过大过多或者不符合实际",
+      "music": 0.0
+    },
+    {
+      "from": 1014.96,
+      "to": 1017.3,
+      "sid": 503,
+      "location": 2,
+      "content": "要学会拆解目标和筛选目标",
+      "music": 0.0
+    },
+    {
+      "from": 1017.3,
+      "to": 1018.72,
+      "sid": 504,
+      "location": 2,
+      "content": "越是不稳定的时候",
+      "music": 0.0
+    },
+    {
+      "from": 1018.72,
+      "to": 1020.54,
+      "sid": 505,
+      "location": 2,
+      "content": "越要以上线为目标",
+      "music": 0.0
+    },
+    {
+      "from": 1020.54,
+      "to": 1022.18,
+      "sid": 506,
+      "location": 2,
+      "content": "因为短则看上限",
+      "music": 0.0
+    },
+    {
+      "from": 1022.18,
+      "to": 1023.329,
+      "sid": 507,
+      "location": 2,
+      "content": "长则看下限",
+      "music": 0.0
+    },
+    {
+      "from": 1023.329,
+      "to": 1027.219,
+      "sid": 508,
+      "location": 2,
+      "content": "下线目标必须要拉长时间线才能获得好处",
+      "music": 0.0
+    },
+    {
+      "from": 1027.219,
+      "to": 1029.179,
+      "sid": 509,
+      "location": 2,
+      "content": "第六大环境不好的时候",
+      "music": 0.0
+    },
+    {
+      "from": 1029.179,
+      "to": 1031.099,
+      "sid": 510,
+      "location": 2,
+      "content": "不是你的钱被老板吞掉了",
+      "music": 0.0
+    },
+    {
+      "from": 1031.099,
+      "to": 1034.02,
+      "sid": 511,
+      "location": 2,
+      "content": "而是你和老板的钱一起被市场吞掉了",
+      "music": 0.0
+    },
+    {
+      "from": 1034.02,
+      "to": 1036.9,
+      "sid": 512,
+      "location": 2,
+      "content": "老板开公司也不是中间商赚差价",
+      "music": 0.0
+    },
+    {
+      "from": 1036.9,
+      "to": 1040.02,
+      "sid": 513,
+      "location": 2,
+      "content": "市场和职场需要的能力完全不同",
+      "music": 0.0
+    },
+    {
+      "from": 1040.02,
+      "to": 1042.8,
+      "sid": 514,
+      "location": 2,
+      "content": "第七退路就是因为比现状更糟糕",
+      "music": 0.0
+    },
+    {
+      "from": 1042.8,
+      "to": 1044.02,
+      "sid": 515,
+      "location": 2,
+      "content": "才会称之为退路",
+      "music": 0.0
+    },
+    {
+      "from": 1044.02,
+      "to": 1045.949,
+      "sid": 516,
+      "location": 2,
+      "content": "不要把退路当作出路",
+      "music": 0.0
+    },
+    {
+      "from": 1045.949,
+      "to": 1048.389,
+      "sid": 517,
+      "location": 2,
+      "content": "第八不必认可领导的人格",
+      "music": 0.0
+    },
+    {
+      "from": 1048.389,
+      "to": 1050.24,
+      "sid": 518,
+      "location": 2,
+      "content": "但要尊重职场的分工",
+      "music": 0.0
+    },
+    {
+      "from": 1050.24,
+      "to": 1052.64,
+      "sid": 519,
+      "location": 2,
+      "content": "第九完美主义不是不做事",
+      "music": 0.0
+    },
+    {
+      "from": 1052.64,
+      "to": 1053.78,
+      "sid": 520,
+      "location": 2,
+      "content": "而是多做事",
+      "music": 0.0
+    },
+    {
+      "from": 1053.78,
+      "to": 1055.34,
+      "sid": 521,
+      "location": 2,
+      "content": "但一个人想要成长",
+      "music": 0.0
+    },
+    {
+      "from": 1055.34,
+      "to": 1056.52,
+      "sid": 522,
+      "location": 2,
+      "content": "不是追求完美",
+      "music": 0.0
+    },
+    {
+      "from": 1056.52,
+      "to": 1057.8,
+      "sid": 523,
+      "location": 2,
+      "content": "而是接受批评",
+      "music": 0.0
+    },
+    {
+      "from": 1057.8,
+      "to": 1062.0,
+      "sid": 524,
+      "location": 2,
+      "content": "第十养成习惯的最好方法是不要让自己停下来",
+      "music": 0.0
+    },
+    {
+      "from": 1062.0,
+      "to": 1065.67,
+      "sid": 525,
+      "location": 2,
+      "content": "或者用更大的恐惧克服建立习惯的恐惧",
+      "music": 0.0
+    },
+    {
+      "from": 1065.67,
+      "to": 1066.79,
+      "sid": 526,
+      "location": 2,
+      "content": "我是边大娘",
+      "music": 0.0
+    },
+    {
+      "from": 1066.79,
+      "to": 1068.75,
+      "sid": 527,
+      "location": 2,
+      "content": "只分享对生活有用的知识",
+      "music": 0.0
+    },
+    {
+      "from": 1068.75,
+      "to": 1069.61,
+      "sid": 528,
+      "location": 2,
+      "content": "感谢收听",
+      "music": 0.0
+    },
+    {
+      "from": 1069.61,
+      "to": 1070.56,
+      "sid": 529,
+      "location": 2,
+      "content": "下期再见",
+      "music": 0.0
+    }
+  ]
+}

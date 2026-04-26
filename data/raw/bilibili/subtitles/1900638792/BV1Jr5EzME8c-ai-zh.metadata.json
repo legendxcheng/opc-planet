@@ -1,0 +1,22 @@
+{
+  "bvid": "BV1Jr5EzME8c",
+  "cid": 29485500582,
+  "title": "30岁还在做执行，升不上去怎么办？（附职场晋升书单）",
+  "owner_name": "边大娘FM",
+  "status": "downloaded",
+  "reason": null,
+  "subtitle": {
+    "id": 1601673000137251328,
+    "lan": "ai-zh",
+    "lan_doc": "中文",
+    "is_lock": false,
+    "subtitle_url": "https://aisubtitle.hdslb.com/bfs/ai_subtitle/prod/1133172931986042631880105325d995d1b33214cca48abb47ec9afa33",
+    "type": 1,
+    "id_str": "1601673000137251328",
+    "ai_type": 0,
+    "ai_status": 2
+  },
+  "raw_subtitle_path": "data\\raw\\bilibili\\subtitles\\1900638792\\BV1Jr5EzME8c-ai-zh.raw.json",
+  "text_path": "data\\raw\\bilibili\\subtitles\\1900638792\\BV1Jr5EzME8c-ai-zh.txt",
+  "metadata_path": "data\\raw\\bilibili\\subtitles\\1900638792\\BV1Jr5EzME8c-ai-zh.metadata.json"
+}

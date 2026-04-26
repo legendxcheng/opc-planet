@@ -1,0 +1,1420 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.32,
+      "to": 1.8,
+      "sid": 1,
+      "location": 2,
+      "content": "之前做山姆视频的时候",
+      "music": 0.0
+    },
+    {
+      "from": 1.8,
+      "to": 3.1,
+      "sid": 2,
+      "location": 2,
+      "content": "就有很多朋友说一说",
+      "music": 0.0
+    },
+    {
+      "from": 3.1,
+      "to": 5.82,
+      "sid": 3,
+      "location": 2,
+      "content": "能不能看一下沃尔玛的甜点是什么水平",
+      "music": 0.0
+    },
+    {
+      "from": 5.82,
+      "to": 7.02,
+      "sid": 4,
+      "location": 2,
+      "content": "因为距离比较远",
+      "music": 0.0
+    },
+    {
+      "from": 7.02,
+      "to": 10.38,
+      "sid": 5,
+      "location": 2,
+      "content": "就趁国庆假期的期间帮大家来看一看",
+      "music": 0.0
+    },
+    {
+      "from": 10.38,
+      "to": 12.9,
+      "sid": 6,
+      "location": 2,
+      "content": "平时的日用百货区也就那么大同小异",
+      "music": 0.0
+    },
+    {
+      "from": 12.9,
+      "to": 16.45,
+      "sid": 7,
+      "location": 2,
+      "content": "还是去看看我比较关心的零食区和烘焙区吧",
+      "music": 0.0
+    },
+    {
+      "from": 16.45,
+      "to": 20.13,
+      "sid": 8,
+      "location": 2,
+      "content": "巧克力可颂主打是巧克力味西点酱",
+      "music": 0.0
+    },
+    {
+      "from": 20.13,
+      "to": 23.17,
+      "sid": 9,
+      "location": 2,
+      "content": "同类产品在山姆一般宣传的是比利时巧克力",
+      "music": 0.0
+    },
+    {
+      "from": 23.17,
+      "to": 24.46,
+      "sid": 10,
+      "location": 2,
+      "content": "和欧洲进口黄油",
+      "music": 0.0
+    },
+    {
+      "from": 24.46,
+      "to": 26.28,
+      "sid": 11,
+      "location": 2,
+      "content": "定位区分还是很明显的",
+      "music": 0.0
+    },
+    {
+      "from": 26.28,
+      "to": 27.36,
+      "sid": 12,
+      "location": 2,
+      "content": "主打的巧克力酱",
+      "music": 0.0
+    },
+    {
+      "from": 27.36,
+      "to": 29.88,
+      "sid": 13,
+      "location": 2,
+      "content": "主要用的是精炼植物油和可可粉",
+      "music": 0.0
+    },
+    {
+      "from": 29.88,
+      "to": 32.28,
+      "sid": 14,
+      "location": 2,
+      "content": "面包起酥也是用的人造黄油",
+      "music": 0.0
+    },
+    {
+      "from": 32.28,
+      "to": 35.269,
+      "sid": 15,
+      "location": 2,
+      "content": "山姆和沃尔玛经常会推出同类产品",
+      "music": 0.0
+    },
+    {
+      "from": 35.269,
+      "to": 37.909,
+      "sid": 16,
+      "location": 2,
+      "content": "但食材和工艺完全是两个水平",
+      "music": 0.0
+    },
+    {
+      "from": 37.909,
+      "to": 40.649,
+      "sid": 17,
+      "location": 2,
+      "content": "饼干和巧克力类总体来说还比较丰富",
+      "music": 0.0
+    },
+    {
+      "from": 40.649,
+      "to": 42.0,
+      "sid": 18,
+      "location": 2,
+      "content": "价钱也不算贵",
+      "music": 0.0
+    },
+    {
+      "from": 42.0,
+      "to": 45.14,
+      "sid": 19,
+      "location": 2,
+      "content": "这个焦糖饼干也很少在线下看到了正品",
+      "music": 0.0
+    },
+    {
+      "from": 45.14,
+      "to": 46.59,
+      "sid": 20,
+      "location": 2,
+      "content": "别以为我在开玩笑",
+      "music": 0.0
+    },
+    {
+      "from": 46.59,
+      "to": 50.59,
+      "sid": 21,
+      "location": 2,
+      "content": "我身边的四家大型超市卖的都是焦糖风味的",
+      "music": 0.0
+    },
+    {
+      "from": 50.59,
+      "to": 51.89,
+      "sid": 22,
+      "location": 2,
+      "content": "不知道什么玩意",
+      "music": 0.0
+    },
+    {
+      "from": 51.89,
+      "to": 54.81,
+      "sid": 23,
+      "location": 2,
+      "content": "后面看到一个叫盛田一冰的品牌",
+      "music": 0.0
+    },
+    {
+      "from": 54.81,
+      "to": 56.33,
+      "sid": 24,
+      "location": 2,
+      "content": "据说是来自澳门",
+      "music": 0.0
+    },
+    {
+      "from": 56.33,
+      "to": 57.91,
+      "sid": 25,
+      "location": 2,
+      "content": "也引起了我的注意",
+      "music": 0.0
+    },
+    {
+      "from": 57.91,
+      "to": 59.84,
+      "sid": 26,
+      "location": 2,
+      "content": "人造奶油做的蝴蝶酥",
+      "music": 0.0
+    },
+    {
+      "from": 59.84,
+      "to": 61.54,
+      "sid": 27,
+      "location": 2,
+      "content": "日语名字还写错了",
+      "music": 0.0
+    },
+    {
+      "from": 61.54,
+      "to": 64.54,
+      "sid": 28,
+      "location": 2,
+      "content": "但在接下来的柜台里还是同样的品牌",
+      "music": 0.0
+    },
+    {
+      "from": 64.54,
+      "to": 66.17,
+      "sid": 29,
+      "location": 2,
+      "content": "蝴蝶酥就是黄油做的",
+      "music": 0.0
+    },
+    {
+      "from": 66.17,
+      "to": 67.73,
+      "sid": 30,
+      "location": 2,
+      "content": "黄油大于30%",
+      "music": 0.0
+    },
+    {
+      "from": 67.73,
+      "to": 69.75,
+      "sid": 31,
+      "location": 2,
+      "content": "也没有一些奇怪的原材料",
+      "music": 0.0
+    },
+    {
+      "from": 69.75,
+      "to": 71.93,
+      "sid": 32,
+      "location": 2,
+      "content": "我买了一盒给大家探探险",
+      "music": 0.0
+    },
+    {
+      "from": 71.93,
+      "to": 73.75,
+      "sid": 33,
+      "location": 2,
+      "content": "确实有黄油的香味",
+      "music": 0.0
+    },
+    {
+      "from": 73.75,
+      "to": 75.15,
+      "sid": 34,
+      "location": 2,
+      "content": "做工也比较好",
+      "music": 0.0
+    },
+    {
+      "from": 75.15,
+      "to": 76.21,
+      "sid": 35,
+      "location": 2,
+      "content": "但是味道属实",
+      "music": 0.0
+    },
+    {
+      "from": 76.21,
+      "to": 78.73,
+      "sid": 36,
+      "location": 2,
+      "content": "一般考虑到19块九一盒的单价",
+      "music": 0.0
+    },
+    {
+      "from": 78.73,
+      "to": 81.03,
+      "sid": 37,
+      "location": 2,
+      "content": "吃着玩一下也不是不可以上楼",
+      "music": 0.0
+    },
+    {
+      "from": 81.03,
+      "to": 83.48,
+      "sid": 38,
+      "location": 2,
+      "content": "首先看到的是陈皮红豆沙精选",
+      "music": 0.0
+    },
+    {
+      "from": 83.48,
+      "to": 83.88,
+      "sid": 39,
+      "location": 2,
+      "content": "5年",
+      "music": 0.0
+    },
+    {
+      "from": 83.88,
+      "to": 86.24,
+      "sid": 40,
+      "location": 2,
+      "content": "陈皮每晚0.46克",
+      "music": 0.0
+    },
+    {
+      "from": 86.24,
+      "to": 89.75,
+      "sid": 41,
+      "location": 2,
+      "content": "和山姆在卖的陈皮红豆沙指标近似",
+      "music": 0.0
+    },
+    {
+      "from": 89.75,
+      "to": 93.78,
+      "sid": 42,
+      "location": 2,
+      "content": "难道这款产品沃尔玛是山姆的平替吉吉国王",
+      "music": 0.0
+    },
+    {
+      "from": 93.78,
+      "to": 94.68,
+      "sid": 43,
+      "location": 2,
+      "content": "你们别急",
+      "music": 0.0
+    },
+    {
+      "from": 94.68,
+      "to": 96.02,
+      "sid": 44,
+      "location": 2,
+      "content": "打开你们的计算器",
+      "music": 0.0
+    },
+    {
+      "from": 96.02,
+      "to": 98.7,
+      "sid": 45,
+      "location": 2,
+      "content": "就会发现山姆的那款更便宜",
+      "music": 0.0
+    },
+    {
+      "from": 98.7,
+      "to": 100.56,
+      "sid": 46,
+      "location": 2,
+      "content": "每一杯还多20克",
+      "music": 0.0
+    },
+    {
+      "from": 100.56,
+      "to": 102.639,
+      "sid": 47,
+      "location": 2,
+      "content": "然后就来到了烘焙区",
+      "music": 0.0
+    },
+    {
+      "from": 102.639,
+      "to": 105.559,
+      "sid": 48,
+      "location": 2,
+      "content": "第一个看到的鲜牛奶软蛋糕就让我绷不住",
+      "music": 0.0
+    },
+    {
+      "from": 105.559,
+      "to": 107.379,
+      "sid": 49,
+      "location": 2,
+      "content": "就这么一个简单的蛋糕",
+      "music": 0.0
+    },
+    {
+      "from": 107.379,
+      "to": 108.579,
+      "sid": 50,
+      "location": 2,
+      "content": "还要保湿剂",
+      "music": 0.0
+    },
+    {
+      "from": 108.579,
+      "to": 109.579,
+      "sid": 51,
+      "location": 2,
+      "content": "增稠剂",
+      "music": 0.0
+    },
+    {
+      "from": 109.579,
+      "to": 111.99,
+      "sid": 52,
+      "location": 2,
+      "content": "防腐剂都加防腐剂了",
+      "music": 0.0
+    },
+    {
+      "from": 111.99,
+      "to": 113.729,
+      "sid": 53,
+      "location": 2,
+      "content": "保质期还只有一天",
+      "music": 0.0
+    },
+    {
+      "from": 113.729,
+      "to": 116.389,
+      "sid": 54,
+      "location": 2,
+      "content": "而且蛋糕嘛鸡蛋味就可以了",
+      "music": 0.0
+    },
+    {
+      "from": 116.389,
+      "to": 118.349,
+      "sid": 55,
+      "location": 2,
+      "content": "还要往里面加固体饮料",
+      "music": 0.0
+    },
+    {
+      "from": 118.349,
+      "to": 119.45,
+      "sid": 56,
+      "location": 2,
+      "content": "加沙拉酱",
+      "music": 0.0
+    },
+    {
+      "from": 119.45,
+      "to": 120.65,
+      "sid": 57,
+      "location": 2,
+      "content": "旁边有试吃",
+      "music": 0.0
+    },
+    {
+      "from": 120.65,
+      "to": 121.97,
+      "sid": 58,
+      "location": 2,
+      "content": "我手都不敢伸",
+      "music": 0.0
+    },
+    {
+      "from": 121.97,
+      "to": 125.61,
+      "sid": 59,
+      "location": 2,
+      "content": "培根土豆芝士面包添加氨加黄油",
+      "music": 0.0
+    },
+    {
+      "from": 125.61,
+      "to": 127.43,
+      "sid": 60,
+      "location": 2,
+      "content": "分量比黑胡椒还少",
+      "music": 0.0
+    },
+    {
+      "from": 127.43,
+      "to": 130.95,
+      "sid": 61,
+      "location": 2,
+      "content": "九块九三个的面包就不要指望占什么大便宜了",
+      "music": 0.0
+    },
+    {
+      "from": 130.95,
+      "to": 133.73,
+      "sid": 62,
+      "location": 2,
+      "content": "隔壁柜台看吐司也都是差不多的问题",
+      "music": 0.0
+    },
+    {
+      "from": 133.73,
+      "to": 136.42,
+      "sid": 63,
+      "location": 2,
+      "content": "价钱便宜的面包越给油越可怕",
+      "music": 0.0
+    },
+    {
+      "from": 136.42,
+      "to": 140.43,
+      "sid": 64,
+      "location": 2,
+      "content": "软欧包和无油的全麦面包配料表就漂亮了很多",
+      "music": 0.0
+    },
+    {
+      "from": 140.43,
+      "to": 144.15,
+      "sid": 65,
+      "location": 2,
+      "content": "这就像19块九包邮的佛跳墙不一定做得好",
+      "music": 0.0
+    },
+    {
+      "from": 144.15,
+      "to": 147.41,
+      "sid": 66,
+      "location": 2,
+      "content": "但15块一碗的抄手就有可能很好吃",
+      "music": 0.0
+    },
+    {
+      "from": 147.41,
+      "to": 150.53,
+      "sid": 67,
+      "location": 2,
+      "content": "低温蛋糕百分之百使用天然动物奶油",
+      "music": 0.0
+    },
+    {
+      "from": 150.53,
+      "to": 151.95,
+      "sid": 68,
+      "location": 2,
+      "content": "非常值得表扬",
+      "music": 0.0
+    },
+    {
+      "from": 151.95,
+      "to": 154.42,
+      "sid": 69,
+      "location": 2,
+      "content": "但用的什么奶油值得我们深思",
+      "music": 0.0
+    },
+    {
+      "from": 154.42,
+      "to": 157.34,
+      "sid": 70,
+      "location": 2,
+      "content": "要知道沃尔玛的宣传语是非常准确的",
+      "music": 0.0
+    },
+    {
+      "from": 157.34,
+      "to": 158.62,
+      "sid": 71,
+      "location": 2,
+      "content": "一排产品看过去",
+      "music": 0.0
+    },
+    {
+      "from": 158.62,
+      "to": 161.329,
+      "sid": 72,
+      "location": 2,
+      "content": "我就觉得这个轻芝士蛋糕值得一试",
+      "music": 0.0
+    },
+    {
+      "from": 161.329,
+      "to": 163.629,
+      "sid": 73,
+      "location": 2,
+      "content": "不选泡芙是因为我不喜欢可思达",
+      "music": 0.0
+    },
+    {
+      "from": 163.629,
+      "to": 164.889,
+      "sid": 74,
+      "location": 2,
+      "content": "不选虎皮卷",
+      "music": 0.0
+    },
+    {
+      "from": 164.889,
+      "to": 166.02,
+      "sid": 75,
+      "location": 2,
+      "content": "是因为奶油少",
+      "music": 0.0
+    },
+    {
+      "from": 166.02,
+      "to": 167.12,
+      "sid": 76,
+      "location": 2,
+      "content": "更重要的是",
+      "music": 0.0
+    },
+    {
+      "from": 167.12,
+      "to": 170.68,
+      "sid": 77,
+      "location": 2,
+      "content": "20块钱真的可以做得出好吃的青芝士蛋糕",
+      "music": 0.0
+    },
+    {
+      "from": 170.68,
+      "to": 173.72,
+      "sid": 78,
+      "location": 2,
+      "content": "很多人在后台提到的沃尔玛提拉米苏",
+      "music": 0.0
+    },
+    {
+      "from": 173.72,
+      "to": 176.8,
+      "sid": 79,
+      "location": 2,
+      "content": "我也专门为大家看了一下小包装",
+      "music": 0.0
+    },
+    {
+      "from": 176.8,
+      "to": 178.31,
+      "sid": 80,
+      "location": 2,
+      "content": "价钱不到30",
+      "music": 0.0
+    },
+    {
+      "from": 178.31,
+      "to": 180.37,
+      "sid": 81,
+      "location": 2,
+      "content": "动物奶油进口芝士",
+      "music": 0.0
+    },
+    {
+      "from": 180.37,
+      "to": 181.15,
+      "sid": 82,
+      "location": 2,
+      "content": "翻过来看",
+      "music": 0.0
+    },
+    {
+      "from": 181.15,
+      "to": 183.69,
+      "sid": 83,
+      "location": 2,
+      "content": "配料表和山姆是同一家代工厂",
+      "music": 0.0
+    },
+    {
+      "from": 183.69,
+      "to": 185.77,
+      "sid": 84,
+      "location": 2,
+      "content": "但是奶油和芝士的量",
+      "music": 0.0
+    },
+    {
+      "from": 185.77,
+      "to": 188.45,
+      "sid": 85,
+      "location": 2,
+      "content": "包括对应的品质都有很大的差别",
+      "music": 0.0
+    },
+    {
+      "from": 188.45,
+      "to": 190.709,
+      "sid": 86,
+      "location": 2,
+      "content": "在我看来性价比是更低的",
+      "music": 0.0
+    },
+    {
+      "from": 190.709,
+      "to": 193.569,
+      "sid": 87,
+      "location": 2,
+      "content": "但是分量小本身就是它最大的优势",
+      "music": 0.0
+    },
+    {
+      "from": 193.569,
+      "to": 196.02,
+      "sid": 88,
+      "location": 2,
+      "content": "仍然属于市面上比较优秀的水平",
+      "music": 0.0
+    },
+    {
+      "from": 196.02,
+      "to": 198.16,
+      "sid": 89,
+      "location": 2,
+      "content": "这两款产品的对比说明一个问题",
+      "music": 0.0
+    },
+    {
+      "from": 198.16,
+      "to": 200.56,
+      "sid": 90,
+      "location": 2,
+      "content": "同一家公司不同档次的门店",
+      "music": 0.0
+    },
+    {
+      "from": 200.56,
+      "to": 202.959,
+      "sid": 91,
+      "location": 2,
+      "content": "卖的同一款产品品质不一样",
+      "music": 0.0
+    },
+    {
+      "from": 202.959,
+      "to": 204.559,
+      "sid": 92,
+      "location": 2,
+      "content": "再就是同一个代工厂",
+      "music": 0.0
+    },
+    {
+      "from": 204.559,
+      "to": 207.87,
+      "sid": 93,
+      "location": 2,
+      "content": "根据顾客的要求也会生产出不同的产品",
+      "music": 0.0
+    },
+    {
+      "from": 207.87,
+      "to": 210.99,
+      "sid": 94,
+      "location": 2,
+      "content": "所以以后再看到网上所谓揭秘供应链",
+      "music": 0.0
+    },
+    {
+      "from": 210.99,
+      "to": 212.09,
+      "sid": 95,
+      "location": 2,
+      "content": "揭秘代工厂",
+      "music": 0.0
+    },
+    {
+      "from": 212.09,
+      "to": 213.69,
+      "sid": 96,
+      "location": 2,
+      "content": "教你买平替的",
+      "music": 0.0
+    },
+    {
+      "from": 213.69,
+      "to": 216.54,
+      "sid": 97,
+      "location": 2,
+      "content": "欢迎直接把打在评论区",
+      "music": 0.0
+    },
+    {
+      "from": 216.54,
+      "to": 217.66,
+      "sid": 98,
+      "location": 2,
+      "content": "双层芝士蛋糕",
+      "music": 0.0
+    },
+    {
+      "from": 217.66,
+      "to": 219.6,
+      "sid": 99,
+      "location": 2,
+      "content": "我之前讲过北京华堂的出品",
+      "music": 0.0
+    },
+    {
+      "from": 219.6,
+      "to": 221.12,
+      "sid": 100,
+      "location": 2,
+      "content": "以及好利来的出品",
+      "music": 0.0
+    },
+    {
+      "from": 221.12,
+      "to": 223.64,
+      "sid": 101,
+      "location": 2,
+      "content": "沃尔玛的这款稍微不如北京华堂",
+      "music": 0.0
+    },
+    {
+      "from": 223.64,
+      "to": 224.95,
+      "sid": 102,
+      "location": 2,
+      "content": "但差距也不大",
+      "music": 0.0
+    },
+    {
+      "from": 224.95,
+      "to": 226.19,
+      "sid": 103,
+      "location": 2,
+      "content": "考虑到烘焙区",
+      "music": 0.0
+    },
+    {
+      "from": 226.19,
+      "to": 230.07,
+      "sid": 104,
+      "location": 2,
+      "content": "晚上八点钟以后经常会打七折到五折的活动",
+      "music": 0.0
+    },
+    {
+      "from": 230.07,
+      "to": 232.06,
+      "sid": 105,
+      "location": 2,
+      "content": "这时候他就是无敌的",
+      "music": 0.0
+    },
+    {
+      "from": 232.06,
+      "to": 234.5,
+      "sid": 106,
+      "location": 2,
+      "content": "旁边的奶油蛋糕都是类似的评价",
+      "music": 0.0
+    },
+    {
+      "from": 234.5,
+      "to": 235.84,
+      "sid": 107,
+      "location": 2,
+      "content": "国产动物奶油",
+      "music": 0.0
+    },
+    {
+      "from": 235.84,
+      "to": 239.29,
+      "sid": 108,
+      "location": 2,
+      "content": "预拌粉蛋糕和少量进口芝士巧克力",
+      "music": 0.0
+    },
+    {
+      "from": 239.29,
+      "to": 242.35,
+      "sid": 109,
+      "location": 2,
+      "content": "既满足了消费者对动物奶油的追求",
+      "music": 0.0
+    },
+    {
+      "from": 242.35,
+      "to": 244.15,
+      "sid": 110,
+      "location": 2,
+      "content": "同时也控制住了成本",
+      "music": 0.0
+    },
+    {
+      "from": 244.15,
+      "to": 246.44,
+      "sid": 111,
+      "location": 2,
+      "content": "对于这类产品我只能说很难评",
+      "music": 0.0
+    },
+    {
+      "from": 246.44,
+      "to": 248.48,
+      "sid": 112,
+      "location": 2,
+      "content": "我只想问大伙一个问题",
+      "music": 0.0
+    },
+    {
+      "from": 248.48,
+      "to": 251.86,
+      "sid": 113,
+      "location": 2,
+      "content": "那么代价呢回头剪视频的时候才发现",
+      "music": 0.0
+    },
+    {
+      "from": 251.86,
+      "to": 254.4,
+      "sid": 114,
+      "location": 2,
+      "content": "这个铜锣烧可能是我错过的好物",
+      "music": 0.0
+    },
+    {
+      "from": 254.4,
+      "to": 256.82,
+      "sid": 115,
+      "location": 2,
+      "content": "它最吸引我的点是120分钟",
+      "music": 0.0
+    },
+    {
+      "from": 256.82,
+      "to": 258.529,
+      "sid": 116,
+      "location": 2,
+      "content": "慢火熬煮红豆馅",
+      "music": 0.0
+    },
+    {
+      "from": 258.529,
+      "to": 261.189,
+      "sid": 117,
+      "location": 2,
+      "content": "这就是不用高压锅的传统做法了",
+      "music": 0.0
+    },
+    {
+      "from": 261.189,
+      "to": 262.769,
+      "sid": 118,
+      "location": 2,
+      "content": "三块钱一个的铜锣烧",
+      "music": 0.0
+    },
+    {
+      "from": 262.769,
+      "to": 264.169,
+      "sid": 119,
+      "location": 2,
+      "content": "还跟你讲工艺",
+      "music": 0.0
+    },
+    {
+      "from": 264.169,
+      "to": 265.97,
+      "sid": 120,
+      "location": 2,
+      "content": "我只能说是妙啊",
+      "music": 0.0
+    },
+    {
+      "from": 265.97,
+      "to": 268.09,
+      "sid": 121,
+      "location": 2,
+      "content": "榴莲巴斯克芝士蛋糕",
+      "music": 0.0
+    },
+    {
+      "from": 268.09,
+      "to": 272.01,
+      "sid": 122,
+      "location": 2,
+      "content": "十块钱两个给24.8%的芝士",
+      "music": 0.0
+    },
+    {
+      "from": 272.01,
+      "to": 273.35,
+      "sid": 123,
+      "location": 2,
+      "content": "纯动物奶油",
+      "music": 0.0
+    },
+    {
+      "from": 273.35,
+      "to": 274.919,
+      "sid": 124,
+      "location": 2,
+      "content": "泰国金枕榴莲",
+      "music": 0.0
+    },
+    {
+      "from": 274.919,
+      "to": 277.459,
+      "sid": 125,
+      "location": 2,
+      "content": "属于同行看了拳头都硬了的水平",
+      "music": 0.0
+    },
+    {
+      "from": 277.459,
+      "to": 279.439,
+      "sid": 126,
+      "location": 2,
+      "content": "消费者看了肯定是笑嘻嘻了",
+      "music": 0.0
+    },
+    {
+      "from": 279.439,
+      "to": 282.7,
+      "sid": 127,
+      "location": 2,
+      "content": "这个蓝莓和草莓的慕斯做工就明显不如山姆",
+      "music": 0.0
+    },
+    {
+      "from": 282.7,
+      "to": 284.46,
+      "sid": 128,
+      "location": 2,
+      "content": "就千万别把它当成平替",
+      "music": 0.0
+    },
+    {
+      "from": 284.46,
+      "to": 285.9,
+      "sid": 129,
+      "location": 2,
+      "content": "买了熔岩流心蛋糕",
+      "music": 0.0
+    },
+    {
+      "from": 285.9,
+      "to": 288.65,
+      "sid": 130,
+      "location": 2,
+      "content": "看起来和山姆新推出的很像",
+      "music": 0.0
+    },
+    {
+      "from": 288.65,
+      "to": 290.39,
+      "sid": 131,
+      "location": 2,
+      "content": "但实际上也不是一回事",
+      "music": 0.0
+    },
+    {
+      "from": 290.39,
+      "to": 294.15,
+      "sid": 132,
+      "location": 2,
+      "content": "旁边的抹茶椰子慕斯抹茶使用了北川半兵卫",
+      "music": 0.0
+    },
+    {
+      "from": 294.15,
+      "to": 296.83,
+      "sid": 133,
+      "location": 2,
+      "content": "是一家有160年历史的老字号",
+      "music": 0.0
+    },
+    {
+      "from": 296.83,
+      "to": 298.39,
+      "sid": 134,
+      "location": 2,
+      "content": "他们在湖北有茶园",
+      "music": 0.0
+    },
+    {
+      "from": 298.39,
+      "to": 300.37,
+      "sid": 135,
+      "location": 2,
+      "content": "麦当劳也用了这个牌子抹茶",
+      "music": 0.0
+    },
+    {
+      "from": 300.37,
+      "to": 302.36,
+      "sid": 136,
+      "location": 2,
+      "content": "从这个慕斯的颜色来看",
+      "music": 0.0
+    },
+    {
+      "from": 302.36,
+      "to": 303.9,
+      "sid": 137,
+      "location": 2,
+      "content": "抹茶应该没啥问题",
+      "music": 0.0
+    },
+    {
+      "from": 303.9,
+      "to": 307.11,
+      "sid": 138,
+      "location": 2,
+      "content": "沃尔玛家的毛毛虫也是给了我极大的震撼",
+      "music": 0.0
+    },
+    {
+      "from": 307.11,
+      "to": 310.77,
+      "sid": 139,
+      "location": 2,
+      "content": "因为我就没有吃过动物奶油和动物黄油的版本",
+      "music": 0.0
+    },
+    {
+      "from": 310.77,
+      "to": 312.59,
+      "sid": 140,
+      "location": 2,
+      "content": "但同时我也有一个疑问",
+      "music": 0.0
+    },
+    {
+      "from": 312.59,
+      "to": 315.88,
+      "sid": 141,
+      "location": 2,
+      "content": "动物奶油的面包为什么不放在冷柜里",
+      "music": 0.0
+    },
+    {
+      "from": 315.88,
+      "to": 318.56,
+      "sid": 142,
+      "location": 2,
+      "content": "沃尔玛的榴莲千层性价比也很高",
+      "music": 0.0
+    },
+    {
+      "from": 318.56,
+      "to": 320.72,
+      "sid": 143,
+      "location": 2,
+      "content": "金枕榴莲百分之百",
+      "music": 0.0
+    },
+    {
+      "from": 320.72,
+      "to": 323.38,
+      "sid": 144,
+      "location": 2,
+      "content": "欧洲进口动物奶油40块钱一个",
+      "music": 0.0
+    },
+    {
+      "from": 323.38,
+      "to": 325.04,
+      "sid": 145,
+      "location": 2,
+      "content": "大概是山姆一半的分量",
+      "music": 0.0
+    },
+    {
+      "from": 325.04,
+      "to": 327.4,
+      "sid": 146,
+      "location": 2,
+      "content": "但也不要简单把它理解成平替",
+      "music": 0.0
+    },
+    {
+      "from": 327.4,
+      "to": 330.48,
+      "sid": 147,
+      "location": 2,
+      "content": "因为山姆的榴莲千层用的是苏丹王榴莲",
+      "music": 0.0
+    },
+    {
+      "from": 330.48,
+      "to": 333.36,
+      "sid": 148,
+      "location": 2,
+      "content": "苏丹王和金枕价差可不小",
+      "music": 0.0
+    },
+    {
+      "from": 333.36,
+      "to": 336.039,
+      "sid": 149,
+      "location": 2,
+      "content": "后面我还看了一些其他的常温点心",
+      "music": 0.0
+    },
+    {
+      "from": 336.039,
+      "to": 337.039,
+      "sid": 150,
+      "location": 2,
+      "content": "包括蛋卷",
+      "music": 0.0
+    },
+    {
+      "from": 337.039,
+      "to": 338.119,
+      "sid": 151,
+      "location": 2,
+      "content": "蛋糕和蛋挞",
+      "music": 0.0
+    },
+    {
+      "from": 338.119,
+      "to": 340.239,
+      "sid": 152,
+      "location": 2,
+      "content": "在我看来都是平平无奇的水平",
+      "music": 0.0
+    },
+    {
+      "from": 340.239,
+      "to": 342.059,
+      "sid": 153,
+      "location": 2,
+      "content": "蝴蝶酥倒是有点特色",
+      "music": 0.0
+    },
+    {
+      "from": 342.059,
+      "to": 343.57,
+      "sid": 154,
+      "location": 2,
+      "content": "所以我也买了一盒",
+      "music": 0.0
+    },
+    {
+      "from": 343.57,
+      "to": 345.43,
+      "sid": 155,
+      "location": 2,
+      "content": "只能说是足够酥脆",
+      "music": 0.0
+    },
+    {
+      "from": 345.43,
+      "to": 347.67,
+      "sid": 156,
+      "location": 2,
+      "content": "味道还不如我前面拿的那盒",
+      "music": 0.0
+    },
+    {
+      "from": 347.67,
+      "to": 350.43,
+      "sid": 157,
+      "location": 2,
+      "content": "只能说便宜有便宜的道理",
+      "music": 0.0
+    },
+    {
+      "from": 350.43,
+      "to": 353.77,
+      "sid": 158,
+      "location": 2,
+      "content": "沃尔玛的宠物区我觉得也相当值得一逛",
+      "music": 0.0
+    },
+    {
+      "from": 353.77,
+      "to": 356.57,
+      "sid": 159,
+      "location": 2,
+      "content": "最后还有一个彩蛋直播间的水友",
+      "music": 0.0
+    },
+    {
+      "from": 356.57,
+      "to": 359.41,
+      "sid": 160,
+      "location": 2,
+      "content": "想知道我在沃尔玛到底买了一个怎样的枕头",
+      "music": 0.0
+    },
+    {
+      "from": 359.41,
+      "to": 362.55,
+      "sid": 161,
+      "location": 2,
+      "content": "我个人比较喜欢有一点厚度的硬枕头",
+      "music": 0.0
+    },
+    {
+      "from": 362.55,
+      "to": 364.24,
+      "sid": 162,
+      "location": 2,
+      "content": "而且不喜欢乳胶枕",
+      "music": 0.0
+    },
+    {
+      "from": 364.24,
+      "to": 365.56,
+      "sid": 163,
+      "location": 2,
+      "content": "我不想浪费时间",
+      "music": 0.0
+    },
+    {
+      "from": 365.56,
+      "to": 366.9,
+      "sid": 164,
+      "location": 2,
+      "content": "直接找了售货员",
+      "music": 0.0
+    },
+    {
+      "from": 366.9,
+      "to": 368.64,
+      "sid": 165,
+      "location": 2,
+      "content": "他给我推荐了这一款",
+      "music": 0.0
+    },
+    {
+      "from": 368.64,
+      "to": 370.1,
+      "sid": 166,
+      "location": 2,
+      "content": "整体感觉还不错",
+      "music": 0.0
+    },
+    {
+      "from": 370.1,
+      "to": 371.04,
+      "sid": 167,
+      "location": 2,
+      "content": "总的来说",
+      "music": 0.0
+    },
+    {
+      "from": 371.04,
+      "to": 374.48,
+      "sid": 168,
+      "location": 2,
+      "content": "山姆超市和沃尔玛在风格上有些类似",
+      "music": 0.0
+    },
+    {
+      "from": 374.48,
+      "to": 376.86,
+      "sid": 169,
+      "location": 2,
+      "content": "但在选品上有完全不同的标准",
+      "music": 0.0
+    },
+    {
+      "from": 376.86,
+      "to": 379.2,
+      "sid": 170,
+      "location": 2,
+      "content": "在国外生活过的小伙伴应该知道",
+      "music": 0.0
+    },
+    {
+      "from": 379.2,
+      "to": 381.1,
+      "sid": 171,
+      "location": 2,
+      "content": "哪怕同一个品牌的超市",
+      "music": 0.0
+    },
+    {
+      "from": 381.1,
+      "to": 383.83,
+      "sid": 172,
+      "location": 2,
+      "content": "甚至便利店开在不同的街区",
+      "music": 0.0
+    },
+    {
+      "from": 383.83,
+      "to": 387.87,
+      "sid": 173,
+      "location": 2,
+      "content": "不同规格的店面选品都是非常具有指向性的",
+      "music": 0.0
+    },
+    {
+      "from": 387.87,
+      "to": 389.97,
+      "sid": 174,
+      "location": 2,
+      "content": "如果对各种各样的超市感兴趣",
+      "music": 0.0
+    },
+    {
+      "from": 389.97,
+      "to": 391.31,
+      "sid": 175,
+      "location": 2,
+      "content": "欢迎关注小鱼",
+      "music": 0.0
+    },
+    {
+      "from": 391.31,
+      "to": 392.68,
+      "sid": 176,
+      "location": 2,
+      "content": "我们下期见",
+      "music": 0.0
+    }
+  ]
+}

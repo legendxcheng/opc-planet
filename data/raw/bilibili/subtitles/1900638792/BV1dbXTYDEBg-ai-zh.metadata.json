@@ -1,0 +1,22 @@
+{
+  "bvid": "BV1dbXTYDEBg",
+  "cid": 28915335921,
+  "title": "企业口中的六边形战士，是一种偷换概念",
+  "owner_name": "边大娘FM",
+  "status": "downloaded",
+  "reason": null,
+  "subtitle": {
+    "id": 1605278957756919808,
+    "lan": "ai-zh",
+    "lan_doc": "中文",
+    "is_lock": false,
+    "subtitle_url": "https://aisubtitle.hdslb.com/bfs/ai_subtitle/prod/11334544523685226397444676200be253d943032acbccd83bb1112620",
+    "type": 1,
+    "id_str": "1605278957756919808",
+    "ai_type": 0,
+    "ai_status": 2
+  },
+  "raw_subtitle_path": "data\\raw\\bilibili\\subtitles\\1900638792\\BV1dbXTYDEBg-ai-zh.raw.json",
+  "text_path": "data\\raw\\bilibili\\subtitles\\1900638792\\BV1dbXTYDEBg-ai-zh.txt",
+  "metadata_path": "data\\raw\\bilibili\\subtitles\\1900638792\\BV1dbXTYDEBg-ai-zh.metadata.json"
+}

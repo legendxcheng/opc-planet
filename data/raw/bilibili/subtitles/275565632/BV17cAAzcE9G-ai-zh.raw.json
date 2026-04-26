@@ -1,0 +1,4804 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.04,
+      "to": 1.32,
+      "sid": 1,
+      "location": 2,
+      "content": "你是不是很虚啊",
+      "music": 0.0
+    },
+    {
+      "from": 1.32,
+      "to": 2.36,
+      "sid": 2,
+      "location": 2,
+      "content": "我是凭的感觉",
+      "music": 0.0
+    },
+    {
+      "from": 2.36,
+      "to": 3.48,
+      "sid": 3,
+      "location": 2,
+      "content": "但是我还是很自信",
+      "music": 0.0
+    },
+    {
+      "from": 3.48,
+      "to": 5.08,
+      "sid": 4,
+      "location": 2,
+      "content": "应该没剩多少钱吧",
+      "music": 0.0
+    },
+    {
+      "from": 5.08,
+      "to": 9.64,
+      "sid": 5,
+      "location": 2,
+      "content": "呵呵扣钱陈娜钱是这么算的吗",
+      "music": 0.0
+    },
+    {
+      "from": 9.64,
+      "to": 10.62,
+      "sid": 6,
+      "location": 2,
+      "content": "给我打个折吧",
+      "music": 0.0
+    },
+    {
+      "from": 10.62,
+      "to": 13.16,
+      "sid": 7,
+      "location": 2,
+      "content": "我们是要分家了吗",
+      "music": 0.0
+    },
+    {
+      "from": 17.16,
+      "to": 18.28,
+      "sid": 8,
+      "location": 2,
+      "content": "介绍一下",
+      "music": 0.0
+    },
+    {
+      "from": 18.28,
+      "to": 21.04,
+      "sid": 9,
+      "location": 2,
+      "content": "昨天晚上突然给我发了个账单",
+      "music": 0.0
+    },
+    {
+      "from": 21.04,
+      "to": 23.2,
+      "sid": 10,
+      "location": 2,
+      "content": "302块五毛五的麦当劳",
+      "music": 0.0
+    },
+    {
+      "from": 23.2,
+      "to": 24.22,
+      "sid": 11,
+      "location": 2,
+      "content": "然后跟我说",
+      "music": 0.0
+    },
+    {
+      "from": 24.22,
+      "to": 25.24,
+      "sid": 12,
+      "location": 2,
+      "content": "明天员工餐靠你了",
+      "music": 0.0
+    },
+    {
+      "from": 25.24,
+      "to": 26.28,
+      "sid": 13,
+      "location": 2,
+      "content": "我才不是你抠门",
+      "music": 0.0
+    },
+    {
+      "from": 26.28,
+      "to": 27.28,
+      "sid": 14,
+      "location": 2,
+      "content": "就是你想搞我",
+      "music": 0.0
+    },
+    {
+      "from": 27.28,
+      "to": 28.78,
+      "sid": 15,
+      "location": 2,
+      "content": "你只给了我100块钱",
+      "music": 0.0
+    },
+    {
+      "from": 28.78,
+      "to": 30.49,
+      "sid": 16,
+      "location": 2,
+      "content": "本来寻思着不够",
+      "music": 0.0
+    },
+    {
+      "from": 30.49,
+      "to": 35.64,
+      "sid": 17,
+      "location": 2,
+      "content": "但是我猜你没有意识到冷冻鸡肉到底有多便宜",
+      "music": 0.0
+    },
+    {
+      "from": 35.64,
+      "to": 39.74,
+      "sid": 18,
+      "location": 2,
+      "content": "所以今天我要把你点的所有东西都给再做一遍",
+      "music": 0.0
+    },
+    {
+      "from": 39.74,
+      "to": 41.98,
+      "sid": 19,
+      "location": 2,
+      "content": "然后我猜哈还有多出来的钱",
+      "music": 0.0
+    },
+    {
+      "from": 41.98,
+      "to": 42.98,
+      "sid": 20,
+      "location": 2,
+      "content": "我可以还给你",
+      "music": 0.0
+    },
+    {
+      "from": 47.36,
+      "to": 51.82,
+      "sid": 21,
+      "location": 2,
+      "content": "你的鸡块鸡翅鸡腿堡炸的煎的都搁这了",
+      "music": 0.0
+    },
+    {
+      "from": 51.82,
+      "to": 54.04,
+      "sid": 22,
+      "location": 2,
+      "content": "然后你的面包还有吗",
+      "music": 0.0
+    },
+    {
+      "from": 54.04,
+      "to": 55.12,
+      "sid": 23,
+      "location": 2,
+      "content": "你还有点表",
+      "music": 0.0
+    },
+    {
+      "from": 55.12,
+      "to": 56.55,
+      "sid": 24,
+      "location": 2,
+      "content": "哦对哦",
+      "music": 0.0
+    },
+    {
+      "from": 56.55,
+      "to": 57.31,
+      "sid": 25,
+      "location": 2,
+      "content": "薯条是吧",
+      "music": 0.0
+    },
+    {
+      "from": 57.31,
+      "to": 57.99,
+      "sid": 26,
+      "location": 2,
+      "content": "薯条啊",
+      "music": 0.0
+    },
+    {
+      "from": 57.99,
+      "to": 59.39,
+      "sid": 27,
+      "location": 2,
+      "content": "帮我跑腿儿一袋儿",
+      "music": 0.0
+    },
+    {
+      "from": 59.39,
+      "to": 60.99,
+      "sid": 28,
+      "location": 2,
+      "content": "我们刚备完的薯条过来呗",
+      "music": 0.0
+    },
+    {
+      "from": 60.99,
+      "to": 61.55,
+      "sid": 29,
+      "location": 2,
+      "content": "行不行",
+      "music": 0.0
+    },
+    {
+      "from": 61.55,
+      "to": 63.22,
+      "sid": 30,
+      "location": 2,
+      "content": "你这脏东西怎么做",
+      "music": 0.0
+    },
+    {
+      "from": 63.22,
+      "to": 65.14,
+      "sid": 31,
+      "location": 2,
+      "content": "所有炸的鸡我们用的是同一个腌料",
+      "music": 0.0
+    },
+    {
+      "from": 65.14,
+      "to": 66.12,
+      "sid": 32,
+      "location": 2,
+      "content": "里边有酸奶",
+      "music": 0.0
+    },
+    {
+      "from": 66.12,
+      "to": 67.06,
+      "sid": 33,
+      "location": 2,
+      "content": "要是在厂子里面的话",
+      "music": 0.0
+    },
+    {
+      "from": 67.06,
+      "to": 69.1,
+      "sid": 34,
+      "location": 2,
+      "content": "他们会用乳酸粉和奶粉",
+      "music": 0.0
+    },
+    {
+      "from": 69.1,
+      "to": 71.46,
+      "sid": 35,
+      "location": 2,
+      "content": "然后往里打了一个洋葱和两颗蒜",
+      "music": 0.0
+    },
+    {
+      "from": 71.46,
+      "to": 72.98,
+      "sid": 36,
+      "location": 2,
+      "content": "代替蒜粉和洋葱粉",
+      "music": 0.0
+    },
+    {
+      "from": 72.98,
+      "to": 74.82,
+      "sid": 37,
+      "location": 2,
+      "content": "然后里面有一个烧烤粉",
+      "music": 0.0
+    },
+    {
+      "from": 74.82,
+      "to": 75.92,
+      "sid": 38,
+      "location": 2,
+      "content": "烧烤粉里面有红椒",
+      "music": 0.0
+    },
+    {
+      "from": 75.92,
+      "to": 76.74,
+      "sid": 39,
+      "location": 2,
+      "content": "芥末粉啊",
+      "music": 0.0
+    },
+    {
+      "from": 76.74,
+      "to": 78.16,
+      "sid": 40,
+      "location": 2,
+      "content": "各种什么肉豆蔻啊",
+      "music": 0.0
+    },
+    {
+      "from": 78.16,
+      "to": 78.56,
+      "sid": 41,
+      "location": 2,
+      "content": "丁香啊",
+      "music": 0.0
+    },
+    {
+      "from": 78.56,
+      "to": 80.52,
+      "sid": 42,
+      "location": 2,
+      "content": "就等于是一个一个13香炸料粉啦",
+      "music": 0.0
+    },
+    {
+      "from": 80.52,
+      "to": 81.72,
+      "sid": 43,
+      "location": 2,
+      "content": "这个是一个很神奇的一个",
+      "music": 0.0
+    },
+    {
+      "from": 81.72,
+      "to": 85.6,
+      "sid": 44,
+      "location": 2,
+      "content": "所有快餐厅都会有他们的那种秘密香料组合",
+      "music": 0.0
+    },
+    {
+      "from": 85.6,
+      "to": 87.0,
+      "sid": 45,
+      "location": 2,
+      "content": "这也是为什么你吃的时候",
+      "music": 0.0
+    },
+    {
+      "from": 87.0,
+      "to": 89.31,
+      "sid": 46,
+      "location": 2,
+      "content": "那种莫名其妙很委婉的香",
+      "music": 0.0
+    },
+    {
+      "from": 89.31,
+      "to": 91.71,
+      "sid": 47,
+      "location": 2,
+      "content": "但是其实没有一个你能挑得出来的",
+      "music": 0.0
+    },
+    {
+      "from": 91.71,
+      "to": 95.51,
+      "sid": 48,
+      "location": 2,
+      "content": "这个是我自己猜出来的一个香料组合",
+      "music": 0.0
+    },
+    {
+      "from": 99.72,
+      "to": 102.2,
+      "sid": 49,
+      "location": 2,
+      "content": "我们第一时间先把面包给做了",
+      "music": 0.0
+    },
+    {
+      "from": 102.2,
+      "to": 105.53,
+      "sid": 50,
+      "location": 2,
+      "content": "昨天晚上我们是用我们的常规啊",
+      "music": 0.0
+    },
+    {
+      "from": 105.53,
+      "to": 106.61,
+      "sid": 51,
+      "location": 2,
+      "content": "汉堡面包配方",
+      "music": 0.0
+    },
+    {
+      "from": 106.61,
+      "to": 107.51,
+      "sid": 52,
+      "location": 2,
+      "content": "高筋面粉",
+      "music": 0.0
+    },
+    {
+      "from": 107.51,
+      "to": 109.11,
+      "sid": 53,
+      "location": 2,
+      "content": "鸡蛋冰块奶粉",
+      "music": 0.0
+    },
+    {
+      "from": 109.11,
+      "to": 110.24,
+      "sid": 54,
+      "location": 2,
+      "content": "盐和酵母",
+      "music": 0.0
+    },
+    {
+      "from": 110.24,
+      "to": 112.58,
+      "sid": 55,
+      "location": 2,
+      "content": "然后呢打到八层面筋之后放一点油",
+      "music": 0.0
+    },
+    {
+      "from": 112.58,
+      "to": 113.06,
+      "sid": 56,
+      "location": 2,
+      "content": "结束",
+      "music": 0.0
+    },
+    {
+      "from": 113.06,
+      "to": 116.36,
+      "sid": 57,
+      "location": 2,
+      "content": "你买了两个双人套餐",
+      "music": 0.0
+    },
+    {
+      "from": 116.36,
+      "to": 117.44,
+      "sid": 58,
+      "location": 2,
+      "content": "那是四个汉堡",
+      "music": 0.0
+    },
+    {
+      "from": 117.44,
+      "to": 120.94,
+      "sid": 59,
+      "location": 2,
+      "content": "四个汉堡好送进烤箱去发酵去",
+      "music": 0.0
+    },
+    {
+      "from": 124.76,
+      "to": 129.56,
+      "sid": 60,
+      "location": 2,
+      "content": "在这个时候我们需要做一个常用快餐厅的JEFF",
+      "music": 0.0
+    },
+    {
+      "from": 129.56,
+      "to": 131.769,
+      "sid": 61,
+      "location": 2,
+      "content": "那这边有25克的味精",
+      "music": 0.0
+    },
+    {
+      "from": 133.049,
+      "to": 134.929,
+      "sid": 62,
+      "location": 2,
+      "content": "切他好吃是有原因的",
+      "music": 0.0
+    },
+    {
+      "from": 134.929,
+      "to": 136.009,
+      "sid": 63,
+      "location": 2,
+      "content": "老陈",
+      "music": 0.0
+    },
+    {
+      "from": 139.82,
+      "to": 144.44,
+      "sid": 64,
+      "location": 2,
+      "content": "通常啊这种炸粉呢我都会建议所有人多备一点",
+      "music": 0.0
+    },
+    {
+      "from": 144.44,
+      "to": 145.87,
+      "sid": 65,
+      "location": 2,
+      "content": "就备一大缸",
+      "music": 0.0
+    },
+    {
+      "from": 145.87,
+      "to": 149.11,
+      "sid": 66,
+      "location": 2,
+      "content": "因为你说不定你什么时候会想吃炸的东西",
+      "music": 0.0
+    },
+    {
+      "from": 149.11,
+      "to": 150.03,
+      "sid": 67,
+      "location": 2,
+      "content": "你备一大缸出来",
+      "music": 0.0
+    },
+    {
+      "from": 150.03,
+      "to": 152.39,
+      "sid": 68,
+      "location": 2,
+      "content": "就意味着你下次需要多少就拿多少出来",
+      "music": 0.0
+    },
+    {
+      "from": 152.39,
+      "to": 153.99,
+      "sid": 69,
+      "location": 2,
+      "content": "这回准备好",
+      "music": 0.0
+    },
+    {
+      "from": 153.99,
+      "to": 155.87,
+      "sid": 70,
+      "location": 2,
+      "content": "这锅很贵的哦",
+      "music": 0.0
+    },
+    {
+      "from": 155.87,
+      "to": 156.69,
+      "sid": 71,
+      "location": 2,
+      "content": "这个锅啊",
+      "music": 0.0
+    },
+    {
+      "from": 156.69,
+      "to": 159.09,
+      "sid": 72,
+      "location": 2,
+      "content": "这锅贵不是因为它锅贵",
+      "music": 0.0
+    },
+    {
+      "from": 159.09,
+      "to": 161.45,
+      "sid": 73,
+      "location": 2,
+      "content": "是因为你其实买了两把锅",
+      "music": 0.0
+    },
+    {
+      "from": 161.45,
+      "to": 164.01,
+      "sid": 74,
+      "location": 2,
+      "content": "是他和他一起卖的天地锅嘛",
+      "music": 0.0
+    },
+    {
+      "from": 164.01,
+      "to": 166.579,
+      "sid": 75,
+      "location": 2,
+      "content": "换一个大一点的盆吧",
+      "music": 0.0
+    },
+    {
+      "from": 166.819,
+      "to": 167.819,
+      "sid": 76,
+      "location": 2,
+      "content": "这是洋葱粉",
+      "music": 0.0
+    },
+    {
+      "from": 170.179,
+      "to": 173.099,
+      "sid": 77,
+      "location": 2,
+      "content": "喏我这边炸粉就结束了",
+      "music": 0.0
+    },
+    {
+      "from": 177.8,
+      "to": 180.1,
+      "sid": 78,
+      "location": 2,
+      "content": "你点了多少块",
+      "music": 0.0
+    },
+    {
+      "from": 180.1,
+      "to": 181.42,
+      "sid": 79,
+      "location": 2,
+      "content": "那个麦乐鸡块",
+      "music": 0.0
+    },
+    {
+      "from": 181.42,
+      "to": 183.28,
+      "sid": 80,
+      "location": 2,
+      "content": "两份是20块",
+      "music": 0.0
+    },
+    {
+      "from": 183.28,
+      "to": 184.8,
+      "sid": 81,
+      "location": 2,
+      "content": "两份是20块是吧",
+      "music": 0.0
+    },
+    {
+      "from": 184.8,
+      "to": 185.84,
+      "sid": 82,
+      "location": 2,
+      "content": "成没问题",
+      "music": 0.0
+    },
+    {
+      "from": 185.84,
+      "to": 187.86,
+      "sid": 83,
+      "location": 2,
+      "content": "在处理机的过程当中",
+      "music": 0.0
+    },
+    {
+      "from": 187.86,
+      "to": 189.14,
+      "sid": 84,
+      "location": 2,
+      "content": "你要想把废料利用",
+      "music": 0.0
+    },
+    {
+      "from": 189.14,
+      "to": 190.62,
+      "sid": 85,
+      "location": 2,
+      "content": "废料利用废料利用嘛",
+      "music": 0.0
+    },
+    {
+      "from": 190.62,
+      "to": 193.62,
+      "sid": 86,
+      "location": 2,
+      "content": "废料利用指的无非就是鸡皮啊",
+      "music": 0.0
+    },
+    {
+      "from": 193.62,
+      "to": 194.56,
+      "sid": 87,
+      "location": 2,
+      "content": "鸡精啊",
+      "music": 0.0
+    },
+    {
+      "from": 194.56,
+      "to": 195.9,
+      "sid": 88,
+      "location": 2,
+      "content": "这些东西都可以用进去",
+      "music": 0.0
+    },
+    {
+      "from": 195.9,
+      "to": 197.14,
+      "sid": 89,
+      "location": 2,
+      "content": "我们刚好可以提供点胶质",
+      "music": 0.0
+    },
+    {
+      "from": 197.14,
+      "to": 199.53,
+      "sid": 90,
+      "location": 2,
+      "content": "也可以提供一点脂肪呐",
+      "music": 0.0
+    },
+    {
+      "from": 199.53,
+      "to": 200.67,
+      "sid": 91,
+      "location": 2,
+      "content": "往里边放个鸡蛋",
+      "music": 0.0
+    },
+    {
+      "from": 200.67,
+      "to": 202.69,
+      "sid": 92,
+      "location": 2,
+      "content": "要是是在厂子里面",
+      "music": 0.0
+    },
+    {
+      "from": 202.69,
+      "to": 203.78,
+      "sid": 93,
+      "location": 2,
+      "content": "它会用肉焦煤",
+      "music": 0.0
+    },
+    {
+      "from": 203.78,
+      "to": 204.94,
+      "sid": 94,
+      "location": 2,
+      "content": "各种水性淀粉",
+      "music": 0.0
+    },
+    {
+      "from": 204.94,
+      "to": 206.64,
+      "sid": 95,
+      "location": 2,
+      "content": "卡拉胶都有可能哦",
+      "music": 0.0
+    },
+    {
+      "from": 206.64,
+      "to": 209.98,
+      "sid": 96,
+      "location": 2,
+      "content": "嗯哼那今天我们就用最前传统简单的一个鸡蛋",
+      "music": 0.0
+    },
+    {
+      "from": 209.98,
+      "to": 212.92,
+      "sid": 97,
+      "location": 2,
+      "content": "因为我希望你们自己家里做变成一个团了之后",
+      "music": 0.0
+    },
+    {
+      "from": 212.92,
+      "to": 214.06,
+      "sid": 98,
+      "location": 2,
+      "content": "我们就知道可以拿出来",
+      "music": 0.0
+    },
+    {
+      "from": 214.06,
+      "to": 217.14,
+      "sid": 99,
+      "location": 2,
+      "content": "当那个麦乐鸡块用了就打的过程当中",
+      "music": 0.0
+    },
+    {
+      "from": 217.14,
+      "to": 219.329,
+      "sid": 100,
+      "location": 2,
+      "content": "它里面的水性蛋白不出来",
+      "music": 0.0
+    },
+    {
+      "from": 219.329,
+      "to": 220.529,
+      "sid": 101,
+      "location": 2,
+      "content": "然后会变成个泥巴",
+      "music": 0.0
+    },
+    {
+      "from": 220.529,
+      "to": 222.79,
+      "sid": 102,
+      "location": 2,
+      "content": "等于是上钉了",
+      "music": 0.0
+    },
+    {
+      "from": 223.55,
+      "to": 224.47,
+      "sid": 103,
+      "location": 2,
+      "content": "好了",
+      "music": 0.0
+    },
+    {
+      "from": 224.47,
+      "to": 227.01,
+      "sid": 104,
+      "location": 2,
+      "content": "NO是啊",
+      "music": 0.0
+    },
+    {
+      "from": 227.01,
+      "to": 227.67,
+      "sid": 105,
+      "location": 2,
+      "content": "一模一样",
+      "music": 0.0
+    },
+    {
+      "from": 227.67,
+      "to": 228.19,
+      "sid": 106,
+      "location": 2,
+      "content": "老陈",
+      "music": 0.0
+    },
+    {
+      "from": 228.19,
+      "to": 231.76,
+      "sid": 107,
+      "location": 2,
+      "content": "我需要你和我核实一下这到底是不是对的",
+      "music": 0.0
+    },
+    {
+      "from": 232.16,
+      "to": 233.62,
+      "sid": 108,
+      "location": 2,
+      "content": "是这个形状吗",
+      "music": 0.0
+    },
+    {
+      "from": 233.62,
+      "to": 238.96,
+      "sid": 109,
+      "location": 2,
+      "content": "麦乐鸡块太好了",
+      "music": 0.0
+    },
+    {
+      "from": 240.3,
+      "to": 242.84,
+      "sid": 110,
+      "location": 2,
+      "content": "挺有那种亲子活动的那种感觉",
+      "music": 0.0
+    },
+    {
+      "from": 242.84,
+      "to": 244.88,
+      "sid": 111,
+      "location": 2,
+      "content": "来爸爸带你去做麦当劳",
+      "music": 0.0
+    },
+    {
+      "from": 244.88,
+      "to": 245.46,
+      "sid": 112,
+      "location": 2,
+      "content": "你知道吗",
+      "music": 0.0
+    },
+    {
+      "from": 245.46,
+      "to": 246.96,
+      "sid": 113,
+      "location": 2,
+      "content": "你家孩子会有多难受吗",
+      "music": 0.0
+    },
+    {
+      "from": 246.96,
+      "to": 249.28,
+      "sid": 114,
+      "location": 2,
+      "content": "为什么咱们可以直接去吃我啊",
+      "music": 0.0
+    },
+    {
+      "from": 249.3,
+      "to": 252.12,
+      "sid": 115,
+      "location": 2,
+      "content": "做嗯嗯嗯嗯不会",
+      "music": 0.11864405774203798
+    },
+    {
+      "from": 252.12,
+      "to": 253.52,
+      "sid": 116,
+      "location": 2,
+      "content": "口袋里只剩100块",
+      "music": 0.0
+    },
+    {
+      "from": 253.52,
+      "to": 254.56,
+      "sid": 117,
+      "location": 2,
+      "content": "哈哈妈妈",
+      "music": 0.0
+    },
+    {
+      "from": 254.56,
+      "to": 256.52,
+      "sid": 118,
+      "location": 2,
+      "content": "你还是别在B站上做内容了",
+      "music": 0.0
+    },
+    {
+      "from": 256.52,
+      "to": 258.16,
+      "sid": 119,
+      "location": 2,
+      "content": "不赚钱",
+      "music": 0.0
+    },
+    {
+      "from": 260.56,
+      "to": 262.28,
+      "sid": 120,
+      "location": 2,
+      "content": "刚才不是粉状很大吗",
+      "music": 0.0
+    },
+    {
+      "from": 262.28,
+      "to": 263.84,
+      "sid": 121,
+      "location": 2,
+      "content": "然后现在会慢慢的透湿吗",
+      "music": 0.0
+    },
+    {
+      "from": 263.84,
+      "to": 266.3,
+      "sid": 122,
+      "location": 2,
+      "content": "就是里面的水分在吸收外面的干粉",
+      "music": 0.0
+    },
+    {
+      "from": 266.3,
+      "to": 267.96,
+      "sid": 123,
+      "location": 2,
+      "content": "使它变成一个有粘劲的糊",
+      "music": 0.0
+    },
+    {
+      "from": 267.96,
+      "to": 270.23,
+      "sid": 124,
+      "location": 2,
+      "content": "然后到时候我们再湿乎里边滚一下",
+      "music": 0.0
+    },
+    {
+      "from": 270.23,
+      "to": 271.55,
+      "sid": 125,
+      "location": 2,
+      "content": "直接炸咔咔",
+      "music": 0.0
+    },
+    {
+      "from": 271.55,
+      "to": 274.2,
+      "sid": 126,
+      "location": 2,
+      "content": "现在做圆的",
+      "music": 0.0
+    },
+    {
+      "from": 275.36,
+      "to": 278.68,
+      "sid": 127,
+      "location": 2,
+      "content": "圆的麦乐鸡块应该是不存在的吧",
+      "music": 0.0
+    },
+    {
+      "from": 278.68,
+      "to": 279.88,
+      "sid": 128,
+      "location": 2,
+      "content": "大家买的有啊",
+      "music": 0.0
+    },
+    {
+      "from": 279.88,
+      "to": 281.4,
+      "sid": 129,
+      "location": 2,
+      "content": "那椭圆形的吗",
+      "music": 0.0
+    },
+    {
+      "from": 281.4,
+      "to": 283.8,
+      "sid": 130,
+      "location": 2,
+      "content": "剪辑老师有椭圆形的麦乐鸡块吗",
+      "music": 0.0
+    },
+    {
+      "from": 283.8,
+      "to": 286.44,
+      "sid": 131,
+      "location": 2,
+      "content": "快乐鸡块有四种形状",
+      "music": 0.0
+    },
+    {
+      "from": 286.44,
+      "to": 289.08,
+      "sid": 132,
+      "location": 2,
+      "content": "什么个DER儿滚滚滚滚滚",
+      "music": 0.0
+    },
+    {
+      "from": 289.08,
+      "to": 289.76,
+      "sid": 133,
+      "location": 2,
+      "content": "我不想知道",
+      "music": 0.0
+    },
+    {
+      "from": 289.76,
+      "to": 293.88,
+      "sid": 134,
+      "location": 2,
+      "content": "滚回去可以给我捏一个五角星的吗",
+      "music": 0.0
+    },
+    {
+      "from": 295.6,
+      "to": 297.12,
+      "sid": 135,
+      "location": 2,
+      "content": "老陈要个三角劲儿",
+      "music": 0.0
+    },
+    {
+      "from": 297.12,
+      "to": 298.2,
+      "sid": 136,
+      "location": 2,
+      "content": "你要个什么形状的说",
+      "music": 0.0
+    },
+    {
+      "from": 298.2,
+      "to": 299.08,
+      "sid": 137,
+      "location": 2,
+      "content": "你说五角星的话",
+      "music": 0.0
+    },
+    {
+      "from": 299.08,
+      "to": 300.32,
+      "sid": 138,
+      "location": 2,
+      "content": "我蹦了这个台面掐死你",
+      "music": 0.0
+    },
+    {
+      "from": 300.32,
+      "to": 301.3,
+      "sid": 139,
+      "location": 2,
+      "content": "你信不信",
+      "music": 0.0
+    },
+    {
+      "from": 301.3,
+      "to": 306.45,
+      "sid": 140,
+      "location": 2,
+      "content": "那一个椭圆完美椭圆哦",
+      "music": 0.0
+    },
+    {
+      "from": 306.45,
+      "to": 308.27,
+      "sid": 141,
+      "location": 2,
+      "content": "你要的是个三角形是吧",
+      "music": 0.0
+    },
+    {
+      "from": 308.27,
+      "to": 310.49,
+      "sid": 142,
+      "location": 2,
+      "content": "那可以了吧",
+      "music": 0.0
+    },
+    {
+      "from": 310.49,
+      "to": 313.67,
+      "sid": 143,
+      "location": 2,
+      "content": "还有个啥五角星啊",
+      "music": 0.0
+    },
+    {
+      "from": 314.51,
+      "to": 316.63,
+      "sid": 144,
+      "location": 2,
+      "content": "老子给你五角一个出来",
+      "music": 0.0
+    },
+    {
+      "from": 316.63,
+      "to": 318.23,
+      "sid": 145,
+      "location": 2,
+      "content": "我觉得挺好看的哦",
+      "music": 0.0
+    },
+    {
+      "from": 318.23,
+      "to": 320.07,
+      "sid": 146,
+      "location": 2,
+      "content": "五角星仅限一个",
+      "music": 0.0
+    },
+    {
+      "from": 320.07,
+      "to": 323.59,
+      "sid": 147,
+      "location": 2,
+      "content": "那尔瑞设置一个170度",
+      "music": 0.0
+    },
+    {
+      "from": 323.59,
+      "to": 324.96,
+      "sid": 148,
+      "location": 2,
+      "content": "体积小来",
+      "music": 0.0
+    },
+    {
+      "from": 324.96,
+      "to": 327.22,
+      "sid": 149,
+      "location": 2,
+      "content": "这油应该是大头油",
+      "music": 0.0
+    },
+    {
+      "from": 327.22,
+      "to": 328.32,
+      "sid": 150,
+      "location": 2,
+      "content": "还要算我钱啊",
+      "music": 0.0
+    },
+    {
+      "from": 328.32,
+      "to": 330.02,
+      "sid": 151,
+      "location": 2,
+      "content": "油肯定要算你钱啊",
+      "music": 0.0
+    },
+    {
+      "from": 330.02,
+      "to": 331.48,
+      "sid": 152,
+      "location": 2,
+      "content": "呃",
+      "music": 0.0
+    },
+    {
+      "from": 333.57,
+      "to": 336.05,
+      "sid": 153,
+      "location": 2,
+      "content": "那就应该没剩多少钱了",
+      "music": 0.0
+    },
+    {
+      "from": 336.05,
+      "to": 336.97,
+      "sid": 154,
+      "location": 2,
+      "content": "还有多出来的钱",
+      "music": 0.0
+    },
+    {
+      "from": 336.97,
+      "to": 337.69,
+      "sid": 155,
+      "location": 2,
+      "content": "我可以还给你",
+      "music": 0.0
+    },
+    {
+      "from": 337.69,
+      "to": 338.85,
+      "sid": 156,
+      "location": 2,
+      "content": "这给你折算嘛",
+      "music": 0.0
+    },
+    {
+      "from": 338.85,
+      "to": 340.12,
+      "sid": 157,
+      "location": 2,
+      "content": "你这一缸油哦",
+      "music": 0.0
+    },
+    {
+      "from": 340.12,
+      "to": 341.56,
+      "sid": 158,
+      "location": 2,
+      "content": "炸出来了几口是吧",
+      "music": 0.0
+    },
+    {
+      "from": 341.56,
+      "to": 342.16,
+      "sid": 159,
+      "location": 2,
+      "content": "你要这么说的话",
+      "music": 0.0
+    },
+    {
+      "from": 342.16,
+      "to": 343.32,
+      "sid": 160,
+      "location": 2,
+      "content": "你一分钱都别想算我的",
+      "music": 0.0
+    },
+    {
+      "from": 343.32,
+      "to": 344.98,
+      "sid": 161,
+      "location": 2,
+      "content": "我明天我一口一口把给喝了",
+      "music": 0.0
+    },
+    {
+      "from": 344.98,
+      "to": 347.04,
+      "sid": 162,
+      "location": 2,
+      "content": "然后在等油的过程当中呢",
+      "music": 0.0
+    },
+    {
+      "from": 347.04,
+      "to": 351.78,
+      "sid": 163,
+      "location": 2,
+      "content": "我们可以先把这些鸡放到冷冻里面吹一会儿啊",
+      "music": 0.0
+    },
+    {
+      "from": 351.78,
+      "to": 353.14,
+      "sid": 164,
+      "location": 2,
+      "content": "定个型",
+      "music": 0.0
+    },
+    {
+      "from": 355.32,
+      "to": 356.48,
+      "sid": 165,
+      "location": 2,
+      "content": "九个鸡翅是吧",
+      "music": 0.0
+    },
+    {
+      "from": 357.6,
+      "to": 362.21,
+      "sid": 166,
+      "location": 2,
+      "content": "跟你做快餐风格炸鸡的时候啊",
+      "music": 0.0
+    },
+    {
+      "from": 362.21,
+      "to": 364.89,
+      "sid": 167,
+      "location": 2,
+      "content": "千万不要把鸡捧在手里去",
+      "music": 0.0
+    },
+    {
+      "from": 364.89,
+      "to": 366.67,
+      "sid": 168,
+      "location": 2,
+      "content": "挤那个干粉兜就行了",
+      "music": 0.0
+    },
+    {
+      "from": 366.67,
+      "to": 367.43,
+      "sid": 169,
+      "location": 2,
+      "content": "轻轻的兜",
+      "music": 0.0
+    },
+    {
+      "from": 367.43,
+      "to": 370.18,
+      "sid": 170,
+      "location": 2,
+      "content": "你要尽可能让它的流体和皮呀",
+      "music": 0.0
+    },
+    {
+      "from": 370.18,
+      "to": 373.52,
+      "sid": 171,
+      "location": 2,
+      "content": "和坑坑洼洼的地方之间自然的落进去",
+      "music": 0.0
+    },
+    {
+      "from": 373.52,
+      "to": 377.22,
+      "sid": 172,
+      "location": 2,
+      "content": "这样才会是你要的那个快餐表皮的那个口感",
+      "music": 0.0
+    },
+    {
+      "from": 377.22,
+      "to": 379.96,
+      "sid": 173,
+      "location": 2,
+      "content": "你看然后剩下都是麦辣鸡是吧",
+      "music": 0.0
+    },
+    {
+      "from": 379.96,
+      "to": 380.68,
+      "sid": 174,
+      "location": 2,
+      "content": "麦辣鸡块",
+      "music": 0.0
+    },
+    {
+      "from": 380.68,
+      "to": 381.4,
+      "sid": 175,
+      "location": 2,
+      "content": "麦辣鸡腿堡",
+      "music": 0.0
+    },
+    {
+      "from": 381.4,
+      "to": 381.8,
+      "sid": 176,
+      "location": 2,
+      "content": "麦辣鸡",
+      "music": 0.0
+    },
+    {
+      "from": 381.8,
+      "to": 382.88,
+      "sid": 177,
+      "location": 2,
+      "content": "这个鸡那个是吗",
+      "music": 0.0
+    },
+    {
+      "from": 382.88,
+      "to": 385.44,
+      "sid": 178,
+      "location": 2,
+      "content": "对行那我们就加加一点辣椒粉",
+      "music": 0.0
+    },
+    {
+      "from": 385.44,
+      "to": 387.88,
+      "sid": 179,
+      "location": 2,
+      "content": "因为我怕到时候这边不够辣",
+      "music": 0.0
+    },
+    {
+      "from": 388.39,
+      "to": 392.19,
+      "sid": 180,
+      "location": 2,
+      "content": "嘘就我一直觉得很奇怪的一个点",
+      "music": 0.0
+    },
+    {
+      "from": 392.19,
+      "to": 395.35,
+      "sid": 181,
+      "location": 2,
+      "content": "就是像大伙都说100块钱买不了什么东西",
+      "music": 0.0
+    },
+    {
+      "from": 395.35,
+      "to": 399.15,
+      "sid": 182,
+      "location": 2,
+      "content": "但是我们这100块钱买到的东西又很多",
+      "music": 0.0
+    },
+    {
+      "from": 399.15,
+      "to": 400.91,
+      "sid": 183,
+      "location": 2,
+      "content": "所以是有些东西贵了",
+      "music": 0.0
+    },
+    {
+      "from": 400.91,
+      "to": 404.07,
+      "sid": 184,
+      "location": 2,
+      "content": "有些东西便宜了100块钱买不到",
+      "music": 0.0
+    },
+    {
+      "from": 404.07,
+      "to": 405.53,
+      "sid": 185,
+      "location": 2,
+      "content": "你不需要付出的东西了",
+      "music": 0.0
+    },
+    {
+      "from": 405.53,
+      "to": 407.28,
+      "sid": 186,
+      "location": 2,
+      "content": "每一个人的都不想浪费时间",
+      "music": 0.0
+    },
+    {
+      "from": 407.28,
+      "to": 409.38,
+      "sid": 187,
+      "location": 2,
+      "content": "但是每一个人的时间同时又很珍贵",
+      "music": 0.0
+    },
+    {
+      "from": 409.38,
+      "to": 412.24,
+      "sid": 188,
+      "location": 2,
+      "content": "那你想省钱又想省省劳是不可能的",
+      "music": 0.0
+    },
+    {
+      "from": 412.24,
+      "to": 413.84,
+      "sid": 189,
+      "location": 2,
+      "content": "不像以往说难听了",
+      "music": 0.0
+    },
+    {
+      "from": 413.84,
+      "to": 415.74,
+      "sid": 190,
+      "location": 2,
+      "content": "不值钱的时间的人更多",
+      "music": 0.0
+    },
+    {
+      "from": 415.74,
+      "to": 417.18,
+      "sid": 191,
+      "location": 2,
+      "content": "你现在只能靠自己了",
+      "music": 0.0
+    },
+    {
+      "from": 417.18,
+      "to": 417.74,
+      "sid": 192,
+      "location": 2,
+      "content": "对不对",
+      "music": 0.0
+    },
+    {
+      "from": 417.74,
+      "to": 418.58,
+      "sid": 193,
+      "location": 2,
+      "content": "不像本来了",
+      "music": 0.0
+    },
+    {
+      "from": 418.58,
+      "to": 419.58,
+      "sid": 194,
+      "location": 2,
+      "content": "还有人帮你去",
+      "music": 0.0
+    },
+    {
+      "from": 419.58,
+      "to": 422.01,
+      "sid": 195,
+      "location": 2,
+      "content": "就是弥补那些你自己不愿意干的事",
+      "music": 0.0
+    },
+    {
+      "from": 422.01,
+      "to": 423.83,
+      "sid": 196,
+      "location": 2,
+      "content": "现在这种人越来越少了呀",
+      "music": 0.0
+    },
+    {
+      "from": 423.83,
+      "to": 427.71,
+      "sid": 197,
+      "location": 2,
+      "content": "你看然后就都都都都",
+      "music": 0.0
+    },
+    {
+      "from": 427.71,
+      "to": 432.71,
+      "sid": 198,
+      "location": 2,
+      "content": "这个是所有快餐炸鸡的唯一一个秘诀",
+      "music": 0.0
+    },
+    {
+      "from": 432.71,
+      "to": 436.75,
+      "sid": 199,
+      "location": 2,
+      "content": "传说啊就是这个鸡在这个粉里面抖几下子",
+      "music": 0.0
+    },
+    {
+      "from": 436.75,
+      "to": 439.16,
+      "sid": 200,
+      "location": 2,
+      "content": "翻滚几下子都很有讲究",
+      "music": 0.0
+    },
+    {
+      "from": 439.16,
+      "to": 440.54,
+      "sid": 201,
+      "location": 2,
+      "content": "有很多人说是60次",
+      "music": 0.0
+    },
+    {
+      "from": 440.54,
+      "to": 441.48,
+      "sid": 202,
+      "location": 2,
+      "content": "57次",
+      "music": 0.0
+    },
+    {
+      "from": 441.48,
+      "to": 442.4,
+      "sid": 203,
+      "location": 2,
+      "content": "63次",
+      "music": 0.0
+    },
+    {
+      "from": 442.4,
+      "to": 443.93,
+      "sid": 204,
+      "location": 2,
+      "content": "他们是拿机器抖的嘛",
+      "music": 0.0
+    },
+    {
+      "from": 443.93,
+      "to": 444.93,
+      "sid": 205,
+      "location": 2,
+      "content": "这翻滚几次",
+      "music": 0.0
+    },
+    {
+      "from": 444.93,
+      "to": 445.63,
+      "sid": 206,
+      "location": 2,
+      "content": "翻滚几秒",
+      "music": 0.0
+    },
+    {
+      "from": 445.63,
+      "to": 451.0,
+      "sid": 207,
+      "location": 2,
+      "content": "你看我现在在数的20 456",
+      "music": 0.0
+    },
+    {
+      "from": 453.18,
+      "to": 456.18,
+      "sid": 208,
+      "location": 2,
+      "content": "那60次看到它表面那个一愣一愣的吗",
+      "music": 0.0
+    },
+    {
+      "from": 456.18,
+      "to": 457.3,
+      "sid": 209,
+      "location": 2,
+      "content": "一叠一叠吗",
+      "music": 0.0
+    },
+    {
+      "from": 457.3,
+      "to": 460.14,
+      "sid": 210,
+      "location": 2,
+      "content": "然后这个是没有60次的",
+      "music": 0.0
+    },
+    {
+      "from": 461.83,
+      "to": 465.27,
+      "sid": 211,
+      "location": 2,
+      "content": "更有那种快餐的那个一坑坑洼洼长相嘛",
+      "music": 0.0
+    },
+    {
+      "from": 465.27,
+      "to": 467.02,
+      "sid": 212,
+      "location": 2,
+      "content": "对对对",
+      "music": 0.0
+    },
+    {
+      "from": 471.96,
+      "to": 473.2,
+      "sid": 213,
+      "location": 2,
+      "content": "Your appetizer",
+      "music": 0.0
+    },
+    {
+      "from": 473.2,
+      "to": 473.96,
+      "sid": 214,
+      "location": 2,
+      "content": "你的前菜",
+      "music": 0.0
+    },
+    {
+      "from": 473.96,
+      "to": 477.319,
+      "sid": 215,
+      "location": 2,
+      "content": "我们先做20个小鸡块好",
+      "music": 0.0
+    },
+    {
+      "from": 477.319,
+      "to": 479.859,
+      "sid": 216,
+      "location": 2,
+      "content": "先把你们的五角星的这些给榨出来吧",
+      "music": 0.0
+    },
+    {
+      "from": 479.859,
+      "to": 480.279,
+      "sid": 217,
+      "location": 2,
+      "content": "好吗",
+      "music": 0.0
+    },
+    {
+      "from": 480.279,
+      "to": 484.459,
+      "sid": 218,
+      "location": 2,
+      "content": "往我们刚才的废渣粉里面放一点水",
+      "music": 0.0
+    },
+    {
+      "from": 490.06,
+      "to": 494.57,
+      "sid": 219,
+      "location": 2,
+      "content": "这个饥饿感速速加倍是吧",
+      "music": 0.0
+    },
+    {
+      "from": 494.89,
+      "to": 496.85,
+      "sid": 220,
+      "location": 2,
+      "content": "都已经离开他的机位了",
+      "music": 0.0
+    },
+    {
+      "from": 496.85,
+      "to": 498.61,
+      "sid": 221,
+      "location": 2,
+      "content": "这个看起来更红",
+      "music": 0.0
+    },
+    {
+      "from": 498.61,
+      "to": 500.13,
+      "sid": 222,
+      "location": 2,
+      "content": "因为有两种方式嘛",
+      "music": 0.0
+    },
+    {
+      "from": 500.13,
+      "to": 501.59,
+      "sid": 223,
+      "location": 2,
+      "content": "我待会两个都给你炸出来",
+      "music": 0.0
+    },
+    {
+      "from": 501.59,
+      "to": 504.93,
+      "sid": 224,
+      "location": 2,
+      "content": "理论上来说干糊就足够了",
+      "music": 0.0
+    },
+    {
+      "from": 504.93,
+      "to": 505.93,
+      "sid": 225,
+      "location": 2,
+      "content": "这是湿糊",
+      "music": 0.0
+    },
+    {
+      "from": 505.93,
+      "to": 507.25,
+      "sid": 226,
+      "location": 2,
+      "content": "我就会脆的更久",
+      "music": 0.0
+    },
+    {
+      "from": 507.25,
+      "to": 509.95,
+      "sid": 227,
+      "location": 2,
+      "content": "所以我用那些异形的什么五角星啊",
+      "music": 0.0
+    },
+    {
+      "from": 509.95,
+      "to": 512.17,
+      "sid": 228,
+      "location": 2,
+      "content": "爱心啊这些东西去先去做一个",
+      "music": 0.0
+    },
+    {
+      "from": 512.17,
+      "to": 514.615,
+      "sid": 229,
+      "location": 2,
+      "content": "这个我会觉得好吃一点的",
+      "music": 0.0
+    },
+    {
+      "from": 516.78,
+      "to": 517.3,
+      "sid": 230,
+      "location": 2,
+      "content": "啊",
+      "music": 0.0
+    },
+    {
+      "from": 519.66,
+      "to": 522.42,
+      "sid": 231,
+      "location": 2,
+      "content": "然后我们现在炸几个干糊的试一试",
+      "music": 0.0
+    },
+    {
+      "from": 529.18,
+      "to": 531.12,
+      "sid": 232,
+      "location": 2,
+      "content": "油温掌握很重要的",
+      "music": 0.0
+    },
+    {
+      "from": 531.12,
+      "to": 533.74,
+      "sid": 233,
+      "location": 2,
+      "content": "这样你下进去你就不用担心太多",
+      "music": 0.0
+    },
+    {
+      "from": 533.74,
+      "to": 535.06,
+      "sid": 234,
+      "location": 2,
+      "content": "到了时间就是到上了",
+      "music": 0.0
+    },
+    {
+      "from": 535.06,
+      "to": 536.16,
+      "sid": 235,
+      "location": 2,
+      "content": "颜色也是里边熟了",
+      "music": 0.0
+    },
+    {
+      "from": 536.16,
+      "to": 538.36,
+      "sid": 236,
+      "location": 2,
+      "content": "在这个时候是不是要给你准备几个酱了",
+      "music": 0.0
+    },
+    {
+      "from": 538.51,
+      "to": 541.66,
+      "sid": 237,
+      "location": 2,
+      "content": "红利先锋酱好嘞",
+      "music": 0.0
+    },
+    {
+      "from": 541.66,
+      "to": 543.79,
+      "sid": 238,
+      "location": 2,
+      "content": "我给你明确说一个点子啊",
+      "music": 0.0
+    },
+    {
+      "from": 543.79,
+      "to": 544.91,
+      "sid": 239,
+      "location": 2,
+      "content": "蜂蜜芥末酱",
+      "music": 0.0
+    },
+    {
+      "from": 544.91,
+      "to": 545.67,
+      "sid": 240,
+      "location": 2,
+      "content": "你想算我钱",
+      "music": 0.0
+    },
+    {
+      "from": 545.67,
+      "to": 546.55,
+      "sid": 241,
+      "location": 2,
+      "content": "我是不接受的",
+      "music": 0.0
+    },
+    {
+      "from": 546.55,
+      "to": 547.99,
+      "sid": 242,
+      "location": 2,
+      "content": "因为酱是免费可以拿的",
+      "music": 0.0
+    },
+    {
+      "from": 547.99,
+      "to": 549.65,
+      "sid": 243,
+      "location": 2,
+      "content": "你不点麦当劳也可以继续拿酱",
+      "music": 0.0
+    },
+    {
+      "from": 549.65,
+      "to": 551.59,
+      "sid": 244,
+      "location": 2,
+      "content": "是不是这个道理",
+      "music": 0.0
+    },
+    {
+      "from": 551.869,
+      "to": 553.429,
+      "sid": 245,
+      "location": 2,
+      "content": "所以我这个是买的",
+      "music": 0.0
+    },
+    {
+      "from": 553.429,
+      "to": 554.629,
+      "sid": 246,
+      "location": 2,
+      "content": "但是你其实要做的话",
+      "music": 0.0
+    },
+    {
+      "from": 554.629,
+      "to": 557.309,
+      "sid": 247,
+      "location": 2,
+      "content": "也就是同比例黄芥末和蜂蜜结束",
+      "music": 0.0
+    },
+    {
+      "from": 557.309,
+      "to": 561.264,
+      "sid": 248,
+      "location": 2,
+      "content": "这个是我做的酸甜辣的烧烤酱",
+      "music": 0.0
+    },
+    {
+      "from": 561.65,
+      "to": 562.45,
+      "sid": 249,
+      "location": 2,
+      "content": "好嘞",
+      "music": 0.0
+    },
+    {
+      "from": 562.45,
+      "to": 563.25,
+      "sid": 250,
+      "location": 2,
+      "content": "这边结束了",
+      "music": 0.0
+    },
+    {
+      "from": 563.25,
+      "to": 566.61,
+      "sid": 251,
+      "location": 2,
+      "content": "让一下还有点过火",
+      "music": 0.0
+    },
+    {
+      "from": 566.61,
+      "to": 567.39,
+      "sid": 252,
+      "location": 2,
+      "content": "太过瘾了",
+      "music": 0.0
+    },
+    {
+      "from": 567.39,
+      "to": 569.21,
+      "sid": 253,
+      "location": 2,
+      "content": "你等它冷完了之后",
+      "music": 0.0
+    },
+    {
+      "from": 569.21,
+      "to": 570.45,
+      "sid": 254,
+      "location": 2,
+      "content": "他就抽抽了",
+      "music": 0.0
+    },
+    {
+      "from": 570.45,
+      "to": 574.43,
+      "sid": 255,
+      "location": 2,
+      "content": "抽抽了之后就长得像那个卖了鸡块的那个皮样",
+      "music": 0.0
+    },
+    {
+      "from": 574.43,
+      "to": 576.11,
+      "sid": 256,
+      "location": 2,
+      "content": "这里有23个",
+      "music": 0.0
+    },
+    {
+      "from": 576.11,
+      "to": 577.51,
+      "sid": 257,
+      "location": 2,
+      "content": "超了三个",
+      "music": 0.0
+    },
+    {
+      "from": 577.51,
+      "to": 578.87,
+      "sid": 258,
+      "location": 2,
+      "content": "那我不客气了",
+      "music": 0.0
+    },
+    {
+      "from": 581.83,
+      "to": 585.65,
+      "sid": 259,
+      "location": 2,
+      "content": "哇哇哇能咽得下去的麦乐鸡块哦",
+      "music": 0.0
+    },
+    {
+      "from": 585.65,
+      "to": 588.39,
+      "sid": 260,
+      "location": 2,
+      "content": "这个真的好吃好喝是吗",
+      "music": 0.0
+    },
+    {
+      "from": 588.39,
+      "to": 590.77,
+      "sid": 261,
+      "location": 2,
+      "content": "但是现在最关键的是什么哈",
+      "music": 0.0
+    },
+    {
+      "from": 590.77,
+      "to": 593.07,
+      "sid": 262,
+      "location": 2,
+      "content": "因为我猜观众朋友们有很多好奇的",
+      "music": 0.0
+    },
+    {
+      "from": 593.07,
+      "to": 595.55,
+      "sid": 263,
+      "location": 2,
+      "content": "它好吃其实不是最难的",
+      "music": 0.0
+    },
+    {
+      "from": 595.55,
+      "to": 597.75,
+      "sid": 264,
+      "location": 2,
+      "content": "它最难的是在好吃的同时",
+      "music": 0.0
+    },
+    {
+      "from": 597.75,
+      "to": 599.65,
+      "sid": 265,
+      "location": 2,
+      "content": "有没有让你想起来原味的",
+      "music": 0.0
+    },
+    {
+      "from": 599.65,
+      "to": 602.11,
+      "sid": 266,
+      "location": 2,
+      "content": "它味道肯定是有相似的地方",
+      "music": 0.0
+    },
+    {
+      "from": 602.11,
+      "to": 603.36,
+      "sid": 267,
+      "location": 2,
+      "content": "那就够了",
+      "music": 0.0
+    },
+    {
+      "from": 603.36,
+      "to": 605.3,
+      "sid": 268,
+      "location": 2,
+      "content": "但我觉得因为新鲜",
+      "music": 0.0
+    },
+    {
+      "from": 605.3,
+      "to": 607.42,
+      "sid": 269,
+      "location": 2,
+      "content": "然后它外壳脆到离谱",
+      "music": 0.0
+    },
+    {
+      "from": 607.42,
+      "to": 611.86,
+      "sid": 270,
+      "location": 2,
+      "content": "嗯然后它里面的肉不再是那种糊了对",
+      "music": 0.0
+    },
+    {
+      "from": 611.86,
+      "to": 613.74,
+      "sid": 271,
+      "location": 2,
+      "content": "但是但是你要记得啊",
+      "music": 0.0
+    },
+    {
+      "from": 613.74,
+      "to": 615.22,
+      "sid": 272,
+      "location": 2,
+      "content": "老陈不是每个人像我们的",
+      "music": 0.0
+    },
+    {
+      "from": 615.22,
+      "to": 616.62,
+      "sid": 273,
+      "location": 2,
+      "content": "就是没有那个劣质感的话",
+      "music": 0.0
+    },
+    {
+      "from": 616.62,
+      "to": 617.74,
+      "sid": 274,
+      "location": 2,
+      "content": "有可能是失去了人生",
+      "music": 0.0
+    },
+    {
+      "from": 617.74,
+      "to": 619.6,
+      "sid": 275,
+      "location": 2,
+      "content": "而不是获取了人生",
+      "music": 0.0
+    },
+    {
+      "from": 619.6,
+      "to": 621.68,
+      "sid": 276,
+      "location": 2,
+      "content": "唔有点烫",
+      "music": 0.0
+    },
+    {
+      "from": 625.18,
+      "to": 630.34,
+      "sid": 277,
+      "location": 2,
+      "content": "我喜欢那个皮肤的他的那种蓬松脆感",
+      "music": 0.0
+    },
+    {
+      "from": 630.89,
+      "to": 632.87,
+      "sid": 278,
+      "location": 2,
+      "content": "对而且很薄嗯",
+      "music": 0.0
+    },
+    {
+      "from": 632.87,
+      "to": 635.61,
+      "sid": 279,
+      "location": 2,
+      "content": "那我接下来炸我的鸡翅了",
+      "music": 0.0
+    },
+    {
+      "from": 635.61,
+      "to": 636.35,
+      "sid": 280,
+      "location": 2,
+      "content": "可以吗",
+      "music": 0.0
+    },
+    {
+      "from": 636.35,
+      "to": 637.56,
+      "sid": 281,
+      "location": 2,
+      "content": "可以啊",
+      "music": 0.0
+    },
+    {
+      "from": 637.56,
+      "to": 639.68,
+      "sid": 282,
+      "location": 2,
+      "content": "不先下鸡翅根",
+      "music": 0.0
+    },
+    {
+      "from": 639.68,
+      "to": 641.96,
+      "sid": 283,
+      "location": 2,
+      "content": "因为鸡翅根很粗",
+      "music": 0.0
+    },
+    {
+      "from": 642.9,
+      "to": 644.92,
+      "sid": 284,
+      "location": 2,
+      "content": "因为说实话我把他忘了",
+      "music": 0.0
+    },
+    {
+      "from": 644.92,
+      "to": 647.74,
+      "sid": 285,
+      "location": 2,
+      "content": "但是绝大概率是好吃的",
+      "music": 0.0
+    },
+    {
+      "from": 647.74,
+      "to": 650.76,
+      "sid": 286,
+      "location": 2,
+      "content": "你还我一个麦当劳的颜色好",
+      "music": 0.0
+    },
+    {
+      "from": 650.76,
+      "to": 651.62,
+      "sid": 287,
+      "location": 2,
+      "content": "没问题",
+      "music": 0.0
+    },
+    {
+      "from": 651.62,
+      "to": 653.54,
+      "sid": 288,
+      "location": 2,
+      "content": "你看只要你通过抖的话",
+      "music": 0.0
+    },
+    {
+      "from": 653.54,
+      "to": 655.26,
+      "sid": 289,
+      "location": 2,
+      "content": "你就可以有和他们一样的碎状",
+      "music": 0.0
+    },
+    {
+      "from": 655.26,
+      "to": 656.18,
+      "sid": 290,
+      "location": 2,
+      "content": "但是你得抖",
+      "music": 0.0
+    },
+    {
+      "from": 656.18,
+      "to": 658.22,
+      "sid": 291,
+      "location": 2,
+      "content": "而且他们用到的那些淀粉组合啊",
+      "music": 0.0
+    },
+    {
+      "from": 658.22,
+      "to": 659.26,
+      "sid": 292,
+      "location": 2,
+      "content": "是专属于他们自己的",
+      "music": 0.0
+    },
+    {
+      "from": 659.26,
+      "to": 660.32,
+      "sid": 293,
+      "location": 2,
+      "content": "他们有专利的",
+      "music": 0.0
+    },
+    {
+      "from": 660.32,
+      "to": 662.26,
+      "sid": 294,
+      "location": 2,
+      "content": "他们淀粉组合是不会往外那个的",
+      "music": 0.0
+    },
+    {
+      "from": 662.26,
+      "to": 663.86,
+      "sid": 295,
+      "location": 2,
+      "content": "是不是这个颜色",
+      "music": 0.0
+    },
+    {
+      "from": 666.56,
+      "to": 668.08,
+      "sid": 296,
+      "location": 2,
+      "content": "来给你嘎开一下",
+      "music": 0.0
+    },
+    {
+      "from": 668.08,
+      "to": 671.96,
+      "sid": 297,
+      "location": 2,
+      "content": "看一看里面的质地是不是很鲜嫩多汁喔",
+      "music": 0.0
+    },
+    {
+      "from": 672.96,
+      "to": 676.34,
+      "sid": 298,
+      "location": 2,
+      "content": "来它嫩度真的很嫩",
+      "music": 0.0
+    },
+    {
+      "from": 676.34,
+      "to": 677.96,
+      "sid": 299,
+      "location": 2,
+      "content": "跟麦当劳一模一样",
+      "music": 0.0
+    },
+    {
+      "from": 677.96,
+      "to": 679.32,
+      "sid": 300,
+      "location": 2,
+      "content": "嗯哼",
+      "music": 0.0
+    },
+    {
+      "from": 683.02,
+      "to": 685.06,
+      "sid": 301,
+      "location": 2,
+      "content": "嗯这声音是对的",
+      "music": 0.0
+    },
+    {
+      "from": 685.06,
+      "to": 685.7,
+      "sid": 302,
+      "location": 2,
+      "content": "你不觉得吗",
+      "music": 0.0
+    },
+    {
+      "from": 685.7,
+      "to": 687.94,
+      "sid": 303,
+      "location": 2,
+      "content": "就是那个在后脑勺那嘎哒嘎哒嘎哒",
+      "music": 0.0
+    },
+    {
+      "from": 687.94,
+      "to": 689.56,
+      "sid": 304,
+      "location": 2,
+      "content": "这个是准确的脆",
+      "music": 0.0
+    },
+    {
+      "from": 689.56,
+      "to": 691.49,
+      "sid": 305,
+      "location": 2,
+      "content": "然后在我收拾前",
+      "music": 0.0
+    },
+    {
+      "from": 691.49,
+      "to": 694.45,
+      "sid": 306,
+      "location": 2,
+      "content": "我可以借这个机会先把咱们的脆汁鸡六个嘛",
+      "music": 0.0
+    },
+    {
+      "from": 694.45,
+      "to": 694.91,
+      "sid": 307,
+      "location": 2,
+      "content": "对不对",
+      "music": 0.0
+    },
+    {
+      "from": 694.91,
+      "to": 696.63,
+      "sid": 308,
+      "location": 2,
+      "content": "首先你看我这六个多肥",
+      "music": 0.0
+    },
+    {
+      "from": 696.63,
+      "to": 697.95,
+      "sid": 309,
+      "location": 2,
+      "content": "你还剩多少个",
+      "music": 0.0
+    },
+    {
+      "from": 697.95,
+      "to": 702.799,
+      "sid": 310,
+      "location": 2,
+      "content": "你这个一个顶他一个板来抖走走",
+      "music": 0.0
+    },
+    {
+      "from": 702.799,
+      "to": 705.819,
+      "sid": 311,
+      "location": 2,
+      "content": "你看多漂亮的表面",
+      "music": 0.0
+    },
+    {
+      "from": 706.27,
+      "to": 707.19,
+      "sid": 312,
+      "location": 2,
+      "content": "趁这个时候",
+      "music": 0.0
+    },
+    {
+      "from": 707.19,
+      "to": 710.35,
+      "sid": 313,
+      "location": 2,
+      "content": "其实我可以借个机会把我们的油给滤一滤",
+      "music": 0.0
+    },
+    {
+      "from": 712.0,
+      "to": 713.24,
+      "sid": 314,
+      "location": 2,
+      "content": "慢慢滤吧",
+      "music": 0.0
+    },
+    {
+      "from": 713.24,
+      "to": 715.04,
+      "sid": 315,
+      "location": 2,
+      "content": "然后我这边刷一刷",
+      "music": 0.0
+    },
+    {
+      "from": 715.04,
+      "to": 716.54,
+      "sid": 316,
+      "location": 2,
+      "content": "准备油炸喽",
+      "music": 0.0
+    },
+    {
+      "from": 716.54,
+      "to": 721.58,
+      "sid": 317,
+      "location": 2,
+      "content": "那水钢丝球只要你火候掌握得好",
+      "music": 0.0
+    },
+    {
+      "from": 721.58,
+      "to": 723.34,
+      "sid": 318,
+      "location": 2,
+      "content": "没有湖底啊什么的话",
+      "music": 0.0
+    },
+    {
+      "from": 723.34,
+      "to": 724.94,
+      "sid": 319,
+      "location": 2,
+      "content": "那可以用了",
+      "music": 0.0
+    },
+    {
+      "from": 724.94,
+      "to": 727.58,
+      "sid": 320,
+      "location": 2,
+      "content": "台湾烧这种锅是可以用煲锅",
+      "music": 0.0
+    },
+    {
+      "from": 727.58,
+      "to": 728.92,
+      "sid": 321,
+      "location": 2,
+      "content": "年几十年都有",
+      "music": 0.0
+    },
+    {
+      "from": 728.92,
+      "to": 730.86,
+      "sid": 322,
+      "location": 2,
+      "content": "就真的是那种传儿孙辈的锅",
+      "music": 0.0
+    },
+    {
+      "from": 730.86,
+      "to": 736.38,
+      "sid": 323,
+      "location": 2,
+      "content": "想象一下我的所有手哇对啊",
+      "music": 0.0
+    },
+    {
+      "from": 736.38,
+      "to": 738.22,
+      "sid": 324,
+      "location": 2,
+      "content": "老陈也对",
+      "music": 0.0
+    },
+    {
+      "from": 738.22,
+      "to": 739.78,
+      "sid": 325,
+      "location": 2,
+      "content": "老陈也给我们留了啥",
+      "music": 0.0
+    },
+    {
+      "from": 739.78,
+      "to": 741.74,
+      "sid": 326,
+      "location": 2,
+      "content": "操一个破锅呵",
+      "music": 0.0
+    },
+    {
+      "from": 741.74,
+      "to": 745.98,
+      "sid": 327,
+      "location": 2,
+      "content": "现在让油恢复油温下机好嘞",
+      "music": 0.0
+    },
+    {
+      "from": 748.44,
+      "to": 750.36,
+      "sid": 328,
+      "location": 2,
+      "content": "然后那么大体积的肉啊",
+      "music": 0.0
+    },
+    {
+      "from": 750.36,
+      "to": 751.28,
+      "sid": 329,
+      "location": 2,
+      "content": "你们千万要小心",
+      "music": 0.0
+    },
+    {
+      "from": 751.28,
+      "to": 752.92,
+      "sid": 330,
+      "location": 2,
+      "content": "不要把油温耗太高",
+      "music": 0.0
+    },
+    {
+      "from": 752.92,
+      "to": 756.66,
+      "sid": 331,
+      "location": 2,
+      "content": "我这边设置的是150度对啊",
+      "music": 0.0
+    },
+    {
+      "from": 756.66,
+      "to": 758.02,
+      "sid": 332,
+      "location": 2,
+      "content": "但是因为体积小嘛",
+      "music": 0.0
+    },
+    {
+      "from": 758.02,
+      "to": 759.78,
+      "sid": 333,
+      "location": 2,
+      "content": "你要掌握的是表面脆",
+      "music": 0.0
+    },
+    {
+      "from": 759.78,
+      "to": 762.27,
+      "sid": 334,
+      "location": 2,
+      "content": "里边熟温度过高",
+      "music": 0.0
+    },
+    {
+      "from": 762.27,
+      "to": 762.91,
+      "sid": 335,
+      "location": 2,
+      "content": "外面糊了",
+      "music": 0.0
+    },
+    {
+      "from": 762.91,
+      "to": 764.09,
+      "sid": 336,
+      "location": 2,
+      "content": "里边是生的温",
+      "music": 0.0
+    },
+    {
+      "from": 764.09,
+      "to": 764.81,
+      "sid": 337,
+      "location": 2,
+      "content": "温度低了",
+      "music": 0.0
+    },
+    {
+      "from": 764.81,
+      "to": 766.71,
+      "sid": 338,
+      "location": 2,
+      "content": "就是表面吸油不脆",
+      "music": 0.0
+    },
+    {
+      "from": 766.71,
+      "to": 769.55,
+      "sid": 339,
+      "location": 2,
+      "content": "里边过熟了后",
+      "music": 0.0
+    },
+    {
+      "from": 770.4,
+      "to": 771.36,
+      "sid": 340,
+      "location": 2,
+      "content": "5分钟过后",
+      "music": 0.0
+    },
+    {
+      "from": 771.36,
+      "to": 774.16,
+      "sid": 341,
+      "location": 2,
+      "content": "你可以考虑一下要不要给你的机翻一个面了",
+      "music": 0.0
+    },
+    {
+      "from": 775.4,
+      "to": 777.699,
+      "sid": 342,
+      "location": 2,
+      "content": "这边其实挺完美的",
+      "music": 0.0
+    },
+    {
+      "from": 777.699,
+      "to": 779.479,
+      "sid": 343,
+      "location": 2,
+      "content": "你温控掌握好了的话呀",
+      "music": 0.0
+    },
+    {
+      "from": 779.479,
+      "to": 781.64,
+      "sid": 344,
+      "location": 2,
+      "content": "其实翻面的必要性并不算大",
+      "music": 0.0
+    },
+    {
+      "from": 781.64,
+      "to": 783.68,
+      "sid": 345,
+      "location": 2,
+      "content": "当然我们毕竟是在锅里边炸嘛",
+      "music": 0.0
+    },
+    {
+      "from": 783.68,
+      "to": 786.62,
+      "sid": 346,
+      "location": 2,
+      "content": "所以有一定可能性有那个触到锅底的那些肌肉",
+      "music": 0.0
+    },
+    {
+      "from": 786.62,
+      "to": 787.88,
+      "sid": 347,
+      "location": 2,
+      "content": "需要你去动一动",
+      "music": 0.0
+    },
+    {
+      "from": 787.88,
+      "to": 788.54,
+      "sid": 348,
+      "location": 2,
+      "content": "倒腾一下",
+      "music": 0.0
+    },
+    {
+      "from": 788.54,
+      "to": 789.28,
+      "sid": 349,
+      "location": 2,
+      "content": "观察一下",
+      "music": 0.0
+    },
+    {
+      "from": 789.28,
+      "to": 790.3,
+      "sid": 350,
+      "location": 2,
+      "content": "再给个5分钟",
+      "music": 0.0
+    },
+    {
+      "from": 790.3,
+      "to": 790.86,
+      "sid": 351,
+      "location": 2,
+      "content": "All right",
+      "music": 0.0
+    },
+    {
+      "from": 790.86,
+      "to": 794.42,
+      "sid": 352,
+      "location": 2,
+      "content": "let's see what we got u啊",
+      "music": 0.0
+    },
+    {
+      "from": 794.42,
+      "to": 795.7,
+      "sid": 353,
+      "location": 2,
+      "content": "怎么说呢",
+      "music": 0.0
+    },
+    {
+      "from": 795.7,
+      "to": 797.64,
+      "sid": 354,
+      "location": 2,
+      "content": "老陈不说了吧",
+      "music": 0.0
+    },
+    {
+      "from": 797.64,
+      "to": 799.28,
+      "sid": 355,
+      "location": 2,
+      "content": "直接验货",
+      "music": 0.0
+    },
+    {
+      "from": 799.48,
+      "to": 802.36,
+      "sid": 356,
+      "location": 2,
+      "content": "这就是我认知当中的所谓的快餐风格",
+      "music": 0.0
+    },
+    {
+      "from": 802.36,
+      "to": 802.94,
+      "sid": 357,
+      "location": 2,
+      "content": "炸鸡了",
+      "music": 0.0
+    },
+    {
+      "from": 802.94,
+      "to": 805.05,
+      "sid": 358,
+      "location": 2,
+      "content": "干户酥脆薄薄一层",
+      "music": 0.0
+    },
+    {
+      "from": 805.05,
+      "to": 808.19,
+      "sid": 359,
+      "location": 2,
+      "content": "但是莫名其妙的像涂了面包糠一样",
+      "music": 0.0
+    },
+    {
+      "from": 808.19,
+      "to": 809.09,
+      "sid": 360,
+      "location": 2,
+      "content": "面碎一样",
+      "music": 0.0
+    },
+    {
+      "from": 809.09,
+      "to": 810.33,
+      "sid": 361,
+      "location": 2,
+      "content": "很夸张的炸皮",
+      "music": 0.0
+    },
+    {
+      "from": 810.33,
+      "to": 812.17,
+      "sid": 362,
+      "location": 2,
+      "content": "Beautiful",
+      "music": 0.0
+    },
+    {
+      "from": 819.0,
+      "to": 824.52,
+      "sid": 363,
+      "location": 2,
+      "content": "好来搞点喝的吧",
+      "music": 0.0
+    },
+    {
+      "from": 824.52,
+      "to": 829.18,
+      "sid": 364,
+      "location": 2,
+      "content": "哇老陈的单子上面包含了三杯咖啡",
+      "music": 0.0
+    },
+    {
+      "from": 834.64,
+      "to": 837.12,
+      "sid": 365,
+      "location": 2,
+      "content": "here we go行",
+      "music": 0.0
+    },
+    {
+      "from": 837.12,
+      "to": 837.8,
+      "sid": 366,
+      "location": 2,
+      "content": "先开一会",
+      "music": 0.0
+    },
+    {
+      "from": 837.8,
+      "to": 838.56,
+      "sid": 367,
+      "location": 2,
+      "content": "我再收拾一遍",
+      "music": 0.0
+    },
+    {
+      "from": 838.56,
+      "to": 840.84,
+      "sid": 368,
+      "location": 2,
+      "content": "然后做今天的第三顿",
+      "music": 0.0
+    },
+    {
+      "from": 853.86,
+      "to": 856.72,
+      "sid": 369,
+      "location": 2,
+      "content": "你干吗不用这个榨炉油啊",
+      "music": 0.0
+    },
+    {
+      "from": 856.72,
+      "to": 857.54,
+      "sid": 370,
+      "location": 2,
+      "content": "你说呢",
+      "music": 0.0
+    },
+    {
+      "from": 857.54,
+      "to": 859.78,
+      "sid": 371,
+      "location": 2,
+      "content": "你想吃炸炉油蛋黄酱吗",
+      "music": 0.0
+    },
+    {
+      "from": 860.22,
+      "to": 863.1,
+      "sid": 372,
+      "location": 2,
+      "content": "OK那咱们就再给你加一块钱",
+      "music": 0.0
+    },
+    {
+      "from": 863.1,
+      "to": 866.3,
+      "sid": 373,
+      "location": 2,
+      "content": "老陈那钱是这么算的吗",
+      "music": 0.0
+    },
+    {
+      "from": 870.2,
+      "to": 872.32,
+      "sid": 374,
+      "location": 2,
+      "content": "喏那个有一颗一颗黑的",
+      "music": 0.0
+    },
+    {
+      "from": 872.32,
+      "to": 874.56,
+      "sid": 375,
+      "location": 2,
+      "content": "那个莫名其妙的汉堡酱",
+      "music": 0.0
+    },
+    {
+      "from": 876.74,
+      "to": 879.12,
+      "sid": 376,
+      "location": 2,
+      "content": "就是实话实说烤的很失败",
+      "music": 0.0
+    },
+    {
+      "from": 879.12,
+      "to": 884.15,
+      "sid": 377,
+      "location": 2,
+      "content": "一点都不像咋回事啊",
+      "music": 0.0
+    },
+    {
+      "from": 884.91,
+      "to": 885.71,
+      "sid": 378,
+      "location": 2,
+      "content": "酵母了",
+      "music": 0.0
+    },
+    {
+      "from": 885.71,
+      "to": 886.57,
+      "sid": 379,
+      "location": 2,
+      "content": "酵母没上班",
+      "music": 0.0
+    },
+    {
+      "from": 886.57,
+      "to": 887.41,
+      "sid": 380,
+      "location": 2,
+      "content": "没有发好",
+      "music": 0.0
+    },
+    {
+      "from": 887.41,
+      "to": 888.69,
+      "sid": 381,
+      "location": 2,
+      "content": "考翻车了啊",
+      "music": 0.0
+    },
+    {
+      "from": 888.69,
+      "to": 891.32,
+      "sid": 382,
+      "location": 2,
+      "content": "这个我可要按商确的价格给你算",
+      "music": 0.0
+    },
+    {
+      "from": 891.32,
+      "to": 892.52,
+      "sid": 383,
+      "location": 2,
+      "content": "山水成本价比我们高",
+      "music": 0.0
+    },
+    {
+      "from": 892.52,
+      "to": 893.5,
+      "sid": 384,
+      "location": 2,
+      "content": "他们那店比我贵",
+      "music": 0.0
+    },
+    {
+      "from": 893.5,
+      "to": 894.12,
+      "sid": 385,
+      "location": 2,
+      "content": "我不管",
+      "music": 0.0
+    },
+    {
+      "from": 894.12,
+      "to": 896.28,
+      "sid": 386,
+      "location": 2,
+      "content": "反正你3000买一个汉堡包钱",
+      "music": 0.0
+    },
+    {
+      "from": 896.28,
+      "to": 897.04,
+      "sid": 387,
+      "location": 2,
+      "content": "我赚我买啊",
+      "music": 0.0
+    },
+    {
+      "from": 897.04,
+      "to": 899.28,
+      "sid": 388,
+      "location": 2,
+      "content": "不要钱哈哈没有",
+      "music": 0.0
+    },
+    {
+      "from": 899.28,
+      "to": 900.96,
+      "sid": 389,
+      "location": 2,
+      "content": "这明显是我烤出来的嘛",
+      "music": 0.0
+    },
+    {
+      "from": 900.96,
+      "to": 903.36,
+      "sid": 390,
+      "location": 2,
+      "content": "那就哇这个有点失败",
+      "music": 0.0
+    },
+    {
+      "from": 903.36,
+      "to": 905.08,
+      "sid": 391,
+      "location": 2,
+      "content": "但是剩下四个是好的呀",
+      "music": 0.0
+    },
+    {
+      "from": 905.08,
+      "to": 906.97,
+      "sid": 392,
+      "location": 2,
+      "content": "扣钱啊扣吧",
+      "music": 0.0
+    },
+    {
+      "from": 906.97,
+      "to": 909.69,
+      "sid": 393,
+      "location": 2,
+      "content": "然后我这个五块九毛九的菜里边",
+      "music": 0.0
+    },
+    {
+      "from": 909.69,
+      "to": 911.01,
+      "sid": 394,
+      "location": 2,
+      "content": "我应该怎么和你算",
+      "music": 0.0
+    },
+    {
+      "from": 911.01,
+      "to": 912.5,
+      "sid": 395,
+      "location": 2,
+      "content": "就除以三咯",
+      "music": 0.0
+    },
+    {
+      "from": 912.5,
+      "to": 914.02,
+      "sid": 396,
+      "location": 2,
+      "content": "应该只要除以三",
+      "music": 0.0
+    },
+    {
+      "from": 914.02,
+      "to": 915.12,
+      "sid": 397,
+      "location": 2,
+      "content": "然后再除以多少",
+      "music": 0.0
+    },
+    {
+      "from": 915.12,
+      "to": 917.02,
+      "sid": 398,
+      "location": 2,
+      "content": "我只需要这个十分一咯",
+      "music": 0.0
+    },
+    {
+      "from": 917.02,
+      "to": 917.3,
+      "sid": 399,
+      "location": 2,
+      "content": "算啊",
+      "music": 0.0
+    },
+    {
+      "from": 917.3,
+      "to": 917.82,
+      "sid": 400,
+      "location": 2,
+      "content": "1/10",
+      "music": 0.0
+    },
+    {
+      "from": 917.82,
+      "to": 919.28,
+      "sid": 401,
+      "location": 2,
+      "content": "那就是六毛咯",
+      "music": 0.0
+    },
+    {
+      "from": 919.28,
+      "to": 920.74,
+      "sid": 402,
+      "location": 2,
+      "content": "这个码可以",
+      "music": 0.0
+    },
+    {
+      "from": 920.74,
+      "to": 922.52,
+      "sid": 403,
+      "location": 2,
+      "content": "我们是要分家了吗",
+      "music": 0.0
+    },
+    {
+      "from": 922.52,
+      "to": 924.12,
+      "sid": 404,
+      "location": 2,
+      "content": "你给我算那么清楚",
+      "music": 0.0
+    },
+    {
+      "from": 924.12,
+      "to": 927.48,
+      "sid": 405,
+      "location": 2,
+      "content": "我们先把汉堡给上个色",
+      "music": 0.0
+    },
+    {
+      "from": 928.52,
+      "to": 930.52,
+      "sid": 406,
+      "location": 2,
+      "content": "那知道为什么",
+      "music": 0.0
+    },
+    {
+      "from": 930.52,
+      "to": 932.8,
+      "sid": 407,
+      "location": 2,
+      "content": "很多时候就是快餐厅里面的面包出来",
+      "music": 0.0
+    },
+    {
+      "from": 932.8,
+      "to": 934.24,
+      "sid": 408,
+      "location": 2,
+      "content": "就像你扁压的吗",
+      "music": 0.0
+    },
+    {
+      "from": 934.24,
+      "to": 935.7,
+      "sid": 409,
+      "location": 2,
+      "content": "它是个大滚鸡",
+      "music": 0.0
+    },
+    {
+      "from": 935.7,
+      "to": 937.02,
+      "sid": 410,
+      "location": 2,
+      "content": "中间一个发热板",
+      "music": 0.0
+    },
+    {
+      "from": 937.02,
+      "to": 937.84,
+      "sid": 411,
+      "location": 2,
+      "content": "两边是个滚带",
+      "music": 0.0
+    },
+    {
+      "from": 937.84,
+      "to": 939.24,
+      "sid": 412,
+      "location": 2,
+      "content": "然后你竖着送进去",
+      "music": 0.0
+    },
+    {
+      "from": 939.24,
+      "to": 941.59,
+      "sid": 413,
+      "location": 2,
+      "content": "他就去去去去去贴着那个铁板",
+      "music": 0.0
+    },
+    {
+      "from": 941.59,
+      "to": 943.73,
+      "sid": 414,
+      "location": 2,
+      "content": "从那个传送带从上往下吐出来",
+      "music": 0.0
+    },
+    {
+      "from": 943.73,
+      "to": 945.39,
+      "sid": 415,
+      "location": 2,
+      "content": "所以会有那种鸭子的质地",
+      "music": 0.0
+    },
+    {
+      "from": 945.39,
+      "to": 946.97,
+      "sid": 416,
+      "location": 2,
+      "content": "那我们要模仿那鸭子质地的话",
+      "music": 0.0
+    },
+    {
+      "from": 946.97,
+      "to": 948.33,
+      "sid": 417,
+      "location": 2,
+      "content": "就要在锅里边这样蹭来蹭去",
+      "music": 0.0
+    },
+    {
+      "from": 948.33,
+      "to": 949.73,
+      "sid": 418,
+      "location": 2,
+      "content": "蹭来蹭去",
+      "music": 0.0
+    },
+    {
+      "from": 950.17,
+      "to": 952.17,
+      "sid": 419,
+      "location": 2,
+      "content": "失败的面包我觉得还是可以吃",
+      "music": 0.0
+    },
+    {
+      "from": 954.05,
+      "to": 956.01,
+      "sid": 420,
+      "location": 2,
+      "content": "还有伟大的麦当劳啊",
+      "music": 0.0
+    },
+    {
+      "from": 956.01,
+      "to": 957.99,
+      "sid": 421,
+      "location": 2,
+      "content": "每个厨房里边的每一个炉子",
+      "music": 0.0
+    },
+    {
+      "from": 957.99,
+      "to": 958.71,
+      "sid": 422,
+      "location": 2,
+      "content": "每一个烤箱",
+      "music": 0.0
+    },
+    {
+      "from": 958.71,
+      "to": 960.33,
+      "sid": 423,
+      "location": 2,
+      "content": "每一个炸炉都是不能调温的",
+      "music": 0.0
+    },
+    {
+      "from": 960.33,
+      "to": 963.21,
+      "sid": 424,
+      "location": 2,
+      "content": "防止里边要不然有个人给你搞个幺蛾子",
+      "music": 0.0
+    },
+    {
+      "from": 963.21,
+      "to": 964.01,
+      "sid": 425,
+      "location": 2,
+      "content": "这捅一下",
+      "music": 0.0
+    },
+    {
+      "from": 964.01,
+      "to": 965.65,
+      "sid": 426,
+      "location": 2,
+      "content": "那捅一下就变成你的问题了",
+      "music": 0.0
+    },
+    {
+      "from": 965.65,
+      "to": 967.97,
+      "sid": 427,
+      "location": 2,
+      "content": "麦当劳就等于是先把险给冒完了",
+      "music": 0.0
+    },
+    {
+      "from": 967.97,
+      "to": 969.33,
+      "sid": 428,
+      "location": 2,
+      "content": "再在场是冒不了险了",
+      "music": 0.0
+    },
+    {
+      "from": 969.33,
+      "to": 971.47,
+      "sid": 429,
+      "location": 2,
+      "content": "他们冒的险都不是厨房险了",
+      "music": 0.0
+    },
+    {
+      "from": 971.47,
+      "to": 973.47,
+      "sid": 430,
+      "location": 2,
+      "content": "不给你失败的可能是",
+      "music": 0.0
+    },
+    {
+      "from": 973.47,
+      "to": 978.33,
+      "sid": 431,
+      "location": 2,
+      "content": "因为背后有一群人在反复千千万万变成事业",
+      "music": 0.0
+    },
+    {
+      "from": 978.33,
+      "to": 982.985,
+      "sid": 432,
+      "location": 2,
+      "content": "是啊到你手里的事已经没有失败的可能性了",
+      "music": 0.0
+    },
+    {
+      "from": 984.52,
+      "to": 985.24,
+      "sid": 433,
+      "location": 2,
+      "content": "All right",
+      "music": 0.0
+    },
+    {
+      "from": 987.2,
+      "to": 988.76,
+      "sid": 434,
+      "location": 2,
+      "content": "送进去保温",
+      "music": 0.0
+    },
+    {
+      "from": 991.06,
+      "to": 992.42,
+      "sid": 435,
+      "location": 2,
+      "content": "然后这次因为肉薄",
+      "music": 0.0
+    },
+    {
+      "from": 992.42,
+      "to": 993.9,
+      "sid": 436,
+      "location": 2,
+      "content": "我们又要回到170度",
+      "music": 0.0
+    },
+    {
+      "from": 994.94,
+      "to": 996.58,
+      "sid": 437,
+      "location": 2,
+      "content": "看一看我们油温如何",
+      "music": 0.0
+    },
+    {
+      "from": 996.58,
+      "to": 997.5,
+      "sid": 438,
+      "location": 2,
+      "content": "太好了",
+      "music": 0.0
+    },
+    {
+      "from": 997.5,
+      "to": 998.7,
+      "sid": 439,
+      "location": 2,
+      "content": "炒个汁",
+      "music": 0.0
+    },
+    {
+      "from": 1001.18,
+      "to": 1003.76,
+      "sid": 440,
+      "location": 2,
+      "content": "把我自己的宵夜鸡翅收走",
+      "music": 0.0
+    },
+    {
+      "from": 1003.76,
+      "to": 1004.98,
+      "sid": 441,
+      "location": 2,
+      "content": "想和你们分享",
+      "music": 0.0
+    },
+    {
+      "from": 1004.98,
+      "to": 1007.18,
+      "sid": 442,
+      "location": 2,
+      "content": "我猜你们都不要了",
+      "music": 0.0
+    },
+    {
+      "from": 1007.54,
+      "to": 1008.22,
+      "sid": 443,
+      "location": 2,
+      "content": "挺好的",
+      "music": 0.0
+    },
+    {
+      "from": 1008.22,
+      "to": 1010.34,
+      "sid": 444,
+      "location": 2,
+      "content": "这样子也算是给你们调整了一下",
+      "music": 0.0
+    },
+    {
+      "from": 1010.34,
+      "to": 1011.76,
+      "sid": 445,
+      "location": 2,
+      "content": "你们自己的饮食习惯",
+      "music": 0.0
+    },
+    {
+      "from": 1011.76,
+      "to": 1012.3,
+      "sid": 446,
+      "location": 2,
+      "content": "对不对",
+      "music": 0.0
+    },
+    {
+      "from": 1012.3,
+      "to": 1013.38,
+      "sid": 447,
+      "location": 2,
+      "content": "我猜你们近期不应",
+      "music": 0.0
+    },
+    {
+      "from": 1013.38,
+      "to": 1015.36,
+      "sid": 448,
+      "location": 2,
+      "content": "应该不会想再去吃麦当劳了吧",
+      "music": 0.0
+    },
+    {
+      "from": 1015.36,
+      "to": 1017.47,
+      "sid": 449,
+      "location": 2,
+      "content": "啊兄弟",
+      "music": 0.0
+    },
+    {
+      "from": 1017.47,
+      "to": 1019.19,
+      "sid": 450,
+      "location": 2,
+      "content": "那我还得见见你",
+      "music": 0.0
+    },
+    {
+      "from": 1019.19,
+      "to": 1019.43,
+      "sid": 451,
+      "location": 2,
+      "content": "对啊",
+      "music": 0.0
+    },
+    {
+      "from": 1019.43,
+      "to": 1020.91,
+      "sid": 452,
+      "location": 2,
+      "content": "给我打个折吧",
+      "music": 0.0
+    },
+    {
+      "from": 1022.03,
+      "to": 1023.71,
+      "sid": 453,
+      "location": 2,
+      "content": "你是不是很虚啊",
+      "music": 0.0
+    },
+    {
+      "from": 1023.71,
+      "to": 1024.45,
+      "sid": 454,
+      "location": 2,
+      "content": "我没有很虚",
+      "music": 0.0
+    },
+    {
+      "from": 1024.45,
+      "to": 1025.75,
+      "sid": 455,
+      "location": 2,
+      "content": "我是我没有仔细算",
+      "music": 0.0
+    },
+    {
+      "from": 1025.75,
+      "to": 1028.829,
+      "sid": 456,
+      "location": 2,
+      "content": "但是我猜我还是在摆100块钱之内来",
+      "music": 0.0
+    },
+    {
+      "from": 1029.189,
+      "to": 1029.589,
+      "sid": 457,
+      "location": 2,
+      "content": "No",
+      "music": 0.0
+    },
+    {
+      "from": 1030.709,
+      "to": 1033.61,
+      "sid": 458,
+      "location": 2,
+      "content": "我已经味精酱对",
+      "music": 0.0
+    },
+    {
+      "from": 1033.61,
+      "to": 1035.83,
+      "sid": 459,
+      "location": 2,
+      "content": "但是还好他们只是给一点",
+      "music": 0.0
+    },
+    {
+      "from": 1035.83,
+      "to": 1038.41,
+      "sid": 460,
+      "location": 2,
+      "content": "所以味精放那么多也算是正常炸鸡",
+      "music": 0.0
+    },
+    {
+      "from": 1038.41,
+      "to": 1040.4,
+      "sid": 461,
+      "location": 2,
+      "content": "是不是这个色儿对",
+      "music": 0.0
+    },
+    {
+      "from": 1044.21,
+      "to": 1044.83,
+      "sid": 462,
+      "location": 2,
+      "content": "放心",
+      "music": 0.0
+    },
+    {
+      "from": 1044.83,
+      "to": 1046.55,
+      "sid": 463,
+      "location": 2,
+      "content": "这个我会算进去的啊",
+      "music": 0.0
+    },
+    {
+      "from": 1046.55,
+      "to": 1048.25,
+      "sid": 464,
+      "location": 2,
+      "content": "双人套餐里面只有一份薯条吗",
+      "music": 0.0
+    },
+    {
+      "from": 1048.25,
+      "to": 1049.03,
+      "sid": 465,
+      "location": 2,
+      "content": "还是两份薯条",
+      "music": 0.0
+    },
+    {
+      "from": 1049.03,
+      "to": 1050.49,
+      "sid": 466,
+      "location": 2,
+      "content": "换了一份就好了哦",
+      "music": 0.0
+    },
+    {
+      "from": 1050.49,
+      "to": 1054.41,
+      "sid": 467,
+      "location": 2,
+      "content": "好主要是你这薯条太大条了不行",
+      "music": 0.0
+    },
+    {
+      "from": 1054.41,
+      "to": 1058.5,
+      "sid": 468,
+      "location": 2,
+      "content": "主要是你已经没有地方放吃的了",
+      "music": 0.0
+    },
+    {
+      "from": 1060.62,
+      "to": 1062.58,
+      "sid": 469,
+      "location": 2,
+      "content": "那要是我没记错的话",
+      "music": 0.0
+    },
+    {
+      "from": 1062.58,
+      "to": 1064.38,
+      "sid": 470,
+      "location": 2,
+      "content": "是叶子在上面",
+      "music": 0.0
+    },
+    {
+      "from": 1064.38,
+      "to": 1069.65,
+      "sid": 471,
+      "location": 2,
+      "content": "然后七是那个感觉",
+      "music": 0.0
+    },
+    {
+      "from": 1071.05,
+      "to": 1073.76,
+      "sid": 472,
+      "location": 2,
+      "content": "这个薯条一点都不像",
+      "music": 0.0
+    },
+    {
+      "from": 1073.76,
+      "to": 1075.94,
+      "sid": 473,
+      "location": 2,
+      "content": "但是我也不会感觉内疚",
+      "music": 0.0
+    },
+    {
+      "from": 1075.94,
+      "to": 1079.08,
+      "sid": 474,
+      "location": 2,
+      "content": "因为我真的是很讨厌快餐风格的薯条",
+      "music": 0.0
+    },
+    {
+      "from": 1079.08,
+      "to": 1080.02,
+      "sid": 475,
+      "location": 2,
+      "content": "就是那种细细的",
+      "music": 0.0
+    },
+    {
+      "from": 1080.02,
+      "to": 1081.02,
+      "sid": 476,
+      "location": 2,
+      "content": "要味道又没味道",
+      "music": 0.0
+    },
+    {
+      "from": 1081.02,
+      "to": 1081.94,
+      "sid": 477,
+      "location": 2,
+      "content": "要口感没口感",
+      "music": 0.0
+    },
+    {
+      "from": 1081.94,
+      "to": 1083.59,
+      "sid": 478,
+      "location": 2,
+      "content": "要盐没盐的那种",
+      "music": 0.0
+    },
+    {
+      "from": 1083.59,
+      "to": 1084.67,
+      "sid": 479,
+      "location": 2,
+      "content": "就是个海绵",
+      "music": 0.0
+    },
+    {
+      "from": 1084.67,
+      "to": 1088.11,
+      "sid": 480,
+      "location": 2,
+      "content": "我在他们那里要是吃到一次脆的薯条",
+      "music": 0.0
+    },
+    {
+      "from": 1088.11,
+      "to": 1089.73,
+      "sid": 481,
+      "location": 2,
+      "content": "我会觉得很意外",
+      "music": 0.0
+    },
+    {
+      "from": 1089.73,
+      "to": 1091.05,
+      "sid": 482,
+      "location": 2,
+      "content": "过年了啊",
+      "music": 0.0
+    },
+    {
+      "from": 1091.05,
+      "to": 1092.77,
+      "sid": 483,
+      "location": 2,
+      "content": "哇无情铁手",
+      "music": 0.0
+    },
+    {
+      "from": 1092.77,
+      "to": 1094.45,
+      "sid": 484,
+      "location": 2,
+      "content": "关键是我想早点拍完",
+      "music": 0.0
+    },
+    {
+      "from": 1094.45,
+      "to": 1095.29,
+      "sid": 485,
+      "location": 2,
+      "content": "早点让你们回家",
+      "music": 0.0
+    },
+    {
+      "from": 1095.29,
+      "to": 1097.65,
+      "sid": 486,
+      "location": 2,
+      "content": "我累了来",
+      "music": 0.0
+    },
+    {
+      "from": 1104.08,
+      "to": 1105.8,
+      "sid": 487,
+      "location": 2,
+      "content": "我和你分吧",
+      "music": 0.0
+    },
+    {
+      "from": 1105.8,
+      "to": 1106.8,
+      "sid": 488,
+      "location": 2,
+      "content": "好不好",
+      "music": 0.0
+    },
+    {
+      "from": 1106.8,
+      "to": 1107.52,
+      "sid": 489,
+      "location": 2,
+      "content": "我跟你说啊",
+      "music": 0.0
+    },
+    {
+      "from": 1107.52,
+      "to": 1109.57,
+      "sid": 490,
+      "location": 2,
+      "content": "你不吃的话给我打折的啊",
+      "music": 0.0
+    },
+    {
+      "from": 1110.05,
+      "to": 1111.65,
+      "sid": 491,
+      "location": 2,
+      "content": "知道没有",
+      "music": 0.0
+    },
+    {
+      "from": 1111.65,
+      "to": 1113.13,
+      "sid": 492,
+      "location": 2,
+      "content": "是不是那个味嘛",
+      "music": 0.0
+    },
+    {
+      "from": 1113.13,
+      "to": 1117.3,
+      "sid": 493,
+      "location": 2,
+      "content": "你说哦就是那个糊啊",
+      "music": 0.0
+    },
+    {
+      "from": 1117.3,
+      "to": 1118.2,
+      "sid": 494,
+      "location": 2,
+      "content": "很有味道",
+      "music": 0.0
+    },
+    {
+      "from": 1118.2,
+      "to": 1119.38,
+      "sid": 495,
+      "location": 2,
+      "content": "这个是金粉",
+      "music": 0.0
+    },
+    {
+      "from": 1119.38,
+      "to": 1120.5,
+      "sid": 496,
+      "location": 2,
+      "content": "这糊对啊",
+      "music": 0.0
+    },
+    {
+      "from": 1120.5,
+      "to": 1123.399,
+      "sid": 497,
+      "location": 2,
+      "content": "刚那个菜壳会有那种方便面的味道",
+      "music": 0.0
+    },
+    {
+      "from": 1123.399,
+      "to": 1126.499,
+      "sid": 498,
+      "location": 2,
+      "content": "因为这个价位的基因没有什么味道可言",
+      "music": 0.0
+    },
+    {
+      "from": 1126.499,
+      "to": 1127.579,
+      "sid": 499,
+      "location": 2,
+      "content": "懂了吗",
+      "music": 0.0
+    },
+    {
+      "from": 1127.579,
+      "to": 1128.93,
+      "sid": 500,
+      "location": 2,
+      "content": "所以只能是糊",
+      "music": 0.0
+    },
+    {
+      "from": 1128.93,
+      "to": 1132.41,
+      "sid": 501,
+      "location": 2,
+      "content": "而且这个真的是一模一样",
+      "music": 0.0
+    },
+    {
+      "from": 1133.74,
+      "to": 1134.3,
+      "sid": 502,
+      "location": 2,
+      "content": "好了",
+      "music": 0.0
+    },
+    {
+      "from": 1134.3,
+      "to": 1135.98,
+      "sid": 503,
+      "location": 2,
+      "content": "现在是我们的板烧鸡腿堡了是吧",
+      "music": 0.0
+    },
+    {
+      "from": 1135.98,
+      "to": 1138.42,
+      "sid": 504,
+      "location": 2,
+      "content": "就是偏新尔良一点点的风格",
+      "music": 0.0
+    },
+    {
+      "from": 1138.42,
+      "to": 1139.52,
+      "sid": 505,
+      "location": 2,
+      "content": "其实里面就是蜂蜜",
+      "music": 0.0
+    },
+    {
+      "from": 1139.52,
+      "to": 1141.58,
+      "sid": 506,
+      "location": 2,
+      "content": "在厂子里面会叫grab browning",
+      "music": 0.0
+    },
+    {
+      "from": 1141.58,
+      "to": 1142.34,
+      "sid": 507,
+      "location": 2,
+      "content": "你家里没有的话",
+      "music": 0.0
+    },
+    {
+      "from": 1142.34,
+      "to": 1144.58,
+      "sid": 508,
+      "location": 2,
+      "content": "可以用老抽盐叶苏打粉去嫩",
+      "music": 0.0
+    },
+    {
+      "from": 1144.58,
+      "to": 1146.64,
+      "sid": 509,
+      "location": 2,
+      "content": "肉结束最多可以放点蒜粉",
+      "music": 0.0
+    },
+    {
+      "from": 1146.64,
+      "to": 1148.1,
+      "sid": 510,
+      "location": 2,
+      "content": "洋葱粉",
+      "music": 0.0
+    },
+    {
+      "from": 1151.06,
+      "to": 1152.02,
+      "sid": 511,
+      "location": 2,
+      "content": "告诉我了",
+      "music": 0.0
+    },
+    {
+      "from": 1152.02,
+      "to": 1152.9,
+      "sid": 512,
+      "location": 2,
+      "content": "吃两个吗",
+      "music": 0.0
+    },
+    {
+      "from": 1152.9,
+      "to": 1155.54,
+      "sid": 513,
+      "location": 2,
+      "content": "我是想让你吃大方点吗",
+      "music": 0.0
+    },
+    {
+      "from": 1155.74,
+      "to": 1157.78,
+      "sid": 514,
+      "location": 2,
+      "content": "你人怎么这么好对啊",
+      "music": 0.0
+    },
+    {
+      "from": 1157.78,
+      "to": 1158.46,
+      "sid": 515,
+      "location": 2,
+      "content": "给我打个折吧",
+      "music": 0.0
+    },
+    {
+      "from": 1159.78,
+      "to": 1162.71,
+      "sid": 516,
+      "location": 2,
+      "content": "NO现在知道那个汉堡好吃是从哪来了吧",
+      "music": 0.0
+    },
+    {
+      "from": 1162.71,
+      "to": 1163.83,
+      "sid": 517,
+      "location": 2,
+      "content": "哎你这么说",
+      "music": 0.0
+    },
+    {
+      "from": 1163.83,
+      "to": 1165.75,
+      "sid": 518,
+      "location": 2,
+      "content": "我吃这汉堡一整口的时候",
+      "music": 0.0
+    },
+    {
+      "from": 1165.75,
+      "to": 1168.139,
+      "sid": 519,
+      "location": 2,
+      "content": "我就没有不觉得那个味精的感觉是啊",
+      "music": 0.0
+    },
+    {
+      "from": 1168.139,
+      "to": 1170.479,
+      "sid": 520,
+      "location": 2,
+      "content": "然后这个汉堡的一个技巧是什么呀",
+      "music": 0.0
+    },
+    {
+      "from": 1170.479,
+      "to": 1173.42,
+      "sid": 521,
+      "location": 2,
+      "content": "这个肉啊得稍微略微的过熟",
+      "music": 0.0
+    },
+    {
+      "from": 1173.42,
+      "to": 1175.58,
+      "sid": 522,
+      "location": 2,
+      "content": "干巴一点才有那个肉的弹性",
+      "music": 0.0
+    },
+    {
+      "from": 1175.58,
+      "to": 1177.24,
+      "sid": 523,
+      "location": 2,
+      "content": "太嫩的话又太湿的了",
+      "music": 0.0
+    },
+    {
+      "from": 1177.24,
+      "to": 1178.4,
+      "sid": 524,
+      "location": 2,
+      "content": "就不是那个味了",
+      "music": 0.0
+    },
+    {
+      "from": 1178.4,
+      "to": 1183.26,
+      "sid": 525,
+      "location": 2,
+      "content": "是不是这个质地哎对就是那个味儿",
+      "music": 0.0
+    },
+    {
+      "from": 1183.26,
+      "to": 1185.46,
+      "sid": 526,
+      "location": 2,
+      "content": "那可是个地道来吃啊",
+      "music": 0.0
+    },
+    {
+      "from": 1185.46,
+      "to": 1186.44,
+      "sid": 527,
+      "location": 2,
+      "content": "不是问题",
+      "music": 0.0
+    },
+    {
+      "from": 1186.44,
+      "to": 1187.72,
+      "sid": 528,
+      "location": 2,
+      "content": "是你没有没有问题吃吧",
+      "music": 0.0
+    },
+    {
+      "from": 1187.72,
+      "to": 1191.1,
+      "sid": 529,
+      "location": 2,
+      "content": "嘿嘿问题是你一整天忙了那么久",
+      "music": 0.0
+    },
+    {
+      "from": 1191.1,
+      "to": 1192.46,
+      "sid": 530,
+      "location": 2,
+      "content": "你得犒劳一下自己哦",
+      "music": 0.0
+    },
+    {
+      "from": 1192.46,
+      "to": 1193.24,
+      "sid": 531,
+      "location": 2,
+      "content": "我吃一个呀",
+      "music": 0.0
+    },
+    {
+      "from": 1193.24,
+      "to": 1194.23,
+      "sid": 532,
+      "location": 2,
+      "content": "好你吃",
+      "music": 0.0
+    },
+    {
+      "from": 1194.23,
+      "to": 1194.79,
+      "sid": 533,
+      "location": 2,
+      "content": "还有俩",
+      "music": 0.0
+    },
+    {
+      "from": 1194.79,
+      "to": 1195.27,
+      "sid": 534,
+      "location": 2,
+      "content": "还有一个呢",
+      "music": 0.0
+    },
+    {
+      "from": 1195.27,
+      "to": 1196.51,
+      "sid": 535,
+      "location": 2,
+      "content": "来我那个还没吃完",
+      "music": 0.0
+    },
+    {
+      "from": 1196.51,
+      "to": 1196.99,
+      "sid": 536,
+      "location": 2,
+      "content": "我知道啊",
+      "music": 0.0
+    },
+    {
+      "from": 1196.99,
+      "to": 1197.71,
+      "sid": 537,
+      "location": 2,
+      "content": "那就给我打个折呗",
+      "music": 0.0
+    },
+    {
+      "from": 1197.71,
+      "to": 1198.31,
+      "sid": 538,
+      "location": 2,
+      "content": "我看看啊",
+      "music": 0.0
+    },
+    {
+      "from": 1198.31,
+      "to": 1200.39,
+      "sid": 539,
+      "location": 2,
+      "content": "这是一个汉堡的一半的",
+      "music": 0.0
+    },
+    {
+      "from": 1200.39,
+      "to": 1201.07,
+      "sid": 540,
+      "location": 2,
+      "content": "一半的话",
+      "music": 0.0
+    },
+    {
+      "from": 1201.07,
+      "to": 1202.47,
+      "sid": 541,
+      "location": 2,
+      "content": "那就是1/4咯",
+      "music": 0.0
+    },
+    {
+      "from": 1202.47,
+      "to": 1204.47,
+      "sid": 542,
+      "location": 2,
+      "content": "哎走了",
+      "music": 0.0
+    },
+    {
+      "from": 1207.66,
+      "to": 1211.08,
+      "sid": 543,
+      "location": 2,
+      "content": "嗯你试一试就知道我什么意思了",
+      "music": 0.0
+    },
+    {
+      "from": 1211.08,
+      "to": 1211.46,
+      "sid": 544,
+      "location": 2,
+      "content": "怎么样",
+      "music": 0.0
+    },
+    {
+      "from": 1211.46,
+      "to": 1212.34,
+      "sid": 545,
+      "location": 2,
+      "content": "亲爱的老陈",
+      "music": 0.0
+    },
+    {
+      "from": 1212.34,
+      "to": 1213.76,
+      "sid": 546,
+      "location": 2,
+      "content": "这就是那个味儿",
+      "music": 0.0
+    },
+    {
+      "from": 1213.76,
+      "to": 1215.38,
+      "sid": 547,
+      "location": 2,
+      "content": "还要是加强版的",
+      "music": 0.0
+    },
+    {
+      "from": 1215.38,
+      "to": 1216.66,
+      "sid": 548,
+      "location": 2,
+      "content": "所有味的基础都在了吗",
+      "music": 0.0
+    },
+    {
+      "from": 1216.66,
+      "to": 1217.74,
+      "sid": 549,
+      "location": 2,
+      "content": "那个半甜不甜",
+      "music": 0.0
+    },
+    {
+      "from": 1217.74,
+      "to": 1218.38,
+      "sid": 550,
+      "location": 2,
+      "content": "半咸不咸",
+      "music": 0.0
+    },
+    {
+      "from": 1218.38,
+      "to": 1220.14,
+      "sid": 551,
+      "location": 2,
+      "content": "加上那个味精的劣质淡奶油",
+      "music": 0.0
+    },
+    {
+      "from": 1220.14,
+      "to": 1224.26,
+      "sid": 552,
+      "location": 2,
+      "content": "那边那个蛋黄酱加上孤零零的一张生菜",
+      "music": 0.0
+    },
+    {
+      "from": 1225.08,
+      "to": 1226.2,
+      "sid": 553,
+      "location": 2,
+      "content": "软绵绵的面包",
+      "music": 0.0
+    },
+    {
+      "from": 1226.2,
+      "to": 1229.16,
+      "sid": 554,
+      "location": 2,
+      "content": "是不是这意思是可乐呗",
+      "music": 0.0
+    },
+    {
+      "from": 1229.69,
+      "to": 1232.33,
+      "sid": 555,
+      "location": 2,
+      "content": "这是我自己发酵的哇",
+      "music": 0.0
+    },
+    {
+      "from": 1232.33,
+      "to": 1234.77,
+      "sid": 556,
+      "location": 2,
+      "content": "哇这个气有点过分了",
+      "music": 0.0
+    },
+    {
+      "from": 1234.77,
+      "to": 1235.33,
+      "sid": 557,
+      "location": 2,
+      "content": "对啊",
+      "music": 0.0
+    },
+    {
+      "from": 1235.33,
+      "to": 1237.21,
+      "sid": 558,
+      "location": 2,
+      "content": "自己发酵出来的东西是个活物嘛",
+      "music": 0.0
+    },
+    {
+      "from": 1237.21,
+      "to": 1240.29,
+      "sid": 559,
+      "location": 2,
+      "content": "但是他用的是代糖",
+      "music": 0.0
+    },
+    {
+      "from": 1240.29,
+      "to": 1241.49,
+      "sid": 560,
+      "location": 2,
+      "content": "用的是真果汁",
+      "music": 0.0
+    },
+    {
+      "from": 1241.49,
+      "to": 1244.299,
+      "sid": 561,
+      "location": 2,
+      "content": "用的是我们自己家的酵母酵菌",
+      "music": 0.0
+    },
+    {
+      "from": 1244.299,
+      "to": 1245.299,
+      "sid": 562,
+      "location": 2,
+      "content": "我们的浆水宝吗",
+      "music": 0.0
+    },
+    {
+      "from": 1245.299,
+      "to": 1247.139,
+      "sid": 563,
+      "location": 2,
+      "content": "自诗宝可乐嗯",
+      "music": 0.0
+    },
+    {
+      "from": 1247.139,
+      "to": 1250.35,
+      "sid": 564,
+      "location": 2,
+      "content": "水果味西瓜味儿的这个怎么做",
+      "music": 0.0
+    },
+    {
+      "from": 1250.35,
+      "to": 1251.29,
+      "sid": 565,
+      "location": 2,
+      "content": "看视频",
+      "music": 0.0
+    },
+    {
+      "from": 1251.29,
+      "to": 1252.89,
+      "sid": 566,
+      "location": 2,
+      "content": "这个你还能算我的吗",
+      "music": 0.0
+    },
+    {
+      "from": 1252.89,
+      "to": 1255.969,
+      "sid": 567,
+      "location": 2,
+      "content": "菌都是我从老天爷送给我的",
+      "music": 0.0
+    },
+    {
+      "from": 1255.969,
+      "to": 1257.729,
+      "sid": 568,
+      "location": 2,
+      "content": "那你那个不是西瓜",
+      "music": 0.0
+    },
+    {
+      "from": 1257.729,
+      "to": 1258.289,
+      "sid": 569,
+      "location": 2,
+      "content": "西瓜汁啊",
+      "music": 0.0
+    },
+    {
+      "from": 1258.289,
+      "to": 1259.129,
+      "sid": 570,
+      "location": 2,
+      "content": "快烂了的西瓜",
+      "music": 0.0
+    },
+    {
+      "from": 1259.129,
+      "to": 1260.089,
+      "sid": 571,
+      "location": 2,
+      "content": "路边捡的西瓜",
+      "music": 0.0
+    },
+    {
+      "from": 1260.089,
+      "to": 1261.409,
+      "sid": 572,
+      "location": 2,
+      "content": "从车上掉下来的",
+      "music": 0.0
+    },
+    {
+      "from": 1261.409,
+      "to": 1262.289,
+      "sid": 573,
+      "location": 2,
+      "content": "那就给我打个折呗",
+      "music": 0.0
+    },
+    {
+      "from": 1262.289,
+      "to": 1262.769,
+      "sid": 574,
+      "location": 2,
+      "content": "不吃的话",
+      "music": 0.0
+    },
+    {
+      "from": 1262.769,
+      "to": 1263.609,
+      "sid": 575,
+      "location": 2,
+      "content": "给我打折的啊",
+      "music": 0.0
+    },
+    {
+      "from": 1263.609,
+      "to": 1265.129,
+      "sid": 576,
+      "location": 2,
+      "content": "给我打个折吧",
+      "music": 0.0
+    },
+    {
+      "from": 1265.82,
+      "to": 1266.84,
+      "sid": 577,
+      "location": 2,
+      "content": "那行了",
+      "music": 0.0
+    },
+    {
+      "from": 1266.84,
+      "to": 1267.66,
+      "sid": 578,
+      "location": 2,
+      "content": "东西都齐了吧",
+      "music": 0.0
+    },
+    {
+      "from": 1267.66,
+      "to": 1268.3,
+      "sid": 579,
+      "location": 2,
+      "content": "三个可乐",
+      "music": 0.0
+    },
+    {
+      "from": 1268.3,
+      "to": 1270.04,
+      "sid": 580,
+      "location": 2,
+      "content": "三个冰美式",
+      "music": 0.0
+    },
+    {
+      "from": 1270.04,
+      "to": 1272.17,
+      "sid": 581,
+      "location": 2,
+      "content": "两个双人的套餐",
+      "music": 0.0
+    },
+    {
+      "from": 1272.17,
+      "to": 1274.07,
+      "sid": 582,
+      "location": 2,
+      "content": "然后六个琵琶腿",
+      "music": 0.0
+    },
+    {
+      "from": 1274.07,
+      "to": 1274.69,
+      "sid": 583,
+      "location": 2,
+      "content": "20块",
+      "music": 0.0
+    },
+    {
+      "from": 1274.69,
+      "to": 1275.75,
+      "sid": 584,
+      "location": 2,
+      "content": "麦乐鸡鸡块",
+      "music": 0.0
+    },
+    {
+      "from": 1275.75,
+      "to": 1276.73,
+      "sid": 585,
+      "location": 2,
+      "content": "八个鸡",
+      "music": 0.0
+    },
+    {
+      "from": 1276.73,
+      "to": 1277.69,
+      "sid": 586,
+      "location": 2,
+      "content": "炸鸡翅啊",
+      "music": 0.0
+    },
+    {
+      "from": 1277.69,
+      "to": 1278.43,
+      "sid": 587,
+      "location": 2,
+      "content": "齐了吧",
+      "music": 0.0
+    },
+    {
+      "from": 1278.43,
+      "to": 1281.93,
+      "sid": 588,
+      "location": 2,
+      "content": "齐脖这些所有东西都要控制在100块钱之内",
+      "music": 0.0
+    },
+    {
+      "from": 1281.93,
+      "to": 1283.09,
+      "sid": 589,
+      "location": 2,
+      "content": "然后我还绰绰有余",
+      "music": 0.0
+    },
+    {
+      "from": 1283.09,
+      "to": 1284.15,
+      "sid": 590,
+      "location": 2,
+      "content": "生了那么多鸡",
+      "music": 0.0
+    },
+    {
+      "from": 1284.15,
+      "to": 1285.45,
+      "sid": 591,
+      "location": 2,
+      "content": "喜欢看这种内容的话",
+      "music": 0.0
+    },
+    {
+      "from": 1285.45,
+      "to": 1288.66,
+      "sid": 592,
+      "location": 2,
+      "content": "记得点赞投币关注",
+      "music": 0.0
+    },
+    {
+      "from": 1288.66,
+      "to": 1290.42,
+      "sid": 593,
+      "location": 2,
+      "content": "转发收藏",
+      "music": 0.0
+    },
+    {
+      "from": 1290.42,
+      "to": 1290.9,
+      "sid": 594,
+      "location": 2,
+      "content": "Thank you",
+      "music": 0.0
+    },
+    {
+      "from": 1290.9,
+      "to": 1291.06,
+      "sid": 595,
+      "location": 2,
+      "content": "Guys",
+      "music": 0.0
+    },
+    {
+      "from": 1291.06,
+      "to": 1291.78,
+      "sid": 596,
+      "location": 2,
+      "content": "So much for watching",
+      "music": 0.0
+    },
+    {
+      "from": 1291.78,
+      "to": 1292.06,
+      "sid": 597,
+      "location": 2,
+      "content": "Take care",
+      "music": 0.0
+    },
+    {
+      "from": 1292.06,
+      "to": 1293.84,
+      "sid": 598,
+      "location": 2,
+      "content": "I'll see you next week",
+      "music": 0.0
+    },
+    {
+      "from": 1295.98,
+      "to": 1299.36,
+      "sid": 599,
+      "location": 2,
+      "content": "哇哇哇哇哇哇塞哇哇",
+      "music": 0.0
+    }
+  ]
+}

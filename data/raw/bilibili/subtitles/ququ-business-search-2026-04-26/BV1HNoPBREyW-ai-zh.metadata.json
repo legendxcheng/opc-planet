@@ -1,0 +1,22 @@
+{
+  "bvid": "BV1HNoPBREyW",
+  "cid": 37650107610,
+  "title": "双向防守：市场乐观，而你应该悲观。接下来的黄金、石油、股市（1）",
+  "owner_name": "战国时代_姜汁汽水",
+  "status": "downloaded",
+  "reason": null,
+  "subtitle": {
+    "id": 1588428118425704192,
+    "lan": "ai-zh",
+    "lan_doc": "中文",
+    "is_lock": false,
+    "subtitle_url": "https://aisubtitle.hdslb.com/bfs/ai_subtitle/prod/11321369375763226041912196d596bb34a5fe052fe0457f2da299d01b",
+    "type": 1,
+    "id_str": "1588428118425704192",
+    "ai_type": 0,
+    "ai_status": 2
+  },
+  "raw_subtitle_path": "data\\raw\\bilibili\\subtitles\\ququ-business-search-2026-04-26\\BV1HNoPBREyW-ai-zh.raw.json",
+  "text_path": "data\\raw\\bilibili\\subtitles\\ququ-business-search-2026-04-26\\BV1HNoPBREyW-ai-zh.txt",
+  "metadata_path": "data\\raw\\bilibili\\subtitles\\ququ-business-search-2026-04-26\\BV1HNoPBREyW-ai-zh.metadata.json"
+}

@@ -1,0 +1,1276 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.04,
+      "to": 0.88,
+      "sid": 1,
+      "location": 2,
+      "content": "我跟你们说啊",
+      "music": 0.0
+    },
+    {
+      "from": 0.88,
+      "to": 2.66,
+      "sid": 2,
+      "location": 2,
+      "content": "就是任何一个产品",
+      "music": 0.0
+    },
+    {
+      "from": 2.66,
+      "to": 4.44,
+      "sid": 3,
+      "location": 2,
+      "content": "你如果想把它卖好",
+      "music": 0.0
+    },
+    {
+      "from": 4.44,
+      "to": 6.47,
+      "sid": 4,
+      "location": 2,
+      "content": "你想把它卖爆对吧",
+      "music": 0.0
+    },
+    {
+      "from": 6.47,
+      "to": 10.76,
+      "sid": 5,
+      "location": 2,
+      "content": "那么你就一定要明白买家的心态是什么",
+      "music": 0.0
+    },
+    {
+      "from": 10.76,
+      "to": 12.9,
+      "sid": 6,
+      "location": 2,
+      "content": "买家想听什么",
+      "music": 0.0
+    },
+    {
+      "from": 12.9,
+      "to": 14.66,
+      "sid": 7,
+      "location": 2,
+      "content": "买家在乎什么",
+      "music": 0.0
+    },
+    {
+      "from": 14.66,
+      "to": 19.14,
+      "sid": 8,
+      "location": 2,
+      "content": "你要多跟买家交流才有价值才有意义",
+      "music": 0.0
+    },
+    {
+      "from": 19.14,
+      "to": 23.17,
+      "sid": 9,
+      "location": 2,
+      "content": "很多专业的人他错就错在他只跟同行交流",
+      "music": 0.0
+    },
+    {
+      "from": 23.17,
+      "to": 24.41,
+      "sid": 10,
+      "location": 2,
+      "content": "我学这个的",
+      "music": 0.0
+    },
+    {
+      "from": 24.41,
+      "to": 26.03,
+      "sid": 11,
+      "location": 2,
+      "content": "我跟我的导师交流",
+      "music": 0.0
+    },
+    {
+      "from": 26.03,
+      "to": 28.15,
+      "sid": 12,
+      "location": 2,
+      "content": "这个统称叫跟同行交流",
+      "music": 0.0
+    },
+    {
+      "from": 28.15,
+      "to": 29.92,
+      "sid": 13,
+      "location": 2,
+      "content": "你要跟客户交流",
+      "music": 0.0
+    },
+    {
+      "from": 29.92,
+      "to": 32.2,
+      "sid": 14,
+      "location": 2,
+      "content": "所以什么地方有我的客户",
+      "music": 0.0
+    },
+    {
+      "from": 32.2,
+      "to": 33.82,
+      "sid": 15,
+      "location": 2,
+      "content": "现成的客户在哪里",
+      "music": 0.0
+    },
+    {
+      "from": 33.82,
+      "to": 36.28,
+      "sid": 16,
+      "location": 2,
+      "content": "本身就买这个东西的人",
+      "music": 0.0
+    },
+    {
+      "from": 36.28,
+      "to": 37.86,
+      "sid": 17,
+      "location": 2,
+      "content": "他就是你的客户嘛对吧",
+      "music": 0.0
+    },
+    {
+      "from": 37.86,
+      "to": 41.62,
+      "sid": 18,
+      "location": 2,
+      "content": "今天但凡任何地方已经发生了一笔交易",
+      "music": 0.0
+    },
+    {
+      "from": 41.62,
+      "to": 44.34,
+      "sid": 19,
+      "location": 2,
+      "content": "你就需要跟这个人去聊诶",
+      "music": 0.0
+    },
+    {
+      "from": 44.34,
+      "to": 45.8,
+      "sid": 20,
+      "location": 2,
+      "content": "你为什么买呀",
+      "music": 0.0
+    },
+    {
+      "from": 45.8,
+      "to": 49.26,
+      "sid": 21,
+      "location": 2,
+      "content": "我对于客户的心态拿捏的是非常好的",
+      "music": 0.0
+    },
+    {
+      "from": 49.26,
+      "to": 51.96,
+      "sid": 22,
+      "location": 2,
+      "content": "包括为什么今天很多人做我们这个行业",
+      "music": 0.0
+    },
+    {
+      "from": 51.96,
+      "to": 52.84,
+      "sid": 23,
+      "location": 2,
+      "content": "他做不过我",
+      "music": 0.0
+    },
+    {
+      "from": 52.84,
+      "to": 54.84,
+      "sid": 24,
+      "location": 2,
+      "content": "很大一个原因就是在这",
+      "music": 0.0
+    },
+    {
+      "from": 54.84,
+      "to": 57.96,
+      "sid": 25,
+      "location": 2,
+      "content": "我是一个超级无敌敢消费的人",
+      "music": 0.0
+    },
+    {
+      "from": 57.96,
+      "to": 60.12,
+      "sid": 26,
+      "location": 2,
+      "content": "我这个人不是一般般的敢消费",
+      "music": 0.0
+    },
+    {
+      "from": 60.12,
+      "to": 61.88,
+      "sid": 27,
+      "location": 2,
+      "content": "我是非常敢消费的一个人",
+      "music": 0.0
+    },
+    {
+      "from": 61.88,
+      "to": 63.46,
+      "sid": 28,
+      "location": 2,
+      "content": "我很敢花钱的",
+      "music": 0.0
+    },
+    {
+      "from": 63.46,
+      "to": 66.14,
+      "sid": 29,
+      "location": 2,
+      "content": "就他们经常说说来我家看",
+      "music": 0.0
+    },
+    {
+      "from": 66.14,
+      "to": 68.62,
+      "sid": 30,
+      "location": 2,
+      "content": "我们家的就是那些装饰首饰啊",
+      "music": 0.0
+    },
+    {
+      "from": 68.62,
+      "to": 71.75,
+      "sid": 31,
+      "location": 2,
+      "content": "你感觉像是进了那个那个夜市",
+      "music": 0.0
+    },
+    {
+      "from": 71.75,
+      "to": 74.29,
+      "sid": 32,
+      "location": 2,
+      "content": "网上不是那个经常会有人发我的",
+      "music": 0.0
+    },
+    {
+      "from": 74.29,
+      "to": 75.29,
+      "sid": 33,
+      "location": 2,
+      "content": "别人就会有人在下面说",
+      "music": 0.0
+    },
+    {
+      "from": 75.29,
+      "to": 77.05,
+      "sid": 34,
+      "location": 2,
+      "content": "哎呀他哪有那么多钱呀",
+      "music": 0.0
+    },
+    {
+      "from": 77.05,
+      "to": 78.05,
+      "sid": 35,
+      "location": 2,
+      "content": "他用的是不是假的",
+      "music": 0.0
+    },
+    {
+      "from": 78.05,
+      "to": 78.33,
+      "sid": 36,
+      "location": 2,
+      "content": "什么什么",
+      "music": 0.0
+    },
+    {
+      "from": 78.33,
+      "to": 79.21,
+      "sid": 37,
+      "location": 2,
+      "content": "我跟你们讲啊",
+      "music": 0.0
+    },
+    {
+      "from": 79.21,
+      "to": 82.69,
+      "sid": 38,
+      "location": 2,
+      "content": "我这个人如果说我我用假的",
+      "music": 0.0
+    },
+    {
+      "from": 82.69,
+      "to": 84.94,
+      "sid": 39,
+      "location": 2,
+      "content": "我今天干不到这个程度",
+      "music": 0.0
+    },
+    {
+      "from": 84.94,
+      "to": 87.34,
+      "sid": 40,
+      "location": 2,
+      "content": "不是说我有多喜欢这个东西",
+      "music": 0.0
+    },
+    {
+      "from": 87.34,
+      "to": 92.9,
+      "sid": 41,
+      "location": 2,
+      "content": "我是要让我自己一直沉浸在高消费的场域当中",
+      "music": 0.0
+    },
+    {
+      "from": 92.9,
+      "to": 96.62,
+      "sid": 42,
+      "location": 2,
+      "content": "感受我自己为何被成交",
+      "music": 0.0
+    },
+    {
+      "from": 96.62,
+      "to": 98.38,
+      "sid": 43,
+      "location": 2,
+      "content": "你们品一下我刚刚讲的这句话",
+      "music": 0.0
+    },
+    {
+      "from": 98.38,
+      "to": 99.94,
+      "sid": 44,
+      "location": 2,
+      "content": "我不是为了炫富",
+      "music": 0.0
+    },
+    {
+      "from": 99.94,
+      "to": 100.66,
+      "sid": 45,
+      "location": 2,
+      "content": "你们看我",
+      "music": 0.0
+    },
+    {
+      "from": 100.66,
+      "to": 104.62,
+      "sid": 46,
+      "location": 2,
+      "content": "我后面我基本上我很少拍我买买东西的视频的",
+      "music": 0.0
+    },
+    {
+      "from": 104.62,
+      "to": 106.42,
+      "sid": 47,
+      "location": 2,
+      "content": "我绝对不是为了炫富",
+      "music": 0.0
+    },
+    {
+      "from": 106.42,
+      "to": 109.0,
+      "sid": 48,
+      "location": 2,
+      "content": "而且我要不断的跟这些高消费的客",
+      "music": 0.0
+    },
+    {
+      "from": 109.0,
+      "to": 110.77,
+      "sid": 49,
+      "location": 2,
+      "content": "高消费的客户在一起",
+      "music": 0.0
+    },
+    {
+      "from": 110.77,
+      "to": 113.11,
+      "sid": 50,
+      "location": 2,
+      "content": "我要看他们是如何被成交的",
+      "music": 0.0
+    },
+    {
+      "from": 113.11,
+      "to": 114.31,
+      "sid": 51,
+      "location": 2,
+      "content": "他们在乎什么",
+      "music": 0.0
+    },
+    {
+      "from": 114.31,
+      "to": 115.97,
+      "sid": 52,
+      "location": 2,
+      "content": "我反复反复的",
+      "music": 0.0
+    },
+    {
+      "from": 115.97,
+      "to": 118.1,
+      "sid": 53,
+      "location": 2,
+      "content": "我自己在感受这件事儿",
+      "music": 0.0
+    },
+    {
+      "from": 118.1,
+      "to": 120.8,
+      "sid": 54,
+      "location": 2,
+      "content": "然后倒过来用在我的业务里",
+      "music": 0.0
+    },
+    {
+      "from": 120.8,
+      "to": 121.14,
+      "sid": 55,
+      "location": 2,
+      "content": "诶",
+      "music": 0.0
+    },
+    {
+      "from": 121.14,
+      "to": 123.57,
+      "sid": 56,
+      "location": 2,
+      "content": "我我是不可能去用",
+      "music": 0.0
+    },
+    {
+      "from": 123.57,
+      "to": 124.97,
+      "sid": 57,
+      "location": 2,
+      "content": "就是用一个什么A货",
+      "music": 0.0
+    },
+    {
+      "from": 124.97,
+      "to": 125.61,
+      "sid": 58,
+      "location": 2,
+      "content": "用个什么假货",
+      "music": 0.0
+    },
+    {
+      "from": 125.61,
+      "to": 127.01,
+      "sid": 59,
+      "location": 2,
+      "content": "因为那个东西对于我来说",
+      "music": 0.0
+    },
+    {
+      "from": 127.01,
+      "to": 128.919,
+      "sid": 60,
+      "location": 2,
+      "content": "反而是一种极致的浪费",
+      "music": 0.0
+    },
+    {
+      "from": 128.919,
+      "to": 130.579,
+      "sid": 61,
+      "location": 2,
+      "content": "我学不到东西",
+      "music": 0.0
+    },
+    {
+      "from": 130.579,
+      "to": 133.099,
+      "sid": 62,
+      "location": 2,
+      "content": "你没有这样的一个决心",
+      "music": 0.0
+    },
+    {
+      "from": 133.099,
+      "to": 136.2,
+      "sid": 63,
+      "location": 2,
+      "content": "你没有这样的一种感知力",
+      "music": 0.0
+    },
+    {
+      "from": 136.2,
+      "to": 139.36,
+      "sid": 64,
+      "location": 2,
+      "content": "你怎么可能搞得定这波客户呢",
+      "music": 0.0
+    },
+    {
+      "from": 139.36,
+      "to": 141.44,
+      "sid": 65,
+      "location": 2,
+      "content": "有钱人都是非常挑剔的",
+      "music": 0.0
+    },
+    {
+      "from": 141.44,
+      "to": 144.25,
+      "sid": 66,
+      "location": 2,
+      "content": "有钱人的眼睛都是非常毒辣的",
+      "music": 0.0
+    },
+    {
+      "from": 144.25,
+      "to": 148.34,
+      "sid": 67,
+      "location": 2,
+      "content": "品味绝对不是一天就锻炼而成的一个东西",
+      "music": 0.0
+    },
+    {
+      "from": 148.34,
+      "to": 149.38,
+      "sid": 68,
+      "location": 2,
+      "content": "我我我有的时候",
+      "music": 0.0
+    },
+    {
+      "from": 149.38,
+      "to": 151.82,
+      "sid": 69,
+      "location": 2,
+      "content": "很多人吐槽我的这种穿着打扮什么的",
+      "music": 0.0
+    },
+    {
+      "from": 151.82,
+      "to": 152.62,
+      "sid": 70,
+      "location": 2,
+      "content": "这种浮夸啊",
+      "music": 0.0
+    },
+    {
+      "from": 152.62,
+      "to": 154.76,
+      "sid": 71,
+      "location": 2,
+      "content": "什么叮铃咣啷的圣诞树什么什么的",
+      "music": 0.0
+    },
+    {
+      "from": 154.76,
+      "to": 156.24,
+      "sid": 72,
+      "location": 2,
+      "content": "但是啊我告诉你们",
+      "music": 0.0
+    },
+    {
+      "from": 156.24,
+      "to": 160.22,
+      "sid": 73,
+      "location": 2,
+      "content": "我这种状态是很吸引富婆的",
+      "music": 0.0
+    },
+    {
+      "from": 160.22,
+      "to": 161.74,
+      "sid": 74,
+      "location": 2,
+      "content": "我的打扮里边呀",
+      "music": 0.0
+    },
+    {
+      "from": 161.74,
+      "to": 164.09,
+      "sid": 75,
+      "location": 2,
+      "content": "她透着一种复杂的平衡",
+      "music": 0.0
+    },
+    {
+      "from": 164.09,
+      "to": 166.59,
+      "sid": 76,
+      "location": 2,
+      "content": "不是一个说我穿个白T加个白裤子",
+      "music": 0.0
+    },
+    {
+      "from": 166.59,
+      "to": 167.13,
+      "sid": 77,
+      "location": 2,
+      "content": "是好看",
+      "music": 0.0
+    },
+    {
+      "from": 167.13,
+      "to": 167.95,
+      "sid": 78,
+      "location": 2,
+      "content": "也很有质感",
+      "music": 0.0
+    },
+    {
+      "from": 167.95,
+      "to": 168.67,
+      "sid": 79,
+      "location": 2,
+      "content": "我经常跟大家说",
+      "music": 0.0
+    },
+    {
+      "from": 168.67,
+      "to": 169.99,
+      "sid": 80,
+      "location": 2,
+      "content": "问你妈lo平安穿一套",
+      "music": 0.0
+    },
+    {
+      "from": 169.99,
+      "to": 171.37,
+      "sid": 81,
+      "location": 2,
+      "content": "谁穿谁有质感",
+      "music": 0.0
+    },
+    {
+      "from": 171.37,
+      "to": 173.09,
+      "sid": 82,
+      "location": 2,
+      "content": "那个东西不用考验你",
+      "music": 0.0
+    },
+    {
+      "from": 173.09,
+      "to": 176.43,
+      "sid": 83,
+      "location": 2,
+      "content": "对于这种很复杂的这种东西的理解",
+      "music": 0.0
+    },
+    {
+      "from": 176.43,
+      "to": 180.25,
+      "sid": 84,
+      "location": 2,
+      "content": "但我是一个会把很多很复杂的东西套到身上",
+      "music": 0.0
+    },
+    {
+      "from": 180.25,
+      "to": 182.579,
+      "sid": 85,
+      "location": 2,
+      "content": "然后让他之间平衡起来的这么一个人",
+      "music": 0.0
+    },
+    {
+      "from": 182.579,
+      "to": 184.859,
+      "sid": 86,
+      "location": 2,
+      "content": "不是说今天我去我去爱马仕",
+      "music": 0.0
+    },
+    {
+      "from": 184.859,
+      "to": 186.819,
+      "sid": 87,
+      "location": 2,
+      "content": "我去香奈儿一个销售就能做到",
+      "music": 0.0
+    },
+    {
+      "from": 186.819,
+      "to": 189.579,
+      "sid": 88,
+      "location": 2,
+      "content": "他本来就该这么穿这个衣服就配这个裤子合适",
+      "music": 0.0
+    },
+    {
+      "from": 189.579,
+      "to": 190.34,
+      "sid": 89,
+      "location": 2,
+      "content": "对不对",
+      "music": 0.0
+    },
+    {
+      "from": 190.34,
+      "to": 191.5,
+      "sid": 90,
+      "location": 2,
+      "content": "所以这些东西是什么",
+      "music": 0.0
+    },
+    {
+      "from": 191.5,
+      "to": 192.98,
+      "sid": 91,
+      "location": 2,
+      "content": "是我不断的在磨我",
+      "music": 0.0
+    },
+    {
+      "from": 192.98,
+      "to": 194.26,
+      "sid": 92,
+      "location": 2,
+      "content": "不断的在磨我的眼睛",
+      "music": 0.0
+    },
+    {
+      "from": 194.26,
+      "to": 195.86,
+      "sid": 93,
+      "location": 2,
+      "content": "不断在磨我的手感",
+      "music": 0.0
+    },
+    {
+      "from": 195.86,
+      "to": 200.14,
+      "sid": 94,
+      "location": 2,
+      "content": "不断的在磨我的这个消费上面的理解",
+      "music": 0.0
+    },
+    {
+      "from": 200.14,
+      "to": 203.0,
+      "sid": 95,
+      "location": 2,
+      "content": "所以我们才能不断的去吸引那么多的人",
+      "music": 0.0
+    },
+    {
+      "from": 203.0,
+      "to": 205.52,
+      "sid": 96,
+      "location": 2,
+      "content": "你看这次像那个闺蜜联盟大会的时候",
+      "music": 0.0
+    },
+    {
+      "from": 205.52,
+      "to": 206.42,
+      "sid": 97,
+      "location": 2,
+      "content": "我跟大家讲一个点",
+      "music": 0.0
+    },
+    {
+      "from": 206.42,
+      "to": 207.32,
+      "sid": 98,
+      "location": 2,
+      "content": "你只要站在那",
+      "music": 0.0
+    },
+    {
+      "from": 207.32,
+      "to": 210.24,
+      "sid": 99,
+      "location": 2,
+      "content": "你就会理解到这个人的商业价值绝对牛逼",
+      "music": 0.0
+    },
+    {
+      "from": 210.24,
+      "to": 211.4,
+      "sid": 100,
+      "location": 2,
+      "content": "你都不用听",
+      "music": 0.0
+    },
+    {
+      "from": 211.4,
+      "to": 213.06,
+      "sid": 101,
+      "location": 2,
+      "content": "你不用听我讲什么东西",
+      "music": 0.0
+    },
+    {
+      "from": 213.06,
+      "to": 216.24,
+      "sid": 102,
+      "location": 2,
+      "content": "因为锁所有的人被我影响到",
+      "music": 0.0
+    },
+    {
+      "from": 216.24,
+      "to": 218.88,
+      "sid": 103,
+      "location": 2,
+      "content": "他们认为他们今天如果没有闪闪发光",
+      "music": 0.0
+    },
+    {
+      "from": 218.88,
+      "to": 220.6,
+      "sid": 104,
+      "location": 2,
+      "content": "没有非常精致的站在这个地方",
+      "music": 0.0
+    },
+    {
+      "from": 220.6,
+      "to": 222.04,
+      "sid": 105,
+      "location": 2,
+      "content": "他都觉得不合适",
+      "music": 0.0
+    },
+    {
+      "from": 222.04,
+      "to": 224.04,
+      "sid": 106,
+      "location": 2,
+      "content": "他都觉得自己都觉得不好意思",
+      "music": 0.0
+    },
+    {
+      "from": 224.04,
+      "to": 225.04,
+      "sid": 107,
+      "location": 2,
+      "content": "我怎么可以这样呢",
+      "music": 0.0
+    },
+    {
+      "from": 225.04,
+      "to": 225.76,
+      "sid": 108,
+      "location": 2,
+      "content": "我不可以这样",
+      "music": 0.0
+    },
+    {
+      "from": 225.76,
+      "to": 227.56,
+      "sid": 109,
+      "location": 2,
+      "content": "我为了去匹配曲曲的这个场域",
+      "music": 0.0
+    },
+    {
+      "from": 227.56,
+      "to": 228.96,
+      "sid": 110,
+      "location": 2,
+      "content": "我必须要达到这个程度",
+      "music": 0.0
+    },
+    {
+      "from": 228.96,
+      "to": 230.14,
+      "sid": 111,
+      "location": 2,
+      "content": "我为什么会这样",
+      "music": 0.0
+    },
+    {
+      "from": 230.14,
+      "to": 231.4,
+      "sid": 112,
+      "location": 2,
+      "content": "因为我理解他们",
+      "music": 0.0
+    },
+    {
+      "from": 231.4,
+      "to": 232.52,
+      "sid": 113,
+      "location": 2,
+      "content": "我了解他们",
+      "music": 0.0
+    },
+    {
+      "from": 232.52,
+      "to": 235.68,
+      "sid": 114,
+      "location": 2,
+      "content": "我特别了解这些有消费实力的人群",
+      "music": 0.0
+    },
+    {
+      "from": 235.68,
+      "to": 237.209,
+      "sid": 115,
+      "location": 2,
+      "content": "他们想要什么",
+      "music": 0.0
+    },
+    {
+      "from": 237.209,
+      "to": 238.229,
+      "sid": 116,
+      "location": 2,
+      "content": "他们想要那种",
+      "music": 0.0
+    },
+    {
+      "from": 238.229,
+      "to": 242.98,
+      "sid": 117,
+      "location": 2,
+      "content": "你还能把我的把我的这种欲望也好啊",
+      "music": 0.0
+    },
+    {
+      "from": 242.98,
+      "to": 244.04,
+      "sid": 118,
+      "location": 2,
+      "content": "或者是要求也好",
+      "music": 0.0
+    },
+    {
+      "from": 244.04,
+      "to": 245.94,
+      "sid": 119,
+      "location": 2,
+      "content": "还能再往上拔一拔",
+      "music": 0.0
+    },
+    {
+      "from": 245.94,
+      "to": 248.68,
+      "sid": 120,
+      "location": 2,
+      "content": "我就巴不得你还能把我在网上诶",
+      "music": 0.0
+    },
+    {
+      "from": 248.68,
+      "to": 250.4,
+      "sid": 121,
+      "location": 2,
+      "content": "你再鞭策鞭策我",
+      "music": 0.0
+    },
+    {
+      "from": 250.4,
+      "to": 251.02,
+      "sid": 122,
+      "location": 2,
+      "content": "对不对",
+      "music": 0.0
+    },
+    {
+      "from": 251.02,
+      "to": 252.22,
+      "sid": 123,
+      "location": 2,
+      "content": "你再要求要求我",
+      "music": 0.0
+    },
+    {
+      "from": 252.22,
+      "to": 253.84,
+      "sid": 124,
+      "location": 2,
+      "content": "你不要太纵容我",
+      "music": 0.0
+    },
+    {
+      "from": 253.84,
+      "to": 256.21,
+      "sid": 125,
+      "location": 2,
+      "content": "因为纵容他们的人太多了",
+      "music": 0.0
+    },
+    {
+      "from": 256.21,
+      "to": 257.77,
+      "sid": 126,
+      "location": 2,
+      "content": "人人都在哄着他玩",
+      "music": 0.0
+    },
+    {
+      "from": 257.77,
+      "to": 258.89,
+      "sid": 127,
+      "location": 2,
+      "content": "人人都在纵容他",
+      "music": 0.0
+    },
+    {
+      "from": 258.89,
+      "to": 260.23,
+      "sid": 128,
+      "location": 2,
+      "content": "我不是这么干的",
+      "music": 0.0
+    },
+    {
+      "from": 260.23,
+      "to": 262.85,
+      "sid": 129,
+      "location": 2,
+      "content": "我是用我的标准和要求来告诉你",
+      "music": 0.0
+    },
+    {
+      "from": 262.85,
+      "to": 264.51,
+      "sid": 130,
+      "location": 2,
+      "content": "你应该更好",
+      "music": 0.0
+    },
+    {
+      "from": 264.51,
+      "to": 266.38,
+      "sid": 131,
+      "location": 2,
+      "content": "你还可以更绽放",
+      "music": 0.0
+    },
+    {
+      "from": 266.38,
+      "to": 267.98,
+      "sid": 132,
+      "location": 2,
+      "content": "所以像刚刚这个女孩子",
+      "music": 0.0
+    },
+    {
+      "from": 267.98,
+      "to": 269.58,
+      "sid": 133,
+      "location": 2,
+      "content": "就她们做这个业务就是这样的",
+      "music": 0.0
+    },
+    {
+      "from": 269.58,
+      "to": 270.46,
+      "sid": 134,
+      "location": 2,
+      "content": "她做的这件事",
+      "music": 0.0
+    },
+    {
+      "from": 270.46,
+      "to": 273.74,
+      "sid": 135,
+      "location": 2,
+      "content": "本身天然的就是要服务高消费的人群的",
+      "music": 0.0
+    },
+    {
+      "from": 273.74,
+      "to": 276.44,
+      "sid": 136,
+      "location": 2,
+      "content": "高消费的人群就是高标准",
+      "music": 0.0
+    },
+    {
+      "from": 276.44,
+      "to": 277.76,
+      "sid": 137,
+      "location": 2,
+      "content": "就是高要求",
+      "music": 0.0
+    },
+    {
+      "from": 277.76,
+      "to": 279.11,
+      "sid": 138,
+      "location": 2,
+      "content": "就是高审美",
+      "music": 0.0
+    },
+    {
+      "from": 279.11,
+      "to": 280.69,
+      "sid": 139,
+      "location": 2,
+      "content": "你不要觉得他不懂",
+      "music": 0.0
+    },
+    {
+      "from": 280.69,
+      "to": 282.85,
+      "sid": 140,
+      "location": 2,
+      "content": "你不要觉得啊这个艺术家你看不懂",
+      "music": 0.0
+    },
+    {
+      "from": 282.85,
+      "to": 284.15,
+      "sid": 141,
+      "location": 2,
+      "content": "那你就废了",
+      "music": 0.0
+    },
+    {
+      "from": 284.15,
+      "to": 285.11,
+      "sid": 142,
+      "location": 2,
+      "content": "你不要跟他聊",
+      "music": 0.0
+    },
+    {
+      "from": 285.11,
+      "to": 286.35,
+      "sid": 143,
+      "location": 2,
+      "content": "这个艺术家他看不看得懂",
+      "music": 0.0
+    },
+    {
+      "from": 286.35,
+      "to": 287.23,
+      "sid": 144,
+      "location": 2,
+      "content": "明白吗",
+      "music": 0.0
+    },
+    {
+      "from": 287.23,
+      "to": 290.15,
+      "sid": 145,
+      "location": 2,
+      "content": "钱在手上本身就是一种投票权",
+      "music": 0.0
+    },
+    {
+      "from": 290.15,
+      "to": 291.89,
+      "sid": 146,
+      "location": 2,
+      "content": "你想消化它",
+      "music": 0.0
+    },
+    {
+      "from": 291.89,
+      "to": 294.39,
+      "sid": 147,
+      "location": 2,
+      "content": "你就要理解他如何理解他",
+      "music": 0.0
+    },
+    {
+      "from": 294.39,
+      "to": 296.07,
+      "sid": 148,
+      "location": 2,
+      "content": "你要站到他的中间去",
+      "music": 0.0
+    },
+    {
+      "from": 296.07,
+      "to": 297.45,
+      "sid": 149,
+      "location": 2,
+      "content": "成为他的一员",
+      "music": 0.0
+    },
+    {
+      "from": 297.45,
+      "to": 298.53,
+      "sid": 150,
+      "location": 2,
+      "content": "他做什么",
+      "music": 0.0
+    },
+    {
+      "from": 298.53,
+      "to": 299.53,
+      "sid": 151,
+      "location": 2,
+      "content": "你要做了什么",
+      "music": 0.0
+    },
+    {
+      "from": 299.53,
+      "to": 302.73,
+      "sid": 152,
+      "location": 2,
+      "content": "然后你要反复反复的去理解他做的这个动作",
+      "music": 0.0
+    },
+    {
+      "from": 302.73,
+      "to": 304.62,
+      "sid": 153,
+      "location": 2,
+      "content": "的动机想法",
+      "music": 0.0
+    },
+    {
+      "from": 304.62,
+      "to": 307.18,
+      "sid": 154,
+      "location": 2,
+      "content": "思考的方向也看明白",
+      "music": 0.0
+    },
+    {
+      "from": 307.18,
+      "to": 309.62,
+      "sid": 155,
+      "location": 2,
+      "content": "一个两个你才能消化100个",
+      "music": 0.0
+    },
+    {
+      "from": 309.62,
+      "to": 310.14,
+      "sid": 156,
+      "location": 2,
+      "content": "200个",
+      "music": 0.0
+    },
+    {
+      "from": 310.14,
+      "to": 311.52,
+      "sid": 157,
+      "location": 2,
+      "content": "他是这样的一个逻辑啊",
+      "music": 0.0
+    },
+    {
+      "from": 311.52,
+      "to": 312.64,
+      "sid": 158,
+      "location": 2,
+      "content": "来下一个咳",
+      "music": 0.0
+    }
+  ]
+}

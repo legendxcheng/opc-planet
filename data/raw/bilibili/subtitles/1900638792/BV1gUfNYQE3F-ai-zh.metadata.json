@@ -1,0 +1,22 @@
+{
+  "bvid": "BV1gUfNYQE3F",
+  "cid": 29201664712,
+  "title": "汇报能力差 该怎么提升？",
+  "owner_name": "边大娘FM",
+  "status": "downloaded",
+  "reason": null,
+  "subtitle": {
+    "id": 1723435109195261952,
+    "lan": "ai-zh",
+    "lan_doc": "中文",
+    "is_lock": false,
+    "subtitle_url": "https://aisubtitle.hdslb.com/bfs/ai_subtitle/prod/11426854444002929201664712f8b35b4e081a01a7d39fda5f3e6377a1",
+    "type": 1,
+    "id_str": "1723435109195261952",
+    "ai_type": 0,
+    "ai_status": 2
+  },
+  "raw_subtitle_path": "data\\raw\\bilibili\\subtitles\\1900638792\\BV1gUfNYQE3F-ai-zh.raw.json",
+  "text_path": "data\\raw\\bilibili\\subtitles\\1900638792\\BV1gUfNYQE3F-ai-zh.txt",
+  "metadata_path": "data\\raw\\bilibili\\subtitles\\1900638792\\BV1gUfNYQE3F-ai-zh.metadata.json"
+}

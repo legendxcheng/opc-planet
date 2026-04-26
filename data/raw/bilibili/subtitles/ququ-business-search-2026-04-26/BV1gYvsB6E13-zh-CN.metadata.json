@@ -1,0 +1,23 @@
+{
+  "bvid": "BV1gYvsB6E13",
+  "cid": 35055538099,
+  "title": "曲曲-商业逻辑闭环！",
+  "owner_name": "曲曲真漂亮",
+  "status": "downloaded",
+  "reason": null,
+  "subtitle": {
+    "id": 31982964274364419,
+    "lan": "zh-CN",
+    "lan_doc": "中文（中国）",
+    "is_lock": false,
+    "author_mid": 483301783,
+    "subtitle_url": "https://aisubtitle.hdslb.com/bfs/subtitle/fc03562711af08687398775a4423dc71028e1203.json",
+    "type": 0,
+    "id_str": "31982964274364419",
+    "ai_type": 0,
+    "ai_status": 0
+  },
+  "raw_subtitle_path": "data\\raw\\bilibili\\subtitles\\ququ-business-search-2026-04-26\\BV1gYvsB6E13-zh-CN.raw.json",
+  "text_path": "data\\raw\\bilibili\\subtitles\\ququ-business-search-2026-04-26\\BV1gYvsB6E13-zh-CN.txt",
+  "metadata_path": "data\\raw\\bilibili\\subtitles\\ququ-business-search-2026-04-26\\BV1gYvsB6E13-zh-CN.metadata.json"
+}

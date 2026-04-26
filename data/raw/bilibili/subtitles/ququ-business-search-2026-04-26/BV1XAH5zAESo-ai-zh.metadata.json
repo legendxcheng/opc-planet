@@ -1,0 +1,22 @@
+{
+  "bvid": "BV1XAH5zAESo",
+  "cid": 25874601857,
+  "title": "曲曲给普通女孩纸的赚钱以及择偶指南",
+  "owner_name": "与曲同行",
+  "status": "downloaded",
+  "reason": null,
+  "subtitle": {
+    "id": 1610237958613499392,
+    "lan": "ai-zh",
+    "lan_doc": "中文",
+    "is_lock": false,
+    "subtitle_url": "https://aisubtitle.hdslb.com/bfs/ai_subtitle/prod/113384183829887265026286454cff6a895bb5c9a59cb212adf841152d",
+    "type": 1,
+    "id_str": "1610237958613499392",
+    "ai_type": 0,
+    "ai_status": 2
+  },
+  "raw_subtitle_path": "data\\raw\\bilibili\\subtitles\\ququ-business-search-2026-04-26\\BV1XAH5zAESo-ai-zh.raw.json",
+  "text_path": "data\\raw\\bilibili\\subtitles\\ququ-business-search-2026-04-26\\BV1XAH5zAESo-ai-zh.txt",
+  "metadata_path": "data\\raw\\bilibili\\subtitles\\ququ-business-search-2026-04-26\\BV1XAH5zAESo-ai-zh.metadata.json"
+}

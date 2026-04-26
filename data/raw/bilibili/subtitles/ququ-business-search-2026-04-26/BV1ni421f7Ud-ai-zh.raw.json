@@ -1,0 +1,300 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 3.28,
+      "to": 6.8,
+      "sid": 1,
+      "location": 2,
+      "content": "困难过着别人流动人气山电麦昆",
+      "music": 0.0
+    },
+    {
+      "from": 74.6,
+      "to": 76.44,
+      "sid": 2,
+      "location": 2,
+      "content": "我难过",
+      "music": 0.0
+    },
+    {
+      "from": 76.44,
+      "to": 79.52,
+      "sid": 3,
+      "location": 2,
+      "content": "这必定走上闪电麦昆",
+      "music": 0.0
+    },
+    {
+      "from": 79.52,
+      "to": 81.72,
+      "sid": 4,
+      "location": 2,
+      "content": "也叫中卡一下",
+      "music": 0.0
+    },
+    {
+      "from": 81.72,
+      "to": 84.42,
+      "sid": 5,
+      "location": 2,
+      "content": "今天的钱给我来一份煎饼果子",
+      "music": 0.0
+    },
+    {
+      "from": 89.74,
+      "to": 93.54,
+      "sid": 6,
+      "location": 2,
+      "content": "晓得晓得帮我导航到华强北去华强北",
+      "music": 0.0
+    },
+    {
+      "from": 93.54,
+      "to": 95.08,
+      "sid": 7,
+      "location": 2,
+      "content": "全程53km",
+      "music": 0.0
+    },
+    {
+      "from": 95.08,
+      "to": 97.42,
+      "sid": 8,
+      "location": 2,
+      "content": "约48分钟到达",
+      "music": 0.0
+    },
+    {
+      "from": 116.6,
+      "to": 119.56,
+      "sid": 9,
+      "location": 2,
+      "content": "啊现在看我最爱",
+      "music": 0.9999998913043597
+    },
+    {
+      "from": 123.9,
+      "to": 126.16,
+      "sid": 10,
+      "location": 2,
+      "content": "欢迎着风过去",
+      "music": 0.9999999305555604
+    },
+    {
+      "from": 126.16,
+      "to": 127.82,
+      "sid": 11,
+      "location": 2,
+      "content": "让",
+      "music": 0.07142854591840908
+    },
+    {
+      "from": 132.36,
+      "to": 136.28,
+      "sid": 12,
+      "location": 2,
+      "content": "嘿嘿呀呀",
+      "music": 0.0
+    },
+    {
+      "from": 137.6,
+      "to": 139.2,
+      "sid": 13,
+      "location": 2,
+      "content": "总结优缺点",
+      "music": 0.0
+    },
+    {
+      "from": 139.2,
+      "to": 143.16,
+      "sid": 14,
+      "location": 2,
+      "content": "缺点一这一个电池是华强北有史以来最大的",
+      "music": 0.0
+    },
+    {
+      "from": 143.16,
+      "to": 145.34,
+      "sid": 15,
+      "location": 2,
+      "content": "直接达到了1350盒",
+      "music": 0.0
+    },
+    {
+      "from": 145.34,
+      "to": 148.38,
+      "sid": 16,
+      "location": 2,
+      "content": "要知道以前插卡版的手表最大也才800毫",
+      "music": 0.0
+    },
+    {
+      "from": 148.38,
+      "to": 150.78,
+      "sid": 17,
+      "location": 2,
+      "content": "为了解决续航这个史诗级的难题",
+      "music": 0.0
+    },
+    {
+      "from": 150.78,
+      "to": 153.16,
+      "sid": 18,
+      "location": 2,
+      "content": "因此手表的厚度也增厚了不少",
+      "music": 0.0
+    },
+    {
+      "from": 153.16,
+      "to": 154.36,
+      "sid": 19,
+      "location": 2,
+      "content": "能够接受的话",
+      "music": 0.0
+    },
+    {
+      "from": 154.36,
+      "to": 156.46,
+      "sid": 20,
+      "location": 2,
+      "content": "再考虑这一个手表优点",
+      "music": 0.0
+    },
+    {
+      "from": 156.46,
+      "to": 158.08,
+      "sid": 21,
+      "location": 2,
+      "content": "狂刷饰品半个小时",
+      "music": 0.0
+    },
+    {
+      "from": 158.08,
+      "to": 160.4,
+      "sid": 22,
+      "location": 2,
+      "content": "手表才掉电10%几的电量",
+      "music": 0.0
+    },
+    {
+      "from": 160.4,
+      "to": 164.04,
+      "sid": 23,
+      "location": 2,
+      "content": "这直接就是把其他插卡版手表按在地上摩擦呀",
+      "music": 0.0
+    },
+    {
+      "from": 164.04,
+      "to": 166.43,
+      "sid": 24,
+      "location": 2,
+      "content": "真不愧是续航王ultra插卡版",
+      "music": 0.0
+    },
+    {
+      "from": 166.43,
+      "to": 167.41,
+      "sid": 25,
+      "location": 2,
+      "content": "除此之外",
+      "music": 0.0
+    },
+    {
+      "from": 167.41,
+      "to": 169.51,
+      "sid": 26,
+      "location": 2,
+      "content": "以往手表的各种优势功能",
+      "music": 0.0
+    },
+    {
+      "from": 169.51,
+      "to": 171.83,
+      "sid": 27,
+      "location": 2,
+      "content": "在这个手表上也是直接继承",
+      "music": 0.0
+    },
+    {
+      "from": 171.83,
+      "to": 173.63,
+      "sid": 28,
+      "location": 2,
+      "content": "由于视频时长的关系",
+      "music": 0.0
+    },
+    {
+      "from": 173.63,
+      "to": 175.8,
+      "sid": 29,
+      "location": 2,
+      "content": "续航王的一个电量详细测评",
+      "music": 0.0
+    },
+    {
+      "from": 175.8,
+      "to": 176.8,
+      "sid": 30,
+      "location": 2,
+      "content": "点赞破100",
+      "music": 0.0
+    },
+    {
+      "from": 176.8,
+      "to": 178.06,
+      "sid": 31,
+      "location": 2,
+      "content": "我在下一期更新",
+      "music": 0.0
+    },
+    {
+      "from": 178.06,
+      "to": 178.92,
+      "sid": 32,
+      "location": 2,
+      "content": "感谢大家",
+      "music": 0.0
+    },
+    {
+      "from": 178.92,
+      "to": 179.52,
+      "sid": 33,
+      "location": 2,
+      "content": "谢谢大家",
+      "music": 0.0
+    },
+    {
+      "from": 179.52,
+      "to": 180.12,
+      "sid": 34,
+      "location": 2,
+      "content": "一键三连",
+      "music": 0.0
+    },
+    {
+      "from": 180.12,
+      "to": 180.72,
+      "sid": 35,
+      "location": 2,
+      "content": "我是小燕",
+      "music": 0.0
+    },
+    {
+      "from": 180.72,
+      "to": 182.0,
+      "sid": 36,
+      "location": 2,
+      "content": "让我们下期再见",
+      "music": 0.0
+    }
+  ]
+}

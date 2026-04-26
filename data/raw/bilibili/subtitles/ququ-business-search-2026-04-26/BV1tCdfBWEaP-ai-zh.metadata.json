@@ -1,0 +1,22 @@
+{
+  "bvid": "BV1tCdfBWEaP",
+  "cid": 37643812950,
+  "title": "【曲曲】穿衣太浮夸卖假货？高消费是理解富豪的途径",
+  "owner_name": "有双-龙凤",
+  "status": "downloaded",
+  "reason": null,
+  "subtitle": {
+    "id": 2000460175818991872,
+    "lan": "ai-zh",
+    "lan_doc": "中文",
+    "is_lock": false,
+    "subtitle_url": "https://aisubtitle.hdslb.com/bfs/ai_subtitle/prod/116431832288373376438129505228cd097cc50897700c066314023e7e",
+    "type": 1,
+    "id_str": "2000460175818991872",
+    "ai_type": 0,
+    "ai_status": 2
+  },
+  "raw_subtitle_path": "data\\raw\\bilibili\\subtitles\\ququ-business-search-2026-04-26\\BV1tCdfBWEaP-ai-zh.raw.json",
+  "text_path": "data\\raw\\bilibili\\subtitles\\ququ-business-search-2026-04-26\\BV1tCdfBWEaP-ai-zh.txt",
+  "metadata_path": "data\\raw\\bilibili\\subtitles\\ququ-business-search-2026-04-26\\BV1tCdfBWEaP-ai-zh.metadata.json"
+}

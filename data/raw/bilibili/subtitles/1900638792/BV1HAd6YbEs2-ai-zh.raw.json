@@ -1,0 +1,2516 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.22,
+      "to": 1.96,
+      "sid": 1,
+      "location": 2,
+      "content": "我发现职场中有些人",
+      "music": 0.0
+    },
+    {
+      "from": 1.96,
+      "to": 3.98,
+      "sid": 2,
+      "location": 2,
+      "content": "他们多多少少都遇到过那种",
+      "music": 0.0
+    },
+    {
+      "from": 3.98,
+      "to": 5.67,
+      "sid": 3,
+      "location": 2,
+      "content": "平常什么都不管的领导",
+      "music": 0.0
+    },
+    {
+      "from": 5.67,
+      "to": 6.83,
+      "sid": 4,
+      "location": 2,
+      "content": "甩手掌柜嘛",
+      "music": 0.0
+    },
+    {
+      "from": 6.83,
+      "to": 8.15,
+      "sid": 5,
+      "location": 2,
+      "content": "等你做出了成绩",
+      "music": 0.0
+    },
+    {
+      "from": 8.15,
+      "to": 9.42,
+      "sid": 6,
+      "location": 2,
+      "content": "就抢你的功劳",
+      "music": 0.0
+    },
+    {
+      "from": 9.42,
+      "to": 10.68,
+      "sid": 7,
+      "location": 2,
+      "content": "如果出了问题",
+      "music": 0.0
+    },
+    {
+      "from": 10.68,
+      "to": 12.2,
+      "sid": 8,
+      "location": 2,
+      "content": "还会把锅甩给你",
+      "music": 0.0
+    },
+    {
+      "from": 12.2,
+      "to": 13.9,
+      "sid": 9,
+      "location": 2,
+      "content": "这种纯纯的利己主义者",
+      "music": 0.0
+    },
+    {
+      "from": 13.9,
+      "to": 16.38,
+      "sid": 10,
+      "location": 2,
+      "content": "甚至还在公司里面越混越好",
+      "music": 0.0
+    },
+    {
+      "from": 16.38,
+      "to": 17.72,
+      "sid": 11,
+      "location": 2,
+      "content": "混得风生水起",
+      "music": 0.0
+    },
+    {
+      "from": 17.72,
+      "to": 21.86,
+      "sid": 12,
+      "location": 2,
+      "content": "而你可能就是一个在职场中兢兢业业的人",
+      "music": 0.0
+    },
+    {
+      "from": 21.86,
+      "to": 24.189,
+      "sid": 13,
+      "location": 2,
+      "content": "当你和这样的领导越处越久",
+      "music": 0.0
+    },
+    {
+      "from": 24.189,
+      "to": 26.429,
+      "sid": 14,
+      "location": 2,
+      "content": "它会让你的价值观发生转变",
+      "music": 0.0
+    },
+    {
+      "from": 26.429,
+      "to": 29.789,
+      "sid": 15,
+      "location": 2,
+      "content": "你会开始怀疑你在职场中发展平平",
+      "music": 0.0
+    },
+    {
+      "from": 29.789,
+      "to": 31.609,
+      "sid": 16,
+      "location": 2,
+      "content": "就是因为你太老实",
+      "music": 0.0
+    },
+    {
+      "from": 31.609,
+      "to": 33.05,
+      "sid": 17,
+      "location": 2,
+      "content": "太有同理心对吧",
+      "music": 0.0
+    },
+    {
+      "from": 33.05,
+      "to": 34.89,
+      "sid": 18,
+      "location": 2,
+      "content": "然后你痛下决心说",
+      "music": 0.0
+    },
+    {
+      "from": 34.89,
+      "to": 37.6,
+      "sid": 19,
+      "location": 2,
+      "content": "那我也要变成一个利己主义者",
+      "music": 0.0
+    },
+    {
+      "from": 37.6,
+      "to": 39.98,
+      "sid": 20,
+      "location": 2,
+      "content": "我在职场中就遇见过这样的人",
+      "music": 0.0
+    },
+    {
+      "from": 39.98,
+      "to": 42.62,
+      "sid": 21,
+      "location": 2,
+      "content": "他开始和同组的同事抢资源",
+      "music": 0.0
+    },
+    {
+      "from": 42.62,
+      "to": 43.62,
+      "sid": 22,
+      "location": 2,
+      "content": "用人朝前",
+      "music": 0.0
+    },
+    {
+      "from": 43.62,
+      "to": 44.69,
+      "sid": 23,
+      "location": 2,
+      "content": "不用人朝后",
+      "music": 0.0
+    },
+    {
+      "from": 44.69,
+      "to": 47.03,
+      "sid": 24,
+      "location": 2,
+      "content": "我们所有的同事都对他避之不及",
+      "music": 0.0
+    },
+    {
+      "from": 47.03,
+      "to": 48.67,
+      "sid": 25,
+      "location": 2,
+      "content": "但就是因为他利己",
+      "music": 0.0
+    },
+    {
+      "from": 48.67,
+      "to": 49.41,
+      "sid": 26,
+      "location": 2,
+      "content": "他自私",
+      "music": 0.0
+    },
+    {
+      "from": 49.41,
+      "to": 52.63,
+      "sid": 27,
+      "location": 2,
+      "content": "他后面真的在一次晋升中晋升成功了",
+      "music": 0.0
+    },
+    {
+      "from": 52.63,
+      "to": 55.15,
+      "sid": 28,
+      "location": 2,
+      "content": "然后他的职级就比我们高一级",
+      "music": 0.0
+    },
+    {
+      "from": 55.15,
+      "to": 57.13,
+      "sid": 29,
+      "location": 2,
+      "content": "当然这是很多年前的事了",
+      "music": 0.0
+    },
+    {
+      "from": 57.13,
+      "to": 60.11,
+      "sid": 30,
+      "location": 2,
+      "content": "但现在他的发展远远不如我们",
+      "music": 0.0
+    },
+    {
+      "from": 60.11,
+      "to": 62.489,
+      "sid": 31,
+      "location": 2,
+      "content": "当时同组的其他几个人",
+      "music": 0.0
+    },
+    {
+      "from": 62.489,
+      "to": 63.689,
+      "sid": 32,
+      "location": 2,
+      "content": "之所以会这样",
+      "music": 0.0
+    },
+    {
+      "from": 63.689,
+      "to": 65.229,
+      "sid": 33,
+      "location": 2,
+      "content": "是因为在职场中",
+      "music": 0.0
+    },
+    {
+      "from": 65.229,
+      "to": 69.15,
+      "sid": 34,
+      "location": 2,
+      "content": "利己思维并不适用于中层以下的员工",
+      "music": 0.0
+    },
+    {
+      "from": 69.15,
+      "to": 72.85,
+      "sid": 35,
+      "location": 2,
+      "content": "你看到你的领导在对待你的时候很利己",
+      "music": 0.0
+    },
+    {
+      "from": 72.85,
+      "to": 75.89,
+      "sid": 36,
+      "location": 2,
+      "content": "但你没看到这个领导在对待他的领导时",
+      "music": 0.0
+    },
+    {
+      "from": 75.89,
+      "to": 77.55,
+      "sid": 37,
+      "location": 2,
+      "content": "变成了一个利他的人",
+      "music": 0.0
+    },
+    {
+      "from": 77.55,
+      "to": 80.19,
+      "sid": 38,
+      "location": 2,
+      "content": "你看到的只是他对待你的方式",
+      "music": 0.0
+    },
+    {
+      "from": 80.19,
+      "to": 83.1,
+      "sid": 39,
+      "location": 2,
+      "content": "而不是他对待所有人的方式",
+      "music": 0.0
+    },
+    {
+      "from": 83.1,
+      "to": 85.3,
+      "sid": 40,
+      "location": 2,
+      "content": "不知道你们有没有听说过这样一句话",
+      "music": 0.0
+    },
+    {
+      "from": 85.3,
+      "to": 86.78,
+      "sid": 41,
+      "location": 2,
+      "content": "叫做群体合作",
+      "music": 0.0
+    },
+    {
+      "from": 86.78,
+      "to": 88.71,
+      "sid": 42,
+      "location": 2,
+      "content": "更利于个体生存",
+      "music": 0.0
+    },
+    {
+      "from": 88.71,
+      "to": 92.27,
+      "sid": 43,
+      "location": 2,
+      "content": "这句话适用于职场里的所有执行岗",
+      "music": 0.0
+    },
+    {
+      "from": 92.27,
+      "to": 93.449,
+      "sid": 44,
+      "location": 2,
+      "content": "包括小组长",
+      "music": 0.0
+    },
+    {
+      "from": 93.449,
+      "to": 96.429,
+      "sid": 45,
+      "location": 2,
+      "content": "因为对于职场的基层员工来说",
+      "music": 0.0
+    },
+    {
+      "from": 96.429,
+      "to": 98.549,
+      "sid": 46,
+      "location": 2,
+      "content": "在这个巨大的关系网里",
+      "music": 0.0
+    },
+    {
+      "from": 98.549,
+      "to": 101.949,
+      "sid": 47,
+      "location": 2,
+      "content": "能够影响你们利益的人和事儿太多了",
+      "music": 0.0
+    },
+    {
+      "from": 101.949,
+      "to": 105.589,
+      "sid": 48,
+      "location": 2,
+      "content": "当一个环境中有很多人可以左右你利益的时候",
+      "music": 0.0
+    },
+    {
+      "from": 105.589,
+      "to": 107.94,
+      "sid": 49,
+      "location": 2,
+      "content": "群体合作是最优解",
+      "music": 0.0
+    },
+    {
+      "from": 107.94,
+      "to": 112.06,
+      "sid": 50,
+      "location": 2,
+      "content": "而你的领导之所以可以如此的利己和自私",
+      "music": 0.0
+    },
+    {
+      "from": 112.06,
+      "to": 115.32,
+      "sid": 51,
+      "location": 2,
+      "content": "是因为他早就评估过利己的后果",
+      "music": 0.0
+    },
+    {
+      "from": 115.32,
+      "to": 118.61,
+      "sid": 52,
+      "location": 2,
+      "content": "他知道你们没办法影响到他的利益",
+      "music": 0.0
+    },
+    {
+      "from": 118.61,
+      "to": 120.95,
+      "sid": 53,
+      "location": 2,
+      "content": "他并不是一个纯粹的利己主义者",
+      "music": 0.0
+    },
+    {
+      "from": 120.95,
+      "to": 122.07,
+      "sid": 54,
+      "location": 2,
+      "content": "对于他来说",
+      "music": 0.0
+    },
+    {
+      "from": 122.07,
+      "to": 122.93,
+      "sid": 55,
+      "location": 2,
+      "content": "利己还是利",
+      "music": 0.0
+    },
+    {
+      "from": 122.93,
+      "to": 124.55,
+      "sid": 56,
+      "location": 2,
+      "content": "他也不是一种价值观",
+      "music": 0.0
+    },
+    {
+      "from": 124.55,
+      "to": 126.05,
+      "sid": 57,
+      "location": 2,
+      "content": "而是一种手段",
+      "music": 0.0
+    },
+    {
+      "from": 126.05,
+      "to": 129.72,
+      "sid": 58,
+      "location": 2,
+      "content": "是一种风险评估之后采取的手段",
+      "music": 0.0
+    },
+    {
+      "from": 129.72,
+      "to": 133.92,
+      "sid": 59,
+      "location": 2,
+      "content": "所以这种手段才会随着他遇到的人和事的不同",
+      "music": 0.0
+    },
+    {
+      "from": 133.92,
+      "to": 135.38,
+      "sid": 60,
+      "location": 2,
+      "content": "而产生变化",
+      "music": 0.0
+    },
+    {
+      "from": 135.38,
+      "to": 137.86,
+      "sid": 61,
+      "location": 2,
+      "content": "当一个人不能影响他利益的时候",
+      "music": 0.0
+    },
+    {
+      "from": 137.86,
+      "to": 139.14,
+      "sid": 62,
+      "location": 2,
+      "content": "他就是利己的",
+      "music": 0.0
+    },
+    {
+      "from": 139.14,
+      "to": 141.58,
+      "sid": 63,
+      "location": 2,
+      "content": "当一个人可以左右他利益的时候",
+      "music": 0.0
+    },
+    {
+      "from": 141.58,
+      "to": 143.79,
+      "sid": 64,
+      "location": 2,
+      "content": "他就变成了一个利益他的人",
+      "music": 0.0
+    },
+    {
+      "from": 143.79,
+      "to": 145.47,
+      "sid": 65,
+      "location": 2,
+      "content": "那我的第一个结论就是",
+      "music": 0.0
+    },
+    {
+      "from": 145.47,
+      "to": 148.43,
+      "sid": 66,
+      "location": 2,
+      "content": "在职场中利己不应该是一种价值观",
+      "music": 0.0
+    },
+    {
+      "from": 148.43,
+      "to": 150.589,
+      "sid": 67,
+      "location": 2,
+      "content": "也不应该是一种思考方式",
+      "music": 0.0
+    },
+    {
+      "from": 150.589,
+      "to": 154.289,
+      "sid": 68,
+      "location": 2,
+      "content": "它只是一种风险评估之后采取的手段",
+      "music": 0.0
+    },
+    {
+      "from": 154.289,
+      "to": 156.92,
+      "sid": 69,
+      "location": 2,
+      "content": "而对于职场基层员工来说",
+      "music": 0.0
+    },
+    {
+      "from": 156.92,
+      "to": 159.16,
+      "sid": 70,
+      "location": 2,
+      "content": "相比于争抢和甩锅",
+      "music": 0.0
+    },
+    {
+      "from": 159.16,
+      "to": 161.43,
+      "sid": 71,
+      "location": 2,
+      "content": "合作才是最好的出路",
+      "music": 0.0
+    },
+    {
+      "from": 161.43,
+      "to": 163.65,
+      "sid": 72,
+      "location": 2,
+      "content": "之前我遇到过一个大厂中高层",
+      "music": 0.0
+    },
+    {
+      "from": 163.65,
+      "to": 165.27,
+      "sid": 73,
+      "location": 2,
+      "content": "他每天都在PUA",
+      "music": 0.0
+    },
+    {
+      "from": 165.27,
+      "to": 169.2,
+      "sid": 74,
+      "location": 2,
+      "content": "他下面的人甚至搞那种零成本裁员的拙劣手段",
+      "music": 0.0
+    },
+    {
+      "from": 169.2,
+      "to": 171.14,
+      "sid": 75,
+      "location": 2,
+      "content": "对他不满的员工非常多",
+      "music": 0.0
+    },
+    {
+      "from": 171.14,
+      "to": 174.54,
+      "sid": 76,
+      "location": 2,
+      "content": "但是他现在依然还在那个位置上",
+      "music": 0.0
+    },
+    {
+      "from": 174.54,
+      "to": 176.68,
+      "sid": 77,
+      "location": 2,
+      "content": "之前有人质疑他做法的时候",
+      "music": 0.0
+    },
+    {
+      "from": 176.68,
+      "to": 177.64,
+      "sid": 78,
+      "location": 2,
+      "content": "他说过一句话",
+      "music": 0.0
+    },
+    {
+      "from": 177.64,
+      "to": 179.26,
+      "sid": 79,
+      "location": 2,
+      "content": "给我的印象非常深刻",
+      "music": 0.0
+    },
+    {
+      "from": 179.26,
+      "to": 181.98,
+      "sid": 80,
+      "location": 2,
+      "content": "他说就算我零成本裁掉他们",
+      "music": 0.0
+    },
+    {
+      "from": 181.98,
+      "to": 183.86,
+      "sid": 81,
+      "location": 2,
+      "content": "他们也压根儿拿我没办法",
+      "music": 0.0
+    },
+    {
+      "from": 183.86,
+      "to": 188.16,
+      "sid": 82,
+      "location": 2,
+      "content": "就算这些人里面有一两个能混得比我高",
+      "music": 0.0
+    },
+    {
+      "from": 188.16,
+      "to": 189.82,
+      "sid": 83,
+      "location": 2,
+      "content": "我倒是早都退休了",
+      "music": 0.0
+    },
+    {
+      "from": 189.82,
+      "to": 191.28,
+      "sid": 84,
+      "location": 2,
+      "content": "我人都跑到国外去了",
+      "music": 0.0
+    },
+    {
+      "from": 191.28,
+      "to": 192.88,
+      "sid": 85,
+      "location": 2,
+      "content": "他们根本找不着我",
+      "music": 0.0
+    },
+    {
+      "from": 192.88,
+      "to": 194.68,
+      "sid": 86,
+      "location": 2,
+      "content": "我当时听完这句话",
+      "music": 0.0
+    },
+    {
+      "from": 194.68,
+      "to": 195.98,
+      "sid": 87,
+      "location": 2,
+      "content": "我就知道了哦",
+      "music": 0.0
+    },
+    {
+      "from": 195.98,
+      "to": 199.26,
+      "sid": 88,
+      "location": 2,
+      "content": "原来他当时做出这些动作之前",
+      "music": 0.0
+    },
+    {
+      "from": 199.26,
+      "to": 200.92,
+      "sid": 89,
+      "location": 2,
+      "content": "心里早都盘算好了",
+      "music": 0.0
+    },
+    {
+      "from": 200.92,
+      "to": 204.12,
+      "sid": 90,
+      "location": 2,
+      "content": "他断定他做出的这些利己行为",
+      "music": 0.0
+    },
+    {
+      "from": 204.12,
+      "to": 205.96,
+      "sid": 91,
+      "location": 2,
+      "content": "起码在他在职期间",
+      "music": 0.0
+    },
+    {
+      "from": 205.96,
+      "to": 208.4,
+      "sid": 92,
+      "location": 2,
+      "content": "不会对他产生任何负面后果",
+      "music": 0.0
+    },
+    {
+      "from": 208.4,
+      "to": 209.97,
+      "sid": 93,
+      "location": 2,
+      "content": "他才敢这么做",
+      "music": 0.0
+    },
+    {
+      "from": 209.97,
+      "to": 210.89,
+      "sid": 94,
+      "location": 2,
+      "content": "你们想啊",
+      "music": 0.0
+    },
+    {
+      "from": 210.89,
+      "to": 212.53,
+      "sid": 95,
+      "location": 2,
+      "content": "一般私企外企",
+      "music": 0.0
+    },
+    {
+      "from": 212.53,
+      "to": 215.019,
+      "sid": 96,
+      "location": 2,
+      "content": "大公司的中高层基本都40多岁了",
+      "music": 0.0
+    },
+    {
+      "from": 215.019,
+      "to": 217.139,
+      "sid": 97,
+      "location": 2,
+      "content": "再干10年他们都能退休了",
+      "music": 0.0
+    },
+    {
+      "from": 217.139,
+      "to": 219.779,
+      "sid": 98,
+      "location": 2,
+      "content": "而你10年之内能坐到他的位置上",
+      "music": 0.0
+    },
+    {
+      "from": 219.779,
+      "to": 221.079,
+      "sid": 99,
+      "location": 2,
+      "content": "或者超过他吗",
+      "music": 0.0
+    },
+    {
+      "from": 221.079,
+      "to": 225.15,
+      "sid": 100,
+      "location": 2,
+      "content": "很难我开头说到的那个和同事抢资源的人",
+      "music": 0.0
+    },
+    {
+      "from": 225.15,
+      "to": 227.61,
+      "sid": 101,
+      "location": 2,
+      "content": "他错就错在盲目利己",
+      "music": 0.0
+    },
+    {
+      "from": 227.61,
+      "to": 231.13,
+      "sid": 102,
+      "location": 2,
+      "content": "而你看到的那些在职场里混得越来越好的",
+      "music": 0.0
+    },
+    {
+      "from": 231.13,
+      "to": 233.13,
+      "sid": 103,
+      "location": 2,
+      "content": "利己主义者是有针对性的",
+      "music": 0.0
+    },
+    {
+      "from": 233.13,
+      "to": 235.18,
+      "sid": 104,
+      "location": 2,
+      "content": "利己是分人分事儿的",
+      "music": 0.0
+    },
+    {
+      "from": 235.18,
+      "to": 239.17,
+      "sid": 105,
+      "location": 2,
+      "content": "利己是在心里已经盘算过利害关系的利己",
+      "music": 0.0
+    },
+    {
+      "from": 239.17,
+      "to": 242.86,
+      "sid": 106,
+      "location": 2,
+      "content": "当然利他也是建立在利己上的结果",
+      "music": 0.0
+    },
+    {
+      "from": 242.86,
+      "to": 246.06,
+      "sid": 107,
+      "location": 2,
+      "content": "所以你们可以把我今天这期内容里面提到的",
+      "music": 0.0
+    },
+    {
+      "from": 246.06,
+      "to": 249.9,
+      "sid": 108,
+      "location": 2,
+      "content": "利他和利己解读成合作和利己的区别",
+      "music": 0.0
+    },
+    {
+      "from": 249.9,
+      "to": 252.74,
+      "sid": 109,
+      "location": 2,
+      "content": "当你处在一个巨大的关系网里面",
+      "music": 0.0
+    },
+    {
+      "from": 252.74,
+      "to": 255.4,
+      "sid": 110,
+      "location": 2,
+      "content": "很多人都能影响你利益的时候",
+      "music": 0.0
+    },
+    {
+      "from": 255.4,
+      "to": 257.61,
+      "sid": 111,
+      "location": 2,
+      "content": "你就要选择群体合作",
+      "music": 0.0
+    },
+    {
+      "from": 257.61,
+      "to": 261.29,
+      "sid": 112,
+      "location": 2,
+      "content": "而当群体里的人已经无法影响你利益",
+      "music": 0.0
+    },
+    {
+      "from": 261.29,
+      "to": 264.789,
+      "sid": 113,
+      "location": 2,
+      "content": "你可以在群体中成为一个独立个体的时候",
+      "music": 0.0
+    },
+    {
+      "from": 264.789,
+      "to": 267.429,
+      "sid": 114,
+      "location": 2,
+      "content": "那无论你是一个多么利己的人",
+      "music": 0.0
+    },
+    {
+      "from": 267.429,
+      "to": 270.03,
+      "sid": 115,
+      "location": 2,
+      "content": "对于你自己来讲都没有问题",
+      "music": 0.0
+    },
+    {
+      "from": 270.03,
+      "to": 273.35,
+      "sid": 116,
+      "location": 2,
+      "content": "那如果你明明没有影响对方的利益",
+      "music": 0.0
+    },
+    {
+      "from": 273.35,
+      "to": 275.19,
+      "sid": 117,
+      "location": 2,
+      "content": "但是别人却在影响你",
+      "music": 0.0
+    },
+    {
+      "from": 275.19,
+      "to": 276.79,
+      "sid": 118,
+      "location": 2,
+      "content": "那你应该怎么办",
+      "music": 0.0
+    },
+    {
+      "from": 276.79,
+      "to": 279.75,
+      "sid": 119,
+      "location": 2,
+      "content": "对于大多数处于职场基层的人来说",
+      "music": 0.0
+    },
+    {
+      "from": 279.75,
+      "to": 282.07,
+      "sid": 120,
+      "location": 2,
+      "content": "如果你的领导或者其他人",
+      "music": 0.0
+    },
+    {
+      "from": 282.07,
+      "to": 283.86,
+      "sid": 121,
+      "location": 2,
+      "content": "一直在影响你利益的话",
+      "music": 0.0
+    },
+    {
+      "from": 283.86,
+      "to": 285.28,
+      "sid": 122,
+      "location": 2,
+      "content": "比如说抢你功劳",
+      "music": 0.0
+    },
+    {
+      "from": 285.28,
+      "to": 286.44,
+      "sid": 123,
+      "location": 2,
+      "content": "或者说给你甩锅",
+      "music": 0.0
+    },
+    {
+      "from": 286.44,
+      "to": 288.6,
+      "sid": 124,
+      "location": 2,
+      "content": "这个时候沟通是没有用的",
+      "music": 0.0
+    },
+    {
+      "from": 288.6,
+      "to": 290.68,
+      "sid": 125,
+      "location": 2,
+      "content": "这不是沟通能解决的问题",
+      "music": 0.0
+    },
+    {
+      "from": 290.68,
+      "to": 293.56,
+      "sid": 126,
+      "location": 2,
+      "content": "沟通只适用于双方信息没对齐",
+      "music": 0.0
+    },
+    {
+      "from": 293.56,
+      "to": 295.52,
+      "sid": 127,
+      "location": 2,
+      "content": "或者对方不自知的情况",
+      "music": 0.0
+    },
+    {
+      "from": 295.52,
+      "to": 299.08,
+      "sid": 128,
+      "location": 2,
+      "content": "而如果一个人跑来抢你的资源或者甩锅给你",
+      "music": 0.0
+    },
+    {
+      "from": 299.08,
+      "to": 300.42,
+      "sid": 129,
+      "location": 2,
+      "content": "他是有预谋的",
+      "music": 0.0
+    },
+    {
+      "from": 300.42,
+      "to": 301.52,
+      "sid": 130,
+      "location": 2,
+      "content": "不是不自知",
+      "music": 0.0
+    },
+    {
+      "from": 301.52,
+      "to": 303.71,
+      "sid": 131,
+      "location": 2,
+      "content": "所以这个时候沟通无效",
+      "music": 0.0
+    },
+    {
+      "from": 303.71,
+      "to": 305.65,
+      "sid": 132,
+      "location": 2,
+      "content": "为什么这个人会抢你的功劳",
+      "music": 0.0
+    },
+    {
+      "from": 305.65,
+      "to": 307.23,
+      "sid": 133,
+      "location": 2,
+      "content": "或者说甩锅给你呢",
+      "music": 0.0
+    },
+    {
+      "from": 307.23,
+      "to": 308.82,
+      "sid": 134,
+      "location": 2,
+      "content": "因为他能力有限",
+      "music": 0.0
+    },
+    {
+      "from": 308.82,
+      "to": 312.5,
+      "sid": 135,
+      "location": 2,
+      "content": "他没有更强的能力去独立获取外部资源",
+      "music": 0.0
+    },
+    {
+      "from": 312.5,
+      "to": 315.74,
+      "sid": 136,
+      "location": 2,
+      "content": "或者靠自己的能力去把一件事情落地",
+      "music": 0.0
+    },
+    {
+      "from": 315.74,
+      "to": 319.38,
+      "sid": 137,
+      "location": 2,
+      "content": "所以他只能在你准备工作做得差不多的时候",
+      "music": 0.0
+    },
+    {
+      "from": 319.38,
+      "to": 320.87,
+      "sid": 138,
+      "location": 2,
+      "content": "跑来抢你的东西",
+      "music": 0.0
+    },
+    {
+      "from": 320.87,
+      "to": 324.13,
+      "sid": 139,
+      "location": 2,
+      "content": "或者在你已经完成了一件事情之后",
+      "music": 0.0
+    },
+    {
+      "from": 324.13,
+      "to": 326.61,
+      "sid": 140,
+      "location": 2,
+      "content": "把这个成果说成是他的",
+      "music": 0.0
+    },
+    {
+      "from": 326.61,
+      "to": 329.67,
+      "sid": 141,
+      "location": 2,
+      "content": "他也没有能力去承担做错一件事的后果",
+      "music": 0.0
+    },
+    {
+      "from": 329.67,
+      "to": 333.25,
+      "sid": 142,
+      "location": 2,
+      "content": "因为他知道他如果没办法在这家公司工作了",
+      "music": 0.0
+    },
+    {
+      "from": 333.25,
+      "to": 335.07,
+      "sid": 143,
+      "location": 2,
+      "content": "他出去找工作很困难",
+      "music": 0.0
+    },
+    {
+      "from": 335.07,
+      "to": 336.99,
+      "sid": 144,
+      "location": 2,
+      "content": "所以他只能甩锅给你",
+      "music": 0.0
+    },
+    {
+      "from": 336.99,
+      "to": 339.21,
+      "sid": 145,
+      "location": 2,
+      "content": "如果这样的人是你的同事",
+      "music": 0.0
+    },
+    {
+      "from": 339.21,
+      "to": 342.08,
+      "sid": 146,
+      "location": 2,
+      "content": "你唯一的办法就是留存证据",
+      "music": 0.0
+    },
+    {
+      "from": 342.08,
+      "to": 345.26,
+      "sid": 147,
+      "location": 2,
+      "content": "这件事情你和谁已经沟通到了哪一步",
+      "music": 0.0
+    },
+    {
+      "from": 345.26,
+      "to": 347.24,
+      "sid": 148,
+      "location": 2,
+      "content": "那件事情责任划分是什么",
+      "music": 0.0
+    },
+    {
+      "from": 347.24,
+      "to": 349.73,
+      "sid": 149,
+      "location": 2,
+      "content": "全都用文字沟通的方式留存好",
+      "music": 0.0
+    },
+    {
+      "from": 349.73,
+      "to": 351.93,
+      "sid": 150,
+      "location": 2,
+      "content": "哪怕是当面沟通过的信息",
+      "music": 0.0
+    },
+    {
+      "from": 351.93,
+      "to": 355.1,
+      "sid": 151,
+      "location": 2,
+      "content": "事后也要再发一遍确认版本的文字",
+      "music": 0.0
+    },
+    {
+      "from": 355.1,
+      "to": 356.98,
+      "sid": 152,
+      "location": 2,
+      "content": "这样才能避免被争抢",
+      "music": 0.0
+    },
+    {
+      "from": 356.98,
+      "to": 358.43,
+      "sid": 153,
+      "location": 2,
+      "content": "避免被甩锅",
+      "music": 0.0
+    },
+    {
+      "from": 358.43,
+      "to": 362.15,
+      "sid": 154,
+      "location": 2,
+      "content": "那如果这个同事他当着领导的面抢你功劳",
+      "music": 0.0
+    },
+    {
+      "from": 362.15,
+      "to": 362.73,
+      "sid": 155,
+      "location": 2,
+      "content": "怎么办",
+      "music": 0.0
+    },
+    {
+      "from": 362.73,
+      "to": 364.11,
+      "sid": 156,
+      "location": 2,
+      "content": "我给你一个话术啊",
+      "music": 0.0
+    },
+    {
+      "from": 364.11,
+      "to": 365.99,
+      "sid": 157,
+      "location": 2,
+      "content": "你可以这么说诶",
+      "music": 0.0
+    },
+    {
+      "from": 365.99,
+      "to": 368.51,
+      "sid": 158,
+      "location": 2,
+      "content": "这个事情你是打算重新分工吗",
+      "music": 0.0
+    },
+    {
+      "from": 368.51,
+      "to": 370.03,
+      "sid": 159,
+      "location": 2,
+      "content": "那我们会议结束之后",
+      "music": 0.0
+    },
+    {
+      "from": 370.03,
+      "to": 371.03,
+      "sid": 160,
+      "location": 2,
+      "content": "可以再商量一下",
+      "music": 0.0
+    },
+    {
+      "from": 371.03,
+      "to": 374.47,
+      "sid": 161,
+      "location": 2,
+      "content": "先不在这占用领导的时间去讨论这件事情",
+      "music": 0.0
+    },
+    {
+      "from": 374.47,
+      "to": 375.73,
+      "sid": 162,
+      "location": 2,
+      "content": "这样你先讲",
+      "music": 0.0
+    },
+    {
+      "from": 375.73,
+      "to": 378.81,
+      "sid": 163,
+      "location": 2,
+      "content": "如果你发现一会儿有些信息你很难讲清楚",
+      "music": 0.0
+    },
+    {
+      "from": 378.81,
+      "to": 379.87,
+      "sid": 164,
+      "location": 2,
+      "content": "我随时补充",
+      "music": 0.0
+    },
+    {
+      "from": 379.87,
+      "to": 382.89,
+      "sid": 165,
+      "location": 2,
+      "content": "因为这些数据是我一个个去论证过的",
+      "music": 0.0
+    },
+    {
+      "from": 382.89,
+      "to": 384.77,
+      "sid": 166,
+      "location": 2,
+      "content": "我能随时支持你",
+      "music": 0.0
+    },
+    {
+      "from": 384.77,
+      "to": 387.67,
+      "sid": 167,
+      "location": 2,
+      "content": "这个话术其实包含了两部分信息",
+      "music": 0.0
+    },
+    {
+      "from": 387.67,
+      "to": 390.29,
+      "sid": 168,
+      "location": 2,
+      "content": "第一部分是给对方恶意的行为",
+      "music": 0.0
+    },
+    {
+      "from": 390.29,
+      "to": 391.83,
+      "sid": 169,
+      "location": 2,
+      "content": "找一个善意的借口",
+      "music": 0.0
+    },
+    {
+      "from": 391.83,
+      "to": 396.049,
+      "sid": 170,
+      "location": 2,
+      "content": "第二部分是委婉地表明这些工作实际是你做的",
+      "music": 0.0
+    },
+    {
+      "from": 396.049,
+      "to": 398.429,
+      "sid": 171,
+      "location": 2,
+      "content": "所以这个话术的公式就叫做",
+      "music": 0.0
+    },
+    {
+      "from": 398.429,
+      "to": 400.929,
+      "sid": 172,
+      "location": 2,
+      "content": "善意的借口加委婉的事实",
+      "music": 0.0
+    },
+    {
+      "from": 400.929,
+      "to": 403.129,
+      "sid": 173,
+      "location": 2,
+      "content": "为什么要给对方找台阶下",
+      "music": 0.0
+    },
+    {
+      "from": 403.129,
+      "to": 405.09,
+      "sid": 174,
+      "location": 2,
+      "content": "给他编造善意的借口呢",
+      "music": 0.0
+    },
+    {
+      "from": 405.09,
+      "to": 408.15,
+      "sid": 175,
+      "location": 2,
+      "content": "因为我之前分享过领导的两种类型",
+      "music": 0.0
+    },
+    {
+      "from": 408.15,
+      "to": 410.13,
+      "sid": 176,
+      "location": 2,
+      "content": "一类叫做专业型领导",
+      "music": 0.0
+    },
+    {
+      "from": 410.13,
+      "to": 411.88,
+      "sid": 177,
+      "location": 2,
+      "content": "一类叫做关系型领导",
+      "music": 0.0
+    },
+    {
+      "from": 411.88,
+      "to": 414.88,
+      "sid": 178,
+      "location": 2,
+      "content": "专业型领导倾向于愿意合作",
+      "music": 0.0
+    },
+    {
+      "from": 414.88,
+      "to": 416.64,
+      "sid": 179,
+      "location": 2,
+      "content": "而不是制造冲突的人",
+      "music": 0.0
+    },
+    {
+      "from": 416.64,
+      "to": 418.54,
+      "sid": 180,
+      "location": 2,
+      "content": "而如果是关系型领导的话",
+      "music": 0.0
+    },
+    {
+      "from": 418.54,
+      "to": 420.6,
+      "sid": 181,
+      "location": 2,
+      "content": "他凡事从关系角度出发",
+      "music": 0.0
+    },
+    {
+      "from": 420.6,
+      "to": 423.08,
+      "sid": 182,
+      "location": 2,
+      "content": "但你不知道领导和抢你功劳的人",
+      "music": 0.0
+    },
+    {
+      "from": 423.08,
+      "to": 424.44,
+      "sid": 183,
+      "location": 2,
+      "content": "到底是什么关系",
+      "music": 0.0
+    },
+    {
+      "from": 424.44,
+      "to": 426.96,
+      "sid": 184,
+      "location": 2,
+      "content": "所以对于这两类领导来讲",
+      "music": 0.0
+    },
+    {
+      "from": 426.96,
+      "to": 431.049,
+      "sid": 185,
+      "location": 2,
+      "content": "和同事之间保持友好的态度都是不会出错的",
+      "music": 0.0
+    },
+    {
+      "from": 431.049,
+      "to": 432.269,
+      "sid": 186,
+      "location": 2,
+      "content": "还有一种情况",
+      "music": 0.0
+    },
+    {
+      "from": 432.269,
+      "to": 435.849,
+      "sid": 187,
+      "location": 2,
+      "content": "如果这个同事当着领导的面儿甩锅给你",
+      "music": 0.0
+    },
+    {
+      "from": 435.849,
+      "to": 437.329,
+      "sid": 188,
+      "location": 2,
+      "content": "那我再给你一个话术",
+      "music": 0.0
+    },
+    {
+      "from": 437.329,
+      "to": 438.5,
+      "sid": 189,
+      "location": 2,
+      "content": "你就这么说",
+      "music": 0.0
+    },
+    {
+      "from": 438.5,
+      "to": 440.76,
+      "sid": 190,
+      "location": 2,
+      "content": "你说的这个问题确实很关键",
+      "music": 0.0
+    },
+    {
+      "from": 440.76,
+      "to": 443.66,
+      "sid": 191,
+      "location": 2,
+      "content": "然后我刚才看了一下之前的某某邮件",
+      "music": 0.0
+    },
+    {
+      "from": 443.66,
+      "to": 445.26,
+      "sid": 192,
+      "location": 2,
+      "content": "或者某某群聊信息",
+      "music": 0.0
+    },
+    {
+      "from": 445.26,
+      "to": 447.88,
+      "sid": 193,
+      "location": 2,
+      "content": "当时这个信息已经公开同步过了",
+      "music": 0.0
+    },
+    {
+      "from": 447.88,
+      "to": 450.38,
+      "sid": 194,
+      "location": 2,
+      "content": "但我理解可能是你那边工作比较忙嘛",
+      "music": 0.0
+    },
+    {
+      "from": 450.38,
+      "to": 451.32,
+      "sid": 195,
+      "location": 2,
+      "content": "所以没有看到",
+      "music": 0.0
+    },
+    {
+      "from": 451.32,
+      "to": 455.63,
+      "sid": 196,
+      "location": 2,
+      "content": "那这样你看我要不要下次再单独发你一份",
+      "music": 0.0
+    },
+    {
+      "from": 455.63,
+      "to": 459.19,
+      "sid": 197,
+      "location": 2,
+      "content": "这样说的目的同样是委婉地表明事实",
+      "music": 0.0
+    },
+    {
+      "from": 459.19,
+      "to": 461.56,
+      "sid": 198,
+      "location": 2,
+      "content": "并且给对方找一个善意的理由",
+      "music": 0.0
+    },
+    {
+      "from": 461.56,
+      "to": 464.36,
+      "sid": 199,
+      "location": 2,
+      "content": "只是说当你应对甩锅事件的时候",
+      "music": 0.0
+    },
+    {
+      "from": 464.36,
+      "to": 465.84,
+      "sid": 200,
+      "location": 2,
+      "content": "要先说事实",
+      "music": 0.0
+    },
+    {
+      "from": 465.84,
+      "to": 467.39,
+      "sid": 201,
+      "location": 2,
+      "content": "再给对方找台阶下",
+      "music": 0.0
+    },
+    {
+      "from": 467.39,
+      "to": 469.79,
+      "sid": 202,
+      "location": 2,
+      "content": "而应对抢功劳事件的时候",
+      "music": 0.0
+    },
+    {
+      "from": 469.79,
+      "to": 472.94,
+      "sid": 203,
+      "location": 2,
+      "content": "是先给对方一个台阶再说事实",
+      "music": 0.0
+    },
+    {
+      "from": 472.94,
+      "to": 474.98,
+      "sid": 204,
+      "location": 2,
+      "content": "那如果影响你利益的人",
+      "music": 0.0
+    },
+    {
+      "from": 474.98,
+      "to": 476.76,
+      "sid": 205,
+      "location": 2,
+      "content": "甩锅给你的人是你的领导",
+      "music": 0.0
+    },
+    {
+      "from": 476.76,
+      "to": 478.11,
+      "sid": 206,
+      "location": 2,
+      "content": "你又该怎么办呢",
+      "music": 0.0
+    },
+    {
+      "from": 478.11,
+      "to": 480.01,
+      "sid": 207,
+      "location": 2,
+      "content": "这种情况除了转岗",
+      "music": 0.0
+    },
+    {
+      "from": 480.01,
+      "to": 481.13,
+      "sid": 208,
+      "location": 2,
+      "content": "没有其他办法",
+      "music": 0.0
+    },
+    {
+      "from": 481.13,
+      "to": 484.39,
+      "sid": 209,
+      "location": 2,
+      "content": "因为你没办法和你的领导划清责任",
+      "music": 0.0
+    },
+    {
+      "from": 484.39,
+      "to": 485.95,
+      "sid": 210,
+      "location": 2,
+      "content": "他是给你打绩效的人",
+      "music": 0.0
+    },
+    {
+      "from": 485.95,
+      "to": 488.73,
+      "sid": 211,
+      "location": 2,
+      "content": "他是完完全全掌控你利益的人",
+      "music": 0.0
+    },
+    {
+      "from": 488.73,
+      "to": 492.5,
+      "sid": 212,
+      "location": 2,
+      "content": "你也不要试图通过和领导搞好关系来解决问题",
+      "music": 0.0
+    },
+    {
+      "from": 492.5,
+      "to": 495.6,
+      "sid": 213,
+      "location": 2,
+      "content": "因为这种领导能做出这样的事儿来",
+      "music": 0.0
+    },
+    {
+      "from": 495.6,
+      "to": 497.28,
+      "sid": 214,
+      "location": 2,
+      "content": "是出于利益的考量",
+      "music": 0.0
+    },
+    {
+      "from": 497.28,
+      "to": 499.03,
+      "sid": 215,
+      "location": 2,
+      "content": "而不是基于关系",
+      "music": 0.0
+    },
+    {
+      "from": 499.03,
+      "to": 501.89,
+      "sid": 216,
+      "location": 2,
+      "content": "所以搞好关系并不能解决问题",
+      "music": 0.0
+    },
+    {
+      "from": 501.89,
+      "to": 503.03,
+      "sid": 217,
+      "location": 2,
+      "content": "他抢你功劳",
+      "music": 0.0
+    },
+    {
+      "from": 503.03,
+      "to": 506.45,
+      "sid": 218,
+      "location": 2,
+      "content": "是为了在他的领导面前体现出他的价值",
+      "music": 0.0
+    },
+    {
+      "from": 506.45,
+      "to": 508.31,
+      "sid": 219,
+      "location": 2,
+      "content": "你如果不把功劳给他",
+      "music": 0.0
+    },
+    {
+      "from": 508.31,
+      "to": 510.7,
+      "sid": 220,
+      "location": 2,
+      "content": "他在他领导面前就会很危险",
+      "music": 0.0
+    },
+    {
+      "from": 510.7,
+      "to": 511.58,
+      "sid": 221,
+      "location": 2,
+      "content": "随之而来",
+      "music": 0.0
+    },
+    {
+      "from": 511.58,
+      "to": 513.22,
+      "sid": 222,
+      "location": 2,
+      "content": "你们团队也会很危险",
+      "music": 0.0
+    },
+    {
+      "from": 513.22,
+      "to": 515.25,
+      "sid": 223,
+      "location": 2,
+      "content": "但如果你把功劳给了他",
+      "music": 0.0
+    },
+    {
+      "from": 515.25,
+      "to": 517.31,
+      "sid": 224,
+      "location": 2,
+      "content": "站在其他人的角度来看",
+      "music": 0.0
+    },
+    {
+      "from": 517.31,
+      "to": 518.93,
+      "sid": 225,
+      "location": 2,
+      "content": "比如你领导的领导",
+      "music": 0.0
+    },
+    {
+      "from": 518.93,
+      "to": 520.97,
+      "sid": 226,
+      "location": 2,
+      "content": "他就看不到你的价值了",
+      "music": 0.0
+    },
+    {
+      "from": 520.97,
+      "to": 522.09,
+      "sid": 227,
+      "location": 2,
+      "content": "那如果裁员的话",
+      "music": 0.0
+    },
+    {
+      "from": 522.09,
+      "to": 523.7,
+      "sid": 228,
+      "location": 2,
+      "content": "不就第一个先裁你吗",
+      "music": 0.0
+    },
+    {
+      "from": 523.7,
+      "to": 527.8,
+      "sid": 229,
+      "location": 2,
+      "content": "所以领导抢员工功劳的根源在于领导没本事",
+      "music": 0.0
+    },
+    {
+      "from": 527.8,
+      "to": 529.86,
+      "sid": 230,
+      "location": 2,
+      "content": "除非你能解决这个问题",
+      "music": 0.0
+    },
+    {
+      "from": 529.86,
+      "to": 532.18,
+      "sid": 231,
+      "location": 2,
+      "content": "同样的把锅甩给员工的领导",
+      "music": 0.0
+    },
+    {
+      "from": 532.18,
+      "to": 533.68,
+      "sid": 232,
+      "location": 2,
+      "content": "也是因为没有本事",
+      "music": 0.0
+    },
+    {
+      "from": 533.68,
+      "to": 536.46,
+      "sid": 233,
+      "location": 2,
+      "content": "他没有能力承担负面后果",
+      "music": 0.0
+    },
+    {
+      "from": 536.46,
+      "to": 540.02,
+      "sid": 234,
+      "location": 2,
+      "content": "还有一种情况是这个领导没有影响你的利益",
+      "music": 0.0
+    },
+    {
+      "from": 540.02,
+      "to": 542.06,
+      "sid": 235,
+      "location": 2,
+      "content": "但他一直在影响你的情绪",
+      "music": 0.0
+    },
+    {
+      "from": 542.06,
+      "to": 543.48,
+      "sid": 236,
+      "location": 2,
+      "content": "每天都在PUA你",
+      "music": 0.0
+    },
+    {
+      "from": 543.48,
+      "to": 544.62,
+      "sid": 237,
+      "location": 2,
+      "content": "这是为什么",
+      "music": 0.0
+    },
+    {
+      "from": 544.62,
+      "to": 548.22,
+      "sid": 238,
+      "location": 2,
+      "content": "首先你要明白他PUA你不是因为你有问题",
+      "music": 0.0
+    },
+    {
+      "from": 548.22,
+      "to": 551.02,
+      "sid": 239,
+      "location": 2,
+      "content": "而是他有他的偏好性或者利益点",
+      "music": 0.0
+    },
+    {
+      "from": 551.02,
+      "to": 554.37,
+      "sid": 240,
+      "location": 2,
+      "content": "有的时候PUA是为了零成本裁员",
+      "music": 0.0
+    },
+    {
+      "from": 554.37,
+      "to": 557.95,
+      "sid": 241,
+      "location": 2,
+      "content": "有的时候他是在根据个人喜好而滥用权力",
+      "music": 0.0
+    },
+    {
+      "from": 557.95,
+      "to": 560.39,
+      "sid": 242,
+      "location": 2,
+      "content": "而有的时候是为了树立权威",
+      "music": 0.0
+    },
+    {
+      "from": 560.39,
+      "to": 561.77,
+      "sid": 243,
+      "location": 2,
+      "content": "保住位置",
+      "music": 0.0
+    },
+    {
+      "from": 561.77,
+      "to": 563.83,
+      "sid": 244,
+      "location": 2,
+      "content": "具体的PV话术有四种",
+      "music": 0.0
+    },
+    {
+      "from": 563.83,
+      "to": 565.61,
+      "sid": 245,
+      "location": 2,
+      "content": "第一种是偏好性话术",
+      "music": 0.0
+    },
+    {
+      "from": 565.61,
+      "to": 567.39,
+      "sid": 246,
+      "location": 2,
+      "content": "比如他不喜欢你的性格",
+      "music": 0.0
+    },
+    {
+      "from": 567.39,
+      "to": 568.51,
+      "sid": 247,
+      "location": 2,
+      "content": "总是对你说",
+      "music": 0.0
+    },
+    {
+      "from": 568.51,
+      "to": 569.89,
+      "sid": 248,
+      "location": 2,
+      "content": "你怎么跟个闷葫芦似的",
+      "music": 0.0
+    },
+    {
+      "from": 569.89,
+      "to": 571.15,
+      "sid": 249,
+      "location": 2,
+      "content": "你得外向一点",
+      "music": 0.0
+    },
+    {
+      "from": 571.15,
+      "to": 573.359,
+      "sid": 250,
+      "location": 2,
+      "content": "第二种是低素质话术",
+      "music": 0.0
+    },
+    {
+      "from": 573.359,
+      "to": 577.219,
+      "sid": 251,
+      "location": 2,
+      "content": "就是说他对所有员工都没有好声好气地说过话",
+      "music": 0.0
+    },
+    {
+      "from": 577.219,
+      "to": 578.979,
+      "sid": 252,
+      "location": 2,
+      "content": "甚至经常骂娘的那种",
+      "music": 0.0
+    },
+    {
+      "from": 578.979,
+      "to": 581.119,
+      "sid": 253,
+      "location": 2,
+      "content": "第三种是低认知话术",
+      "music": 0.0
+    },
+    {
+      "from": 581.119,
+      "to": 584.739,
+      "sid": 254,
+      "location": 2,
+      "content": "他对于他不知道的事情持全盘否定态度",
+      "music": 0.0
+    },
+    {
+      "from": 584.739,
+      "to": 585.639,
+      "sid": 255,
+      "location": 2,
+      "content": "这个也不信",
+      "music": 0.0
+    },
+    {
+      "from": 585.639,
+      "to": 586.579,
+      "sid": 256,
+      "location": 2,
+      "content": "那个也不行",
+      "music": 0.0
+    },
+    {
+      "from": 586.579,
+      "to": 588.75,
+      "sid": 257,
+      "location": 2,
+      "content": "最后一种是立场性话术",
+      "music": 0.0
+    },
+    {
+      "from": 588.75,
+      "to": 590.23,
+      "sid": 258,
+      "location": 2,
+      "content": "站在他的立场上",
+      "music": 0.0
+    },
+    {
+      "from": 590.23,
+      "to": 591.71,
+      "sid": 259,
+      "location": 2,
+      "content": "他需要选择A方案",
+      "music": 0.0
+    },
+    {
+      "from": 591.71,
+      "to": 594.53,
+      "sid": 260,
+      "location": 2,
+      "content": "他知道B方案对你是更好的选择",
+      "music": 0.0
+    },
+    {
+      "from": 594.53,
+      "to": 596.41,
+      "sid": 261,
+      "location": 2,
+      "content": "但他为了让自己获利",
+      "music": 0.0
+    },
+    {
+      "from": 596.41,
+      "to": 597.52,
+      "sid": 262,
+      "location": 2,
+      "content": "就会对你说",
+      "music": 0.0
+    },
+    {
+      "from": 597.52,
+      "to": 598.6,
+      "sid": 263,
+      "location": 2,
+      "content": "我也没办法",
+      "music": 0.0
+    },
+    {
+      "from": 598.6,
+      "to": 599.68,
+      "sid": 264,
+      "location": 2,
+      "content": "那如果你是我",
+      "music": 0.0
+    },
+    {
+      "from": 599.68,
+      "to": 600.92,
+      "sid": 265,
+      "location": 2,
+      "content": "你会怎么做呢",
+      "music": 0.0
+    },
+    {
+      "from": 600.92,
+      "to": 604.68,
+      "sid": 266,
+      "location": 2,
+      "content": "他的目的在于把你拉到他的立场上去",
+      "music": 0.0
+    },
+    {
+      "from": 604.68,
+      "to": 605.68,
+      "sid": 267,
+      "location": 2,
+      "content": "思考他的利益",
+      "music": 0.0
+    },
+    {
+      "from": 605.68,
+      "to": 607.6,
+      "sid": 268,
+      "location": 2,
+      "content": "而忽略你自己的利益",
+      "music": 0.0
+    },
+    {
+      "from": 607.6,
+      "to": 609.75,
+      "sid": 269,
+      "location": 2,
+      "content": "我身边有很多高材生的同事",
+      "music": 0.0
+    },
+    {
+      "from": 609.75,
+      "to": 613.43,
+      "sid": 270,
+      "location": 2,
+      "content": "我发现高材生被PUA的概率远超其他人",
+      "music": 0.0
+    },
+    {
+      "from": 613.43,
+      "to": 615.11,
+      "sid": 271,
+      "location": 2,
+      "content": "不是因为他们更聪明",
+      "music": 0.0
+    },
+    {
+      "from": 615.11,
+      "to": 617.76,
+      "sid": 272,
+      "location": 2,
+      "content": "而是因为他们更擅长自省",
+      "music": 0.0
+    },
+    {
+      "from": 617.76,
+      "to": 619.6,
+      "sid": 273,
+      "location": 2,
+      "content": "他们很能听得进去",
+      "music": 0.0
+    },
+    {
+      "from": 619.6,
+      "to": 620.88,
+      "sid": 274,
+      "location": 2,
+      "content": "其他人的意见",
+      "music": 0.0
+    },
+    {
+      "from": 620.88,
+      "to": 623.16,
+      "sid": 275,
+      "location": 2,
+      "content": "也会把别人的话往自己心里装",
+      "music": 0.0
+    },
+    {
+      "from": 623.16,
+      "to": 626.1,
+      "sid": 276,
+      "location": 2,
+      "content": "所以只要你们能明白一点就行",
+      "music": 0.0
+    },
+    {
+      "from": 626.1,
+      "to": 628.04,
+      "sid": 277,
+      "location": 2,
+      "content": "就是领导在PUA你的时候",
+      "music": 0.0
+    },
+    {
+      "from": 628.04,
+      "to": 629.9,
+      "sid": 278,
+      "location": 2,
+      "content": "他是在展现他的偏好",
+      "music": 0.0
+    },
+    {
+      "from": 629.9,
+      "to": 631.95,
+      "sid": 279,
+      "location": 2,
+      "content": "素质认知和立场",
+      "music": 0.0
+    },
+    {
+      "from": 631.95,
+      "to": 635.05,
+      "sid": 280,
+      "location": 2,
+      "content": "而他的偏好素质认知和立场",
+      "music": 0.0
+    },
+    {
+      "from": 635.05,
+      "to": 637.099,
+      "sid": 281,
+      "location": 2,
+      "content": "和你一点关系都没有",
+      "music": 0.0
+    },
+    {
+      "from": 637.099,
+      "to": 638.459,
+      "sid": 282,
+      "location": 2,
+      "content": "不是你的问题",
+      "music": 0.0
+    },
+    {
+      "from": 638.459,
+      "to": 641.589,
+      "sid": 283,
+      "location": 2,
+      "content": "你不需要进行任何的自我反省",
+      "music": 0.0
+    },
+    {
+      "from": 641.949,
+      "to": 644.229,
+      "sid": 284,
+      "location": 2,
+      "content": "OK那今天就是这么多的内容",
+      "music": 0.0
+    },
+    {
+      "from": 644.229,
+      "to": 646.129,
+      "sid": 285,
+      "location": 2,
+      "content": "今天主要的知识点有四个",
+      "music": 0.0
+    },
+    {
+      "from": 646.129,
+      "to": 648.78,
+      "sid": 286,
+      "location": 2,
+      "content": "第一在职场中不要盲目利己",
+      "music": 0.0
+    },
+    {
+      "from": 648.78,
+      "to": 650.44,
+      "sid": 287,
+      "location": 2,
+      "content": "利己不是一种价值观",
+      "music": 0.0
+    },
+    {
+      "from": 650.44,
+      "to": 651.92,
+      "sid": 288,
+      "location": 2,
+      "content": "也不是一种思维方式",
+      "music": 0.0
+    },
+    {
+      "from": 651.92,
+      "to": 654.76,
+      "sid": 289,
+      "location": 2,
+      "content": "而是一种风险评估之后的手段",
+      "music": 0.0
+    },
+    {
+      "from": 654.76,
+      "to": 657.38,
+      "sid": 290,
+      "location": 2,
+      "content": "针对不同的人和不同的利害关系",
+      "music": 0.0
+    },
+    {
+      "from": 657.38,
+      "to": 659.17,
+      "sid": 291,
+      "location": 2,
+      "content": "要做出不同的反应",
+      "music": 0.0
+    },
+    {
+      "from": 659.17,
+      "to": 662.25,
+      "sid": 292,
+      "location": 2,
+      "content": "第二如果你是职场基层员工",
+      "music": 0.0
+    },
+    {
+      "from": 662.25,
+      "to": 664.48,
+      "sid": 293,
+      "location": 2,
+      "content": "我建议你直接选择合作",
+      "music": 0.0
+    },
+    {
+      "from": 664.48,
+      "to": 666.06,
+      "sid": 294,
+      "location": 2,
+      "content": "对于基层员工来说",
+      "music": 0.0
+    },
+    {
+      "from": 666.06,
+      "to": 668.24,
+      "sid": 295,
+      "location": 2,
+      "content": "能影响你利益的人太多了",
+      "music": 0.0
+    },
+    {
+      "from": 668.24,
+      "to": 669.859,
+      "sid": 296,
+      "location": 2,
+      "content": "合作是最优解",
+      "music": 0.0
+    },
+    {
+      "from": 669.859,
+      "to": 673.479,
+      "sid": 297,
+      "location": 2,
+      "content": "第三面对同事甩锅或抢功劳的时候",
+      "music": 0.0
+    },
+    {
+      "from": 673.479,
+      "to": 674.8,
+      "sid": 298,
+      "location": 2,
+      "content": "记得留存证据",
+      "music": 0.0
+    },
+    {
+      "from": 674.8,
+      "to": 676.72,
+      "sid": 299,
+      "location": 2,
+      "content": "并且当面对质的时候",
+      "music": 0.0
+    },
+    {
+      "from": 676.72,
+      "to": 679.2,
+      "sid": 300,
+      "location": 2,
+      "content": "可以用善意的理由加委婉的事实",
+      "music": 0.0
+    },
+    {
+      "from": 679.2,
+      "to": 683.54,
+      "sid": 301,
+      "location": 2,
+      "content": "这个公式第四面对领导甩锅或者抢功劳的时候",
+      "music": 0.0
+    },
+    {
+      "from": 683.54,
+      "to": 684.3,
+      "sid": 302,
+      "location": 2,
+      "content": "除了转岗",
+      "music": 0.0
+    },
+    {
+      "from": 684.3,
+      "to": 685.43,
+      "sid": 303,
+      "location": 2,
+      "content": "没有其他办法",
+      "music": 0.0
+    },
+    {
+      "from": 685.43,
+      "to": 687.43,
+      "sid": 304,
+      "location": 2,
+      "content": "但如果对方在PUA你",
+      "music": 0.0
+    },
+    {
+      "from": 687.43,
+      "to": 690.99,
+      "sid": 305,
+      "location": 2,
+      "content": "你要明白他的PUA是在展现他的偏好",
+      "music": 0.0
+    },
+    {
+      "from": 690.99,
+      "to": 691.65,
+      "sid": 306,
+      "location": 2,
+      "content": "素质",
+      "music": 0.0
+    },
+    {
+      "from": 691.65,
+      "to": 693.03,
+      "sid": 307,
+      "location": 2,
+      "content": "认知和立场",
+      "music": 0.0
+    },
+    {
+      "from": 693.03,
+      "to": 694.55,
+      "sid": 308,
+      "location": 2,
+      "content": "但这些是他的问题",
+      "music": 0.0
+    },
+    {
+      "from": 694.55,
+      "to": 695.55,
+      "sid": 309,
+      "location": 2,
+      "content": "和你无关",
+      "music": 0.0
+    },
+    {
+      "from": 695.55,
+      "to": 696.75,
+      "sid": 310,
+      "location": 2,
+      "content": "我是边大娘",
+      "music": 0.0
+    },
+    {
+      "from": 696.75,
+      "to": 698.65,
+      "sid": 311,
+      "location": 2,
+      "content": "只分享对生活有用的知识",
+      "music": 0.0
+    },
+    {
+      "from": 698.65,
+      "to": 699.57,
+      "sid": 312,
+      "location": 2,
+      "content": "感谢收听",
+      "music": 0.0
+    },
+    {
+      "from": 699.57,
+      "to": 700.62,
+      "sid": 313,
+      "location": 2,
+      "content": "下期再见",
+      "music": 0.0
+    }
+  ]
+}

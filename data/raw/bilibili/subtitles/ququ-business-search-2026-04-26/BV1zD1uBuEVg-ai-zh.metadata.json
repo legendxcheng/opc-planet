@@ -1,0 +1,22 @@
+{
+  "bvid": "BV1zD1uBuEVg",
+  "cid": 33570622322,
+  "title": "曲曲：赚钱靠什么？第一要素不是专业，而是不要脸。你能不要脸就能赚到别人赚不到的钱",
+  "owner_name": "曲之心大女人官方",
+  "status": "downloaded",
+  "reason": null,
+  "subtitle": {
+    "id": 1609536295862950656,
+    "lan": "ai-zh",
+    "lan_doc": "中文",
+    "is_lock": false,
+    "subtitle_url": "https://aisubtitle.hdslb.com/bfs/ai_subtitle/prod/1133787144572592648716407319c35bcd202cbf84b9a3d871093b6ca9",
+    "type": 1,
+    "id_str": "1609536295862950656",
+    "ai_type": 0,
+    "ai_status": 2
+  },
+  "raw_subtitle_path": "data\\raw\\bilibili\\subtitles\\ququ-business-search-2026-04-26\\BV1zD1uBuEVg-ai-zh.raw.json",
+  "text_path": "data\\raw\\bilibili\\subtitles\\ququ-business-search-2026-04-26\\BV1zD1uBuEVg-ai-zh.txt",
+  "metadata_path": "data\\raw\\bilibili\\subtitles\\ququ-business-search-2026-04-26\\BV1zD1uBuEVg-ai-zh.metadata.json"
+}

@@ -1,0 +1,1900 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.08,
+      "to": 2.68,
+      "sid": 1,
+      "location": 2,
+      "content": "上一条视频说我一个人运营了七个自媒体账号",
+      "music": 0.0
+    },
+    {
+      "from": 2.68,
+      "to": 3.84,
+      "sid": 2,
+      "location": 2,
+      "content": "一年发了1万多条帖子",
+      "music": 0.0
+    },
+    {
+      "from": 3.84,
+      "to": 4.84,
+      "sid": 3,
+      "location": 2,
+      "content": "然后这个评论区说啊",
+      "music": 0.0
+    },
+    {
+      "from": 4.84,
+      "to": 6.48,
+      "sid": 4,
+      "location": 2,
+      "content": "你这时间精力怎么可能顾得过来",
+      "music": 0.0
+    },
+    {
+      "from": 6.48,
+      "to": 8.04,
+      "sid": 5,
+      "location": 2,
+      "content": "那我今天这条视频给大家讲一下",
+      "music": 0.0
+    },
+    {
+      "from": 8.04,
+      "to": 11.8,
+      "sid": 6,
+      "location": 2,
+      "content": "我背后的这一整套多个AI角色和多个人类角色",
+      "music": 0.0
+    },
+    {
+      "from": 11.8,
+      "to": 14.96,
+      "sid": 7,
+      "location": 2,
+      "content": "一起去协作完成任务的框架和流程是什么样",
+      "music": 0.0
+    },
+    {
+      "from": 14.96,
+      "to": 16.2,
+      "sid": 8,
+      "location": 2,
+      "content": "我三到5分钟给大家捋清楚",
+      "music": 0.0
+    },
+    {
+      "from": 16.2,
+      "to": 17.16,
+      "sid": 9,
+      "location": 2,
+      "content": "很多人可能都知道",
+      "music": 0.0
+    },
+    {
+      "from": 17.16,
+      "to": 19.6,
+      "sid": 10,
+      "location": 2,
+      "content": "在我这个业务的绝大多数的时间里",
+      "music": 0.0
+    },
+    {
+      "from": 19.6,
+      "to": 20.52,
+      "sid": 11,
+      "location": 2,
+      "content": "全职的人类",
+      "music": 0.0
+    },
+    {
+      "from": 20.52,
+      "to": 21.24,
+      "sid": 12,
+      "location": 2,
+      "content": "包括我在内",
+      "music": 0.0
+    },
+    {
+      "from": 21.24,
+      "to": 22.24,
+      "sid": 13,
+      "location": 2,
+      "content": "总共就只有两个哦",
+      "music": 0.0
+    },
+    {
+      "from": 22.24,
+      "to": 24.06,
+      "sid": 14,
+      "location": 2,
+      "content": "偶尔帮忙的人可能是很多",
+      "music": 0.0
+    },
+    {
+      "from": 24.06,
+      "to": 25.78,
+      "sid": 15,
+      "location": 2,
+      "content": "这部分的话就不能算个数了对吧",
+      "music": 0.0
+    },
+    {
+      "from": 25.78,
+      "to": 28.62,
+      "sid": 16,
+      "location": 2,
+      "content": "因为agent是按绘画session一个一个去执行任务的",
+      "music": 0.0
+    },
+    {
+      "from": 28.62,
+      "to": 30.62,
+      "sid": 17,
+      "location": 2,
+      "content": "你把它当成人去统计个数没有意义",
+      "music": 0.0
+    },
+    {
+      "from": 30.62,
+      "to": 33.98,
+      "sid": 18,
+      "location": 2,
+      "content": "那么这个很小的组织可以释放出巨大生产力的",
+      "music": 0.0
+    },
+    {
+      "from": 33.98,
+      "to": 35.76,
+      "sid": 19,
+      "location": 2,
+      "content": "我觉得这个思维方式上的核心是",
+      "music": 0.0
+    },
+    {
+      "from": 35.76,
+      "to": 40.24,
+      "sid": 20,
+      "location": 2,
+      "content": "把人和AI当成是平等的独立角色个体去对待",
+      "music": 0.0
+    },
+    {
+      "from": 40.24,
+      "to": 43.46,
+      "sid": 21,
+      "location": 2,
+      "content": "而不仅仅是认为说AI就是人类的工具啊",
+      "music": 0.0
+    },
+    {
+      "from": 43.46,
+      "to": 44.42,
+      "sid": 22,
+      "location": 2,
+      "content": "虽然说AI在这里",
+      "music": 0.0
+    },
+    {
+      "from": 44.42,
+      "to": 45.7,
+      "sid": 23,
+      "location": 2,
+      "content": "它的确就是我干活的工具",
+      "music": 0.0
+    },
+    {
+      "from": 45.7,
+      "to": 46.82,
+      "sid": 24,
+      "location": 2,
+      "content": "但是在思维方式上",
+      "music": 0.0
+    },
+    {
+      "from": 46.82,
+      "to": 48.94,
+      "sid": 25,
+      "location": 2,
+      "content": "你仅仅是把它当成是人类的",
+      "music": 0.0
+    },
+    {
+      "from": 48.94,
+      "to": 51.12,
+      "sid": 26,
+      "location": 2,
+      "content": "这个锤子和扳手一样的工具",
+      "music": 0.0
+    },
+    {
+      "from": 51.12,
+      "to": 54.12,
+      "sid": 27,
+      "location": 2,
+      "content": "以及对比说你把它们当成是平等的个体",
+      "music": 0.0
+    },
+    {
+      "from": 54.12,
+      "to": 57.76,
+      "sid": 28,
+      "location": 2,
+      "content": "这对应着不同的组织架构和协作流程方法",
+      "music": 0.0
+    },
+    {
+      "from": 57.76,
+      "to": 59.68,
+      "sid": 29,
+      "location": 2,
+      "content": "那也就对应着不同的生产力层级",
+      "music": 0.0
+    },
+    {
+      "from": 59.68,
+      "to": 60.82,
+      "sid": 30,
+      "location": 2,
+      "content": "那具体怎么实现",
+      "music": 0.0
+    },
+    {
+      "from": 60.82,
+      "to": 62.9,
+      "sid": 31,
+      "location": 2,
+      "content": "比如说如果你用过agent的话",
+      "music": 0.0
+    },
+    {
+      "from": 62.9,
+      "to": 65.02,
+      "sid": 32,
+      "location": 2,
+      "content": "哪怕就只是最近最火的这个小龙虾",
+      "music": 0.0
+    },
+    {
+      "from": 65.02,
+      "to": 65.58,
+      "sid": 33,
+      "location": 2,
+      "content": "Open cloud",
+      "music": 0.0
+    },
+    {
+      "from": 65.58,
+      "to": 67.58,
+      "sid": 34,
+      "location": 2,
+      "content": "你会知道它有一个核心功能叫skill",
+      "music": 0.0
+    },
+    {
+      "from": 67.58,
+      "to": 69.06,
+      "sid": 35,
+      "location": 2,
+      "content": "翻译成中文叫技能对吧",
+      "music": 0.0
+    },
+    {
+      "from": 69.06,
+      "to": 71.62,
+      "sid": 36,
+      "location": 2,
+      "content": "比如说我给他发一个指令叫斜杠PPT",
+      "music": 0.0
+    },
+    {
+      "from": 71.62,
+      "to": 73.58,
+      "sid": 37,
+      "location": 2,
+      "content": "哎他可能就调用它做PPT的技能",
+      "music": 0.0
+    },
+    {
+      "from": 73.58,
+      "to": 74.74,
+      "sid": 38,
+      "location": 2,
+      "content": "把这个PPT给做完了",
+      "music": 0.0
+    },
+    {
+      "from": 74.74,
+      "to": 75.9,
+      "sid": 39,
+      "location": 2,
+      "content": "在最前单的场景下",
+      "music": 0.0
+    },
+    {
+      "from": 75.9,
+      "to": 76.74,
+      "sid": 40,
+      "location": 2,
+      "content": "这样的确是可以的",
+      "music": 0.0
+    },
+    {
+      "from": 76.74,
+      "to": 79.38,
+      "sid": 41,
+      "location": 2,
+      "content": "但是如果你想实现大规模的真正的协作的话",
+      "music": 0.0
+    },
+    {
+      "from": 79.38,
+      "to": 81.86,
+      "sid": 42,
+      "location": 2,
+      "content": "你会发现这件事情越来越像是你给AI打",
+      "music": 0.0
+    },
+    {
+      "from": 81.86,
+      "to": 83.22,
+      "sid": 43,
+      "location": 2,
+      "content": "比如说我调用一个技能",
+      "music": 0.0
+    },
+    {
+      "from": 83.22,
+      "to": 83.78,
+      "sid": 44,
+      "location": 2,
+      "content": "一个词skill",
+      "music": 0.0
+    },
+    {
+      "from": 83.78,
+      "to": 85.62,
+      "sid": 45,
+      "location": 2,
+      "content": "让AI足够做PPT做到一半",
+      "music": 0.0
+    },
+    {
+      "from": 85.62,
+      "to": 86.82,
+      "sid": 46,
+      "location": 2,
+      "content": "跟我说他缺资料了好",
+      "music": 0.0
+    },
+    {
+      "from": 86.82,
+      "to": 89.56,
+      "sid": 47,
+      "location": 2,
+      "content": "我让某一个人类的同事帮我搞到一堆资料",
+      "music": 0.0
+    },
+    {
+      "from": 89.56,
+      "to": 90.3,
+      "sid": 48,
+      "location": 2,
+      "content": "我再发给你",
+      "music": 0.0
+    },
+    {
+      "from": 90.3,
+      "to": 90.96,
+      "sid": 49,
+      "location": 2,
+      "content": "就做到一半",
+      "music": 0.0
+    },
+    {
+      "from": 90.96,
+      "to": 91.2,
+      "sid": 50,
+      "location": 2,
+      "content": "跟我说",
+      "music": 0.0
+    },
+    {
+      "from": 91.2,
+      "to": 91.8,
+      "sid": 51,
+      "location": 2,
+      "content": "你缺张图",
+      "music": 0.0
+    },
+    {
+      "from": 91.8,
+      "to": 94.04,
+      "sid": 52,
+      "location": 2,
+      "content": "这个图呢你你原有的这个sq搞不定",
+      "music": 0.0
+    },
+    {
+      "from": 94.04,
+      "to": 96.36,
+      "sid": 53,
+      "location": 2,
+      "content": "我又找另外一个AI产品去搞一张图",
+      "music": 0.0
+    },
+    {
+      "from": 96.36,
+      "to": 97.24,
+      "sid": 54,
+      "location": 2,
+      "content": "我又把这个图发给你",
+      "music": 0.0
+    },
+    {
+      "from": 97.24,
+      "to": 97.76,
+      "sid": 55,
+      "location": 2,
+      "content": "所以你就会发现",
+      "music": 0.0
+    },
+    {
+      "from": 97.76,
+      "to": 99.48,
+      "sid": 56,
+      "location": 2,
+      "content": "这个人是不断在给这个AI打杂的",
+      "music": 0.0
+    },
+    {
+      "from": 99.48,
+      "to": 102.52,
+      "sid": 57,
+      "location": 2,
+      "content": "而问题是出现在用于完成这个任务的",
+      "music": 0.0
+    },
+    {
+      "from": 102.52,
+      "to": 104.86,
+      "sid": 58,
+      "location": 2,
+      "content": "两个人类角色和两个agent的角色",
+      "music": 0.0
+    },
+    {
+      "from": 104.86,
+      "to": 106.84,
+      "sid": 59,
+      "location": 2,
+      "content": "他们没有被汇集到一个系统里",
+      "music": 0.0
+    },
+    {
+      "from": 106.84,
+      "to": 109.56,
+      "sid": 60,
+      "location": 2,
+      "content": "而要解决这个问题其实非常简单",
+      "music": 0.0
+    },
+    {
+      "from": 109.56,
+      "to": 110.8,
+      "sid": 61,
+      "location": 2,
+      "content": "你就记住一个效率原则",
+      "music": 0.0
+    },
+    {
+      "from": 110.8,
+      "to": 111.12,
+      "sid": 62,
+      "location": 2,
+      "content": "叫做",
+      "music": 0.0
+    },
+    {
+      "from": 111.12,
+      "to": 114.36,
+      "sid": 63,
+      "location": 2,
+      "content": "我们永远坚持让合适的角色去干合适的事情",
+      "music": 0.0
+    },
+    {
+      "from": 114.36,
+      "to": 115.26,
+      "sid": 64,
+      "location": 2,
+      "content": "而这就意味着",
+      "music": 0.0
+    },
+    {
+      "from": 115.26,
+      "to": 117.24,
+      "sid": 65,
+      "location": 2,
+      "content": "不仅仅是人可以调用AIAI",
+      "music": 0.0
+    },
+    {
+      "from": 117.24,
+      "to": 118.36,
+      "sid": 66,
+      "location": 2,
+      "content": "也可以反过来调用人",
+      "music": 0.0
+    },
+    {
+      "from": 118.36,
+      "to": 121.08,
+      "sid": 67,
+      "location": 2,
+      "content": "以及不仅仅是上级才能调用下级",
+      "music": 0.0
+    },
+    {
+      "from": 121.08,
+      "to": 123.42,
+      "sid": 68,
+      "location": 2,
+      "content": "如果这件事情适合上级去做的话",
+      "music": 0.0
+    },
+    {
+      "from": 123.42,
+      "to": 124.92,
+      "sid": 69,
+      "location": 2,
+      "content": "下级也可以反过来调用上级",
+      "music": 0.0
+    },
+    {
+      "from": 124.92,
+      "to": 126.96,
+      "sid": 70,
+      "location": 2,
+      "content": "那么一个比较好的协作流程",
+      "music": 0.0
+    },
+    {
+      "from": 126.96,
+      "to": 128.48,
+      "sid": 71,
+      "location": 2,
+      "content": "可能是这不是虚构出来的案例啊",
+      "music": 0.0
+    },
+    {
+      "from": 128.48,
+      "to": 130.16,
+      "sid": 72,
+      "location": 2,
+      "content": "这是一个真实的cloud code工程",
+      "music": 0.0
+    },
+    {
+      "from": 130.16,
+      "to": 131.16,
+      "sid": 73,
+      "location": 2,
+      "content": "它是真实可以用的",
+      "music": 0.0
+    },
+    {
+      "from": 131.16,
+      "to": 132.32,
+      "sid": 74,
+      "location": 2,
+      "content": "比较好的协作流程是",
+      "music": 0.0
+    },
+    {
+      "from": 132.32,
+      "to": 134.6,
+      "sid": 75,
+      "location": 2,
+      "content": "可能是我委派AI去做一个PPT",
+      "music": 0.0
+    },
+    {
+      "from": 134.6,
+      "to": 137.22,
+      "sid": 76,
+      "location": 2,
+      "content": "他发现自己缺文档或者缺图片了",
+      "music": 0.0
+    },
+    {
+      "from": 137.22,
+      "to": 140.34,
+      "sid": 77,
+      "location": 2,
+      "content": "他调用其他人类或者AI的这个技能",
+      "music": 0.0
+    },
+    {
+      "from": 140.34,
+      "to": 141.46,
+      "sid": 78,
+      "location": 2,
+      "content": "他去这个角色名单里",
+      "music": 0.0
+    },
+    {
+      "from": 141.46,
+      "to": 144.42,
+      "sid": 79,
+      "location": 2,
+      "content": "找到适合干这件事情的角色去完成这件事情",
+      "music": 0.0
+    },
+    {
+      "from": 144.42,
+      "to": 145.02,
+      "sid": 80,
+      "location": 2,
+      "content": "完成了之后",
+      "music": 0.0
+    },
+    {
+      "from": 145.02,
+      "to": 146.28,
+      "sid": 81,
+      "location": 2,
+      "content": "他接着去做这个PPT",
+      "music": 0.0
+    },
+    {
+      "from": 146.28,
+      "to": 148.22,
+      "sid": 82,
+      "location": 2,
+      "content": "所以在整个调用链路当中",
+      "music": 0.0
+    },
+    {
+      "from": 148.22,
+      "to": 149.74,
+      "sid": 83,
+      "location": 2,
+      "content": "有可能是人调用AI",
+      "music": 0.0
+    },
+    {
+      "from": 149.74,
+      "to": 151.14,
+      "sid": 84,
+      "location": 2,
+      "content": "也有可能是AI调用人",
+      "music": 0.0
+    },
+    {
+      "from": 151.14,
+      "to": 152.72,
+      "sid": 85,
+      "location": 2,
+      "content": "也有可能是A调用AI",
+      "music": 0.0
+    },
+    {
+      "from": 152.72,
+      "to": 153.92,
+      "sid": 86,
+      "location": 2,
+      "content": "那具体怎么实现这个事情",
+      "music": 0.0
+    },
+    {
+      "from": 153.92,
+      "to": 156.08,
+      "sid": 87,
+      "location": 2,
+      "content": "首先无论你是用cloud code还是open cloud",
+      "music": 0.0
+    },
+    {
+      "from": 156.08,
+      "to": 157.04,
+      "sid": 88,
+      "location": 2,
+      "content": "还是其他的agent的",
+      "music": 0.0
+    },
+    {
+      "from": 157.04,
+      "to": 158.82,
+      "sid": 89,
+      "location": 2,
+      "content": "你的工作目录里面文件吧",
+      "music": 0.0
+    },
+    {
+      "from": 158.82,
+      "to": 161.1,
+      "sid": 90,
+      "location": 2,
+      "content": "我们先维护一个叫做进行中的任务的",
+      "music": 0.0
+    },
+    {
+      "from": 161.1,
+      "to": 161.74,
+      "sid": 91,
+      "location": 2,
+      "content": "这样一个文档",
+      "music": 0.0
+    },
+    {
+      "from": 161.74,
+      "to": 163.58,
+      "sid": 92,
+      "location": 2,
+      "content": "我们先假设这个小规模团队协作",
+      "music": 0.0
+    },
+    {
+      "from": 163.58,
+      "to": 165.24,
+      "sid": 93,
+      "location": 2,
+      "content": "不考虑这个隐私保密的事情啊",
+      "music": 0.0
+    },
+    {
+      "from": 165.24,
+      "to": 167.0,
+      "sid": 94,
+      "location": 2,
+      "content": "这个文档对于团队内的",
+      "music": 0.0
+    },
+    {
+      "from": 167.0,
+      "to": 169.32,
+      "sid": 95,
+      "location": 2,
+      "content": "所有的人类和AI角色全部可见",
+      "music": 0.0
+    },
+    {
+      "from": 169.32,
+      "to": 170.42,
+      "sid": 96,
+      "location": 2,
+      "content": "那么在这个文档里面",
+      "music": 0.0
+    },
+    {
+      "from": 170.42,
+      "to": 172.18,
+      "sid": 97,
+      "location": 2,
+      "content": "每个任务对应了一个任务卡片",
+      "music": 0.0
+    },
+    {
+      "from": 172.18,
+      "to": 173.26,
+      "sid": 98,
+      "location": 2,
+      "content": "在最少的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 173.26,
+      "to": 175.62,
+      "sid": 99,
+      "location": 2,
+      "content": "这个任务卡片里面只需要有两个信息就可以了",
+      "music": 0.0
+    },
+    {
+      "from": 175.62,
+      "to": 176.54,
+      "sid": 100,
+      "location": 2,
+      "content": "第一个是任务的描述",
+      "music": 0.0
+    },
+    {
+      "from": 176.54,
+      "to": 177.9,
+      "sid": 101,
+      "location": 2,
+      "content": "就是我们到底要干一个什么事情",
+      "music": 0.0
+    },
+    {
+      "from": 177.9,
+      "to": 180.54,
+      "sid": 102,
+      "location": 2,
+      "content": "第二个是衡量这个任务可以被标记为",
+      "music": 0.0
+    },
+    {
+      "from": 180.54,
+      "to": 181.64,
+      "sid": 103,
+      "location": 2,
+      "content": "完成的标准是什么",
+      "music": 0.0
+    },
+    {
+      "from": 181.64,
+      "to": 183.04,
+      "sid": 104,
+      "location": 2,
+      "content": "实际上在最简单的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 183.04,
+      "to": 184.52,
+      "sid": 105,
+      "location": 2,
+      "content": "你只需要这么一个文件",
+      "music": 0.0
+    },
+    {
+      "from": 184.52,
+      "to": 185.6,
+      "sid": 106,
+      "location": 2,
+      "content": "就已经实现了",
+      "music": 0.0
+    },
+    {
+      "from": 185.6,
+      "to": 187.2,
+      "sid": 107,
+      "location": 2,
+      "content": "多个人类和多个AIA",
+      "music": 0.0
+    },
+    {
+      "from": 187.2,
+      "to": 188.8,
+      "sid": 108,
+      "location": 2,
+      "content": "真的一起去合作的一个沟通基础",
+      "music": 0.0
+    },
+    {
+      "from": 188.8,
+      "to": 189.92,
+      "sid": 109,
+      "location": 2,
+      "content": "那么当我的任务列表里面",
+      "music": 0.0
+    },
+    {
+      "from": 189.92,
+      "to": 190.84,
+      "sid": 110,
+      "location": 2,
+      "content": "出现了一个任务的时候",
+      "music": 0.0
+    },
+    {
+      "from": 190.84,
+      "to": 192.04,
+      "sid": 111,
+      "location": 2,
+      "content": "我可以去角色名单里面",
+      "music": 0.0
+    },
+    {
+      "from": 192.04,
+      "to": 194.44,
+      "sid": 112,
+      "location": 2,
+      "content": "看一下谁最适合去执行这个任务",
+      "music": 0.0
+    },
+    {
+      "from": 194.44,
+      "to": 196.56,
+      "sid": 113,
+      "location": 2,
+      "content": "我直接去调用那个角色的sq",
+      "music": 0.0
+    },
+    {
+      "from": 196.56,
+      "to": 197.96,
+      "sid": 114,
+      "location": 2,
+      "content": "不管他是一个人类还是一个AI",
+      "music": 0.0
+    },
+    {
+      "from": 197.96,
+      "to": 198.8,
+      "sid": 115,
+      "location": 2,
+      "content": "然后让他去执行",
+      "music": 0.0
+    },
+    {
+      "from": 198.8,
+      "to": 200.32,
+      "sid": 116,
+      "location": 2,
+      "content": "他执行会出现这种情况对吧",
+      "music": 0.0
+    },
+    {
+      "from": 200.32,
+      "to": 201.86,
+      "sid": 117,
+      "location": 2,
+      "content": "第一种情况你直接完成了",
+      "music": 0.0
+    },
+    {
+      "from": 201.86,
+      "to": 203.46,
+      "sid": 118,
+      "location": 2,
+      "content": "第二种情况你完不成",
+      "music": 0.0
+    },
+    {
+      "from": 203.46,
+      "to": 206.86,
+      "sid": 119,
+      "location": 2,
+      "content": "但是你发现角色名单里面有其他的角色",
+      "music": 0.0
+    },
+    {
+      "from": 206.86,
+      "to": 208.28,
+      "sid": 120,
+      "location": 2,
+      "content": "可以接着你去完成这个任",
+      "music": 0.0
+    },
+    {
+      "from": 208.28,
+      "to": 210.0,
+      "sid": 121,
+      "location": 2,
+      "content": "你去调用那个角色的sq",
+      "music": 0.0
+    },
+    {
+      "from": 210.0,
+      "to": 210.88,
+      "sid": 122,
+      "location": 2,
+      "content": "接着去练式调用",
+      "music": 0.0
+    },
+    {
+      "from": 210.88,
+      "to": 212.72,
+      "sid": 123,
+      "location": 2,
+      "content": "当然也有可能不管调用谁",
+      "music": 0.0
+    },
+    {
+      "from": 212.72,
+      "to": 213.72,
+      "sid": 124,
+      "location": 2,
+      "content": "这个任务都解决不了",
+      "music": 0.0
+    },
+    {
+      "from": 213.72,
+      "to": 216.22,
+      "sid": 125,
+      "location": 2,
+      "content": "又或者说每次掉着掉着就掉到我头上来了",
+      "music": 0.0
+    },
+    {
+      "from": 216.22,
+      "to": 217.82,
+      "sid": 126,
+      "location": 2,
+      "content": "所有的任务由我来兜底对吧",
+      "music": 0.0
+    },
+    {
+      "from": 217.82,
+      "to": 218.86,
+      "sid": 127,
+      "location": 2,
+      "content": "那这种情况怎么解决",
+      "music": 0.0
+    },
+    {
+      "from": 218.86,
+      "to": 219.58,
+      "sid": 128,
+      "location": 2,
+      "content": "我们待会再说",
+      "music": 0.0
+    },
+    {
+      "from": 219.58,
+      "to": 222.0,
+      "sid": 129,
+      "location": 2,
+      "content": "那甲假如说这样的团队成员之间互相调用",
+      "music": 0.0
+    },
+    {
+      "from": 222.0,
+      "to": 223.08,
+      "sid": 130,
+      "location": 2,
+      "content": "完成了这个任务的话",
+      "music": 0.0
+    },
+    {
+      "from": 223.08,
+      "to": 224.44,
+      "sid": 131,
+      "location": 2,
+      "content": "我们会把这些任务信息",
+      "music": 0.0
+    },
+    {
+      "from": 224.44,
+      "to": 226.72,
+      "sid": 132,
+      "location": 2,
+      "content": "统计在一个已完成任务的一个文档里的",
+      "music": 0.0
+    },
+    {
+      "from": 226.72,
+      "to": 227.76,
+      "sid": 133,
+      "location": 2,
+      "content": "这个文档有什么用",
+      "music": 0.0
+    },
+    {
+      "from": 227.76,
+      "to": 229.84,
+      "sid": 134,
+      "location": 2,
+      "content": "我们会在整个cloud code工程里面",
+      "music": 0.0
+    },
+    {
+      "from": 229.84,
+      "to": 232.64,
+      "sid": 135,
+      "location": 2,
+      "content": "调用一个叫做更新成员能力的这么一个技能",
+      "music": 0.0
+    },
+    {
+      "from": 232.64,
+      "to": 234.44,
+      "sid": 136,
+      "location": 2,
+      "content": "让AI去识别这些信息",
+      "music": 0.0
+    },
+    {
+      "from": 234.44,
+      "to": 236.78,
+      "sid": 137,
+      "location": 2,
+      "content": "从而更好的去更新这个角色名单",
+      "music": 0.0
+    },
+    {
+      "from": 236.78,
+      "to": 238.48,
+      "sid": 138,
+      "location": 2,
+      "content": "去标祝每一个角色",
+      "music": 0.0
+    },
+    {
+      "from": 238.48,
+      "to": 239.88,
+      "sid": 139,
+      "location": 2,
+      "content": "在这个任务里面的贡献是什么",
+      "music": 0.0
+    },
+    {
+      "from": 239.88,
+      "to": 240.88,
+      "sid": 140,
+      "location": 2,
+      "content": "他们擅长的是什么",
+      "music": 0.0
+    },
+    {
+      "from": 240.88,
+      "to": 243.04,
+      "sid": 141,
+      "location": 2,
+      "content": "这样下次我们去委派任务的时候",
+      "music": 0.0
+    },
+    {
+      "from": 243.04,
+      "to": 245.78,
+      "sid": 142,
+      "location": 2,
+      "content": "就可以根据这个文档去实现更精准的委派",
+      "music": 0.0
+    },
+    {
+      "from": 245.78,
+      "to": 247.06,
+      "sid": 143,
+      "location": 2,
+      "content": "所以依然是我们说的效率原则",
+      "music": 0.0
+    },
+    {
+      "from": 247.06,
+      "to": 249.26,
+      "sid": 144,
+      "location": 2,
+      "content": "叫做让合适的决策去干合适的事情",
+      "music": 0.0
+    },
+    {
+      "from": 249.26,
+      "to": 249.74,
+      "sid": 145,
+      "location": 2,
+      "content": "那说到这",
+      "music": 0.0
+    },
+    {
+      "from": 249.74,
+      "to": 251.26,
+      "sid": 146,
+      "location": 2,
+      "content": "我知道很多人可能会有很多质疑啊",
+      "music": 0.0
+    },
+    {
+      "from": 251.26,
+      "to": 253.12,
+      "sid": 147,
+      "location": 2,
+      "content": "比如说第一个这个事儿干砸了",
+      "music": 0.0
+    },
+    {
+      "from": 253.12,
+      "to": 253.76,
+      "sid": 148,
+      "location": 2,
+      "content": "谁来负责",
+      "music": 0.0
+    },
+    {
+      "from": 253.76,
+      "to": 254.36,
+      "sid": 149,
+      "location": 2,
+      "content": "谁来背锅",
+      "music": 0.0
+    },
+    {
+      "from": 254.36,
+      "to": 255.2,
+      "sid": 150,
+      "location": 2,
+      "content": "如果是人类的话",
+      "music": 0.0
+    },
+    {
+      "from": 255.2,
+      "to": 256.58,
+      "sid": 151,
+      "location": 2,
+      "content": "我可以跟你砍工资",
+      "music": 0.0
+    },
+    {
+      "from": 256.58,
+      "to": 257.3,
+      "sid": 152,
+      "location": 2,
+      "content": "可以给你降职",
+      "music": 0.0
+    },
+    {
+      "from": 257.3,
+      "to": 258.18,
+      "sid": 153,
+      "location": 2,
+      "content": "那如果是AI的话",
+      "music": 0.0
+    },
+    {
+      "from": 258.18,
+      "to": 259.02,
+      "sid": 154,
+      "location": 2,
+      "content": "我怎么惩罚你呢",
+      "music": 0.0
+    },
+    {
+      "from": 259.02,
+      "to": 260.54,
+      "sid": 155,
+      "location": 2,
+      "content": "那如果你真的试过这个流程的话",
+      "music": 0.0
+    },
+    {
+      "from": 260.54,
+      "to": 262.68,
+      "sid": 156,
+      "location": 2,
+      "content": "你会发现AI相比人其实是有优势的",
+      "music": 0.0
+    },
+    {
+      "from": 262.68,
+      "to": 264.48,
+      "sid": 157,
+      "location": 2,
+      "content": "因为惩罚人类不是目的",
+      "music": 0.0
+    },
+    {
+      "from": 264.48,
+      "to": 266.84,
+      "sid": 158,
+      "location": 2,
+      "content": "惩罚团队成员对团队是没有好处的",
+      "music": 0.0
+    },
+    {
+      "from": 266.84,
+      "to": 268.36,
+      "sid": 159,
+      "location": 2,
+      "content": "我们想要的不是惩罚一个人",
+      "music": 0.0
+    },
+    {
+      "from": 268.36,
+      "to": 269.36,
+      "sid": 160,
+      "location": 2,
+      "content": "是让他的能力变强",
+      "music": 0.0
+    },
+    {
+      "from": 269.36,
+      "to": 270.28,
+      "sid": 161,
+      "location": 2,
+      "content": "下次不犯这个错误",
+      "music": 0.0
+    },
+    {
+      "from": 270.28,
+      "to": 271.98,
+      "sid": 162,
+      "location": 2,
+      "content": "但是你面对一个活生生的人的时候",
+      "music": 0.0
+    },
+    {
+      "from": 271.98,
+      "to": 272.94,
+      "sid": 163,
+      "location": 2,
+      "content": "不是你骂他",
+      "music": 0.0
+    },
+    {
+      "from": 272.94,
+      "to": 273.7,
+      "sid": 164,
+      "location": 2,
+      "content": "给他涨工资",
+      "music": 0.0
+    },
+    {
+      "from": 273.7,
+      "to": 274.86,
+      "sid": 165,
+      "location": 2,
+      "content": "他的能力就瞬间变强了",
+      "music": 0.0
+    },
+    {
+      "from": 274.86,
+      "to": 275.86,
+      "sid": 166,
+      "location": 2,
+      "content": "但是AI不一样",
+      "music": 0.0
+    },
+    {
+      "from": 275.86,
+      "to": 277.68,
+      "sid": 167,
+      "location": 2,
+      "content": "agent的系统提示词是可以重写的",
+      "music": 0.0
+    },
+    {
+      "from": 277.68,
+      "to": 279.54,
+      "sid": 168,
+      "location": 2,
+      "content": "他的技能其实也是一段提示词",
+      "music": 0.0
+    },
+    {
+      "from": 279.54,
+      "to": 281.18,
+      "sid": 169,
+      "location": 2,
+      "content": "那个提示词也是可以改良的",
+      "music": 0.0
+    },
+    {
+      "from": 281.18,
+      "to": 284.5,
+      "sid": 170,
+      "location": 2,
+      "content": "所以agent才是那个真正可以瞬间提升能力的角色",
+      "music": 0.0
+    },
+    {
+      "from": 284.5,
+      "to": 285.98,
+      "sid": 171,
+      "location": 2,
+      "content": "第二个问题是可能会有人问说啊",
+      "music": 0.0
+    },
+    {
+      "from": 285.98,
+      "to": 287.38,
+      "sid": 172,
+      "location": 2,
+      "content": "你说这个人调用AI",
+      "music": 0.0
+    },
+    {
+      "from": 287.38,
+      "to": 287.94,
+      "sid": 173,
+      "location": 2,
+      "content": "我可以理解",
+      "music": 0.0
+    },
+    {
+      "from": 287.94,
+      "to": 289.7,
+      "sid": 174,
+      "location": 2,
+      "content": "比如说我给这个小龙虾或者什么的",
+      "music": 0.0
+    },
+    {
+      "from": 289.7,
+      "to": 290.18,
+      "sid": 175,
+      "location": 2,
+      "content": "Cloud code",
+      "music": 0.0
+    },
+    {
+      "from": 290.18,
+      "to": 291.06,
+      "sid": 176,
+      "location": 2,
+      "content": "在分数上发条消息",
+      "music": 0.0
+    },
+    {
+      "from": 291.06,
+      "to": 291.88,
+      "sid": 177,
+      "location": 2,
+      "content": "他就把活干了",
+      "music": 0.0
+    },
+    {
+      "from": 291.88,
+      "to": 293.18,
+      "sid": 178,
+      "location": 2,
+      "content": "那AI调用人怎么办呢",
+      "music": 0.0
+    },
+    {
+      "from": 293.18,
+      "to": 294.7,
+      "sid": 179,
+      "location": 2,
+      "content": "我说你可能真的想复杂了",
+      "music": 0.0
+    },
+    {
+      "from": 294.7,
+      "to": 295.94,
+      "sid": 180,
+      "location": 2,
+      "content": "有技术条件的话",
+      "music": 0.0
+    },
+    {
+      "from": 295.94,
+      "to": 297.26,
+      "sid": 181,
+      "location": 2,
+      "content": "你可以在人被调用的时候",
+      "music": 0.0
+    },
+    {
+      "from": 297.26,
+      "to": 299.18,
+      "sid": 182,
+      "location": 2,
+      "content": "给他的手机微信还是飞出什么发条消息",
+      "music": 0.0
+    },
+    {
+      "from": 299.18,
+      "to": 300.3,
+      "sid": 183,
+      "location": 2,
+      "content": "没有技术条件的话",
+      "music": 0.0
+    },
+    {
+      "from": 300.3,
+      "to": 302.2,
+      "sid": 184,
+      "location": 2,
+      "content": "你就让这个人每隔半个小时",
+      "music": 0.0
+    },
+    {
+      "from": 302.2,
+      "to": 304.4,
+      "sid": 185,
+      "location": 2,
+      "content": "或者每隔一两个小时看一下文档就可以了",
+      "music": 0.0
+    },
+    {
+      "from": 304.4,
+      "to": 306.48,
+      "sid": 186,
+      "location": 2,
+      "content": "只要这个文档上有任务指派给你",
+      "music": 0.0
+    },
+    {
+      "from": 306.48,
+      "to": 307.04,
+      "sid": 187,
+      "location": 2,
+      "content": "你就得干",
+      "music": 0.0
+    },
+    {
+      "from": 307.04,
+      "to": 309.74,
+      "sid": 188,
+      "location": 2,
+      "content": "你甚至都不一定知道这个任务是还是人",
+      "music": 0.0
+    },
+    {
+      "from": 309.74,
+      "to": 310.3,
+      "sid": 189,
+      "location": 2,
+      "content": "指派给你的",
+      "music": 0.0
+    },
+    {
+      "from": 310.3,
+      "to": 311.1,
+      "sid": 190,
+      "location": 2,
+      "content": "那没有区别",
+      "music": 0.0
+    },
+    {
+      "from": 311.1,
+      "to": 312.38,
+      "sid": 191,
+      "location": 2,
+      "content": "我们的工作流程就是这样",
+      "music": 0.0
+    },
+    {
+      "from": 312.38,
+      "to": 313.1,
+      "sid": 192,
+      "location": 2,
+      "content": "这就完事了",
+      "music": 0.0
+    },
+    {
+      "from": 313.1,
+      "to": 313.9,
+      "sid": 193,
+      "location": 2,
+      "content": "所以说到这",
+      "music": 0.0
+    },
+    {
+      "from": 313.9,
+      "to": 316.9,
+      "sid": 194,
+      "location": 2,
+      "content": "你可能会发现我它整个业务能产生多大的价值",
+      "music": 0.0
+    },
+    {
+      "from": 316.9,
+      "to": 320.42,
+      "sid": 195,
+      "location": 2,
+      "content": "其实取决于这个角色名单里面有多么丰富的",
+      "music": 0.0
+    },
+    {
+      "from": 320.42,
+      "to": 321.98,
+      "sid": 196,
+      "location": 2,
+      "content": "人类或者是AI的角色",
+      "music": 0.0
+    },
+    {
+      "from": 321.98,
+      "to": 324.42,
+      "sid": 197,
+      "location": 2,
+      "content": "这些角色加在一起的能力的总和",
+      "music": 0.0
+    },
+    {
+      "from": 324.42,
+      "to": 326.2,
+      "sid": 198,
+      "location": 2,
+      "content": "就是我的公司的能力的总和",
+      "music": 0.0
+    },
+    {
+      "from": 326.2,
+      "to": 328.32,
+      "sid": 199,
+      "location": 2,
+      "content": "而这就应了我之前拿钱创业的时候",
+      "music": 0.0
+    },
+    {
+      "from": 328.32,
+      "to": 329.72,
+      "sid": 200,
+      "location": 2,
+      "content": "反复听投资人说的那句话",
+      "music": 0.0
+    },
+    {
+      "from": 329.72,
+      "to": 333.18,
+      "sid": 201,
+      "location": 2,
+      "content": "说创业公司的CEO的核心任务其实是招人",
+      "music": 0.0
+    },
+    {
+      "from": 333.18,
+      "to": 334.74,
+      "sid": 202,
+      "location": 2,
+      "content": "所以放到现在这个环境里呢",
+      "music": 0.0
+    },
+    {
+      "from": 334.74,
+      "to": 336.02,
+      "sid": 203,
+      "location": 2,
+      "content": "你还得去判断一下",
+      "music": 0.0
+    },
+    {
+      "from": 336.02,
+      "to": 337.54,
+      "sid": 204,
+      "location": 2,
+      "content": "你应该去招一个AI",
+      "music": 0.0
+    },
+    {
+      "from": 337.54,
+      "to": 339.76,
+      "sid": 205,
+      "location": 2,
+      "content": "还是去招一个人类放到我身上的实际情况",
+      "music": 0.0
+    },
+    {
+      "from": 339.76,
+      "to": 342.8,
+      "sid": 206,
+      "location": 2,
+      "content": "就是我花了大量的时间去了解不同的AI产品",
+      "music": 0.0
+    },
+    {
+      "from": 342.8,
+      "to": 344.86,
+      "sid": 207,
+      "location": 2,
+      "content": "不同的AI工具的实现原理和他们的边界",
+      "music": 0.0
+    },
+    {
+      "from": 344.86,
+      "to": 347.88,
+      "sid": 208,
+      "location": 2,
+      "content": "所以如果这个事情雇一个agent就可以解决了",
+      "music": 0.0
+    },
+    {
+      "from": 347.88,
+      "to": 348.94,
+      "sid": 209,
+      "location": 2,
+      "content": "那我就把这个事给干了",
+      "music": 0.0
+    },
+    {
+      "from": 348.94,
+      "to": 350.92,
+      "sid": 210,
+      "location": 2,
+      "content": "但是如果顾agent它解决不了",
+      "music": 0.0
+    },
+    {
+      "from": 350.92,
+      "to": 352.76,
+      "sid": 211,
+      "location": 2,
+      "content": "我还偶尔需要一个hr配合",
+      "music": 0.0
+    },
+    {
+      "from": 352.76,
+      "to": 354.4,
+      "sid": 212,
+      "location": 2,
+      "content": "我让他去和人类打交道",
+      "music": 0.0
+    },
+    {
+      "from": 354.4,
+      "to": 357.46,
+      "sid": 213,
+      "location": 2,
+      "content": "所以我们两个配合到一起的作用就是",
+      "music": 0.0
+    },
+    {
+      "from": 357.46,
+      "to": 358.82,
+      "sid": 214,
+      "location": 2,
+      "content": "丰富我们的决策名单",
+      "music": 0.0
+    },
+    {
+      "from": 358.82,
+      "to": 361.14,
+      "sid": 215,
+      "location": 2,
+      "content": "如果我有一个任务放在这里解决不了",
+      "music": 0.0
+    },
+    {
+      "from": 361.14,
+      "to": 363.74,
+      "sid": 216,
+      "location": 2,
+      "content": "说明所有的角色加在一起都不够强",
+      "music": 0.0
+    },
+    {
+      "from": 363.74,
+      "to": 367.06,
+      "sid": 217,
+      "location": 2,
+      "content": "我们就一起去让这个角色的总能力增强",
+      "music": 0.0
+    },
+    {
+      "from": 367.06,
+      "to": 368.62,
+      "sid": 218,
+      "location": 2,
+      "content": "直到这个任务解决为止",
+      "music": 0.0
+    },
+    {
+      "from": 368.62,
+      "to": 370.26,
+      "sid": 219,
+      "location": 2,
+      "content": "所以我们卡住两个基本原理",
+      "music": 0.0
+    },
+    {
+      "from": 370.26,
+      "to": 372.74,
+      "sid": 220,
+      "location": 2,
+      "content": "第一我的这一整套结构可以实现",
+      "music": 0.0
+    },
+    {
+      "from": 372.74,
+      "to": 375.04,
+      "sid": 221,
+      "location": 2,
+      "content": "让合适的角色去干合适的事情",
+      "music": 0.0
+    },
+    {
+      "from": 375.04,
+      "to": 377.94,
+      "sid": 222,
+      "location": 2,
+      "content": "第二我可以不断的引入更强的角色去完成",
+      "music": 0.0
+    },
+    {
+      "from": 377.94,
+      "to": 379.58,
+      "sid": 223,
+      "location": 2,
+      "content": "我原本根本完成不了的事情",
+      "music": 0.0
+    },
+    {
+      "from": 379.58,
+      "to": 381.5,
+      "sid": 224,
+      "location": 2,
+      "content": "这两个条件加在一起",
+      "music": 0.0
+    },
+    {
+      "from": 381.5,
+      "to": 383.38,
+      "sid": 225,
+      "location": 2,
+      "content": "理论上我可以完成所有的事情",
+      "music": 0.0
+    },
+    {
+      "from": 383.38,
+      "to": 385.12,
+      "sid": 226,
+      "location": 2,
+      "content": "直到这里面的角色越来越多",
+      "music": 0.0
+    },
+    {
+      "from": 385.12,
+      "to": 385.88,
+      "sid": 227,
+      "location": 2,
+      "content": "协作越来越复杂",
+      "music": 0.0
+    },
+    {
+      "from": 385.88,
+      "to": 387.52,
+      "sid": 228,
+      "location": 2,
+      "content": "可能我这套简单的流程撑不住了",
+      "music": 0.0
+    },
+    {
+      "from": 387.52,
+      "to": 389.12,
+      "sid": 229,
+      "location": 2,
+      "content": "日后我再去升级这套系统",
+      "music": 0.0
+    },
+    {
+      "from": 389.12,
+      "to": 391.52,
+      "sid": 230,
+      "location": 2,
+      "content": "而现在真正需要解决的事情是",
+      "music": 0.0
+    },
+    {
+      "from": 391.52,
+      "to": 393.88,
+      "sid": 231,
+      "location": 2,
+      "content": "如如果你没有35年的编程经验",
+      "music": 0.0
+    },
+    {
+      "from": 393.88,
+      "to": 396.38,
+      "sid": 232,
+      "location": 2,
+      "content": "你又想用agent干点正事的话",
+      "music": 0.0
+    },
+    {
+      "from": 396.38,
+      "to": 399.48,
+      "sid": 233,
+      "location": 2,
+      "content": "请你卸载停用你的open cloud小龙虾",
+      "music": 0.0
+    },
+    {
+      "from": 399.48,
+      "to": 403.76,
+      "sid": 234,
+      "location": 2,
+      "content": "把它尽快换成真正能干活的cloud code或者是codex",
+      "music": 0.0
+    },
+    {
+      "from": 403.76,
+      "to": 405.64,
+      "sid": 235,
+      "location": 2,
+      "content": "我这条视频不是用来蹭热点的",
+      "music": 0.0
+    },
+    {
+      "from": 405.64,
+      "to": 407.08,
+      "sid": 236,
+      "location": 2,
+      "content": "我也就实话实说了",
+      "music": 0.0
+    }
+  ]
+}

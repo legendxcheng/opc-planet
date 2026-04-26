@@ -1,0 +1,22 @@
+{
+  "bvid": "BV1LM8bzvEyy",
+  "cid": 31301304979,
+  "title": "总想解决问题的老实人心态，是赚钱最大障碍",
+  "owner_name": "dontbesilent聊赚钱",
+  "status": "downloaded",
+  "reason": null,
+  "subtitle": {
+    "id": 1806887672661421568,
+    "lan": "ai-zh",
+    "lan_doc": "中文",
+    "is_lock": false,
+    "subtitle_url": "https://aisubtitle.hdslb.com/bfs/ai_subtitle/prod/114920305723470313013049792235f562774ef4517c7a367a19ee5aeb",
+    "type": 1,
+    "id_str": "1806887672661421568",
+    "ai_type": 0,
+    "ai_status": 2
+  },
+  "raw_subtitle_path": "data\\raw\\bilibili\\subtitles\\275565632\\BV1LM8bzvEyy-ai-zh.raw.json",
+  "text_path": "data\\raw\\bilibili\\subtitles\\275565632\\BV1LM8bzvEyy-ai-zh.txt",
+  "metadata_path": "data\\raw\\bilibili\\subtitles\\275565632\\BV1LM8bzvEyy-ai-zh.metadata.json"
+}

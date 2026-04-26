@@ -1,0 +1,22 @@
+{
+  "bvid": "BV1BpdmBMEoc",
+  "cid": 37686349262,
+  "title": "曲曲分享事业经：做销售要摒弃偏见，客观地听市场和客户说话",
+  "owner_name": "曲之密语",
+  "status": "downloaded",
+  "reason": null,
+  "subtitle": {
+    "id": 1594825349638782208,
+    "lan": "ai-zh",
+    "lan_doc": "中文",
+    "is_lock": false,
+    "subtitle_url": "https://aisubtitle.hdslb.com/bfs/ai_subtitle/prod/1132636898630292617737218404bc51191d44983b49e6fe1b816a5544",
+    "type": 1,
+    "id_str": "1594825349638782208",
+    "ai_type": 0,
+    "ai_status": 2
+  },
+  "raw_subtitle_path": "data\\raw\\bilibili\\subtitles\\ququ-business-search-2026-04-26\\BV1BpdmBMEoc-ai-zh.raw.json",
+  "text_path": "data\\raw\\bilibili\\subtitles\\ququ-business-search-2026-04-26\\BV1BpdmBMEoc-ai-zh.txt",
+  "metadata_path": "data\\raw\\bilibili\\subtitles\\ququ-business-search-2026-04-26\\BV1BpdmBMEoc-ai-zh.metadata.json"
+}

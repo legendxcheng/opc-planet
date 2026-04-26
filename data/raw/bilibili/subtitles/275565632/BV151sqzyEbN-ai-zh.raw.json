@@ -1,0 +1,1852 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 1.18,
+      "to": 2.4,
+      "sid": 1,
+      "location": 2,
+      "content": "最近一周的行情",
+      "music": 0.0
+    },
+    {
+      "from": 2.4,
+      "to": 5.12,
+      "sid": 2,
+      "location": 2,
+      "content": "我相信不需要牛牛去做过多的赘述了",
+      "music": 0.0
+    },
+    {
+      "from": 5.12,
+      "to": 7.06,
+      "sid": 3,
+      "location": 2,
+      "content": "用一个字概括就是涨",
+      "music": 0.0
+    },
+    {
+      "from": 7.06,
+      "to": 9.54,
+      "sid": 4,
+      "location": 2,
+      "content": "用两个字概括就是暴涨",
+      "music": 0.0
+    },
+    {
+      "from": 9.54,
+      "to": 11.52,
+      "sid": 5,
+      "location": 2,
+      "content": "对于普通投资者而言",
+      "music": 0.0
+    },
+    {
+      "from": 11.52,
+      "to": 12.8,
+      "sid": 6,
+      "location": 2,
+      "content": "简直赢麻了",
+      "music": 0.0
+    },
+    {
+      "from": 12.8,
+      "to": 14.44,
+      "sid": 7,
+      "location": 2,
+      "content": "节前最后一个交易日",
+      "music": 0.0
+    },
+    {
+      "from": 14.44,
+      "to": 16.619,
+      "sid": 8,
+      "location": 2,
+      "content": "更是将热度推向了高潮",
+      "music": 0.0
+    },
+    {
+      "from": 16.619,
+      "to": 18.739,
+      "sid": 9,
+      "location": 2,
+      "content": "上证指数大涨8%",
+      "music": 0.0
+    },
+    {
+      "from": 18.739,
+      "to": 21.239,
+      "sid": 10,
+      "location": 2,
+      "content": "全天成交量创历史新高",
+      "music": 0.0
+    },
+    {
+      "from": 21.239,
+      "to": 24.56,
+      "sid": 11,
+      "location": 2,
+      "content": "后台收到了无数粉丝的私信和报喜反馈",
+      "music": 0.0
+    },
+    {
+      "from": 24.56,
+      "to": 26.8,
+      "sid": 12,
+      "location": 2,
+      "content": "虽然隔着屏幕看不到他们的表情",
+      "music": 0.0
+    },
+    {
+      "from": 26.8,
+      "to": 28.32,
+      "sid": 13,
+      "location": 2,
+      "content": "但是在字里行间里",
+      "music": 0.0
+    },
+    {
+      "from": 28.32,
+      "to": 32.299,
+      "sid": 14,
+      "location": 2,
+      "content": "还是能非常容易地感受到他们的惊喜和满足",
+      "music": 0.0
+    },
+    {
+      "from": 32.299,
+      "to": 34.44,
+      "sid": 15,
+      "location": 2,
+      "content": "我们现场也做一个小调研",
+      "music": 0.0
+    },
+    {
+      "from": 34.44,
+      "to": 36.72,
+      "sid": 16,
+      "location": 2,
+      "content": "靠着这波反弹已经回本的",
+      "music": 0.0
+    },
+    {
+      "from": 36.72,
+      "to": 37.42,
+      "sid": 17,
+      "location": 2,
+      "content": "请扣一",
+      "music": 0.0
+    },
+    {
+      "from": 37.42,
+      "to": 39.06,
+      "sid": 18,
+      "location": 2,
+      "content": "目前仍旧在亏损的",
+      "music": 0.0
+    },
+    {
+      "from": 39.06,
+      "to": 39.82,
+      "sid": 19,
+      "location": 2,
+      "content": "请扣二",
+      "music": 0.0
+    },
+    {
+      "from": 39.82,
+      "to": 43.099,
+      "sid": 20,
+      "location": 2,
+      "content": "看看投资收益的差别到底有多大",
+      "music": 0.0
+    },
+    {
+      "from": 43.099,
+      "to": 44.399,
+      "sid": 21,
+      "location": 2,
+      "content": "如果稍加留意",
+      "music": 0.0
+    },
+    {
+      "from": 44.399,
+      "to": 45.179,
+      "sid": 22,
+      "location": 2,
+      "content": "不难发现",
+      "music": 0.0
+    },
+    {
+      "from": 45.179,
+      "to": 46.699,
+      "sid": 23,
+      "location": 2,
+      "content": "在这满屏的红色之中",
+      "music": 0.0
+    },
+    {
+      "from": 46.699,
+      "to": 49.319,
+      "sid": 24,
+      "location": 2,
+      "content": "有一个板块非常的突出和耀眼",
+      "music": 0.0
+    },
+    {
+      "from": 49.319,
+      "to": 50.59,
+      "sid": 25,
+      "location": 2,
+      "content": "那就是白酒",
+      "music": 0.0
+    },
+    {
+      "from": 50.59,
+      "to": 53.03,
+      "sid": 26,
+      "location": 2,
+      "content": "连续几天整个行业涨停",
+      "music": 0.0
+    },
+    {
+      "from": 53.03,
+      "to": 54.01,
+      "sid": 27,
+      "location": 2,
+      "content": "你没听错",
+      "music": 0.0
+    },
+    {
+      "from": 54.01,
+      "to": 57.57,
+      "sid": 28,
+      "location": 2,
+      "content": "是整个行业连市值上万亿的茅台",
+      "music": 0.0
+    },
+    {
+      "from": 57.57,
+      "to": 60.21,
+      "sid": 29,
+      "location": 2,
+      "content": "五天时间也涨了近40%",
+      "music": 0.0
+    },
+    {
+      "from": 60.21,
+      "to": 63.15,
+      "sid": 30,
+      "location": 2,
+      "content": "这一下子给白酒投资者们乐坏了",
+      "music": 0.0
+    },
+    {
+      "from": 63.15,
+      "to": 65.27,
+      "sid": 31,
+      "location": 2,
+      "content": "我一个非常要好的朋友跟我说",
+      "music": 0.0
+    },
+    {
+      "from": 65.27,
+      "to": 68.43,
+      "sid": 32,
+      "location": 2,
+      "content": "这是他炒股以来最开心的一段时间了",
+      "music": 0.0
+    },
+    {
+      "from": 68.43,
+      "to": 71.17,
+      "sid": 33,
+      "location": 2,
+      "content": "虽然我没有细问到底他赚了多少",
+      "music": 0.0
+    },
+    {
+      "from": 71.17,
+      "to": 73.99,
+      "sid": 34,
+      "location": 2,
+      "content": "但是我知道他的白酒仓位很重",
+      "music": 0.0
+    },
+    {
+      "from": 73.99,
+      "to": 76.61,
+      "sid": 35,
+      "location": 2,
+      "content": "在前段时间白酒持续大跌的时候",
+      "music": 0.0
+    },
+    {
+      "from": 76.61,
+      "to": 78.17,
+      "sid": 36,
+      "location": 2,
+      "content": "他仍旧在加仓",
+      "music": 0.0
+    },
+    {
+      "from": 78.17,
+      "to": 80.21,
+      "sid": 37,
+      "location": 2,
+      "content": "中途虽有想过放弃",
+      "music": 0.0
+    },
+    {
+      "from": 80.21,
+      "to": 82.59,
+      "sid": 38,
+      "location": 2,
+      "content": "但最终还是咬牙坚持下来了",
+      "music": 0.0
+    },
+    {
+      "from": 82.59,
+      "to": 83.89,
+      "sid": 39,
+      "location": 2,
+      "content": "牛牛在大跌时",
+      "music": 0.0
+    },
+    {
+      "from": 83.89,
+      "to": 86.77,
+      "sid": 40,
+      "location": 2,
+      "content": "专门出了一期视频给大家加油打气",
+      "music": 0.0
+    },
+    {
+      "from": 86.77,
+      "to": 90.37,
+      "sid": 41,
+      "location": 2,
+      "content": "希望大家不要浪费这次千载难逢的危机",
+      "music": 0.0
+    },
+    {
+      "from": 90.37,
+      "to": 93.36,
+      "sid": 42,
+      "location": 2,
+      "content": "坚持4%定投法勇敢买入",
+      "music": 0.0
+    },
+    {
+      "from": 93.36,
+      "to": 96.08,
+      "sid": 43,
+      "location": 2,
+      "content": "当时的背景是美股不断创出新高",
+      "music": 0.0
+    },
+    {
+      "from": 96.08,
+      "to": 98.1,
+      "sid": 44,
+      "location": 2,
+      "content": "但A股跌破3000点之后",
+      "music": 0.0
+    },
+    {
+      "from": 98.1,
+      "to": 99.64,
+      "sid": 45,
+      "location": 2,
+      "content": "一路向下狂奔",
+      "music": 0.0
+    },
+    {
+      "from": 99.64,
+      "to": 101.1,
+      "sid": 46,
+      "location": 2,
+      "content": "很多人开玩笑说",
+      "music": 0.0
+    },
+    {
+      "from": 101.1,
+      "to": 102.26,
+      "sid": 47,
+      "location": 2,
+      "content": "投资很简单",
+      "music": 0.0
+    },
+    {
+      "from": 102.26,
+      "to": 104.36,
+      "sid": 48,
+      "location": 2,
+      "content": "相信国运定投纳指",
+      "music": 0.0
+    },
+    {
+      "from": 104.36,
+      "to": 108.199,
+      "sid": 49,
+      "location": 2,
+      "content": "不过牛友当时直截了当地表达了自己的观点",
+      "music": 0.0
+    },
+    {
+      "from": 108.199,
+      "to": 111.35,
+      "sid": 50,
+      "location": 2,
+      "content": "对于当下估值的美股完全没有兴趣",
+      "music": 0.0
+    },
+    {
+      "from": 111.35,
+      "to": 114.21,
+      "sid": 51,
+      "location": 2,
+      "content": "从潜在收入和潜在风险综合考量",
+      "music": 0.0
+    },
+    {
+      "from": 114.21,
+      "to": 116.29,
+      "sid": 52,
+      "location": 2,
+      "content": "A股明显是更好的选择",
+      "music": 0.0
+    },
+    {
+      "from": 116.29,
+      "to": 117.83,
+      "sid": 53,
+      "location": 2,
+      "content": "没有只涨不跌的市场",
+      "music": 0.0
+    },
+    {
+      "from": 117.83,
+      "to": 119.54,
+      "sid": 54,
+      "location": 2,
+      "content": "也没有只跌不涨的市场",
+      "music": 0.0
+    },
+    {
+      "from": 119.54,
+      "to": 120.84,
+      "sid": 55,
+      "location": 2,
+      "content": "尤其是A股的白酒",
+      "music": 0.0
+    },
+    {
+      "from": 120.84,
+      "to": 123.1,
+      "sid": 56,
+      "location": 2,
+      "content": "真的便宜的有点太过分了",
+      "music": 0.0
+    },
+    {
+      "from": 123.1,
+      "to": 126.87,
+      "sid": 57,
+      "location": 2,
+      "content": "只用一点点常识就可以判断出白酒的投资价值",
+      "music": 0.0
+    },
+    {
+      "from": 126.87,
+      "to": 129.45,
+      "sid": 58,
+      "location": 2,
+      "content": "当时白酒的股息率已经超过了",
+      "music": 0.0
+    },
+    {
+      "from": 129.45,
+      "to": 131.23,
+      "sid": 59,
+      "location": 2,
+      "content": "传统高股息的股票",
+      "music": 0.0
+    },
+    {
+      "from": 131.23,
+      "to": 134.84,
+      "sid": 60,
+      "location": 2,
+      "content": "部分白酒标的的股息率甚至接近7%",
+      "music": 0.0
+    },
+    {
+      "from": 134.84,
+      "to": 137.32,
+      "sid": 61,
+      "location": 2,
+      "content": "哪怕白酒以后完全不增长了",
+      "music": 0.0
+    },
+    {
+      "from": 137.32,
+      "to": 140.63,
+      "sid": 62,
+      "location": 2,
+      "content": "只拿股息也是一笔非常好的投资",
+      "music": 0.0
+    },
+    {
+      "from": 140.63,
+      "to": 143.39,
+      "sid": 63,
+      "location": 2,
+      "content": "但这个观点却遭到了无情的嘲笑",
+      "music": 0.0
+    },
+    {
+      "from": 143.39,
+      "to": 146.69,
+      "sid": 64,
+      "location": 2,
+      "content": "我相信后台很多在市场一众质疑声中",
+      "music": 0.0
+    },
+    {
+      "from": 146.69,
+      "to": 149.19,
+      "sid": 65,
+      "location": 2,
+      "content": "依然坚定投资白酒的小伙伴们",
+      "music": 0.0
+    },
+    {
+      "from": 149.19,
+      "to": 151.41,
+      "sid": 66,
+      "location": 2,
+      "content": "应该能产生强烈的共鸣",
+      "music": 0.0
+    },
+    {
+      "from": 151.41,
+      "to": 153.97,
+      "sid": 67,
+      "location": 2,
+      "content": "最近这段时间终于迎来了丰收",
+      "music": 0.0
+    },
+    {
+      "from": 153.97,
+      "to": 157.42,
+      "sid": 68,
+      "location": 2,
+      "content": "这大概就是价值投资的魅力所在吧",
+      "music": 0.0
+    },
+    {
+      "from": 157.42,
+      "to": 160.02,
+      "sid": 69,
+      "location": 2,
+      "content": "自己坚持的投资逻辑被市场验证",
+      "music": 0.0
+    },
+    {
+      "from": 160.02,
+      "to": 162.86,
+      "sid": 70,
+      "location": 2,
+      "content": "会让你有一种无与伦比的满足感",
+      "music": 0.0
+    },
+    {
+      "from": 162.86,
+      "to": 164.7,
+      "sid": 71,
+      "location": 2,
+      "content": "这感觉与钱相关",
+      "music": 0.0
+    },
+    {
+      "from": 164.7,
+      "to": 167.14,
+      "sid": 72,
+      "location": 2,
+      "content": "也不仅仅与钱相关",
+      "music": 0.0
+    },
+    {
+      "from": 167.14,
+      "to": 168.82,
+      "sid": 73,
+      "location": 2,
+      "content": "对于部分小伙伴来说",
+      "music": 0.0
+    },
+    {
+      "from": 168.82,
+      "to": 170.74,
+      "sid": 74,
+      "location": 2,
+      "content": "喜悦还没有完全品尝完",
+      "music": 0.0
+    },
+    {
+      "from": 170.74,
+      "to": 172.62,
+      "sid": 75,
+      "location": 2,
+      "content": "焦虑已经接踵而至",
+      "music": 0.0
+    },
+    {
+      "from": 172.62,
+      "to": 173.56,
+      "sid": 76,
+      "location": 2,
+      "content": "最近的大涨",
+      "music": 0.0
+    },
+    {
+      "from": 173.56,
+      "to": 175.12,
+      "sid": 77,
+      "location": 2,
+      "content": "让部分已经回本",
+      "music": 0.0
+    },
+    {
+      "from": 175.12,
+      "to": 178.2,
+      "sid": 78,
+      "location": 2,
+      "content": "或者在回本边缘的小伙伴非常的不安",
+      "music": 0.0
+    },
+    {
+      "from": 178.2,
+      "to": 182.12,
+      "sid": 79,
+      "location": 2,
+      "content": "后台基本问的都是对未来行情走势的相关问题",
+      "music": 0.0
+    },
+    {
+      "from": 182.12,
+      "to": 183.74,
+      "sid": 80,
+      "location": 2,
+      "content": "我觉得挺有代表性的",
+      "music": 0.0
+    },
+    {
+      "from": 183.74,
+      "to": 185.06,
+      "sid": 81,
+      "location": 2,
+      "content": "跟大家分享一下",
+      "music": 0.0
+    },
+    {
+      "from": 185.06,
+      "to": 188.52,
+      "sid": 82,
+      "location": 2,
+      "content": "有人问牛牛已经连着拉升很多天了",
+      "music": 0.0
+    },
+    {
+      "from": 188.52,
+      "to": 189.92,
+      "sid": 83,
+      "location": 2,
+      "content": "节后应该跌了吧",
+      "music": 0.0
+    },
+    {
+      "from": 189.92,
+      "to": 190.64,
+      "sid": 84,
+      "location": 2,
+      "content": "牛牛答",
+      "music": 0.0
+    },
+    {
+      "from": 190.64,
+      "to": 192.61,
+      "sid": 85,
+      "location": 2,
+      "content": "有可能又有人问",
+      "music": 0.0
+    },
+    {
+      "from": 192.61,
+      "to": 194.19,
+      "sid": 86,
+      "location": 2,
+      "content": "这几天涨得挺好的",
+      "music": 0.0
+    },
+    {
+      "from": 194.19,
+      "to": 195.37,
+      "sid": 87,
+      "location": 2,
+      "content": "气氛也很不错",
+      "music": 0.0
+    },
+    {
+      "from": 195.37,
+      "to": 197.51,
+      "sid": 88,
+      "location": 2,
+      "content": "节后应该会继续大涨吧",
+      "music": 0.0
+    },
+    {
+      "from": 197.51,
+      "to": 198.3,
+      "sid": 89,
+      "location": 2,
+      "content": "牛牛答",
+      "music": 0.0
+    },
+    {
+      "from": 198.3,
+      "to": 201.88,
+      "sid": 90,
+      "location": 2,
+      "content": "有可能还有人问你对节后的走势怎么看",
+      "music": 0.0
+    },
+    {
+      "from": 201.88,
+      "to": 203.68,
+      "sid": 91,
+      "location": 2,
+      "content": "是会涨还是会跌",
+      "music": 0.0
+    },
+    {
+      "from": 203.68,
+      "to": 204.58,
+      "sid": 92,
+      "location": 2,
+      "content": "牛牛答",
+      "music": 0.0
+    },
+    {
+      "from": 204.58,
+      "to": 206.46,
+      "sid": 93,
+      "location": 2,
+      "content": "一切皆有可能",
+      "music": 0.0
+    },
+    {
+      "from": 206.46,
+      "to": 209.18,
+      "sid": 94,
+      "location": 2,
+      "content": "看到这或许有一些小伙伴要骂街了",
+      "music": 0.0
+    },
+    {
+      "from": 209.18,
+      "to": 211.14,
+      "sid": 95,
+      "location": 2,
+      "content": "你这好像什么都说了",
+      "music": 0.0
+    },
+    {
+      "from": 211.14,
+      "to": 212.98,
+      "sid": 96,
+      "location": 2,
+      "content": "又好像什么都没有说",
+      "music": 0.0
+    },
+    {
+      "from": 212.98,
+      "to": 216.02,
+      "sid": 97,
+      "location": 2,
+      "content": "确实我不止一次地跟大家坦诚过",
+      "music": 0.0
+    },
+    {
+      "from": 216.02,
+      "to": 218.38,
+      "sid": 98,
+      "location": 2,
+      "content": "我无法预测未来一段时间的走势",
+      "music": 0.0
+    },
+    {
+      "from": 218.38,
+      "to": 220.26,
+      "sid": 99,
+      "location": 2,
+      "content": "也基本不去做那个事儿",
+      "music": 0.0
+    },
+    {
+      "from": 220.26,
+      "to": 222.68,
+      "sid": 100,
+      "location": 2,
+      "content": "哪怕最近每天盘中暴涨",
+      "music": 0.0
+    },
+    {
+      "from": 222.68,
+      "to": 224.44,
+      "sid": 101,
+      "location": 2,
+      "content": "大家都认为牛市来了",
+      "music": 0.0
+    },
+    {
+      "from": 224.44,
+      "to": 226.3,
+      "sid": 102,
+      "location": 2,
+      "content": "盘面一片繁荣的景象",
+      "music": 0.0
+    },
+    {
+      "from": 226.3,
+      "to": 229.88,
+      "sid": 103,
+      "location": 2,
+      "content": "但我依然无法预测盘尾会不会跳水",
+      "music": 0.0
+    },
+    {
+      "from": 229.88,
+      "to": 232.96,
+      "sid": 104,
+      "location": 2,
+      "content": "我相信也没有人有预测股市的水平",
+      "music": 0.0
+    },
+    {
+      "from": 232.96,
+      "to": 235.52,
+      "sid": 105,
+      "location": 2,
+      "content": "至少巴菲特活了快一个世纪了",
+      "music": 0.0
+    },
+    {
+      "from": 235.52,
+      "to": 237.72,
+      "sid": 106,
+      "location": 2,
+      "content": "也没有见过谁有这种能力",
+      "music": 0.0
+    },
+    {
+      "from": 237.72,
+      "to": 241.24,
+      "sid": 107,
+      "location": 2,
+      "content": "如果有人像模像样的跟你预测明天的走势",
+      "music": 0.0
+    },
+    {
+      "from": 241.24,
+      "to": 243.94,
+      "sid": 108,
+      "location": 2,
+      "content": "那希望你注意这个人不是蠢",
+      "music": 0.0
+    },
+    {
+      "from": 243.94,
+      "to": 244.71,
+      "sid": 109,
+      "location": 2,
+      "content": "就是坏",
+      "music": 0.0
+    },
+    {
+      "from": 244.71,
+      "to": 247.09,
+      "sid": 110,
+      "location": 2,
+      "content": "那既然无法预测未来几天的走势",
+      "music": 0.0
+    },
+    {
+      "from": 247.09,
+      "to": 250.15,
+      "sid": 111,
+      "location": 2,
+      "content": "那写这个行情分析的内容有什么意义呢",
+      "music": 0.0
+    },
+    {
+      "from": 250.15,
+      "to": 251.67,
+      "sid": 112,
+      "location": 2,
+      "content": "评论觉得有意义",
+      "music": 0.0
+    },
+    {
+      "from": 251.67,
+      "to": 253.11,
+      "sid": 113,
+      "location": 2,
+      "content": "我始终笃定地觉得",
+      "music": 0.0
+    },
+    {
+      "from": 253.11,
+      "to": 255.21,
+      "sid": 114,
+      "location": 2,
+      "content": "在股市里永远没有白走的路",
+      "music": 0.0
+    },
+    {
+      "from": 255.21,
+      "to": 256.82,
+      "sid": 115,
+      "location": 2,
+      "content": "每一步都算数",
+      "music": 0.0
+    },
+    {
+      "from": 256.82,
+      "to": 260.4,
+      "sid": 116,
+      "location": 2,
+      "content": "我们做复盘不应该是去花时间画那个趋势线",
+      "music": 0.0
+    },
+    {
+      "from": 260.4,
+      "to": 262.019,
+      "sid": 117,
+      "location": 2,
+      "content": "观察MACD指标",
+      "music": 0.0
+    },
+    {
+      "from": 262.019,
+      "to": 264.98,
+      "sid": 118,
+      "location": 2,
+      "content": "而是应该阶段性地回顾我们的投资行为",
+      "music": 0.0
+    },
+    {
+      "from": 264.98,
+      "to": 266.66,
+      "sid": 119,
+      "location": 2,
+      "content": "反思我们的投资决策",
+      "music": 0.0
+    },
+    {
+      "from": 266.66,
+      "to": 268.36,
+      "sid": 120,
+      "location": 2,
+      "content": "优化我们的投资逻辑",
+      "music": 0.0
+    },
+    {
+      "from": 268.36,
+      "to": 270.54,
+      "sid": 121,
+      "location": 2,
+      "content": "很多人问我这几天有什么感受",
+      "music": 0.0
+    },
+    {
+      "from": 270.54,
+      "to": 271.78,
+      "sid": 122,
+      "location": 2,
+      "content": "我觉得有两点",
+      "music": 0.0
+    },
+    {
+      "from": 271.78,
+      "to": 274.16,
+      "sid": 123,
+      "location": 2,
+      "content": "首先是非常强烈的开心",
+      "music": 0.0
+    },
+    {
+      "from": 274.16,
+      "to": 275.44,
+      "sid": 124,
+      "location": 2,
+      "content": "这不需要去掩饰",
+      "music": 0.0
+    },
+    {
+      "from": 275.44,
+      "to": 278.16,
+      "sid": 125,
+      "location": 2,
+      "content": "我在过往的内容里非常高频的提及",
+      "music": 0.0
+    },
+    {
+      "from": 278.16,
+      "to": 279.16,
+      "sid": 126,
+      "location": 2,
+      "content": "我看好消费",
+      "music": 0.0
+    },
+    {
+      "from": 279.16,
+      "to": 280.3,
+      "sid": 127,
+      "location": 2,
+      "content": "我看好白酒",
+      "music": 0.0
+    },
+    {
+      "from": 280.3,
+      "to": 281.48,
+      "sid": 128,
+      "location": 2,
+      "content": "我看好A股",
+      "music": 0.0
+    },
+    {
+      "from": 281.48,
+      "to": 283.76,
+      "sid": 129,
+      "location": 2,
+      "content": "目前的白酒是严重低估",
+      "music": 0.0
+    },
+    {
+      "from": 283.76,
+      "to": 285.52,
+      "sid": 130,
+      "location": 2,
+      "content": "我自己也重仓了白酒",
+      "music": 0.0
+    },
+    {
+      "from": 285.52,
+      "to": 286.98,
+      "sid": 131,
+      "location": 2,
+      "content": "最近这样的涨幅",
+      "music": 0.0
+    },
+    {
+      "from": 286.98,
+      "to": 289.14,
+      "sid": 132,
+      "location": 2,
+      "content": "如果我还表现得云淡风轻",
+      "music": 0.0
+    },
+    {
+      "from": 289.14,
+      "to": 290.03,
+      "sid": 133,
+      "location": 2,
+      "content": "不值一提",
+      "music": 0.0
+    },
+    {
+      "from": 290.03,
+      "to": 292.33,
+      "sid": 134,
+      "location": 2,
+      "content": "那显然是装的有点过了",
+      "music": 0.0
+    },
+    {
+      "from": 292.33,
+      "to": 294.99,
+      "sid": 135,
+      "location": 2,
+      "content": "但开心之余我的另一个感受是",
+      "music": 0.0
+    },
+    {
+      "from": 294.99,
+      "to": 297.35,
+      "sid": 136,
+      "location": 2,
+      "content": "前辈们果然没有骗我们",
+      "music": 0.0
+    },
+    {
+      "from": 297.35,
+      "to": 298.75,
+      "sid": 137,
+      "location": 2,
+      "content": "从接触股市之初",
+      "music": 0.0
+    },
+    {
+      "from": 298.75,
+      "to": 299.43,
+      "sid": 138,
+      "location": 2,
+      "content": "我就听到",
+      "music": 0.0
+    },
+    {
+      "from": 299.43,
+      "to": 302.77,
+      "sid": 139,
+      "location": 2,
+      "content": "不止一位知名投资人在反复提及一句话",
+      "music": 0.0
+    },
+    {
+      "from": 302.77,
+      "to": 306.47,
+      "sid": 140,
+      "location": 2,
+      "content": "那就是股市真正上涨的时间只有5%",
+      "music": 0.0
+    },
+    {
+      "from": 306.47,
+      "to": 310.19,
+      "sid": 141,
+      "location": 2,
+      "content": "其余95%的时间都在震荡和下跌",
+      "music": 0.0
+    },
+    {
+      "from": 310.19,
+      "to": 312.17,
+      "sid": 142,
+      "location": 2,
+      "content": "属于投资的垃圾时间",
+      "music": 0.0
+    },
+    {
+      "from": 312.17,
+      "to": 314.45,
+      "sid": 143,
+      "location": 2,
+      "content": "当时我对这句话似懂非懂",
+      "music": 0.0
+    },
+    {
+      "from": 314.45,
+      "to": 316.29,
+      "sid": 144,
+      "location": 2,
+      "content": "但随着投资阅历的增加",
+      "music": 0.0
+    },
+    {
+      "from": 316.29,
+      "to": 318.0,
+      "sid": 145,
+      "location": 2,
+      "content": "我开始慢慢相信",
+      "music": 0.0
+    },
+    {
+      "from": 318.0,
+      "to": 320.96,
+      "sid": 146,
+      "location": 2,
+      "content": "这是一句朴素却深刻的投资真理",
+      "music": 0.0
+    },
+    {
+      "from": 320.96,
+      "to": 324.75,
+      "sid": 147,
+      "location": 2,
+      "content": "也是造成股市七亏两平一赚的重要原因",
+      "music": 0.0
+    },
+    {
+      "from": 324.75,
+      "to": 327.65,
+      "sid": 148,
+      "location": 2,
+      "content": "每个人都希望抓住那5%的上涨",
+      "music": 0.0
+    },
+    {
+      "from": 327.65,
+      "to": 329.27,
+      "sid": 149,
+      "location": 2,
+      "content": "但真正的高手懂得",
+      "music": 0.0
+    },
+    {
+      "from": 329.27,
+      "to": 332.799,
+      "sid": 150,
+      "location": 2,
+      "content": "如何在那95%的寂静和波动中生存",
+      "music": 0.0
+    },
+    {
+      "from": 332.799,
+      "to": 333.979,
+      "sid": 151,
+      "location": 2,
+      "content": "我做了个统计",
+      "music": 0.0
+    },
+    {
+      "from": 333.979,
+      "to": 335.919,
+      "sid": 152,
+      "location": 2,
+      "content": "最近这波深V反转的行情",
+      "music": 0.0
+    },
+    {
+      "from": 335.919,
+      "to": 337.599,
+      "sid": 153,
+      "location": 2,
+      "content": "是从6月21号开始",
+      "music": 0.0
+    },
+    {
+      "from": 337.599,
+      "to": 341.07,
+      "sid": 154,
+      "location": 2,
+      "content": "当天收盘上证指数跌破3000点之后",
+      "music": 0.0
+    },
+    {
+      "from": 341.07,
+      "to": 342.71,
+      "sid": 155,
+      "location": 2,
+      "content": "就开启了一路下探",
+      "music": 0.0
+    },
+    {
+      "from": 342.71,
+      "to": 344.63,
+      "sid": 156,
+      "location": 2,
+      "content": "期间有反弹也有暴跌",
+      "music": 0.0
+    },
+    {
+      "from": 344.63,
+      "to": 346.65,
+      "sid": 157,
+      "location": 2,
+      "content": "但整体感受非常不好",
+      "music": 0.0
+    },
+    {
+      "from": 346.65,
+      "to": 349.51,
+      "sid": 158,
+      "location": 2,
+      "content": "几乎每隔几天就创了一个阶段新低",
+      "music": 0.0
+    },
+    {
+      "from": 349.51,
+      "to": 352.06,
+      "sid": 159,
+      "location": 2,
+      "content": "这种折磨维持了整整三个多月",
+      "music": 0.0
+    },
+    {
+      "from": 352.06,
+      "to": 354.86,
+      "sid": 160,
+      "location": 2,
+      "content": "几乎所有人都对A股失去了信心",
+      "music": 0.0
+    },
+    {
+      "from": 354.86,
+      "to": 357.78,
+      "sid": 161,
+      "location": 2,
+      "content": "最低竟然又跌到了2600多点",
+      "music": 0.0
+    },
+    {
+      "from": 357.78,
+      "to": 359.2,
+      "sid": 162,
+      "location": 2,
+      "content": "但让人意外的是",
+      "music": 0.0
+    },
+    {
+      "from": 359.2,
+      "to": 361.76,
+      "sid": 163,
+      "location": 2,
+      "content": "从2600点反弹回3000点",
+      "music": 0.0
+    },
+    {
+      "from": 361.76,
+      "to": 363.43,
+      "sid": 164,
+      "location": 2,
+      "content": "仅仅用了六天时间",
+      "music": 0.0
+    },
+    {
+      "from": 363.43,
+      "to": 366.25,
+      "sid": 165,
+      "location": 2,
+      "content": "从3000点涨到3300点",
+      "music": 0.0
+    },
+    {
+      "from": 366.25,
+      "to": 367.53,
+      "sid": 166,
+      "location": 2,
+      "content": "只用了两天",
+      "music": 0.0
+    },
+    {
+      "from": 367.53,
+      "to": 369.65,
+      "sid": 167,
+      "location": 2,
+      "content": "虽然这波反弹十分喜人",
+      "music": 0.0
+    },
+    {
+      "from": 369.65,
+      "to": 372.33,
+      "sid": 168,
+      "location": 2,
+      "content": "但在下跌期间早早割肉离场",
+      "music": 0.0
+    },
+    {
+      "from": 372.33,
+      "to": 375.3,
+      "sid": 169,
+      "location": 2,
+      "content": "没有赶上这波反弹的投资者不计其数",
+      "music": 0.0
+    },
+    {
+      "from": 375.3,
+      "to": 377.3,
+      "sid": 170,
+      "location": 2,
+      "content": "这滑稽却合理的走势",
+      "music": 0.0
+    },
+    {
+      "from": 377.3,
+      "to": 380.03,
+      "sid": 171,
+      "location": 2,
+      "content": "难道不值得我们深度的思考和复盘吗",
+      "music": 0.0
+    },
+    {
+      "from": 380.03,
+      "to": 381.49,
+      "sid": 172,
+      "location": 2,
+      "content": "巴菲特曾经说过",
+      "music": 0.0
+    },
+    {
+      "from": 381.49,
+      "to": 384.09,
+      "sid": 173,
+      "location": 2,
+      "content": "投资其实只需要学习两门课程",
+      "music": 0.0
+    },
+    {
+      "from": 384.09,
+      "to": 385.51,
+      "sid": 174,
+      "location": 2,
+      "content": "一门是如何估值",
+      "music": 0.0
+    },
+    {
+      "from": 385.51,
+      "to": 388.0,
+      "sid": 175,
+      "location": 2,
+      "content": "另外一门是如何面对市场的波动",
+      "music": 0.0
+    },
+    {
+      "from": 388.0,
+      "to": 390.08,
+      "sid": 176,
+      "location": 2,
+      "content": "估值对于个股或许很难",
+      "music": 0.0
+    },
+    {
+      "from": 390.08,
+      "to": 391.88,
+      "sid": 177,
+      "location": 2,
+      "content": "但如果对于投资宽基",
+      "music": 0.0
+    },
+    {
+      "from": 391.88,
+      "to": 394.2,
+      "sid": 178,
+      "location": 2,
+      "content": "指数或者行业指数的投资者而言",
+      "music": 0.0
+    },
+    {
+      "from": 394.2,
+      "to": 397.45,
+      "sid": 179,
+      "location": 2,
+      "content": "大体参照我们公众号每天更新的估值图",
+      "music": 0.0
+    },
+    {
+      "from": 397.45,
+      "to": 400.61,
+      "sid": 180,
+      "location": 2,
+      "content": "不能说可以做到精准的抄底逃顶",
+      "music": 0.0
+    },
+    {
+      "from": 400.61,
+      "to": 403.41,
+      "sid": 181,
+      "location": 2,
+      "content": "但一定可以做到买的相对便宜",
+      "music": 0.0
+    },
+    {
+      "from": 403.41,
+      "to": 405.22,
+      "sid": 182,
+      "location": 2,
+      "content": "卖的相对合理",
+      "music": 0.0
+    },
+    {
+      "from": 405.22,
+      "to": 408.36,
+      "sid": 183,
+      "location": 2,
+      "content": "而最难的还是如何面对市场的波动",
+      "music": 0.0
+    },
+    {
+      "from": 408.36,
+      "to": 411.22,
+      "sid": 184,
+      "location": 2,
+      "content": "因为它考验的不仅是资金管理",
+      "music": 0.0
+    },
+    {
+      "from": 411.22,
+      "to": 412.48,
+      "sid": 185,
+      "location": 2,
+      "content": "更是心理素质",
+      "music": 0.0
+    },
+    {
+      "from": 412.48,
+      "to": 416.67,
+      "sid": 186,
+      "location": 2,
+      "content": "太多的人因为无法忍受波动和折磨而选择放弃",
+      "music": 0.0
+    },
+    {
+      "from": 416.67,
+      "to": 417.35,
+      "sid": 187,
+      "location": 2,
+      "content": "殊不知",
+      "music": 0.0
+    },
+    {
+      "from": 417.35,
+      "to": 418.81,
+      "sid": 188,
+      "location": 2,
+      "content": "每一次下跌和震荡",
+      "music": 0.0
+    },
+    {
+      "from": 418.81,
+      "to": 421.4,
+      "sid": 189,
+      "location": 2,
+      "content": "都是市场在为下一次的上涨铺路",
+      "music": 0.0
+    },
+    {
+      "from": 421.4,
+      "to": 422.74,
+      "sid": 190,
+      "location": 2,
+      "content": "没有跌宕起伏",
+      "music": 0.0
+    },
+    {
+      "from": 422.74,
+      "to": 424.28,
+      "sid": 191,
+      "location": 2,
+      "content": "哪来惊天反转",
+      "music": 0.0
+    },
+    {
+      "from": 424.28,
+      "to": 425.66,
+      "sid": 192,
+      "location": 2,
+      "content": "没有长久的等待",
+      "music": 0.0
+    },
+    {
+      "from": 425.66,
+      "to": 427.409,
+      "sid": 193,
+      "location": 2,
+      "content": "哪来短暂的丰收",
+      "music": 0.0
+    },
+    {
+      "from": 427.409,
+      "to": 430.549,
+      "sid": 194,
+      "location": 2,
+      "content": "投资的核心并不在于如何抓住每一个上涨",
+      "music": 0.0
+    },
+    {
+      "from": 430.549,
+      "to": 434.18,
+      "sid": 195,
+      "location": 2,
+      "content": "而是在于如何在下跌和震荡中守住阵地",
+      "music": 0.0
+    },
+    {
+      "from": 434.18,
+      "to": 436.12,
+      "sid": 196,
+      "location": 2,
+      "content": "股市不奖励最快的人",
+      "music": 0.0
+    },
+    {
+      "from": 436.12,
+      "to": 438.72,
+      "sid": 197,
+      "location": 2,
+      "content": "只奖励最后还留在战场上的人",
+      "music": 0.0
+    },
+    {
+      "from": 438.72,
+      "to": 441.76,
+      "sid": 198,
+      "location": 2,
+      "content": "那些在市场疲软时急于逃离的人",
+      "music": 0.0
+    },
+    {
+      "from": 441.76,
+      "to": 443.49,
+      "sid": 199,
+      "location": 2,
+      "content": "往往无法等到转机",
+      "music": 0.0
+    },
+    {
+      "from": 443.49,
+      "to": 446.69,
+      "sid": 200,
+      "location": 2,
+      "content": "而那些在95%的时间里坚守的人",
+      "music": 0.0
+    },
+    {
+      "from": 446.69,
+      "to": 450.45,
+      "sid": 201,
+      "location": 2,
+      "content": "却往往能在最后的5%中获利满满",
+      "music": 0.0
+    },
+    {
+      "from": 450.45,
+      "to": 453.91,
+      "sid": 202,
+      "location": 2,
+      "content": "股市教会我们的从来不是如何迅速获利",
+      "music": 0.0
+    },
+    {
+      "from": 453.91,
+      "to": 456.419,
+      "sid": 203,
+      "location": 2,
+      "content": "而是如何在寂静中坚守",
+      "music": 0.0
+    },
+    {
+      "from": 456.419,
+      "to": 457.879,
+      "sid": 204,
+      "location": 2,
+      "content": "市场是反人性的",
+      "music": 0.0
+    },
+    {
+      "from": 457.879,
+      "to": 461.7,
+      "sid": 205,
+      "location": 2,
+      "content": "而战胜市场的关键在于战胜自己的情绪",
+      "music": 0.0
+    },
+    {
+      "from": 461.7,
+      "to": 464.38,
+      "sid": 206,
+      "location": 2,
+      "content": "市场的上涨是对耐心者的奖励",
+      "music": 0.0
+    },
+    {
+      "from": 464.38,
+      "to": 466.67,
+      "sid": 207,
+      "location": 2,
+      "content": "而非机会主义者的馈赠",
+      "music": 0.0
+    },
+    {
+      "from": 466.67,
+      "to": 469.53,
+      "sid": 208,
+      "location": 2,
+      "content": "前段时间市场确实走得非常糟糕",
+      "music": 0.0
+    },
+    {
+      "from": 469.53,
+      "to": 472.95,
+      "sid": 209,
+      "location": 2,
+      "content": "看到后台不少粉丝说最近跌的太猛了",
+      "music": 0.0
+    },
+    {
+      "from": 472.95,
+      "to": 475.13,
+      "sid": 210,
+      "location": 2,
+      "content": "我看是下降趋势先出来",
+      "music": 0.0
+    },
+    {
+      "from": 475.13,
+      "to": 477.47,
+      "sid": 211,
+      "location": 2,
+      "content": "等止跌了再回去做个T",
+      "music": 0.0
+    },
+    {
+      "from": 477.47,
+      "to": 478.57,
+      "sid": 212,
+      "location": 2,
+      "content": "但殊不知",
+      "music": 0.0
+    },
+    {
+      "from": 478.57,
+      "to": 482.92,
+      "sid": 213,
+      "location": 2,
+      "content": "真正的机会总是在耐心等待之后悄然降临的",
+      "music": 0.0
+    },
+    {
+      "from": 482.92,
+      "to": 485.2,
+      "sid": 214,
+      "location": 2,
+      "content": "市场不会提前发出任何信号",
+      "music": 0.0
+    },
+    {
+      "from": 485.2,
+      "to": 486.9,
+      "sid": 215,
+      "location": 2,
+      "content": "告诉你它即将上涨",
+      "music": 0.0
+    },
+    {
+      "from": 486.9,
+      "to": 489.71,
+      "sid": 216,
+      "location": 2,
+      "content": "也不会因为你的急切而改变节奏",
+      "music": 0.0
+    },
+    {
+      "from": 489.71,
+      "to": 493.51,
+      "sid": 217,
+      "location": 2,
+      "content": "只有那些不被短期波动打乱节奏的投资者",
+      "music": 0.0
+    },
+    {
+      "from": 493.51,
+      "to": 495.27,
+      "sid": 218,
+      "location": 2,
+      "content": "才能在机会来临时",
+      "music": 0.0
+    },
+    {
+      "from": 495.27,
+      "to": 496.31,
+      "sid": 219,
+      "location": 2,
+      "content": "手握筹码",
+      "music": 0.0
+    },
+    {
+      "from": 496.31,
+      "to": 499.28,
+      "sid": 220,
+      "location": 2,
+      "content": "享受那短暂却丰厚的上涨",
+      "music": 0.0
+    },
+    {
+      "from": 499.28,
+      "to": 503.07,
+      "sid": 221,
+      "location": 2,
+      "content": "这就是我从此次行情里收获的所有感悟",
+      "music": 0.0
+    },
+    {
+      "from": 503.07,
+      "to": 506.23,
+      "sid": 222,
+      "location": 2,
+      "content": "希望能对大家的投资有些许的帮助",
+      "music": 0.0
+    },
+    {
+      "from": 506.23,
+      "to": 508.3,
+      "sid": 223,
+      "location": 2,
+      "content": "那我将倍感荣幸",
+      "music": 0.0
+    },
+    {
+      "from": 508.3,
+      "to": 511.1,
+      "sid": 224,
+      "location": 2,
+      "content": "好以上就是本期视频的全部内容",
+      "music": 0.0
+    },
+    {
+      "from": 511.1,
+      "to": 512.06,
+      "sid": 225,
+      "location": 2,
+      "content": "如果觉得有帮助",
+      "music": 0.0
+    },
+    {
+      "from": 512.06,
+      "to": 514.28,
+      "sid": 226,
+      "location": 2,
+      "content": "请弹幕666鼓励一下牛牛",
+      "music": 0.0
+    },
+    {
+      "from": 514.28,
+      "to": 515.18,
+      "sid": 227,
+      "location": 2,
+      "content": "我是雷牛牛",
+      "music": 0.0
+    },
+    {
+      "from": 515.18,
+      "to": 517.18,
+      "sid": 228,
+      "location": 2,
+      "content": "只分享外面搜不到的干货",
+      "music": 0.0
+    },
+    {
+      "from": 517.18,
+      "to": 518.34,
+      "sid": 229,
+      "location": 2,
+      "content": "我们下期再见",
+      "music": 0.0
+    },
+    {
+      "from": 518.34,
+      "to": 518.9,
+      "sid": 230,
+      "location": 2,
+      "content": "Bye",
+      "music": 0.0
+    }
+  ]
+}

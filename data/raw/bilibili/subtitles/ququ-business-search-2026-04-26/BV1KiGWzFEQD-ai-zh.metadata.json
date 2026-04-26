@@ -1,0 +1,22 @@
+{
+  "bvid": "BV1KiGWzFEQD",
+  "cid": 30927225920,
+  "title": "曲曲内部会议：曲曲分享她的商业壁垒",
+  "owner_name": "曲曲雌竞支招",
+  "status": "downloaded",
+  "reason": null,
+  "subtitle": {
+    "id": 1608862517986319872,
+    "lan": "ai-zh",
+    "lan_doc": "中文",
+    "is_lock": false,
+    "subtitle_url": "https://aisubtitle.hdslb.com/bfs/ai_subtitle/prod/1133732450807612647300590023e6da0df707ba3729f94266112016f5",
+    "type": 1,
+    "id_str": "1608862517986319872",
+    "ai_type": 1,
+    "ai_status": 2
+  },
+  "raw_subtitle_path": "data\\raw\\bilibili\\subtitles\\ququ-business-search-2026-04-26\\BV1KiGWzFEQD-ai-zh.raw.json",
+  "text_path": "data\\raw\\bilibili\\subtitles\\ququ-business-search-2026-04-26\\BV1KiGWzFEQD-ai-zh.txt",
+  "metadata_path": "data\\raw\\bilibili\\subtitles\\ququ-business-search-2026-04-26\\BV1KiGWzFEQD-ai-zh.metadata.json"
+}

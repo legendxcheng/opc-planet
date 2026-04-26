@@ -1,0 +1,356 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.04,
+      "to": 1.82,
+      "sid": 1,
+      "location": 2,
+      "content": "日本女友死都不穿JK",
+      "music": 0.0
+    },
+    {
+      "from": 1.82,
+      "to": 4.48,
+      "sid": 2,
+      "location": 2,
+      "content": "居然因为这个内心肯定你们的开封",
+      "music": 0.0
+    },
+    {
+      "from": 4.48,
+      "to": 6.1,
+      "sid": 3,
+      "location": 2,
+      "content": "那个你球准备好了是好",
+      "music": 0.0
+    },
+    {
+      "from": 6.1,
+      "to": 7.56,
+      "sid": 4,
+      "location": 2,
+      "content": "你今天就穿这身出去啊",
+      "music": 0.0
+    },
+    {
+      "from": 7.56,
+      "to": 9.03,
+      "sid": 5,
+      "location": 2,
+      "content": "那你就没包包已经",
+      "music": 0.0
+    },
+    {
+      "from": 9.03,
+      "to": 10.59,
+      "sid": 6,
+      "location": 2,
+      "content": "我想让你今天穿JK",
+      "music": 0.0
+    },
+    {
+      "from": 11.91,
+      "to": 12.79,
+      "sid": 7,
+      "location": 2,
+      "content": "有学生的话",
+      "music": 0.0
+    },
+    {
+      "from": 12.79,
+      "to": 14.35,
+      "sid": 8,
+      "location": 2,
+      "content": "怎么不能穿JK了呀",
+      "music": 0.0
+    },
+    {
+      "from": 14.35,
+      "to": 18.31,
+      "sid": 9,
+      "location": 2,
+      "content": "人家都交给了啥呀",
+      "music": 0.0
+    },
+    {
+      "from": 18.31,
+      "to": 19.59,
+      "sid": 10,
+      "location": 2,
+      "content": "这不挺好看的吗",
+      "music": 0.0
+    },
+    {
+      "from": 19.59,
+      "to": 20.69,
+      "sid": 11,
+      "location": 2,
+      "content": "戴什么口罩呀",
+      "music": 0.0
+    },
+    {
+      "from": 20.69,
+      "to": 21.35,
+      "sid": 12,
+      "location": 2,
+      "content": "导演考",
+      "music": 0.0
+    },
+    {
+      "from": 21.35,
+      "to": 22.64,
+      "sid": 13,
+      "location": 2,
+      "content": "我也进商场前",
+      "music": 0.0
+    },
+    {
+      "from": 22.64,
+      "to": 24.02,
+      "sid": 14,
+      "location": 2,
+      "content": "一直鬼鬼祟祟的",
+      "music": 0.0
+    },
+    {
+      "from": 24.02,
+      "to": 25.9,
+      "sid": 15,
+      "location": 2,
+      "content": "你怎么像个贼一样",
+      "music": 0.0
+    },
+    {
+      "from": 25.9,
+      "to": 28.12,
+      "sid": 16,
+      "location": 2,
+      "content": "进了商场也不让我牵手",
+      "music": 0.0
+    },
+    {
+      "from": 28.12,
+      "to": 29.369,
+      "sid": 17,
+      "location": 2,
+      "content": "就要牵你",
+      "music": 0.0
+    },
+    {
+      "from": 29.369,
+      "to": 32.289,
+      "sid": 18,
+      "location": 2,
+      "content": "为啥他们的对吧",
+      "music": 0.0
+    },
+    {
+      "from": 32.289,
+      "to": 33.97,
+      "sid": 19,
+      "location": 2,
+      "content": "咳咳咳酱酱",
+      "music": 0.0
+    },
+    {
+      "from": 33.97,
+      "to": 35.95,
+      "sid": 20,
+      "location": 2,
+      "content": "你是不是特别讨厌穿JK啊",
+      "music": 0.0
+    },
+    {
+      "from": 35.95,
+      "to": 36.55,
+      "sid": 21,
+      "location": 2,
+      "content": "男友",
+      "music": 0.0
+    },
+    {
+      "from": 36.55,
+      "to": 38.49,
+      "sid": 22,
+      "location": 2,
+      "content": "那你怎么表现的这么抗拒啊",
+      "music": 0.0
+    },
+    {
+      "from": 38.49,
+      "to": 39.65,
+      "sid": 23,
+      "location": 2,
+      "content": "JK哥",
+      "music": 0.0
+    },
+    {
+      "from": 39.65,
+      "to": 42.31,
+      "sid": 24,
+      "location": 2,
+      "content": "你可以真的假的",
+      "music": 0.0
+    },
+    {
+      "from": 42.31,
+      "to": 43.21,
+      "sid": 25,
+      "location": 2,
+      "content": "这个是JK",
+      "music": 0.0
+    },
+    {
+      "from": 43.21,
+      "to": 44.95,
+      "sid": 26,
+      "location": 2,
+      "content": "就是哥哥是JK",
+      "music": 0.0
+    },
+    {
+      "from": 44.95,
+      "to": 46.97,
+      "sid": 27,
+      "location": 2,
+      "content": "我还以为这种衣服叫JK7哥",
+      "music": 0.0
+    },
+    {
+      "from": 46.97,
+      "to": 48.68,
+      "sid": 28,
+      "location": 2,
+      "content": "我的就那一个",
+      "music": 0.0
+    },
+    {
+      "from": 55.48,
+      "to": 56.4,
+      "sid": 29,
+      "location": 2,
+      "content": "不至于不至于",
+      "music": 0.0
+    },
+    {
+      "from": 56.4,
+      "to": 58.379,
+      "sid": 30,
+      "location": 2,
+      "content": "所以你就是因为这个不喜欢JK的吗",
+      "music": 0.0
+    },
+    {
+      "from": 58.379,
+      "to": 59.759,
+      "sid": 31,
+      "location": 2,
+      "content": "好的谢谢你",
+      "music": 0.0
+    },
+    {
+      "from": 59.759,
+      "to": 63.199,
+      "sid": 32,
+      "location": 2,
+      "content": "后面就是那正常情况下谁谁会穿JK啊",
+      "music": 0.0
+    },
+    {
+      "from": 63.199,
+      "to": 64.339,
+      "sid": 33,
+      "location": 2,
+      "content": "除了高中生以外",
+      "music": 0.0
+    },
+    {
+      "from": 64.339,
+      "to": 65.0,
+      "sid": 34,
+      "location": 2,
+      "content": "第一季女",
+      "music": 0.0
+    },
+    {
+      "from": 69.73,
+      "to": 71.27,
+      "sid": 35,
+      "location": 2,
+      "content": "大大啦爱你",
+      "music": 0.0
+    },
+    {
+      "from": 71.27,
+      "to": 73.53,
+      "sid": 36,
+      "location": 2,
+      "content": "虽然但是但还是很喜欢那江川JK啊",
+      "music": 0.0
+    },
+    {
+      "from": 73.53,
+      "to": 74.37,
+      "sid": 37,
+      "location": 2,
+      "content": "真的很可爱",
+      "music": 0.0
+    },
+    {
+      "from": 74.37,
+      "to": 76.67,
+      "sid": 38,
+      "location": 2,
+      "content": "虽然她还是不让我剪",
+      "music": 0.0
+    },
+    {
+      "from": 76.67,
+      "to": 78.71,
+      "sid": 39,
+      "location": 2,
+      "content": "请牵着孩子手",
+      "music": 0.5624998242187939
+    },
+    {
+      "from": 78.71,
+      "to": 80.75,
+      "sid": 40,
+      "location": 2,
+      "content": "你听好运的",
+      "music": 0.0
+    },
+    {
+      "from": 80.75,
+      "to": 83.27,
+      "sid": 41,
+      "location": 2,
+      "content": "你听还是中文说的",
+      "music": 0.0
+    },
+    {
+      "from": 83.95,
+      "to": 86.92,
+      "sid": 42,
+      "location": 2,
+      "content": "你回手一看啊",
+      "music": 0.0
+    },
+    {
+      "from": 86.92,
+      "to": 88.5,
+      "sid": 43,
+      "location": 2,
+      "content": "八个兵",
+      "music": 0.0
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "bvid": "BV1QnvCBhE45",
+  "cid": 35035612796,
+  "title": "没有人教你社会运行潜规则。曲曲一条视频讲清楚了",
+  "owner_name": "曲之心大女人官方",
+  "status": "downloaded",
+  "reason": null,
+  "subtitle": {
+    "id": 1533361809971806976,
+    "lan": "ai-zh",
+    "lan_doc": "中文",
+    "is_lock": false,
+    "subtitle_url": "https://aisubtitle.hdslb.com/bfs/ai_subtitle/prod/16560705161614942327d7282051948946c32b42cd71d2e6addf",
+    "type": 1,
+    "id_str": "1533361809971806976",
+    "ai_type": 0,
+    "ai_status": 2
+  },
+  "raw_subtitle_path": "data\\raw\\bilibili\\subtitles\\ququ-business-search-2026-04-26\\BV1QnvCBhE45-ai-zh.raw.json",
+  "text_path": "data\\raw\\bilibili\\subtitles\\ququ-business-search-2026-04-26\\BV1QnvCBhE45-ai-zh.txt",
+  "metadata_path": "data\\raw\\bilibili\\subtitles\\ququ-business-search-2026-04-26\\BV1QnvCBhE45-ai-zh.metadata.json"
+}

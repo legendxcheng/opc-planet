@@ -1,0 +1,22 @@
+{
+  "bvid": "BV1xfo5BbEX8",
+  "cid": 37777311019,
+  "title": "曲曲：普通人想财富自由除了销售别无他法",
+  "owner_name": "美妮要勇敢",
+  "status": "downloaded",
+  "reason": null,
+  "subtitle": {
+    "id": 2003752189541080064,
+    "lan": "ai-zh",
+    "lan_doc": "中文",
+    "is_lock": false,
+    "subtitle_url": "https://aisubtitle.hdslb.com/bfs/ai_subtitle/prod/11645852490822837777311019f3acd22353d553f2e81e9cf746a1c85d",
+    "type": 1,
+    "id_str": "2003752189541080064",
+    "ai_type": 0,
+    "ai_status": 2
+  },
+  "raw_subtitle_path": "data\\raw\\bilibili\\subtitles\\ququ-business-search-2026-04-26\\BV1xfo5BbEX8-ai-zh.raw.json",
+  "text_path": "data\\raw\\bilibili\\subtitles\\ququ-business-search-2026-04-26\\BV1xfo5BbEX8-ai-zh.txt",
+  "metadata_path": "data\\raw\\bilibili\\subtitles\\ququ-business-search-2026-04-26\\BV1xfo5BbEX8-ai-zh.metadata.json"
+}

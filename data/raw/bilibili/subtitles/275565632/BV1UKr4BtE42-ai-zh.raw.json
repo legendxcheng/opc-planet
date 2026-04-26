@@ -1,0 +1,1852 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.02,
+      "to": 1.38,
+      "sid": 1,
+      "location": 2,
+      "content": "怎么能够在不内耗",
+      "music": 0.0
+    },
+    {
+      "from": 1.38,
+      "to": 2.46,
+      "sid": 2,
+      "location": 2,
+      "content": "不觉得累的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 2.46,
+      "to": 4.82,
+      "sid": 3,
+      "location": 2,
+      "content": "完全靠自我驱动实现年入百万以上",
+      "music": 0.0
+    },
+    {
+      "from": 4.82,
+      "to": 6.92,
+      "sid": 4,
+      "location": 2,
+      "content": "我这个自媒体业务在做到第三个月的时候",
+      "music": 0.0
+    },
+    {
+      "from": 6.92,
+      "to": 7.68,
+      "sid": 5,
+      "location": 2,
+      "content": "实现了这一点",
+      "music": 0.0
+    },
+    {
+      "from": 7.68,
+      "to": 8.72,
+      "sid": 6,
+      "location": 2,
+      "content": "模式也非常简单",
+      "music": 0.0
+    },
+    {
+      "from": 8.72,
+      "to": 9.48,
+      "sid": 7,
+      "location": 2,
+      "content": "就是发视频",
+      "music": 0.0
+    },
+    {
+      "from": 9.48,
+      "to": 10.76,
+      "sid": 8,
+      "location": 2,
+      "content": "而且你往前翻的话会发现",
+      "music": 0.0
+    },
+    {
+      "from": 10.76,
+      "to": 12.4,
+      "sid": 9,
+      "location": 2,
+      "content": "我那个时候发的视频其实挺烂的",
+      "music": 0.0
+    },
+    {
+      "from": 12.4,
+      "to": 13.5,
+      "sid": 10,
+      "location": 2,
+      "content": "变现的产品也很简单",
+      "music": 0.0
+    },
+    {
+      "from": 13.5,
+      "to": 14.94,
+      "sid": 11,
+      "location": 2,
+      "content": "就是199块钱答疑",
+      "music": 0.0
+    },
+    {
+      "from": 14.94,
+      "to": 16.18,
+      "sid": 12,
+      "location": 2,
+      "content": "你一天能卖掉11个",
+      "music": 0.0
+    },
+    {
+      "from": 16.18,
+      "to": 16.94,
+      "sid": 13,
+      "location": 2,
+      "content": "一年就是80万",
+      "music": 0.0
+    },
+    {
+      "from": 16.94,
+      "to": 18.78,
+      "sid": 14,
+      "location": 2,
+      "content": "再加上其他的零零散散的咨询什么的",
+      "music": 0.0
+    },
+    {
+      "from": 18.78,
+      "to": 19.78,
+      "sid": 15,
+      "location": 2,
+      "content": "一年就错过100万了",
+      "music": 0.0
+    },
+    {
+      "from": 19.78,
+      "to": 20.42,
+      "sid": 16,
+      "location": 2,
+      "content": "那今天讲一下",
+      "music": 0.0
+    },
+    {
+      "from": 20.42,
+      "to": 22.3,
+      "sid": 17,
+      "location": 2,
+      "content": "如果我要从0~11直奔目标",
+      "music": 0.0
+    },
+    {
+      "from": 22.3,
+      "to": 24.98,
+      "sid": 18,
+      "location": 2,
+      "content": "我就是要直接拿到不内耗年入百万这个结果",
+      "music": 0.0
+    },
+    {
+      "from": 24.98,
+      "to": 26.78,
+      "sid": 19,
+      "location": 2,
+      "content": "这个过程当中的核心要素是什么",
+      "music": 0.0
+    },
+    {
+      "from": 26.78,
+      "to": 27.42,
+      "sid": 20,
+      "location": 2,
+      "content": "很多人跟我说",
+      "music": 0.0
+    },
+    {
+      "from": 27.42,
+      "to": 28.22,
+      "sid": 21,
+      "location": 2,
+      "content": "上班太累了",
+      "music": 0.0
+    },
+    {
+      "from": 28.22,
+      "to": 29.22,
+      "sid": 22,
+      "location": 2,
+      "content": "我这活根本就干不完",
+      "music": 0.0
+    },
+    {
+      "from": 29.22,
+      "to": 31.02,
+      "sid": 23,
+      "location": 2,
+      "content": "我怎么能跟你一样又轻松又赚到钱",
+      "music": 0.0
+    },
+    {
+      "from": 31.02,
+      "to": 33.26,
+      "sid": 24,
+      "location": 2,
+      "content": "我说这里面有个关键点一定要搞清楚啊",
+      "music": 0.0
+    },
+    {
+      "from": 33.26,
+      "to": 34.84,
+      "sid": 25,
+      "location": 2,
+      "content": "就是你干的活多不多",
+      "music": 0.0
+    },
+    {
+      "from": 34.84,
+      "to": 36.82,
+      "sid": 26,
+      "location": 2,
+      "content": "和你觉得这个工作轻松不轻松",
+      "music": 0.0
+    },
+    {
+      "from": 36.82,
+      "to": 38.9,
+      "sid": 27,
+      "location": 2,
+      "content": "这两件事情之间是没有必然联系的",
+      "music": 0.0
+    },
+    {
+      "from": 38.9,
+      "to": 40.14,
+      "sid": 28,
+      "location": 2,
+      "content": "我在公司上班的时候",
+      "music": 0.0
+    },
+    {
+      "from": 40.14,
+      "to": 40.74,
+      "sid": 29,
+      "location": 2,
+      "content": "坦白讲",
+      "music": 0.0
+    },
+    {
+      "from": 40.74,
+      "to": 42.9,
+      "sid": 30,
+      "location": 2,
+      "content": "我觉得我的有效工作产出并不多",
+      "music": 0.0
+    },
+    {
+      "from": 42.9,
+      "to": 45.06,
+      "sid": 31,
+      "location": 2,
+      "content": "我都担心老板给我发的工资能不能回本",
+      "music": 0.0
+    },
+    {
+      "from": 45.06,
+      "to": 46.58,
+      "sid": 32,
+      "location": 2,
+      "content": "但是我每天困得要死",
+      "music": 0.0
+    },
+    {
+      "from": 46.58,
+      "to": 47.28,
+      "sid": 33,
+      "location": 2,
+      "content": "我累的不行",
+      "music": 0.0
+    },
+    {
+      "from": 47.28,
+      "to": 49.32,
+      "sid": 34,
+      "location": 2,
+      "content": "原因是有一个概念叫自我决定理论",
+      "music": 0.0
+    },
+    {
+      "from": 49.32,
+      "to": 49.82,
+      "sid": 35,
+      "location": 2,
+      "content": "他说的是",
+      "music": 0.0
+    },
+    {
+      "from": 49.82,
+      "to": 52.4,
+      "sid": 36,
+      "location": 2,
+      "content": "即便是有一件你原本很喜欢做的事情",
+      "music": 0.0
+    },
+    {
+      "from": 52.4,
+      "to": 54.52,
+      "sid": 37,
+      "location": 2,
+      "content": "如果有人强迫你在特定的时间",
+      "music": 0.0
+    },
+    {
+      "from": 54.52,
+      "to": 57.0,
+      "sid": 38,
+      "location": 2,
+      "content": "特定的地点非要用特定的方式去做",
+      "music": 0.0
+    },
+    {
+      "from": 57.0,
+      "to": 59.3,
+      "sid": 39,
+      "location": 2,
+      "content": "他也会马上变成一件你很讨厌的事情",
+      "music": 0.0
+    },
+    {
+      "from": 59.3,
+      "to": 61.16,
+      "sid": 40,
+      "location": 2,
+      "content": "显然这件事情就叫做上班对吧",
+      "music": 0.0
+    },
+    {
+      "from": 61.16,
+      "to": 63.18,
+      "sid": 41,
+      "location": 2,
+      "content": "所以不想上班的核心是这件事情",
+      "music": 0.0
+    },
+    {
+      "from": 63.18,
+      "to": 64.54,
+      "sid": 42,
+      "location": 2,
+      "content": "破坏了我的自主性",
+      "music": 0.0
+    },
+    {
+      "from": 64.54,
+      "to": 65.9,
+      "sid": 43,
+      "location": 2,
+      "content": "而不是我干的活太多了",
+      "music": 0.0
+    },
+    {
+      "from": 65.9,
+      "to": 66.9,
+      "sid": 44,
+      "location": 2,
+      "content": "那么反过来也一样",
+      "music": 0.0
+    },
+    {
+      "from": 66.9,
+      "to": 69.52,
+      "sid": 45,
+      "location": 2,
+      "content": "当我决定我自由职业或者我自己创业的时候",
+      "music": 0.0
+    },
+    {
+      "from": 69.52,
+      "to": 71.96,
+      "sid": 46,
+      "location": 2,
+      "content": "我要干的第一件事情是恢复我的自主性",
+      "music": 0.0
+    },
+    {
+      "from": 71.96,
+      "to": 73.62,
+      "sid": 47,
+      "location": 2,
+      "content": "而不是减少我的工作量",
+      "music": 0.0
+    },
+    {
+      "from": 73.62,
+      "to": 74.74,
+      "sid": 48,
+      "location": 2,
+      "content": "减少我的工作量",
+      "music": 0.0
+    },
+    {
+      "from": 74.74,
+      "to": 76.72,
+      "sid": 49,
+      "location": 2,
+      "content": "这件事情本身并不会让我开心的",
+      "music": 0.0
+    },
+    {
+      "from": 76.72,
+      "to": 78.5,
+      "sid": 50,
+      "location": 2,
+      "content": "并且我们从现实的角度去想一下",
+      "music": 0.0
+    },
+    {
+      "from": 78.5,
+      "to": 80.72,
+      "sid": 51,
+      "location": 2,
+      "content": "如果你要在六个月以内从0~1",
+      "music": 0.0
+    },
+    {
+      "from": 80.72,
+      "to": 82.36,
+      "sid": 52,
+      "location": 2,
+      "content": "去实现一个年入百万的生意",
+      "music": 0.0
+    },
+    {
+      "from": 82.36,
+      "to": 84.2,
+      "sid": 53,
+      "location": 2,
+      "content": "这意味着你很快就要开始",
+      "music": 0.0
+    },
+    {
+      "from": 84.2,
+      "to": 86.64,
+      "sid": 54,
+      "location": 2,
+      "content": "每天至少创造2700块钱的利润",
+      "music": 0.0
+    },
+    {
+      "from": 86.64,
+      "to": 89.28,
+      "sid": 55,
+      "location": 2,
+      "content": "我们凭常识去想一下这件事情的工作量",
+      "music": 0.0
+    },
+    {
+      "from": 89.28,
+      "to": 90.32,
+      "sid": 56,
+      "location": 2,
+      "content": "他有可能很小吗",
+      "music": 0.0
+    },
+    {
+      "from": 90.32,
+      "to": 91.46,
+      "sid": 57,
+      "location": 2,
+      "content": "这个概率是极低的",
+      "music": 0.0
+    },
+    {
+      "from": 94.48,
+      "to": 96.34,
+      "sid": 58,
+      "location": 2,
+      "content": "这个时候可能有原或者AIA阵",
+      "music": 0.0
+    },
+    {
+      "from": 96.34,
+      "to": 97.02,
+      "sid": 59,
+      "location": 2,
+      "content": "他帮你干活",
+      "music": 0.0
+    },
+    {
+      "from": 97.02,
+      "to": 99.18,
+      "sid": 60,
+      "location": 2,
+      "content": "这个时候你有可能实现你啥都不用干",
+      "music": 0.0
+    },
+    {
+      "from": 99.18,
+      "to": 100.02,
+      "sid": 61,
+      "location": 2,
+      "content": "躺着就年入百万",
+      "music": 0.0
+    },
+    {
+      "from": 100.02,
+      "to": 102.84,
+      "sid": 62,
+      "location": 2,
+      "content": "否则在从0~1的这个第一个100万的阶段",
+      "music": 0.0
+    },
+    {
+      "from": 102.84,
+      "to": 103.96,
+      "sid": 63,
+      "location": 2,
+      "content": "你想要实现不累他",
+      "music": 0.0
+    },
+    {
+      "from": 103.96,
+      "to": 105.24,
+      "sid": 64,
+      "location": 2,
+      "content": "他一定是因为你有兴趣",
+      "music": 0.0
+    },
+    {
+      "from": 105.24,
+      "to": 105.92,
+      "sid": 65,
+      "location": 2,
+      "content": "你有正反馈",
+      "music": 0.0
+    },
+    {
+      "from": 105.92,
+      "to": 107.16,
+      "sid": 66,
+      "location": 2,
+      "content": "你在时间上是自由的",
+      "music": 0.0
+    },
+    {
+      "from": 107.16,
+      "to": 109.02,
+      "sid": 67,
+      "location": 2,
+      "content": "你实现了自我感感受上的轻松",
+      "music": 0.0
+    },
+    {
+      "from": 109.02,
+      "to": 110.6,
+      "sid": 68,
+      "location": 2,
+      "content": "我们管这个叫乐此不疲对吧",
+      "music": 0.0
+    },
+    {
+      "from": 110.6,
+      "to": 112.5,
+      "sid": 69,
+      "location": 2,
+      "content": "而不是因为你什么活都不用干了",
+      "music": 0.0
+    },
+    {
+      "from": 112.5,
+      "to": 114.96,
+      "sid": 70,
+      "location": 2,
+      "content": "所以我们研究的这个事情不是如何让我不工作",
+      "music": 0.0
+    },
+    {
+      "from": 114.96,
+      "to": 117.04,
+      "sid": 71,
+      "location": 2,
+      "content": "而是如何让工作这件事情更有动力",
+      "music": 0.0
+    },
+    {
+      "from": 117.04,
+      "to": 118.16,
+      "sid": 72,
+      "location": 2,
+      "content": "让我不会去排斥他",
+      "music": 0.0
+    },
+    {
+      "from": 118.16,
+      "to": 119.56,
+      "sid": 73,
+      "location": 2,
+      "content": "让他不会掏空我的精力",
+      "music": 0.0
+    },
+    {
+      "from": 119.56,
+      "to": 121.04,
+      "sid": 74,
+      "location": 2,
+      "content": "那么这件事情的核心就是",
+      "music": 0.0
+    },
+    {
+      "from": 123.12,
+      "to": 124.48,
+      "sid": 75,
+      "location": 2,
+      "content": "让别人给你付钱的同时",
+      "music": 0.0
+    },
+    {
+      "from": 124.48,
+      "to": 127.84,
+      "sid": 76,
+      "location": 2,
+      "content": "你对内还要设计一套类似游戏一样的一个机制",
+      "music": 0.0
+    },
+    {
+      "from": 127.84,
+      "to": 129.02,
+      "sid": 77,
+      "location": 2,
+      "content": "可以不断的激励你",
+      "music": 0.0
+    },
+    {
+      "from": 129.02,
+      "to": 129.54,
+      "sid": 78,
+      "location": 2,
+      "content": "有热情",
+      "music": 0.0
+    },
+    {
+      "from": 129.54,
+      "to": 130.94,
+      "sid": 79,
+      "location": 2,
+      "content": "有激情去完成你的工作",
+      "music": 0.0
+    },
+    {
+      "from": 130.94,
+      "to": 132.86,
+      "sid": 80,
+      "location": 2,
+      "content": "否则如果你只是靠什么自律",
+      "music": 0.0
+    },
+    {
+      "from": 132.86,
+      "to": 135.82,
+      "sid": 81,
+      "location": 2,
+      "content": "坚韧刻苦去完成这件事情来光宗耀祖",
+      "music": 0.0
+    },
+    {
+      "from": 135.82,
+      "to": 137.34,
+      "sid": 82,
+      "location": 2,
+      "content": "我觉得这个事情是没有意义的",
+      "music": 0.0
+    },
+    {
+      "from": 137.34,
+      "to": 139.34,
+      "sid": 83,
+      "location": 2,
+      "content": "因为你的生活状态并没有改变了对吧",
+      "music": 0.0
+    },
+    {
+      "from": 139.34,
+      "to": 140.98,
+      "sid": 84,
+      "location": 2,
+      "content": "你只是给自己重新找了一个班上",
+      "music": 0.0
+    },
+    {
+      "from": 140.98,
+      "to": 143.48,
+      "sid": 85,
+      "location": 2,
+      "content": "那怎么能实现这个游戏化的自我驱动的赚钱",
+      "music": 0.0
+    },
+    {
+      "from": 143.48,
+      "to": 144.68,
+      "sid": 86,
+      "location": 2,
+      "content": "我有一个非常简单的标准",
+      "music": 0.0
+    },
+    {
+      "from": 144.68,
+      "to": 146.04,
+      "sid": 87,
+      "location": 2,
+      "content": "就是我做一件事情",
+      "music": 0.0
+    },
+    {
+      "from": 146.04,
+      "to": 147.32,
+      "sid": 88,
+      "location": 2,
+      "content": "要求有三份回报",
+      "music": 0.0
+    },
+    {
+      "from": 147.32,
+      "to": 149.96,
+      "sid": 89,
+      "location": 2,
+      "content": "每当有一个节点是需要消耗我的能量",
+      "music": 0.0
+    },
+    {
+      "from": 149.96,
+      "to": 151.48,
+      "sid": 90,
+      "location": 2,
+      "content": "消耗我的心力去产出的时候",
+      "music": 0.0
+    },
+    {
+      "from": 151.48,
+      "to": 153.98,
+      "sid": 91,
+      "location": 2,
+      "content": "我都必须同时获得三层正反馈",
+      "music": 0.0
+    },
+    {
+      "from": 153.98,
+      "to": 155.22,
+      "sid": 92,
+      "location": 2,
+      "content": "在这三层正反馈里面",
+      "music": 0.0
+    },
+    {
+      "from": 155.22,
+      "to": 156.58,
+      "sid": 93,
+      "location": 2,
+      "content": "第一层可能最反常识",
+      "music": 0.0
+    },
+    {
+      "from": 156.58,
+      "to": 157.82,
+      "sid": 94,
+      "location": 2,
+      "content": "他其实是自我成就",
+      "music": 0.0
+    },
+    {
+      "from": 157.82,
+      "to": 159.28,
+      "sid": 95,
+      "location": 2,
+      "content": "就说这个事在抛开前",
+      "music": 0.0
+    },
+    {
+      "from": 159.28,
+      "to": 161.12,
+      "sid": 96,
+      "location": 2,
+      "content": "抛开各种利益都不谈的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 161.12,
+      "to": 163.54,
+      "sid": 97,
+      "location": 2,
+      "content": "我这个事他在社会层面上就是有价值的",
+      "music": 0.0
+    },
+    {
+      "from": 163.54,
+      "to": 164.94,
+      "sid": 98,
+      "location": 2,
+      "content": "我能感说到自我实现",
+      "music": 0.0
+    },
+    {
+      "from": 164.94,
+      "to": 167.62,
+      "sid": 99,
+      "location": 2,
+      "content": "我能明显的感受到我是一个对社会有用的人",
+      "music": 0.0
+    },
+    {
+      "from": 167.62,
+      "to": 168.14,
+      "sid": 100,
+      "location": 2,
+      "content": "很多人跟我说",
+      "music": 0.0
+    },
+    {
+      "from": 168.14,
+      "to": 169.12,
+      "sid": 101,
+      "location": 2,
+      "content": "我年入百万的话",
+      "music": 0.0
+    },
+    {
+      "from": 169.12,
+      "to": 170.52,
+      "sid": 102,
+      "location": 2,
+      "content": "我都要被社会扒一层皮了",
+      "music": 0.0
+    },
+    {
+      "from": 170.52,
+      "to": 171.52,
+      "sid": 103,
+      "location": 2,
+      "content": "我哪有时间管你那么多",
+      "music": 0.0
+    },
+    {
+      "from": 171.52,
+      "to": 172.16,
+      "sid": 104,
+      "location": 2,
+      "content": "有的没的",
+      "music": 0.0
+    },
+    {
+      "from": 172.16,
+      "to": 173.08,
+      "sid": 105,
+      "location": 2,
+      "content": "但实际情况是",
+      "music": 0.0
+    },
+    {
+      "from": 173.08,
+      "to": 174.12,
+      "sid": 106,
+      "location": 2,
+      "content": "即便是功利的讲",
+      "music": 0.0
+    },
+    {
+      "from": 174.12,
+      "to": 175.42,
+      "sid": 107,
+      "location": 2,
+      "content": "即便是从商业角度讲",
+      "music": 0.0
+    },
+    {
+      "from": 175.42,
+      "to": 178.3,
+      "sid": 108,
+      "location": 2,
+      "content": "你的业务也会因此而而获得更好的增长",
+      "music": 0.0
+    },
+    {
+      "from": 178.3,
+      "to": 180.74,
+      "sid": 109,
+      "location": 2,
+      "content": "因为一定会有一部分顾客会主动愿意",
+      "music": 0.0
+    },
+    {
+      "from": 180.74,
+      "to": 181.46,
+      "sid": 110,
+      "location": 2,
+      "content": "帮你写好评",
+      "music": 0.0
+    },
+    {
+      "from": 181.46,
+      "to": 182.48,
+      "sid": 111,
+      "location": 2,
+      "content": "帮助你去裂变传播",
+      "music": 0.0
+    },
+    {
+      "from": 182.48,
+      "to": 183.4,
+      "sid": 112,
+      "location": 2,
+      "content": "而从你的经历",
+      "music": 0.0
+    },
+    {
+      "from": 183.4,
+      "to": 184.48,
+      "sid": 113,
+      "location": 2,
+      "content": "以管理的角度来讲",
+      "music": 0.0
+    },
+    {
+      "from": 184.48,
+      "to": 185.4,
+      "sid": 114,
+      "location": 2,
+      "content": "这个是非常重要啊",
+      "music": 0.0
+    },
+    {
+      "from": 185.4,
+      "to": 187.2,
+      "sid": 115,
+      "location": 2,
+      "content": "就是当你每天早上起床的时候",
+      "music": 0.0
+    },
+    {
+      "from": 187.2,
+      "to": 188.96,
+      "sid": 116,
+      "location": 2,
+      "content": "你觉得你在帮助别人的时候",
+      "music": 0.0
+    },
+    {
+      "from": 188.96,
+      "to": 191.2,
+      "sid": 117,
+      "location": 2,
+      "content": "这种情绪上的给你带来的正反馈",
+      "music": 0.0
+    },
+    {
+      "from": 191.2,
+      "to": 193.08,
+      "sid": 118,
+      "location": 2,
+      "content": "比你每天喝十罐红牛都管用",
+      "music": 0.0
+    },
+    {
+      "from": 193.08,
+      "to": 194.74,
+      "sid": 119,
+      "location": 2,
+      "content": "这是我说的三层正反馈的第一层",
+      "music": 0.0
+    },
+    {
+      "from": 194.74,
+      "to": 197.42,
+      "sid": 120,
+      "location": 2,
+      "content": "而第二层和第三层分别是流量层面的正反馈",
+      "music": 0.0
+    },
+    {
+      "from": 197.42,
+      "to": 198.54,
+      "sid": 121,
+      "location": 2,
+      "content": "和前层面的正反馈",
+      "music": 0.0
+    },
+    {
+      "from": 198.54,
+      "to": 201.08,
+      "sid": 122,
+      "location": 2,
+      "content": "当然最好的情况下是这三层能你同时具备",
+      "music": 0.0
+    },
+    {
+      "from": 201.08,
+      "to": 203.62,
+      "sid": 123,
+      "location": 2,
+      "content": "我拿我这个自媒体产品做到第三个月的时候",
+      "music": 0.0
+    },
+    {
+      "from": 203.62,
+      "to": 204.96,
+      "sid": 124,
+      "location": 2,
+      "content": "那个阶段来给大家举个例子",
+      "music": 0.0
+    },
+    {
+      "from": 204.96,
+      "to": 206.08,
+      "sid": 125,
+      "location": 2,
+      "content": "当时我的产品特别简单嘛",
+      "music": 0.0
+    },
+    {
+      "from": 206.08,
+      "to": 207.12,
+      "sid": 126,
+      "location": 2,
+      "content": "就拉了个群给大家答疑",
+      "music": 0.0
+    },
+    {
+      "from": 207.12,
+      "to": 208.8,
+      "sid": 127,
+      "location": 2,
+      "content": "那那么很快这里面就产生了一个问题",
+      "music": 0.0
+    },
+    {
+      "from": 208.8,
+      "to": 210.42,
+      "sid": 128,
+      "location": 2,
+      "content": "就是当别人问了你一个问题的时候",
+      "music": 0.0
+    },
+    {
+      "from": 210.42,
+      "to": 212.7,
+      "sid": 129,
+      "location": 2,
+      "content": "你觉得你产出的回答的详细程度",
+      "music": 0.0
+    },
+    {
+      "from": 212.7,
+      "to": 214.16,
+      "sid": 130,
+      "location": 2,
+      "content": "应该保持在一个什么样的尺度",
+      "music": 0.0
+    },
+    {
+      "from": 214.16,
+      "to": 216.44,
+      "sid": 131,
+      "location": 2,
+      "content": "你是要给每个人都详细展开个几百上千字",
+      "music": 0.0
+    },
+    {
+      "from": 216.44,
+      "to": 217.08,
+      "sid": 132,
+      "location": 2,
+      "content": "还是三五个字",
+      "music": 0.0
+    },
+    {
+      "from": 217.08,
+      "to": 218.28,
+      "sid": 133,
+      "location": 2,
+      "content": "就把这个事情搪塞过去",
+      "music": 0.0
+    },
+    {
+      "from": 218.28,
+      "to": 220.08,
+      "sid": 134,
+      "location": 2,
+      "content": "因为如果你花了太少的时间去答疑",
+      "music": 0.0
+    },
+    {
+      "from": 220.08,
+      "to": 221.44,
+      "sid": 135,
+      "location": 2,
+      "content": "这个产品的体验就不好",
+      "music": 0.0
+    },
+    {
+      "from": 221.44,
+      "to": 222.64,
+      "sid": 136,
+      "location": 2,
+      "content": "如果你画了再多的时间去答",
+      "music": 0.0
+    },
+    {
+      "from": 222.64,
+      "to": 224.04,
+      "sid": 137,
+      "location": 2,
+      "content": "你就没有时间干其他的事情了",
+      "music": 0.0
+    },
+    {
+      "from": 224.04,
+      "to": 225.28,
+      "sid": 138,
+      "location": 2,
+      "content": "但最终我定了一个标准",
+      "music": 0.0
+    },
+    {
+      "from": 225.28,
+      "to": 227.28,
+      "sid": 139,
+      "location": 2,
+      "content": "就是我针对于这个问题的回答",
+      "music": 0.0
+    },
+    {
+      "from": 227.28,
+      "to": 230.0,
+      "sid": 140,
+      "location": 2,
+      "content": "他应该是一个完整的系统化的一个论述",
+      "music": 0.0
+    },
+    {
+      "from": 230.0,
+      "to": 232.08,
+      "sid": 141,
+      "location": 2,
+      "content": "它要完整到你把这个内容单拎出来",
+      "music": 0.0
+    },
+    {
+      "from": 232.08,
+      "to": 235.08,
+      "sid": 142,
+      "location": 2,
+      "content": "他应该是可以拿到网上去发的一个完整的帖子",
+      "music": 0.0
+    },
+    {
+      "from": 235.08,
+      "to": 236.08,
+      "sid": 143,
+      "location": 2,
+      "content": "要达到这个标准才行",
+      "music": 0.0
+    },
+    {
+      "from": 236.08,
+      "to": 238.36,
+      "sid": 144,
+      "location": 2,
+      "content": "然后你会发现这一个动作就实现了",
+      "music": 0.0
+    },
+    {
+      "from": 238.36,
+      "to": 239.9,
+      "sid": 145,
+      "location": 2,
+      "content": "我所说的那三层正反馈",
+      "music": 0.0
+    },
+    {
+      "from": 239.9,
+      "to": 242.44,
+      "sid": 146,
+      "location": 2,
+      "content": "首先第一层买家得到了超预期的交付",
+      "music": 0.0
+    },
+    {
+      "from": 242.44,
+      "to": 244.1,
+      "sid": 147,
+      "location": 2,
+      "content": "你会有口为裂变自传播",
+      "music": 0.0
+    },
+    {
+      "from": 244.1,
+      "to": 246.44,
+      "sid": 148,
+      "location": 2,
+      "content": "第二当你基于一个真实的买家的需求",
+      "music": 0.0
+    },
+    {
+      "from": 246.44,
+      "to": 247.26,
+      "sid": 149,
+      "location": 2,
+      "content": "提出了解决方案",
+      "music": 0.0
+    },
+    {
+      "from": 247.26,
+      "to": 248.26,
+      "sid": 150,
+      "location": 2,
+      "content": "然后把这个解决方案",
+      "music": 0.0
+    },
+    {
+      "from": 248.26,
+      "to": 249.66,
+      "sid": 151,
+      "location": 2,
+      "content": "发到社交媒体平台上的时候",
+      "music": 0.0
+    },
+    {
+      "from": 249.66,
+      "to": 250.86,
+      "sid": 152,
+      "location": 2,
+      "content": "就算你赚不到钱",
+      "music": 0.0
+    },
+    {
+      "from": 250.86,
+      "to": 252.16,
+      "sid": 153,
+      "location": 2,
+      "content": "大概率你会收获流量",
+      "music": 0.0
+    },
+    {
+      "from": 252.16,
+      "to": 253.32,
+      "sid": 154,
+      "location": 2,
+      "content": "而不管你承不承认",
+      "music": 0.0
+    },
+    {
+      "from": 253.32,
+      "to": 254.08,
+      "sid": 155,
+      "location": 2,
+      "content": "或多或少",
+      "music": 0.0
+    },
+    {
+      "from": 254.08,
+      "to": 255.92,
+      "sid": 156,
+      "location": 2,
+      "content": "当你发出去的东西有流量的时候",
+      "music": 0.0
+    },
+    {
+      "from": 255.92,
+      "to": 257.68,
+      "sid": 157,
+      "location": 2,
+      "content": "他一定会让你内心有正反馈",
+      "music": 0.0
+    },
+    {
+      "from": 257.68,
+      "to": 258.88,
+      "sid": 158,
+      "location": 2,
+      "content": "或者干脆就是虚荣心",
+      "music": 0.0
+    },
+    {
+      "from": 258.88,
+      "to": 260.12,
+      "sid": 159,
+      "location": 2,
+      "content": "当你一天给别人答疑",
+      "music": 0.0
+    },
+    {
+      "from": 260.12,
+      "to": 260.84,
+      "sid": 160,
+      "location": 2,
+      "content": "15~24",
+      "music": 0.0
+    },
+    {
+      "from": 260.84,
+      "to": 263.4,
+      "sid": 161,
+      "location": 2,
+      "content": "能至少产出5~10篇爆款的帖子的时候",
+      "music": 0.0
+    },
+    {
+      "from": 263.4,
+      "to": 263.96,
+      "sid": 162,
+      "location": 2,
+      "content": "你会发现",
+      "music": 0.0
+    },
+    {
+      "from": 263.96,
+      "to": 265.2,
+      "sid": 163,
+      "location": 2,
+      "content": "就算这个事不赚钱",
+      "music": 0.0
+    },
+    {
+      "from": 265.2,
+      "to": 266.32,
+      "sid": 164,
+      "location": 2,
+      "content": "可能你自己也愿意干",
+      "music": 0.0
+    },
+    {
+      "from": 266.32,
+      "to": 268.64,
+      "sid": 165,
+      "location": 2,
+      "content": "这实际上就是我的过往的内容积累是怎么来的",
+      "music": 0.0
+    },
+    {
+      "from": 268.64,
+      "to": 270.04,
+      "sid": 166,
+      "location": 2,
+      "content": "我在过去一年多的时间里",
+      "music": 0.0
+    },
+    {
+      "from": 270.04,
+      "to": 270.88,
+      "sid": 167,
+      "location": 2,
+      "content": "在X那个平台上",
+      "music": 0.0
+    },
+    {
+      "from": 270.88,
+      "to": 272.32,
+      "sid": 168,
+      "location": 2,
+      "content": "我总共发了1万条",
+      "music": 0.0
+    },
+    {
+      "from": 272.32,
+      "to": 273.26,
+      "sid": 169,
+      "location": 2,
+      "content": "我从来没有觉得累",
+      "music": 0.0
+    },
+    {
+      "from": 273.26,
+      "to": 275.8,
+      "sid": 170,
+      "location": 2,
+      "content": "你也很难想象有谁单纯是为了钱",
+      "music": 0.0
+    },
+    {
+      "from": 275.8,
+      "to": 277.48,
+      "sid": 171,
+      "location": 2,
+      "content": "能实现每个月发1000多条的",
+      "music": 0.0
+    },
+    {
+      "from": 277.48,
+      "to": 278.48,
+      "sid": 172,
+      "location": 2,
+      "content": "这个就是我说的第二点",
+      "music": 0.0
+    },
+    {
+      "from": 278.48,
+      "to": 279.76,
+      "sid": 173,
+      "location": 2,
+      "content": "就是流量层面上的正反馈",
+      "music": 0.0
+    },
+    {
+      "from": 279.76,
+      "to": 281.36,
+      "sid": 174,
+      "location": 2,
+      "content": "然后第三点你想一想",
+      "music": 0.0
+    },
+    {
+      "from": 281.36,
+      "to": 282.42,
+      "sid": 175,
+      "location": 2,
+      "content": "当你有一个选题",
+      "music": 0.0
+    },
+    {
+      "from": 282.42,
+      "to": 284.5,
+      "sid": 176,
+      "location": 2,
+      "content": "他在微信群里面验证了买家的需求",
+      "music": 0.0
+    },
+    {
+      "from": 284.5,
+      "to": 286.92,
+      "sid": 177,
+      "location": 2,
+      "content": "他又在一个文字平台上被验证的流量",
+      "music": 0.0
+    },
+    {
+      "from": 286.92,
+      "to": 287.48,
+      "sid": 178,
+      "location": 2,
+      "content": "你想一下",
+      "music": 0.0
+    },
+    {
+      "from": 287.48,
+      "to": 289.38,
+      "sid": 179,
+      "location": 2,
+      "content": "你把这个文字翻译成视频",
+      "music": 0.0
+    },
+    {
+      "from": 289.38,
+      "to": 291.3,
+      "sid": 180,
+      "location": 2,
+      "content": "发到国内的小红书和抖音上的时候",
+      "music": 0.0
+    },
+    {
+      "from": 291.3,
+      "to": 292.02,
+      "sid": 181,
+      "location": 2,
+      "content": "会发生什么",
+      "music": 0.0
+    },
+    {
+      "from": 292.02,
+      "to": 294.04,
+      "sid": 182,
+      "location": 2,
+      "content": "答案是你还能再获取一波流量",
+      "music": 0.0
+    },
+    {
+      "from": 294.04,
+      "to": 295.94,
+      "sid": 183,
+      "location": 2,
+      "content": "而这一波流量是可以变成钱的",
+      "music": 0.0
+    },
+    {
+      "from": 295.94,
+      "to": 297.28,
+      "sid": 184,
+      "location": 2,
+      "content": "所以当你觉得答疑是一个",
+      "music": 0.0
+    },
+    {
+      "from": 297.28,
+      "to": 298.48,
+      "sid": 185,
+      "location": 2,
+      "content": "又苦又累的差事的时候",
+      "music": 0.0
+    },
+    {
+      "from": 298.48,
+      "to": 300.3,
+      "sid": 186,
+      "location": 2,
+      "content": "我设计的这套内容流转的路径",
+      "music": 0.0
+    },
+    {
+      "from": 300.3,
+      "to": 302.22,
+      "sid": 187,
+      "location": 2,
+      "content": "可以让你同时收获社会责任感",
+      "music": 0.0
+    },
+    {
+      "from": 302.22,
+      "to": 302.66,
+      "sid": 188,
+      "location": 2,
+      "content": "流量",
+      "music": 0.0
+    },
+    {
+      "from": 302.66,
+      "to": 303.68,
+      "sid": 189,
+      "location": 2,
+      "content": "虚荣心还有钱",
+      "music": 0.0
+    },
+    {
+      "from": 303.68,
+      "to": 305.32,
+      "sid": 190,
+      "location": 2,
+      "content": "当你觉得拍视频又苦又累的时候",
+      "music": 0.0
+    },
+    {
+      "from": 305.32,
+      "to": 307.76,
+      "sid": 191,
+      "location": 2,
+      "content": "首先第一你要知道这个选题已经被验证过了",
+      "music": 0.0
+    },
+    {
+      "from": 307.76,
+      "to": 308.68,
+      "sid": 192,
+      "location": 2,
+      "content": "所以你发出去之后",
+      "music": 0.0
+    },
+    {
+      "from": 308.68,
+      "to": 310.2,
+      "sid": 193,
+      "location": 2,
+      "content": "大概率流量不会特别差",
+      "music": 0.0
+    },
+    {
+      "from": 310.2,
+      "to": 312.04,
+      "sid": 194,
+      "location": 2,
+      "content": "第二你只需要完成这件事情",
+      "music": 0.0
+    },
+    {
+      "from": 312.04,
+      "to": 313.36,
+      "sid": 195,
+      "location": 2,
+      "content": "这个流量就可以变成钱",
+      "music": 0.0
+    },
+    {
+      "from": 313.36,
+      "to": 314.6,
+      "sid": 196,
+      "location": 2,
+      "content": "因为这个模式已经跑通了",
+      "music": 0.0
+    },
+    {
+      "from": 314.6,
+      "to": 316.0,
+      "sid": 197,
+      "location": 2,
+      "content": "所以就算你想内耗",
+      "music": 0.0
+    },
+    {
+      "from": 316.0,
+      "to": 318.04,
+      "sid": 198,
+      "location": 2,
+      "content": "也没有给你留下太多可以内耗的机会",
+      "music": 0.0
+    },
+    {
+      "from": 318.04,
+      "to": 320.0,
+      "sid": 199,
+      "location": 2,
+      "content": "那么结果就是每一个需要你去产出",
+      "music": 0.0
+    },
+    {
+      "from": 320.0,
+      "to": 321.96,
+      "sid": 200,
+      "location": 2,
+      "content": "可能会让你产生负面感受的这种动作",
+      "music": 0.0
+    },
+    {
+      "from": 321.96,
+      "to": 324.36,
+      "sid": 201,
+      "location": 2,
+      "content": "它都附带着更更多的正面感受和他对冲",
+      "music": 0.0
+    },
+    {
+      "from": 324.36,
+      "to": 326.36,
+      "sid": 202,
+      "location": 2,
+      "content": "你有充足的自我实现的快感",
+      "music": 0.0
+    },
+    {
+      "from": 326.36,
+      "to": 327.28,
+      "sid": 203,
+      "location": 2,
+      "content": "赚取流量的快感",
+      "music": 0.0
+    },
+    {
+      "from": 327.28,
+      "to": 329.5,
+      "sid": 204,
+      "location": 2,
+      "content": "赚钱的快感去压过那些工作的劳累",
+      "music": 0.0
+    },
+    {
+      "from": 329.5,
+      "to": 331.94,
+      "sid": 205,
+      "location": 2,
+      "content": "这才是在不累且不内耗的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 331.94,
+      "to": 333.54,
+      "sid": 206,
+      "location": 2,
+      "content": "去持续赚钱的方法",
+      "music": 0.0
+    },
+    {
+      "from": 333.54,
+      "to": 334.84,
+      "sid": 207,
+      "location": 2,
+      "content": "也只有在这种这种情况下",
+      "music": 0.0
+    },
+    {
+      "from": 334.84,
+      "to": 337.48,
+      "sid": 208,
+      "location": 2,
+      "content": "你才能在实现了年入百万的目标以后",
+      "music": 0.0
+    },
+    {
+      "from": 337.48,
+      "to": 339.56,
+      "sid": 209,
+      "location": 2,
+      "content": "还觉得我的精力还没有被填满",
+      "music": 0.0
+    },
+    {
+      "from": 339.56,
+      "to": 340.88,
+      "sid": 210,
+      "location": 2,
+      "content": "我还可以再往上冲一冲",
+      "music": 0.0
+    },
+    {
+      "from": 340.88,
+      "to": 344.36,
+      "sid": 211,
+      "location": 2,
+      "content": "所以当你把每一个产出的节点都设计成有三层",
+      "music": 0.0
+    },
+    {
+      "from": 344.36,
+      "to": 345.8,
+      "sid": 212,
+      "location": 2,
+      "content": "甚至更多层政反馈的时候",
+      "music": 0.0
+    },
+    {
+      "from": 345.8,
+      "to": 346.38,
+      "sid": 213,
+      "location": 2,
+      "content": "你会发现",
+      "music": 0.0
+    },
+    {
+      "from": 346.38,
+      "to": 348.94,
+      "sid": 214,
+      "location": 2,
+      "content": "工作和生活之间的界限就是在这里消失的",
+      "music": 0.0
+    },
+    {
+      "from": 348.94,
+      "to": 349.78,
+      "sid": 215,
+      "location": 2,
+      "content": "以前上班的时候",
+      "music": 0.0
+    },
+    {
+      "from": 349.78,
+      "to": 352.22,
+      "sid": 216,
+      "location": 2,
+      "content": "我会觉得工作和生活的界限消失是一个坏事",
+      "music": 0.0
+    },
+    {
+      "from": 352.22,
+      "to": 353.38,
+      "sid": 217,
+      "location": 2,
+      "content": "因为我们有自己的时间了",
+      "music": 0.0
+    },
+    {
+      "from": 353.38,
+      "to": 354.58,
+      "sid": 218,
+      "location": 2,
+      "content": "但是在这里新的模式下",
+      "music": 0.0
+    },
+    {
+      "from": 354.58,
+      "to": 356.62,
+      "sid": 219,
+      "location": 2,
+      "content": "你本身就希望二者之间没有边界",
+      "music": 0.0
+    },
+    {
+      "from": 356.62,
+      "to": 358.76,
+      "sid": 220,
+      "location": 2,
+      "content": "因为当你的工作当中充满这个反馈的时候",
+      "music": 0.0
+    },
+    {
+      "from": 358.76,
+      "to": 361.08,
+      "sid": 221,
+      "location": 2,
+      "content": "你的工作本身就是你想要的生活方式",
+      "music": 0.0
+    },
+    {
+      "from": 361.08,
+      "to": 362.4,
+      "sid": 222,
+      "location": 2,
+      "content": "所以什么是好的商业模式",
+      "music": 0.0
+    },
+    {
+      "from": 362.4,
+      "to": 363.56,
+      "sid": 223,
+      "location": 2,
+      "content": "不是把别人兜里的钱",
+      "music": 0.0
+    },
+    {
+      "from": 363.56,
+      "to": 365.44,
+      "sid": 224,
+      "location": 2,
+      "content": "更快的更多的揣到我的腰包里",
+      "music": 0.0
+    },
+    {
+      "from": 365.44,
+      "to": 367.9,
+      "sid": 225,
+      "location": 2,
+      "content": "而是让所有参与到交易过程当中的人",
+      "music": 0.0
+    },
+    {
+      "from": 367.9,
+      "to": 369.86,
+      "sid": 226,
+      "location": 2,
+      "content": "都可以交换到自己想要的东西",
+      "music": 0.0
+    },
+    {
+      "from": 369.86,
+      "to": 370.88,
+      "sid": 227,
+      "location": 2,
+      "content": "而最终你会发现",
+      "music": 0.0
+    },
+    {
+      "from": 370.88,
+      "to": 373.0,
+      "sid": 228,
+      "location": 2,
+      "content": "在一个真正可持续的商业模式里面",
+      "music": 0.0
+    },
+    {
+      "from": 373.0,
+      "to": 374.8,
+      "sid": 229,
+      "location": 2,
+      "content": "你所想要交换到的那个东西",
+      "music": 0.0
+    },
+    {
+      "from": 374.8,
+      "to": 376.68,
+      "sid": 230,
+      "location": 2,
+      "content": "它绝对不仅仅是钱",
+      "music": 0.0
+    }
+  ]
+}

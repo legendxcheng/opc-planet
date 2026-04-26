@@ -1,0 +1,1676 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.08,
+      "to": 2.16,
+      "sid": 1,
+      "location": 2,
+      "content": "我们这个社会是一边鼓吹暴富",
+      "music": 0.0
+    },
+    {
+      "from": 2.16,
+      "to": 3.72,
+      "sid": 2,
+      "location": 2,
+      "content": "一边又对风险极度恐惧的",
+      "music": 0.0
+    },
+    {
+      "from": 3.72,
+      "to": 4.52,
+      "sid": 3,
+      "location": 2,
+      "content": "所以说句实在话",
+      "music": 0.0
+    },
+    {
+      "from": 4.52,
+      "to": 6.28,
+      "sid": 4,
+      "location": 2,
+      "content": "我觉得很多人其实是不敢挣钱的",
+      "music": 0.0
+    },
+    {
+      "from": 6.28,
+      "to": 7.04,
+      "sid": 5,
+      "location": 2,
+      "content": "我一开始说这个事",
+      "music": 0.0
+    },
+    {
+      "from": 7.04,
+      "to": 7.92,
+      "sid": 6,
+      "location": 2,
+      "content": "好多人不信啊",
+      "music": 0.0
+    },
+    {
+      "from": 7.92,
+      "to": 9.24,
+      "sid": 7,
+      "location": 2,
+      "content": "说我们这个经济都这样了",
+      "music": 0.0
+    },
+    {
+      "from": 9.24,
+      "to": 10.12,
+      "sid": 8,
+      "location": 2,
+      "content": "你还不敢挣钱",
+      "music": 0.0
+    },
+    {
+      "from": 10.12,
+      "to": 11.08,
+      "sid": 9,
+      "location": 2,
+      "content": "你不是心理变态吗",
+      "music": 0.0
+    },
+    {
+      "from": 11.08,
+      "to": 13.36,
+      "sid": 10,
+      "location": 2,
+      "content": "后来发现真不是因为我工作的特性啊",
+      "music": 0.0
+    },
+    {
+      "from": 13.36,
+      "to": 14.88,
+      "sid": 11,
+      "location": 2,
+      "content": "我就是看从0~1起步的",
+      "music": 0.0
+    },
+    {
+      "from": 14.88,
+      "to": 15.96,
+      "sid": 12,
+      "location": 2,
+      "content": "各种各样的生意特别多",
+      "music": 0.0
+    },
+    {
+      "from": 15.96,
+      "to": 17.36,
+      "sid": 13,
+      "location": 2,
+      "content": "然后和这些人聊的过程当中",
+      "music": 0.0
+    },
+    {
+      "from": 17.36,
+      "to": 19.3,
+      "sid": 14,
+      "location": 2,
+      "content": "我就发现有一些人他他非常诡异",
+      "music": 0.0
+    },
+    {
+      "from": 19.3,
+      "to": 20.78,
+      "sid": 15,
+      "location": 2,
+      "content": "甚至我都觉得有点可怕了",
+      "music": 0.0
+    },
+    {
+      "from": 20.78,
+      "to": 22.06,
+      "sid": 16,
+      "location": 2,
+      "content": "就他在跟我聊的过程中",
+      "music": 0.0
+    },
+    {
+      "from": 22.06,
+      "to": 23.74,
+      "sid": 17,
+      "location": 2,
+      "content": "表面上是找我咨询一下",
+      "music": 0.0
+    },
+    {
+      "from": 23.74,
+      "to": 24.9,
+      "sid": 18,
+      "location": 2,
+      "content": "请教一下这个事怎么干",
+      "music": 0.0
+    },
+    {
+      "from": 24.9,
+      "to": 27.1,
+      "sid": 19,
+      "location": 2,
+      "content": "但实际上他的潜台词总是想让我给他",
+      "music": 0.0
+    },
+    {
+      "from": 27.1,
+      "to": 28.9,
+      "sid": 20,
+      "location": 2,
+      "content": "一个百分之百成功的一个解决方案",
+      "music": 0.0
+    },
+    {
+      "from": 28.9,
+      "to": 30.9,
+      "sid": 21,
+      "location": 2,
+      "content": "我细想了一下这个事背后的心理动机",
+      "music": 0.0
+    },
+    {
+      "from": 30.9,
+      "to": 31.78,
+      "sid": 22,
+      "location": 2,
+      "content": "我觉得非常可怕",
+      "music": 0.0
+    },
+    {
+      "from": 31.78,
+      "to": 33.54,
+      "sid": 23,
+      "location": 2,
+      "content": "就是你想任何一个智力正常的人",
+      "music": 0.0
+    },
+    {
+      "from": 33.54,
+      "to": 35.58,
+      "sid": 24,
+      "location": 2,
+      "content": "都不可能觉得创业或者说做生意吧",
+      "music": 0.0
+    },
+    {
+      "from": 35.58,
+      "to": 36.6,
+      "sid": 25,
+      "location": 2,
+      "content": "这事成功率百分之百",
+      "music": 0.0
+    },
+    {
+      "from": 36.6,
+      "to": 39.16,
+      "sid": 26,
+      "location": 2,
+      "content": "那为什么他明知道这个事成功率不是百分之百",
+      "music": 0.0
+    },
+    {
+      "from": 39.16,
+      "to": 40.08,
+      "sid": 27,
+      "location": 2,
+      "content": "他还要问我呢",
+      "music": 0.0
+    },
+    {
+      "from": 40.08,
+      "to": 41.24,
+      "sid": 28,
+      "location": 2,
+      "content": "实际上就是因为他不想赚",
+      "music": 0.0
+    },
+    {
+      "from": 41.24,
+      "to": 42.72,
+      "sid": 29,
+      "location": 2,
+      "content": "或者准确的讲就是他不敢正",
+      "music": 0.0
+    },
+    {
+      "from": 42.72,
+      "to": 44.26,
+      "sid": 30,
+      "location": 2,
+      "content": "他觉得这个事我比他懂",
+      "music": 0.0
+    },
+    {
+      "from": 44.26,
+      "to": 45.94,
+      "sid": 31,
+      "location": 2,
+      "content": "那我都说不可能百分之百成功了",
+      "music": 0.0
+    },
+    {
+      "from": 45.94,
+      "to": 47.3,
+      "sid": 32,
+      "location": 2,
+      "content": "那他就更不可能成功了对吧",
+      "music": 0.0
+    },
+    {
+      "from": 47.3,
+      "to": 49.34,
+      "sid": 33,
+      "location": 2,
+      "content": "他就可以心安理得的把这个事情给放下来",
+      "music": 0.0
+    },
+    {
+      "from": 49.34,
+      "to": 50.16,
+      "sid": 34,
+      "location": 2,
+      "content": "他就可以不用干了",
+      "music": 0.0
+    },
+    {
+      "from": 50.16,
+      "to": 51.92,
+      "sid": 35,
+      "location": 2,
+      "content": "表面上是来咨询请教一下",
+      "music": 0.0
+    },
+    {
+      "from": 51.92,
+      "to": 52.6,
+      "sid": 36,
+      "location": 2,
+      "content": "找我问问题",
+      "music": 0.0
+    },
+    {
+      "from": 52.6,
+      "to": 53.52,
+      "sid": 37,
+      "location": 2,
+      "content": "实际上就是套话",
+      "music": 0.0
+    },
+    {
+      "from": 53.52,
+      "to": 55.0,
+      "sid": 38,
+      "location": 2,
+      "content": "他想听我亲口说出来",
+      "music": 0.0
+    },
+    {
+      "from": 55.0,
+      "to": 56.4,
+      "sid": 39,
+      "location": 2,
+      "content": "这个事的成功率不是百分之百",
+      "music": 0.0
+    },
+    {
+      "from": 56.4,
+      "to": 58.52,
+      "sid": 40,
+      "location": 2,
+      "content": "然后他就觉得哎呀创业果然有风险对吧",
+      "music": 0.0
+    },
+    {
+      "from": 58.52,
+      "to": 59.48,
+      "sid": 41,
+      "location": 2,
+      "content": "不是一般人能干的",
+      "music": 0.0
+    },
+    {
+      "from": 59.48,
+      "to": 61.34,
+      "sid": 42,
+      "location": 2,
+      "content": "他就可以心安理得的躲避起来",
+      "music": 0.0
+    },
+    {
+      "from": 61.34,
+      "to": 62.12,
+      "sid": 43,
+      "location": 2,
+      "content": "不干这个事情了",
+      "music": 0.0
+    },
+    {
+      "from": 64.84,
+      "to": 65.62,
+      "sid": 44,
+      "location": 2,
+      "content": "这个是怎么来的",
+      "music": 0.0
+    },
+    {
+      "from": 65.62,
+      "to": 66.7,
+      "sid": 45,
+      "location": 2,
+      "content": "就是我们这个社会文化里面",
+      "music": 0.0
+    },
+    {
+      "from": 66.7,
+      "to": 68.06,
+      "sid": 46,
+      "location": 2,
+      "content": "有一些非常矛盾的地方",
+      "music": 0.0
+    },
+    {
+      "from": 68.06,
+      "to": 69.62,
+      "sid": 47,
+      "location": 2,
+      "content": "第一打小就给你灌输一个观念",
+      "music": 0.0
+    },
+    {
+      "from": 69.62,
+      "to": 70.58,
+      "sid": 48,
+      "location": 2,
+      "content": "就是有钱就是牛逼",
+      "music": 0.0
+    },
+    {
+      "from": 70.58,
+      "to": 71.5,
+      "sid": 49,
+      "location": 2,
+      "content": "有钱就是人上人",
+      "music": 0.0
+    },
+    {
+      "from": 71.5,
+      "to": 72.54,
+      "sid": 50,
+      "location": 2,
+      "content": "甚至有个词叫老婆本",
+      "music": 0.0
+    },
+    {
+      "from": 72.54,
+      "to": 73.58,
+      "sid": 51,
+      "location": 2,
+      "content": "老婆本这词啥意思啊",
+      "music": 0.0
+    },
+    {
+      "from": 73.58,
+      "to": 74.98,
+      "sid": 52,
+      "location": 2,
+      "content": "就假如说你是一个雄性",
+      "music": 0.0
+    },
+    {
+      "from": 74.98,
+      "to": 75.86,
+      "sid": 53,
+      "location": 2,
+      "content": "完了你还没钱",
+      "music": 0.0
+    },
+    {
+      "from": 75.86,
+      "to": 77.12,
+      "sid": 54,
+      "location": 2,
+      "content": "挣不够这个老婆本儿的话",
+      "music": 0.0
+    },
+    {
+      "from": 77.12,
+      "to": 79.48,
+      "sid": 55,
+      "location": 2,
+      "content": "这地球上30多亿个雌性都看不上",
+      "music": 0.0
+    },
+    {
+      "from": 79.48,
+      "to": 79.64,
+      "sid": 56,
+      "location": 2,
+      "content": "你",
+      "music": 0.0
+    },
+    {
+      "from": 79.64,
+      "to": 80.64,
+      "sid": 57,
+      "location": 2,
+      "content": "说白了就是这个意思吗",
+      "music": 0.0
+    },
+    {
+      "from": 80.64,
+      "to": 83.16,
+      "sid": 58,
+      "location": 2,
+      "content": "第二从六岁开始上小学到22岁",
+      "music": 0.0
+    },
+    {
+      "from": 83.16,
+      "to": 84.28,
+      "sid": 59,
+      "location": 2,
+      "content": "一个大学本科生毕业",
+      "music": 0.0
+    },
+    {
+      "from": 84.28,
+      "to": 85.36,
+      "sid": 60,
+      "location": 2,
+      "content": "中间是16年的教育",
+      "music": 0.0
+    },
+    {
+      "from": 85.36,
+      "to": 88.62,
+      "sid": 61,
+      "location": 2,
+      "content": "这16年教育的核心就是考找一个好工作",
+      "music": 0.0
+    },
+    {
+      "from": 88.62,
+      "to": 90.32,
+      "sid": 62,
+      "location": 2,
+      "content": "然后去稳定的一个事业单位",
+      "music": 0.0
+    },
+    {
+      "from": 90.32,
+      "to": 91.62,
+      "sid": 63,
+      "location": 2,
+      "content": "大家都做着一个发财梦",
+      "music": 0.0
+    },
+    {
+      "from": 91.62,
+      "to": 93.18,
+      "sid": 64,
+      "location": 2,
+      "content": "但是你真要问起来怎么创业",
+      "music": 0.0
+    },
+    {
+      "from": 93.18,
+      "to": 94.26,
+      "sid": 65,
+      "location": 2,
+      "content": "不知道怎么注册公司",
+      "music": 0.0
+    },
+    {
+      "from": 94.26,
+      "to": 95.02,
+      "sid": 66,
+      "location": 2,
+      "content": "不知道怎么招人",
+      "music": 0.0
+    },
+    {
+      "from": 95.02,
+      "to": 96.12,
+      "sid": 67,
+      "location": 2,
+      "content": "不知道怎么投资",
+      "music": 0.0
+    },
+    {
+      "from": 96.12,
+      "to": 97.88,
+      "sid": 68,
+      "location": 2,
+      "content": "不知道美股和A股有什么区别",
+      "music": 0.0
+    },
+    {
+      "from": 97.88,
+      "to": 100.2,
+      "sid": 69,
+      "location": 2,
+      "content": "不知道那这两点带来的直接的结果就是",
+      "music": 0.0
+    },
+    {
+      "from": 100.2,
+      "to": 102.48,
+      "sid": 70,
+      "location": 2,
+      "content": "绝大多数人是没有靠自己的双手",
+      "music": 0.0
+    },
+    {
+      "from": 102.48,
+      "to": 103.72,
+      "sid": 71,
+      "location": 2,
+      "content": "在市场上赚过一分钱的",
+      "music": 0.0
+    },
+    {
+      "from": 103.72,
+      "to": 105.36,
+      "sid": 72,
+      "location": 2,
+      "content": "就哪怕是摆个摊这么简单的事情",
+      "music": 0.0
+    },
+    {
+      "from": 105.36,
+      "to": 108.68,
+      "sid": 73,
+      "location": 2,
+      "content": "对于绝大多数的大学生来说都是抽象的遥远的",
+      "music": 0.0
+    },
+    {
+      "from": 108.68,
+      "to": 111.28,
+      "sid": 74,
+      "location": 2,
+      "content": "甚至带着一些所谓的神秘感甚至恐惧感",
+      "music": 0.0
+    },
+    {
+      "from": 111.28,
+      "to": 114.06,
+      "sid": 75,
+      "location": 2,
+      "content": "那少数的在性格上可能对风险偏好比较高的人",
+      "music": 0.0
+    },
+    {
+      "from": 114.06,
+      "to": 115.14,
+      "sid": 76,
+      "location": 2,
+      "content": "可能大学尝试一下对吧",
+      "music": 0.0
+    },
+    {
+      "from": 115.14,
+      "to": 116.22,
+      "sid": 77,
+      "location": 2,
+      "content": "我开个淘宝店什么的",
+      "music": 0.0
+    },
+    {
+      "from": 116.22,
+      "to": 117.86,
+      "sid": 78,
+      "location": 2,
+      "content": "那一旦他遇到点挫折",
+      "music": 0.0
+    },
+    {
+      "from": 117.86,
+      "to": 120.34,
+      "sid": 79,
+      "location": 2,
+      "content": "他所接受的比如说来自父母长辈的安慰",
+      "music": 0.0
+    },
+    {
+      "from": 120.34,
+      "to": 122.9,
+      "sid": 80,
+      "location": 2,
+      "content": "绝对不是帮他解决店铺的流量问题",
+      "music": 0.0
+    },
+    {
+      "from": 122.9,
+      "to": 124.76,
+      "sid": 81,
+      "location": 2,
+      "content": "而是说哦你现在好好上学嘛",
+      "music": 0.0
+    },
+    {
+      "from": 124.76,
+      "to": 125.88,
+      "sid": 82,
+      "location": 2,
+      "content": "你不指着你赚钱",
+      "music": 0.0
+    },
+    {
+      "from": 125.88,
+      "to": 127.52,
+      "sid": 83,
+      "location": 2,
+      "content": "你就积累点社会经验就可以了",
+      "music": 0.0
+    },
+    {
+      "from": 127.52,
+      "to": 128.58,
+      "sid": 84,
+      "location": 2,
+      "content": "最后你该上班上班",
+      "music": 0.0
+    },
+    {
+      "from": 128.58,
+      "to": 130.4,
+      "sid": 85,
+      "location": 2,
+      "content": "潜台词就还是上班是你最终归宿嘛",
+      "music": 0.0
+    },
+    {
+      "from": 130.4,
+      "to": 133.06,
+      "sid": 86,
+      "location": 2,
+      "content": "所以从这条应试教育的这个路径走下来的人",
+      "music": 0.0
+    },
+    {
+      "from": 133.06,
+      "to": 135.18,
+      "sid": 87,
+      "location": 2,
+      "content": "就都是风险偏好极低",
+      "music": 0.0
+    },
+    {
+      "from": 135.18,
+      "to": 137.18,
+      "sid": 88,
+      "location": 2,
+      "content": "对创业做生意极其恐惧的一帮人",
+      "music": 0.0
+    },
+    {
+      "from": 137.18,
+      "to": 138.94,
+      "sid": 89,
+      "location": 2,
+      "content": "我们在文化上是鼓吹暴富的",
+      "music": 0.0
+    },
+    {
+      "from": 138.94,
+      "to": 139.94,
+      "sid": 90,
+      "location": 2,
+      "content": "鼓励你当个有钱人",
+      "music": 0.0
+    },
+    {
+      "from": 139.94,
+      "to": 141.02,
+      "sid": 91,
+      "location": 2,
+      "content": "但是教育又只教你打工",
+      "music": 0.0
+    },
+    {
+      "from": 141.02,
+      "to": 142.26,
+      "sid": 92,
+      "location": 2,
+      "content": "从来都没有市场实操",
+      "music": 0.0
+    },
+    {
+      "from": 142.26,
+      "to": 143.54,
+      "sid": 93,
+      "location": 2,
+      "content": "那少数尝试过的人",
+      "music": 0.0
+    },
+    {
+      "from": 143.54,
+      "to": 145.3,
+      "sid": 94,
+      "location": 2,
+      "content": "大概率接收到的也是负反馈",
+      "music": 0.0
+    },
+    {
+      "from": 145.3,
+      "to": 146.82,
+      "sid": 95,
+      "location": 2,
+      "content": "就是就归因为自己能力不行",
+      "music": 0.0
+    },
+    {
+      "from": 146.82,
+      "to": 148.08,
+      "sid": 96,
+      "location": 2,
+      "content": "对风险是极度恐惧的",
+      "music": 0.0
+    },
+    {
+      "from": 148.08,
+      "to": 149.12,
+      "sid": 97,
+      "location": 2,
+      "content": "只想要百分之百的成功",
+      "music": 0.0
+    },
+    {
+      "from": 149.12,
+      "to": 151.4,
+      "sid": 98,
+      "location": 2,
+      "content": "最终的结局就是完全放弃主动行动",
+      "music": 0.0
+    },
+    {
+      "from": 151.4,
+      "to": 152.26,
+      "sid": 99,
+      "location": 2,
+      "content": "彻底不会赚钱",
+      "music": 0.0
+    },
+    {
+      "from": 152.26,
+      "to": 153.7,
+      "sid": 100,
+      "location": 2,
+      "content": "然后你就理解开头我说的那帮人",
+      "music": 0.0
+    },
+    {
+      "from": 153.7,
+      "to": 154.9,
+      "sid": 101,
+      "location": 2,
+      "content": "他为什么搞一个假咨询",
+      "music": 0.0
+    },
+    {
+      "from": 154.9,
+      "to": 155.46,
+      "sid": 102,
+      "location": 2,
+      "content": "真套话了",
+      "music": 0.0
+    },
+    {
+      "from": 155.46,
+      "to": 156.88,
+      "sid": 103,
+      "location": 2,
+      "content": "就是经过这么多年的规训",
+      "music": 0.0
+    },
+    {
+      "from": 156.88,
+      "to": 159.82,
+      "sid": 104,
+      "location": 2,
+      "content": "他已经彻底认定自己是不适合赚钱的",
+      "music": 0.0
+    },
+    {
+      "from": 159.82,
+      "to": 161.0,
+      "sid": 105,
+      "location": 2,
+      "content": "就自己不是这块料了",
+      "music": 0.0
+    },
+    {
+      "from": 161.0,
+      "to": 162.92,
+      "sid": 106,
+      "location": 2,
+      "content": "然后我只是他说服自己",
+      "music": 0.0
+    },
+    {
+      "from": 162.92,
+      "to": 164.9,
+      "sid": 107,
+      "location": 2,
+      "content": "不要去创业的这个play当中的一环",
+      "music": 0.0
+    },
+    {
+      "from": 167.52,
+      "to": 168.32,
+      "sid": 108,
+      "location": 2,
+      "content": "我觉得就两条啊",
+      "music": 0.0
+    },
+    {
+      "from": 168.32,
+      "to": 169.9,
+      "sid": 109,
+      "location": 2,
+      "content": "第一条叫不要过度思考",
+      "music": 0.0
+    },
+    {
+      "from": 169.9,
+      "to": 171.52,
+      "sid": 110,
+      "location": 2,
+      "content": "就不要觉得像考试一样",
+      "music": 0.0
+    },
+    {
+      "from": 171.52,
+      "to": 172.94,
+      "sid": 111,
+      "location": 2,
+      "content": "我只要准备充分了",
+      "music": 0.0
+    },
+    {
+      "from": 172.94,
+      "to": 173.98,
+      "sid": 112,
+      "location": 2,
+      "content": "我想的面面俱到了",
+      "music": 0.0
+    },
+    {
+      "from": 173.98,
+      "to": 175.0,
+      "sid": 113,
+      "location": 2,
+      "content": "这个事儿我就一定能行",
+      "music": 0.0
+    },
+    {
+      "from": 175.0,
+      "to": 175.8,
+      "sid": 114,
+      "location": 2,
+      "content": "我就一定能考上",
+      "music": 0.0
+    },
+    {
+      "from": 175.8,
+      "to": 176.32,
+      "sid": 115,
+      "location": 2,
+      "content": "不是的",
+      "music": 0.0
+    },
+    {
+      "from": 176.32,
+      "to": 178.6,
+      "sid": 116,
+      "location": 2,
+      "content": "这个是应试教育遗留下来的产物",
+      "music": 0.0
+    },
+    {
+      "from": 178.6,
+      "to": 179.44,
+      "sid": 117,
+      "location": 2,
+      "content": "在商业环境里",
+      "music": 0.0
+    },
+    {
+      "from": 179.44,
+      "to": 180.54,
+      "sid": 118,
+      "location": 2,
+      "content": "这个事他是不不成立",
+      "music": 0.0
+    },
+    {
+      "from": 180.54,
+      "to": 181.14,
+      "sid": 119,
+      "location": 2,
+      "content": "不存在的",
+      "music": 0.0
+    },
+    {
+      "from": 181.14,
+      "to": 182.54,
+      "sid": 120,
+      "location": 2,
+      "content": "考卷是一个静态的东西",
+      "music": 0.0
+    },
+    {
+      "from": 182.54,
+      "to": 183.18,
+      "sid": 121,
+      "location": 2,
+      "content": "考什么东西",
+      "music": 0.0
+    },
+    {
+      "from": 183.18,
+      "to": 184.34,
+      "sid": 122,
+      "location": 2,
+      "content": "书里边都提前告诉你了",
+      "music": 0.0
+    },
+    {
+      "from": 184.34,
+      "to": 186.98,
+      "sid": 123,
+      "location": 2,
+      "content": "所以那个东西绝对是你准备充分了就可以行的",
+      "music": 0.0
+    },
+    {
+      "from": 186.98,
+      "to": 187.92,
+      "sid": 124,
+      "location": 2,
+      "content": "这个没什么可说的",
+      "music": 0.0
+    },
+    {
+      "from": 187.92,
+      "to": 189.7,
+      "sid": 125,
+      "location": 2,
+      "content": "但是商业是一个高度复杂的",
+      "music": 0.0
+    },
+    {
+      "from": 189.7,
+      "to": 191.0,
+      "sid": 126,
+      "location": 2,
+      "content": "有很多人参与过来的",
+      "music": 0.0
+    },
+    {
+      "from": 191.0,
+      "to": 193.2,
+      "sid": 127,
+      "location": 2,
+      "content": "一个非常复杂的人类行为系统",
+      "music": 0.0
+    },
+    {
+      "from": 193.2,
+      "to": 196.0,
+      "sid": 128,
+      "location": 2,
+      "content": "这个东西它是考验你的临产反应能力的",
+      "music": 0.0
+    },
+    {
+      "from": 196.0,
+      "to": 197.44,
+      "sid": 129,
+      "location": 2,
+      "content": "而不是让你准备充分",
+      "music": 0.0
+    },
+    {
+      "from": 197.44,
+      "to": 199.02,
+      "sid": 130,
+      "location": 2,
+      "content": "我们去和那些转前的人沟通",
+      "music": 0.0
+    },
+    {
+      "from": 199.02,
+      "to": 201.38,
+      "sid": 131,
+      "location": 2,
+      "content": "你会明显感觉到你问他一个商业决策的问题",
+      "music": 0.0
+    },
+    {
+      "from": 201.38,
+      "to": 202.78,
+      "sid": 132,
+      "location": 2,
+      "content": "他是有一个临场反应",
+      "music": 0.0
+    },
+    {
+      "from": 202.78,
+      "to": 203.66,
+      "sid": 133,
+      "location": 2,
+      "content": "有个reaction的",
+      "music": 0.0
+    },
+    {
+      "from": 203.66,
+      "to": 204.7,
+      "sid": 134,
+      "location": 2,
+      "content": "就比如说我跟你说",
+      "music": 0.0
+    },
+    {
+      "from": 204.7,
+      "to": 206.56,
+      "sid": 135,
+      "location": 2,
+      "content": "哎这个什么事什么事靠不靠谱",
+      "music": 0.0
+    },
+    {
+      "from": 206.56,
+      "to": 208.94,
+      "sid": 136,
+      "location": 2,
+      "content": "他马上就反觉到哎我这个去年干了这个事",
+      "music": 0.0
+    },
+    {
+      "from": 208.94,
+      "to": 210.02,
+      "sid": 137,
+      "location": 2,
+      "content": "怎么怎么亏了多少多少钱",
+      "music": 0.0
+    },
+    {
+      "from": 210.02,
+      "to": 210.82,
+      "sid": 138,
+      "location": 2,
+      "content": "这个肯定是坑啊",
+      "music": 0.0
+    },
+    {
+      "from": 210.82,
+      "to": 211.54,
+      "sid": 139,
+      "location": 2,
+      "content": "你不要碰啊",
+      "music": 0.0
+    },
+    {
+      "from": 211.54,
+      "to": 214.1,
+      "sid": 140,
+      "location": 2,
+      "content": "这个东西它一定是靠实战积累出来的",
+      "music": 0.0
+    },
+    {
+      "from": 214.1,
+      "to": 215.26,
+      "sid": 141,
+      "location": 2,
+      "content": "它是一个临场的",
+      "music": 0.0
+    },
+    {
+      "from": 215.26,
+      "to": 216.22,
+      "sid": 142,
+      "location": 2,
+      "content": "跟条件反射一样",
+      "music": 0.0
+    },
+    {
+      "from": 216.22,
+      "to": 218.58,
+      "sid": 143,
+      "location": 2,
+      "content": "那个东西这个可不是你在书里面看",
+      "music": 0.0
+    },
+    {
+      "from": 218.58,
+      "to": 220.1,
+      "sid": 144,
+      "location": 2,
+      "content": "能提前想的面面俱到的",
+      "music": 0.0
+    },
+    {
+      "from": 220.1,
+      "to": 221.1,
+      "sid": 145,
+      "location": 2,
+      "content": "这个事是不存在的",
+      "music": 0.0
+    },
+    {
+      "from": 221.1,
+      "to": 222.02,
+      "sid": 146,
+      "location": 2,
+      "content": "所以这是第一个建议",
+      "music": 0.0
+    },
+    {
+      "from": 222.02,
+      "to": 223.42,
+      "sid": 147,
+      "location": 2,
+      "content": "就执行比思考重要",
+      "music": 0.0
+    },
+    {
+      "from": 223.42,
+      "to": 224.46,
+      "sid": 148,
+      "location": 2,
+      "content": "千万不要过度思考",
+      "music": 0.0
+    },
+    {
+      "from": 224.46,
+      "to": 225.5,
+      "sid": 149,
+      "location": 2,
+      "content": "有什么事你就直接干",
+      "music": 0.0
+    },
+    {
+      "from": 225.5,
+      "to": 227.78,
+      "sid": 150,
+      "location": 2,
+      "content": "然后第二个建议呢其实是第一个建议的变种",
+      "music": 0.0
+    },
+    {
+      "from": 227.78,
+      "to": 229.38,
+      "sid": 151,
+      "location": 2,
+      "content": "叫做只有赚钱才能赚钱",
+      "music": 0.0
+    },
+    {
+      "from": 229.38,
+      "to": 230.62,
+      "sid": 152,
+      "location": 2,
+      "content": "就是你少跟我说什么",
+      "music": 0.0
+    },
+    {
+      "from": 230.62,
+      "to": 231.46,
+      "sid": 153,
+      "location": 2,
+      "content": "我去上个班吧",
+      "music": 0.0
+    },
+    {
+      "from": 231.46,
+      "to": 232.3,
+      "sid": 154,
+      "location": 2,
+      "content": "积累点人脉吧",
+      "music": 0.0
+    },
+    {
+      "from": 232.3,
+      "to": 233.26,
+      "sid": 155,
+      "location": 2,
+      "content": "我先读个研吧",
+      "music": 0.0
+    },
+    {
+      "from": 233.26,
+      "to": 233.94,
+      "sid": 156,
+      "location": 2,
+      "content": "读个博吧",
+      "music": 0.0
+    },
+    {
+      "from": 233.94,
+      "to": 235.14,
+      "sid": 157,
+      "location": 2,
+      "content": "我什么学点技能吧",
+      "music": 0.0
+    },
+    {
+      "from": 235.14,
+      "to": 235.86,
+      "sid": 158,
+      "location": 2,
+      "content": "看几本书吧",
+      "music": 0.0
+    },
+    {
+      "from": 235.86,
+      "to": 236.78,
+      "sid": 159,
+      "location": 2,
+      "content": "全他妈是扯淡",
+      "music": 0.0
+    },
+    {
+      "from": 236.78,
+      "to": 239.3,
+      "sid": 160,
+      "location": 2,
+      "content": "就是你得承认这个世界上真的有这么一件事情",
+      "music": 0.0
+    },
+    {
+      "from": 239.3,
+      "to": 240.06,
+      "sid": 161,
+      "location": 2,
+      "content": "就叫赚钱",
+      "music": 0.0
+    },
+    {
+      "from": 240.06,
+      "to": 242.34,
+      "sid": 162,
+      "location": 2,
+      "content": "这个是独立的且真实存在的一个事情",
+      "music": 0.0
+    },
+    {
+      "from": 242.34,
+      "to": 243.42,
+      "sid": 163,
+      "location": 2,
+      "content": "你不能装作你看不见",
+      "music": 0.0
+    },
+    {
+      "from": 243.42,
+      "to": 247.06,
+      "sid": 164,
+      "location": 2,
+      "content": "通常表现为这个顾客有一个需求没有被满足",
+      "music": 0.0
+    },
+    {
+      "from": 247.06,
+      "to": 248.34,
+      "sid": 165,
+      "location": 2,
+      "content": "或者有一个问题没有被解决",
+      "music": 0.0
+    },
+    {
+      "from": 248.34,
+      "to": 249.22,
+      "sid": 166,
+      "location": 2,
+      "content": "你把这个事搞定了",
+      "music": 0.0
+    },
+    {
+      "from": 249.22,
+      "to": 249.92,
+      "sid": 167,
+      "location": 2,
+      "content": "然后就赚到钱了",
+      "music": 0.0
+    },
+    {
+      "from": 249.92,
+      "to": 250.84,
+      "sid": 168,
+      "location": 2,
+      "content": "就是这么一个事儿",
+      "music": 0.0
+    },
+    {
+      "from": 250.84,
+      "to": 252.6,
+      "sid": 169,
+      "location": 2,
+      "content": "以前有句话叫做万般皆下品",
+      "music": 0.0
+    },
+    {
+      "from": 252.6,
+      "to": 253.34,
+      "sid": 170,
+      "location": 2,
+      "content": "唯有读书高",
+      "music": 0.0
+    },
+    {
+      "from": 253.34,
+      "to": 255.3,
+      "sid": 171,
+      "location": 2,
+      "content": "那里面的读书指的是科举",
+      "music": 0.0
+    },
+    {
+      "from": 255.3,
+      "to": 255.72,
+      "sid": 172,
+      "location": 2,
+      "content": "考试",
+      "music": 0.0
+    },
+    {
+      "from": 255.72,
+      "to": 257.1,
+      "sid": 173,
+      "location": 2,
+      "content": "是考取功名入仕",
+      "music": 0.0
+    },
+    {
+      "from": 257.1,
+      "to": 258.62,
+      "sid": 174,
+      "location": 2,
+      "content": "做官完了你可以光宗耀祖",
+      "music": 0.0
+    },
+    {
+      "from": 258.62,
+      "to": 260.86,
+      "sid": 175,
+      "location": 2,
+      "content": "这和我们现在打开微信读书看两本书",
+      "music": 0.0
+    },
+    {
+      "from": 260.86,
+      "to": 262.2,
+      "sid": 176,
+      "location": 2,
+      "content": "完全不是一个意思",
+      "music": 0.0
+    },
+    {
+      "from": 262.2,
+      "to": 262.98,
+      "sid": 177,
+      "location": 2,
+      "content": "所以你要赚钱",
+      "music": 0.0
+    },
+    {
+      "from": 262.98,
+      "to": 263.94,
+      "sid": 178,
+      "location": 2,
+      "content": "你就直接去赚钱",
+      "music": 0.0
+    },
+    {
+      "from": 263.94,
+      "to": 265.54,
+      "sid": 179,
+      "location": 2,
+      "content": "你别说我先铺垫一下",
+      "music": 0.0
+    },
+    {
+      "from": 265.54,
+      "to": 266.58,
+      "sid": 180,
+      "location": 2,
+      "content": "我先厚积薄发一下",
+      "music": 0.0
+    },
+    {
+      "from": 266.58,
+      "to": 267.4,
+      "sid": 181,
+      "location": 2,
+      "content": "没有这回事",
+      "music": 0.0
+    },
+    {
+      "from": 267.4,
+      "to": 269.6,
+      "sid": 182,
+      "location": 2,
+      "content": "读书只能解决你读到书的问题",
+      "music": 0.0
+    },
+    {
+      "from": 269.6,
+      "to": 270.92,
+      "sid": 183,
+      "location": 2,
+      "content": "不能提升你的个人财富",
+      "music": 0.0
+    },
+    {
+      "from": 270.92,
+      "to": 272.44,
+      "sid": 184,
+      "location": 2,
+      "content": "当然反过来创业赚钱",
+      "music": 0.0
+    },
+    {
+      "from": 272.44,
+      "to": 273.76,
+      "sid": 185,
+      "location": 2,
+      "content": "也只能解决你赚到钱的问题",
+      "music": 0.0
+    },
+    {
+      "from": 273.76,
+      "to": 274.96,
+      "sid": 186,
+      "location": 2,
+      "content": "它不能提升你的个人素养",
+      "music": 0.0
+    },
+    {
+      "from": 274.96,
+      "to": 276.76,
+      "sid": 187,
+      "location": 2,
+      "content": "所以不要搞什么曲线救国的事情",
+      "music": 0.0
+    },
+    {
+      "from": 276.76,
+      "to": 279.64,
+      "sid": 188,
+      "location": 2,
+      "content": "赚钱本身是一种可以被学会的技能",
+      "music": 0.0
+    },
+    {
+      "from": 279.64,
+      "to": 280.48,
+      "sid": 189,
+      "location": 2,
+      "content": "就跟你学开车",
+      "music": 0.0
+    },
+    {
+      "from": 280.48,
+      "to": 280.92,
+      "sid": 190,
+      "location": 2,
+      "content": "学英语",
+      "music": 0.0
+    },
+    {
+      "from": 280.92,
+      "to": 281.76,
+      "sid": 191,
+      "location": 2,
+      "content": "学演讲一样",
+      "music": 0.0
+    },
+    {
+      "from": 281.76,
+      "to": 283.66,
+      "sid": 192,
+      "location": 2,
+      "content": "他唯一的学习路径就是实践",
+      "music": 0.0
+    },
+    {
+      "from": 283.66,
+      "to": 284.44,
+      "sid": 193,
+      "location": 2,
+      "content": "反馈迭代",
+      "music": 0.0
+    },
+    {
+      "from": 284.44,
+      "to": 285.14,
+      "sid": 194,
+      "location": 2,
+      "content": "然后再实践",
+      "music": 0.0
+    },
+    {
+      "from": 285.14,
+      "to": 287.36,
+      "sid": 195,
+      "location": 2,
+      "content": "虽然我们的教育从来没有教过我",
+      "music": 0.0
+    },
+    {
+      "from": 287.36,
+      "to": 288.52,
+      "sid": 196,
+      "location": 2,
+      "content": "我们如何创业赚钱",
+      "music": 0.0
+    },
+    {
+      "from": 288.52,
+      "to": 290.48,
+      "sid": 197,
+      "location": 2,
+      "content": "但是我们是不是可以学一下这个技能",
+      "music": 0.0
+    },
+    {
+      "from": 290.48,
+      "to": 292.56,
+      "sid": 198,
+      "location": 2,
+      "content": "虽然创业本身常常伴随着风险",
+      "music": 0.0
+    },
+    {
+      "from": 292.56,
+      "to": 294.06,
+      "sid": 199,
+      "location": 2,
+      "content": "但是我们是不是可以承认",
+      "music": 0.0
+    },
+    {
+      "from": 294.06,
+      "to": 296.98,
+      "sid": 200,
+      "location": 2,
+      "content": "低风险创业本身也是一个可以被学会的技能",
+      "music": 0.0
+    },
+    {
+      "from": 296.98,
+      "to": 299.54,
+      "sid": 201,
+      "location": 2,
+      "content": "而这个事情的第一步和智商是没有关系的",
+      "music": 0.0
+    },
+    {
+      "from": 299.54,
+      "to": 299.98,
+      "sid": 202,
+      "location": 2,
+      "content": "在于你",
+      "music": 0.0
+    },
+    {
+      "from": 299.98,
+      "to": 301.06,
+      "sid": 203,
+      "location": 2,
+      "content": "你能不能从习得性",
+      "music": 0.0
+    },
+    {
+      "from": 301.06,
+      "to": 303.04,
+      "sid": 204,
+      "location": 2,
+      "content": "无助的这个怪圈里边去跳出来",
+      "music": 0.0
+    },
+    {
+      "from": 303.04,
+      "to": 305.34,
+      "sid": 205,
+      "location": 2,
+      "content": "你只需要找到一个最简单的一个小生意",
+      "music": 0.0
+    },
+    {
+      "from": 305.34,
+      "to": 306.94,
+      "sid": 206,
+      "location": 2,
+      "content": "哪怕一开始只要赚到十块钱",
+      "music": 0.0
+    },
+    {
+      "from": 306.94,
+      "to": 307.94,
+      "sid": 207,
+      "location": 2,
+      "content": "建立第一个正反馈",
+      "music": 0.0
+    },
+    {
+      "from": 307.94,
+      "to": 309.42,
+      "sid": 208,
+      "location": 2,
+      "content": "这个事就直接开始了",
+      "music": 0.0
+    }
+  ]
+}
