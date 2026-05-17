@@ -1,0 +1,724 @@
+---
+title: 多 Agent 公共与私有知识库架构设计
+type: guide
+status: draft
+tags: [agent, rag, knowledge-base, architecture, openai-agents-sdk]
+created: 2026-05-13
+updated: 2026-05-14
+source: conversation architecture design; current repository structure
+confidence: medium-high
+---
+
+# 多 Agent 公共与私有知识库架构设计
+
+## Summary
+
+本设计用于未来把 OPC Planet 部署为服务器端多 Agent 知识库服务。核心原则是：OpenAI Agents SDK 只负责推理与工具调用；业务后端负责用户、Agent、权限、额度和知识库组合；首版检索默认基于云服务器本地保存的 Markdown 与本地索引，而不是默认依赖第三方托管知识库。
+
+推荐第一版采用 `Knowledge Gateway + Local Retriever` 架构：业务层先统一封装本地 Markdown 检索与权限过滤，再为未来外部 provider 预留适配层。这样可以在冷启动阶段把成本集中在模型 token，而不是过早承担知识库套餐、向量存储或外部检索调用费用。
+
+首版生产技术栈统一采用 TypeScript / Node.js：网站、API Server、Knowledge Gateway、Local Retriever、OpenAI Agents SDK Runtime 和测试都优先在同一套 TypeScript 工程内实现。当前 Python 原型只作为行为参考和迁移输入，不作为生产运行时保留。这样可以减少双栈维护、部署和类型边界成本，也更适合后续接入 Next.js SaaS 框架。
+
+在首版生产部署上，推荐把本机职责控制在 `Next.js 网站前端 + Node.js API Server + OpenAI Agents SDK Runtime + 轻量本地检索索引`。对 `4核 8G 5M` 云服务器，这种模式可支持 MVP 和低并发场景；但前提是静态资源尽量走 CDN，用户上传优先限制在轻量文本资料，避免应用服务器中转大文件和承担重型 OCR/向量化任务。
+
+## Current Implementation Progress
+
+截至 `2026-05-14`，这份架构设计里最早的一批 TypeScript 基础工作已经不再是“待开始”，而是已经落地到 `web/`：
+
+- `web/` 已经是 Next.js App Router + TypeScript 主工程。
+- Python 原型中的本地 Markdown 检索行为已经迁移到 `web/src/knowledge/*`，并由 Vitest 覆盖。
+- `search_knowledge_base` 风格的工具注册和运行时错误格式化已经迁移到 `web/src/agents/*`。
+- 首页已经从占位页升级为基于 `assistant-ui` 的单线程公共聊天界面。
+- 稳定路由 `POST /api/chat` 已经存在，且前端通过 `useDataStreamRuntime` 访问它。
+- 当前公共聊天回答路径已经具备：
+  - mock stream 模式
+  - 本地 public corpus 检索模式
+  - OpenAI Agents SDK 接入路径
+  - 当 OpenAI API 不可达或超时时，自动回退到本地 public corpus 回答
+- 当前 `web/` 已经存在明确的公共 corpus 定义：`web/src/corpora/public-corpora.ts`
+- 当前 `web/` 已经合并了基础工程稳定性修复：
+  - `.worktrees` TypeScript/Next watcher 边界隔离
+  - 根布局 `suppressHydrationWarning`
+  - `next typegen` 驱动的稳定 typecheck
+- `KnowledgeGateway.search(...)` is now the runtime retrieval entrypoint for the public chat path.
+- The registry is still static config, not a database-backed metadata layer.
+
+这意味着本架构文档中的“第一工程里程碑”已经完成，当前真正的下一阶段不再是“初始化 TypeScript 基础”，而是“把现有 public-only MVP 路径提升为权限感知、可计量、可扩展的 Knowledge Gateway 体系”。
+
+## Goals
+
+- 支持多个 Agent，每个 Agent 使用不同的公共知识库组合。
+- 支持每个用户上传并长期保存自己的私有知识库。
+- 支持每个 Agent 的最终知识组件为：某些公共知识库 + 某个用户私有知识库。
+- 对用户私有知识库做容量限制、文件限制、预处理和状态管理。
+- 保证用户只能检索自己有权限访问的私有知识库。
+- 统计每个用户的模型 token 用量，并支持按用户、Agent、会话和时间窗口汇总成本。
+- 在中国大陆访问足够快，并尽量降低项目冷启动阶段的固定服务器成本。
+- 保持知识库引擎可替换，避免被单一厂商锁死。
+
+## Non-Goals
+
+- 第一版不自研完整向量数据库、Embedding 调度和文档解析系统。
+- 第一版不要求所有知识库引擎能力完全一致。
+- 第一版不把 OpenAI Agents SDK 当作知识库权限系统。
+- 第一版不让 Agent 通过 prompt 自行决定可访问的数据范围。
+
+## Recommended Architecture
+
+```text
+Browser
+  -> CDN / Static Asset Cache
+  -> Next.js / Node.js API Server
+      -> Auth / User / Quota
+      -> Agent Registry
+      -> Corpus Registry
+      -> Upload Manager
+          -> Object Storage
+      -> Knowledge Gateway
+          -> Local Markdown Retriever / Local Search Index
+          -> Optional Provider Adapter: Aliyun / FastGPT / Dify / Tencent
+      -> OpenAI Agents SDK TypeScript Runtime
+          -> tool: search_knowledge
+```
+
+### Current Repository Baseline
+
+The repository no longer only contains a Python prototype. As of `2026-05-14`, the first TypeScript production slice already exists in `web/`, and the Python implementation should now be treated mainly as historical reference rather than the active milestone target.
+
+- `automation/pipelines/opc_knowledge_agent.py` already exposes a local `search_knowledge_base` function tool for OpenAI Agents SDK.
+- The current prototype searches Markdown under `knowledge/`, `sources/`, `outputs/`, and `agent/prompts/`.
+- `automation/README-openai-agents-smoke.md` already documents offline local search and a real SDK call path.
+- `tests/automation/pipelines/test_opc_knowledge_agent.py` already covers basic ranked Markdown retrieval and tool registration.
+- `web/src/knowledge/*` now contains the migrated TypeScript retrieval baseline.
+- `web/tests/knowledge/search-local-knowledge.test.ts` and `web/tests/agents/knowledge-tool.test.ts` already cover the migrated behavior.
+- `web/src/chat/*`, `web/src/corpora/public-corpora.ts`, and `web/app/api/chat/route.ts` already provide a public-chat MVP on top of that retrieval baseline.
+
+This changes the milestone sequencing:
+
+1. The “translate retrieval behavior into TypeScript and preserve tests” milestone is done.
+2. The current live gap is the missing permission-aware `Knowledge Gateway`, not missing retrieval code.
+3. The next retrieval upgrade should focus on explicit corpus composition, permission filtering, normalized evidence, and usage/accounting boundaries before introducing private uploads or external providers.
+
+### TypeScript-First Stack Decision
+
+Production code should converge on one TypeScript stack:
+
+- `Next.js App Router + TypeScript` for website, dashboard, API routes, and server actions where appropriate.
+- `@openai/agents` for the OpenAI Agents SDK runtime in Node.js.
+- `PostgreSQL + Drizzle ORM` for users, agents, corpora, documents, ingestion jobs, agent runs, and usage accounting.
+- `Postgres full-text search` for the first production local index when using managed Postgres; `SQLite FTS5` remains acceptable for local/offline prototypes or single-node file-based indexing.
+- `Vitest` for unit and integration tests that replace Python unittest coverage for production logic.
+- `tsx` for local TypeScript scripts, smoke tests, index rebuild jobs, and one-off automation entrypoints.
+
+The initial production repository layout should be explicit about this boundary:
+
+```text
+web/
+  app/
+  src/
+    agents/
+    knowledge/
+    corpora/
+    usage/
+    config/
+  tests/
+```
+
+Python scripts that support non-production knowledge collection, such as existing Bilibili extraction tools, may be migrated later. They should not block the production Agent architecture unless they become part of the live ingestion path.
+
+### Current TypeScript Runtime Slice In `web/`
+
+The current merged `web/` app already maps to part of the intended architecture:
+
+```text
+web/
+  app/
+    page.tsx                  -> public chat homepage
+    api/chat/route.ts         -> stable chat entrypoint
+  src/
+    knowledge/                -> local Markdown retriever
+    agents/                   -> tool descriptors and runtime error shaping
+    corpora/                  -> public corpus map
+    chat/                     -> request normalization, mock mode, public agent path
+    config/                   -> Next.js worktree/watch safeguards
+  tests/
+    knowledge/
+    agents/
+    chat/
+    app/
+    config/
+```
+
+What is implemented today:
+
+- public-only corpus answering
+- local Markdown search with corpus-aware directory constraints
+- assistant-ui based browser shell
+- OpenAI Agents SDK integration path for the public agent
+- graceful fallback to local retrieval when the OpenAI runtime path fails
+
+What is still missing relative to the target architecture:
+
+- authenticated users
+- private corpora
+- corpus/document metadata tables
+- ingestion jobs
+- usage accounting tables
+- `KnowledgeGateway.search(...)` as the single permission-aware backend boundary
+- persistent local index beyond direct file scan
+
+### First Production Deployment Profile
+
+推荐首版生产环境按以下假设设计：
+
+- 单台 `4核 8G 5M` 云服务器运行 Web/API 层、Agent Runtime 和轻量本地检索索引。
+- 首版公共知识主要来自仓库内 Markdown；用户私有知识优先支持 `.md` 与 `.txt`，再逐步扩展到可抽取文本的格式。
+- 静态前端资源由 CDN 或对象存储分发，尽量不要全部由源站直接出流量。
+- 上传链路优先采用浏览器直传对象存储；应用服务器负责鉴权、签名、状态登记、文本抽取任务和索引更新。
+- Metadata DB、对象存储、短信/邮件、日志监控等能力优先使用托管服务；如需自托管，也应保持轻量。
+
+推荐拓扑：
+
+```text
+Browser
+  -> CDN / Static Asset Cache
+  -> Next.js / Node.js API Server + OpenAI Agents SDK TypeScript Runtime
+      -> Managed Metadata DB
+      -> Object Storage
+      -> Local Markdown / Processed Text Store
+      -> Local Search Index
+      -> Optional External Knowledge Provider
+      -> OpenAI API
+```
+
+### Feasibility Of `4C8G5M`
+
+在不自托管重型知识库组件、且首版仅做轻量文本检索的前提下，`4核 8G` 的 CPU 和内存通常足够支撑：
+
+- 网站前端 SSR/轻量 API
+- 鉴权、权限校验、配额校验
+- OpenAI Agents SDK TypeScript 编排、工具调用、会话状态桥接
+- 轻量异步任务，例如上传登记、文本抽取、索引更新、用量入库
+
+这个配置更适合：
+
+- MVP 或早期生产环境
+- 低并发文本问答
+- 用户上传频率较低
+- 知识源以 Markdown 和轻量文本为主
+- 主要成本发生在 OpenAI API，而不是外部知识库服务
+
+这个配置不适合与以下组件同机部署：
+
+- Dify 全套自托管组件
+- FastGPT 全套自托管组件
+- RAGFlow 或其他重型文档解析/向量检索栈
+- 大规模 OCR、文件解析、embedding worker
+- 语音实时 Agent、转码、图像处理等高 IO/高 CPU 任务
+
+### Why `5M` Bandwidth Is The First Bottleneck
+
+`5 Mbps` 出口带宽理论上约为 `0.625 MB/s`。这意味着：
+
+- 文本型聊天和流式回答通常可接受。
+- 多个用户同时打开页面时，如果静态资源全部由源站输出，首屏速度会明显下降。
+- 如果上传文件需要先传到应用服务器，再做中转或全文解析，带宽会被快速占满，用户体验会明显恶化。
+
+因此第一版应把带宽优化视为比 CPU 优化更高优先级的问题。
+
+### Responsibility Split
+
+| Layer | Responsibility |
+| --- | --- |
+| CDN / Static Asset Cache | 分发前端静态资源，降低源站带宽与首屏压力 |
+| Next.js / Node.js API Server | 用户认证、Agent 选择、额度校验、上传入口、会话入口 |
+| Agent Registry | 记录每个 Agent 的 prompt、模型、可用公共知识库 |
+| Corpus Registry | 记录公共/私有知识库、owner、provider、storage/index 引用、状态 |
+| Knowledge Gateway | 统一检索接口、权限过滤、本地/外部结果合并、citation 标准化 |
+| Local Retriever | 基于 Markdown、抽取文本或本地索引执行检索 |
+| Provider Adapter | 可选外部适配层，适配阿里云、FastGPT、Dify、腾讯云 |
+| OpenAI Agents SDK TypeScript Runtime | 调用 `search_knowledge` 工具，根据证据生成回答 |
+| Usage Accounting | 记录每次 Agent run 的模型 token、工具调用和估算成本 |
+| Object Storage | 保存用户上传原文件、抽取文本和处理产物 |
+| Metadata DB | 保存业务元数据、权限、配额、预处理任务状态 |
+
+## Core Data Model
+
+### Agent
+
+```text
+agents
+- id
+- name
+- status
+- prompt_ref
+- model
+- default_public_corpus_ids
+- created_at
+- updated_at
+```
+
+Agent 不直接存文件路径。它只声明可以使用哪些公共 corpus。
+
+### Corpus
+
+```text
+corpora
+- id
+- name
+- visibility: public | private
+- owner_type: system | user
+- owner_user_id
+- provider: tencent | aliyun | dify | fastgpt | local
+- provider_dataset_id
+- local_storage_ref
+- local_index_ref
+- status: creating | indexing | ready | failed | archived
+- quota_bytes
+- used_bytes
+- created_at
+- updated_at
+```
+
+公共知识库和用户私有知识库都统一建模为 corpus。差异通过 `visibility`、`owner_type` 和权限规则表达。
+
+### Agent Corpus Binding
+
+```text
+agent_corpora
+- agent_id
+- corpus_id
+- role: public_base | optional_public
+- priority
+```
+
+不同 Agent 可以绑定不同公共知识库。例如：
+
+```text
+opc-orchestrator -> opc-core
+pricing-advisor -> opc-core + finance-core
+copywriting-advisor -> opc-core + copywriting-core
+```
+
+### Document And Ingestion Job
+
+```text
+documents
+- id
+- corpus_id
+- original_filename
+- storage_uri
+- mime_type
+- byte_size
+- status: uploaded | extracting | normalized | indexed | failed
+- provider_document_id
+- created_at
+- updated_at
+
+ingestion_jobs
+- id
+- document_id
+- corpus_id
+- job_type
+- status
+- error_message
+- started_at
+- finished_at
+```
+
+### Token Usage And Cost Accounting
+
+每次用户问答都必须记录模型 token 用量。统计粒度至少覆盖：
+
+```text
+agent_runs
+- id
+- user_id
+- agent_id
+- conversation_id
+- selected_private_corpus_id
+- model
+- reasoning_effort
+- status: succeeded | failed | cancelled
+- started_at
+- finished_at
+
+agent_run_usage
+- id
+- run_id
+- user_id
+- agent_id
+- model
+- requests
+- input_tokens
+- output_tokens
+- total_tokens
+- cached_input_tokens
+- reasoning_tokens
+- estimated_model_cost_usd
+- search_tool_calls
+- file_search_tool_calls
+- estimated_tool_cost_usd
+- created_at
+```
+
+OpenAI Agents SDK run 完成后，应从 TypeScript SDK 返回的 run result / context usage 信息读取用量并写入 `agent_run_usage`。至少保存 `input_tokens`、`output_tokens`、`total_tokens`、`cached_tokens`、`reasoning_tokens` 和 `requests`。如果后续使用 File Search、外部 RAG、rerank 或其他付费工具，工具调用次数和费用应独立记录，不能只依赖模型 token 估算总成本。
+
+用户额度和成本看板应基于 Usage Accounting 汇总，而不是从日志中临时解析。推荐支持这些查询：
+
+```text
+- user daily/monthly token usage
+- user daily/monthly estimated cost
+- agent-level token usage by model
+- conversation-level token usage
+- high-cost runs for audit
+```
+
+第一版可以只做美元估算字段，价格表由后端配置维护。价格表更新时不重写历史 token 记录；如需重新估算成本，基于原始 token 字段重新计算。
+
+## Knowledge Composition Rule
+
+每次问答请求显式传入：
+
+```text
+user_id
+agent_id
+selected_private_corpus_id
+question
+```
+
+后端解析可检索范围：
+
+```text
+allowed_corpora =
+  agent.default_public_corpus_ids
+  + selected_private_corpus_id if owner_user_id == user_id
+```
+
+Agent 只能通过后端提供的 `search_knowledge` 工具检索这些 corpus。私有知识库权限必须在后端和 Knowledge Gateway 校验，不能交给模型或 prompt。
+
+## Upload And Preprocessing Flow
+
+首版默认采用本地知识路径，而不是“上传即进入外部托管知识库”。
+
+```text
+1. User requests an upload session
+2. API Server validates auth, file size, type and user quota
+3. API Server returns a signed upload URL
+4. Browser uploads the original file directly to Object Storage
+5. Document row is created or confirmed as uploaded
+6. Ingestion job is queued
+7. Worker extracts or normalizes text into `data/processed/` or another managed text store
+8. Local retriever updates search index or searchable text manifest
+9. Corpus/document status is updated
+10. Only ready corpora are used in retrieval
+```
+
+只有在后续接入外部 provider 时，才需要补充 provider 上传、provider document id 和外部索引状态同步逻辑。
+
+### Quota Rules
+
+First-version recommended limits:
+
+- Free user total private storage: 50-100 MB
+- Single private corpus: 20-50 MB
+- Single file: 2-10 MB
+- Supported file types first: `.md`, `.txt`
+- Optional second batch: `.pdf`, `.docx` only after text extraction quality is acceptable
+- Unsupported or failed files remain visible with failed reason, but cannot be searched.
+
+Quota must be checked before upload and again after text extraction if normalized text size expands significantly.
+
+### Bandwidth-Aware Upload Guidance
+
+当源站出口仅为 `5M` 时，上传策略应额外考虑网络瓶颈：
+
+- 默认使用浏览器直传对象存储。
+- 单文件上限建议在产品冷启动阶段更保守，优先落在 `2-10 MB`。
+- 如果服务器需要参与文本抽取，前端应明确告知“上传中”和“知识库处理中”是两个不同阶段。
+- 大文件批量导入、媒体类文件和需要 OCR 的文件应延后到更高带宽或独立 worker 阶段。
+
+## Retrieval Flow
+
+```text
+User question
+  -> OpenAI Agents SDK TypeScript Runtime
+      -> search_knowledge(query)
+          -> Knowledge Gateway
+              -> resolve allowed corpora
+              -> search local Markdown / processed text / local index
+              -> optionally call provider retrieval APIs
+              -> merge results
+              -> dedupe by document/chunk
+              -> optional rerank
+              -> return normalized evidence
+      -> final answer with citations
+```
+
+After the Agent run completes, the API Server records usage:
+
+```text
+OpenAI Agents SDK run usage
+  -> Usage Accounting
+      -> persist per-run token usage
+      -> estimate model cost by configured pricing table
+      -> aggregate by user_id / agent_id / conversation_id
+      -> enforce quota or trigger alerts when needed
+```
+
+Normalized evidence format:
+
+```json
+[
+  {
+    "corpus_id": "opc-core",
+    "document_id": "doc_123",
+    "chunk_id": "chunk_456",
+    "title": "OPC Methodology Overview",
+    "source": "knowledge/strategy/opc/opc-methodology-overview.md",
+    "score": 0.82,
+    "excerpt": "..."
+  }
+]
+```
+
+The answer layer should cite normalized `source` plus document title. It should not expose raw provider internals unless needed for debugging.
+
+### Local Retrieval Evolution Path
+
+To keep scope under control, local retrieval should evolve in stages:
+
+1. Stage 0: repository-wide Markdown scan with basic scoring.
+2. Stage 1: corpus-aware filtering, standardized citations, and permission-aware result shaping.
+3. Stage 2: lightweight local index, such as SQLite FTS5 or BM25, with incremental rebuild support.
+4. Stage 3: optional rerank layer for top-K local results if benchmark queries show recall is acceptable but ordering is weak.
+5. Stage 4: external provider adapter only when local retrieval quality, file-format complexity, or corpus volume makes it necessary.
+
+The transition from Stage 0 to Stage 2 should happen before adding a managed external knowledge-base dependency.
+
+## Provider Strategy
+
+### Recommended First Choice: Local Markdown Retrieval
+
+The first production path for this project should be local Markdown retrieval on the application server. This matches the current repository shape, keeps the canonical knowledge in human-readable files, and avoids paying early for managed knowledge-base capacity, vector storage, or provider-side retrieval calls.
+
+This path is especially suitable when:
+
+- most public knowledge already lives in repository Markdown
+- private knowledge volume is still small
+- acceptable quality can be achieved with keyword search, BM25, SQLite FTS5, or another lightweight local index
+- the main goal is validating product flow rather than maximizing semantic retrieval quality on day one
+
+### Why Not Default To OpenAI File Search First
+
+OpenAI File Search is a valid managed option, but it should not be the default first step for this project. It requires uploading files into OpenAI-managed vector stores and adds storage plus tool-call costs on top of model token costs. As of `2026-05-13`, the official pricing shows `File search` at `$2.50 / 1,000 calls` and `Vector storage` at `$0.10 / GB / day` after the first `1 GB`.
+
+Official references:
+
+- https://developers.openai.com/api/docs/guides/tools-file-search
+- https://developers.openai.com/api/docs/pricing
+
+### Best External Upgrade Path: Aliyun Bailian Knowledge Base
+
+Aliyun Bailian is the most plausible external upgrade path if local retrieval becomes insufficient and a provider-neutral gateway is already in place. It has knowledge-base APIs and retrieval APIs, but its managed knowledge-base model is not free-form pure pay-as-you-go for arbitrary long-tail private corpora. It is better treated as a second-stage managed engine for selected corpora than as the default base layer for every user corpus.
+
+Official references:
+
+- https://help.aliyun.com/zh/model-studio/rag-knowledge-base-api-guide
+- https://help.aliyun.com/zh/model-studio/api-bailian-2023-12-29-retrieve
+- https://help.aliyun.com/zh/model-studio/billing-for-knowledge-base
+
+### FastGPT Cloud
+
+FastGPT Cloud is a good shortcut if the main priority becomes fast delivery, built-in management UI, and lower development effort. It is more plan-based than granular usage-based, so it is often better as a product acceleration option than as the foundational low-fixed-cost retrieval layer.
+
+Official references:
+
+- https://fastgpt.io/zh/price
+- https://doc.fastgpt.io/en/openapi
+
+### Dify
+
+Dify is useful when the product needs a mature workflow UI, knowledge-base console, and integrated app platform. It should be treated as an external platform choice rather than as the default storage and retrieval substrate for this repository.
+
+Official references:
+
+- https://dify.ai/pricing
+- https://docs.dify.ai/
+
+### Tencent Cloud ADP Knowledge Base
+
+Tencent Cloud ADP knowledge base should not be treated as the default first external adapter for this architecture. The current product shape is closer to an application-centric managed platform with subscription-style billing than to a low-fixed-cost, corpus-composable retrieval substrate for many user private corpora.
+
+Official references:
+
+- https://cloud.tencent.com/document/product/1759/127342
+- https://cloud.tencent.com/document/product/1759/105105
+
+### Deployment Rule For This Project
+
+If the first production machine is only `4核 8G 5M`, then Dify, FastGPT, RAGFlow and similar platforms should be treated as external services or deployed on separate infrastructure. The application server for OPC Planet should remain thin and stateless enough to scale independently later.
+
+## Why Use A Knowledge Gateway
+
+The Knowledge Gateway avoids coupling product logic to either a local retriever implementation or any external provider.
+
+It owns:
+
+- user and corpus permission checks
+- agent-to-public-corpus resolution
+- selected private corpus validation
+- local path and local index resolution
+- provider selection
+- provider API retries and timeout handling
+- result normalization
+- citation formatting
+- provider failover or migration later
+
+The OpenAI Agents SDK TypeScript runtime only sees a narrow tool surface:
+
+```ts
+const searchKnowledge = tool({
+  name: "search_knowledge",
+  description: "Search allowed public and private knowledge corpora.",
+  parameters: z.object({
+    query: z.string(),
+  }),
+  execute: async ({ query }, context) => {
+    return knowledgeGateway.search({
+      userId: context.userId,
+      agentId: context.agentId,
+      privateCorpusId: context.privateCorpusId,
+      query,
+    });
+  },
+});
+```
+
+## Public Corpus Layout For This Repository
+
+Current repository content can be split into public corpora:
+
+```text
+opc-core
+  - knowledge/strategy/opc/
+  - knowledge/operations/opc/
+  - sources/skill-sources/opc-methodology/
+
+opc-strategy
+  - knowledge/strategy/
+  - outputs/briefs/
+
+opc-product-and-market
+  - knowledge/products/
+  - knowledge/market/
+  - outputs/reports/
+
+opc-content-and-sales
+  - knowledge/operations/
+  - knowledge/customers/
+  - sources/videos/bilibili/
+```
+
+These are logical corpora. Their actual mapping may point to local directories, local index segments, or provider dataset IDs, and should be stored in the Metadata DB or local config rather than hard-coded into Agent prompts.
+
+Current implementation note:
+
+- The merged MVP currently uses a smaller hard-coded public slice in `web/src/corpora/public-corpora.ts`:
+  - `knowledge/strategy/opc`
+  - `knowledge/strategy`
+  - `knowledge/finance`
+  - `knowledge/operations`
+  - `knowledge/products`
+
+This is acceptable for the current public chat MVP, but the next architecture step should move this from an MVP-only config into a broader corpus registry abstraction that can serve both public and private corpus composition.
+
+## First-Version Implementation Plan
+
+### Phase A: Already Completed In `web/`
+
+1. Create the TypeScript production workspace in `web/`, using Next.js App Router and a typed test setup.
+2. Install and validate `@openai/agents`, `zod`, `vitest`, and the current frontend/runtime dependencies needed for the public chat MVP.
+3. Port `automation/pipelines/opc_knowledge_agent.py` behavior into TypeScript as a local Markdown retriever module.
+4. Port the core ranked retrieval and tool registration tests into Vitest.
+5. Move repository-wide path selection into explicit public corpus definitions for the current MVP slice.
+6. Add a stable `POST /api/chat` path and a browser-facing public assistant UI.
+
+### Phase B: Next Architecture Work
+
+1. Create a `corpus_registry` config or DB table for public corpora and future private corpora.
+2. Add `agents` and `agent_corpora` metadata.
+3. Add `users`, `corpora`, `documents`, `ingestion_jobs` and quota metadata.
+4. Implement `KnowledgeGateway.search(...)` with the TypeScript local Markdown retriever as provider `local`.
+5. Refactor `web/app/api/chat/route.ts` and the current public agent path so they call the gateway, not corpus-specific retrieval helpers directly.
+6. Standardize normalized evidence output, citations, and corpus-level permission filtering behind the gateway boundary.
+7. Add `agent_runs` and `agent_run_usage` tables for per-user token and cost accounting.
+8. Add eval cases for:
+   - public-only answer
+   - public + private answer
+   - private corpus access denied
+   - private corpus not ready
+   - uploaded document too large
+   - local index returns the same or better top results than naive directory scan for key benchmark queries
+   - per-user token usage is recorded after a successful Agent run
+   - failed Agent run records status and any available partial usage
+
+### Phase C: Retrieval And Provider Upgrades
+
+1. Upgrade local retrieval from directory scan to Postgres full-text search or another lightweight index, and store index artifacts outside canonical knowledge directories.
+2. Add a provider adapter interface:
+
+```text
+create_corpus
+upload_document
+get_document_status
+retrieve
+delete_document
+delete_corpus
+```
+
+3. Keep OpenAI Agents SDK TypeScript runtime thin: replace direct local search with `KnowledgeGateway.search` and record run usage after each run.
+4. Only after local retrieval quality or file-format complexity becomes a bottleneck, implement the first external adapter. External test priority should be:
+   - Aliyun Bailian
+   - FastGPT Cloud
+   - Dify
+   - Tencent Cloud ADP
+
+## Operational Risks
+
+| Risk | Mitigation |
+| --- | --- |
+| Provider lock-in | Use Knowledge Gateway and adapter interface |
+| Private data leakage | Permission check before every retrieval; never trust prompt |
+| Cost spike from uploads | Quota before upload, file type limits, ingestion job limits |
+| Cost spike from model usage | Per-user token accounting, monthly caps, high-cost run alerts |
+| `5M` bandwidth saturation | Use CDN for static assets; use browser direct upload; avoid large-file relay through API Server |
+| Local retrieval misses semantic matches | Start with benchmark queries; upgrade to FTS5/BM25; add rerank or external provider only when needed |
+| Single-server overload from self-hosted RAG | Keep Dify/FastGPT/RAGFlow off the MVP application server |
+| Retrieval quality inconsistent across providers | Normalize evidence format and keep eval set |
+| Upload says ready but retrieval misses content | Store ingestion states and index versions; add smoke retrieval after indexing |
+| Provider outage | Return graceful "knowledge search unavailable" error; keep adapter-level retry |
+
+## Open Questions
+
+- What benchmark query set should define “local retrieval is good enough” for the first release?
+- What is the first user quota tier: 50 MB, 100 MB, or another number?
+- Should users have exactly one private corpus by default, or multiple project-level corpora?
+- Should private corpus deletion be immediate, soft-deleted, or delayed for recovery?
+- Should public corpora be rebuilt from this Git repository automatically on each release?
+- What are the first per-user monthly token and estimated-cost limits for each plan tier?
+- At what private corpus volume or retrieval failure rate should the system introduce the first external provider?
+- At what traffic or upload threshold should the application server be upgraded from `5M` to `10M+` bandwidth?
+
+## Recommended Next Step
+
+Do not spend the next iteration redoing the TypeScript foundation work. That layer already exists in `web/`.
+
+The recommended next step is to build the first provider-neutral `Knowledge Gateway` boundary and move the current public chat runtime onto it. Concretely, the next implementation slice should:
+
+1. introduce explicit corpus and agent metadata storage instead of relying only on code-level config
+2. define `KnowledgeGateway.search(...)` as the only retrieval entrypoint used by runtime code
+3. preserve the current public-only chat path while moving retrieval authorization and citation normalization into the gateway
+4. add usage/accounting persistence and the first private-corpus-ready metadata model
+
+Only after those boundaries exist should the system invest in private uploads, larger local indexes, or an external knowledge provider adapter.
