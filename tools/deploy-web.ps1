@@ -259,17 +259,19 @@ checkout_release() {
   fi
 
   local commit
-  commit="$(git -C "${repo_cache}" rev-parse --short=12 "${target_ref}")"
+  commit="$(git -C "${repo_cache}" rev-parse "${target_ref}")"
+  local short_commit
+  short_commit="$(git -C "${repo_cache}" rev-parse --short=12 "${commit}")"
 
   local release_name
-  release_name="$(date -u +%Y%m%d%H%M%S)-${commit}"
+  release_name="$(date -u +%Y%m%d%H%M%S)-${short_commit}"
 
   local release_dir
   release_dir="${releases_dir}/${release_name}"
 
   git clone --local "${repo_cache}" "${release_dir}" >&2
-  git -C "${release_dir}" checkout --force "${target_ref}" >&2
-  git -C "${release_dir}" reset --hard "${target_ref}" >&2
+  git -C "${release_dir}" checkout --force "${commit}" >&2
+  git -C "${release_dir}" reset --hard "${commit}" >&2
 
   echo "${release_dir}"
 }
