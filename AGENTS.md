@@ -18,6 +18,8 @@ Default priorities:
 - `sources/`: External source notes and raw reference records. Use this for web pages, books, papers, podcasts, and other materials that support knowledge claims.
 - `outputs/`: Produced artifacts such as reports, briefs, playbooks, SOPs, and decision records intended for reuse or delivery.
 - `automation/`: Code that supports crawling, extraction, normalization, ingestion, indexing, or export. Do not place canonical knowledge here.
+- `tools/`: Standalone local utilities and operator-facing scripts. Use this for one-off workflows that are not canonical knowledge and not part of the website runtime.
+- `web/`: The `opc-website` website engineering directory and Git submodule. This is the dedicated workspace for the product website, frontend, API surface, and related product runtime. The implementation planned in `docs/dev-plans/2026-05-13-agent-knowledge-architecture.md` should be created in this directory, and follow-up website development should happen here by default. Do not treat it as canonical knowledge storage.
 - `data/`: Data generated or consumed by automation. Prefer `data/raw/` for untouched inputs, `data/interim/` for intermediate results, `data/processed/` for cleaned outputs, and `data/index/` for retrieval indexes.
 - `agent/`: Future knowledge-base Agent materials, including profile, prompts, tool definitions, memory rules, and evaluation cases.
 - `templates/`: Reusable Markdown templates. Prefer these when creating new notes, source records, decisions, playbooks, or Agent evals.
@@ -38,6 +40,8 @@ Default priorities:
 - HTML/Markdown/PDF extraction helpers: `automation/extractors/`.
 - Frontmatter, taxonomy, naming, or tag cleanup helpers: `automation/normalizers/`.
 - Scheduling or task entrypoints: `automation/schedulers/`.
+- Standalone local utilities or operator-facing scripts: `tools/`.
+- Website frontend, application routes, production runtime code, and the implementation of `docs/dev-plans/2026-05-13-agent-knowledge-architecture.md`: `web/`.
 - Agent identity, boundaries, and tone: `agent/profile/`.
 - Agent system or role prompts: `agent/prompts/`.
 - Agent tool registry or retrieval policy: `agent/tools/`.

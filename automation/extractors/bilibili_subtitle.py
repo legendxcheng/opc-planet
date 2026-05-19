@@ -22,6 +22,23 @@ BVID_RE = re.compile(r"BV[0-9A-Za-z]{10}")
 MID_RE = re.compile(r"space\.bilibili\.com/(\d+)|^(\d+)$")
 DEFAULT_OUTPUT_DIR = Path("data/raw/bilibili/subtitles")
 DEFAULT_PAGE_SIZE = 30
+DEFAULT_MIN_COVERAGE_RATIO = 0.55
+TITLE_TOKEN_RE = re.compile(r"[A-Za-z0-9]+|[\u4e00-\u9fff]{2,}")
+STOP_TITLE_TOKENS = {
+    "https",
+    "http",
+    "www",
+    "com",
+    "bilibili",
+    "youtube",
+    "中英",
+    "字幕",
+    "精校",
+    "视频",
+    "访谈",
+    "测试",
+    "标题",
+}
 WBI_MIXIN_KEY_ENC_TAB = [
     46, 47, 18, 2, 53, 8, 23, 32, 15, 50, 10, 31, 58, 3, 45, 35,
     27, 43, 5, 49, 33, 9, 42, 19, 29, 28, 14, 39, 12, 38, 41, 13,
@@ -38,6 +55,7 @@ class SubtitleInfo:
     owner_name: str | None
     status: str
     reason: str | None = None
+    duration: int | float | None = None
     need_login_subtitle: bool | None = None
     subtitles: list[dict[str, Any]] | None = None
 
@@ -54,6 +72,9 @@ class DownloadResult:
     raw_subtitle_path: str | None = None
     text_path: str | None = None
     metadata_path: str | None = None
+    validation_status: str | None = None
+    validation_warnings: list[str] | None = None
+    validation_metrics: dict[str, Any] | None = None
 
 
 class HttpClient:
@@ -222,6 +243,8 @@ def summarize_download_results(
         "mid": mid,
         "total": len(results),
         "downloaded": sum(1 for result in results if result.status == "downloaded"),
+        "needs_review": sum(1 for result in results if result.status == "needs_review"),
+        "mismatched_subtitle": sum(1 for result in results if result.status == "mismatched_subtitle"),
         "available": sum(1 for result in results if result.status == "available"),
         "unavailable": sum(1 for result in results if result.status == "unavailable"),
         "error": sum(1 for result in results if result.status == "error"),
@@ -259,6 +282,7 @@ def fetch_subtitle_info(value: str, client: Any | None = None) -> SubtitleInfo:
             owner_name=(view_data.get("owner") or {}).get("name"),
             status="unavailable",
             reason=reason,
+            duration=view_data.get("duration"),
             need_login_subtitle=need_login_subtitle,
             subtitles=[],
         )
@@ -269,12 +293,18 @@ def fetch_subtitle_info(value: str, client: Any | None = None) -> SubtitleInfo:
         title=view_data.get("title"),
         owner_name=(view_data.get("owner") or {}).get("name"),
         status="available",
+        duration=view_data.get("duration"),
         need_login_subtitle=need_login_subtitle,
         subtitles=subtitles,
     )
 
 
-def download_first_subtitle(value: str, output_dir: str | Path = DEFAULT_OUTPUT_DIR, client: Any | None = None) -> DownloadResult:
+def download_first_subtitle(
+    value: str,
+    output_dir: str | Path = DEFAULT_OUTPUT_DIR,
+    client: Any | None = None,
+    validation_metadata_roots: list[str | Path] | None = None,
+) -> DownloadResult:
     http = client or HttpClient(cookie=load_cookie())
     info = fetch_subtitle_info(value, client=http)
     if info.status != "available" or not info.subtitles:
@@ -301,6 +331,12 @@ def download_first_subtitle(value: str, output_dir: str | Path = DEFAULT_OUTPUT_
         )
 
     subtitle_payload = http.get_json(subtitle_url)
+    validation = validate_subtitle_payload(
+        info=info,
+        subtitle=subtitle,
+        subtitle_payload=subtitle_payload,
+        metadata_roots=validation_metadata_roots,
+    )
     base_dir = Path(output_dir)
     base_dir.mkdir(parents=True, exist_ok=True)
     lan = sanitize_filename(str(subtitle.get("lan") or "unknown"))
@@ -317,14 +353,132 @@ def download_first_subtitle(value: str, output_dir: str | Path = DEFAULT_OUTPUT_
         cid=info.cid,
         title=info.title,
         owner_name=info.owner_name,
-        status="downloaded",
+        status=validation["status"],
         subtitle=redact_subtitle_metadata(subtitle),
         raw_subtitle_path=str(raw_path),
         text_path=str(text_path),
         metadata_path=str(metadata_path),
+        validation_status=validation["validation_status"],
+        validation_warnings=validation["warnings"],
+        validation_metrics=validation["metrics"],
     )
     metadata_path.write_text(json.dumps(asdict(result), ensure_ascii=False, indent=2), encoding="utf-8")
     return result
+
+
+def validate_subtitle_payload(
+    info: SubtitleInfo,
+    subtitle: dict[str, Any],
+    subtitle_payload: dict[str, Any],
+    metadata_roots: list[str | Path] | None = None,
+) -> dict[str, Any]:
+    warnings: list[str] = []
+    body = subtitle_payload.get("body") or []
+    text = subtitle_payload_to_text(subtitle_payload)
+    last_to = subtitle_last_time(body)
+    duration = fetch_duration_from_info(info)
+    coverage_ratio = (last_to / duration) if duration and last_to is not None else None
+    if not body or not text.strip():
+        warnings.append("subtitle_body_empty")
+    if coverage_ratio is not None and coverage_ratio < DEFAULT_MIN_COVERAGE_RATIO:
+        warnings.append("subtitle_covers_too_little_video")
+
+    title_tokens = extract_match_tokens(info.title or "")
+    text_token_matches = sorted(token for token in title_tokens if token.casefold() in text.casefold())
+    meaningful_title_tokens = bool(title_tokens)
+    if meaningful_title_tokens and not text_token_matches and len(text.strip()) >= 20:
+        warnings.append("subtitle_text_does_not_match_video_title")
+
+    reused_bvids = find_reused_subtitle_bvids(subtitle, info.bvid, metadata_roots)
+    if reused_bvids:
+        warnings.append("ai_subtitle_id_reused_by_other_video")
+
+    mismatch_warning_names = {
+        "subtitle_text_does_not_match_video_title",
+        "ai_subtitle_id_reused_by_other_video",
+    }
+    if any(warning in warnings for warning in mismatch_warning_names):
+        validation_status = "mismatched_subtitle"
+    elif warnings:
+        validation_status = "needs_review"
+    else:
+        validation_status = "passed"
+
+    status = "downloaded" if validation_status == "passed" else validation_status
+    return {
+        "status": status,
+        "validation_status": validation_status,
+        "warnings": warnings,
+        "metrics": {
+            "body_count": len(body),
+            "text_char_count": len(text),
+            "last_subtitle_time": last_to,
+            "video_duration": duration,
+            "coverage_ratio": coverage_ratio,
+            "title_tokens": sorted(title_tokens),
+            "title_token_matches": text_token_matches,
+            "reused_subtitle_bvids": reused_bvids,
+        },
+    }
+
+
+def fetch_duration_from_info(info: SubtitleInfo) -> int | float | None:
+    duration = getattr(info, "duration", None)
+    if isinstance(duration, (int, float)):
+        return duration
+    return None
+
+
+def subtitle_last_time(body: list[dict[str, Any]]) -> float | None:
+    last_to: float | None = None
+    for item in body:
+        value = item.get("to")
+        if isinstance(value, (int, float)):
+            last_to = max(last_to or 0, float(value))
+    return last_to
+
+
+def extract_match_tokens(value: str) -> set[str]:
+    tokens = set()
+    for match in TITLE_TOKEN_RE.findall(value):
+        token = match.strip().casefold()
+        if len(token) < 2 or token in STOP_TITLE_TOKENS:
+            continue
+        tokens.add(token)
+    return tokens
+
+
+def find_reused_subtitle_bvids(
+    subtitle: dict[str, Any],
+    current_bvid: str,
+    metadata_roots: list[str | Path] | None = None,
+) -> list[str]:
+    subtitle_id = str(subtitle.get("id_str") or subtitle.get("id") or "").strip()
+    if not subtitle_id:
+        return []
+    if not is_ai_subtitle(subtitle):
+        return []
+    roots = [Path(root) for root in (metadata_roots if metadata_roots is not None else [DEFAULT_OUTPUT_DIR])]
+    reused: set[str] = set()
+    for root in roots:
+        if not root.exists():
+            continue
+        for path in root.rglob("*.metadata.json"):
+            try:
+                metadata = json.loads(path.read_text(encoding="utf-8"))
+            except (OSError, json.JSONDecodeError):
+                continue
+            other_subtitle = metadata.get("subtitle") or {}
+            other_id = str(other_subtitle.get("id_str") or other_subtitle.get("id") or "").strip()
+            other_bvid = str(metadata.get("bvid") or "").strip()
+            if other_id == subtitle_id and other_bvid and other_bvid != current_bvid:
+                reused.add(other_bvid)
+    return sorted(reused)
+
+
+def is_ai_subtitle(subtitle: dict[str, Any]) -> bool:
+    lan = str(subtitle.get("lan") or "")
+    return lan.startswith("ai-") or subtitle.get("type") == 1 or subtitle.get("ai_status") is not None
 
 def redact_subtitle_metadata(subtitle: dict[str, Any]) -> dict[str, Any]:
     redacted = dict(subtitle)

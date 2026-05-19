@@ -4,7 +4,7 @@ type: concept
 status: draft
 tags: [pricing, monetization, finance, knowledge-business]
 created: 2026-04-25
-updated: 2026-04-25
+updated: 2026-04-28
 source: sources/videos/bilibili/dontbesilent-liaozhuanqian/README.md
 confidence: medium
 ---
@@ -22,6 +22,7 @@ confidence: medium
 - 低价课、低价资料或免费咨询可能带来线索，但也可能吸引高消耗、低付费意愿客户。
 - 价格锚点应来自可感知结果、稀缺性、替代方案成本和交付确定性，而不只是工时。
 - 对一人公司而言，低客单价必须配合高度自动化或极低边际成本，否则会吞噬时间。
+- 高客单价不只来自“涨价”，还来自选择更有支付能力的客户、更高价值的问题和更能证明结果的交付方式。
 
 ## Details
 
@@ -36,18 +37,31 @@ confidence: medium
 
 来源中有大量“低价引流会失败”“高毛利是活路”等强表达。进入知识库时应改写为：如果没有后端承接、筛选机制和交付自动化，低价引流容易降低利润质量；高毛利更适合一人公司，但必须由真实价值和可信交付支撑。
 
+### 先匹配客单价与获客方式
+
+小流量可以支撑高客单价，高流量可以支撑低客单价，但二者不能混用。低客单价产品如果没有规模化触达和自动化交付，会吞噬创始人时间；高客单价产品如果没有精准客户、强信任和清晰结果，也很难成交。
+
+一人公司设计变现路径时，应先写清：
+
+1. 目标客单价区间。
+2. 对应客户是否有预算和决策权。
+3. 需要多少信任和证据才能成交。
+4. 交付是否能支撑这个价格。
+5. 需要大流量、精准小流量、转介绍，还是直接销售。
+
 ## Evidence
 
 - 来源视频 `053` 讨论引流款卖贵与卖便宜的差异。
 - 来源视频 `065`、`066`、`072` 讨论定价在知识付费和赛道判断中的作用。
 - 来源视频 `079`、`096`、`118` 可作为知识付费、高毛利和虚拟资料案例的补充来源。
+- 曲曲补抓来源 `BV1ChdZBkEVQ`、`BV1pGquBdE9D` 补充客单价、流量规模和客户支付能力的匹配关系。
 
 ## Links
 
 - Source index: `sources/videos/bilibili/dontbesilent-liaozhuanqian/README.md`
+- Source update: `sources/videos/bilibili/ququ-business-search-2026-04-26/2026-04-28-redownloaded-verified-transcripts.md`
 
 ## Next Actions
 
 - 为每个产品建立价格梯度：免费内容、低价体验、核心产品、高价陪跑或顾问。
 - 在产品文档中加入“交付边界”和“非承诺事项”。
-

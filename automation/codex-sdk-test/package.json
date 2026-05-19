@@ -1,0 +1,18 @@
+{
+  "name": "codex-sdk-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "smoke.mjs",
+  "scripts": {
+    "smoke": "node smoke.mjs",
+    "config-check": "node configured-client.mjs",
+    "ping": "node ping.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@openai/codex-sdk": "^0.130.0"
+  }
+}

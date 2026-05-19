@@ -97,6 +97,114 @@ def test_downloads_subtitle_json_and_writes_text(tmp_path):
     metadata = json.loads(Path(result.metadata_path).read_text(encoding="utf-8"))
     assert metadata["bvid"] == bvid
     assert metadata["subtitle"]["lan"] == "zh-CN"
+    assert metadata["validation_status"] == "passed"
+
+
+def test_download_marks_short_subtitle_as_needs_review(tmp_path):
+    bvid = "BV1TEST12345"
+    cid = 100
+    subtitle_url = "https://aisubtitle.hdslb.com/bfs/ai_subtitle/short.json"
+    client = FakeHttpClient(
+        {
+            bs.view_api_url(bvid): {"code": 0, "data": {"title": "Justin Welsh 一人公司", "duration": 3600, "cid": cid, "owner": {"name": "测试UP"}}},
+            bs.player_api_url(bvid, cid): {
+                "code": 0,
+                "data": {
+                    "need_login_subtitle": False,
+                    "subtitle": {
+                        "subtitles": [
+                            {"lan": "ai-zh", "id_str": "sub-1", "subtitle_url": subtitle_url}
+                        ]
+                    },
+                },
+            },
+            subtitle_url: {"body": [{"from": 0.0, "to": 120.0, "content": "Justin Welsh 访谈"}]},
+        }
+    )
+
+    result = bs.download_first_subtitle(bvid, output_dir=tmp_path, client=client)
+
+    assert result.status == "needs_review"
+    assert "subtitle_covers_too_little_video" in result.validation_warnings
+    metadata = json.loads(Path(result.metadata_path).read_text(encoding="utf-8"))
+    assert metadata["validation_status"] == "needs_review"
+    assert metadata["validation_metrics"]["coverage_ratio"] == pytest.approx(120 / 3600)
+
+
+def test_download_marks_topic_mismatch_as_mismatched_subtitle(tmp_path):
+    bvid = "BV1TEST12345"
+    cid = 100
+    subtitle_url = "https://aisubtitle.hdslb.com/bfs/ai_subtitle/mismatch.json"
+    client = FakeHttpClient(
+        {
+            bs.view_api_url(bvid): {"code": 0, "data": {"title": "Justin Welsh 一人公司 创作者业务", "duration": 900, "cid": cid, "owner": {"name": "测试UP"}}},
+            bs.player_api_url(bvid, cid): {
+                "code": 0,
+                "data": {
+                    "need_login_subtitle": False,
+                    "subtitle": {
+                        "subtitles": [
+                            {"lan": "ai-zh", "id_str": "sub-2", "subtitle_url": subtitle_url}
+                        ]
+                    },
+                },
+            },
+            subtitle_url: {"body": [{"from": 0.0, "to": 850.0, "content": "蔡徐坤 代言 品牌 娱乐 明星 粉丝 舆情"}]},
+        }
+    )
+
+    result = bs.download_first_subtitle(bvid, output_dir=tmp_path, client=client)
+
+    assert result.status == "mismatched_subtitle"
+    assert "subtitle_text_does_not_match_video_title" in result.validation_warnings
+    assert Path(result.text_path).exists()
+
+
+def test_download_marks_reused_ai_subtitle_id_as_mismatched(tmp_path):
+    existing_dir = tmp_path / "existing"
+    existing_dir.mkdir()
+    (existing_dir / "other.metadata.json").write_text(
+        json.dumps(
+            {
+                "bvid": "BV1OTHER9999",
+                "subtitle": {"id_str": "reused-ai-id", "lan": "ai-zh", "type": 1, "ai_status": 2},
+            },
+            ensure_ascii=False,
+        ),
+        encoding="utf-8",
+    )
+    out_dir = tmp_path / "current"
+    bvid = "BV1TEST12345"
+    cid = 100
+    subtitle_url = "https://aisubtitle.hdslb.com/bfs/ai_subtitle/reused.json"
+    client = FakeHttpClient(
+        {
+            bs.view_api_url(bvid): {"code": 0, "data": {"title": "Justin Welsh 一人公司", "duration": 300, "cid": cid, "owner": {"name": "测试UP"}}},
+            bs.player_api_url(bvid, cid): {
+                "code": 0,
+                "data": {
+                    "need_login_subtitle": False,
+                    "subtitle": {
+                        "subtitles": [
+                            {"lan": "ai-zh", "id_str": "reused-ai-id", "type": 1, "ai_status": 2, "subtitle_url": subtitle_url}
+                        ]
+                    },
+                },
+            },
+            subtitle_url: {"body": [{"from": 0.0, "to": 280.0, "content": "Justin Welsh 一人公司 内容 产品"}]},
+        }
+    )
+
+    result = bs.download_first_subtitle(
+        bvid,
+        output_dir=out_dir,
+        client=client,
+        validation_metadata_roots=[existing_dir],
+    )
+
+    assert result.status == "mismatched_subtitle"
+    assert "ai_subtitle_id_reused_by_other_video" in result.validation_warnings
+    assert result.validation_metrics["reused_subtitle_bvids"] == ["BV1OTHER9999"]
 
 
 def test_load_cookie_strips_utf8_bom(tmp_path, monkeypatch):
@@ -137,13 +245,17 @@ def test_batch_download_summarizes_downloaded_and_unavailable(tmp_path):
     results = [
         bs.DownloadResult(bvid="BV1AAAA11111", cid=1, title="A", owner_name="UP", status="downloaded"),
         bs.DownloadResult(bvid="BV1BBBB22222", cid=2, title="B", owner_name="UP", status="unavailable", reason="no_subtitle_tracks"),
+        bs.DownloadResult(bvid="BV1CCCC33333", cid=3, title="C", owner_name="UP", status="needs_review"),
+        bs.DownloadResult(bvid="BV1DDDD44444", cid=4, title="D", owner_name="UP", status="mismatched_subtitle"),
     ]
 
     summary = bs.summarize_download_results(results, tmp_path / "summary.json")
 
-    assert summary["total"] == 2
+    assert summary["total"] == 4
     assert summary["downloaded"] == 1
     assert summary["unavailable"] == 1
+    assert summary["needs_review"] == 1
+    assert summary["mismatched_subtitle"] == 1
     assert (tmp_path / "summary.json").exists()
 
 

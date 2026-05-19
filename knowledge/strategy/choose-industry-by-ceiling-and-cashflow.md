@@ -4,9 +4,9 @@ type: concept
 status: draft
 tags: [strategy, market, cashflow, industry-selection, sales]
 created: 2026-04-26
-updated: 2026-04-26
+updated: 2026-04-28
 source: sources/videos/bilibili/ququ-business-search-2026-04-26/README.md
-confidence: medium
+confidence: low
 ---
 
 # 选择行业要看天花板和现金流
@@ -22,6 +22,7 @@ confidence: medium
 - 高客单价不天然更好，但低客单价必须有足够自动化、规模或复购。
 - 行业上行期会掩盖能力问题，行业下行期会暴露现金流和客户质量问题。
 - 选择行业时应同时看需求强度、客户支付能力、竞争密度和交付成本。
+- 小流量高客单并不等于更轻松；它要求创始人能进入高支付能力客户场域，并承担更高信任和交付要求。
 
 ## Details
 
@@ -39,20 +40,32 @@ confidence: medium
 
 更适合优先考虑现金回收快、交付边界清楚、客户痛点强、可形成复购或转介绍的方向。需要重资产、长账期、大团队、强合规或长期补贴的模式，即使市场空间大，也未必适合一人公司早期切入。
 
+### 高客单价也是场域选择
+
+补抓来源中反复出现一个可迁移判断：客单价不只是产品定价问题，也是创始人接触什么客户、进入什么场域、解决什么强度问题的结果。高客单价产品通常来自高支付能力客户、高损失场景、强信任关系或高杠杆结果。
+
+对一人公司而言，这意味着：
+
+- 不要只问“我会什么”，还要问“谁愿意为这项能力支付更高价格”。
+- 如果选择低客单价产品，就必须有足够低的边际成本、足够大的触达能力或足够强的复购。
+- 如果选择高客单价服务，就必须有更强的信任、案例、诊断能力和交付边界。
+- 销售岗位、咨询方向和内容定位，都应尽量靠近有预算、有痛点、有决策权的人群。
+
 ## Evidence
 
 - `BV1y9ogBLETW` 讨论销售行业选择和收入天花板。
-- `BV173PPzKEsB` 标题指向现金流生意和 ROI。
 - `BV19TQMB3E1k`、`BV1kvXzBjEpy` 等来源涉及 ROI、业务选择和变现方式。
-- `BV17doLBJEEb` 标题强调行业不可能永远上行，应做恒定正确的事。
+- 2026-04-28 补抓来源 `BV1ChdZBkEVQ`、`BV1pGquBdE9D` 补充小流量高客单、接触高支付能力客户和行业场域选择。
+
+注：`BV173PPzKEsB` 和 `BV17doLBJEEb` 标题相关，但字幕开头已显示错配，暂不作为证据。
 
 ## Links
 
 - Source index: `sources/videos/bilibili/ququ-business-search-2026-04-26/README.md`
+- Source update: `sources/videos/bilibili/ququ-business-search-2026-04-26/2026-04-28-redownloaded-verified-transcripts.md`
 - Related note: `knowledge/finance/pricing-before-traffic-monetization.md`
 
 ## Next Actions
 
 - 为候选方向建立一张行业评分表：天花板、现金流、客户预算、交付成本、复购、风险。
 - 先用低成本销售实验验证行业，不在验证前投入固定资产或长期合约。
-

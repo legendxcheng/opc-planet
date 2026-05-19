@@ -4,7 +4,7 @@ type: concept
 status: draft
 tags: [execution, clarity, strategy, one-person-company]
 created: 2026-04-25
-updated: 2026-04-25
+updated: 2026-04-28
 source: sources/videos/bilibili/dontbesilent-liaozhuanqian/README.md
 confidence: medium
 ---
@@ -22,6 +22,7 @@ confidence: medium
 - 不确定优势时，先通过小实验发现优势，而不是坐着等待“擅长的事”。
 - 不要把抽象行业当机会，应该观察一个个具体生意：谁付钱、为什么付、怎么交付、利润来自哪里。
 - 逻辑混乱会导致选题、产品、定价和转化路径彼此脱节。
+- 清晰执行还需要为高价值任务保留连续注意力；没有工作块，清晰问题也会被碎片事务稀释。
 
 ## Details
 
@@ -39,15 +40,30 @@ confidence: medium
 
 来源中关于“上班思维”“月薪陷阱”“老实人心态”等表达有传播冲击力，但容易诱导身份攻击或非理性决策。本笔记只保留其中较稳健的执行启发：不要用雇员式等待指令的方式经营自己的业务；要主动定义问题、承担选择，并用反馈修正。
 
+### 用工作块承接清晰问题
+
+补充 Dan Koe 搜索来源后，可把执行力进一步拆成两步：先把模糊目标改写成清晰问题，再为这个问题安排连续工作块。否则创始人会在消息、平台、临时想法和琐碎优化中耗尽注意力。
+
+适合进入连续工作块的问题包括：
+
+- 今天只解决一个最关键的客户问题。
+- 本周只验证一个产品假设。
+- 这次只改一个转化页面的价值表达。
+- 这轮只把一个重复交付步骤沉淀为模板。
+
+不适合进入连续工作块的是“看看有没有机会”“随便研究一下竞品”“刷点灵感”。这些动作可以存在，但不能占用一人公司最稀缺的清醒注意力。
+
 ## Evidence
 
 - 来源视频 `015`、`115` 讨论执行与逃避执行。
 - 来源视频 `125` 讨论从 0 到 1 找生意和观察具体盈利案例。
 - 来源视频 `008`、`128` 反复质疑“先找擅长的事再变现”的路径。
+- Dan Koe 补抓来源 `BV164GnzBEJ4`、`BV19d9wBcEUn` 补充了少数优先事项和连续注意力对执行质量的影响。
 
 ## Links
 
 - Source index: `sources/videos/bilibili/dontbesilent-liaozhuanqian/README.md`
+- Source update: `sources/videos/bilibili/dan-koe-search-2026-04-27/2026-04-28-redownloaded-verified-transcripts.md`
 - Related note: `knowledge/strategy/opc-methodology-for-one-person-company.md`
 
 ## Next Actions

@@ -23,6 +23,7 @@ logs/
 Thumbs.db
 .vscode/
 .idea/
+keys/
 
 # Generated data and indexes
 data/interim/**
@@ -36,3 +37,8 @@ data/index/**
 .env
 .env.*
 !.env.example
+config/*.local.json
+raw
+.playwright-mcp
+temp
+.superpowers

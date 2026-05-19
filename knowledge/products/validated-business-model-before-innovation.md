@@ -6,7 +6,7 @@ tags: [business-model, product, validation, entrepreneurship]
 created: 2026-04-26
 updated: 2026-04-26
 source: sources/videos/bilibili/ququ-business-search-2026-04-26/README.md
-confidence: medium
+confidence: low
 ---
 
 # 创新商业模式前先复用已验证模型
@@ -42,8 +42,9 @@ confidence: medium
 ## Evidence
 
 - `BV1XBdBBKEpH` 讨论不要凭空创造商业模式，应先做已经被市场反复验证过的事情，再在过程中优化。
-- `BV1S5dYB7EwS`、`BV1HKo4BpE75` 等来源围绕“不要自创商业模式”和现金流导向展开。
-- `BV1xM48zCEyP`、`BV1G8dRB2Eyh` 等来源标题都指向商业逻辑闭环和跨界生意的场景匹配问题。
+- `BV1HKo4BpE75` 的字幕片段涉及现金流导向和不要凭空创造商业模式，但该文件是连麦式内容，后续应做更细颗粒度摘录。
+
+注：`BV1xM48zCEyP`、`BV1G8dRB2Eyh` 等标题相关来源暂不作为证据，前者已确认字幕错配，后者开头主要为音乐段落，需复核有效内容。
 
 ## Links
 
@@ -54,4 +55,3 @@ confidence: medium
 
 - 对当前产品想法写出“它复用了哪个成熟交易结构”。
 - 若无法对应成熟结构，先做一次手工成交实验，不直接搭建复杂产品。
-

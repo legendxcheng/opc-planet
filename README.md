@@ -20,6 +20,7 @@ sources/     外部来源和原始资料记录
 outputs/     报告、SOP、决策等加工产物
 agent/       未来知识库 Agent 的配置与评测
 automation/  爬虫、清洗、整理和导出代码
+tools/       独立本地工具和手动运行脚本
 data/        自动化流程产生的数据
 templates/   Markdown 模板
 docs/        仓库自身说明

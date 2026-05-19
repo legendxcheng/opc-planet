@@ -4,9 +4,9 @@ type: concept
 status: draft
 tags: [sales, business-loop, one-person-company, monetization]
 created: 2026-04-26
-updated: 2026-04-26
+updated: 2026-04-28
 source: sources/videos/bilibili/ququ-business-search-2026-04-26/README.md
-confidence: medium
+confidence: low
 ---
 
 # 销售是最小商业闭环
@@ -22,6 +22,7 @@ confidence: medium
 - 不要把“会做产品”“有专业能力”直接等同于“能赚钱”；赚钱需要交易能力。
 - 新市场、新品类、新渠道启动时，应回到一个客户一个客户地验证。
 - 对一人公司，销售能力也是产品设计、内容表达和客户访谈能力的交叉点。
+- 当现金流紧张或资源约束很强时，销售和服务型收入常常比长周期学习、重资产创业或抽象理想更适合作为第一步。
 
 ## Details
 
@@ -45,15 +46,32 @@ confidence: medium
 
 如果这些答案不清楚，规模化会放大问题，而不是解决问题。
 
+### 现金流优先时的销售切入
+
+补抓来源中的现实约束案例提醒：不是所有人都适合先做内容、课程或长周期产品。当创始人没有稳定收入、负债压力高或时间窗口短时，第一优先级应是恢复现金流和市场反馈。
+
+更稳妥的动作包括：
+
+- 选择门槛低、反馈快、能接触真实客户的销售或服务场景。
+- 从离自己近的技能、行业、人脉和客户问题开始，而不是追逐遥远赛道。
+- 先完成一次可收费交付，再讨论长期产品化。
+- 用销售过程收集客户语言、预算、拒绝理由和高价值问题。
+
+这不等于所有 OPC 都必须做销售岗位，而是说一人公司不能绕开交易验证。
+
 ## Evidence
 
 - `BV1bTrPBbEmN` 反复强调赚钱的本质是交易，并把销售视为最小商业模型。
 - `BV17CXjBkEs6` 讨论进入新市场时要从一个客户、一个产品、一个销售动作重新做起。
-- `BV1xfo5BbEX8`、`BV1Dzi5BUEuA`、`BV1We411q7C8` 等标题和字幕都围绕普通人如何通过销售建立赚钱能力。
+- `BV1xfo5BbEX8` 讨论普通人通过销售靠近高价值交易和财富机会。
+- 2026-04-28 补抓来源 `BV1gDwVzCE8i` 补充了现金流紧张时应先恢复赚钱能力，`BV1pGquBdE9D` 补充通过销售靠近高客单价客户。
+
+注：本批次已发现部分标题相关但字幕错配的文件，本笔记只保留已复核字幕开头与主题一致的来源作为证据。
 
 ## Links
 
 - Source index: `sources/videos/bilibili/ququ-business-search-2026-04-26/README.md`
+- Source update: `sources/videos/bilibili/ququ-business-search-2026-04-26/2026-04-28-redownloaded-verified-transcripts.md`
 - Raw directory: `data/raw/bilibili/subtitles/ququ-business-search-2026-04-26/`
 - Related note: `knowledge/operations/sales-oriented-explanation-for-one-person-company.md`
 
@@ -61,4 +79,3 @@ confidence: medium
 
 - 为当前一人公司项目定义一个最小可成交单元：客户、痛点、承诺、价格、交付边界。
 - 每个新产品先做 3-5 次人工销售访谈，再决定是否自动化或投流。
-

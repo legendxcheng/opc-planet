@@ -47,6 +47,14 @@
 - `normalizers/`：统一 frontmatter、标签、分类和命名。
 - `schedulers/`：定时任务或手动任务入口。
 
+## `tools/`
+
+独立的本地工具目录。适合放需要手动运行的命令行工具、浏览器自动化脚本和一次性操作入口，但不适合放长期知识或网站运行时代码。
+
+## `web/`
+
+`opc-website` 网站工程目录，也是当前仓库接入的网站 Git submodule。前端页面、API 路由、服务端运行时代码，以及 `docs/dev-plans/2026-05-13-agent-knowledge-architecture.md` 中规划的生产工程，都应默认放在这里持续开发；但不应把长期知识文档当作这里的主要内容。
+
 ## `data/`
 
 自动化流程产生的数据。

@@ -4,7 +4,7 @@ type: guide
 status: draft
 tags: [agent, rag, knowledge-base, architecture, openai-agents-sdk]
 created: 2026-05-13
-updated: 2026-05-14
+updated: 2026-05-18
 source: conversation architecture design; current repository structure
 confidence: medium-high
 ---
@@ -21,9 +21,34 @@ confidence: medium-high
 
 在首版生产部署上，推荐把本机职责控制在 `Next.js 网站前端 + Node.js API Server + OpenAI Agents SDK Runtime + 轻量本地检索索引`。对 `4核 8G 5M` 云服务器，这种模式可支持 MVP 和低并发场景；但前提是静态资源尽量走 CDN，用户上传优先限制在轻量文本资料，避免应用服务器中转大文件和承担重型 OCR/向量化任务。
 
+对当前产品来说，MVP 边界很明确：一个网页里的单线程公共聊天，后端先通过 `KnowledgeGateway.search(...)` 检索仓库内公开 Markdown，再把 evidence 注入 Codex SDK prompt 生成回复，带引用和失败回退即可。用户认证、私有知识库、上传、完整用量计费和外部 provider 都属于 MVP 之后。
+
+## MVP Boundary
+
+### In Scope
+
+- `web/` 中的单页公共聊天体验
+- `POST /api/chat`
+- Codex SDK TypeScript reply runtime for the current public chat path
+- `KnowledgeGateway.search(...)`
+- 仓库内公开 Markdown / 本地索引检索
+- 引用、空查询处理、失败回退
+- `typecheck` / `test` / `build` 通过
+
+### Out Of Scope
+
+- 用户注册、登录、鉴权
+- 私有知识库
+- 上传、抽取、索引任务
+- `users` / `documents` / `ingestion_jobs`
+- `agent_runs` / `agent_run_usage`
+- 多 Agent 编排和权限体系
+- 外部知识库 provider
+- 向量库、OCR、rerank、大文件管道
+
 ## Current Implementation Progress
 
-截至 `2026-05-14`，这份架构设计里最早的一批 TypeScript 基础工作已经不再是“待开始”，而是已经落地到 `web/`：
+截至 `2026-05-18`，`web/` 已经覆盖 public chat shell、Codex SDK 回复路径、Knowledge Gateway 基线、以及第一版数据库元数据层；但“知识库配置”还没有完成，当前仍是 seeded public Markdown corpus + gateway 预检索证据注入，不是完整的用户可配置知识库产品：
 
 - `web/` 已经是 Next.js App Router + TypeScript 主工程。
 - Python 原型中的本地 Markdown 检索行为已经迁移到 `web/src/knowledge/*`，并由 Vitest 覆盖。
@@ -33,19 +58,56 @@ confidence: medium-high
 - 当前公共聊天回答路径已经具备：
   - mock stream 模式
   - 本地 public corpus 检索模式
-  - OpenAI Agents SDK 接入路径
-  - 当 OpenAI API 不可达或超时时，自动回退到本地 public corpus 回答
-- 当前 `web/` 已经存在明确的公共 corpus 定义：`web/src/corpora/public-corpora.ts`
+  - Codex SDK 接入路径（`@openai/codex-sdk`）
+  - 当 Codex / OpenAI runtime 不可达或超时时，自动回退到本地 public corpus 回答
+- 当前 Codex SDK 路径已经可以通过 `.env` / `web/.env` 生效：
+  - 支持 `OPENAI_API_KEY` / `CODEX_API_KEY`
+  - 支持 `OPENAI_BASE_URL` / `CODEX_BASE_URL`
+  - relay 兼容地址需要以 `/v1` 结尾，因为 Codex SDK / CLI 会在 base URL 后请求 `/responses`
+  - 支持 `CODEX_MODEL` 与 `CODEX_MODEL_REASONING_EFFORT`
+- 当前 Codex SDK 子进程已经使用隔离的 `CODEX_HOME` 和最小化环境变量，避免本机 Codex CLI 用户 hooks 污染 JSON stdout。
+- 当前 `web/` 已经存在数据库支持的公共 metadata 层：`web/src/metadata/metadata-repository.ts`。
+- 当前默认 metadata 存储为本地 SQLite：`.data/opc-metadata.sqlite`，可由 `OPC_METADATA_DB_PATH` 覆盖。
+- 当前公共 corpus seed 已集中到 `web/src/metadata/metadata-seed.ts`，`web/src/corpora/public-corpora.ts` 只保留为兼容 wrapper。
+- 当前公共 Agent seed 也已集中到 `web/src/metadata/metadata-seed.ts`，`web/src/agents/agent-registry.ts` 为兼容 wrapper。
+- `KnowledgeGateway.search(...)` 已经成为公共聊天路径的运行时检索入口：
+  - `web/src/chat/public-chat-service.ts` 通过 gateway 检索证据并生成 citation。
+  - `web/src/chat/public-agent.ts` 先通过 gateway 搜索公共知识，再把标准化 evidence 注入 Codex prompt。
+  - `web/src/agents/knowledge-tool.ts` 的 generic tool 返回 gateway result JSON。
+  - `web/app/api/chat/route.ts` 传入 `agentId` 和 `userId`，不再直接选择具体 corpus。
+- 当前检索 provider 仍是本地 Markdown adapter：`web/src/knowledge-gateway/local-provider.ts`。
+- 当前 evidence 已标准化为 `{ corpusId, documentId, chunkId, title, source, score, excerpt }`。
+- 当前 metadata SQLite schema 已经覆盖：
+  - `agents`
+  - `corpora`
+  - `agent_corpora`
+  - `users`
+  - `documents`
+  - `ingestion_jobs`
+  - `agent_runs`
+  - `agent_run_usage`
+- 当前 Codex SDK 路径已经接入第一版运行记录：
+  - SDK 路径被尝试时会写入 `agent_runs`。
+  - SDK 成功返回且能解析 usage 时会写入 `agent_run_usage`。
+  - `search_tool_calls` 当前表示本地 gateway evidence 预检索次数，不是 Codex 模型侧 tool call。
+  - 当前 cost 字段先写入 `0`，等待后续引入可维护的模型价格表。
+- 当前 `/api/chat` 已通过真实 Codex SDK smoke：服务端返回 HTTP 200、`x-vercel-ai-data-stream: v1`，body 为 Vercel AI data stream，前端 answer text 可见。
+- 当前 WebUI 可见性问题已修复：`web/app/globals.css` 不再用全局 `p { color: var(--muted); }` 把 assistant answer 文本压得过浅。
+- 当前 private corpus 还没有 UI、上传和数据库记录，但 gateway 已经有 private owner 权限校验、`access_denied`、`corpus_not_ready` 等 typed status。
 - 当前 `web/` 已经合并了基础工程稳定性修复：
   - `.worktrees` TypeScript/Next watcher 边界隔离
   - 根布局 `suppressHydrationWarning`
   - `next typegen` 驱动的稳定 typecheck
-- `KnowledgeGateway.search(...)` is now the runtime retrieval entrypoint for the public chat path.
-- The registry is still static config, not a database-backed metadata layer.
+- 当前 `web/` 已经验证通过：
+  - `npm run typecheck`
+  - `npm test`
+  - `npm run build`
 
-这意味着本架构文档中的“第一工程里程碑”已经完成，当前真正的下一阶段不再是“初始化 TypeScript 基础”，而是“把现有 public-only MVP 路径提升为权限感知、可计量、可扩展的 Knowledge Gateway 体系”。
+这意味着本架构文档中的前三个工程里程碑已经完成：TypeScript public-chat MVP 已落地，Knowledge Gateway 边界已落地，公共 agent/corpus metadata 的首版数据库持久化也已落地。`usage-accounting-and-expanded-metadata` 也已经开始进入主线：运行记录与 token usage 的首版持久化已经接入 Codex SDK 路径。下一阶段重点不再是“是否要引入 gateway”或“是否把静态 registry 入库”，而是把知识库配置补齐：上传、文档 ingestion 状态、真实用户身份、quota、可维护成本估算、私有 corpus、以及后续本地 FTS/BM25 或外部 provider 适配。
 
-## Goals
+## Long-Term Goals
+
+下面这些是长期目标，不是 MVP 必须项。
 
 - 支持多个 Agent，每个 Agent 使用不同的公共知识库组合。
 - 支持每个用户上传并长期保存自己的私有知识库。
@@ -56,7 +118,7 @@ confidence: medium-high
 - 在中国大陆访问足够快，并尽量降低项目冷启动阶段的固定服务器成本。
 - 保持知识库引擎可替换，避免被单一厂商锁死。
 
-## Non-Goals
+## MVP Non-Goals
 
 - 第一版不自研完整向量数据库、Embedding 调度和文档解析系统。
 - 第一版不要求所有知识库引擎能力完全一致。
@@ -96,8 +158,10 @@ The repository no longer only contains a Python prototype. As of `2026-05-14`, t
 This changes the milestone sequencing:
 
 1. The “translate retrieval behavior into TypeScript and preserve tests” milestone is done.
-2. The current live gap is the missing permission-aware `Knowledge Gateway`, not missing retrieval code.
-3. The next retrieval upgrade should focus on explicit corpus composition, permission filtering, normalized evidence, and usage/accounting boundaries before introducing private uploads or external providers.
+2. The first permission-aware `KnowledgeGateway.search(...)` boundary is now implemented in `web/src/knowledge-gateway/*`.
+3. The first database-backed metadata slice for `agents`, `corpora`, and `agent_corpora` is now implemented in `web/src/metadata/*`.
+4. The current live gap is usage accounting plus `users` / `documents` / `ingestion_jobs` style metadata, not missing retrieval code or missing gateway orchestration.
+5. The next retrieval-adjacent upgrade should focus on run persistence, quota/accounting, and document ingestion state before introducing private uploads or external providers.
 
 ### TypeScript-First Stack Decision
 
@@ -137,8 +201,11 @@ web/
     api/chat/route.ts         -> stable chat entrypoint
   src/
     knowledge/                -> local Markdown retriever
+    knowledge-gateway/        -> permission-aware retrieval boundary and provider adapter
+    metadata/                 -> SQLite-backed metadata repository and seed data
     agents/                   -> tool descriptors and runtime error shaping
-    corpora/                  -> public corpus map
+    agents/agent-registry.ts  -> compatibility wrapper over metadata repository
+    corpora/                  -> corpus registry plus public wrapper
     chat/                     -> request normalization, mock mode, public agent path
     config/                   -> Next.js worktree/watch safeguards
   tests/
@@ -154,17 +221,23 @@ What is implemented today:
 - public-only corpus answering
 - local Markdown search with corpus-aware directory constraints
 - assistant-ui based browser shell
-- OpenAI Agents SDK integration path for the public agent
+- Codex SDK integration path for the public agent
+- local gateway evidence injected into the Codex prompt before generation
 - graceful fallback to local retrieval when the OpenAI runtime path fails
+- SQLite-backed metadata repository for `opc-public-assistant` and `opc-core`
+- empty SQLite metadata tables for `users`, `documents`, `ingestion_jobs`, `agent_runs`, and `agent_run_usage`
+- first `agent_runs` / `agent_run_usage` persistence for attempted Codex SDK calls
+- compatibility registry wrappers that keep existing call sites stable
+- `KnowledgeGateway.search(...)` as the single retrieval entrypoint for the public chat runtime
+- normalized gateway evidence and typed non-exception outcomes for empty query, denied access, missing corpus, missing agent, and not-ready corpus
 
 What is still missing relative to the target architecture:
 
 - authenticated users
 - private corpora
-- corpus/document metadata tables
-- ingestion jobs
-- usage accounting tables
-- `KnowledgeGateway.search(...)` as the single permission-aware backend boundary
+- runtime upload and ingestion flows that populate document metadata tables
+- quota enforcement and usage summary queries
+- maintained model pricing table for non-zero cost estimates
 - persistent local index beyond direct file scan
 
 ### First Production Deployment Profile
@@ -624,14 +697,18 @@ These are logical corpora. Their actual mapping may point to local directories, 
 
 Current implementation note:
 
-- The merged MVP currently uses a smaller hard-coded public slice in `web/src/corpora/public-corpora.ts`:
+- The merged runtime currently uses a smaller seeded public slice in `web/src/metadata/metadata-seed.ts`:
   - `knowledge/strategy/opc`
   - `knowledge/strategy`
   - `knowledge/finance`
   - `knowledge/operations`
   - `knowledge/products`
+- `web/src/metadata/metadata-repository.ts` persists that seed into SQLite tables and exposes read APIs for runtime use.
+- The same metadata repository now also creates `users`, `documents`, `ingestion_jobs`, `agent_runs`, and `agent_run_usage` tables.
+- `web/src/corpora/corpus-registry.ts` and `web/src/agents/agent-registry.ts` are now compatibility wrappers over that repository.
+- `web/src/corpora/public-corpora.ts` remains a compatibility wrapper so older callers can still use `{ id, name, directories }`.
 
-This is acceptable for the current public chat MVP, but the next architecture step should move this from an MVP-only config into a broader corpus registry abstraction that can serve both public and private corpus composition.
+This is acceptable for the current public chat MVP. The next architecture step should exercise the new metadata tables through real upload, ingestion, quota, and usage-summary flows while keeping `/api/chat` and `KnowledgeGateway.search(...)` stable.
 
 ## First-Version Implementation Plan
 
@@ -644,16 +721,50 @@ This is acceptable for the current public chat MVP, but the next architecture st
 5. Move repository-wide path selection into explicit public corpus definitions for the current MVP slice.
 6. Add a stable `POST /api/chat` path and a browser-facing public assistant UI.
 
-### Phase B: Next Architecture Work
+### Phase B: Knowledge Gateway Boundary
 
-1. Create a `corpus_registry` config or DB table for public corpora and future private corpora.
-2. Add `agents` and `agent_corpora` metadata.
-3. Add `users`, `corpora`, `documents`, `ingestion_jobs` and quota metadata.
-4. Implement `KnowledgeGateway.search(...)` with the TypeScript local Markdown retriever as provider `local`.
-5. Refactor `web/app/api/chat/route.ts` and the current public agent path so they call the gateway, not corpus-specific retrieval helpers directly.
-6. Standardize normalized evidence output, citations, and corpus-level permission filtering behind the gateway boundary.
-7. Add `agent_runs` and `agent_run_usage` tables for per-user token and cost accounting.
-8. Add eval cases for:
+Completed in the 2026-05-17 gateway migration:
+
+1. Create static corpus registry config for public corpora and future private-corpus-ready metadata.
+2. Add static agent metadata for the public assistant.
+3. Implement `KnowledgeGateway.search(...)` with the TypeScript local Markdown retriever as provider `local`.
+4. Refactor `web/app/api/chat/route.ts`, `web/src/chat/public-chat-service.ts`, `web/src/chat/public-agent.ts`, and `web/src/agents/knowledge-tool.ts` so they call the gateway, not corpus-specific retrieval helpers directly.
+5. Standardize normalized evidence output, citations, and corpus-level permission filtering behind the gateway boundary.
+6. Add unit coverage for:
+   - public corpus registry
+   - public assistant registry
+   - local provider evidence normalization
+   - public + selected private corpus resolution
+   - private corpus access denied
+   - corpus not ready
+   - empty query
+
+### Phase C: Metadata Layer
+
+Completed in the 2026-05-18 metadata migration:
+
+1. Introduce `web/src/metadata/*` as a server-side metadata boundary.
+2. Add SQLite-backed persistence for default public `agents`, `corpora`, and `agent_corpora`.
+3. Keep `web/src/agents/agent-registry.ts` and `web/src/corpora/corpus-registry.ts` as compatibility wrappers so existing runtime call sites remain stable.
+4. Keep `KnowledgeGateway.search(...)` and `/api/chat` behavior unchanged while swapping metadata reads away from in-memory arrays.
+5. Add regression coverage for:
+   - default public metadata seed
+   - reopening the same SQLite file without duplicate seed rows
+   - defensive copies from repository list/get APIs
+
+First follow-up slice after Phase C:
+
+1. `users`, `documents`, `ingestion_jobs`, `agent_runs`, and `agent_run_usage` tables now exist in the SQLite metadata repository.
+2. The Codex SDK path now records `agent_runs` rows, and successful SDK runs record token counts in `agent_run_usage` when usage can be parsed.
+3. The public chat route can now call Codex SDK with `.env` configured `OPENAI_*` / `CODEX_*` values and stream a generated answer back to the WebUI.
+
+Still remaining after this first follow-up slice:
+
+1. Connect real upload / ingestion flows to `documents` and `ingestion_jobs`.
+2. Add user identity, quota enforcement, usage summaries, and a maintained pricing table for cost estimates.
+3. Replace the current seeded public Markdown corpus configuration with a product-facing knowledge-base configuration path.
+4. Add local FTS/BM25 or another persistent local index when benchmark queries show the direct file scan is not enough.
+5. Add eval cases for:
    - public-only answer
    - public + private answer
    - private corpus access denied
@@ -663,7 +774,7 @@ This is acceptable for the current public chat MVP, but the next architecture st
    - per-user token usage is recorded after a successful Agent run
    - failed Agent run records status and any available partial usage
 
-### Phase C: Retrieval And Provider Upgrades
+### Phase D: Retrieval And Provider Upgrades
 
 1. Upgrade local retrieval from directory scan to Postgres full-text search or another lightweight index, and store index artifacts outside canonical knowledge directories.
 2. Add a provider adapter interface:
@@ -677,7 +788,7 @@ delete_document
 delete_corpus
 ```
 
-3. Keep OpenAI Agents SDK TypeScript runtime thin: replace direct local search with `KnowledgeGateway.search` and record run usage after each run.
+3. Keep OpenAI Agents SDK TypeScript runtime thin: continue calling `KnowledgeGateway.search` and record run usage after each run.
 4. Only after local retrieval quality or file-format complexity becomes a bottleneck, implement the first external adapter. External test priority should be:
    - Aliyun Bailian
    - FastGPT Cloud
@@ -710,15 +821,129 @@ delete_corpus
 - At what private corpus volume or retrieval failure rate should the system introduce the first external provider?
 - At what traffic or upload threshold should the application server be upgraded from `5M` to `10M+` bandwidth?
 
-## Recommended Next Step
+## Post-MVP Next Step
 
 Do not spend the next iteration redoing the TypeScript foundation work. That layer already exists in `web/`.
 
-The recommended next step is to build the first provider-neutral `Knowledge Gateway` boundary and move the current public chat runtime onto it. Concretely, the next implementation slice should:
+Do not spend the next iteration rebuilding the provider-neutral `Knowledge Gateway` boundary either. That boundary now exists in `web/src/knowledge-gateway/*` and the public chat runtime is already using it.
 
-1. introduce explicit corpus and agent metadata storage instead of relying only on code-level config
-2. define `KnowledgeGateway.search(...)` as the only retrieval entrypoint used by runtime code
-3. preserve the current public-only chat path while moving retrieval authorization and citation normalization into the gateway
-4. add usage/accounting persistence and the first private-corpus-ready metadata model
+The recommended next implementation slice is `upload-ingestion-and-quota-boundaries`:
 
-Only after those boundaries exist should the system invest in private uploads, larger local indexes, or an external knowledge provider adapter.
+1. connect upload registration to `documents`
+2. connect extraction / indexing state to `ingestion_jobs`
+3. add user identity and quota checks before upload or private corpus selection
+4. add usage summary queries and a maintained model-pricing table for cost estimates
+5. only after usage and document-ingestion metadata boundaries are exercised by runtime code, invest in private uploads, larger local indexes, or an external knowledge provider adapter
+
+## Acceptance Checklist For Current Gateway Slice
+
+Use this checklist to accept the 2026-05-17 Knowledge Gateway migration.
+
+### Code-Level Acceptance
+
+Run these from the repository root:
+
+```powershell
+cd web
+npm run typecheck
+npm test
+npm run build
+```
+
+Expected:
+
+- `npm run typecheck` exits 0 after `next typegen`.
+- `npm test` exits 0; current expected coverage is 14 test files and 45 tests.
+- `npm run build` exits 0 and includes the dynamic `/api/chat` route in the Next.js build output.
+
+Run this direct-import guard:
+
+```powershell
+rg -n "searchLocalKnowledge" src/chat/public-chat-service.ts src/chat/public-agent.ts src/agents/knowledge-tool.ts app/api/chat/route.ts
+```
+
+Expected:
+
+- No matches. Runtime chat and agent code should not call the local Markdown retriever directly.
+
+Inspect these files:
+
+- `web/src/knowledge-gateway/knowledge-gateway.ts`
+- `web/src/knowledge-gateway/local-provider.ts`
+- `web/src/agents/agent-registry.ts`
+- `web/src/corpora/corpus-registry.ts`
+- `web/app/api/chat/route.ts`
+
+Expected:
+
+- `KnowledgeGateway.search(...)` returns typed statuses rather than throwing for normal outcomes.
+- Evidence includes `corpusId`, `documentId`, `chunkId`, `title`, `source`, `score`, and `excerpt`.
+- `/api/chat` passes `agentId: "opc-public-assistant"` and `userId: null` into the service.
+
+### Browser Smoke Acceptance
+
+Run:
+
+```powershell
+cd web
+npm run dev -- --port 3026
+```
+
+Open `http://localhost:3026` and ask:
+
+```text
+How should a one-person company think about pricing?
+```
+
+Expected:
+
+- The home page remains a single centered assistant thread.
+- No sidebar or history UI appears.
+- The request goes to `POST /api/chat`.
+- With `OPENAI_API_KEY` unset, the answer falls back to local public knowledge.
+- With `OPENAI_API_KEY` or `CODEX_API_KEY` set, and `OPENAI_BASE_URL` / `CODEX_BASE_URL` pointing at a Responses-compatible `/v1` endpoint, the answer is generated through Codex SDK.
+- Server logs should not contain `Codex SDK 调用失败`.
+- The WebUI should visibly render the assistant answer text.
+- The response is not the forced mock answer unless `PUBLIC_CHAT_FORCE_MOCK=1` is set.
+- The streamed answer includes evidence-backed content and citations.
+
+Optional direct route smoke:
+
+```powershell
+$body = @{
+  messages = @(
+    @{
+      role = "user"
+      content = @(
+        @{
+          type = "text"
+          text = "How should a one-person company think about pricing?"
+        }
+      )
+    }
+  )
+} | ConvertTo-Json -Depth 8
+
+Invoke-WebRequest -Uri "http://localhost:3026/api/chat" -Method POST -ContentType "application/json" -Body $body
+```
+
+Expected:
+
+- HTTP status is 200.
+- Response header `x-vercel-ai-data-stream` is `v1`.
+- With Codex credentials configured, response body contains Vercel AI data-stream frames for a Codex-generated answer.
+- Without Codex credentials configured, response body contains the local-evidence fallback answer path.
+- Response body must not contain a framework stack trace.
+
+### Known Non-Acceptance Items
+
+Do not block this gateway slice on these items; they are explicitly next-phase work:
+
+- real authenticated users
+- real private corpus upload UI
+- product-facing knowledge-base configuration and corpus selection UI
+- upload / extraction / indexing flows that populate `documents` and `ingestion_jobs`
+- quota enforcement and usage summary queries
+- maintained model pricing table for non-zero cost estimates
+- local FTS/BM25 index
+- external provider adapters

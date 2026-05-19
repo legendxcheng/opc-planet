@@ -1,0 +1,14 @@
+{
+  "name": "feishu-doc-exporter",
+  "private": true,
+  "type": "module",
+  "description": "Export a single Feishu document to Markdown with a persistent Chrome profile.",
+  "scripts": {
+    "export": "node src/export.mjs",
+    "test": "node --test",
+    "install:chromium": "playwright install chromium"
+  },
+  "dependencies": {
+    "playwright": "^1.54.0"
+  }
+}

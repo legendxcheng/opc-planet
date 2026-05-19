@@ -6,7 +6,7 @@ tags: [customers, market-feedback, product-market-fit, sales]
 created: 2026-04-26
 updated: 2026-04-26
 source: sources/videos/bilibili/ququ-business-search-2026-04-26/README.md
-confidence: medium
+confidence: low
 ---
 
 # 用市场反馈修正产品假设
@@ -48,8 +48,9 @@ confidence: medium
 
 - `BV11ExrzrEaz` 强调要理解真实市场需求，并从一个客户一个客户地跑市场。
 - `BV13LoXBGEwv` 提到客户痛点和服务产品设计。
-- `BV1idcbzhEw5` 标题指向“为何你的产品无人买”的产品购买问题。
-- `BV1mp6KBAEZZ` 标题指向“找到产品卖点才是销售关键”，但该字幕存在内容错配风险，应复核 metadata 后再重度引用。
+- `BV1idcbzhEw5`、`BV1mp6KBAEZZ` 标题相关，但已确认字幕内容错配，暂不作为本笔记证据。
+
+注：本笔记目前主要来自少数已复核字幕，后续应补充更多有效客户访谈类来源。
 
 ## Links
 
@@ -60,4 +61,3 @@ confidence: medium
 
 - 为每个产品维护一张“客户原话表”，记录购买理由、拒绝理由和高频问题。
 - 在产品页中把“功能描述”改成“客户场景 + 痛点 + 结果 + 证据”。
-

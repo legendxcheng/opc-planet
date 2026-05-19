@@ -6,7 +6,7 @@ tags: [traffic, product, monetization, content-business, sales]
 created: 2026-04-26
 updated: 2026-04-26
 source: sources/videos/bilibili/ququ-business-search-2026-04-26/README.md
-confidence: medium
+confidence: low
 ---
 
 # 流量必须服务于产品交易
@@ -41,10 +41,9 @@ confidence: medium
 
 ## Evidence
 
-- `BV1ukF7zmENK` 标题讨论“流量不是冲着产品来的”，可作为流量和产品错位的入口素材。
-- `BV1MAD5BLEPE` 标题讨论流量和选品的关系。
 - `BV1kvXzBjEpy` 标题讨论自媒体赚钱不要只想着个人 IP。
-- `BV1SV29YdE4z` 标题提到从零创业、商业认知和变现内容。
+
+注：`BV1ukF7zmENK`、`BV1MAD5BLEPE`、`BV1SV29YdE4z` 标题相关，但已确认字幕内容错配，暂不作为证据。本笔记结论需要后续补充更多有效来源。
 
 ## Links
 
@@ -56,4 +55,3 @@ confidence: medium
 
 - 为每条内容标注目标：吸引、解释、筛选、成交、复购中的哪一个。
 - 对现有内容选题做一次审计：哪些只带来观看，哪些真的带来咨询或购买。
-
