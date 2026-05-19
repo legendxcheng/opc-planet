@@ -246,13 +246,13 @@ First slice should provide a manual sync command:
 
 ```bash
 cd web
-npm run knowledge:sync -- --corpus opc-core
+npm run knowledge:sync -- --corpus opc-core --provider openai
 ```
 
 The command should:
 
 1. Load corpus metadata.
-2. Confirm `provider = openai_vector_store`.
+2. Treat `--provider openai` as the explicit operator request to switch the corpus to `openai_vector_store` after a successful rebuild.
 3. Read allowed source directories from `localDirectories`.
 4. Scan `.md` and `.txt` files only.
 5. Compute a content hash for each source file.
@@ -330,6 +330,15 @@ The factory can choose:
 openai_vector_store provider when configured and corpus provider matches
 local provider fallback for public local corpora
 ```
+
+Runtime credentials must stay separated:
+
+```text
+Agent generation      -> CODEX_API_KEY + CODEX_BASE_URL
+OpenAI vector search  -> OPENAI_VECTOR_STORE_API_KEY + OPENAI_VECTOR_STORE_BASE_URL
+```
+
+Do not use a generic `OPENAI_API_KEY` as a shared fallback between Agent generation and vector-store retrieval.
 
 ## Evidence Mapping
 
@@ -439,7 +448,7 @@ Validation:
 
 ```bash
 cd web
-npm run knowledge:sync -- --corpus opc-core
+npm run knowledge:sync -- --corpus opc-core --provider openai
 npm test
 npm run typecheck
 npm run build
@@ -518,4 +527,3 @@ Add tests for:
 - What is the first private corpus quota: 50 MB, 100 MB, or another number?
 - Should private corpus have one default corpus per user, or multiple project-level corpora?
 - Should source file content be uploaded exactly as Markdown/text, or normalized into generated `.txt` files before upload?
-
