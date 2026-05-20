@@ -42,3 +42,4 @@ raw
 .playwright-mcp
 temp
 .superpowers
+.worktrees/
