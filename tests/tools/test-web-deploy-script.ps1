@@ -39,5 +39,13 @@ Assert-Contains -Content $content -Needle "/srv/opc-website" -Label "default app
 Assert-Contains -Content $content -Needle "web.env" -Label "shared env file"
 Assert-Contains -Content $content -Needle "OPC_METADATA_DB_PATH" -Label "persistent metadata path"
 Assert-Contains -Content $content -Needle "releases_to_keep" -Label "release retention"
+Assert-Contains -Content $content -Needle "OPENAI_AGENTS_API_KEY=" -Label "OpenAI Agents API key env"
+Assert-Contains -Content $content -Needle "OPENAI_AGENTS_BASE_URL=https://api.openai.com/v1" -Label "OpenAI Agents base URL env"
+Assert-Contains -Content $content -Needle "OPENAI_AGENTS_MODEL=" -Label "OpenAI Agents model env"
+Assert-Contains -Content $content -Needle "OPENAI_AGENTS_PROXY_URL=" -Label "OpenAI Agents proxy env"
+
+if ($content.Contains("New-TemporaryFile")) {
+    throw "Deployment script must not use New-TemporaryFile; it is unavailable on older Windows PowerShell versions."
+}
 
 Write-Host "deploy-web.ps1 static checks passed"

@@ -139,8 +139,15 @@ write_default_env() {
   if [ ! -f "${env_file}" ]; then
     cat > "${env_file}" <<EOF
 # Runtime secrets for opc-website. Fill these on the server; do not commit them.
+OPENAI_AGENTS_API_KEY=
+OPENAI_AGENTS_BASE_URL=https://api.openai.com/v1
+OPENAI_AGENTS_MODEL=
+OPENAI_AGENTS_MODEL_REASONING_EFFORT=medium
+OPENAI_AGENTS_PROXY_URL=
+
+# Backward-compatible aliases. Prefer OPENAI_AGENTS_* for new deployments.
 CODEX_API_KEY=
-CODEX_BASE_URL=https://api.openai.com/v1
+CODEX_BASE_URL=
 CODEX_MODEL=
 
 OPENAI_VECTOR_STORE_API_KEY=
@@ -148,7 +155,6 @@ OPENAI_VECTOR_STORE_BASE_URL=https://api.openai.com/v1
 
 PUBLIC_CHAT_FORCE_MOCK=0
 OPC_METADATA_DB_PATH=${data_dir}/opc-metadata.sqlite
-CODEX_HOME=${codex_home}
 EOF
     chmod 600 "${env_file}"
   fi
@@ -171,7 +177,6 @@ WorkingDirectory=${current_link}
 Environment=NODE_ENV=production
 Environment=PORT=${app_port}
 Environment=OPC_METADATA_DB_PATH=${data_dir}/opc-metadata.sqlite
-Environment=CODEX_HOME=${codex_home}
 EnvironmentFile=-${env_file}
 ExecStart=/usr/bin/env sh -c 'exec ./node_modules/.bin/next start -H 127.0.0.1 -p "\$PORT"'
 Restart=always
@@ -430,7 +435,7 @@ echo "Current release: $(readlink -f "${current_link}")"
 
 Write-Host "Deploying $RepoUrl@$Ref to ${target}:$AppRoot"
 $remoteScript = $remoteScript.TrimStart([char]0xFEFF)
-$tempScript = New-TemporaryFile
+$tempScriptPath = [System.IO.Path]::GetTempFileName()
 $remoteScriptPath = "/tmp/opc-website-deploy-$([guid]::NewGuid().ToString('N')).sh"
 
 try {
@@ -446,12 +451,12 @@ try {
     }
 
     [System.IO.File]::WriteAllText(
-        $tempScript.FullName,
+        $tempScriptPath,
         $remoteScript,
         [System.Text.UTF8Encoding]::new($false)
     )
 
-    & scp @scpArgs $tempScript.FullName "${target}:$remoteScriptPath"
+    & scp @scpArgs $tempScriptPath "${target}:$remoteScriptPath"
     if ($LASTEXITCODE -ne 0) {
         exit $LASTEXITCODE
     }
@@ -459,7 +464,7 @@ try {
     & ssh @sshArgs "$remoteEnv bash '$remoteScriptPath'; remote_status=`$?; rm -f '$remoteScriptPath' '$remoteKnowledgeArchivePath'; exit `$remote_status"
 }
 finally {
-    Remove-Item -LiteralPath $tempScript.FullName -Force -ErrorAction SilentlyContinue
+    Remove-Item -LiteralPath $tempScriptPath -Force -ErrorAction SilentlyContinue
 }
 
 if ($LASTEXITCODE -ne 0) {

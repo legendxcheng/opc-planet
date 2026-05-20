@@ -35,7 +35,6 @@ SSH 登录信息见 `docs/guide/ssh-cloud-server-login-guide.md`。
 
 - `/srv/opc-website/shared/web.env`：服务器运行时环境变量，不进 Git。
 - `/srv/opc-website/shared/data/opc-metadata.sqlite`：SQLite metadata。
-- `/srv/opc-website/shared/codex-home`：隔离的 Codex SDK/CLI home。
 
 ## 首次部署
 
@@ -73,7 +72,13 @@ ssh -i "E:\opc-planet\keys\opc.pem" ubuntu@43.139.125.47 "nano /srv/opc-website/
 
 ```bash
 CODEX_API_KEY=
-CODEX_BASE_URL=https://api.openai.com/v1
+OPENAI_AGENTS_API_KEY=
+OPENAI_AGENTS_BASE_URL=https://api.openai.com/v1
+OPENAI_AGENTS_MODEL=
+OPENAI_AGENTS_MODEL_REASONING_EFFORT=medium
+OPENAI_AGENTS_PROXY_URL=
+
+CODEX_BASE_URL=
 CODEX_MODEL=
 
 OPENAI_VECTOR_STORE_API_KEY=
@@ -81,7 +86,6 @@ OPENAI_VECTOR_STORE_BASE_URL=https://api.openai.com/v1
 
 PUBLIC_CHAT_FORCE_MOCK=0
 OPC_METADATA_DB_PATH=/srv/opc-website/shared/data/opc-metadata.sqlite
-CODEX_HOME=/srv/opc-website/shared/codex-home
 ```
 
 保存后重启：
@@ -193,6 +197,28 @@ git -C web log -1 --oneline
 ```
 
 发布脚本只部署远端 Git 中已有的提交，不会同步本地未提交改动。
+
+### 网站仍然返回本地 fallback
+
+先确认服务器已经部署到包含 OpenAI Agents SDK 的提交：
+
+```powershell
+ssh -i "E:\opc-planet\keys\opc.pem" ubuntu@43.139.125.47 "cd /srv/opc-website/current && git rev-parse --short HEAD && grep -R 'knowledgeSearchPerformed' -n src/chat/public-agent.ts"
+```
+
+再确认服务器运行时环境变量已设置：
+
+```powershell
+ssh -i "E:\opc-planet\keys\opc.pem" ubuntu@43.139.125.47 "grep -E '^(OPENAI_AGENTS_API_KEY|OPENAI_AGENTS_BASE_URL|OPENAI_AGENTS_MODEL|OPENAI_AGENTS_PROXY_URL)=' /srv/opc-website/shared/web.env"
+```
+
+如果日志出现 `OpenAI Agents SDK 调用失败：Connection error.`，说明服务器连不上 `OPENAI_AGENTS_BASE_URL`。在服务器上验证：
+
+```powershell
+ssh -i "E:\opc-planet\keys\opc.pem" ubuntu@43.139.125.47 "curl -sS -o /tmp/openai-models.out -w 'http_code=%{http_code} time=%{time_total}\n' --connect-timeout 10 --max-time 20 https://api.openai.com/v1/models"
+```
+
+如果超时或 DNS 异常，使用服务器能访问的 OpenAI-compatible `/v1` relay 配到 `OPENAI_AGENTS_BASE_URL`，或者在服务器上配置 `OPENAI_AGENTS_PROXY_URL` / `HTTPS_PROXY` / `HTTP_PROXY` 后重启 `opc-website`。
 
 ### 是否要用 Docker
 
