@@ -4,7 +4,7 @@ type: guide
 status: draft
 tags: [agent, rag, knowledge-base, architecture, openai-agents-sdk]
 created: 2026-05-13
-updated: 2026-05-19
+updated: 2026-05-20
 source: conversation architecture design; current repository structure
 confidence: medium-high
 ---
@@ -19,11 +19,13 @@ confidence: medium-high
 
 截至 `2026-05-19`，公共聊天 MVP 已经跑通 `KnowledgeGateway.search(...)`，并补上了首个外部 provider：OpenAI Vector Store 作为可切换的检索适配层。也就是说，这份文档里原本写成“未来外部 provider”的部分，已经从概念进入到已实现的 follow-up slice。
 
+截至 `2026-05-20` 的生产验证结论是：当前线上可用路径应视为 `本地 Markdown 检索 -> evidence 注入 -> OpenAI Agents SDK 生成`。由于生产生成模型通过号池型中转站访问，模型请求的上游账号不稳定且不能访问我们自己 OpenAI 项目里的 Vector Store；同时该中转站对 Agents SDK 工具调用后的 `function_call_output` 轮次返回 `500 Upstream gateway error`。因此 OpenAI Vector Store 只能保留为可运行的实验/直连 OpenAI provider，不能作为当前生产知识库依赖。下一阶段优先级应转向自控、国内可访问的检索 provider，例如服务器本地 FTS/BM25 或国内云向量库。
+
 首版生产技术栈统一采用 TypeScript / Node.js：网站、API Server、Knowledge Gateway、Local Retriever、OpenAI Agents SDK Runtime 和测试都优先在同一套 TypeScript 工程内实现。当前 Python 原型只作为行为参考和迁移输入，不作为生产运行时保留。这样可以减少双栈维护、部署和类型边界成本，也更适合后续接入 Next.js SaaS 框架。
 
 在首版生产部署上，推荐把本机职责控制在 `Next.js 网站前端 + Node.js API Server + OpenAI Agents SDK Runtime + 轻量本地检索索引`。对 `4核 8G 5M` 云服务器，这种模式可支持 MVP 和低并发场景；但前提是静态资源尽量走 CDN，用户上传优先限制在轻量文本资料，避免应用服务器中转大文件和承担重型 OCR/向量化任务。
 
-对 `2026-05-13` 原始 MVP 来说，边界很明确：一个网页里的单线程公共聊天，后端先通过 `KnowledgeGateway.search(...)` 检索仓库内公开 Markdown，再把 evidence 注入 Codex SDK prompt 生成回复，带引用和失败回退即可。用户认证、私有知识库、上传、完整用量计费和外部 provider 都属于原始 MVP 之后；其中 OpenAI Vector Store provider 已在 `2026-05-19` follow-up 中提前完成。
+对 `2026-05-13` 原始 MVP 来说，边界很明确：一个网页里的单线程公共聊天，后端通过 `KnowledgeGateway.search(...)` 检索仓库内公开 Markdown，并由 OpenAI Agents SDK runtime 调用 `search_knowledge_base` 工具、基于返回 evidence 生成回复，带引用和失败回退即可。用户认证、私有知识库、上传、完整用量计费和外部 provider 都属于原始 MVP 之后；其中 OpenAI Vector Store provider 已在 `2026-05-19` follow-up 中提前完成。
 
 ## MVP Boundary
 
@@ -31,7 +33,7 @@ confidence: medium-high
 
 - `web/` 中的单页公共聊天体验
 - `POST /api/chat`
-- Codex SDK TypeScript reply runtime for the current public chat path
+- OpenAI Agents SDK TypeScript reply runtime for the current public chat path
 - `KnowledgeGateway.search(...)`
 - 仓库内公开 Markdown / 本地索引检索
 - 引用、空查询处理、失败回退
@@ -48,11 +50,11 @@ confidence: medium-high
 - 外部知识库 provider（原始 MVP 不含；OpenAI Vector Store 已作为 `2026-05-19` follow-up 完成）
 - 向量库、OCR、rerank、大文件管道
 
-注：上面的 MVP 边界记录的是 `2026-05-13` 的首版范围。`2026-05-19` 的 follow-up slice 已经提前实现 OpenAI Vector Store provider 和公共 corpus 上传索引流程，但私有上传、用户 quota、OCR、rerank 和产品化配置 UI 仍然不属于当前 MVP。
+注：上面的 MVP 边界记录的是 `2026-05-13` 的首版范围。`2026-05-19` 的 follow-up slice 已经提前实现 OpenAI Vector Store provider 和公共 corpus 上传索引流程，但 `2026-05-20` 生产验证确认：号池型中转站无法稳定访问我们账号下的 OpenAI Vector Store，因此线上默认仍应使用本地检索 evidence。私有上传、用户 quota、OCR、rerank、产品化配置 UI 和国内可控知识库 provider 仍然属于下一阶段。
 
 ## Current Implementation Progress
 
-截至 `2026-05-19`，`web/` 已经覆盖 public chat shell、Codex SDK 回复路径、Knowledge Gateway 基线、第一版数据库元数据层，以及首个 OpenAI Vector Store provider。当前仍不是完整的用户可配置知识库产品：还没有私有上传 UI、用户身份、quota 和产品化 corpus 管理界面；但公共 `opc-core` 已经可以通过 OpenAI Vector Store 托管检索副本运行。
+截至 `2026-05-20`，`web/` 已经覆盖 public chat shell、OpenAI Agents SDK 回复路径、Knowledge Gateway 基线、第一版数据库元数据层、首个 OpenAI Vector Store provider，以及生产中转站不兼容 Agent tool loop 时的 evidence-injected fallback。当前仍不是完整的用户可配置知识库产品：还没有私有上传 UI、用户身份、quota 和产品化 corpus 管理界面；公共 `opc-core` 已经可以同步到 OpenAI Vector Store 托管检索副本，但生产环境不应依赖号池中转站访问该 Vector Store。
 
 - `web/` 已经是 Next.js App Router + TypeScript 主工程。
 - Python 原型中的本地 Markdown 检索行为已经迁移到 `web/src/knowledge/*`，并由 Vitest 覆盖。
@@ -63,21 +65,23 @@ confidence: medium-high
   - mock stream 模式
   - 本地 public corpus 检索模式
   - OpenAI Vector Store public corpus 检索模式
-  - Codex SDK 接入路径（`@openai/codex-sdk`）
-  - 当 Codex / OpenAI runtime 不可达或超时时，自动回退到本地 public corpus 回答
-- 当前 Codex SDK 路径已经可以通过 `.env` / `web/.env` 生效：
-  - 生成回答使用 `CODEX_API_KEY` / `CODEX_BASE_URL`
+  - OpenAI Agents SDK 接入路径（`@openai/agents`）
+  - 当 OpenAI Agents runtime 不可达或超时时，自动回退到本地 public corpus 回答
+  - 当中转站不支持 Agents SDK 工具回填轮次时，先使用本地 evidence，再调用无工具 Agent 生成最终回答
+- 当前 OpenAI Agents SDK 路径已经可以通过 `.env` / `web/.env` 生效：
+  - 生成回答优先使用 `OPENAI_AGENTS_API_KEY` / `OPENAI_AGENTS_BASE_URL`
+  - 兼容旧变量 `CODEX_API_KEY` / `CODEX_BASE_URL`
   - Vector Store 检索使用 `OPENAI_VECTOR_STORE_API_KEY` / `OPENAI_VECTOR_STORE_BASE_URL`
-  - relay 兼容地址需要以 `/v1` 结尾，因为 Codex SDK / CLI 会在 base URL 后请求 `/responses`
-  - 支持 `CODEX_MODEL` 与 `CODEX_MODEL_REASONING_EFFORT`
-- 当前 Codex SDK 子进程已经使用隔离的 `CODEX_HOME` 和最小化环境变量，避免本机 Codex CLI 用户 hooks 污染 JSON stdout。
+  - relay 兼容地址通常需要以 `/v1` 结尾
+  - 支持 `OPENAI_AGENTS_MODEL` 与 `OPENAI_AGENTS_MODEL_REASONING_EFFORT`
 - 当前 `web/` 已经存在数据库支持的公共 metadata 层：`web/src/metadata/metadata-repository.ts`。
 - 当前默认 metadata 存储为本地 SQLite：`.data/opc-metadata.sqlite`，可由 `OPC_METADATA_DB_PATH` 覆盖。
 - 当前公共 corpus seed 已集中到 `web/src/metadata/metadata-seed.ts`，`web/src/corpora/public-corpora.ts` 只保留为兼容 wrapper。
 - 当前公共 Agent seed 也已集中到 `web/src/metadata/metadata-seed.ts`，`web/src/agents/agent-registry.ts` 为兼容 wrapper。
 - `KnowledgeGateway.search(...)` 已经成为公共聊天路径的运行时检索入口：
   - `web/src/chat/public-chat-service.ts` 通过 gateway 检索证据并生成 citation。
-  - `web/src/chat/public-agent.ts` 先通过 gateway 搜索公共知识，再把标准化 evidence 注入 Codex prompt。
+  - `web/src/chat/public-agent.ts` 注册 `search_knowledge_base` function tool，模型通过该工具调用 gateway 并基于标准化 evidence 作答。
+  - `web/src/chat/public-agent.ts` 同时提供 `runPublicAgentWithEvidence(...)`，用于在 relay 不兼容 tool loop 时把已检索 evidence 注入 prompt 后生成最终回答。
   - `web/src/agents/knowledge-tool.ts` 的 generic tool 返回 gateway result JSON。
   - `web/app/api/chat/route.ts` 传入 `agentId` 和 `userId`，不再直接选择具体 corpus。
 - 当前检索 provider 已经从硬编码本地 adapter 改为 runtime provider factory：
@@ -95,10 +99,11 @@ confidence: medium-high
   - `ingestion_jobs`
   - `agent_runs`
   - `agent_run_usage`
-- 当前 Codex SDK 路径已经接入第一版运行记录：
+- 当前 OpenAI Agents SDK 路径已经接入第一版运行记录：
   - SDK 路径被尝试时会写入 `agent_runs`。
   - SDK 成功返回且能解析 usage 时会写入 `agent_run_usage`。
-  - `search_tool_calls` 当前表示本地 gateway evidence 预检索次数，不是 Codex 模型侧 tool call。
+  - `search_tool_calls` 当前表示模型侧 `search_knowledge_base` function tool 调用次数。
+  - 当生产 relay 对 `function_call_output` 返回 `500 Upstream gateway error` 时，系统会记录一次失败日志，然后用预检索 evidence 调用无工具 Agent；该成功路径的 `search_tool_calls` 为 `0`，但回答仍基于 `KnowledgeGateway` 返回的本地 evidence。
   - 当前 cost 字段先写入 `0`，等待后续引入可维护的模型价格表。
 - 当前 OpenAI Vector Store 同步路径已经落地：
   - `web/scripts/sync-knowledge-corpora.ts` 同时支持本地 seed sync 和 `--provider openai`。
@@ -106,7 +111,9 @@ confidence: medium-high
   - `web/src/openai/vector-store-client.ts` 使用 OpenAI platform REST API，不走模型侧 `file_search` tool。
   - `docs/guide/knowledge-corpus-sync-guide.md` 已明确区分本地 corpus 配置同步和上传到 OpenAI Vector Store。
   - 真实 MVP smoke 已完成：`opc-core` 已同步到一个 OpenAI vector store，`258` 个文档完成 provider sync。
-- 当前 `/api/chat` 已通过真实 Codex SDK smoke：服务端返回 HTTP 200、`x-vercel-ai-data-stream: v1`，body 为 Vercel AI data stream，前端 answer text 可见。
+- 当前 `/api/chat` 已通过真实 OpenAI Agents SDK smoke：服务端返回 HTTP 200、`x-vercel-ai-data-stream: v1`，body 为 Vercel AI data stream，前端 answer text 可见。
+- 当前云服务器生产 smoke 已验证：`MCP 怎么卖？` 返回的是 Agent 生成的综合答案，不再是静态 evidence fallback；当前线上 `opc-core` metadata 为 `provider = local`，所以 evidence 来源是服务器本地 Markdown 检索，而不是 OpenAI Vector Store / model-side file search。
+- 当前生产环境限制已经明确：`ai.monay.top` 这类号池中转站可以用于模型生成，但不能视为我们私有 OpenAI Vector Store 的知识库通道；其 `/v1/vector_stores/...` 不可用或不属于同一账号上下文。
 - 当前 WebUI 可见性问题已修复：`web/app/globals.css` 不再用全局 `p { color: var(--muted); }` 把 assistant answer 文本压得过浅。
 - 当前 private corpus 还没有 UI、上传和真实用户记录，但 metadata/provider 设计已经支持 future private corpus 使用同一 OpenAI Vector Store 模型；gateway 已经有 private owner 权限校验、`access_denied`、`corpus_not_ready` 等 typed status。
 - 当前 `web/` 已经合并了基础工程稳定性修复：
@@ -118,7 +125,7 @@ confidence: medium-high
   - `npm test`
   - `npm run build`
 
-这意味着本架构文档中的前三个工程里程碑已经完成：TypeScript public-chat MVP 已落地，Knowledge Gateway 边界已落地，公共 agent/corpus metadata 的首版数据库持久化也已落地。`usage-accounting-and-expanded-metadata` 也已经开始进入主线：运行记录与 token usage 的首版持久化已经接入 Codex SDK 路径。随后补上的 OpenAI Vector Store provider 则把“外部检索适配层”从设计变成了可运行实现。下一阶段重点不再是“是否要引入 gateway”或“是否把静态 registry 入库”，而是把知识库配置补齐：上传、文档 ingestion 状态、真实用户身份、quota、可维护成本估算、私有 corpus、以及后续更多 provider 或本地 FTS/BM25 的组合。
+这意味着本架构文档中的前三个工程里程碑已经完成：TypeScript public-chat MVP 已落地，Knowledge Gateway 边界已落地，公共 agent/corpus metadata 的首版数据库持久化也已落地。`usage-accounting-and-expanded-metadata` 也已经开始进入主线：运行记录与 token usage 的首版持久化已经接入 OpenAI Agents SDK 路径。随后补上的 OpenAI Vector Store provider 则把“外部检索适配层”从设计变成了可运行实现，但生产验证已经证明：只要生成模型通过号池中转站，OpenAI Vector Store 就不能承担主生产知识库角色。下一阶段重点不再是“是否要引入 gateway”或“是否把静态 registry 入库”，而是把检索层产品化并迁移到可控知识库：本地 FTS/BM25、国内可访问的向量库或其他 provider，同时继续补齐上传、文档 ingestion 状态、真实用户身份、quota、可维护成本估算和私有 corpus。
 
 ## Long-Term Goals
 
@@ -175,8 +182,8 @@ This changes the milestone sequencing:
 1. The “translate retrieval behavior into TypeScript and preserve tests” milestone is done.
 2. The first permission-aware `KnowledgeGateway.search(...)` boundary is now implemented in `web/src/knowledge-gateway/*`.
 3. The first database-backed metadata slice for `agents`, `corpora`, and `agent_corpora` is now implemented in `web/src/metadata/*`.
-4. The first run persistence and token-usage persistence slice is now implemented for Codex SDK calls; the remaining gap is productized upload, ingestion state, quota, pricing summaries, and real user/private-corpus flows.
-5. The next retrieval-adjacent upgrade should focus on upload/ingestion state, quota/accounting, and private corpus boundaries before adding external adapters beyond the current OpenAI Vector Store path.
+4. The first run persistence and token-usage persistence slice is now implemented for OpenAI Agents SDK calls; the remaining gap is productized upload, ingestion state, quota, pricing summaries, and real user/private-corpus flows.
+5. The next retrieval-adjacent upgrade should focus on upload/ingestion state, quota/accounting, private corpus boundaries, and a production-owned retrieval provider beyond the experimental OpenAI Vector Store path.
 
 ### TypeScript-First Stack Decision
 
@@ -236,16 +243,16 @@ What is implemented today:
 - public-only corpus answering
 - local Markdown search with corpus-aware directory constraints
 - assistant-ui based browser shell
-- Codex SDK integration path for the public agent
-- gateway evidence, from local fallback or OpenAI Vector Store, injected into the Codex prompt before generation
+- OpenAI Agents SDK integration path for the public agent
+- gateway evidence, from local fallback or OpenAI Vector Store, returned through the `search_knowledge_base` tool before final generation
 - graceful fallback to local retrieval when the OpenAI runtime path fails
 - SQLite-backed metadata repository for `opc-public-assistant` and `opc-core`
 - empty SQLite metadata tables for `users`, `documents`, `ingestion_jobs`, `agent_runs`, and `agent_run_usage`
-- first `agent_runs` / `agent_run_usage` persistence for attempted Codex SDK calls
+- first `agent_runs` / `agent_run_usage` persistence for attempted OpenAI Agents SDK calls
 - compatibility registry wrappers that keep existing call sites stable
 - `KnowledgeGateway.search(...)` as the single retrieval entrypoint for the public chat runtime
 - normalized gateway evidence and typed non-exception outcomes for empty query, denied access, missing corpus, missing agent, and not-ready corpus
-- OpenAI Vector Store retrieval as the first external provider behind the gateway
+- OpenAI Vector Store retrieval as the first external provider behind the gateway for direct OpenAI-compatible environments
 - manual public corpus sync to OpenAI Vector Store, including provider IDs and file-level provider state
 
 What is still missing relative to the target architecture:
@@ -296,7 +303,7 @@ Browser
 - 低并发文本问答
 - 用户上传频率较低
 - 知识源以 Markdown 和轻量文本为主
-- 主要成本发生在模型调用和已接入的 OpenAI Vector Store API / storage，而不是自托管重型 RAG 或额外知识库订阅
+- 当前生产主要成本发生在模型调用；OpenAI Vector Store API / storage 只在直连 OpenAI provider 启用时产生，暂不作为号池中转站生产路径的默认成本项
 
 这个配置不适合与以下组件同机部署：
 
@@ -584,13 +591,13 @@ To keep scope under control, local retrieval should evolve in stages:
 4. Stage 3: optional rerank layer for top-K local results if benchmark queries show recall is acceptable but ordering is weak.
 5. Stage 4: external provider adapter when local retrieval quality, file-format complexity, or corpus volume makes it necessary.
 
-The original recommendation was to move from Stage 0 to Stage 2 before adding a managed external knowledge-base dependency. The `2026-05-19` follow-up deliberately pulled one external provider forward for MVP validation: OpenAI Vector Store is now available behind `KnowledgeGateway`, while local retrieval remains the public fallback path.
+The original recommendation was to move from Stage 0 to Stage 2 before adding a managed external knowledge-base dependency. The `2026-05-19` follow-up deliberately pulled one external provider forward for MVP validation: OpenAI Vector Store is available behind `KnowledgeGateway` for direct OpenAI-compatible environments, while `2026-05-20` production testing moved the live path back to local retrieval because the configured relay is a号池-style gateway and cannot access the project-owned OpenAI Vector Store.
 
 ## Provider Strategy
 
 ### Original Recommended First Choice: Local Markdown Retrieval
 
-The original first production path for this project was local Markdown retrieval on the application server. This still matters as the public fallback path because it matches the current repository shape, keeps the canonical knowledge in human-readable files, and avoids making every retrieval depend on managed knowledge-base capacity, vector storage, or provider-side retrieval calls.
+The original first production path for this project was local Markdown retrieval on the application server. After the `2026-05-20` relay investigation, this should again be treated as the current production baseline rather than only a fallback path. It matches the current repository shape, keeps the canonical knowledge in human-readable files, and avoids making every retrieval depend on managed knowledge-base capacity, vector storage, provider-side retrieval calls, or a model relay account that may not own the corpus.
 
 This path is especially suitable when:
 
@@ -603,7 +610,9 @@ This path is especially suitable when:
 
 OpenAI File Search is a valid managed option, but it should not be the default first step for this project. It requires uploading files into OpenAI-managed vector stores and adds storage plus tool-call costs on top of model token costs. As of `2026-05-13`, the official pricing shows `File search` at `$2.50 / 1,000 calls` and `Vector storage` at `$0.10 / GB / day` after the first `1 GB`.
 
-The implemented `2026-05-19` path does not use model-side OpenAI `file_search` as the main retrieval path. It uploads files to OpenAI Vector Store, calls the Vector Store search API from the application layer, normalizes evidence in `KnowledgeGateway`, and then injects evidence into the Codex prompt.
+The implemented `2026-05-19` path does not use model-side OpenAI `file_search` as the main retrieval path. It uploads files to OpenAI Vector Store, calls the Vector Store search API from the application layer, normalizes evidence in `KnowledgeGateway`, and exposes that evidence to the OpenAI Agents SDK runtime through the `search_knowledge_base` function tool.
+
+The `2026-05-20` production finding adds a stronger operational reason not to make OpenAI Vector Store the default production knowledge layer while using a relay/号池 for generation: Vector Store data belongs to a specific OpenAI project/account, but the relay may route requests through accounts that do not own that data. In the current server environment, the relay can generate with `/responses`, but it cannot serve our project-owned Vector Store API path. Therefore OpenAI Vector Store remains useful for direct-OpenAI smoke tests and as an adapter example, but the next production provider should be locally controlled or hosted on a domestic service whose knowledge index is owned by OPC Planet.
 
 Official references:
 
@@ -774,8 +783,10 @@ Completed in the 2026-05-18 metadata migration:
 First follow-up slice after Phase C:
 
 1. `users`, `documents`, `ingestion_jobs`, `agent_runs`, and `agent_run_usage` tables now exist in the SQLite metadata repository.
-2. The Codex SDK path now records `agent_runs` rows, and successful SDK runs record token counts in `agent_run_usage` when usage can be parsed.
-3. The public chat route can now call Codex SDK with `.env` configured `CODEX_API_KEY` / `CODEX_BASE_URL` values, while OpenAI Vector Store retrieval uses separate `OPENAI_VECTOR_STORE_API_KEY` / `OPENAI_VECTOR_STORE_BASE_URL` values. The route streams the generated answer back to the WebUI.
+2. The OpenAI Agents SDK path now records `agent_runs` rows, and successful SDK runs record token counts in `agent_run_usage` when usage can be parsed.
+3. The public chat route can now call OpenAI Agents SDK with `.env` configured `OPENAI_AGENTS_API_KEY` / `OPENAI_AGENTS_BASE_URL` values, while OpenAI Vector Store retrieval uses separate `OPENAI_VECTOR_STORE_API_KEY` / `OPENAI_VECTOR_STORE_BASE_URL` values. The route streams the generated answer back to the WebUI.
+4. Completed on `2026-05-20`: production relay incompatibility with Agents SDK tool-result submission has a workaround. If the first tool-loop Agent run fails with `500 Upstream gateway error`, the service reuses the already retrieved local evidence and calls a no-tool Agent generation path. This keeps public answers generated instead of falling back to static evidence dumps.
+5. Completed on `2026-05-20`: production retrieval has been reclassified as local Markdown evidence. OpenAI Vector Store can be synced and queried in direct OpenAI-compatible contexts, but it is not a reliable production provider when generation uses a relay/号池 that does not own the Vector Store data.
 
 Still remaining after this first follow-up slice:
 
@@ -783,7 +794,10 @@ Still remaining after this first follow-up slice:
 2. Add user identity, quota enforcement, usage summaries, and a maintained pricing table for cost estimates.
 3. Replace the current seeded public Markdown corpus configuration with a product-facing knowledge-base configuration path.
 4. Add local FTS/BM25 or another persistent local index when benchmark queries show the direct file scan is not enough.
-5. Add eval cases for:
+5. Choose and implement the next production-grade, OPC-owned retrieval provider:
+   - local SQLite FTS5 / BM25 index on the app server for the next low-cost slice
+   - or a domestic cloud vector/search provider if semantic retrieval quality becomes the immediate bottleneck
+6. Add eval cases for:
    - public-only answer
    - public + private answer
    - private corpus access denied
@@ -792,10 +806,11 @@ Still remaining after this first follow-up slice:
    - local index returns the same or better top results than naive directory scan for key benchmark queries
    - per-user token usage is recorded after a successful Agent run
    - failed Agent run records status and any available partial usage
+   - relay tool-loop failure still returns a generated, evidence-backed answer through evidence injection
 
 ### Phase D: Retrieval And Provider Upgrades
 
-1. Upgrade local retrieval from directory scan to Postgres full-text search or another lightweight index, and store index artifacts outside canonical knowledge directories.
+1. Upgrade local retrieval from directory scan to SQLite FTS5, BM25, Postgres full-text search, or another lightweight index, and store index artifacts outside canonical knowledge directories.
 2. Add a provider adapter interface:
 
 ```text
@@ -808,7 +823,8 @@ delete_corpus
 ```
 
 3. Keep OpenAI Agents SDK TypeScript runtime thin: continue calling `KnowledgeGateway.search` and record run usage after each run.
-4. Completed on `2026-05-19`: the first external adapter is now implemented as OpenAI Vector Store retrieval, with manual corpus sync and runtime provider selection in `web/`. Additional external adapters, if needed later, should still reuse this interface. Future external test priority should be:
+4. Completed on `2026-05-19`: the first external adapter is now implemented as OpenAI Vector Store retrieval, with manual corpus sync and runtime provider selection in `web/`. `2026-05-20` production testing showed that this adapter cannot be the live provider while the model generation path uses a号池 relay. Additional external adapters, if needed later, should still reuse this interface. Future external test priority should be:
+   - local FTS/BM25 as the near-term production baseline
    - Aliyun Bailian
    - FastGPT Cloud
    - Dify
@@ -823,7 +839,8 @@ delete_corpus
 | Cost spike from uploads | Quota before upload, file type limits, ingestion job limits |
 | Cost spike from model usage | Per-user token accounting, monthly caps, high-cost run alerts |
 | `5M` bandwidth saturation | Use CDN for static assets; use browser direct upload; avoid large-file relay through API Server |
-| Retrieval misses semantic matches | Start with benchmark queries; keep local fallback; upgrade local FTS/BM25, tune OpenAI Vector Store sync/search, or add rerank/additional provider only when needed |
+| Retrieval misses semantic matches | Start with benchmark queries; keep local retrieval as the production baseline; upgrade local FTS/BM25, add rerank, or add a国内可控 provider only when needed |
+| Relay account cannot access OpenAI Vector Store | Do not rely on OpenAI Vector Store behind号池 relays; keep knowledge retrieval owned by OPC Planet and pass normalized evidence into model generation |
 | Single-server overload from self-hosted RAG | Keep Dify/FastGPT/RAGFlow off the MVP application server |
 | Retrieval quality inconsistent across providers | Normalize evidence format and keep eval set |
 | Upload says ready but retrieval misses content | Store ingestion states and index versions; add smoke retrieval after indexing |
@@ -837,7 +854,8 @@ delete_corpus
 - Should private corpus deletion be immediate, soft-deleted, or delayed for recovery?
 - Should public corpora be rebuilt from this Git repository automatically on each release?
 - What are the first per-user monthly token and estimated-cost limits for each plan tier?
-- At what private corpus volume or retrieval failure rate should the system introduce additional external providers beyond OpenAI Vector Store?
+- Which provider should replace OpenAI Vector Store for production retrieval first: local SQLite FTS/BM25, Aliyun Bailian, FastGPT, Dify, Tencent Cloud, or another domestic vector/search provider?
+- At what private corpus volume or retrieval failure rate should the system introduce additional external providers beyond the local production baseline?
 - At what traffic or upload threshold should the application server be upgraded from `5M` to `10M+` bandwidth?
 
 ## Post-MVP Next Step
@@ -872,7 +890,7 @@ npm run build
 Expected:
 
 - `npm run typecheck` exits 0 after `next typegen`.
-- `npm test` exits 0; current expected coverage is 21 test files and 72 tests.
+- `npm test` exits 0; current expected coverage is 21 test files and 75 tests.
 - `npm run build` exits 0 and includes the dynamic `/api/chat` route in the Next.js build output.
 
 Run this direct-import guard:
@@ -919,10 +937,11 @@ Expected:
 - The home page remains a single centered assistant thread.
 - No sidebar or history UI appears.
 - The request goes to `POST /api/chat`.
-- With `CODEX_API_KEY` unset, the answer uses the evidence fallback path rather than Codex generation.
-- With `CODEX_API_KEY` and `CODEX_BASE_URL` pointing at a Responses-compatible `/v1` endpoint, the answer is generated through Codex SDK.
+- With `OPENAI_AGENTS_API_KEY` unset, the answer uses the evidence fallback path rather than model generation.
+- With `OPENAI_AGENTS_API_KEY` and `OPENAI_AGENTS_BASE_URL` pointing at a Responses-compatible `/v1` endpoint, the answer is generated through OpenAI Agents SDK.
 - Vector Store retrieval is controlled separately by `OPENAI_VECTOR_STORE_API_KEY`, `OPENAI_VECTOR_STORE_BASE_URL`, and corpus metadata provider state.
-- Server logs should not contain `Codex SDK 调用失败`.
+- If the relay supports Agents SDK tool-result submission, server logs should not contain `OpenAI Agents SDK 调用失败`.
+- If the relay returns `500 Upstream gateway error` for `function_call_output`, the response should still be generated through the evidence-injected Agent path and should not be the static evidence fallback.
 - The WebUI should visibly render the assistant answer text.
 - The response is not the forced mock answer unless `PUBLIC_CHAT_FORCE_MOCK=1` is set.
 - The streamed answer includes evidence-backed content and citations.
@@ -951,8 +970,9 @@ Expected:
 
 - HTTP status is 200.
 - Response header `x-vercel-ai-data-stream` is `v1`.
-- With Codex credentials configured, response body contains Vercel AI data-stream frames for a Codex-generated answer.
-- Without Codex credentials configured, response body contains the local-evidence fallback answer path.
+- With OpenAI Agents credentials configured, response body contains Vercel AI data-stream frames for an Agents SDK-generated answer.
+- Without OpenAI Agents credentials configured, response body contains the local-evidence fallback answer path.
+- With the current production relay limitation, response body should contain a generated answer based on local evidence, not the literal `问题：... 以下是当前公共知识库中匹配度最高的证据。` fallback text.
 - Response body must not contain a framework stack trace.
 
 ### Known Non-Acceptance Items
@@ -966,4 +986,4 @@ Do not block this gateway slice on these items; they are explicitly next-phase w
 - quota enforcement and usage summary queries
 - maintained model pricing table for non-zero cost estimates
 - local FTS/BM25 index
-- additional external provider adapters beyond the OpenAI Vector Store path
+- production-grade domestic or self-owned retrieval provider beyond the experimental OpenAI Vector Store path
