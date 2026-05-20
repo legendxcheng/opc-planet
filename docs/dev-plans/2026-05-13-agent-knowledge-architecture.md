@@ -19,7 +19,7 @@ confidence: medium-high
 
 截至 `2026-05-19`，公共聊天 MVP 已经跑通 `KnowledgeGateway.search(...)`，并补上了首个外部 provider：OpenAI Vector Store 作为可切换的检索适配层。也就是说，这份文档里原本写成“未来外部 provider”的部分，已经从概念进入到已实现的 follow-up slice。
 
-截至 `2026-05-20` 的生产验证结论是：当前线上可用路径应视为 `本地 Markdown 检索 -> evidence 注入 -> OpenAI Agents SDK 生成`。由于生产生成模型通过号池型中转站访问，模型请求的上游账号不稳定且不能访问我们自己 OpenAI 项目里的 Vector Store；同时该中转站对 Agents SDK 工具调用后的 `function_call_output` 轮次返回 `500 Upstream gateway error`。因此 OpenAI Vector Store 只能保留为可运行的实验/直连 OpenAI provider，不能作为当前生产知识库依赖。下一阶段优先级应转向自控、国内可访问的检索 provider，例如服务器本地 FTS/BM25 或国内云向量库。
+截至 `2026-05-20` 的生产验证结论是：当前线上可用路径应视为 `本地 Markdown 检索 -> evidence 注入 -> OpenAI Agents SDK 生成`。由于生产生成模型通过号池型中转站访问，模型请求的上游账号不稳定且不能访问我们自己 OpenAI 项目里的 Vector Store；同时该中转站对 Agents SDK 工具调用后的 `function_call_output` 轮次返回 `500 Upstream gateway error`。因此 OpenAI Vector Store 只能保留为可运行的实验/直连 OpenAI provider，不能作为当前生产知识库依赖。下一阶段优先级应转向自控、国内可访问的检索 provider；当前已确认的方向是：只把知识检索迁到 FastGPT，最终回答生成仍由现有 OpenAI Agents SDK 路径基于标准化 evidence 完成。
 
 首版生产技术栈统一采用 TypeScript / Node.js：网站、API Server、Knowledge Gateway、Local Retriever、OpenAI Agents SDK Runtime 和测试都优先在同一套 TypeScript 工程内实现。当前 Python 原型只作为行为参考和迁移输入，不作为生产运行时保留。这样可以减少双栈维护、部署和类型边界成本，也更适合后续接入 Next.js SaaS 框架。
 
@@ -50,7 +50,7 @@ confidence: medium-high
 - 外部知识库 provider（原始 MVP 不含；OpenAI Vector Store 已作为 `2026-05-19` follow-up 完成）
 - 向量库、OCR、rerank、大文件管道
 
-注：上面的 MVP 边界记录的是 `2026-05-13` 的首版范围。`2026-05-19` 的 follow-up slice 已经提前实现 OpenAI Vector Store provider 和公共 corpus 上传索引流程，但 `2026-05-20` 生产验证确认：号池型中转站无法稳定访问我们账号下的 OpenAI Vector Store，因此线上默认仍应使用本地检索 evidence。私有上传、用户 quota、OCR、rerank、产品化配置 UI 和国内可控知识库 provider 仍然属于下一阶段。
+注：上面的 MVP 边界记录的是 `2026-05-13` 的首版范围。`2026-05-19` 的 follow-up slice 已经提前实现 OpenAI Vector Store provider 和公共 corpus 上传索引流程，但 `2026-05-20` 生产验证确认：号池型中转站无法稳定访问我们账号下的 OpenAI Vector Store，因此线上默认仍应使用本地检索 evidence。下一阶段的 provider 方向已收敛为 FastGPT 检索适配器；私有上传、用户 quota、OCR、rerank 和产品化配置 UI 仍然属于后续阶段。
 
 ## Current Implementation Progress
 
@@ -87,8 +87,9 @@ confidence: medium-high
 - 当前检索 provider 已经从硬编码本地 adapter 改为 runtime provider factory：
   - `web/src/knowledge-gateway/local-provider.ts` 保留为 public fallback。
   - `web/src/knowledge-gateway/openai-vector-store-provider.ts` 是首个外部 provider。
-  - `web/src/knowledge-gateway/runtime-provider.ts` 按 corpus provider 和环境变量选择 OpenAI 或本地 fallback。
-  - public corpus 在 OpenAI 未配置或失败时可以回退本地 Markdown；private corpus 不做本地 fallback。
+  - `web/src/knowledge-gateway/fastgpt-provider.ts` 已接入为下一阶段生产检索 provider。
+  - `web/src/knowledge-gateway/runtime-provider.ts` 按 corpus provider 和环境变量选择 FastGPT、OpenAI 或本地 fallback。
+  - public corpus 在 FastGPT/OpenAI 未配置或失败时可以回退本地 Markdown；private corpus 不做本地 fallback。
 - 当前 evidence 已标准化为 `{ corpusId, documentId, chunkId, title, source, score, excerpt }`。
 - 当前 metadata SQLite schema 已经覆盖：
   - `agents`
@@ -111,6 +112,11 @@ confidence: medium-high
   - `web/src/openai/vector-store-client.ts` 使用 OpenAI platform REST API，不走模型侧 `file_search` tool。
   - `docs/guide/knowledge-corpus-sync-guide.md` 已明确区分本地 corpus 配置同步和上传到 OpenAI Vector Store。
   - 真实 MVP smoke 已完成：`opc-core` 已同步到一个 OpenAI vector store，`258` 个文档完成 provider sync。
+- 当前 FastGPT 检索路径已经落地：
+  - `web/src/fastgpt/dataset-client.ts` 调用 FastGPT dataset search test OpenAPI。
+  - `web/src/knowledge-gateway/fastgpt-provider.ts` 将 FastGPT hits 标准化为 gateway evidence。
+  - `web/scripts/sync-knowledge-corpora.ts --provider fastgpt` 可把仓库 Markdown 上传/更新到 FastGPT dataset，并把 `opc-core` metadata 切到 FastGPT。
+  - `web/.env.example` 已列出 `FASTGPT_API_KEY`、`FASTGPT_BASE_URL`、`FASTGPT_OPC_CORE_DATASET_ID` 等配置。
 - 当前 `/api/chat` 已通过真实 OpenAI Agents SDK smoke：服务端返回 HTTP 200、`x-vercel-ai-data-stream: v1`，body 为 Vercel AI data stream，前端 answer text 可见。
 - 当前云服务器生产 smoke 已验证：`MCP 怎么卖？` 返回的是 Agent 生成的综合答案，不再是静态 evidence fallback；当前线上 `opc-core` metadata 为 `provider = local`，所以 evidence 来源是服务器本地 Markdown 检索，而不是 OpenAI Vector Store / model-side file search。
 - 当前生产环境限制已经明确：`ai.monay.top` 这类号池中转站可以用于模型生成，但不能视为我们私有 OpenAI Vector Store 的知识库通道；其 `/v1/vector_stores/...` 不可用或不属于同一账号上下文。
@@ -125,7 +131,7 @@ confidence: medium-high
   - `npm test`
   - `npm run build`
 
-这意味着本架构文档中的前三个工程里程碑已经完成：TypeScript public-chat MVP 已落地，Knowledge Gateway 边界已落地，公共 agent/corpus metadata 的首版数据库持久化也已落地。`usage-accounting-and-expanded-metadata` 也已经开始进入主线：运行记录与 token usage 的首版持久化已经接入 OpenAI Agents SDK 路径。随后补上的 OpenAI Vector Store provider 则把“外部检索适配层”从设计变成了可运行实现，但生产验证已经证明：只要生成模型通过号池中转站，OpenAI Vector Store 就不能承担主生产知识库角色。下一阶段重点不再是“是否要引入 gateway”或“是否把静态 registry 入库”，而是把检索层产品化并迁移到可控知识库：本地 FTS/BM25、国内可访问的向量库或其他 provider，同时继续补齐上传、文档 ingestion 状态、真实用户身份、quota、可维护成本估算和私有 corpus。
+这意味着本架构文档中的前三个工程里程碑已经完成：TypeScript public-chat MVP 已落地，Knowledge Gateway 边界已落地，公共 agent/corpus metadata 的首版数据库持久化也已落地。`usage-accounting-and-expanded-metadata` 也已经开始进入主线：运行记录与 token usage 的首版持久化已经接入 OpenAI Agents SDK 路径。随后补上的 OpenAI Vector Store provider 则把“外部检索适配层”从设计变成了可运行实现，但生产验证已经证明：只要生成模型通过号池中转站，OpenAI Vector Store 就不能承担主生产知识库角色。下一阶段重点不再是“是否要引入 gateway”或“是否把静态 registry 入库”，而是把检索层产品化并迁移到 FastGPT 检索 provider，同时继续保留本地 Markdown fallback，并继续补齐上传、文档 ingestion 状态、真实用户身份、quota、可维护成本估算和私有 corpus。
 
 ## Long-Term Goals
 
@@ -160,7 +166,8 @@ Browser
           -> Object Storage
       -> Knowledge Gateway
           -> Local Markdown Retriever / Local Search Index
-          -> Optional Provider Adapter: Aliyun / FastGPT / Dify / Tencent
+          -> FastGPT Retrieval Adapter
+          -> Optional Provider Adapter: OpenAI Vector Store / Aliyun / Dify / Tencent
       -> OpenAI Agents SDK TypeScript Runtime
           -> tool: search_knowledge
 ```
@@ -183,7 +190,7 @@ This changes the milestone sequencing:
 2. The first permission-aware `KnowledgeGateway.search(...)` boundary is now implemented in `web/src/knowledge-gateway/*`.
 3. The first database-backed metadata slice for `agents`, `corpora`, and `agent_corpora` is now implemented in `web/src/metadata/*`.
 4. The first run persistence and token-usage persistence slice is now implemented for OpenAI Agents SDK calls; the remaining gap is productized upload, ingestion state, quota, pricing summaries, and real user/private-corpus flows.
-5. The next retrieval-adjacent upgrade should focus on upload/ingestion state, quota/accounting, private corpus boundaries, and a production-owned retrieval provider beyond the experimental OpenAI Vector Store path.
+5. The next retrieval-adjacent upgrade is the FastGPT retrieval provider spike. Upload/ingestion state, quota/accounting, and private corpus boundaries remain the follow-up productization slice after FastGPT evidence retrieval is proven behind `KnowledgeGateway`.
 
 ### TypeScript-First Stack Decision
 
@@ -284,6 +291,7 @@ Browser
       -> Object Storage
       -> Local Markdown / Processed Text Store
       -> Local Search Index
+      -> FastGPT Retrieval Provider
       -> OpenAI Vector Store / Optional External Knowledge Provider
       -> OpenAI API
 ```
@@ -333,7 +341,7 @@ Browser
 | Corpus Registry | 记录公共/私有知识库、owner、provider、storage/index 引用、状态 |
 | Knowledge Gateway | 统一检索接口、权限过滤、本地/外部结果合并、citation 标准化 |
 | Local Retriever | 基于 Markdown、抽取文本或本地索引执行检索 |
-| Provider Adapter | 外部适配层；当前已接入 OpenAI Vector Store，后续可适配阿里云、FastGPT、Dify、腾讯云 |
+| Provider Adapter | 外部适配层；当前已接入 OpenAI Vector Store，下一阶段接入 FastGPT retrieval provider；后续再评估阿里云、Dify、腾讯云 |
 | OpenAI Agents SDK TypeScript Runtime | 调用 `search_knowledge` 工具，根据证据生成回答 |
 | Usage Accounting | 记录每次 Agent run 的模型 token、工具调用和估算成本 |
 | Object Storage | 保存用户上传原文件、抽取文本和处理产物 |
@@ -366,7 +374,7 @@ corpora
 - visibility: public | private
 - owner_type: system | user
 - owner_user_id
-- provider: tencent | aliyun | dify | fastgpt | local
+- provider: local | fastgpt | openai_vector_store | tencent | aliyun | dify
 - provider_dataset_id
 - local_storage_ref
 - local_index_ref
@@ -631,12 +639,47 @@ Official references:
 
 ### FastGPT Cloud
 
-FastGPT Cloud is a good shortcut if the main priority becomes fast delivery, built-in management UI, and lower development effort. It is more plan-based than granular usage-based, so it is often better as a product acceleration option than as the foundational low-fixed-cost retrieval layer.
+FastGPT is now the selected next production retrieval provider for this project, but only as a knowledge retrieval layer behind `KnowledgeGateway`. It should not replace the existing OpenAI Agents SDK answer-generation path. The runtime shape should be:
+
+```text
+/api/chat
+  -> KnowledgeGateway.search(...)
+  -> FastGPT retrieval adapter
+  -> normalized evidence
+  -> OpenAI Agents SDK / evidence-injected generation
+```
+
+FastGPT is attractive for this next slice because it provides a ready-made knowledge-base UI, document ingestion, chunking, retrieval configuration, and OpenAPI access. That reduces the amount of custom retrieval infrastructure needed before validating the product experience.
+
+For OPC Planet, FastGPT should be treated as a managed retrieval copy, not canonical knowledge storage. Public knowledge should still originate from repository Markdown. Future private uploads should still be registered in OPC metadata and object storage before being synced into FastGPT. This keeps deletion, audit, migration, permission checks, and fallback under OPC control.
+
+The first FastGPT integration should therefore implement a `fastgpt` / `fastgpt_dataset` provider adapter that maps FastGPT search results into the existing normalized evidence shape:
+
+```json
+{
+  "corpusId": "opc-core",
+  "documentId": "provider-document-id-or-local-source",
+  "chunkId": "provider-chunk-id",
+  "title": "Document title",
+  "source": "knowledge/strategy/opc/example.md",
+  "score": 0.82,
+  "excerpt": "..."
+}
+```
+
+Non-goals for the first FastGPT slice:
+
+- Do not route final user answers through FastGPT chat/app completion.
+- Do not bypass `KnowledgeGateway` permission checks.
+- Do not make FastGPT the only source of public knowledge files.
+- Do not self-host FastGPT on the `4核 8G 5M` application server.
 
 Official references:
 
 - https://fastgpt.io/zh/price
-- https://doc.fastgpt.io/en/openapi
+- https://doc.fastgpt.cn/zh-CN/guide/getting-started
+- https://doc.fastgpt.cn/zh-CN/guide/dataset/rag
+- https://doc.fastgpt.cn/docs/introduction/development/openapi/intro
 
 ### Dify
 
@@ -793,24 +836,23 @@ Still remaining after this first follow-up slice:
 1. Connect real upload / ingestion flows to `documents` and `ingestion_jobs`.
 2. Add user identity, quota enforcement, usage summaries, and a maintained pricing table for cost estimates.
 3. Replace the current seeded public Markdown corpus configuration with a product-facing knowledge-base configuration path.
-4. Add local FTS/BM25 or another persistent local index when benchmark queries show the direct file scan is not enough.
-5. Choose and implement the next production-grade, OPC-owned retrieval provider:
-   - local SQLite FTS5 / BM25 index on the app server for the next low-cost slice
-   - or a domestic cloud vector/search provider if semantic retrieval quality becomes the immediate bottleneck
+4. Implement the confirmed next production retrieval provider: FastGPT behind `KnowledgeGateway`, with local Markdown retrieval retained as public fallback.
+5. Add local FTS/BM25 or another persistent local index only if benchmark queries show that FastGPT plus local fallback does not provide enough retrieval quality, cost control, or operational resilience.
 6. Add eval cases for:
    - public-only answer
    - public + private answer
    - private corpus access denied
    - private corpus not ready
    - uploaded document too large
-   - local index returns the same or better top results than naive directory scan for key benchmark queries
+   - FastGPT returns acceptable evidence for key public `opc-core` benchmark queries
+   - local fallback returns useful evidence when FastGPT is unconfigured or unavailable
    - per-user token usage is recorded after a successful Agent run
    - failed Agent run records status and any available partial usage
    - relay tool-loop failure still returns a generated, evidence-backed answer through evidence injection
 
 ### Phase D: Retrieval And Provider Upgrades
 
-1. Upgrade local retrieval from directory scan to SQLite FTS5, BM25, Postgres full-text search, or another lightweight index, and store index artifacts outside canonical knowledge directories.
+1. Keep local Markdown retrieval as the production fallback. A future local SQLite FTS5, BM25, Postgres full-text search, or another lightweight index may still be useful, but it is no longer the immediate next retrieval slice.
 2. Add a provider adapter interface:
 
 ```text
@@ -823,12 +865,19 @@ delete_corpus
 ```
 
 3. Keep OpenAI Agents SDK TypeScript runtime thin: continue calling `KnowledgeGateway.search` and record run usage after each run.
-4. Completed on `2026-05-19`: the first external adapter is now implemented as OpenAI Vector Store retrieval, with manual corpus sync and runtime provider selection in `web/`. `2026-05-20` production testing showed that this adapter cannot be the live provider while the model generation path uses a号池 relay. Additional external adapters, if needed later, should still reuse this interface. Future external test priority should be:
-   - local FTS/BM25 as the near-term production baseline
-   - Aliyun Bailian
-   - FastGPT Cloud
-   - Dify
-   - Tencent Cloud ADP
+4. Completed on `2026-05-19`: the first external adapter is now implemented as OpenAI Vector Store retrieval, with manual corpus sync and runtime provider selection in `web/`. `2026-05-20` production testing showed that this adapter cannot be the live provider while the model generation path uses a号池 relay. Additional external adapters should still reuse this interface.
+5. Next confirmed retrieval slice: implement FastGPT as the production retrieval provider behind `KnowledgeGateway`, while keeping local Markdown retrieval as public fallback and keeping OpenAI Agents SDK as the answer generator.
+
+FastGPT retrieval adapter minimum scope:
+
+1. Add `fastgpt` / `fastgpt_dataset` provider metadata for corpora.
+2. Add FastGPT environment config, such as API base URL, API key, dataset IDs, token limit, retrieval settings, and fallback behavior.
+3. Add `web/src/knowledge-gateway/fastgpt-provider.ts` implementing `KnowledgeProvider.search(...)`.
+4. Map FastGPT retrieval hits into normalized evidence without leaking raw provider details into the answer layer.
+5. Update `runtime-provider.ts` to select FastGPT when corpus metadata says `provider = fastgpt`.
+6. Extend the corpus sync script so public Markdown can be registered/synced to a FastGPT dataset.
+7. Add tests for success, provider unconfigured, provider error, empty results, and public fallback behavior.
+8. Add a smoke test query comparing local retrieval and FastGPT retrieval for `opc-core`.
 
 ## Operational Risks
 
@@ -839,23 +888,24 @@ delete_corpus
 | Cost spike from uploads | Quota before upload, file type limits, ingestion job limits |
 | Cost spike from model usage | Per-user token accounting, monthly caps, high-cost run alerts |
 | `5M` bandwidth saturation | Use CDN for static assets; use browser direct upload; avoid large-file relay through API Server |
-| Retrieval misses semantic matches | Start with benchmark queries; keep local retrieval as the production baseline; upgrade local FTS/BM25, add rerank, or add a国内可控 provider only when needed |
+| Retrieval misses semantic matches | Start with benchmark queries; use FastGPT retrieval as the next production provider; keep local Markdown retrieval as fallback; add local FTS/BM25 or rerank only if benchmark results require it |
 | Relay account cannot access OpenAI Vector Store | Do not rely on OpenAI Vector Store behind号池 relays; keep knowledge retrieval owned by OPC Planet and pass normalized evidence into model generation |
 | Single-server overload from self-hosted RAG | Keep Dify/FastGPT/RAGFlow off the MVP application server |
+| FastGPT app path bypasses OPC runtime | Use FastGPT only for retrieval; final answers still flow through `KnowledgeGateway` evidence and OpenAI Agents SDK generation |
 | Retrieval quality inconsistent across providers | Normalize evidence format and keep eval set |
 | Upload says ready but retrieval misses content | Store ingestion states and index versions; add smoke retrieval after indexing |
 | Provider outage | Return graceful "knowledge search unavailable" error; keep adapter-level retry |
 
 ## Open Questions
 
-- What benchmark query set should define “local retrieval is good enough” for the first release?
+- What benchmark query set should define “FastGPT retrieval is good enough” for the first release?
 - What is the first user quota tier: 50 MB, 100 MB, or another number?
 - Should users have exactly one private corpus by default, or multiple project-level corpora?
 - Should private corpus deletion be immediate, soft-deleted, or delayed for recovery?
 - Should public corpora be rebuilt from this Git repository automatically on each release?
 - What are the first per-user monthly token and estimated-cost limits for each plan tier?
-- Which provider should replace OpenAI Vector Store for production retrieval first: local SQLite FTS/BM25, Aliyun Bailian, FastGPT, Dify, Tencent Cloud, or another domestic vector/search provider?
-- At what private corpus volume or retrieval failure rate should the system introduce additional external providers beyond the local production baseline?
+- What benchmark query set should decide whether the automated FastGPT Markdown sync is good enough for release?
+- At what private corpus volume, retrieval failure rate, or FastGPT cost threshold should the system introduce another provider beyond FastGPT plus local fallback?
 - At what traffic or upload threshold should the application server be upgraded from `5M` to `10M+` bandwidth?
 
 ## Post-MVP Next Step
@@ -864,13 +914,23 @@ Do not spend the next iteration redoing the TypeScript foundation work. That lay
 
 Do not spend the next iteration rebuilding the provider-neutral `Knowledge Gateway` boundary either. That boundary now exists in `web/src/knowledge-gateway/*`, the public chat runtime is already using it, and the first external retrieval adapter is now in place.
 
-The recommended next implementation slice is `upload-ingestion-and-quota-boundaries`:
+The recommended next implementation slice is now `fastgpt-retrieval-provider-spike`. This is a narrower step than full upload and quota productization, because the immediate decision is to move knowledge retrieval off OpenAI Vector Store and onto FastGPT while preserving the existing chat/runtime boundary.
+
+1. add FastGPT connection config and provider metadata
+2. implement `fastgpt-provider.ts` behind `KnowledgeProvider.search(...)`
+3. map FastGPT retrieval hits to normalized evidence
+4. select FastGPT through `runtime-provider.ts` when corpus metadata uses `provider = fastgpt`
+5. keep local Markdown retrieval as fallback for public corpora
+6. add tests for provider selection, error states, empty results, and normalized evidence
+7. run a public `opc-core` smoke query through `/api/chat` and confirm the final answer is generated by OpenAI Agents SDK from FastGPT evidence, not by FastGPT Chat
+
+After this FastGPT retrieval spike is accepted, continue with `upload-ingestion-and-quota-boundaries`:
 
 1. connect upload registration to `documents`
 2. connect extraction / indexing state to `ingestion_jobs`
 3. add user identity and quota checks before upload or private corpus selection
 4. add usage summary queries and a maintained model-pricing table for cost estimates
-5. only after usage and document-ingestion metadata boundaries are exercised by runtime code, invest in private uploads, larger local indexes, or additional external knowledge provider adapters beyond the OpenAI Vector Store path
+5. only after usage and document-ingestion metadata boundaries are exercised by runtime code, invest in private uploads, larger local indexes, or additional external knowledge provider adapters beyond FastGPT plus local fallback
 
 ## Acceptance Checklist For Current Gateway Slice
 
@@ -982,8 +1042,8 @@ Do not block this gateway slice on these items; they are explicitly next-phase w
 - real authenticated users
 - real private corpus upload UI
 - product-facing knowledge-base configuration and corpus selection UI
+- FastGPT retrieval adapter implementation and production smoke
 - upload / extraction / indexing flows that populate `documents` and `ingestion_jobs`
 - quota enforcement and usage summary queries
 - maintained model pricing table for non-zero cost estimates
-- local FTS/BM25 index
-- production-grade domestic or self-owned retrieval provider beyond the experimental OpenAI Vector Store path
+- local FTS/BM25 index beyond the current fallback
