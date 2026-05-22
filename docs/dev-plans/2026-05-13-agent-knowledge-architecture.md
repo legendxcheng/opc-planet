@@ -4,7 +4,7 @@ type: guide
 status: draft
 tags: [agent, rag, knowledge-base, architecture, openai-agents-sdk]
 created: 2026-05-13
-updated: 2026-05-20
+updated: 2026-05-21
 source: conversation architecture design; current repository structure
 confidence: medium-high
 ---
@@ -19,20 +19,20 @@ confidence: medium-high
 
 截至 `2026-05-19`，公共聊天 MVP 已经跑通 `KnowledgeGateway.search(...)`，并补上了首个外部 provider：OpenAI Vector Store 作为可切换的检索适配层。也就是说，这份文档里原本写成“未来外部 provider”的部分，已经从概念进入到已实现的 follow-up slice。
 
-截至 `2026-05-20` 的生产验证结论是：当前线上可用路径应视为 `本地 Markdown 检索 -> evidence 注入 -> OpenAI Agents SDK 生成`。由于生产生成模型通过号池型中转站访问，模型请求的上游账号不稳定且不能访问我们自己 OpenAI 项目里的 Vector Store；同时该中转站对 Agents SDK 工具调用后的 `function_call_output` 轮次返回 `500 Upstream gateway error`。因此 OpenAI Vector Store 只能保留为可运行的实验/直连 OpenAI provider，不能作为当前生产知识库依赖。下一阶段优先级应转向自控、国内可访问的检索 provider；当前已确认的方向是：只把知识检索迁到 FastGPT，最终回答生成仍由现有 OpenAI Agents SDK 路径基于标准化 evidence 完成。
+截至 `2026-05-20` 的生产验证结论是：当前线上可用路径应视为 `本地 Markdown 检索 -> evidence 注入 -> OpenAI Agents SDK 生成`。由于生产生成模型通过号池型中转站访问，模型请求的上游账号不稳定且不能访问我们自己 OpenAI 项目里的 Vector Store；同时该中转站对 Agents SDK 工具调用后的 `function_call_output` 轮次返回 `500 Upstream gateway error`。因此 OpenAI Vector Store 只能保留为可运行的实验/直连 OpenAI provider，不能作为当前生产知识库依赖。下一阶段优先级应转向自控、国内可访问的检索 provider；当前已确认的方向是：只把知识检索迁到 FastGPT，最终回答生成仍由现有 OpenAI Agents SDK 路径基于标准化 evidence 完成。截至 `2026-05-21`，FastGPT provider、同步脚本和运行时选择已在 `web/` 落地并通过测试；OpenAI Vector Store 继续保留为直连 OpenAI-compatible 场景的备用 provider。
 
 首版生产技术栈统一采用 TypeScript / Node.js：网站、API Server、Knowledge Gateway、Local Retriever、OpenAI Agents SDK Runtime 和测试都优先在同一套 TypeScript 工程内实现。当前 Python 原型只作为行为参考和迁移输入，不作为生产运行时保留。这样可以减少双栈维护、部署和类型边界成本，也更适合后续接入 Next.js SaaS 框架。
 
 在首版生产部署上，推荐把本机职责控制在 `Next.js 网站前端 + Node.js API Server + OpenAI Agents SDK Runtime + 轻量本地检索索引`。对 `4核 8G 5M` 云服务器，这种模式可支持 MVP 和低并发场景；但前提是静态资源尽量走 CDN，用户上传优先限制在轻量文本资料，避免应用服务器中转大文件和承担重型 OCR/向量化任务。
 
-对 `2026-05-13` 原始 MVP 来说，边界很明确：一个网页里的单线程公共聊天，后端通过 `KnowledgeGateway.search(...)` 检索仓库内公开 Markdown，并由 OpenAI Agents SDK runtime 调用 `search_knowledge_base` 工具、基于返回 evidence 生成回复，带引用和失败回退即可。用户认证、私有知识库、上传、完整用量计费和外部 provider 都属于原始 MVP 之后；其中 OpenAI Vector Store provider 已在 `2026-05-19` follow-up 中提前完成。
+对 `2026-05-13` 原始 MVP 来说，边界很明确：一个网页里的单线程公共聊天，后端通过 `KnowledgeGateway.search(...)` 检索仓库内公开 Markdown，并由 OpenAI Agents SDK runtime 调用 `search_knowledge_base` 工具、基于返回 evidence 生成回复，带引用和失败回退即可。用户认证、私有知识库、上传、完整用量计费和外部 provider 都属于原始 MVP 之后；其中 OpenAI Vector Store provider 已在 `2026-05-19` follow-up 中提前完成，`better-auth` 用户身份与 per-user 多线程聊天基础已在 `2026-05-21` follow-up 中落地。
 
 ## MVP Boundary
 
 ### In Scope
 
 - `web/` 中的单页公共聊天体验
-- `POST /api/chat`
+- `POST /api/public-chat`
 - OpenAI Agents SDK TypeScript reply runtime for the current public chat path
 - `KnowledgeGateway.search(...)`
 - 仓库内公开 Markdown / 本地索引检索
@@ -41,7 +41,7 @@ confidence: medium-high
 
 ### Out Of Scope
 
-- 用户注册、登录、鉴权
+- 用户注册、登录、鉴权（原始 MVP 不含；`2026-05-21` follow-up 已完成基础 email/password 认证）
 - 私有知识库
 - 上传、抽取、索引任务
 - `users` / `documents` / `ingestion_jobs`
@@ -50,17 +50,32 @@ confidence: medium-high
 - 外部知识库 provider（原始 MVP 不含；OpenAI Vector Store 已作为 `2026-05-19` follow-up 完成）
 - 向量库、OCR、rerank、大文件管道
 
-注：上面的 MVP 边界记录的是 `2026-05-13` 的首版范围。`2026-05-19` 的 follow-up slice 已经提前实现 OpenAI Vector Store provider 和公共 corpus 上传索引流程，但 `2026-05-20` 生产验证确认：号池型中转站无法稳定访问我们账号下的 OpenAI Vector Store，因此线上默认仍应使用本地检索 evidence。下一阶段的 provider 方向已收敛为 FastGPT 检索适配器；私有上传、用户 quota、OCR、rerank 和产品化配置 UI 仍然属于后续阶段。
+注：上面的 MVP 边界记录的是 `2026-05-13` 的首版范围。`2026-05-19` 的 follow-up slice 已经提前实现 OpenAI Vector Store provider 和公共 corpus 上传索引流程，但 `2026-05-20` 生产验证确认：号池型中转站无法稳定访问我们账号下的 OpenAI Vector Store，因此线上默认仍应使用本地检索 evidence。`2026-05-21` 的 follow-up slice 已经提前实现基础用户认证、登录后的 `/chat` 多线程会话壳、线程/消息持久化和公共聊天路由拆分，并完成 FastGPT 生产检索 provider。下一阶段如果聚焦 `web/` 的产品面，重点应转向线程管理产品化、真实 Agent/corpus 展示、账户与用量页面；离线上传、抽取、索引、同步等流程应继续放在 `automation/` / `web/scripts/`，不算 WebSite 前台功能。
 
 ## Current Implementation Progress
 
-截至 `2026-05-20`，`web/` 已经覆盖 public chat shell、OpenAI Agents SDK 回复路径、Knowledge Gateway 基线、第一版数据库元数据层、首个 OpenAI Vector Store provider，以及生产中转站不兼容 Agent tool loop 时的 evidence-injected fallback。当前仍不是完整的用户可配置知识库产品：还没有私有上传 UI、用户身份、quota 和产品化 corpus 管理界面；公共 `opc-core` 已经可以同步到 OpenAI Vector Store 托管检索副本，但生产环境不应依赖号池中转站访问该 Vector Store。
+截至 `2026-05-21`，`web/` 已经覆盖 public chat shell、authenticated multi-thread chat shell、**多 Agent 聊天前端界面**、`better-auth` 身份层、OpenAI Agents SDK 回复路径、Knowledge Gateway 基线、第一版数据库元数据层、FastGPT 生产检索 provider、首个 OpenAI Vector Store provider，以及生产中转站不兼容 Agent tool loop 时的 evidence-injected fallback。当前仍不是完整的网站产品：前台还没有真实 Agent 数据源、线程重命名/归档/删除、产品化 corpus 管理页、账户/用量面板和运行健康视图；公共 `opc-core` 已经可以同步到 OpenAI Vector Store 托管检索副本，但生产环境不应依赖号池中转站访问该 Vector Store。
+
+**多 Agent 聊天前端（`2026-05-21` 完成）：**
+- 实现了三栏布局的多 Agent 聊天界面（Agent 列表 + 聊天区 + 历史面板）
+- 创建了 `web/src/chat/mock-agents.ts` 提供 5 个示例 Agent（前端架构师、后端工程师、数据分析师、内容创作者、DevOps 专家）
+- 使用 Zustand (`web/src/chat/chat-store.ts`) 管理 Agent 选择和 UI 状态，支持 localStorage 持久化
+- 实现了 `web/src/chat/agent-sidebar.tsx` 提供 Agent 列表、搜索和分类筛选功能
+- 实现了 `web/src/chat/agent-info-card.tsx` 显示当前 Agent 的详细信息和能力
+- 实现了 `web/src/chat/history-panel.tsx` 提供历史线程管理和筛选功能
+- 实现了 `web/src/chat/multi-agent-chat-layout.tsx` 作为三栏布局容器
+- 更新了 `web/src/chat/authenticated-chat-page.tsx` 集成新的多 Agent 布局
+- 修复了 `web/app/layout.tsx` 的 hydration 错误（添加 `suppressHydrationWarning`）
+- 所有组件支持响应式设计（桌面端、平板端、移动端）
+- TypeScript 类型检查通过，开发服务器成功运行
+- 当前使用 mock 数据，待后端 API 准备好后替换为真实 Agent 列表
 
 - `web/` 已经是 Next.js App Router + TypeScript 主工程。
 - Python 原型中的本地 Markdown 检索行为已经迁移到 `web/src/knowledge/*`，并由 Vitest 覆盖。
 - `search_knowledge_base` 风格的工具注册和运行时错误格式化已经迁移到 `web/src/agents/*`。
-- 首页已经从占位页升级为基于 `assistant-ui` 的单线程公共聊天界面。
-- 稳定路由 `POST /api/chat` 已经存在，且前端通过 `useDataStreamRuntime` 访问它。
+- 首页已经从占位页升级为基于 `assistant-ui` 的单线程公共聊天界面，并通过 `/sign-in` 与 `/sign-up` 暴露基础认证入口。
+- 稳定公共路由 `POST /api/public-chat` 已经存在，且首页前端通过 `useDataStreamRuntime` 访问它。
+- 认证后的 `/chat` 已经是独立的多线程工作区；其聊天提交改走 thread-aware 的 `POST /api/chat`。
 - 当前公共聊天回答路径已经具备：
   - mock stream 模式
   - 本地 public corpus 检索模式
@@ -76,6 +91,7 @@ confidence: medium-high
   - 支持 `OPENAI_AGENTS_MODEL` 与 `OPENAI_AGENTS_MODEL_REASONING_EFFORT`
 - 当前 `web/` 已经存在数据库支持的公共 metadata 层：`web/src/metadata/metadata-repository.ts`。
 - 当前默认 metadata 存储为本地 SQLite：`.data/opc-metadata.sqlite`，可由 `OPC_METADATA_DB_PATH` 覆盖。
+- 当前 `better-auth` 与产品 metadata 共用同一个 SQLite 文件；认证配置使用 `BETTER_AUTH_URL`、`NEXT_PUBLIC_BETTER_AUTH_URL` 与 `BETTER_AUTH_SECRET`。
 - 当前公共 corpus seed 已集中到 `web/src/metadata/metadata-seed.ts`，`web/src/corpora/public-corpora.ts` 只保留为兼容 wrapper。
 - 当前公共 Agent seed 也已集中到 `web/src/metadata/metadata-seed.ts`，`web/src/agents/agent-registry.ts` 为兼容 wrapper。
 - `KnowledgeGateway.search(...)` 已经成为公共聊天路径的运行时检索入口：
@@ -87,7 +103,7 @@ confidence: medium-high
 - 当前检索 provider 已经从硬编码本地 adapter 改为 runtime provider factory：
   - `web/src/knowledge-gateway/local-provider.ts` 保留为 public fallback。
   - `web/src/knowledge-gateway/openai-vector-store-provider.ts` 是首个外部 provider。
-  - `web/src/knowledge-gateway/fastgpt-provider.ts` 已接入为下一阶段生产检索 provider。
+  - `web/src/knowledge-gateway/fastgpt-provider.ts` 已接入并作为 `provider = fastgpt` 时的生产检索 provider。
   - `web/src/knowledge-gateway/runtime-provider.ts` 按 corpus provider 和环境变量选择 FastGPT、OpenAI 或本地 fallback。
   - public corpus 在 FastGPT/OpenAI 未配置或失败时可以回退本地 Markdown；private corpus 不做本地 fallback。
 - 当前 evidence 已标准化为 `{ corpusId, documentId, chunkId, title, source, score, excerpt }`。
@@ -96,10 +112,18 @@ confidence: medium-high
   - `corpora`
   - `agent_corpora`
   - `users`
+  - `chat_threads`
+  - `chat_messages`
   - `documents`
   - `ingestion_jobs`
   - `agent_runs`
   - `agent_run_usage`
+- 当前最小用户管理闭环已经具备：
+  - email/password 注册
+  - email/password 登录
+  - `/chat` 会话校验与未登录重定向
+  - 侧栏退出登录
+  - 每用户独立线程列表与历史消息加载
 - 当前 OpenAI Agents SDK 路径已经接入第一版运行记录：
   - SDK 路径被尝试时会写入 `agent_runs`。
   - SDK 成功返回且能解析 usage 时会写入 `agent_run_usage`。
@@ -131,7 +155,29 @@ confidence: medium-high
   - `npm test`
   - `npm run build`
 
-这意味着本架构文档中的前三个工程里程碑已经完成：TypeScript public-chat MVP 已落地，Knowledge Gateway 边界已落地，公共 agent/corpus metadata 的首版数据库持久化也已落地。`usage-accounting-and-expanded-metadata` 也已经开始进入主线：运行记录与 token usage 的首版持久化已经接入 OpenAI Agents SDK 路径。随后补上的 OpenAI Vector Store provider 则把“外部检索适配层”从设计变成了可运行实现，但生产验证已经证明：只要生成模型通过号池中转站，OpenAI Vector Store 就不能承担主生产知识库角色。下一阶段重点不再是“是否要引入 gateway”或“是否把静态 registry 入库”，而是把检索层产品化并迁移到 FastGPT 检索 provider，同时继续保留本地 Markdown fallback，并继续补齐上传、文档 ingestion 状态、真实用户身份、quota、可维护成本估算和私有 corpus。
+这意味着本架构文档中的前三个工程里程碑已经完成：TypeScript public-chat MVP 已落地，Knowledge Gateway 边界已落地，公共 agent/corpus metadata 的首版数据库持久化也已落地。`usage-accounting-and-expanded-metadata` 也已经开始进入主线：运行记录与 token usage 的首版持久化已经接入 OpenAI Agents SDK 路径。随后补上的 OpenAI Vector Store provider 则把”外部检索适配层”从设计变成了可运行实现，但生产验证已经证明：只要生成模型通过号池中转站，OpenAI Vector Store 就不能承担主生产知识库角色。`authenticated-multi-thread-chat-foundation` 也已经进入主线：产品现在有基础用户身份、登录后的 per-user thread/message 持久化、公共聊天与登录聊天的路由拆分。**`multi-agent-chat-interface` 前端也已经完成**：产品现在有三栏布局的多 Agent 聊天界面，支持 Agent 选择、搜索、筛选和状态持久化。下一阶段重点是补齐线程 rename/archive/delete、标题和 last-message 状态、上传/ingestion 边界、quota、可维护成本估算和私有 corpus，以及连接后端 API 替换前端 mock Agent 数据。
+
+## WebSite Work Boundary
+
+`web/` 只负责网站本身的前台体验和服务接口，不负责离线知识处理流水线。
+
+### WebSite 应该负责
+
+- 公共聊天首页和认证后的 `/chat`
+- 真实 Agent 列表、Agent 详情和 Agent 切换
+- 线程列表、线程标题、归档/删除、最后消息时间
+- corpus 状态、provider 状态、同步状态的产品化展示
+- 账户入口、用量展示、成本展示、基础权限状态
+- 空状态、加载态、失败态、provider 不可用态
+
+### WebSite 不应该负责
+
+- Markdown 抓取、同步、抽取、切块、索引
+- FastGPT / OpenAI Vector Store 的离线上传脚本
+- 文件处理 job 的后台调度和重试
+- 一次性的知识库迁移脚本
+
+这些离线任务应该继续放在 `automation/`、`tools/` 或 `web/scripts/`，网站只消费它们产出的状态，不把它们本身当成前台功能。
 
 ## Long-Term Goals
 
@@ -182,15 +228,16 @@ The repository no longer only contains a Python prototype. As of `2026-05-14`, t
 - `tests/automation/pipelines/test_opc_knowledge_agent.py` already covers basic ranked Markdown retrieval and tool registration.
 - `web/src/knowledge/*` now contains the migrated TypeScript retrieval baseline.
 - `web/tests/knowledge/search-local-knowledge.test.ts` and `web/tests/agents/knowledge-tool.test.ts` already cover the migrated behavior.
-- `web/src/chat/*`, `web/src/corpora/public-corpora.ts`, and `web/app/api/chat/route.ts` already provide a public-chat MVP on top of that retrieval baseline.
+- `web/src/chat/*`, `web/src/corpora/public-corpora.ts`, `web/app/api/public-chat/route.ts`, and `web/app/api/chat/route.ts` already provide public and authenticated chat paths on top of that retrieval baseline.
 
 This changes the milestone sequencing:
 
 1. The “translate retrieval behavior into TypeScript and preserve tests” milestone is done.
 2. The first permission-aware `KnowledgeGateway.search(...)` boundary is now implemented in `web/src/knowledge-gateway/*`.
 3. The first database-backed metadata slice for `agents`, `corpora`, and `agent_corpora` is now implemented in `web/src/metadata/*`.
-4. The first run persistence and token-usage persistence slice is now implemented for OpenAI Agents SDK calls; the remaining gap is productized upload, ingestion state, quota, pricing summaries, and real user/private-corpus flows.
-5. The next retrieval-adjacent upgrade is the FastGPT retrieval provider spike. Upload/ingestion state, quota/accounting, and private corpus boundaries remain the follow-up productization slice after FastGPT evidence retrieval is proven behind `KnowledgeGateway`.
+4. The first run persistence and token-usage persistence slice is now implemented for OpenAI Agents SDK calls.
+5. The authenticated multi-thread chat foundation is now implemented with `better-auth`, `chat_threads`, `chat_messages`, and a logged-in `/chat` shell.
+6. The next productization gaps are thread management polish, upload/ingestion state, quota, pricing summaries, and private-corpus flows.
 
 ### TypeScript-First Stack Decision
 
@@ -226,16 +273,21 @@ The current merged `web/` app already maps to part of the intended architecture:
 ```text
 web/
   app/
-    page.tsx                  -> public chat homepage
-    api/chat/route.ts         -> stable chat entrypoint
+    page.tsx                  -> public chat homepage plus auth entry CTA
+    sign-in/page.tsx          -> email/password sign-in page
+    sign-up/page.tsx          -> email/password sign-up page
+    chat/page.tsx             -> authenticated multi-thread chat workspace
+    api/public-chat/route.ts  -> public chat entrypoint
+    api/chat/route.ts         -> authenticated thread-aware chat entrypoint
   src/
+    auth/                     -> better-auth server helpers and browser auth UI
     knowledge/                -> local Markdown retriever
     knowledge-gateway/        -> permission-aware retrieval boundary and provider adapter
     metadata/                 -> SQLite-backed metadata repository and seed data
     agents/                   -> tool descriptors and runtime error shaping
     agents/agent-registry.ts  -> compatibility wrapper over metadata repository
     corpora/                  -> corpus registry plus public wrapper
-    chat/                     -> request normalization, mock mode, public agent path
+    chat/                     -> public chat, authenticated thread shell, adapters, and request normalization
     config/                   -> Next.js worktree/watch safeguards
   tests/
     knowledge/
@@ -247,24 +299,27 @@ web/
 
 What is implemented today:
 
-- public-only corpus answering
+- public corpus answering on `/`
+- authenticated multi-thread chat on `/chat`
+- better-auth email/password sign-up, sign-in, and sign-out
 - local Markdown search with corpus-aware directory constraints
 - assistant-ui based browser shell
 - OpenAI Agents SDK integration path for the public agent
 - gateway evidence, from local fallback or OpenAI Vector Store, returned through the `search_knowledge_base` tool before final generation
 - graceful fallback to local retrieval when the OpenAI runtime path fails
 - SQLite-backed metadata repository for `opc-public-assistant` and `opc-core`
-- empty SQLite metadata tables for `users`, `documents`, `ingestion_jobs`, `agent_runs`, and `agent_run_usage`
+- SQLite-backed `chat_threads` and `chat_messages`
+- first authenticated per-user transcript persistence layered on top of `users`, `agent_runs`, and `agent_run_usage`
 - first `agent_runs` / `agent_run_usage` persistence for attempted OpenAI Agents SDK calls
 - compatibility registry wrappers that keep existing call sites stable
-- `KnowledgeGateway.search(...)` as the single retrieval entrypoint for the public chat runtime
+- `KnowledgeGateway.search(...)` as the single retrieval entrypoint for both public and authenticated chat runtimes
 - normalized gateway evidence and typed non-exception outcomes for empty query, denied access, missing corpus, missing agent, and not-ready corpus
 - OpenAI Vector Store retrieval as the first external provider behind the gateway for direct OpenAI-compatible environments
 - manual public corpus sync to OpenAI Vector Store, including provider IDs and file-level provider state
 
 What is still missing relative to the target architecture:
 
-- authenticated users
+- advanced account management such as profile editing, password reset, and email verification
 - private corpora
 - runtime upload and ingestion flows that populate document metadata tables
 - quota enforcement and usage summary queries
@@ -639,7 +694,7 @@ Official references:
 
 ### FastGPT Cloud
 
-FastGPT is now the selected next production retrieval provider for this project, but only as a knowledge retrieval layer behind `KnowledgeGateway`. It should not replace the existing OpenAI Agents SDK answer-generation path. The runtime shape should be:
+FastGPT is now the implemented production retrieval provider for this project, but only as a knowledge retrieval layer behind `KnowledgeGateway`. It should not replace the existing OpenAI Agents SDK answer-generation path. This slice is already implemented in `web/`. The runtime shape should be:
 
 ```text
 /api/chat
@@ -778,8 +833,9 @@ Current implementation note:
 - The same metadata repository now also creates `users`, `documents`, `ingestion_jobs`, `agent_runs`, and `agent_run_usage` tables.
 - `web/src/corpora/corpus-registry.ts` and `web/src/agents/agent-registry.ts` are now compatibility wrappers over that repository.
 - `web/src/corpora/public-corpora.ts` remains a compatibility wrapper so older callers can still use `{ id, name, directories }`.
+- `chat_threads` and `chat_messages` now persist the first linear per-user chat history model.
 
-This is acceptable for the current public chat MVP. The next architecture step should exercise the new metadata tables through real upload, ingestion, quota, and usage-summary flows while keeping `/api/chat` and `KnowledgeGateway.search(...)` stable.
+This is acceptable for the current public + authenticated chat MVP. The next architecture step should exercise the remaining metadata tables through real upload, ingestion, quota, and usage-summary flows while keeping `/api/public-chat`, `/api/chat`, and `KnowledgeGateway.search(...)` stable.
 
 ## First-Version Implementation Plan
 
@@ -790,7 +846,7 @@ This is acceptable for the current public chat MVP. The next architecture step s
 3. Port `automation/pipelines/opc_knowledge_agent.py` behavior into TypeScript as a local Markdown retriever module.
 4. Port the core ranked retrieval and tool registration tests into Vitest.
 5. Move repository-wide path selection into explicit public corpus definitions for the current MVP slice.
-6. Add a stable `POST /api/chat` path and a browser-facing public assistant UI.
+6. Add a stable public chat path and a browser-facing public assistant UI. Current implementation uses `POST /api/public-chat` for the public homepage.
 
 ### Phase B: Knowledge Gateway Boundary
 
@@ -817,7 +873,7 @@ Completed in the 2026-05-18 metadata migration:
 1. Introduce `web/src/metadata/*` as a server-side metadata boundary.
 2. Add SQLite-backed persistence for default public `agents`, `corpora`, and `agent_corpora`.
 3. Keep `web/src/agents/agent-registry.ts` and `web/src/corpora/corpus-registry.ts` as compatibility wrappers so existing runtime call sites remain stable.
-4. Keep `KnowledgeGateway.search(...)` and `/api/chat` behavior unchanged while swapping metadata reads away from in-memory arrays.
+4. Keep `KnowledgeGateway.search(...)` and the chat API behavior stable while swapping metadata reads away from in-memory arrays.
 5. Add regression coverage for:
    - default public metadata seed
    - reopening the same SQLite file without duplicate seed rows
@@ -825,21 +881,24 @@ Completed in the 2026-05-18 metadata migration:
 
 First follow-up slice after Phase C:
 
-1. `users`, `documents`, `ingestion_jobs`, `agent_runs`, and `agent_run_usage` tables now exist in the SQLite metadata repository.
+1. `users`, `chat_threads`, `chat_messages`, `documents`, `ingestion_jobs`, `agent_runs`, and `agent_run_usage` tables now exist in the SQLite metadata repository.
 2. The OpenAI Agents SDK path now records `agent_runs` rows, and successful SDK runs record token counts in `agent_run_usage` when usage can be parsed.
 3. The public chat route can now call OpenAI Agents SDK with `.env` configured `OPENAI_AGENTS_API_KEY` / `OPENAI_AGENTS_BASE_URL` values, while OpenAI Vector Store retrieval uses separate `OPENAI_VECTOR_STORE_API_KEY` / `OPENAI_VECTOR_STORE_BASE_URL` values. The route streams the generated answer back to the WebUI.
 4. Completed on `2026-05-20`: production relay incompatibility with Agents SDK tool-result submission has a workaround. If the first tool-loop Agent run fails with `500 Upstream gateway error`, the service reuses the already retrieved local evidence and calls a no-tool Agent generation path. This keeps public answers generated instead of falling back to static evidence dumps.
 5. Completed on `2026-05-20`: production retrieval has been reclassified as local Markdown evidence. OpenAI Vector Store can be synced and queried in direct OpenAI-compatible contexts, but it is not a reliable production provider when generation uses a relay/号池 that does not own the Vector Store data.
+6. Completed on `2026-05-21`: `better-auth` email/password authentication, `/sign-in`, `/sign-up`, logged-in `/chat`, thread APIs, and linear thread history persistence are now implemented. The public homepage now uses `POST /api/public-chat`; authenticated threads use `POST /api/chat` with required `threadId` and session ownership checks.
 
 Still remaining after this first follow-up slice:
 
 1. Connect real upload / ingestion flows to `documents` and `ingestion_jobs`.
-2. Add user identity, quota enforcement, usage summaries, and a maintained pricing table for cost estimates.
+2. Add quota enforcement, usage summaries, and a maintained pricing table for cost estimates.
 3. Replace the current seeded public Markdown corpus configuration with a product-facing knowledge-base configuration path.
 4. Implement the confirmed next production retrieval provider: FastGPT behind `KnowledgeGateway`, with local Markdown retrieval retained as public fallback.
-5. Add local FTS/BM25 or another persistent local index only if benchmark queries show that FastGPT plus local fallback does not provide enough retrieval quality, cost control, or operational resilience.
-6. Add eval cases for:
+5. Complete thread management productization: persisted titles, `last_message_at`, rename, archive/unarchive, and delete.
+6. Add local FTS/BM25 or another persistent local index only if benchmark queries show that FastGPT plus local fallback does not provide enough retrieval quality, cost control, or operational resilience.
+7. Add eval cases for:
    - public-only answer
+   - authenticated thread answer
    - public + private answer
    - private corpus access denied
    - private corpus not ready
@@ -866,9 +925,9 @@ delete_corpus
 
 3. Keep OpenAI Agents SDK TypeScript runtime thin: continue calling `KnowledgeGateway.search` and record run usage after each run.
 4. Completed on `2026-05-19`: the first external adapter is now implemented as OpenAI Vector Store retrieval, with manual corpus sync and runtime provider selection in `web/`. `2026-05-20` production testing showed that this adapter cannot be the live provider while the model generation path uses a号池 relay. Additional external adapters should still reuse this interface.
-5. Next confirmed retrieval slice: implement FastGPT as the production retrieval provider behind `KnowledgeGateway`, while keeping local Markdown retrieval as public fallback and keeping OpenAI Agents SDK as the answer generator.
+5. Completed on `2026-05-21`: FastGPT is now implemented as the production retrieval provider behind `KnowledgeGateway`, while keeping local Markdown retrieval as public fallback and keeping OpenAI Agents SDK as the answer generator.
 
-FastGPT retrieval adapter minimum scope:
+FastGPT retrieval adapter delivered scope:
 
 1. Add `fastgpt` / `fastgpt_dataset` provider metadata for corpora.
 2. Add FastGPT environment config, such as API base URL, API key, dataset IDs, token limit, retrieval settings, and fallback behavior.
@@ -914,27 +973,18 @@ Do not spend the next iteration redoing the TypeScript foundation work. That lay
 
 Do not spend the next iteration rebuilding the provider-neutral `Knowledge Gateway` boundary either. That boundary now exists in `web/src/knowledge-gateway/*`, the public chat runtime is already using it, and the first external retrieval adapter is now in place.
 
-The recommended next implementation slice is now `fastgpt-retrieval-provider-spike`. This is a narrower step than full upload and quota productization, because the immediate decision is to move knowledge retrieval off OpenAI Vector Store and onto FastGPT while preserving the existing chat/runtime boundary.
+If the next work item is inside `web/`, the next slice should be website product-surface completion, not offline ingestion plumbing. The website should surface real product data and management actions; the offline sync and indexing flows stay in `automation/` and `web/scripts/`.
 
-1. add FastGPT connection config and provider metadata
-2. implement `fastgpt-provider.ts` behind `KnowledgeProvider.search(...)`
-3. map FastGPT retrieval hits to normalized evidence
-4. select FastGPT through `runtime-provider.ts` when corpus metadata uses `provider = fastgpt`
-5. keep local Markdown retrieval as fallback for public corpora
-6. add tests for provider selection, error states, empty results, and normalized evidence
-7. run a public `opc-core` smoke query through `/api/chat` and confirm the final answer is generated by OpenAI Agents SDK from FastGPT evidence, not by FastGPT Chat
+1. replace mock Agent data with real Agent registry data
+2. expose thread rename / archive / delete, persisted titles, and `last_message_at`
+3. add corpus status, provider status, and sync-state views for operators
+4. add account, usage, and cost pages with basic quota visibility
+5. add clear empty, loading, and provider-error states in the chat workspace
+6. keep upload, sync, and indexing pipelines as scripts or background jobs, not as website front-end features
 
-After this FastGPT retrieval spike is accepted, continue with `upload-ingestion-and-quota-boundaries`:
+## Acceptance Checklist For Current Chat And Gateway Slice
 
-1. connect upload registration to `documents`
-2. connect extraction / indexing state to `ingestion_jobs`
-3. add user identity and quota checks before upload or private corpus selection
-4. add usage summary queries and a maintained model-pricing table for cost estimates
-5. only after usage and document-ingestion metadata boundaries are exercised by runtime code, invest in private uploads, larger local indexes, or additional external knowledge provider adapters beyond FastGPT plus local fallback
-
-## Acceptance Checklist For Current Gateway Slice
-
-Use this checklist to accept the 2026-05-17 Knowledge Gateway migration.
+Use this checklist to accept the current public chat, authenticated thread foundation, and Knowledge Gateway runtime.
 
 ### Code-Level Acceptance
 
@@ -950,8 +1000,8 @@ npm run build
 Expected:
 
 - `npm run typecheck` exits 0 after `next typegen`.
-- `npm test` exits 0; current expected coverage is 21 test files and 75 tests.
-- `npm run build` exits 0 and includes the dynamic `/api/chat` route in the Next.js build output.
+- `npm test` exits 0; current expected coverage is 27 test files and 100 tests.
+- `npm run build` exits 0 and includes dynamic routes for `/api/public-chat`, `/api/chat`, `/api/chat/threads`, `/chat`, `/sign-in`, and `/sign-up`.
 
 Run this direct-import guard:
 
@@ -969,13 +1019,19 @@ Inspect these files:
 - `web/src/knowledge-gateway/local-provider.ts`
 - `web/src/agents/agent-registry.ts`
 - `web/src/corpora/corpus-registry.ts`
+- `web/app/api/public-chat/route.ts`
 - `web/app/api/chat/route.ts`
+- `web/app/api/chat/threads/route.ts`
+- `web/app/api/chat/threads/[threadId]/route.ts`
+- `web/app/api/chat/threads/[threadId]/messages/route.ts`
 
 Expected:
 
 - `KnowledgeGateway.search(...)` returns typed statuses rather than throwing for normal outcomes.
 - Evidence includes `corpusId`, `documentId`, `chunkId`, `title`, `source`, `score`, and `excerpt`.
-- `/api/chat` passes `agentId: "opc-public-assistant"` and `userId: null` into the service.
+- `/api/public-chat` passes `agentId: "opc-public-assistant"` and `userId: null` into the service.
+- `/api/chat` requires a valid session and a `threadId`, verifies thread ownership, persists the latest user turn and assistant turn, and passes the authenticated user id plus `conversationId = threadId` into the service.
+- `/api/chat/threads` returns only threads owned by the signed-in user.
 
 ### Browser Smoke Acceptance
 
@@ -996,7 +1052,7 @@ Expected:
 
 - The home page remains a single centered assistant thread.
 - No sidebar or history UI appears.
-- The request goes to `POST /api/chat`.
+- The request goes to `POST /api/public-chat`.
 - With `OPENAI_AGENTS_API_KEY` unset, the answer uses the evidence fallback path rather than model generation.
 - With `OPENAI_AGENTS_API_KEY` and `OPENAI_AGENTS_BASE_URL` pointing at a Responses-compatible `/v1` endpoint, the answer is generated through OpenAI Agents SDK.
 - Vector Store retrieval is controlled separately by `OPENAI_VECTOR_STORE_API_KEY`, `OPENAI_VECTOR_STORE_BASE_URL`, and corpus metadata provider state.
@@ -1028,22 +1084,23 @@ Invoke-WebRequest -Uri "http://localhost:3026/api/chat" -Method POST -ContentTyp
 
 Expected:
 
-- HTTP status is 200.
+- Public route smoke should use `http://localhost:3026/api/public-chat` with the body above and should return HTTP 200.
 - Response header `x-vercel-ai-data-stream` is `v1`.
 - With OpenAI Agents credentials configured, response body contains Vercel AI data-stream frames for an Agents SDK-generated answer.
 - Without OpenAI Agents credentials configured, response body contains the local-evidence fallback answer path.
 - With the current production relay limitation, response body should contain a generated answer based on local evidence, not the literal `问题：... 以下是当前公共知识库中匹配度最高的证据。` fallback text.
 - Response body must not contain a framework stack trace.
+- Authenticated `/api/chat` route smoke must first create or load a signed-in session and an owned `threadId`; unauthenticated or cross-user requests should return 401 or 404.
 
 ### Known Non-Acceptance Items
 
 Do not block this gateway slice on these items; they are explicitly next-phase work:
 
-- real authenticated users
 - real private corpus upload UI
 - product-facing knowledge-base configuration and corpus selection UI
-- FastGPT retrieval adapter implementation and production smoke
 - upload / extraction / indexing flows that populate `documents` and `ingestion_jobs`
 - quota enforcement and usage summary queries
 - maintained model pricing table for non-zero cost estimates
 - local FTS/BM25 index beyond the current fallback
+- thread rename, archive/unarchive, delete, persisted generated titles, and `last_message_at`
+- advanced account management such as password reset, email verification, and profile editing

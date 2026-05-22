@@ -2,7 +2,18 @@
   "permissions": {
     "allow": [
       "mcp__playwright__browser_navigate",
-      "mcp__playwright__browser_take_screenshot"
+      "mcp__playwright__browser_take_screenshot",
+      "mcp__playwright__browser_snapshot",
+      "mcp__playwright__browser_click",
+      "Bash(npm run *)",
+      "Bash(npm list *)",
+      "Bash(netstat -ano)",
+      "Bash(findstr :3026)",
+      "Bash(taskkill *)",
+      "Bash(grep -E \"\\\\.\\(ts|tsx\\)$\")",
+      "Bash(git add *)",
+      "Bash(grep -E \"\\\\.\\(tsx|ts|jsx|js\\)$\")",
+      "mcp__chrome-devtools__navigate_page"
     ]
   }
 }

@@ -160,6 +160,24 @@ EOF
   fi
 }
 
+ensure_https_certificate() {
+  local cert_dir="/etc/ssl/certs"
+  local key_dir="/etc/ssl/private"
+  local cert_file="${cert_dir}/opc-website-selfsigned.crt"
+  local key_file="${key_dir}/opc-website-selfsigned.key"
+  local cert_subject="/CN=${server_name}"
+
+  run_root mkdir -p "${cert_dir}" "${key_dir}"
+
+  if [ ! -f "${cert_file}" ] || [ ! -f "${key_file}" ]; then
+    run_root openssl req -x509 -nodes -newkey rsa:2048 -days 3650 \
+      -subj "${cert_subject}" \
+      -keyout "${key_file}" \
+      -out "${cert_file}"
+    run_root chmod 600 "${key_file}"
+  fi
+}
+
 write_systemd_unit() {
   local node_path
   node_path="$(command -v node)"
@@ -198,11 +216,26 @@ EOF
 }
 
 write_nginx_site() {
+  ensure_https_certificate
+
   run_root tee "${nginx_site}" >/dev/null <<EOF
 server {
     listen 80 default_server;
     listen [::]:80 default_server;
     server_name ${server_name};
+
+    return 301 https://\$host\$request_uri;
+}
+
+server {
+    listen 443 ssl http2 default_server;
+    listen [::]:443 ssl http2 default_server;
+    server_name ${server_name};
+
+    ssl_certificate /etc/ssl/certs/opc-website-selfsigned.crt;
+    ssl_certificate_key /etc/ssl/private/opc-website-selfsigned.key;
+    ssl_protocols TLSv1.2 TLSv1.3;
+    ssl_prefer_server_ciphers on;
 
     client_max_body_size 20m;
 
@@ -254,6 +287,7 @@ checkout_release() {
     git clone "${repo_url}" "${repo_cache}"
   fi
 
+  git -C "${repo_cache}" remote set-url origin "${repo_url}"
   git -C "${repo_cache}" fetch --prune --tags origin
 
   local target_ref
@@ -297,6 +331,7 @@ sync_knowledge_dirs() {
     git clone "${knowledge_repo_url}" "${knowledge_repo_cache}" >&2
   fi
 
+  git -C "${knowledge_repo_cache}" remote set-url origin "${knowledge_repo_url}" >&2
   git -C "${knowledge_repo_cache}" fetch --prune --tags origin >&2
 
   local target_ref
