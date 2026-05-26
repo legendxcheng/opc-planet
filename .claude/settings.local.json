@@ -13,7 +13,31 @@
       "Bash(grep -E \"\\\\.\\(ts|tsx\\)$\")",
       "Bash(git add *)",
       "Bash(grep -E \"\\\\.\\(tsx|ts|jsx|js\\)$\")",
-      "mcp__chrome-devtools__navigate_page"
+      "mcp__chrome-devtools__navigate_page",
+      "Bash(start msedge *)",
+      "Bash(npm test *)",
+      "Bash(git commit -m 'feat\\(workspace\\): add workspace state management *)",
+      "Bash(git *)",
+      "Bash(xargs -I {} sh -c 'echo \"=== {} ===\" && head -30 {}')",
+      "Bash(npm install *)",
+      "Bash(xargs ls -la)",
+      "Bash(cat next.config.ts)",
+      "Bash(cat next.config.js)",
+      "Bash(cat next.config.mjs)",
+      "Bash(C:\\\\Users\\\\Administrator.DESKTOP-09JQGNK\\\\.claude\\\\plugins\\\\cache\\\\claude-plugins-official\\\\superpowers\\\\5.0.5\\\\scripts\\\\start-server.sh *)",
+      "Bash(node -e \"console.log\\(require\\('tailwindcss/colors'\\)\\)\")",
+      "mcp__chrome-devtools__take_screenshot",
+      "mcp__chrome-devtools__take_snapshot",
+      "mcp__chrome-devtools__evaluate_script",
+      "mcp__playwright__browser_evaluate",
+      "mcp__playwright__browser_navigate_back",
+      "mcp__sequential-thinking__sequentialthinking",
+      "WebSearch",
+      "WebFetch(domain:github.com)",
+      "Bash(xargs grep -l \"useThread\")",
+      "Bash(xargs grep -l \"getDefaultChatUser\\\\|getCurrentUserId\")",
+      "Bash(xargs grep -l \"useRemoteThreadListRuntime\")",
+      "Bash(xargs grep -l \"switchToThread\\\\|switchToNewThread\")"
     ]
   }
 }
